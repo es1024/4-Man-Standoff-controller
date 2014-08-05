@@ -27,10 +27,10 @@ class pool{
 	std::queue<s*> jobs;
 	std::thread *threads[n];
 	std::mutex mtx;
-	volatile int num;
+	volatile int num, idc;
 		
 	public:
-		pool():num(0){
+		pool():num(0), idc(0){
 			for(int i = 0; i < n; ++i){
 				threads[i] = new std::thread(process<s,n,repeats>, this);
 			}
@@ -65,6 +65,7 @@ class pool{
 			s *tmp = nullptr;
 			if(jobs.size()){
 				tmp = jobs.front();
+				tmp->id = idc++;
 				--num;
 				jobs.pop();
 			}

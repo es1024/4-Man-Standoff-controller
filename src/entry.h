@@ -13,7 +13,7 @@ class entry{
 		entry(const char *command, const char *name);
 		entry(const entry &) = default;
 		
-		move run(const std::string &args) const;
+		move run(int id, const std::string &args) const;
 		void add_score(int s);
 		
 		const char *get_name() const;

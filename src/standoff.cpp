@@ -29,7 +29,7 @@ void standoff::operator()(int which){
 
 		// call bots
 		move mv[4];
-		#define ARG(i,j,k,l) mv[i] = entries[i]->run(hps[i]+mvs[i]+" "+hps[j]+mvs[j]+" "+hps[k]+mvs[k]+" "+hps[l]+mvs[l])
+		#define ARG(i,j,k,l) mv[i] = entries[i]->run(id*10+which, hps[i]+mvs[i]+" "+hps[j]+mvs[j]+" "+hps[k]+mvs[k]+" "+hps[l]+mvs[l])
 		ARG(0, 1, 2, 3);
 		ARG(1, 0, 2, 3);
 		ARG(2, 0, 1, 3);

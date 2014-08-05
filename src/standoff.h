@@ -6,6 +6,8 @@ class standoff{
 	entry *entries[4];
 	bool initialized;
 	public:
+		int id;
+		
 		standoff();
 		standoff(entry *e1, entry *e2, entry *e3, entry *e4);
 		void operator()(int which);
