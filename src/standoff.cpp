@@ -62,7 +62,7 @@ void standoff::operator()(int which){
 				if(prep[i] > 0){
 					do4 new_health[i] -= GRENADE_GENERAL_DAMAGE;
 					new_health[mv[i].target] -= GRENADE_TARGET_DAMAGE-GRENADE_GENERAL_DAMAGE;
-					prep[i] = -99999;
+					prep[i] = -1;
 				}else mv[i].act = move::NONE;	
 			default:
 			break;
