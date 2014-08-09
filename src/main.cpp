@@ -10,10 +10,10 @@
 
 // minimum 4
 const char *entry_info[] = { 
+	"Grenadier",				"java -cp ./players/Grenadier Grenadier", 
 	"WhatsHapppening1",			"./players/WhatsHappening/WhatsHappening.sh", 
 	"WhatsHapppening2",			"./players/WhatsHappening/WhatsHappening.sh", 
 	"WhatsHapppening3",			"./players/WhatsHappening/WhatsHappening.sh", 
-	"WhatsHapppening4",			"./players/WhatsHappening/WhatsHappening.sh", 
 };
 
 const int num_threads = 1;
