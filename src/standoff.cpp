@@ -29,15 +29,21 @@ void standoff::operator()(int which){
 
 		// call bots
 		move mv[4];
-		#define ARG(i,j,k,l) mv[i] = entries[i]->run(id*10+which, hps[i]+mvs[i]+" "+hps[j]+mvs[j]+" "+hps[k]+mvs[k]+" "+hps[l]+mvs[l])
-		ARG(0, 1, 2, 3);
-		ARG(1, 0, 2, 3);
-		ARG(2, 0, 1, 3);
-		ARG(3, 0, 1, 2);
+		#define ARG(i,j,k,l) mv[i] = entries[i]->run(id*10+which, hps[i]+mvs[i]+" "+hps[j]+mvs[j]+" "+hps[k]+mvs[k]+" "+hps[l]+mvs[l]); \
+		switch(mv[i].target){ \
+			case 0: mv[i].target = i; break; \
+			case 1: mv[i].target = j; break; \
+			case 2: mv[i].target = k; break; \
+			case 3: mv[i].target = l; break; \
+		}
+		// mixed ordering of targets
+		int a = which % 3, b = (which + 1) % 3, c = (which + 2) % 3;
+		ARG(0, a+1, b+1, c+1);
+		ARG(1, a<1?a:a+1, b<1?b:b+1, c<1?c:c+1);
+		ARG(2, a<2?a:a+1, b<2?b:b+1, c<2?c:c+1);
+		ARG(3, a, b, c);
 		// new hp
 		int new_health[4] = {health[0], health[1], health[2], health[3]};
-		// fix targetting
-		do4 if(mv[i].target <= i) mv[i].target = (mv[i].target + i) % 4;
 		// check stop[i]
 		do4 if(stop[i] > 0) mv[i].act = move::NONE;
 		// process action
