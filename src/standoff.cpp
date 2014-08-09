@@ -22,7 +22,7 @@ void standoff::operator()(int which){
 	int prep[4]={-1,-1,-1,-1}; // cannot throw unles prep[i] > 0. self-destruct on prep[i]==0
 	
 	#define do4 for(int i = 0; i < 4; ++i)
-	while(health[0] > 0 && health[1] > 0 && health[2] > 0 && health[3] > 0 && turn < MAX_TURNS){
+	while((health[0] > 0)+(health[1] > 0) + (health[2] > 0) + (health[3] > 0) > 1 && turn < MAX_TURNS){
 		// convert health to string for calling bots
 		std::string hps[4];
 		do4 hps[i] = std::to_string(health[i]);
