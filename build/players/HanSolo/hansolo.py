@@ -5,7 +5,7 @@ def IsAlive(x):
 
 closestLivingTarget = 1;
 
-for player in sys.argv[1].split()[1:]:
+for player in sys.argv[2].split()[1:]:
   if IsAlive(player):
     action = "S" + str(closestLivingTarget)
     break

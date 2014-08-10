@@ -49,6 +49,7 @@ void standoff::operator()(int which){
 		// process action
 		do4 switch(mv[i].act){
 			case move::SHOOT:
+				stop[i] += 2;
 				new_health[mv[i].target] -= mv[i].target == i ? health[i] + SELF_SHOOT_HP : SHOOT_DAMAGE;
 			break;
 			case move::DODGE:
@@ -115,6 +116,8 @@ void standoff::operator()(int which){
 	for(int i = 0; i < 4; ++i) log << " " << entries[i]->get_name();
 	log << '\n';
 	for(int i = 0; i < 4; ++i) log << std::setw(30) << entries[i]->get_name() << ": " << mvs[i].substr(1) << '\n';
+	log << "Final Health:\n";
+	for(int i = 0; i < 4; ++i) log << std::setw(30) << entries[i]->get_name() << ": " << health[i] << "\n";
 	log.close();
 	system(("echo Generated: `date \"+%Y/%m/%d %H:%M:%S.%N UTC\"` >> " + logfile).c_str()); 
 }

@@ -1,5 +1,5 @@
 import random
 
-array = ["P", "N", "S[0]", "S[1]", "S[2]", "S[3]", "D[1]", "D[2]", "D[3]", "T[1]", "T[2]", "T[3]"]
+array = ["P", "N", "S0", "S1", "S2", "S3", "D1", "D2", "D3", "T1", "T2", "T3"]
 
 print(array[random.randrange(0,11)])

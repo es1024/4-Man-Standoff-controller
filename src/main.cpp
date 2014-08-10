@@ -11,14 +11,14 @@
 // minimum 4
 const char *entry_info[] = { 
 	"Grenadier",					"java -cp ./players/Grenadier Grenadier", 
-	"Pacifist",						"./players/Pacifist/Pacifist", 
-	"Straight Shooter",				"perl ./players/StraightShooter/StraightShooter.perl",
+	"Pacifist",					"./players/Pacifist/Pacifist", 
+	"StraightShooter",				"perl ./players/StraightShooter/StraightShooter.perl",
 	"InputAnalyzer",				"./players/InputAnalyzer/InputAnalyzer", 
-	"Politically Correct Gunman",	"python ./players/PoliticallyCorrectGunman/politicallycorrectgunman.py",
-	"Han Solo",						"python ./players/HanSolo/hansolo.py",
+	"PoliticallyCorrectGunman",			"python ./players/PoliticallyCorrectGunman/politicallycorrectgunman.py",
+	"HanSolo",					"python2 ./players/HanSolo/hansolo.py",
 };
 
-const int num_threads = 1;
+const int num_threads = 8;
 const int num_repeats = 3;
 const int num_entries = sizeof(entry_info)/sizeof(entry_info[0])/2;
 
