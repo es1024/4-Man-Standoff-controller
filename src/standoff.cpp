@@ -108,18 +108,26 @@ void standoff::operator()(int which){
 		}else entries[i]->add_score(ZERO_HEALTH_POINTS + health[i]);
 	}
 	
-	// log entire standoff
-	std::ofstream log;
+	// log entire standoff - commented out because total size of logs scales terribly with more players
+/*	std::ofstream log;
 	std::string logfile = "results/" + std::string("standoff-") + entries[0]->get_name() + "-" + entries[1]->get_name() + "-" + entries[2]->get_name() + "-" + entries[3]->get_name() + "-" + std::to_string(which) + ".log";
 	log.open(logfile);
 	log << "Standoff between:";
-	for(int i = 0; i < 4; ++i) log << " " << entries[i]->get_name();
+	do4 log << " " << entries[i]->get_name();
 	log << '\n';
-	for(int i = 0; i < 4; ++i) log << std::setw(30) << entries[i]->get_name() << ": " << mvs[i].substr(1) << '\n';
+	do4 log << std::setw(30) << entries[i]->get_name() << ": " << mvs[i].substr(1) << '\n';
 	log << "Final Health:\n";
-	for(int i = 0; i < 4; ++i) log << std::setw(30) << entries[i]->get_name() << ": " << health[i] << "\n";
+	do4 log << std::setw(30) << entries[i]->get_name() << ": " << health[i] << "\n";
+	log << "<Player>: <Enemy 1> <Enemy 2> <Enemy 3>\n";
+	#define logord(a,b,c,d) \
+		log << entries[a]->get_name() << ": " << entries[b]->get_name() << " " << entries[c]->get_name() << " " << entries[d]->get_name() << "\n";
+	int a = which % 3, b = (which + 1) % 3, c = (which + 2) % 3;
+	logord(0,a+1,b+1,c+1);
+	logord(1,a+!(a<1),b+!(b<1),c+!(c<1));
+	logord(2,a+!(a<2),b+!(b<2),c+!(c<2));
+	logord(3,a,b,c);
 	log.close();
-	system(("echo Generated: `date \"+%Y/%m/%d %H:%M:%S.%N UTC\"` >> " + logfile).c_str()); 
+	system(("echo Generated: `date \"+%Y/%m/%d %H:%M:%S.%N UTC\"` >> " + logfile).c_str()); */
 }
 
 bool standoff::is_initialized() const { return initialized; }

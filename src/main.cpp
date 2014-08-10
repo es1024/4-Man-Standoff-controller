@@ -11,11 +11,12 @@
 // minimum 4
 const char *entry_info[] = { 
 	"Grenadier",					"java -cp ./players/Grenadier Grenadier", 
-	"Pacifist",					"./players/Pacifist/Pacifist", 
+	"Pacifist",						"./players/Pacifist/Pacifist", 
 	"StraightShooter",				"perl ./players/StraightShooter/StraightShooter.perl",
 	"InputAnalyzer",				"./players/InputAnalyzer/InputAnalyzer", 
-	"PoliticallyCorrectGunman",			"python ./players/PoliticallyCorrectGunman/politicallycorrectgunman.py",
-	"HanSolo",					"python2 ./players/HanSolo/hansolo.py",
+	"PoliticallyCorrectGunman",		"python ./players/PoliticallyCorrectGunman/politicallycorrectgunman.py",
+	"HanSolo",						"python2 ./players/HanSolo/hansolo.py",
+	"DONTNUKEMEBRO",				"lua ./players/DONTNUKEMEBRO/DONTNUKEMEBRO.lua",
 };
 
 const int num_threads = 8;
@@ -51,7 +52,7 @@ int main(){
 
 	// sort entries by score
 	std::sort(&entries[0], &entries[num_entries], [](const entry *lhs, const entry *rhs)->bool{
-		return lhs->get_score() < rhs->get_score();
+		return lhs->get_score() > rhs->get_score();
 	});
 	
 	// number of games each player played: if there are n players, each player played (n-1)choose(4-1) * num_repeats games 
