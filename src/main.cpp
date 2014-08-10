@@ -10,10 +10,12 @@
 
 // minimum 4
 const char *entry_info[] = { 
-	"Grenadier",				"java -cp ./players/Grenadier Grenadier", 
-	"WhatsHapppening1",			"./players/WhatsHappening/WhatsHappening.sh", 
-	"WhatsHapppening2",			"./players/WhatsHappening/WhatsHappening.sh", 
-	"WhatsHapppening3",			"./players/WhatsHappening/WhatsHappening.sh", 
+	"Grenadier",					"java -cp ./players/Grenadier Grenadier", 
+	"Pacifist",						"./players/Pacifist/Pacifist", 
+	"Straight Shooter",				"perl ./players/StraightShooter/StraightShooter.perl",
+	"InputAnalyzer",				"./players/InputAnalyzer/InputAnalyzer", 
+	"Politically Correct Gunman",	"python ./players/PoliticallyCorrectGunman/politicallycorrectgunman.py",
+	"Han Solo",						"python ./players/HanSolo/hansolo.py",
 };
 
 const int num_threads = 1;
