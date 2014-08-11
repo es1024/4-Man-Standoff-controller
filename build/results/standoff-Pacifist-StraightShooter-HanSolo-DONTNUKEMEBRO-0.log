@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter HanSolo DONTNUKEMEBRO
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -15
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter HanSolo DONTNUKEMEBRO
+StraightShooter: Pacifist HanSolo DONTNUKEMEBRO
+HanSolo: Pacifist StraightShooter DONTNUKEMEBRO
+DONTNUKEMEBRO: Pacifist StraightShooter HanSolo
+Generated: 2014/08/11 00:59:31.199480976 UTC

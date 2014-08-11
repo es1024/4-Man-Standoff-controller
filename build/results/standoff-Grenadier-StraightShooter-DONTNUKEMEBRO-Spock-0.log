@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter DONTNUKEMEBRO Spock
+                     Grenadier: P,Tb
+               StraightShooter: Sc,N
+                 DONTNUKEMEBRO: Dd,Sa
+                         Spock: Sa,N
+Final Health:
+                     Grenadier: -2
+               StraightShooter: -3
+                 DONTNUKEMEBRO: 0
+                         Spock: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter DONTNUKEMEBRO Spock
+StraightShooter: Grenadier DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Grenadier StraightShooter Spock
+Spock: Grenadier StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/11 00:59:51.981973845 UTC

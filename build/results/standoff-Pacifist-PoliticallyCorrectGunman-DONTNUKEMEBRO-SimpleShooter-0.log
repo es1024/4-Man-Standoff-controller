@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter
+                      Pacifist: N,N,N,N,N
+      PoliticallyCorrectGunman: N,Dd,P,Sd,N
+                 DONTNUKEMEBRO: Da,Sd,N,Sb,N
+                 SimpleShooter: Sc,N,Sc,N,Sc
+Final Health:
+                      Pacifist: 2
+      PoliticallyCorrectGunman: -3
+                 DONTNUKEMEBRO: -4
+                 SimpleShooter: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter
+PoliticallyCorrectGunman: Pacifist DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Pacifist PoliticallyCorrectGunman SimpleShooter
+SimpleShooter: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/11 00:59:02.454490376 UTC

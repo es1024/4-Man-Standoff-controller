@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter
+               StraightShooter: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sa,N,Dd,Dd,N,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Da,Da,Da,Dd,Dd,Sb,N,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Da,Da,Da,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db
+                 SimpleShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -17
+                 SimpleShooter: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO SimpleShooter PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO SimpleShooter StraightShooter
+DONTNUKEMEBRO: PoliticallyCorrectGunman SimpleShooter StraightShooter
+SimpleShooter: PoliticallyCorrectGunman DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/11 00:58:48.976069042 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter InputAnalyzer Spock
+                     Grenadier: P,Tc
+               StraightShooter: Sd,N
+                 InputAnalyzer: Db,P
+                         Spock: Sb,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -3
+                 InputAnalyzer: -9
+                         Spock: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Spock StraightShooter
+StraightShooter: InputAnalyzer Spock Grenadier
+InputAnalyzer: StraightShooter Spock Grenadier
+Spock: StraightShooter InputAnalyzer Grenadier
+Generated: 2014/08/11 00:59:57.695508351 UTC

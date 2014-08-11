@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO SimpleShooter
+               StraightShooter: Sc,N,Sc,N,Sc,N
+                 InputAnalyzer: Da,Sd,N,Dc,Dc,Sb
+                 DONTNUKEMEBRO: Da,P,Dd,N,N,N
+                 SimpleShooter: Sc,N,Sc,N,N,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -2
+                 DONTNUKEMEBRO: -5
+                 SimpleShooter: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer DONTNUKEMEBRO SimpleShooter
+InputAnalyzer: StraightShooter DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: StraightShooter InputAnalyzer SimpleShooter
+SimpleShooter: StraightShooter InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/11 00:58:52.278876982 UTC

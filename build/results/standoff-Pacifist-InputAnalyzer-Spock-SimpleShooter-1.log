@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Spock SimpleShooter
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd
+                         Spock: Sb,N,Sa,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 SimpleShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+Final Health:
+                      Pacifist: -3
+                 InputAnalyzer: -15
+                         Spock: -15
+                 SimpleShooter: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock SimpleShooter InputAnalyzer
+InputAnalyzer: Spock SimpleShooter Pacifist
+Spock: InputAnalyzer SimpleShooter Pacifist
+SimpleShooter: InputAnalyzer Spock Pacifist
+Generated: 2014/08/11 00:59:21.954209806 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Spock SimpleShooter
+      PoliticallyCorrectGunman: N,N,Dd,Dc,N,Sa
+                       HanSolo: Sc,N,Sc,N,Sc,N
+                         Spock: Sb,N,Sb,N,Sb,N
+                 SimpleShooter: Sa,N,Sa,N,Sa,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -1
+                         Spock: -1
+                 SimpleShooter: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock SimpleShooter HanSolo
+HanSolo: Spock SimpleShooter PoliticallyCorrectGunman
+Spock: HanSolo SimpleShooter PoliticallyCorrectGunman
+SimpleShooter: HanSolo Spock PoliticallyCorrectGunman
+Generated: 2014/08/11 00:58:37.451562760 UTC

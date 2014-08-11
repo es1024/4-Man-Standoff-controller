@@ -17,6 +17,8 @@ const char *entry_info[] = {
 	"PoliticallyCorrectGunman",		"python ./players/PoliticallyCorrectGunman/politicallycorrectgunman.py",
 	"HanSolo",						"python2 ./players/HanSolo/hansolo.py",
 	"DONTNUKEMEBRO",				"lua ./players/DONTNUKEMEBRO/DONTNUKEMEBRO.lua",
+	"Spock",						"python ./players/Spock/Spock.py",
+	"SimpleShooter",				"perl ./players/SimpleShooter/SimpleShooter.perl",
 };
 
 const int num_threads = 8;

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Spock SimpleShooter
+                 InputAnalyzer: Db,P,Sa,N,N
+                       HanSolo: Sa,N,Sa,N,Sd
+                         Spock: Sa,N,Sa,N,N
+                 SimpleShooter: Sc,N,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -12
+                       HanSolo: 2
+                         Spock: -2
+                 SimpleShooter: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Spock SimpleShooter
+HanSolo: InputAnalyzer Spock SimpleShooter
+Spock: InputAnalyzer HanSolo SimpleShooter
+SimpleShooter: InputAnalyzer HanSolo Spock
+Generated: 2014/08/11 00:58:36.211680665 UTC

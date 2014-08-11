@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter HanSolo Spock
+                      Pacifist: N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa
+                       HanSolo: Sd,N,Sd,N,Sd
+                         Spock: Sc,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+               StraightShooter: 5
+                       HanSolo: -1
+                         Spock: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock StraightShooter HanSolo
+StraightShooter: Spock Pacifist HanSolo
+HanSolo: Spock Pacifist StraightShooter
+Spock: HanSolo Pacifist StraightShooter
+Generated: 2014/08/11 00:59:30.614615511 UTC

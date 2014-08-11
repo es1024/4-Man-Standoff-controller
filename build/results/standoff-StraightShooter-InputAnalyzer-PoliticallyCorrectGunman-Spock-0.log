@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman Spock
+               StraightShooter: Sc,N,Sc,N,Sc
+                 InputAnalyzer: Da,Sd,N,Dd,Dd
+      PoliticallyCorrectGunman: Dd,Sd,N,P,N
+                         Spock: Sa,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -4
+                 InputAnalyzer: 2
+      PoliticallyCorrectGunman: -7
+                         Spock: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer PoliticallyCorrectGunman Spock
+InputAnalyzer: StraightShooter PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: StraightShooter InputAnalyzer Spock
+Spock: StraightShooter InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/11 00:58:56.443681987 UTC

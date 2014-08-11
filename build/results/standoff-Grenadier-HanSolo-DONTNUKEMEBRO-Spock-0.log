@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo DONTNUKEMEBRO Spock
+                     Grenadier: P,Tb,N
+                       HanSolo: Sa,N,N
+                 DONTNUKEMEBRO: Da,Sa,N
+                         Spock: Sa,N,Sc
+Final Health:
+                     Grenadier: -4
+                       HanSolo: -3
+                 DONTNUKEMEBRO: 0
+                         Spock: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo DONTNUKEMEBRO Spock
+HanSolo: Grenadier DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Grenadier HanSolo Spock
+Spock: Grenadier HanSolo DONTNUKEMEBRO
+Generated: 2014/08/11 00:59:43.339605653 UTC

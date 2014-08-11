@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer PoliticallyCorrectGunman Spock
+                      Pacifist: N,N,N,N,N,N
+                 InputAnalyzer: Da,Dd,Db,P,Db,Dc
+      PoliticallyCorrectGunman: Sb,N,Sd,N,P,Da
+                         Spock: Sa,N,Sa,N,Sa,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: 2
+                         Spock: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer PoliticallyCorrectGunman Spock
+InputAnalyzer: Pacifist PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: Pacifist InputAnalyzer Spock
+Spock: Pacifist InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/11 00:59:23.401024670 UTC

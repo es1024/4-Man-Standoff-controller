@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman SimpleShooter
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 InputAnalyzer: Dd,Dc,P,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Db,Sb,N,N,Sb,N,Sb,N,P,Db,Sa
+                 SimpleShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+Final Health:
+               StraightShooter: -3
+                 InputAnalyzer: -9
+      PoliticallyCorrectGunman: -4
+                 SimpleShooter: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter InputAnalyzer PoliticallyCorrectGunman
+InputAnalyzer: SimpleShooter StraightShooter PoliticallyCorrectGunman
+PoliticallyCorrectGunman: SimpleShooter StraightShooter InputAnalyzer
+SimpleShooter: PoliticallyCorrectGunman StraightShooter InputAnalyzer
+Generated: 2014/08/11 00:58:57.983026974 UTC

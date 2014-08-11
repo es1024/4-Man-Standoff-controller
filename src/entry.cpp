@@ -9,7 +9,6 @@ entry::entry(const char *command, const char *name):
 	command(command), name(name), score(0) {}
 
 move entry::run(int which, const std::string &args) const {
-	// add time constraints!
 	std::string cmd = "timeout 1 " + std::string(command) + " " + std::to_string(which) + " \"" + args + "\" ";
 	std::FILE *f = popen(cmd.c_str(), "r");
 	if(!f){

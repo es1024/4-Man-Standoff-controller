@@ -19,10 +19,10 @@ struct move{
 	
 	std::string to_string() const {
 		switch(act){
-			case SHOOT: return "S" + std::to_string(target);
-			case DODGE: return "D" + std::to_string(target);
+			case SHOOT: return std::string("S") + (char)('a'+target);
+			case DODGE: return std::string("D") + (char)('a'+target);
 			case PREPARE: return "P";
-			case THROW: return "T" + std::to_string(target);
+			case THROW: return std::string("T") + (char)('a'+target);
 			default: return "N";
 		}
 	}

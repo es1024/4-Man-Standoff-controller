@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist PoliticallyCorrectGunman Spock
+                     Grenadier: P,Tb,N
+                      Pacifist: N,N,N
+      PoliticallyCorrectGunman: N,N,Da
+                         Spock: Sa,N,Sc
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -3
+      PoliticallyCorrectGunman: 0
+                         Spock: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist PoliticallyCorrectGunman Spock
+Pacifist: Grenadier PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: Grenadier Pacifist Spock
+Spock: Grenadier Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/11 01:00:03.207621601 UTC

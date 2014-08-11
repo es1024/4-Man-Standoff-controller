@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer Spock
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                 InputAnalyzer: Dd,Db,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -15
+                 InputAnalyzer: -2
+                         Spock: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock StraightShooter InputAnalyzer
+StraightShooter: Spock Pacifist InputAnalyzer
+InputAnalyzer: Spock Pacifist StraightShooter
+Spock: InputAnalyzer Pacifist StraightShooter
+Generated: 2014/08/11 00:59:42.781656973 UTC

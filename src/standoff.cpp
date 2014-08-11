@@ -7,6 +7,7 @@
 #include <fstream>
 #include <iomanip>
 #include <algorithm>
+#include <cassert>
 
 standoff::standoff(): entries{}, initialized(false) {}
 
@@ -24,12 +25,18 @@ void standoff::operator()(int which){
 	#define do4 for(int i = 0; i < 4; ++i)
 	while((health[0] > 0)+(health[1] > 0) + (health[2] > 0) + (health[3] > 0) > 1 && turn < MAX_TURNS){
 		// convert health to string for calling bots
-		std::string hps[4];
+		std::string hps[4], tmp;
 		do4 hps[i] = std::to_string(health[i]);
 
 		// call bots
 		move mv[4];
-		#define ARG(i,j,k,l) mv[i] = entries[i]->run(id*10+which, hps[i]+mvs[i]+" "+hps[j]+mvs[j]+" "+hps[k]+mvs[k]+" "+hps[l]+mvs[l]); \
+		#define ARG(i,j,k,l) \
+		tmp = hps[i]+mvs[i]+" "+hps[j]+mvs[j]+" "+hps[k]+mvs[k]+" "+hps[l]+mvs[l]; \
+		std::replace(tmp.begin(), tmp.end(), (char)('a'+(i)), '0'); \
+		std::replace(tmp.begin(), tmp.end(), (char)('a'+(j)), '1'); \
+		std::replace(tmp.begin(), tmp.end(), (char)('a'+(k)), '2'); \
+		std::replace(tmp.begin(), tmp.end(), (char)('a'+(l)), '3'); \
+		mv[i] = entries[i]->run(id*10+which, tmp); \
 		switch(mv[i].target){ \
 			case 0: mv[i].target = i; break; \
 			case 1: mv[i].target = j; break; \
@@ -84,6 +91,8 @@ void standoff::operator()(int which){
 			do4 new_health[i] -= GRENADE_GENERAL_DAMAGE;
 			prep[i] = -99999;
 		}
+		// stop dead players from acting
+		do4 if(new_health[i] <= 0) stop[i] = 99999;
 		// copy over changes to health, avoid damaging dead bodies
 		do4 if(health[i] > 0) health[i] = new_health[i];
 		
@@ -109,7 +118,7 @@ void standoff::operator()(int which){
 	}
 	
 	// log entire standoff - commented out because total size of logs scales terribly with more players
-/*	std::ofstream log;
+	std::ofstream log;
 	std::string logfile = "results/" + std::string("standoff-") + entries[0]->get_name() + "-" + entries[1]->get_name() + "-" + entries[2]->get_name() + "-" + entries[3]->get_name() + "-" + std::to_string(which) + ".log";
 	log.open(logfile);
 	log << "Standoff between:";
@@ -127,7 +136,7 @@ void standoff::operator()(int which){
 	logord(2,a+!(a<2),b+!(b<2),c+!(c<2));
 	logord(3,a,b,c);
 	log.close();
-	system(("echo Generated: `date \"+%Y/%m/%d %H:%M:%S.%N UTC\"` >> " + logfile).c_str()); */
+	system(("echo Generated: `date \"+%Y/%m/%d %H:%M:%S.%N UTC\"` >> " + logfile).c_str()); 
 }
 
 bool standoff::is_initialized() const { return initialized; }

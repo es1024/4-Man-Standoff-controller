@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Spock SimpleShooter
+      PoliticallyCorrectGunman: N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Sc,N,Da,Da,Sc,N,Sc,N,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Da,Da,Da,Da,Dd,Dd
+                         Spock: Sb,N,Sa,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 DONTNUKEMEBRO: -19
+                         Spock: -1
+                 SimpleShooter: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock SimpleShooter DONTNUKEMEBRO
+DONTNUKEMEBRO: Spock SimpleShooter PoliticallyCorrectGunman
+Spock: DONTNUKEMEBRO SimpleShooter PoliticallyCorrectGunman
+SimpleShooter: DONTNUKEMEBRO Spock PoliticallyCorrectGunman
+Generated: 2014/08/11 00:58:50.394347645 UTC

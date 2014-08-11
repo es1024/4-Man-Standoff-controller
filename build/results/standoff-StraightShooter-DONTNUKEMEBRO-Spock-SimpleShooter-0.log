@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Spock SimpleShooter
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+Final Health:
+               StraightShooter: -19
+                 DONTNUKEMEBRO: -15
+                         Spock: -3
+                 SimpleShooter: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Spock SimpleShooter
+DONTNUKEMEBRO: StraightShooter Spock SimpleShooter
+Spock: StraightShooter DONTNUKEMEBRO SimpleShooter
+SimpleShooter: StraightShooter DONTNUKEMEBRO Spock
+Generated: 2014/08/11 00:58:45.744606661 UTC

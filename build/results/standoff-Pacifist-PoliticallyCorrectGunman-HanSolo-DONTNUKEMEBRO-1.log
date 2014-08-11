@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman HanSolo DONTNUKEMEBRO
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Da,Da,Da,Db,Db,Db,Sc,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Da,Db,Db,Db,Db,Db,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da
+Final Health:
+                      Pacifist: -15
+      PoliticallyCorrectGunman: -1
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo DONTNUKEMEBRO PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo DONTNUKEMEBRO Pacifist
+HanSolo: PoliticallyCorrectGunman DONTNUKEMEBRO Pacifist
+DONTNUKEMEBRO: PoliticallyCorrectGunman HanSolo Pacifist
+Generated: 2014/08/11 00:59:21.743533791 UTC

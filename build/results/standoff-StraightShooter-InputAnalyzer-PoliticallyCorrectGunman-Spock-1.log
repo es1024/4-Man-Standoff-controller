@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman Spock
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sb,N,Dd,Da,N,Sb,N,N,Dd,Db,Sb,N,Dd,N,N,Sb,N,Sd,N,Sa,N,Db,Sd,N,N,Sd,N,Sd,N,Dd,N,Sd,N,P,Dd,Tb
+                         Spock: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: 2
+                         Spock: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Spock InputAnalyzer
+InputAnalyzer: PoliticallyCorrectGunman Spock StraightShooter
+PoliticallyCorrectGunman: InputAnalyzer Spock StraightShooter
+Spock: InputAnalyzer PoliticallyCorrectGunman StraightShooter
+Generated: 2014/08/11 00:59:03.165387657 UTC

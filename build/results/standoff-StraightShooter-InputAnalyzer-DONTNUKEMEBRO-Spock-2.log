@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO Spock
+               StraightShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Sc,N,P,Db
+                 DONTNUKEMEBRO: Dd,Sd,N,Sd,N
+                         Spock: Sc,N,Sc,N,Sc
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: -4
+                         Spock: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: Spock StraightShooter DONTNUKEMEBRO
+DONTNUKEMEBRO: Spock StraightShooter InputAnalyzer
+Spock: DONTNUKEMEBRO StraightShooter InputAnalyzer
+Generated: 2014/08/11 00:58:59.866338697 UTC

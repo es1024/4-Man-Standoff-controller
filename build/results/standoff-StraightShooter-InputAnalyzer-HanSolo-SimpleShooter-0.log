@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer HanSolo SimpleShooter
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                 InputAnalyzer: Da,Db,Db,Sd,N,Sc,N,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc
+                       HanSolo: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+Final Health:
+               StraightShooter: -19
+                 InputAnalyzer: -15
+                       HanSolo: -3
+                 SimpleShooter: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer HanSolo SimpleShooter
+InputAnalyzer: StraightShooter HanSolo SimpleShooter
+HanSolo: StraightShooter InputAnalyzer SimpleShooter
+SimpleShooter: StraightShooter InputAnalyzer HanSolo
+Generated: 2014/08/11 00:58:57.225385284 UTC

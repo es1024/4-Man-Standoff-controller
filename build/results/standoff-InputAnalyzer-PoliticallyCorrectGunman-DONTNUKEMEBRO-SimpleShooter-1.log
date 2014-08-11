@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter
+                 InputAnalyzer: Dc,Sb,N,Dc,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Da,Da,Da
+                 SimpleShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+Final Health:
+                 InputAnalyzer: -7
+      PoliticallyCorrectGunman: -4
+                 DONTNUKEMEBRO: -18
+                 SimpleShooter: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO SimpleShooter PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO SimpleShooter InputAnalyzer
+DONTNUKEMEBRO: PoliticallyCorrectGunman SimpleShooter InputAnalyzer
+SimpleShooter: PoliticallyCorrectGunman DONTNUKEMEBRO InputAnalyzer
+Generated: 2014/08/11 00:58:43.245619931 UTC

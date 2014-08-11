@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo DONTNUKEMEBRO SimpleShooter
+               StraightShooter: Sc,N,Sc,N,N
+                       HanSolo: Sa,N,Sa,N,Sd
+                 DONTNUKEMEBRO: Db,P,Db,N,N
+                 SimpleShooter: Sc,N,Sc,N,Sc
+Final Health:
+               StraightShooter: -2
+                       HanSolo: 2
+                 DONTNUKEMEBRO: -9
+                 SimpleShooter: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo DONTNUKEMEBRO SimpleShooter
+HanSolo: StraightShooter DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: StraightShooter HanSolo SimpleShooter
+SimpleShooter: StraightShooter HanSolo DONTNUKEMEBRO
+Generated: 2014/08/11 00:58:41.758808816 UTC

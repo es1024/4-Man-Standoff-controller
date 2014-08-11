@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman HanSolo Spock
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+      PoliticallyCorrectGunman: Dc,N,Dd,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+Final Health:
+               StraightShooter: -15
+      PoliticallyCorrectGunman: -3
+                       HanSolo: -1
+                         Spock: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock PoliticallyCorrectGunman HanSolo
+PoliticallyCorrectGunman: Spock StraightShooter HanSolo
+HanSolo: Spock StraightShooter PoliticallyCorrectGunman
+Spock: HanSolo StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/11 00:58:59.967053061 UTC

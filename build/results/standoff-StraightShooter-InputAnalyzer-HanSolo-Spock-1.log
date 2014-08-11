@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer HanSolo Spock
+               StraightShooter: Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,P,Sb,N,N
+                       HanSolo: Sb,N,Sb,N,Sa
+                         Spock: Sb,N,Sb,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -12
+                       HanSolo: 2
+                         Spock: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Spock InputAnalyzer
+InputAnalyzer: HanSolo Spock StraightShooter
+HanSolo: InputAnalyzer Spock StraightShooter
+Spock: InputAnalyzer HanSolo StraightShooter
+Generated: 2014/08/11 00:58:55.056234457 UTC

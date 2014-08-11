@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter DONTNUKEMEBRO SimpleShooter
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                 DONTNUKEMEBRO: Db,P,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+Final Health:
+                      Pacifist: -18
+               StraightShooter: -18
+                 DONTNUKEMEBRO: -5
+                 SimpleShooter: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter DONTNUKEMEBRO SimpleShooter
+StraightShooter: Pacifist DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Pacifist StraightShooter SimpleShooter
+SimpleShooter: Pacifist StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/11 00:59:27.976156855 UTC

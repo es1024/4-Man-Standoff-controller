@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer DONTNUKEMEBRO Spock
+                     Grenadier: P,Td
+                 InputAnalyzer: Dd,Dc
+                 DONTNUKEMEBRO: Da,Sa
+                         Spock: Sc,N
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: 2
+                 DONTNUKEMEBRO: 0
+                         Spock: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: Spock Grenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: Spock Grenadier InputAnalyzer
+Spock: DONTNUKEMEBRO Grenadier InputAnalyzer
+Generated: 2014/08/11 00:59:48.813020294 UTC

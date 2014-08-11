@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter InputAnalyzer PoliticallyCorrectGunman
+                     Grenadier: P,Td
+               StraightShooter: Sa,N
+                 InputAnalyzer: Dd,Sb
+      PoliticallyCorrectGunman: Da,Sc
+Final Health:
+                     Grenadier: 0
+               StraightShooter: 0
+                 InputAnalyzer: 0
+      PoliticallyCorrectGunman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman StraightShooter InputAnalyzer
+StraightShooter: PoliticallyCorrectGunman Grenadier InputAnalyzer
+InputAnalyzer: PoliticallyCorrectGunman Grenadier StraightShooter
+PoliticallyCorrectGunman: InputAnalyzer Grenadier StraightShooter
+Generated: 2014/08/11 01:00:00.246603612 UTC

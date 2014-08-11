@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock SimpleShooter
+                 InputAnalyzer: Dc,P,Da,Dd
+                 DONTNUKEMEBRO: Da,Sc,N,Sc
+                         Spock: Sb,N,Sb,N
+                 SimpleShooter: Sa,N,Sa,N
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: -2
+                         Spock: -2
+                 SimpleShooter: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock SimpleShooter DONTNUKEMEBRO
+DONTNUKEMEBRO: Spock SimpleShooter InputAnalyzer
+Spock: DONTNUKEMEBRO SimpleShooter InputAnalyzer
+SimpleShooter: DONTNUKEMEBRO Spock InputAnalyzer
+Generated: 2014/08/11 00:58:40.694092914 UTC

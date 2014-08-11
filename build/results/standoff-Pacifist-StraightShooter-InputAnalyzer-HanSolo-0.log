@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer HanSolo
+                      Pacifist: N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+                 InputAnalyzer: Da,Dd,Dc,Db,P,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sb
+Final Health:
+                      Pacifist: -4
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                       HanSolo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter InputAnalyzer HanSolo
+StraightShooter: Pacifist InputAnalyzer HanSolo
+InputAnalyzer: Pacifist StraightShooter HanSolo
+HanSolo: Pacifist StraightShooter InputAnalyzer
+Generated: 2014/08/11 00:59:36.715185005 UTC

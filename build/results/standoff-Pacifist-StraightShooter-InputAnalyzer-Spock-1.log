@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer Spock
+                      Pacifist: N,N,N
+               StraightShooter: Sd,N,Sd
+                 InputAnalyzer: Db,P,Sc
+                         Spock: Sb,N,Sb
+Final Health:
+                      Pacifist: 2
+               StraightShooter: -2
+                 InputAnalyzer: -8
+                         Spock: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Spock StraightShooter
+StraightShooter: InputAnalyzer Spock Pacifist
+InputAnalyzer: StraightShooter Spock Pacifist
+Spock: StraightShooter InputAnalyzer Pacifist
+Generated: 2014/08/11 00:59:35.182210006 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist InputAnalyzer SimpleShooter
+                     Grenadier: P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Db,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -18
+                 InputAnalyzer: -3
+                 SimpleShooter: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer SimpleShooter Pacifist
+Pacifist: InputAnalyzer SimpleShooter Grenadier
+InputAnalyzer: Pacifist SimpleShooter Grenadier
+SimpleShooter: Pacifist InputAnalyzer Grenadier
+Generated: 2014/08/11 01:00:18.626799607 UTC

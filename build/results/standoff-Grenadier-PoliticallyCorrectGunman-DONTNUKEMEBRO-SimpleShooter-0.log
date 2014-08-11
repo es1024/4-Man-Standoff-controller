@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter
+                     Grenadier: P,Tb,N
+      PoliticallyCorrectGunman: Dd,Sa,N
+                 DONTNUKEMEBRO: Dd,Sa,N
+                 SimpleShooter: Sc,N,Sc
+Final Health:
+                     Grenadier: -2
+      PoliticallyCorrectGunman: -3
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter
+PoliticallyCorrectGunman: Grenadier DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Grenadier PoliticallyCorrectGunman SimpleShooter
+SimpleShooter: Grenadier PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/11 00:59:43.823736321 UTC

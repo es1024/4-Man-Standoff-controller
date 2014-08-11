@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo DONTNUKEMEBRO SimpleShooter
+                 InputAnalyzer: Db,P,N,N
+                       HanSolo: Sa,N,Sa,N
+                 DONTNUKEMEBRO: Dd,Sd,N,Sd
+                 SimpleShooter: Sc,N,Sc,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 2
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo DONTNUKEMEBRO SimpleShooter
+HanSolo: InputAnalyzer DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: InputAnalyzer HanSolo SimpleShooter
+SimpleShooter: InputAnalyzer HanSolo DONTNUKEMEBRO
+Generated: 2014/08/11 00:58:35.974306125 UTC

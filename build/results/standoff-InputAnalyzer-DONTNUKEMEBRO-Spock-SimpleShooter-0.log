@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock SimpleShooter
+                 InputAnalyzer: Db,P,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Sa,N,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dd,Dd
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: -18
+                         Spock: -2
+                 SimpleShooter: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Spock SimpleShooter
+DONTNUKEMEBRO: InputAnalyzer Spock SimpleShooter
+Spock: InputAnalyzer DONTNUKEMEBRO SimpleShooter
+SimpleShooter: InputAnalyzer DONTNUKEMEBRO Spock
+Generated: 2014/08/11 00:58:40.273743065 UTC

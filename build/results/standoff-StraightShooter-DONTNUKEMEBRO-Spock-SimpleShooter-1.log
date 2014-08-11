@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Spock SimpleShooter
+               StraightShooter: Sd,N,Sd,N,Sd
+                 DONTNUKEMEBRO: Dd,Sc,N,Sc,N
+                         Spock: Sb,N,Sb,N,Sb
+                 SimpleShooter: Sa,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                         Spock: 1
+                 SimpleShooter: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock SimpleShooter DONTNUKEMEBRO
+DONTNUKEMEBRO: Spock SimpleShooter StraightShooter
+Spock: DONTNUKEMEBRO SimpleShooter StraightShooter
+SimpleShooter: DONTNUKEMEBRO Spock StraightShooter
+Generated: 2014/08/11 00:58:46.267021874 UTC
