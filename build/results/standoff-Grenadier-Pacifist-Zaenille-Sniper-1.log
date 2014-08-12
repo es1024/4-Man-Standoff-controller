@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Zaenille Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,Td
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: 2
+                      Zaenille: -2
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Sniper Pacifist
+Pacifist: Zaenille Sniper Grenadier
+Zaenille: Pacifist Sniper Grenadier
+Sniper: Pacifist Zaenille Grenadier
+Generated: 2014/08/12 09:21:20.594788522 UTC

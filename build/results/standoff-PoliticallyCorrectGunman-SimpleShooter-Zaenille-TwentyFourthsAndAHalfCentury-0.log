@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Dd,Dd,Dc,N,N,N,N,N,N,Sc,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Da,Da,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: 5
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+SimpleShooter: PoliticallyCorrectGunman Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: PoliticallyCorrectGunman SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman SimpleShooter Zaenille
+Generated: 2014/08/12 07:21:43.243301268 UTC

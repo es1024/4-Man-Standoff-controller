@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Monkey Bomberman
+                 InputAnalyzer: Db,Dd,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: 0
+                        Monkey: -18
+                     Bomberman: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Monkey Bomberman
+PoliticallyCorrectGunman: InputAnalyzer Monkey Bomberman
+Monkey: InputAnalyzer PoliticallyCorrectGunman Bomberman
+Bomberman: InputAnalyzer PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 06:17:19.549275936 UTC

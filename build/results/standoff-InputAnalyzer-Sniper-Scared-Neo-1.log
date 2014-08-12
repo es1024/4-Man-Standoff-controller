@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Sniper Scared Neo
+                 InputAnalyzer: Dc,Db,Da,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,N,N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sb
+                           Neo: N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                        Sniper: -1
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Neo Sniper
+Sniper: Scared Neo InputAnalyzer
+Scared: Sniper Neo InputAnalyzer
+Neo: Sniper Scared InputAnalyzer
+Generated: 2014/08/12 09:51:37.507934901 UTC

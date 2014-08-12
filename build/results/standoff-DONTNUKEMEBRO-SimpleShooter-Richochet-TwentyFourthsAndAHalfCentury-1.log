@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Richochet TwentyFourthsAndAHalfCentury
+                 DONTNUKEMEBRO: Db,Db,P,Tb
+                 SimpleShooter: Sa,N,Sd,N
+                     Richochet: Sa,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Dc,N,Dc,Da
+Final Health:
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -3
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Richochet TwentyFourthsAndAHalfCentury SimpleShooter
+SimpleShooter: Richochet TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+Richochet: SimpleShooter TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: SimpleShooter Richochet DONTNUKEMEBRO
+Generated: 2014/08/12 09:52:25.558458951 UTC

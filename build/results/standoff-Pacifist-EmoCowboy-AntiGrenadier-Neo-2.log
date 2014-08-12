@@ -1,0 +1,16 @@
+Standoff between: Pacifist EmoCowboy AntiGrenadier Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Da,N,N,Da,Da,N,Da,Da,N,N,N,N,N,N,N,N,N,N,Da,N,Da,Da,N,N,N,N,Da,N,Da,N,N,N,N,N,N,N,N,N,Da,Da,N,N,N
+Final Health:
+                      Pacifist: -15
+                     EmoCowboy: -2
+                 AntiGrenadier: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo EmoCowboy AntiGrenadier
+EmoCowboy: Neo Pacifist AntiGrenadier
+AntiGrenadier: Neo Pacifist EmoCowboy
+Neo: AntiGrenadier Pacifist EmoCowboy
+Generated: 2014/08/12 06:53:27.505665539 UTC

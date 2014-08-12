@@ -1,0 +1,16 @@
+Standoff between: Aggressor Rule0Bot Scared CourageTheDog
+                     Aggressor: P,Td
+                      Rule0Bot: N,Sa
+                        Scared: Sa,N
+                 CourageTheDog: Sb,N
+Final Health:
+                     Aggressor: -2
+                      Rule0Bot: 0
+                        Scared: 2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Rule0Bot Scared
+Rule0Bot: CourageTheDog Aggressor Scared
+Scared: CourageTheDog Aggressor Rule0Bot
+CourageTheDog: Scared Aggressor Rule0Bot
+Generated: 2014/08/12 08:21:20.205094789 UTC

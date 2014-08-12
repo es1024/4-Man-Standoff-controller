@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Zaenille TwentyFourthsAndAHalfCentury
+                         Spock: Sd,N,Sb
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,N
+Final Health:
+                         Spock: 0
+                     Aggressor: 0
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: TwentyFourthsAndAHalfCentury Aggressor Zaenille
+Aggressor: TwentyFourthsAndAHalfCentury Spock Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Spock Aggressor
+TwentyFourthsAndAHalfCentury: Zaenille Spock Aggressor
+Generated: 2014/08/12 08:43:26.838411085 UTC

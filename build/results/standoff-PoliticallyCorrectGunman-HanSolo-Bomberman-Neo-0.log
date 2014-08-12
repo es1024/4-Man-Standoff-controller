@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Bomberman Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Dc,N,N,Dc,N,Dc,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 5
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Bomberman Neo
+HanSolo: PoliticallyCorrectGunman Bomberman Neo
+Bomberman: PoliticallyCorrectGunman HanSolo Neo
+Neo: PoliticallyCorrectGunman HanSolo Bomberman
+Generated: 2014/08/12 08:00:03.706840105 UTC

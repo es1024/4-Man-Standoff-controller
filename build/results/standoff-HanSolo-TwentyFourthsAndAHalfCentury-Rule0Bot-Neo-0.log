@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Rule0Bot Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dd,Da,Dc,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,Dc,N,Dc,N,N,N,N,N,N,N,Dc,Dc,N,N,Da,Sa,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury Rule0Bot Neo
+TwentyFourthsAndAHalfCentury: HanSolo Rule0Bot Neo
+Rule0Bot: HanSolo TwentyFourthsAndAHalfCentury Neo
+Neo: HanSolo TwentyFourthsAndAHalfCentury Rule0Bot
+Generated: 2014/08/12 07:48:45.191989498 UTC

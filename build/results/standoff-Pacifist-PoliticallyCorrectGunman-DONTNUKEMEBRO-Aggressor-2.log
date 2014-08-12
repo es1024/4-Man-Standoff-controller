@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO Aggressor
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dc,N,Dc,N,Dd,Dd,Sd,N,N,N,N,N,N,N,N,N,N,N,Da,N,Sa
+                 DONTNUKEMEBRO: Db,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+      PoliticallyCorrectGunman: 2
+                 DONTNUKEMEBRO: -3
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor PoliticallyCorrectGunman DONTNUKEMEBRO
+PoliticallyCorrectGunman: Aggressor Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor Pacifist PoliticallyCorrectGunman
+Aggressor: DONTNUKEMEBRO Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 06:38:01.640495930 UTC

@@ -1,16 +1,16 @@
 Standoff between: Grenadier InputAnalyzer HanSolo Spock
-                     Grenadier: P,Tb
-                 InputAnalyzer: Dd,P
-                       HanSolo: Sd,N
-                         Spock: Sc,N
+                     Grenadier: N,P,Tb
+                 InputAnalyzer: Dd,Sc,N
+                       HanSolo: Sd,N,Sd
+                         Spock: Sc,N,Sc
 Final Health:
-                     Grenadier: -1
-                 InputAnalyzer: -9
-                       HanSolo: -3
-                         Spock: -3
+                     Grenadier: 2
+                 InputAnalyzer: -3
+                       HanSolo: -4
+                         Spock: -2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: Spock InputAnalyzer HanSolo
 InputAnalyzer: Spock Grenadier HanSolo
 HanSolo: Spock Grenadier InputAnalyzer
 Spock: HanSolo Grenadier InputAnalyzer
-Generated: 2014/08/11 00:59:50.323146666 UTC
+Generated: 2014/08/12 06:56:26.497887501 UTC

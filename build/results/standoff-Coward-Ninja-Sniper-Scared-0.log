@@ -1,0 +1,16 @@
+Standoff between: Coward Ninja Sniper Scared
+                        Coward: Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                         Ninja: Dc,Dd,Dd,Da,Dc,Dc,Da,Db,Db,Da,Dc,Db,Da,Dc,Dc
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                         Ninja: -1
+                        Sniper: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Sniper Scared
+Ninja: Coward Sniper Scared
+Sniper: Coward Ninja Scared
+Scared: Coward Ninja Sniper
+Generated: 2014/08/12 09:35:34.512967541 UTC

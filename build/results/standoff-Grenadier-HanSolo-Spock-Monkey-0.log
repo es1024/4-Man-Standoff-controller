@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Spock Monkey
+                     Grenadier: N,P,N
+                       HanSolo: Sa,N,Sc
+                         Spock: Sa,N,Sb
+                        Monkey: N,Sa,N
+Final Health:
+                     Grenadier: -7
+                       HanSolo: 0
+                         Spock: 0
+                        Monkey: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Spock Monkey
+HanSolo: Grenadier Spock Monkey
+Spock: Grenadier HanSolo Monkey
+Monkey: Grenadier HanSolo Spock
+Generated: 2014/08/12 08:37:09.675109731 UTC

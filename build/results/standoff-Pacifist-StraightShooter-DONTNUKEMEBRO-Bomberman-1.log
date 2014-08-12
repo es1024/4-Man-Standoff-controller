@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter DONTNUKEMEBRO Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 DONTNUKEMEBRO: Dd,Db,Da,Da,Db,Db,Dd,Dd,Dd,Da,Da,Db,Dd,Da,Db,Dd,Da,Dd,Da,Db,Db,Db,Dd,Da,Db,Dd,Da,Da,Da,Dd,Db,Da,Dd,Db,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -15
+                 DONTNUKEMEBRO: -15
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO Bomberman StraightShooter
+StraightShooter: DONTNUKEMEBRO Bomberman Pacifist
+DONTNUKEMEBRO: StraightShooter Bomberman Pacifist
+Bomberman: StraightShooter DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 10:06:50.529473982 UTC

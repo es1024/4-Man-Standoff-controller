@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Ninja Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sa,N,N,Sc,N,Sc,N,Dd,N,N,N,Dc,Dd,N,P,Dc,Dd
+                         Ninja: Dc,Da,Dc,Db,Dc,Db,Da,Db,Da,Dc,Db,Dc,Dd,Da,Da,Dc,Dd,Dc
+                           Neo: N,N,Dc,Dc,Dc,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N,Dc
+Final Health:
+                      Pacifist: 0
+      PoliticallyCorrectGunman: -1
+                         Ninja: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Ninja Neo
+PoliticallyCorrectGunman: Pacifist Ninja Neo
+Ninja: Pacifist PoliticallyCorrectGunman Neo
+Neo: Pacifist PoliticallyCorrectGunman Ninja
+Generated: 2014/08/12 09:43:05.997289346 UTC

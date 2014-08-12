@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Spock Sniper
+                     Grenadier: P,Tb
+                       HanSolo: Sd,N
+                         Spock: Sd,N
+                        Sniper: Sc,N
+Final Health:
+                     Grenadier: 2
+                       HanSolo: -3
+                         Spock: 0
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper HanSolo Spock
+HanSolo: Sniper Grenadier Spock
+Spock: Sniper Grenadier HanSolo
+Sniper: Spock Grenadier HanSolo
+Generated: 2014/08/12 06:21:34.688713528 UTC

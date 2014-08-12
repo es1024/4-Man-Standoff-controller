@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey Ninja Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dc,Dd,Db,Da,Dd,Db,Da,Dd,Dc,Db,Da,Dc,Dc,Da,Dd,Db,Dd,Dc,Dd,Dc,Da,Dc,Da,Da,Dc,Da,Dd,Da,Db
+                        Scared: N,N,N,N,Sb,N,Sc,N,Sa,N,Sc,N,Sa,N,Sc,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+                        Monkey: -2
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey Ninja Scared
+Monkey: Pacifist Ninja Scared
+Ninja: Pacifist Monkey Scared
+Scared: Pacifist Monkey Ninja
+Generated: 2014/08/12 08:20:15.691820131 UTC

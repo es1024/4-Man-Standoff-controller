@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet AntiGrenadier Neo
+                         Spock: Sc,N,Sc,N,Sc,N,Sd,N,N,N,N,N,N
+                     Richochet: Sc,N,Sc,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                 AntiGrenadier: -3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Neo Richochet
+Richochet: AntiGrenadier Neo Spock
+AntiGrenadier: Richochet Neo Spock
+Neo: Richochet AntiGrenadier Spock
+Generated: 2014/08/12 08:35:48.377189305 UTC

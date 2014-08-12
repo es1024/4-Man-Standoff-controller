@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Coward Sniper
+                 InputAnalyzer: Dc,P,Sa,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N
+                        Coward: Sa,N,Sa,N,N
+                        Sniper: Sc,N,Sa,N,Sb
+Final Health:
+                 InputAnalyzer: -12
+      PoliticallyCorrectGunman: 0
+                        Coward: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Sniper PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Coward Sniper InputAnalyzer
+Coward: PoliticallyCorrectGunman Sniper InputAnalyzer
+Sniper: PoliticallyCorrectGunman Coward InputAnalyzer
+Generated: 2014/08/12 10:04:46.165210856 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd,N,Sd,N
+                 InputAnalyzer: Dc,Sa,N,P,Sc,N
+                 SimpleShooter: Sa,N,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N
+Final Health:
+               StraightShooter: -2
+                 InputAnalyzer: -5
+                 SimpleShooter: 0
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter TwentyFourthsAndAHalfCentury InputAnalyzer
+InputAnalyzer: SimpleShooter TwentyFourthsAndAHalfCentury StraightShooter
+SimpleShooter: InputAnalyzer TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: InputAnalyzer SimpleShooter StraightShooter
+Generated: 2014/08/12 06:16:02.379305902 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman SimpleShooter Sniper
+                 InputAnalyzer: Dc,Db,N
+      PoliticallyCorrectGunman: P,Tc,Sd
+                 SimpleShooter: Sa,N,N
+                        Sniper: Sa,N,Sb
+Final Health:
+                 InputAnalyzer: 0
+      PoliticallyCorrectGunman: 0
+                 SimpleShooter: -3
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Sniper PoliticallyCorrectGunman
+PoliticallyCorrectGunman: SimpleShooter Sniper InputAnalyzer
+SimpleShooter: PoliticallyCorrectGunman Sniper InputAnalyzer
+Sniper: PoliticallyCorrectGunman SimpleShooter InputAnalyzer
+Generated: 2014/08/12 09:12:01.142071907 UTC

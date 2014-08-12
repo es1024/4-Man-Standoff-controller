@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Spock CourageTheDog
+                 InputAnalyzer: Db,P,Da,Sb
+                       HanSolo: Sa,N,Sa,N
+                         Spock: Sa,N,N,N
+                 CourageTheDog: Sb,N,P,Tc
+Final Health:
+                 InputAnalyzer: -8
+                       HanSolo: -5
+                         Spock: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Spock CourageTheDog
+HanSolo: InputAnalyzer Spock CourageTheDog
+Spock: InputAnalyzer HanSolo CourageTheDog
+CourageTheDog: InputAnalyzer HanSolo Spock
+Generated: 2014/08/12 10:13:38.753221066 UTC

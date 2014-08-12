@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Coward Rule0Bot
+                     Grenadier: N,N,P,N,N
+                         Spock: Sd,N,Sd,N,Sa
+                        Coward: Sb,N,Sb,N,Sb
+                      Rule0Bot: N,N,N,Sa,N
+Final Health:
+                     Grenadier: -5
+                         Spock: -4
+                        Coward: 2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Spock Coward
+Spock: Rule0Bot Grenadier Coward
+Coward: Rule0Bot Grenadier Spock
+Rule0Bot: Coward Grenadier Spock
+Generated: 2014/08/12 06:02:46.824584749 UTC

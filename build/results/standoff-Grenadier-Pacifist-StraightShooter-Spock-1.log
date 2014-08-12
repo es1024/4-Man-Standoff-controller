@@ -1,16 +1,16 @@
 Standoff between: Grenadier Pacifist StraightShooter Spock
-                     Grenadier: P,Tc
-                      Pacifist: N,N
-               StraightShooter: Sd,N
-                         Spock: Sb,N
+                     Grenadier: N,P,N,N
+                      Pacifist: N,N,N,N
+               StraightShooter: Sd,N,Sd,N
+                         Spock: Sb,N,Sb,N
 Final Health:
-                     Grenadier: 2
-                      Pacifist: 0
-               StraightShooter: -3
-                         Spock: 0
+                     Grenadier: -1
+                      Pacifist: -2
+               StraightShooter: 2
+                         Spock: -2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: StraightShooter Spock Pacifist
 Pacifist: StraightShooter Spock Grenadier
 StraightShooter: Pacifist Spock Grenadier
 Spock: Pacifist StraightShooter Grenadier
-Generated: 2014/08/11 01:00:14.049044933 UTC
+Generated: 2014/08/12 09:44:21.165725936 UTC

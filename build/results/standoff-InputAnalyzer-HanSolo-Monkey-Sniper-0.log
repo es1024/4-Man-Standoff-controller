@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Monkey Sniper
+                 InputAnalyzer: Db,Dd,P,Sc,N
+                       HanSolo: Sa,N,Sa,N,Sa
+                        Monkey: N,N,N,Sb,N
+                        Sniper: Sa,N,Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -9
+                       HanSolo: -2
+                        Monkey: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Monkey Sniper
+HanSolo: InputAnalyzer Monkey Sniper
+Monkey: InputAnalyzer HanSolo Sniper
+Sniper: InputAnalyzer HanSolo Monkey
+Generated: 2014/08/12 07:54:33.597323846 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Bomberman Ninja
+                 SimpleShooter: Sb,N,Sd
+                     Aggressor: P,Tc,N
+                     Bomberman: N,N,N
+                         Ninja: Dd,Dc,Db
+Final Health:
+                 SimpleShooter: 2
+                     Aggressor: 0
+                     Bomberman: -3
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Ninja Aggressor
+Aggressor: Bomberman Ninja SimpleShooter
+Bomberman: Aggressor Ninja SimpleShooter
+Ninja: Aggressor Bomberman SimpleShooter
+Generated: 2014/08/12 07:49:19.541889704 UTC

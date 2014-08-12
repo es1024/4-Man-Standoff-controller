@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Richochet Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sa,N,Sc,N,Sa
+                     Richochet: Sa,N,Sd,N,Sb,N,Sd,N,Sb,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 1
+                     Richochet: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman SimpleShooter Richochet
+SimpleShooter: Bomberman Pacifist Richochet
+Richochet: Bomberman Pacifist SimpleShooter
+Bomberman: Richochet Pacifist SimpleShooter
+Generated: 2014/08/12 06:10:55.714804178 UTC

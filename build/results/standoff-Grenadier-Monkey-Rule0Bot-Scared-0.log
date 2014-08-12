@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Rule0Bot Scared
+                     Grenadier: N,N,N,P,Tb
+                        Monkey: N,N,N,N,N
+                      Rule0Bot: N,N,N,N,Sa
+                        Scared: Sa,N,Sc,N,Sa
+Final Health:
+                     Grenadier: -4
+                        Monkey: -3
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Rule0Bot Scared
+Monkey: Grenadier Rule0Bot Scared
+Rule0Bot: Grenadier Monkey Scared
+Scared: Grenadier Monkey Rule0Bot
+Generated: 2014/08/12 08:02:50.131946241 UTC

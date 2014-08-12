@@ -1,0 +1,16 @@
+Standoff between: Spock Sniper Neo CourageTheDog
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,Sb,N,Db,Db,Db,Db,Db,Sb,N,Db,Sb
+Final Health:
+                         Spock: -1
+                        Sniper: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Neo CourageTheDog Sniper
+Sniper: Neo CourageTheDog Spock
+Neo: Sniper CourageTheDog Spock
+CourageTheDog: Sniper Neo Spock
+Generated: 2014/08/12 05:45:11.636142619 UTC

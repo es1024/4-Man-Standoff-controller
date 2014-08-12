@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Aggressor Richochet
+               StraightShooter: Sb,N,Sb
+                         Spock: N,N,N
+                     Aggressor: P,Td,Sa
+                     Richochet: Sb,N,N
+Final Health:
+               StraightShooter: 0
+                         Spock: -2
+                     Aggressor: 2
+                     Richochet: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Spock Aggressor
+Spock: Richochet StraightShooter Aggressor
+Aggressor: Richochet StraightShooter Spock
+Richochet: Aggressor StraightShooter Spock
+Generated: 2014/08/12 09:36:17.855229448 UTC

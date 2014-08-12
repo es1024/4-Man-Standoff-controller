@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Ninja CourageTheDog
+                         Spock: Sb,N,N,N
+                     Aggressor: P,Ta,N,N
+                         Ninja: Dd,Dd,Dc,Dc
+                 CourageTheDog: Sc,N,Dc,Sc
+Final Health:
+                         Spock: -3
+                     Aggressor: 0
+                         Ninja: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Aggressor Ninja CourageTheDog
+Aggressor: Spock Ninja CourageTheDog
+Ninja: Spock Aggressor CourageTheDog
+CourageTheDog: Spock Aggressor Ninja
+Generated: 2014/08/12 08:17:07.051907297 UTC

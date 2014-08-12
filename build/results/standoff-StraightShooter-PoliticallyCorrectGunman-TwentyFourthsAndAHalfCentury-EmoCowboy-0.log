@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury EmoCowboy
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Sa,N,Da,N,N,Da,P,Sa,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -2
+      PoliticallyCorrectGunman: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury EmoCowboy
+PoliticallyCorrectGunman: StraightShooter TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: StraightShooter PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: StraightShooter PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:52:52.107963677 UTC

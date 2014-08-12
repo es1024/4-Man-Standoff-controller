@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille TwentyFourthsAndAHalfCentury EmoCowboy
+                        Coward: Sd,N,Sc,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Sa,N,Sa,N,Sa
+                     EmoCowboy: Sd,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille TwentyFourthsAndAHalfCentury EmoCowboy
+Zaenille: Coward TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Coward Zaenille EmoCowboy
+EmoCowboy: Coward Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:48:55.180072700 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -3
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+Zaenille: Aggressor TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Aggressor Zaenille AntiGrenadier
+AntiGrenadier: Aggressor Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:12:00.178642900 UTC

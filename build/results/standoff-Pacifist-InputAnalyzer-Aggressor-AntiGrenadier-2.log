@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Aggressor AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Sd,N,Dc,P,Sd,N
+                     Aggressor: P,Td,N,N,N,N,N,N
+                 AntiGrenadier: N,Sc,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -4
+                     Aggressor: 0
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier InputAnalyzer Aggressor
+InputAnalyzer: AntiGrenadier Pacifist Aggressor
+Aggressor: AntiGrenadier Pacifist InputAnalyzer
+AntiGrenadier: Aggressor Pacifist InputAnalyzer
+Generated: 2014/08/12 10:48:11.203391321 UTC

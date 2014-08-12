@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dc,Dd,Da,Da,Dd,Da,Dd,Dc,Dd,Dc,Da,Dc,Dc,Sd,N,Da,Sd,N,Dd,Da,Sd,N,Dd,Dc,Dc,Dc
+  TwentyFourthsAndAHalfCentury: N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Db,Db,Da,Sa,N,Sa,N,Db,Sb,N,Db,Sb,N,Db,Db,Sb,N,Db,N,N,Db,Db,Sb
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury CourageTheDog HanSolo
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO CourageTheDog HanSolo
+CourageTheDog: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury HanSolo
+Generated: 2014/08/12 09:53:57.804640610 UTC

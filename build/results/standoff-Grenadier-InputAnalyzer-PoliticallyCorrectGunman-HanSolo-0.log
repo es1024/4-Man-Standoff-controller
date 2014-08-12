@@ -1,16 +1,16 @@
 Standoff between: Grenadier InputAnalyzer PoliticallyCorrectGunman HanSolo
-                     Grenadier: P,Tb
-                 InputAnalyzer: Da,Sd
-      PoliticallyCorrectGunman: Sa,N
-                       HanSolo: Sa,N
+                     Grenadier: N,P,N,N
+                 InputAnalyzer: Da,P,Dd,N
+      PoliticallyCorrectGunman: N,Db,Sc,N
+                       HanSolo: Sa,N,Sa,N
 Final Health:
-                     Grenadier: -2
-                 InputAnalyzer: -3
-      PoliticallyCorrectGunman: 2
-                       HanSolo: 0
+                     Grenadier: -8
+                 InputAnalyzer: -4
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: InputAnalyzer PoliticallyCorrectGunman HanSolo
 InputAnalyzer: Grenadier PoliticallyCorrectGunman HanSolo
 PoliticallyCorrectGunman: Grenadier InputAnalyzer HanSolo
 HanSolo: Grenadier InputAnalyzer PoliticallyCorrectGunman
-Generated: 2014/08/11 00:59:50.531897277 UTC
+Generated: 2014/08/12 08:32:44.861706771 UTC

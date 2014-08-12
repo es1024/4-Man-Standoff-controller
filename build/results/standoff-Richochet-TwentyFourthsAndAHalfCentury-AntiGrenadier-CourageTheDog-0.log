@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury AntiGrenadier CourageTheDog
+                     Richochet: Sc,N,Sd,N,Sc,N,Sd,N,Sb,N,Sb,N,Sd,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Dc,Dd,Da,Dd,Da,N,Da,Dd,Da,Dd,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Sa,N,Sc,N,Db,Db,Da,Sa,N,Da,Db,Da,Sa,N
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: TwentyFourthsAndAHalfCentury AntiGrenadier CourageTheDog
+TwentyFourthsAndAHalfCentury: Richochet AntiGrenadier CourageTheDog
+AntiGrenadier: Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Richochet TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 05:59:44.717523686 UTC

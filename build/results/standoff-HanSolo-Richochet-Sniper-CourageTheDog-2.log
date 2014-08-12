@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Sniper CourageTheDog
+                       HanSolo: Sd,N,Sb,N,Sb,N,Sb
+                     Richochet: Sd,N,Sc,N,Sc,N,Sc
+                        Sniper: Sd,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                     Richochet: -1
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Richochet Sniper
+Richochet: CourageTheDog HanSolo Sniper
+Sniper: CourageTheDog HanSolo Richochet
+CourageTheDog: Sniper HanSolo Richochet
+Generated: 2014/08/12 10:09:38.685348540 UTC

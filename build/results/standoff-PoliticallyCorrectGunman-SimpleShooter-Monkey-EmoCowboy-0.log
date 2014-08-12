@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Monkey EmoCowboy
+      PoliticallyCorrectGunman: N,Sd,N,N,N,N,Dc,N,P,Sd
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sc,N,Sa,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Sa
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -7
+                 SimpleShooter: 2
+                        Monkey: -2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Monkey EmoCowboy
+SimpleShooter: PoliticallyCorrectGunman Monkey EmoCowboy
+Monkey: PoliticallyCorrectGunman SimpleShooter EmoCowboy
+EmoCowboy: PoliticallyCorrectGunman SimpleShooter Monkey
+Generated: 2014/08/12 09:36:41.923522851 UTC

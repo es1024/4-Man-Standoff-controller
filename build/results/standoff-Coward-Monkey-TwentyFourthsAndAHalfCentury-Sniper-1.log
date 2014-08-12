@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey TwentyFourthsAndAHalfCentury Sniper
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Dd,N,Da,Dd,Dd,Dd,Dd,N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury Sniper Monkey
+Monkey: TwentyFourthsAndAHalfCentury Sniper Coward
+TwentyFourthsAndAHalfCentury: Monkey Sniper Coward
+Sniper: Monkey TwentyFourthsAndAHalfCentury Coward
+Generated: 2014/08/12 05:48:29.281890804 UTC

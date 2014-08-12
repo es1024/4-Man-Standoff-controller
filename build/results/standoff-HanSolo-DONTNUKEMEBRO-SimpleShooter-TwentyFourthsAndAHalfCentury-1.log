@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO SimpleShooter TwentyFourthsAndAHalfCentury
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dc,Dd,Dd,Da,Dc,Dc,Sc,N,Dc,Dd,Dd,Da,Dd,Da,Sa,N,Sa
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Db,Db,Da,Db,Da,N,Db,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter TwentyFourthsAndAHalfCentury HanSolo
+SimpleShooter: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury HanSolo
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO SimpleShooter HanSolo
+Generated: 2014/08/12 05:50:27.657870678 UTC

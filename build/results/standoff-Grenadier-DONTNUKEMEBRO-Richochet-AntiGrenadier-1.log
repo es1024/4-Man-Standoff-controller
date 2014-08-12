@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Richochet AntiGrenadier
+                     Grenadier: P,N,N,N,N
+                 DONTNUKEMEBRO: Da,Sa,N,Dd,Da
+                     Richochet: Sa,N,Sd,N,Sb
+                 AntiGrenadier: N,Sa,N,N,N
+Final Health:
+                     Grenadier: -7
+                 DONTNUKEMEBRO: 0
+                     Richochet: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet AntiGrenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: Richochet AntiGrenadier Grenadier
+Richochet: DONTNUKEMEBRO AntiGrenadier Grenadier
+AntiGrenadier: DONTNUKEMEBRO Richochet Grenadier
+Generated: 2014/08/12 09:09:14.825440848 UTC

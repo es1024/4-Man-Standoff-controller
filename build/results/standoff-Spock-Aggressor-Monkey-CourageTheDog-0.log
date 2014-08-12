@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Monkey CourageTheDog
+                         Spock: Sb,N,N,N
+                     Aggressor: P,Ta,N,N
+                        Monkey: N,N,N,Dc
+                 CourageTheDog: Sb,N,Dc,Sc
+Final Health:
+                         Spock: -3
+                     Aggressor: -2
+                        Monkey: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Aggressor Monkey CourageTheDog
+Aggressor: Spock Monkey CourageTheDog
+Monkey: Spock Aggressor CourageTheDog
+CourageTheDog: Spock Aggressor Monkey
+Generated: 2014/08/12 05:43:37.448082355 UTC

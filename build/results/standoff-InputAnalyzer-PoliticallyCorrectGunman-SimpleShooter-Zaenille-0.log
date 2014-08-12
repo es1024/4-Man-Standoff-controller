@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman SimpleShooter Zaenille
+                 InputAnalyzer: Db,Dd,Da,Db,Sa,N,N,N,N
+      PoliticallyCorrectGunman: Dd,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sb,N,Sb
+                      Zaenille: Sd,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman SimpleShooter Zaenille
+PoliticallyCorrectGunman: InputAnalyzer SimpleShooter Zaenille
+SimpleShooter: InputAnalyzer PoliticallyCorrectGunman Zaenille
+Zaenille: InputAnalyzer PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 10:12:03.350579884 UTC

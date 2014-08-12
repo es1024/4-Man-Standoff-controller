@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille AntiGrenadier Neo
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,Dc,Da,Dc,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                      Zaenille: -2
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo Zaenille AntiGrenadier
+Zaenille: Neo HanSolo AntiGrenadier
+AntiGrenadier: Neo HanSolo Zaenille
+Neo: AntiGrenadier HanSolo Zaenille
+Generated: 2014/08/12 08:09:10.249662986 UTC

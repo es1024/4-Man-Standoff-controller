@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy Scared CourageTheDog
+                        Coward: Sc,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Dc,Dc,Dc,Da,Dc,N,N,Dc,Dc,Sc
+Final Health:
+                        Coward: -1
+                     EmoCowboy: -4
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog EmoCowboy Scared
+EmoCowboy: CourageTheDog Coward Scared
+Scared: CourageTheDog Coward EmoCowboy
+CourageTheDog: Scared Coward EmoCowboy
+Generated: 2014/08/12 06:53:12.703300058 UTC

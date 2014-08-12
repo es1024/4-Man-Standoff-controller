@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter AntiGrenadier CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Dc,Db,Sb,N,Db,Dc,Sc,N,N,N,Dc,Sc,N,Dc,Dc,Dc,Dc,Dc,Sb,N,Sc,N,Db,Db,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog StraightShooter AntiGrenadier
+StraightShooter: CourageTheDog Pacifist AntiGrenadier
+AntiGrenadier: CourageTheDog Pacifist StraightShooter
+CourageTheDog: AntiGrenadier Pacifist StraightShooter
+Generated: 2014/08/12 09:47:09.227295036 UTC

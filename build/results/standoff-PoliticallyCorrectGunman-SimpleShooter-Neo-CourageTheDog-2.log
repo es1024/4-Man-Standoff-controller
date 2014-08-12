@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Neo CourageTheDog
+      PoliticallyCorrectGunman: P,Db,Tb
+                 SimpleShooter: Sc,N,Sa
+                           Neo: N,N,N
+                 CourageTheDog: Sc,N,Da
+Final Health:
+      PoliticallyCorrectGunman: 0
+                 SimpleShooter: -3
+                           Neo: -2
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog SimpleShooter Neo
+SimpleShooter: CourageTheDog PoliticallyCorrectGunman Neo
+Neo: CourageTheDog PoliticallyCorrectGunman SimpleShooter
+CourageTheDog: Neo PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 07:53:38.025233162 UTC

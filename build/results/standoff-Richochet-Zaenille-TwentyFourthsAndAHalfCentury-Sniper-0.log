@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille TwentyFourthsAndAHalfCentury Sniper
+                     Richochet: Sc,N,Sc,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Da,Dd,Dd,Dd,Da,Dd,Dd,Dd,Da,Dd,Da,Dd,Da,Sa,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Zaenille TwentyFourthsAndAHalfCentury Sniper
+Zaenille: Richochet TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: Richochet Zaenille Sniper
+Sniper: Richochet Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:34:02.925214007 UTC

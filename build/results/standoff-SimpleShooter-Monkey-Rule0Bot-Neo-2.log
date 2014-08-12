@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Rule0Bot Neo
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sd
+                        Monkey: N,N,N,N,N,Sd,N,N,N,Sb,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Db,N,N,Db,Db,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -2
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Monkey Rule0Bot
+Monkey: Neo SimpleShooter Rule0Bot
+Rule0Bot: Neo SimpleShooter Monkey
+Neo: Rule0Bot SimpleShooter Monkey
+Generated: 2014/08/12 08:45:23.203815696 UTC

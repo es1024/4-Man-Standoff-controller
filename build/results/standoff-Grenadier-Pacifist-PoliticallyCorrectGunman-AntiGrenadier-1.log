@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist PoliticallyCorrectGunman AntiGrenadier
+                     Grenadier: N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                      Pacifist: -18
+      PoliticallyCorrectGunman: -2
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman AntiGrenadier Pacifist
+Pacifist: PoliticallyCorrectGunman AntiGrenadier Grenadier
+PoliticallyCorrectGunman: Pacifist AntiGrenadier Grenadier
+AntiGrenadier: Pacifist PoliticallyCorrectGunman Grenadier
+Generated: 2014/08/12 05:56:17.882497141 UTC

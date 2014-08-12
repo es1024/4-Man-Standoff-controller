@@ -1,10 +1,10 @@
 Standoff between: Pacifist StraightShooter PoliticallyCorrectGunman Spock
-                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-               StraightShooter: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N
-      PoliticallyCorrectGunman: Sb,N,N,N,Da,Sd,N,N,N,P,Dd,Td,Dd,Dd,Da,Sc
-                         Spock: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,N,N,N,N
+      PoliticallyCorrectGunman: Sd,N,Sb,N,Db,Da,Db,Sc
+                         Spock: Sb,N,Sb,N,N,N,N,N
 Final Health:
-                      Pacifist: 2
+                      Pacifist: 5
                StraightShooter: -1
       PoliticallyCorrectGunman: -2
                          Spock: -1
@@ -13,4 +13,4 @@ Pacifist: PoliticallyCorrectGunman Spock StraightShooter
 StraightShooter: PoliticallyCorrectGunman Spock Pacifist
 PoliticallyCorrectGunman: StraightShooter Spock Pacifist
 Spock: StraightShooter PoliticallyCorrectGunman Pacifist
-Generated: 2014/08/11 00:59:35.414384330 UTC
+Generated: 2014/08/12 09:17:31.409669947 UTC

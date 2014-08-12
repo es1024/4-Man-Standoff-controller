@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Richochet TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N
+                 InputAnalyzer: Dc,P,Sc,N
+                     Richochet: Sb,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N
+Final Health:
+                     Grenadier: 2
+                 InputAnalyzer: -1
+                     Richochet: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet TwentyFourthsAndAHalfCentury InputAnalyzer
+InputAnalyzer: Richochet TwentyFourthsAndAHalfCentury Grenadier
+Richochet: InputAnalyzer TwentyFourthsAndAHalfCentury Grenadier
+TwentyFourthsAndAHalfCentury: InputAnalyzer Richochet Grenadier
+Generated: 2014/08/12 08:23:32.306177491 UTC

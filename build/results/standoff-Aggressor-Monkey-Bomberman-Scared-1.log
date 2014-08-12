@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Bomberman Scared
+                     Aggressor: P,Tc,Sd,N,Sb
+                        Monkey: N,N,N,N,N
+                     Bomberman: N,N,N,N,N
+                        Scared: N,N,N,N,N
+Final Health:
+                     Aggressor: 2
+                        Monkey: 0
+                     Bomberman: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman Scared Monkey
+Monkey: Bomberman Scared Aggressor
+Bomberman: Monkey Scared Aggressor
+Scared: Monkey Bomberman Aggressor
+Generated: 2014/08/12 10:23:27.546883194 UTC

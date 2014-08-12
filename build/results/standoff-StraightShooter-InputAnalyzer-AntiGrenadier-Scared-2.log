@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer AntiGrenadier Scared
+               StraightShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,P,Sb,N,N
+                 AntiGrenadier: N,N,Sb,N,N
+                        Scared: Sc,N,Sb,N,Sa
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -14
+                 AntiGrenadier: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared InputAnalyzer AntiGrenadier
+InputAnalyzer: Scared StraightShooter AntiGrenadier
+AntiGrenadier: Scared StraightShooter InputAnalyzer
+Scared: AntiGrenadier StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:34:09.011573926 UTC

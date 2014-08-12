@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward TwentyFourthsAndAHalfCentury Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sc,N,Da,Dc,Da,Dc,Sc,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,Dd,Da,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Neo Coward
+Coward: TwentyFourthsAndAHalfCentury Neo StraightShooter
+TwentyFourthsAndAHalfCentury: Coward Neo StraightShooter
+Neo: Coward TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 09:19:53.294731698 UTC

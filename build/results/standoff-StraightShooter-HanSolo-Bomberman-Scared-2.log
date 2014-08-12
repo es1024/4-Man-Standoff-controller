@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Bomberman Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                       HanSolo: -1
+                     Bomberman: -15
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared HanSolo Bomberman
+HanSolo: Scared StraightShooter Bomberman
+Bomberman: Scared StraightShooter HanSolo
+Scared: Bomberman StraightShooter HanSolo
+Generated: 2014/08/12 09:18:25.128738502 UTC

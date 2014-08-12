@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Richochet Sniper
+                      Pacifist: N,N
+                     Aggressor: P,Ta
+                     Richochet: Sd,N
+                        Sniper: Sc,N
+Final Health:
+                      Pacifist: -3
+                     Aggressor: 2
+                     Richochet: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Richochet Sniper
+Aggressor: Pacifist Richochet Sniper
+Richochet: Pacifist Aggressor Sniper
+Sniper: Pacifist Aggressor Richochet
+Generated: 2014/08/12 10:18:41.230829343 UTC

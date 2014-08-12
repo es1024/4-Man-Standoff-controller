@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Scared Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Dc,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+               StraightShooter: -1
+                        Coward: -1
+                        Scared: -1
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Coward Scared
+Coward: Neo StraightShooter Scared
+Scared: Neo StraightShooter Coward
+Neo: Scared StraightShooter Coward
+Generated: 2014/08/12 09:09:37.556155456 UTC

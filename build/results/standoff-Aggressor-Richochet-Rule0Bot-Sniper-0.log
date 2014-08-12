@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Rule0Bot Sniper
+                     Aggressor: P,Tb
+                     Richochet: Sc,N
+                      Rule0Bot: N,Sa
+                        Sniper: Sc,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: -3
+                      Rule0Bot: -2
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet Rule0Bot Sniper
+Richochet: Aggressor Rule0Bot Sniper
+Rule0Bot: Aggressor Richochet Sniper
+Sniper: Aggressor Richochet Rule0Bot
+Generated: 2014/08/12 10:13:15.794134817 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Coward Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sd,N,Sa,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                           Neo: N,Da,Dc,Da,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                        Coward: 5
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Coward Neo
+Spock: Pacifist Coward Neo
+Coward: Pacifist Spock Neo
+Neo: Pacifist Spock Coward
+Generated: 2014/08/12 08:49:16.722179169 UTC

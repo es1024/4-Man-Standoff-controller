@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet EmoCowboy Neo
+                         Spock: Sc,N,Sc,N,Sd,N,N
+                     Richochet: Sa,N,Sd,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                           Neo: N,N,Da,Sa,N,Sb,N
+Final Health:
+                         Spock: -1
+                     Richochet: 3
+                     EmoCowboy: -4
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: EmoCowboy Neo Richochet
+Richochet: EmoCowboy Neo Spock
+EmoCowboy: Richochet Neo Spock
+Neo: Richochet EmoCowboy Spock
+Generated: 2014/08/12 05:49:07.949671797 UTC

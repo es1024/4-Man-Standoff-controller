@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo DONTNUKEMEBRO Scared
+                     Grenadier: P,N,N
+                       HanSolo: Sc,N,Sc
+                 DONTNUKEMEBRO: Dd,Sa,N
+                        Scared: Sb,N,Sa
+Final Health:
+                     Grenadier: -5
+                       HanSolo: 0
+                 DONTNUKEMEBRO: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO Scared HanSolo
+HanSolo: DONTNUKEMEBRO Scared Grenadier
+DONTNUKEMEBRO: HanSolo Scared Grenadier
+Scared: HanSolo DONTNUKEMEBRO Grenadier
+Generated: 2014/08/12 07:14:13.612230953 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Zaenille Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 1
+                      Zaenille: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared SimpleShooter Zaenille
+SimpleShooter: Scared Pacifist Zaenille
+Zaenille: Scared Pacifist SimpleShooter
+Scared: Zaenille Pacifist SimpleShooter
+Generated: 2014/08/12 07:43:18.281324564 UTC

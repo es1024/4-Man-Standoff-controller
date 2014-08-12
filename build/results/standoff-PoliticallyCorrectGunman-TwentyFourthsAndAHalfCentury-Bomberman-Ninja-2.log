@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman Ninja
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Sc,N,Sd,N,N,N,N,N,Sd,N,Sd,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Db,Da,Dc,Da,Dc,Dc,Da,Db,Da,Db,Dd,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Ninja PoliticallyCorrectGunman Bomberman
+Bomberman: Ninja PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Ninja: Bomberman PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:57:07.262334372 UTC

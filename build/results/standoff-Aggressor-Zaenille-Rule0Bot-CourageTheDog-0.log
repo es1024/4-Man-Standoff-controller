@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Rule0Bot CourageTheDog
+                     Aggressor: P,Td
+                      Zaenille: Sb,N
+                      Rule0Bot: N,N
+                 CourageTheDog: Sc,N
+Final Health:
+                     Aggressor: 2
+                      Zaenille: -2
+                      Rule0Bot: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Zaenille Rule0Bot CourageTheDog
+Zaenille: Aggressor Rule0Bot CourageTheDog
+Rule0Bot: Aggressor Zaenille CourageTheDog
+CourageTheDog: Aggressor Zaenille Rule0Bot
+Generated: 2014/08/12 06:02:56.161581308 UTC

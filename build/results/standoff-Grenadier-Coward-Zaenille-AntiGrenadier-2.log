@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Zaenille AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                        Coward: 5
+                      Zaenille: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Coward Zaenille
+Coward: AntiGrenadier Grenadier Zaenille
+Zaenille: AntiGrenadier Grenadier Coward
+AntiGrenadier: Zaenille Grenadier Coward
+Generated: 2014/08/12 07:36:28.748666084 UTC

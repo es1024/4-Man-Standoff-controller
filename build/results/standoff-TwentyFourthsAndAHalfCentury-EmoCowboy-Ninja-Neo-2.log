@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy Ninja Neo
+  TwentyFourthsAndAHalfCentury: Dc,Dd,Sd,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sd,N,N,N,N,N,N,N,N,Sc,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Da,Dd,Da,Dc,Dd,Dc,Dc,Dc,Db,Dc,Dd,Da,Dd,Da,Db,Dd,Dc,Db,Da,Dc,Dd,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,N,N,N,N,Da,N,N,Da,Dc,Da,Dc,Da,N,N,N,N,N,N,N,Da,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,Da,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Neo EmoCowboy Ninja
+EmoCowboy: Neo TwentyFourthsAndAHalfCentury Ninja
+Ninja: Neo TwentyFourthsAndAHalfCentury EmoCowboy
+Neo: Ninja TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 07:59:19.328357534 UTC

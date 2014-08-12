@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Richochet: Sb,N,Sc,N,Sd,N,Sd,N,Sd,N,Sc,N,Sb,N,Sc,N,Sc,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,Da,N,Sc,N,N,Db,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Db,Dd,Da,Dd,Db,Dd,Da,Db,Da,Db,Da,Db,Db,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: TwentyFourthsAndAHalfCentury AntiGrenadier Monkey
+Monkey: TwentyFourthsAndAHalfCentury AntiGrenadier Richochet
+TwentyFourthsAndAHalfCentury: Monkey AntiGrenadier Richochet
+AntiGrenadier: Monkey TwentyFourthsAndAHalfCentury Richochet
+Generated: 2014/08/12 06:16:50.113264007 UTC

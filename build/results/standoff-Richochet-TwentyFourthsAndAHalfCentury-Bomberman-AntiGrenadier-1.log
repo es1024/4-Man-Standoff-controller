@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+                     Richochet: Sc,N,Sd,N,Sb,N,Sd,N,Sb,N,Sb,N,Sb,N,Sd,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,Dc,Da,Dc,Da,Dd,Dc,Dd,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman AntiGrenadier Richochet
+Bomberman: TwentyFourthsAndAHalfCentury AntiGrenadier Richochet
+AntiGrenadier: TwentyFourthsAndAHalfCentury Bomberman Richochet
+Generated: 2014/08/12 08:07:37.875972253 UTC

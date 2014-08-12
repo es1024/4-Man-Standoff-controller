@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Aggressor EmoCowboy
+                      Pacifist: N,N
+      PoliticallyCorrectGunman: N,Sc
+                     Aggressor: P,Ta
+                     EmoCowboy: Sd,N
+Final Health:
+                      Pacifist: -3
+      PoliticallyCorrectGunman: 2
+                     Aggressor: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy PoliticallyCorrectGunman Aggressor
+PoliticallyCorrectGunman: EmoCowboy Pacifist Aggressor
+Aggressor: EmoCowboy Pacifist PoliticallyCorrectGunman
+EmoCowboy: Aggressor Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 10:46:33.835964105 UTC

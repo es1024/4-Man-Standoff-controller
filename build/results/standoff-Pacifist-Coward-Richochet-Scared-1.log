@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Richochet Scared
+                      Pacifist: N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Dd,Sd,N
+                     Richochet: Sa,N,Sb,N,Sd,N,Sd
+                        Scared: Sc,N,Sb,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+                        Coward: 1
+                     Richochet: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Scared Coward
+Coward: Richochet Scared Pacifist
+Richochet: Coward Scared Pacifist
+Scared: Coward Richochet Pacifist
+Generated: 2014/08/12 10:46:52.863499588 UTC

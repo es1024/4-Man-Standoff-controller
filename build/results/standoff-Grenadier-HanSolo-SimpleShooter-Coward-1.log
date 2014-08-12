@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo SimpleShooter Coward
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sc,N,Sb,N,Db,Da,Sb
+Final Health:
+                     Grenadier: -1
+                       HanSolo: -1
+                 SimpleShooter: -3
+                        Coward: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Coward HanSolo
+HanSolo: SimpleShooter Coward Grenadier
+SimpleShooter: HanSolo Coward Grenadier
+Coward: HanSolo SimpleShooter Grenadier
+Generated: 2014/08/12 06:21:12.846107912 UTC

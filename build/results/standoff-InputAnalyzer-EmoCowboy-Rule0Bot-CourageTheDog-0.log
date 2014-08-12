@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer EmoCowboy Rule0Bot CourageTheDog
+                 InputAnalyzer: Db,P,Sa
+                     EmoCowboy: Sb,N,N
+                      Rule0Bot: N,N,N
+                 CourageTheDog: Sc,N,P
+Final Health:
+                 InputAnalyzer: -8
+                     EmoCowboy: -2
+                      Rule0Bot: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Rule0Bot CourageTheDog
+EmoCowboy: InputAnalyzer Rule0Bot CourageTheDog
+Rule0Bot: InputAnalyzer EmoCowboy CourageTheDog
+CourageTheDog: InputAnalyzer EmoCowboy Rule0Bot
+Generated: 2014/08/12 09:16:35.344634615 UTC

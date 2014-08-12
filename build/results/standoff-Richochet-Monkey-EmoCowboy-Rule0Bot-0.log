@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey EmoCowboy Rule0Bot
+                     Richochet: Sc,N,Sb,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,Sb,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -2
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey EmoCowboy Rule0Bot
+Monkey: Richochet EmoCowboy Rule0Bot
+EmoCowboy: Richochet Monkey Rule0Bot
+Rule0Bot: Richochet Monkey EmoCowboy
+Generated: 2014/08/12 09:17:29.401091470 UTC

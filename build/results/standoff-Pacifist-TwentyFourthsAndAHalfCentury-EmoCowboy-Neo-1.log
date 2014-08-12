@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury EmoCowboy Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dd,Sa,N,Sa,N,Sd,N,Sd,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,N,Da,Da,Da,Da,Da,N,Sb,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 3
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Neo Pacifist
+EmoCowboy: TwentyFourthsAndAHalfCentury Neo Pacifist
+Neo: TwentyFourthsAndAHalfCentury EmoCowboy Pacifist
+Generated: 2014/08/12 05:52:28.468619156 UTC

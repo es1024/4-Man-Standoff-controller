@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Ninja Sniper CourageTheDog
+      PoliticallyCorrectGunman: N,N,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dc,Dc,Dd,Db,Db,Dc,Dc,Db,Db,Dd,Dd,Da,Db,Dc,Dd,Da,Da,Dc,Dc,Da,Dd,Da,Da,Dd,Db,Dd,Db,Db
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sc,N,Dc,Db,Db,Sb,N,Sb,N,Sb,N,Dc,Dc,Sc,N,Dc,Dc,Dc,N,Db,Dc,Db,Db,Dc,Sc,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Ninja: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Ninja Sniper
+Ninja: CourageTheDog PoliticallyCorrectGunman Sniper
+Sniper: CourageTheDog PoliticallyCorrectGunman Ninja
+CourageTheDog: Sniper PoliticallyCorrectGunman Ninja
+Generated: 2014/08/12 07:20:05.585768137 UTC

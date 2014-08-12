@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Ninja AntiGrenadier
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sc,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sa,N,Sa,N,Sc,N,Sd,N,Sc
+                         Ninja: Da,Da,Dc,Dc,Dc,Dc,Dc,Db,Db,Db,Da,Da,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: 3
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Ninja AntiGrenadier
+Richochet: SimpleShooter Ninja AntiGrenadier
+Ninja: SimpleShooter Richochet AntiGrenadier
+AntiGrenadier: SimpleShooter Richochet Ninja
+Generated: 2014/08/12 06:45:35.239053036 UTC

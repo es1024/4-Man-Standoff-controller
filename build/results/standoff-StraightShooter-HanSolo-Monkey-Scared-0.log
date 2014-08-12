@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Monkey Scared
+               StraightShooter: Sc,N,Sc,N,N
+                       HanSolo: Sa,N,Sa,N,N
+                        Monkey: N,Sa,N,Sb,N
+                        Scared: Sb,N,Sb,N,Sc
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                        Monkey: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Monkey Scared
+HanSolo: StraightShooter Monkey Scared
+Monkey: StraightShooter HanSolo Scared
+Scared: StraightShooter HanSolo Monkey
+Generated: 2014/08/12 09:29:51.135560785 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Ninja CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sa,N,N,Sa
+                         Ninja: Dc,Dc,Dc,Da,Dc,Dc,Da,Da,Dc,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sc,N,Dc,Db,Dc,Db,Sb,N,Db,Db,Sb
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Ninja CourageTheDog
+Spock: Pacifist Ninja CourageTheDog
+Ninja: Pacifist Spock CourageTheDog
+CourageTheDog: Pacifist Spock Ninja
+Generated: 2014/08/12 09:25:12.302251430 UTC

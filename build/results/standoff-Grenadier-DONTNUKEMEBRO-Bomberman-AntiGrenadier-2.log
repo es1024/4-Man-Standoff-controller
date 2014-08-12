@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Bomberman AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dc,Da,Da,Dc,Da,Dc,Dc,Da,Dd,Sa,N,Da,Dc,Da,Dc,Dc,Dc,Da,Dc,Da,Dd,Da,Da,Dd,Dc,Dd,Dc,Dd,Dc,Dc,Dd,Da,Dd,Sc,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -5
+                 DONTNUKEMEBRO: -18
+                     Bomberman: 0
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier DONTNUKEMEBRO Bomberman
+DONTNUKEMEBRO: AntiGrenadier Grenadier Bomberman
+Bomberman: AntiGrenadier Grenadier DONTNUKEMEBRO
+AntiGrenadier: Bomberman Grenadier DONTNUKEMEBRO
+Generated: 2014/08/12 07:17:45.818190990 UTC

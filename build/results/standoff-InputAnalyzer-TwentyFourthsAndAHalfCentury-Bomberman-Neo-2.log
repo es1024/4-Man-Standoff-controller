@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Bomberman Neo
+                 InputAnalyzer: Dd,P,Da,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Db,Db,Db,N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,Db,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Db,N,N,Db,Db,Db,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 0
+                     Bomberman: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Neo InputAnalyzer Bomberman
+Bomberman: Neo InputAnalyzer TwentyFourthsAndAHalfCentury
+Neo: Bomberman InputAnalyzer TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:07:23.196320752 UTC

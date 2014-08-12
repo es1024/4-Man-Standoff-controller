@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Coward Ninja
+      PoliticallyCorrectGunman: N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                        Coward: Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Ninja: Dc,Dd,Dd,Dc,Dc,Db,Db,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                        Coward: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Coward Ninja
+Spock: PoliticallyCorrectGunman Coward Ninja
+Coward: PoliticallyCorrectGunman Spock Ninja
+Ninja: PoliticallyCorrectGunman Spock Coward
+Generated: 2014/08/12 05:46:57.639437549 UTC

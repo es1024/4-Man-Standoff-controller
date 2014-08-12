@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Ninja Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Da,N,Da,N,N,Dc,Dd,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dc,Db,Dd,Dc,Db,Da,Dd,Dc,Dd,Db,Da,Db,Da,Dd,Db,Da,Dc,Db,Dc,Dd,Dc,Dd,Db,Dc,Db,Db,Da,Dd,Db,Dd,Dc,Dd,Da,Dd,Dd,Dc,Db,Db,Dc,Db,Da,Da,Dd,Dc,Dd,Dc,Db,Db
+                           Neo: N,Db,N,N,N,N,Db,Db,N,Db,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,Da,Dc,Da,Dc,N,N,Da,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Neo StraightShooter Ninja
+Ninja: Neo StraightShooter TwentyFourthsAndAHalfCentury
+Neo: Ninja StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:54:48.853406428 UTC

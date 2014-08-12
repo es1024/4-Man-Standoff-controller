@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Bomberman Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dd,Dc,Da,Dd,Db,Db,Dd,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja HanSolo Bomberman
+HanSolo: Ninja Pacifist Bomberman
+Bomberman: Ninja Pacifist HanSolo
+Ninja: Bomberman Pacifist HanSolo
+Generated: 2014/08/12 06:20:04.523266245 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman
+                     Grenadier: P,N,N,N
+      PoliticallyCorrectGunman: Da,Sd,N,P
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,Sb
+                     Bomberman: N,N,N,N
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: -6
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman
+PoliticallyCorrectGunman: Grenadier TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Grenadier PoliticallyCorrectGunman Bomberman
+Bomberman: Grenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:34:37.963277925 UTC

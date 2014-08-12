@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer DONTNUKEMEBRO Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Sd,N,Sa,N,P,Sd,N
+                 DONTNUKEMEBRO: Dd,Dd,Da,Da,Da,Db,Dd,Da,Da,Sb,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,Sb,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: Rule0Bot Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: Rule0Bot Pacifist InputAnalyzer
+Rule0Bot: DONTNUKEMEBRO Pacifist InputAnalyzer
+Generated: 2014/08/12 06:58:02.783146665 UTC

@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy AntiGrenadier Scared
+                      Zaenille: Sa,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N
+                        Scared: Sc,N,Sc,N,Sc
+Final Health:
+                      Zaenille: -2
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: AntiGrenadier Scared EmoCowboy
+EmoCowboy: AntiGrenadier Scared Zaenille
+AntiGrenadier: EmoCowboy Scared Zaenille
+Scared: EmoCowboy AntiGrenadier Zaenille
+Generated: 2014/08/12 06:25:05.076139846 UTC

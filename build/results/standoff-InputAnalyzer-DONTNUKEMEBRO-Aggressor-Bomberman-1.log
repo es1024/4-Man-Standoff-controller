@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Aggressor Bomberman
+                 InputAnalyzer: Dc,Db,Da,Sd
+                 DONTNUKEMEBRO: Dc,Sc,N,N
+                     Aggressor: P,Tb,N,N
+                     Bomberman: N,N,N,N
+Final Health:
+                 InputAnalyzer: 2
+                 DONTNUKEMEBRO: -3
+                     Aggressor: 0
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Bomberman DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor Bomberman InputAnalyzer
+Aggressor: DONTNUKEMEBRO Bomberman InputAnalyzer
+Bomberman: DONTNUKEMEBRO Aggressor InputAnalyzer
+Generated: 2014/08/12 10:04:36.955872620 UTC

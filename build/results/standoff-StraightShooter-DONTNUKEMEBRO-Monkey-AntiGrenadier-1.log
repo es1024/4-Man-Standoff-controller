@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Monkey AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Dc,Dd,Da,Dc,Dc,Dd,Da,Dd,Dc,Dc,Dd,Dd,Dc,Dd,Dd,Da,Dd,Da,Dc,Da,Dd,Da,Dc,Dd,Da,Dd,Dd,Da,Dc,Dc,Dd,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                        Monkey: N,N,N,N,Dc,Sd,N,N,N,N,Da,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,Dd,N,Da,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -15
+                        Monkey: -15
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey AntiGrenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: Monkey AntiGrenadier StraightShooter
+Monkey: DONTNUKEMEBRO AntiGrenadier StraightShooter
+AntiGrenadier: DONTNUKEMEBRO Monkey StraightShooter
+Generated: 2014/08/12 06:45:45.815611410 UTC

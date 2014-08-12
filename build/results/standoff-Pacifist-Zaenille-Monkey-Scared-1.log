@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Monkey Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,Sc,N
+                        Scared: Sb,N,Sc,N,N,Sa,N,Sa,N,Sc,N,Sa
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -4
+                        Monkey: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey Scared Zaenille
+Zaenille: Monkey Scared Pacifist
+Monkey: Zaenille Scared Pacifist
+Scared: Zaenille Monkey Pacifist
+Generated: 2014/08/12 07:09:24.952378126 UTC

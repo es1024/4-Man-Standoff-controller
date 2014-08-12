@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Rule0Bot
+                 InputAnalyzer: Dd,Sa,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Dc,Dc,Sc,N,Dd,Dc,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Sb,N,Sd,N,Sb,N,Sb,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: Rule0Bot InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot InputAnalyzer DONTNUKEMEBRO
+Rule0Bot: TwentyFourthsAndAHalfCentury InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 10:13:25.520431445 UTC

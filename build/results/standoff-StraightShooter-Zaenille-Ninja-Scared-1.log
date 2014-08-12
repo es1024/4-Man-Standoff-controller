@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Ninja Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Da,Dc,Dc,Dc,Da,Da,Da,Dd,Dc,Dc,Db,Da,Dd,Dc,Dc,Db,Da,Db,Dd,Dd,Da,Dc,Dc,Db,Da,Dc,Dd,Da,Dd,Db,Da,Dd,Dc,Dc,Dd,Da,Dd,Dc,Dd,Da,Db,Dd,Dc,Dd,Da,Da,Db,Dc
+                        Scared: N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                      Zaenille: -2
+                         Ninja: -17
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Scared Zaenille
+Zaenille: Ninja Scared StraightShooter
+Ninja: Zaenille Scared StraightShooter
+Scared: Zaenille Ninja StraightShooter
+Generated: 2014/08/12 09:56:59.747663827 UTC

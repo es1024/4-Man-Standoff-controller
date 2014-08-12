@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Ninja Scared
+      PoliticallyCorrectGunman: P,N,Dd,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,N,N,N,N,N,N,N,Sc,N,Sd
+                         Ninja: Db,Dc,Dc,Da,Dc,Da,Db,Dd,Db,Dd,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,Sc,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: 0
+                         Ninja: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Scared Spock
+Spock: Ninja Scared PoliticallyCorrectGunman
+Ninja: Spock Scared PoliticallyCorrectGunman
+Scared: Spock Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 06:14:23.892357920 UTC

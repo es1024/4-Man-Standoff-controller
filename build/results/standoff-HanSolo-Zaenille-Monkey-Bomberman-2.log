@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Monkey Bomberman
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                      Zaenille: -2
+                        Monkey: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Zaenille Monkey
+Zaenille: Bomberman HanSolo Monkey
+Monkey: Bomberman HanSolo Zaenille
+Bomberman: Monkey HanSolo Zaenille
+Generated: 2014/08/12 06:14:31.897886122 UTC

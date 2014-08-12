@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury AntiGrenadier Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Da,Dd,Dc,Dc,Da,Da,Dc,Dd,Dc,Sc,N,Sd,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,Sa,N,Sa,N,Sa,N,N,N,N,Sc,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 3
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier Sniper Pacifist
+AntiGrenadier: TwentyFourthsAndAHalfCentury Sniper Pacifist
+Sniper: TwentyFourthsAndAHalfCentury AntiGrenadier Pacifist
+Generated: 2014/08/12 10:12:34.615111518 UTC

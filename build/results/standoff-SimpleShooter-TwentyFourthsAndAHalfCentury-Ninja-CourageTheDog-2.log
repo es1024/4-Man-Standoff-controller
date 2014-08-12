@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+                 SimpleShooter: Sc,N,Sc,N,Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Da,Dd,Dd,Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,Sd
+                         Ninja: Da,Da,Dd,Db,Db,Dc,Dc,Db,Dc,Db,Dd,Da,Dd,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Db,Dc,Db,Dc,Sa,N,Sb,N,Db,N,Sa,N,Db,Sb
+Final Health:
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: CourageTheDog SimpleShooter Ninja
+Ninja: CourageTheDog SimpleShooter TwentyFourthsAndAHalfCentury
+CourageTheDog: Ninja SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:22:09.042756764 UTC

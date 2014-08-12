@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Aggressor Zaenille
+                 InputAnalyzer: Db,Sc
+                         Spock: N,N
+                     Aggressor: P,Ta
+                      Zaenille: Sd,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 2
+                     Aggressor: 0
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Aggressor Zaenille
+Spock: InputAnalyzer Aggressor Zaenille
+Aggressor: InputAnalyzer Spock Zaenille
+Zaenille: InputAnalyzer Spock Aggressor
+Generated: 2014/08/12 07:15:47.055665769 UTC

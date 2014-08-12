@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward EmoCowboy AntiGrenadier
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Dd,Dd,Dd,Dd,Dd,Sd,N,Dd,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: 1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy AntiGrenadier Coward
+Coward: EmoCowboy AntiGrenadier SimpleShooter
+EmoCowboy: Coward AntiGrenadier SimpleShooter
+AntiGrenadier: Coward EmoCowboy SimpleShooter
+Generated: 2014/08/12 09:06:04.842148831 UTC

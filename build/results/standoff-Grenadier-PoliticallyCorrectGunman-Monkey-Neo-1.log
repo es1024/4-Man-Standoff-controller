@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Monkey Neo
+                     Grenadier: N,N,N,N,N,N,N,P,Td
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,Sc,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Da
+Final Health:
+                     Grenadier: 0
+      PoliticallyCorrectGunman: 2
+                        Monkey: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Monkey Neo Grenadier
+Monkey: PoliticallyCorrectGunman Neo Grenadier
+Neo: PoliticallyCorrectGunman Monkey Grenadier
+Generated: 2014/08/12 08:44:19.137932358 UTC

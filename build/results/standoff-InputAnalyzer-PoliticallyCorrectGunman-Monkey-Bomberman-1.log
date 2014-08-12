@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Monkey Bomberman
+                 InputAnalyzer: Dc,Db,P,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dd,N,N,N,N,N,N,N,Dc,Dd,Sd,N,Sd,N,Dc,Sa,N,N,N,N,N,N,N,N,Sd,N,P,Td
+                        Monkey: N,N,N,N,N,N,N,N,N,N,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+      PoliticallyCorrectGunman: -1
+                        Monkey: -1
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Bomberman PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Monkey Bomberman InputAnalyzer
+Monkey: PoliticallyCorrectGunman Bomberman InputAnalyzer
+Bomberman: PoliticallyCorrectGunman Monkey InputAnalyzer
+Generated: 2014/08/12 06:18:49.728923464 UTC

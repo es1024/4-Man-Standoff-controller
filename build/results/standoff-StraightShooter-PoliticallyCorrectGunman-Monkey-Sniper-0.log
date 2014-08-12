@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Monkey Sniper
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,Dc,Dc,Sa,N,N,Sc,N,N,Da,N,Sc,N,Dd,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sc,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                        Monkey: -3
+                        Sniper: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Monkey Sniper
+PoliticallyCorrectGunman: StraightShooter Monkey Sniper
+Monkey: StraightShooter PoliticallyCorrectGunman Sniper
+Sniper: StraightShooter PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 08:39:46.828407949 UTC

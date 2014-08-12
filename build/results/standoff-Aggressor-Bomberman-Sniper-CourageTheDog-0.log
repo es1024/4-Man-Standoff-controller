@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman Sniper CourageTheDog
+                     Aggressor: P,Tb,Sc
+                     Bomberman: N,N,N
+                        Sniper: Sd,N,Sa
+                 CourageTheDog: N,N,N
+Final Health:
+                     Aggressor: 0
+                     Bomberman: -3
+                        Sniper: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman Sniper CourageTheDog
+Bomberman: Aggressor Sniper CourageTheDog
+Sniper: Aggressor Bomberman CourageTheDog
+CourageTheDog: Aggressor Bomberman Sniper
+Generated: 2014/08/12 10:33:23.432577791 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer AntiGrenadier CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Dc,P,Dd,N
+                 AntiGrenadier: N,N,N,Sb,N
+                 CourageTheDog: Sb,N,Da,P,Ta
+Final Health:
+               StraightShooter: -6
+                 InputAnalyzer: -7
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog InputAnalyzer AntiGrenadier
+InputAnalyzer: CourageTheDog StraightShooter AntiGrenadier
+AntiGrenadier: CourageTheDog StraightShooter InputAnalyzer
+CourageTheDog: AntiGrenadier StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:11:08.995133887 UTC

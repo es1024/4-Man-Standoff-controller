@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Bomberman Ninja
+                     Grenadier: P,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sd
+                     Bomberman: N,N,N,N,N
+                         Ninja: Da,Db,Dc,Da,Dc
+Final Health:
+                     Grenadier: -1
+                       HanSolo: 2
+                     Bomberman: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Ninja HanSolo
+HanSolo: Bomberman Ninja Grenadier
+Bomberman: HanSolo Ninja Grenadier
+Ninja: HanSolo Bomberman Grenadier
+Generated: 2014/08/12 08:17:29.209339026 UTC

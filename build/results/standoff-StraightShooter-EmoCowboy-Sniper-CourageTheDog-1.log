@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Sniper CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Da,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                     EmoCowboy: -1
+                        Sniper: -17
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper CourageTheDog EmoCowboy
+EmoCowboy: Sniper CourageTheDog StraightShooter
+Sniper: EmoCowboy CourageTheDog StraightShooter
+CourageTheDog: EmoCowboy Sniper StraightShooter
+Generated: 2014/08/12 10:30:19.707570166 UTC

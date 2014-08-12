@@ -1,0 +1,16 @@
+Standoff between: Monkey Ninja Scared CourageTheDog
+                        Monkey: N,Sd,N,N,N,N,N,N,N,Db,Sb,N,N
+                         Ninja: Da,Da,Db,Dd,Da,Dc,Dd,Da,Db,Dc,N,N,N
+                        Scared: Sd,N,N,N,N,N,Sa,N,Sb,N,Sd,N,Sa
+                 CourageTheDog: Sb,N,Da,Sa,N,N,Dc,Dc,Dc,Sb,N,N,N
+Final Health:
+                        Monkey: -1
+                         Ninja: -1
+                        Scared: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Ninja Scared CourageTheDog
+Ninja: Monkey Scared CourageTheDog
+Scared: Monkey Ninja CourageTheDog
+CourageTheDog: Monkey Ninja Scared
+Generated: 2014/08/12 05:58:54.885403818 UTC

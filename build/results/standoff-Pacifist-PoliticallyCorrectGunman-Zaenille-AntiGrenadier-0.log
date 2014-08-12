@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Zaenille AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dd,Sd,N,Sc,N,N,Sa,N,Sc,N,N,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -17
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                 AntiGrenadier: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Zaenille AntiGrenadier
+PoliticallyCorrectGunman: Pacifist Zaenille AntiGrenadier
+Zaenille: Pacifist PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: Pacifist PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 10:10:55.962470609 UTC

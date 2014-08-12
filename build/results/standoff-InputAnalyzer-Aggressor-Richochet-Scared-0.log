@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Richochet Scared
+                 InputAnalyzer: Db,Dd
+                     Aggressor: P,Td
+                     Richochet: Sa,N
+                        Scared: Sc,N
+Final Health:
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                     Richochet: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Richochet Scared
+Aggressor: InputAnalyzer Richochet Scared
+Richochet: InputAnalyzer Aggressor Scared
+Scared: InputAnalyzer Aggressor Richochet
+Generated: 2014/08/12 10:06:59.388806146 UTC

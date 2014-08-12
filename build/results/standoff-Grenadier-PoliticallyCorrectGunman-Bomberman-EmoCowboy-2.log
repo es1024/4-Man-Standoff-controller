@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Bomberman EmoCowboy
+                     Grenadier: P,Tb,N,P,N,N
+      PoliticallyCorrectGunman: N,Da,N,N,N,N
+                     Bomberman: N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+      PoliticallyCorrectGunman: -3
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy PoliticallyCorrectGunman Bomberman
+PoliticallyCorrectGunman: EmoCowboy Grenadier Bomberman
+Bomberman: EmoCowboy Grenadier PoliticallyCorrectGunman
+EmoCowboy: Bomberman Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 07:32:05.074042508 UTC

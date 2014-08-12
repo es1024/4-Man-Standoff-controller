@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Zaenille EmoCowboy
+                      Pacifist: N,N,N,N
+      PoliticallyCorrectGunman: Da,Dc,Dd,Sb
+                      Zaenille: Sc,N,N,N
+                     EmoCowboy: Sd,N,N,N
+Final Health:
+                      Pacifist: 5
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille EmoCowboy PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Zaenille EmoCowboy Pacifist
+Zaenille: PoliticallyCorrectGunman EmoCowboy Pacifist
+EmoCowboy: PoliticallyCorrectGunman Zaenille Pacifist
+Generated: 2014/08/12 09:56:59.374838471 UTC

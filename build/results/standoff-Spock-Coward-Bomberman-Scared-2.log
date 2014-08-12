@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Bomberman Scared
+                         Spock: Sd,N,Sc,N,Sd,N,Sd
+                        Coward: Sc,N,Sc,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sb,N,Sb
+Final Health:
+                         Spock: -1
+                        Coward: 1
+                     Bomberman: -3
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared Coward Bomberman
+Coward: Scared Spock Bomberman
+Bomberman: Scared Spock Coward
+Scared: Bomberman Spock Coward
+Generated: 2014/08/12 10:32:59.504285396 UTC

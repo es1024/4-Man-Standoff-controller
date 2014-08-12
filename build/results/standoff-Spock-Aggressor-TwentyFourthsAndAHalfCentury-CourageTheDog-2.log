@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor TwentyFourthsAndAHalfCentury CourageTheDog
+                         Spock: Sd,N
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: Dd,Db
+                 CourageTheDog: Sb,N
+Final Health:
+                         Spock: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: CourageTheDog Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog Spock Aggressor
+CourageTheDog: TwentyFourthsAndAHalfCentury Spock Aggressor
+Generated: 2014/08/12 10:11:42.144096230 UTC

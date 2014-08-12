@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor AntiGrenadier Neo
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                 AntiGrenadier: N,Sb
+                           Neo: N,Dc
+Final Health:
+                        Coward: -3
+                     Aggressor: 0
+                 AntiGrenadier: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Aggressor AntiGrenadier Neo
+Aggressor: Coward AntiGrenadier Neo
+AntiGrenadier: Coward Aggressor Neo
+Neo: Coward Aggressor AntiGrenadier
+Generated: 2014/08/12 09:44:03.521399750 UTC

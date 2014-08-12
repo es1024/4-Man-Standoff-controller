@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO SimpleShooter Scared
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dc,Dc,Sc,N,Sc,N,Dc,Dc,Sa
+                 SimpleShooter: Sb,N,Sb,N,Sa,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Scared HanSolo SimpleShooter
+SimpleShooter: Scared HanSolo DONTNUKEMEBRO
+Scared: SimpleShooter HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 08:46:59.748521558 UTC

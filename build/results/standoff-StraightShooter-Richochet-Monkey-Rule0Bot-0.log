@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Monkey Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N
+                     Richochet: Sc,N,Sc,N,Sd,N,Sa,N,Sa,N,Sd,N,Sa,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                        Monkey: -3
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Monkey Rule0Bot
+Richochet: StraightShooter Monkey Rule0Bot
+Monkey: StraightShooter Richochet Rule0Bot
+Rule0Bot: StraightShooter Richochet Monkey
+Generated: 2014/08/12 09:01:30.370813007 UTC

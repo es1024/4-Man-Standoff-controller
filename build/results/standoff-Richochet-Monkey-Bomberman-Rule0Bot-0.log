@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Bomberman Rule0Bot
+                     Richochet: Sd,N,Sd,N,Sc,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey Bomberman Rule0Bot
+Monkey: Richochet Bomberman Rule0Bot
+Bomberman: Richochet Monkey Rule0Bot
+Rule0Bot: Richochet Monkey Bomberman
+Generated: 2014/08/12 10:29:25.523484832 UTC

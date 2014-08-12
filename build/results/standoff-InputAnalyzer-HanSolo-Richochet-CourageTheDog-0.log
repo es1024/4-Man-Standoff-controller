@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Richochet CourageTheDog
+                 InputAnalyzer: Db,Da,Da,Sc,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sd,N,Sd,N,Sd,N
+                     Richochet: Sd,N,Sd,N,Sb,N,Sb,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,N,Sc,N,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: -1
+                     Richochet: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Richochet CourageTheDog
+HanSolo: InputAnalyzer Richochet CourageTheDog
+Richochet: InputAnalyzer HanSolo CourageTheDog
+CourageTheDog: InputAnalyzer HanSolo Richochet
+Generated: 2014/08/12 07:38:55.054668575 UTC

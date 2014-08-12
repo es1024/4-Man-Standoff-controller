@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Sniper
+                 InputAnalyzer: Dd,Sc,N,Sb,N,Sd,N,Dc,P,N,Db
+                 DONTNUKEMEBRO: Dc,Dd,Da,Da,Dd,Sa,N,Da,Da,Sa,N
+  TwentyFourthsAndAHalfCentury: N,N,Db,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 2
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: Sniper InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper InputAnalyzer DONTNUKEMEBRO
+Sniper: TwentyFourthsAndAHalfCentury InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:41:49.794999080 UTC

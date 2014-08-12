@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Aggressor Scared
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Da,Dd,Dc,P,Sd,N
+                     Aggressor: P,Td,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -4
+                     Aggressor: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared InputAnalyzer Aggressor
+InputAnalyzer: Scared Pacifist Aggressor
+Aggressor: Scared Pacifist InputAnalyzer
+Scared: Aggressor Pacifist InputAnalyzer
+Generated: 2014/08/12 08:55:59.534746675 UTC

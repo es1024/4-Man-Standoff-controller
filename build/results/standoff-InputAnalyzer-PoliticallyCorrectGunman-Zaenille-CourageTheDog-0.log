@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Zaenille CourageTheDog
+                 InputAnalyzer: Db,Sa,N,N,N,N,N
+      PoliticallyCorrectGunman: Sc,N,N,Dc,Sa,N,Sb
+                      Zaenille: Sc,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sb,N,Db,Sb
+Final Health:
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -4
+                      Zaenille: -6
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Zaenille CourageTheDog
+PoliticallyCorrectGunman: InputAnalyzer Zaenille CourageTheDog
+Zaenille: InputAnalyzer PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: InputAnalyzer PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 05:43:39.337502990 UTC

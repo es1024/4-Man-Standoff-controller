@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet TwentyFourthsAndAHalfCentury Sniper
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,N
+                     Richochet: Sd,N,Sa,N,Sd,N,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,N,Da,N,N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,Sc,N,N,Sa,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet TwentyFourthsAndAHalfCentury Sniper
+Richochet: StraightShooter TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: StraightShooter Richochet Sniper
+Sniper: StraightShooter Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:28:00.572649951 UTC

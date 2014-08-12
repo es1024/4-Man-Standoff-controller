@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Monkey Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sc
+                        Monkey: N,N,N,N,N,Sa,N
+                        Scared: Sc,N,Sb,N,Sc,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: 3
+                        Monkey: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Scared Coward
+Coward: Monkey Scared StraightShooter
+Monkey: Coward Scared StraightShooter
+Scared: Coward Monkey StraightShooter
+Generated: 2014/08/12 07:33:24.909065179 UTC

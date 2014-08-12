@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Zaenille Scared
+      PoliticallyCorrectGunman: N,N,P,Dd,Dd
+                         Spock: Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                        Scared: N,N,Sb,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -7
+                         Spock: 0
+                      Zaenille: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Zaenille Scared
+Spock: PoliticallyCorrectGunman Zaenille Scared
+Zaenille: PoliticallyCorrectGunman Spock Scared
+Scared: PoliticallyCorrectGunman Spock Zaenille
+Generated: 2014/08/12 08:05:04.381739604 UTC

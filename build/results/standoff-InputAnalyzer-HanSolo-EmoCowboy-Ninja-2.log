@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo EmoCowboy Ninja
+                 InputAnalyzer: Dd,Sc,N,Dd,Dc,P,N,Dc
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dd,Dc,Db,Da,Dd,Dd
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 2
+                     EmoCowboy: -2
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja HanSolo EmoCowboy
+HanSolo: Ninja InputAnalyzer EmoCowboy
+EmoCowboy: Ninja InputAnalyzer HanSolo
+Ninja: EmoCowboy InputAnalyzer HanSolo
+Generated: 2014/08/12 09:48:05.716657178 UTC

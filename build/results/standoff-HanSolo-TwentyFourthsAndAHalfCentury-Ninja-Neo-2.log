@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Ninja Neo
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,N,Sb,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: N,Dc,Da,Dc,Da,Dc,Da,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Db,Dd,Db,Da,Db,Dc,Dd,Da,Dd,Dc,Dc,Db,Dc,Dd,Da,Db,Dc,Db
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Neo HanSolo Ninja
+Ninja: Neo HanSolo TwentyFourthsAndAHalfCentury
+Neo: Ninja HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:19:31.885712448 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Monkey EmoCowboy
+                         Spock: Sd,N,N,N,N,Sd,N,Sd,N,Sc,N,Sd,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa,N,Sc,N,Sc,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N,N,Sc,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                        Monkey: -4
+                     EmoCowboy: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: EmoCowboy Richochet Monkey
+Richochet: EmoCowboy Spock Monkey
+Monkey: EmoCowboy Spock Richochet
+EmoCowboy: Monkey Spock Richochet
+Generated: 2014/08/12 07:02:22.359237170 UTC

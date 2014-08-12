@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Bomberman Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,N,Db,N,N,N,N,N,Da,N,Da,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                         Spock: -1
+                     Bomberman: -15
+                           Neo: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Spock Bomberman
+Spock: Neo StraightShooter Bomberman
+Bomberman: Neo StraightShooter Spock
+Neo: Bomberman StraightShooter Spock
+Generated: 2014/08/12 06:12:22.513476500 UTC

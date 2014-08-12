@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Monkey TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc
+                        Monkey: N,Sd,N,Sa,N,N,N,N,N,Sd,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Db,N,N,Dc,Db,Dc,Dc,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey TwentyFourthsAndAHalfCentury Richochet
+Richochet: Monkey TwentyFourthsAndAHalfCentury StraightShooter
+Monkey: Richochet TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: Richochet Monkey StraightShooter
+Generated: 2014/08/12 05:45:43.529475557 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Zaenille Monkey
+                       HanSolo: Sd,N,Sd,N,Sd
+                        Coward: Sc,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                        Monkey: N,Sc,N,Sa,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 5
+                      Zaenille: -4
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Coward Zaenille
+Coward: Monkey HanSolo Zaenille
+Zaenille: Monkey HanSolo Coward
+Monkey: Zaenille HanSolo Coward
+Generated: 2014/08/12 09:35:16.277127397 UTC

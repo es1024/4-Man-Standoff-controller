@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Bomberman Scared
+                 InputAnalyzer: Db,Sc
+                     Aggressor: P,Ta
+                     Bomberman: N,N
+                        Scared: Sb,N
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 0
+                     Bomberman: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Bomberman Scared
+Aggressor: InputAnalyzer Bomberman Scared
+Bomberman: InputAnalyzer Aggressor Scared
+Scared: InputAnalyzer Aggressor Bomberman
+Generated: 2014/08/12 07:39:15.832268918 UTC

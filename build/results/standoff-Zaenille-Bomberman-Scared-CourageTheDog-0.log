@@ -1,0 +1,16 @@
+Standoff between: Zaenille Bomberman Scared CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,N
+                 CourageTheDog: Sc,N,Sb,N,Dc,Sb,N,Dc,Sc,N,Dc,Dc,Sc
+Final Health:
+                      Zaenille: -2
+                     Bomberman: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Bomberman Scared CourageTheDog
+Bomberman: Zaenille Scared CourageTheDog
+Scared: Zaenille Bomberman CourageTheDog
+CourageTheDog: Zaenille Bomberman Scared
+Generated: 2014/08/12 08:18:10.014050338 UTC

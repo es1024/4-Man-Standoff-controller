@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Richochet AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,Sb,N,N,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -2
+                     Richochet: 5
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet AntiGrenadier InputAnalyzer
+InputAnalyzer: Richochet AntiGrenadier StraightShooter
+Richochet: InputAnalyzer AntiGrenadier StraightShooter
+AntiGrenadier: InputAnalyzer Richochet StraightShooter
+Generated: 2014/08/12 08:35:31.348653349 UTC

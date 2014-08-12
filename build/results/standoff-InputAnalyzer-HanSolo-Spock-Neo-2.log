@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Spock Neo
+                 InputAnalyzer: Dd,P,Da,Db,N
+                       HanSolo: Sd,N,Sd,N,Sc
+                         Spock: Sd,N,Sd,N,Sd
+                           Neo: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 2
+                         Spock: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo HanSolo Spock
+HanSolo: Neo InputAnalyzer Spock
+Spock: Neo InputAnalyzer HanSolo
+Neo: Spock InputAnalyzer HanSolo
+Generated: 2014/08/12 09:58:52.697362524 UTC

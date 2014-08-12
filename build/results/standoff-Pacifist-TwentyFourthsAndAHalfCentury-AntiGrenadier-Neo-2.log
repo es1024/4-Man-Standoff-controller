@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury AntiGrenadier Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Sc,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,Sa,N,Sd,N,Sa,N,Sc,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,Da,N,Da,N,Dc,N,Sb,N,Sb,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Neo Pacifist AntiGrenadier
+AntiGrenadier: Neo Pacifist TwentyFourthsAndAHalfCentury
+Neo: AntiGrenadier Pacifist TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:11:32.326101686 UTC

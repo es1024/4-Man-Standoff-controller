@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Monkey AntiGrenadier
+                     Grenadier: N,N,P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Dd,Da,Sa,N,Dc,Dc,Dd,Da,Dc,Da,Dd,Da,Dd,Dc,Dd,Dd,Dd,Dd,Dc,Da,Dc,Da,Dc,Dd,Da,Da,Dd,Dc,Dc,Dd,Dd,Da,Dc,Sc
+                        Monkey: N,N,Dd,Dd,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,Dc,N,N,N,N,Dc,N,N,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -2
+                 DONTNUKEMEBRO: 2
+                        Monkey: 0
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier DONTNUKEMEBRO Monkey
+DONTNUKEMEBRO: AntiGrenadier Grenadier Monkey
+Monkey: AntiGrenadier Grenadier DONTNUKEMEBRO
+AntiGrenadier: Monkey Grenadier DONTNUKEMEBRO
+Generated: 2014/08/12 06:40:10.276055553 UTC

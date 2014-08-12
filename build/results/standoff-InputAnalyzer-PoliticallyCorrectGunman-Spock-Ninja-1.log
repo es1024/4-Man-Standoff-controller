@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock Ninja
+                 InputAnalyzer: Dc,Db,Dc,Db,Sc,N,Sb,N,P,Sb,N
+      PoliticallyCorrectGunman: Sd,N,N,Sb,N,N,N,N,N,N,N
+                         Spock: Sb,N,Sb,N,Sd,N,Sd,N,Sb,N,Sb
+                         Ninja: Dc,Dc,Db,Db,Dd,Da,Da,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -2
+                         Spock: 0
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Ninja PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Spock Ninja InputAnalyzer
+Spock: PoliticallyCorrectGunman Ninja InputAnalyzer
+Ninja: PoliticallyCorrectGunman Spock InputAnalyzer
+Generated: 2014/08/12 08:45:55.256107253 UTC

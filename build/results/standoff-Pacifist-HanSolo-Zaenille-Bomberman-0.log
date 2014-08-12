@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Zaenille Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Zaenille Bomberman
+HanSolo: Pacifist Zaenille Bomberman
+Zaenille: Pacifist HanSolo Bomberman
+Bomberman: Pacifist HanSolo Zaenille
+Generated: 2014/08/12 07:14:31.961506019 UTC

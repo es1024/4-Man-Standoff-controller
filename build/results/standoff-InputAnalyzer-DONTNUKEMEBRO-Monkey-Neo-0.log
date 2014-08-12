@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Monkey Neo
+                 InputAnalyzer: Db,Dd,Sc,N,P,Sb,N
+                 DONTNUKEMEBRO: Dc,Da,Dc,Dc,Dc,Sa,N
+                        Monkey: N,Dc,Dd,Dc,Dc,Dc,Dc
+                           Neo: N,N,N,N,Dc,Dc,N
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 0
+                        Monkey: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Monkey Neo
+DONTNUKEMEBRO: InputAnalyzer Monkey Neo
+Monkey: InputAnalyzer DONTNUKEMEBRO Neo
+Neo: InputAnalyzer DONTNUKEMEBRO Monkey
+Generated: 2014/08/12 07:32:43.964313250 UTC

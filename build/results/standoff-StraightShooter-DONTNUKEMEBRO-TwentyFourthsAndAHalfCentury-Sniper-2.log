@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,N
+                 DONTNUKEMEBRO: Da,Da,Sa,N,P,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Dd,N,N,N,N
+                        Sniper: Sa,N,Sb,N,Sa,N,Sc
+Final Health:
+               StraightShooter: -4
+                 DONTNUKEMEBRO: -7
+  TwentyFourthsAndAHalfCentury: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: Sniper StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper StraightShooter DONTNUKEMEBRO
+Sniper: TwentyFourthsAndAHalfCentury StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 06:42:31.875695112 UTC

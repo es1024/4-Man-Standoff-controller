@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo SimpleShooter Monkey
+                 InputAnalyzer: Db,Sd,N,Dc,Db,Dc,P
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -7
+                       HanSolo: -2
+                 SimpleShooter: 2
+                        Monkey: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo SimpleShooter Monkey
+HanSolo: InputAnalyzer SimpleShooter Monkey
+SimpleShooter: InputAnalyzer HanSolo Monkey
+Monkey: InputAnalyzer HanSolo SimpleShooter
+Generated: 2014/08/12 06:29:18.518684482 UTC

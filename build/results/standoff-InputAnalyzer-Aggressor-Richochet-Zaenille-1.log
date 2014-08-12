@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Richochet Zaenille
+                 InputAnalyzer: Dc,Db,Da
+                     Aggressor: P,Tc,Sa
+                     Richochet: Sa,N,N
+                      Zaenille: Sd,N,N
+Final Health:
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                     Richochet: -3
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Zaenille Aggressor
+Aggressor: Richochet Zaenille InputAnalyzer
+Richochet: Aggressor Zaenille InputAnalyzer
+Zaenille: Aggressor Richochet InputAnalyzer
+Generated: 2014/08/12 09:13:32.181684067 UTC

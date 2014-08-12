@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Zaenille TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,P,N,Dc,N
+                 DONTNUKEMEBRO: Dc,Da,Sa,N,Dc
+                      Zaenille: Sc,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Db,Da,Sb
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 0
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Zaenille TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer DONTNUKEMEBRO Zaenille
+Generated: 2014/08/12 06:38:01.666548413 UTC

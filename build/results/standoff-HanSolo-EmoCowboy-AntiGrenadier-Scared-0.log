@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy AntiGrenadier Scared
+                       HanSolo: Sb,N,Sc,N,Sc,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy AntiGrenadier Scared
+EmoCowboy: HanSolo AntiGrenadier Scared
+AntiGrenadier: HanSolo EmoCowboy Scared
+Scared: HanSolo EmoCowboy AntiGrenadier
+Generated: 2014/08/12 08:26:55.928191634 UTC

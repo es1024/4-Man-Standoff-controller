@@ -1,0 +1,16 @@
+Standoff between: Coward Sniper Scared CourageTheDog
+                        Coward: Sc,N,Sb,N,Sb,N,Db,Dd,Db,Sb,N,Dc
+                        Sniper: Sc,N,N,N,N,N,Sa,N,Sa,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Sa,N,Sa,N,Db,Da,Db,Da,Sa
+Final Health:
+                        Coward: -1
+                        Sniper: -1
+                        Scared: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Sniper Scared
+Sniper: CourageTheDog Coward Scared
+Scared: CourageTheDog Coward Sniper
+CourageTheDog: Scared Coward Sniper
+Generated: 2014/08/12 06:20:26.181905675 UTC

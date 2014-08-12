@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Coward TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Sc,N,N,N,Db,Sa,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,Sb,N,Db,Dd,Db,Sb,N
+  TwentyFourthsAndAHalfCentury: Db,N,Da,Da,Db,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: 1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Coward TwentyFourthsAndAHalfCentury
+HanSolo: PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury
+Coward: PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman HanSolo Coward
+Generated: 2014/08/12 07:43:55.899334327 UTC

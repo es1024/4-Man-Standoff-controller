@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Dc,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sd,N,Sb,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sb,N,Da,Sa,N,Sc,N,Sa
+Final Health:
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper CourageTheDog Spock
+Sniper: TwentyFourthsAndAHalfCentury CourageTheDog Spock
+CourageTheDog: TwentyFourthsAndAHalfCentury Sniper Spock
+Generated: 2014/08/12 08:33:25.466666223 UTC

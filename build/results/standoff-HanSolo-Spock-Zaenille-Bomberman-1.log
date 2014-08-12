@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Zaenille Bomberman
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Spock: Sc,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                      Zaenille: -6
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Bomberman Spock
+Spock: Zaenille Bomberman HanSolo
+Zaenille: Spock Bomberman HanSolo
+Bomberman: Spock Zaenille HanSolo
+Generated: 2014/08/12 07:05:36.888203890 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer PoliticallyCorrectGunman Richochet
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Sa,N,Sc,N
+      PoliticallyCorrectGunman: Sc,N,N,N,N,N,N
+                     Richochet: Sb,N,Sa,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -2
+                     Richochet: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Richochet InputAnalyzer
+InputAnalyzer: PoliticallyCorrectGunman Richochet Pacifist
+PoliticallyCorrectGunman: InputAnalyzer Richochet Pacifist
+Richochet: InputAnalyzer PoliticallyCorrectGunman Pacifist
+Generated: 2014/08/12 07:46:12.214991669 UTC

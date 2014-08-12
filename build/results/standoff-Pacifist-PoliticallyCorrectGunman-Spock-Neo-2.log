@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Spock Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,Sd,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,Sd,N,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,Sd,N,Sd,N
+                           Neo: N,Db,N,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+      PoliticallyCorrectGunman: -2
+                         Spock: -15
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: Neo Pacifist Spock
+Spock: Neo Pacifist PoliticallyCorrectGunman
+Neo: Spock Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 06:26:39.124144819 UTC

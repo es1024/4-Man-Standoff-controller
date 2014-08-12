@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy Ninja Neo CourageTheDog
+                     EmoCowboy: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Db,Dc,Da,Dd,Db,Dd,Dc,Da,Da,Dc,Da,Da,Dc,Db,Db,Dc,Dd,Da,Dd,Db,Dd,Dc,Da,Da
+                           Neo: N,N,Db,Db,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sc,N,Db,Dc,Db,Sc,N,N,Sb,N,Db,Db,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                     EmoCowboy: -2
+                         Ninja: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: CourageTheDog Ninja Neo
+Ninja: CourageTheDog EmoCowboy Neo
+Neo: CourageTheDog EmoCowboy Ninja
+CourageTheDog: Neo EmoCowboy Ninja
+Generated: 2014/08/12 10:05:26.390738816 UTC

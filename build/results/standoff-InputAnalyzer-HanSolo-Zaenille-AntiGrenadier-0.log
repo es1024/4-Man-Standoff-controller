@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Zaenille AntiGrenadier
+                 InputAnalyzer: Db,Dd,Sa,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                       HanSolo: 5
+                      Zaenille: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Zaenille AntiGrenadier
+HanSolo: InputAnalyzer Zaenille AntiGrenadier
+Zaenille: InputAnalyzer HanSolo AntiGrenadier
+AntiGrenadier: InputAnalyzer HanSolo Zaenille
+Generated: 2014/08/12 06:11:32.987226963 UTC

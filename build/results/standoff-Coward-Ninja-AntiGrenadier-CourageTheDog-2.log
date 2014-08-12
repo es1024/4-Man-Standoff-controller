@@ -1,0 +1,16 @@
+Standoff between: Coward Ninja AntiGrenadier CourageTheDog
+                        Coward: Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                         Ninja: Dc,Da,Dc,Dc,Db,Dc,Db,Da,Dc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,Db,Da,Db,Da,N,Da,Da,N,Da,Da,Da,Sa,N,Da,Sa,N
+Final Health:
+                        Coward: 1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Ninja AntiGrenadier
+Ninja: CourageTheDog Coward AntiGrenadier
+AntiGrenadier: CourageTheDog Coward Ninja
+CourageTheDog: AntiGrenadier Coward Ninja
+Generated: 2014/08/12 09:40:35.621097377 UTC

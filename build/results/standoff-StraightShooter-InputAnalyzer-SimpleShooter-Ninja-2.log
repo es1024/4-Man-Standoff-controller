@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer SimpleShooter Ninja
+               StraightShooter: Sb,N,Sb,N,N,N,N
+                 InputAnalyzer: Dd,P,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N,Sd
+                         Ninja: Dc,Da,Db,Db,Dc,Da,Dd
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                 SimpleShooter: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja InputAnalyzer SimpleShooter
+InputAnalyzer: Ninja StraightShooter SimpleShooter
+SimpleShooter: Ninja StraightShooter InputAnalyzer
+Ninja: SimpleShooter StraightShooter InputAnalyzer
+Generated: 2014/08/12 08:50:46.039230426 UTC

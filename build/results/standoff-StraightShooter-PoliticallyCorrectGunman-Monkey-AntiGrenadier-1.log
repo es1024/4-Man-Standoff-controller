@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Monkey AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+      PoliticallyCorrectGunman: Dd,N,Dd,Sc,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Da,Da,P,Dc,Tc,N,Dd,N,Sb
+                        Monkey: N,Sd,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,N,Da,N,Dc,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 2
+      PoliticallyCorrectGunman: -2
+                        Monkey: -5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey AntiGrenadier PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Monkey AntiGrenadier StraightShooter
+Monkey: PoliticallyCorrectGunman AntiGrenadier StraightShooter
+AntiGrenadier: PoliticallyCorrectGunman Monkey StraightShooter
+Generated: 2014/08/12 10:00:57.266966410 UTC

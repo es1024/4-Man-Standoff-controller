@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Monkey EmoCowboy
+                       HanSolo: Sc,N,Sc,N,Sb
+                     Richochet: Sa,N,Sa,N,Sa
+                        Monkey: N,N,N,Sc,N
+                     EmoCowboy: N,N,Sd,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 3
+                        Monkey: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey EmoCowboy Richochet
+Richochet: Monkey EmoCowboy HanSolo
+Monkey: Richochet EmoCowboy HanSolo
+EmoCowboy: Richochet Monkey HanSolo
+Generated: 2014/08/12 10:13:10.983906093 UTC

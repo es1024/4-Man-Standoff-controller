@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Ninja CourageTheDog
+                 InputAnalyzer: Db,Dd,Db,Sa,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sc,N,Sd,N,Sc,N,Sc,N,Sd,N,Sd
+                         Ninja: Dc,Dc,Dd,Da,Da,Da,Db,Dc,Db,Db,N,N,N
+                 CourageTheDog: Sb,N,Da,Sa,N,Db,Db,Db,Db,Sc,N,Db,Sb
+Final Health:
+                 InputAnalyzer: -4
+                     Richochet: 1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Ninja CourageTheDog
+Richochet: InputAnalyzer Ninja CourageTheDog
+Ninja: InputAnalyzer Richochet CourageTheDog
+CourageTheDog: InputAnalyzer Richochet Ninja
+Generated: 2014/08/12 06:15:30.845572810 UTC

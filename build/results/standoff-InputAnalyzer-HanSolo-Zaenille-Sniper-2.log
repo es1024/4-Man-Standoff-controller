@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Zaenille Sniper
+                 InputAnalyzer: Dd,Da,P,Sd,N
+                       HanSolo: Sd,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                        Sniper: Sb,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 0
+                      Zaenille: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper HanSolo Zaenille
+HanSolo: Sniper InputAnalyzer Zaenille
+Zaenille: Sniper InputAnalyzer HanSolo
+Sniper: Zaenille InputAnalyzer HanSolo
+Generated: 2014/08/12 10:30:05.319374461 UTC

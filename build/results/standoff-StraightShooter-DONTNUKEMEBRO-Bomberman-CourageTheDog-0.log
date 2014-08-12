@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Bomberman CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dd,Dd,Dd,Sd,N,Dc,Da,Da,Sd,N,Dc,Da,Dd,Da,Da,Sd,N,Da
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sb,N,Sa,N,Da,Sb,N,Da,Db,Sa,N,Db,Sb,N,Db,Db,Sb
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                     Bomberman: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Bomberman CourageTheDog
+DONTNUKEMEBRO: StraightShooter Bomberman CourageTheDog
+Bomberman: StraightShooter DONTNUKEMEBRO CourageTheDog
+CourageTheDog: StraightShooter DONTNUKEMEBRO Bomberman
+Generated: 2014/08/12 07:36:34.498004430 UTC

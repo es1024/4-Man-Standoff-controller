@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey AntiGrenadier Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Monkey: N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                        Monkey: -15
+                 AntiGrenadier: -1
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey AntiGrenadier Rule0Bot
+Monkey: StraightShooter AntiGrenadier Rule0Bot
+AntiGrenadier: StraightShooter Monkey Rule0Bot
+Rule0Bot: StraightShooter Monkey AntiGrenadier
+Generated: 2014/08/12 09:39:59.976698463 UTC

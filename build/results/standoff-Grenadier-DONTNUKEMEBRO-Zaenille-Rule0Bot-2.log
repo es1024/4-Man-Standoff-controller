@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Zaenille Rule0Bot
+                     Grenadier: N,P,Td
+                 DONTNUKEMEBRO: Dc,Da,Sa
+                      Zaenille: Sc,N,N
+                      Rule0Bot: N,N,N
+Final Health:
+                     Grenadier: 0
+                 DONTNUKEMEBRO: 2
+                      Zaenille: -2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot DONTNUKEMEBRO Zaenille
+DONTNUKEMEBRO: Rule0Bot Grenadier Zaenille
+Zaenille: Rule0Bot Grenadier DONTNUKEMEBRO
+Rule0Bot: Zaenille Grenadier DONTNUKEMEBRO
+Generated: 2014/08/12 07:18:40.325177871 UTC

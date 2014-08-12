@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Richochet Scared
+                 InputAnalyzer: Dc,Sb,N,Sb,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dd,Sd,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sd,N,Sd
+                        Scared: Sb,N,Sa,N,Sc,N,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: -1
+                     Richochet: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Scared DONTNUKEMEBRO
+DONTNUKEMEBRO: Richochet Scared InputAnalyzer
+Richochet: DONTNUKEMEBRO Scared InputAnalyzer
+Scared: DONTNUKEMEBRO Richochet InputAnalyzer
+Generated: 2014/08/12 08:17:05.550933779 UTC

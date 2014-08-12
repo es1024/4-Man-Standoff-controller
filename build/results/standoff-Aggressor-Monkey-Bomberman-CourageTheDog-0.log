@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Bomberman CourageTheDog
+                     Aggressor: P,Tc
+                        Monkey: N,P
+                     Bomberman: N,N
+                 CourageTheDog: Sb,N
+Final Health:
+                     Aggressor: -1
+                        Monkey: -6
+                     Bomberman: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Monkey Bomberman CourageTheDog
+Monkey: Aggressor Bomberman CourageTheDog
+Bomberman: Aggressor Monkey CourageTheDog
+CourageTheDog: Aggressor Monkey Bomberman
+Generated: 2014/08/12 10:05:57.417594798 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Aggressor Zaenille
+                 InputAnalyzer: Db,P
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                      Zaenille: Sd,N
+Final Health:
+                 InputAnalyzer: -9
+                        Coward: -1
+                     Aggressor: -1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Aggressor Zaenille
+Coward: InputAnalyzer Aggressor Zaenille
+Aggressor: InputAnalyzer Coward Zaenille
+Zaenille: InputAnalyzer Coward Aggressor
+Generated: 2014/08/12 10:15:43.282551434 UTC

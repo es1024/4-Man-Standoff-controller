@@ -1,0 +1,16 @@
+Standoff between: Spock Ninja Sniper CourageTheDog
+                         Spock: N,N,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Dd,Da,Dc,Dc,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sd,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Db,Da,Sa,N,Sb,N,Dc,Dc,Sc,N,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Sc
+Final Health:
+                         Spock: -1
+                         Ninja: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja Sniper CourageTheDog
+Ninja: Spock Sniper CourageTheDog
+Sniper: Spock Ninja CourageTheDog
+CourageTheDog: Spock Ninja Sniper
+Generated: 2014/08/12 08:24:03.324667225 UTC

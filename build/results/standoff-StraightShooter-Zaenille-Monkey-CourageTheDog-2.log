@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Monkey CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,Da,Dc,Dc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Dc,Dc,Dc,Dc,Dc,Dc,Da,Dc,Sa,N,Sa,N,Sa,N,Dc,Sc,N,Sc,N,Dc,N,Dc,Sc
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -6
+                        Monkey: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Zaenille Monkey
+Zaenille: CourageTheDog StraightShooter Monkey
+Monkey: CourageTheDog StraightShooter Zaenille
+CourageTheDog: Monkey StraightShooter Zaenille
+Generated: 2014/08/12 06:08:20.685605765 UTC

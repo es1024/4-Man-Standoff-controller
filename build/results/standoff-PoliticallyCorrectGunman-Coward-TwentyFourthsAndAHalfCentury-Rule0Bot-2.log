@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury Rule0Bot
+      PoliticallyCorrectGunman: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Dc,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Db,Dd,Db,Dd,Dd,Dd,Dd,Dd,Dd,Sb,N,Sb,N,N,N,N,N,N,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Coward TwentyFourthsAndAHalfCentury
+Coward: Rule0Bot PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot PoliticallyCorrectGunman Coward
+Rule0Bot: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 06:33:06.456389977 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille EmoCowboy CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Da,Sa,N,Da,Da,Da,Da,Sa,N,Da,Da,Da,Sa
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -4
+                     EmoCowboy: -2
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille EmoCowboy CourageTheDog
+Zaenille: Pacifist EmoCowboy CourageTheDog
+EmoCowboy: Pacifist Zaenille CourageTheDog
+CourageTheDog: Pacifist Zaenille EmoCowboy
+Generated: 2014/08/12 07:24:42.842287050 UTC

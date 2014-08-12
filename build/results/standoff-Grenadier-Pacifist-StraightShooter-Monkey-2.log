@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist StraightShooter Monkey
+                     Grenadier: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -18
+               StraightShooter: -18
+                        Monkey: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Pacifist StraightShooter
+Pacifist: Monkey Grenadier StraightShooter
+StraightShooter: Monkey Grenadier Pacifist
+Monkey: StraightShooter Grenadier Pacifist
+Generated: 2014/08/12 08:22:23.285864727 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Richochet TwentyFourthsAndAHalfCentury
+                         Spock: Sd,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sc
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,N,Da,N,Da,N,Dc
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: TwentyFourthsAndAHalfCentury SimpleShooter Richochet
+SimpleShooter: TwentyFourthsAndAHalfCentury Spock Richochet
+Richochet: TwentyFourthsAndAHalfCentury Spock SimpleShooter
+TwentyFourthsAndAHalfCentury: Richochet Spock SimpleShooter
+Generated: 2014/08/12 07:07:31.248086920 UTC

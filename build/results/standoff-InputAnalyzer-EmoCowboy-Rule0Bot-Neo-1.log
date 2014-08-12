@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer EmoCowboy Rule0Bot Neo
+                 InputAnalyzer: Dc,Db,P,Sc,N
+                     EmoCowboy: N,N,N,Sb,N
+                      Rule0Bot: N,N,N,Sa,N
+                           Neo: N,N,N,N,Sa
+Final Health:
+                 InputAnalyzer: -5
+                     EmoCowboy: -2
+                      Rule0Bot: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Neo EmoCowboy
+EmoCowboy: Rule0Bot Neo InputAnalyzer
+Rule0Bot: EmoCowboy Neo InputAnalyzer
+Neo: EmoCowboy Rule0Bot InputAnalyzer
+Generated: 2014/08/12 08:27:23.671431436 UTC

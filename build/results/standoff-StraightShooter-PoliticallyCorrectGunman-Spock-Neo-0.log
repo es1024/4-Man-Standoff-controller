@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Spock Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,N,N
+                           Neo: N,Sc,N,N,Da,N,N,N,N,N,N,Sa
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Spock Neo
+PoliticallyCorrectGunman: StraightShooter Spock Neo
+Spock: StraightShooter PoliticallyCorrectGunman Neo
+Neo: StraightShooter PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 08:46:20.045294712 UTC

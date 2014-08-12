@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Bomberman Neo
+                     Aggressor: P,Td,Sb,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N
+                     Bomberman: N,N,N,N,N
+                           Neo: N,N,N,N,N
+Final Health:
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                     Bomberman: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Neo Aggressor Bomberman
+Bomberman: Neo Aggressor TwentyFourthsAndAHalfCentury
+Neo: Bomberman Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:17:38.523158627 UTC

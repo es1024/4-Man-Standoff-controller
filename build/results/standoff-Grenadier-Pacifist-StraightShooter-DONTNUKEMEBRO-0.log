@@ -1,16 +1,16 @@
 Standoff between: Grenadier Pacifist StraightShooter DONTNUKEMEBRO
-                     Grenadier: P,Tc
-                      Pacifist: N,N
-               StraightShooter: Sb,N
-                 DONTNUKEMEBRO: Dc,Sa
+                     Grenadier: N,N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dc,Dc,Db,Db,Sa,N,Dc,Db,Db,Da,Db,Dc,Da,Db,Db,Da,Da,Da,Db,Dc,Db,Dc,Dc,Da,Db,Dc,Da,Db,Dc,Dc,Da,Db,Da,Da,Sc
 Final Health:
-                     Grenadier: 0
-                      Pacifist: 0
-               StraightShooter: -3
+                     Grenadier: -3
+                      Pacifist: -1
+               StraightShooter: 0
                  DONTNUKEMEBRO: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: Pacifist StraightShooter DONTNUKEMEBRO
 Pacifist: Grenadier StraightShooter DONTNUKEMEBRO
 StraightShooter: Grenadier Pacifist DONTNUKEMEBRO
 DONTNUKEMEBRO: Grenadier Pacifist StraightShooter
-Generated: 2014/08/11 01:00:13.809329365 UTC
+Generated: 2014/08/12 08:51:33.065472414 UTC

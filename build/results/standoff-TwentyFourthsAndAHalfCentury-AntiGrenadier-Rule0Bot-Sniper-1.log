@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury AntiGrenadier Rule0Bot Sniper
+  TwentyFourthsAndAHalfCentury: Db,Dc,Db,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -15
+                      Rule0Bot: -15
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Rule0Bot Sniper AntiGrenadier
+AntiGrenadier: Rule0Bot Sniper TwentyFourthsAndAHalfCentury
+Rule0Bot: AntiGrenadier Sniper TwentyFourthsAndAHalfCentury
+Sniper: AntiGrenadier Rule0Bot TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:20:05.431459313 UTC

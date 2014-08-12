@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Rule0Bot Sniper
+                     Grenadier: P,N,N
+      PoliticallyCorrectGunman: Sd,N,Sa
+                      Rule0Bot: N,Sa,N
+                        Sniper: Sc,N,Sc
+Final Health:
+                     Grenadier: -5
+      PoliticallyCorrectGunman: 2
+                      Rule0Bot: -2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Rule0Bot Sniper
+PoliticallyCorrectGunman: Grenadier Rule0Bot Sniper
+Rule0Bot: Grenadier PoliticallyCorrectGunman Sniper
+Sniper: Grenadier PoliticallyCorrectGunman Rule0Bot
+Generated: 2014/08/12 05:53:01.522330606 UTC

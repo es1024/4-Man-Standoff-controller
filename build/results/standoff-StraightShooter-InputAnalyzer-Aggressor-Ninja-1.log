@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Aggressor Ninja
+               StraightShooter: Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,N,N,N
+                     Aggressor: P,Tb,Sd,N,Sa
+                         Ninja: Da,Dc,Dd,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -3
+                     Aggressor: 2
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Ninja InputAnalyzer
+InputAnalyzer: Aggressor Ninja StraightShooter
+Aggressor: InputAnalyzer Ninja StraightShooter
+Ninja: InputAnalyzer Aggressor StraightShooter
+Generated: 2014/08/12 09:55:46.867004025 UTC

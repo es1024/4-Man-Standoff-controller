@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Coward EmoCowboy
+                     Grenadier: N,N,N,N,P,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sa
+                        Coward: Sa,N,Sb,N,Sb,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -5
+                       HanSolo: -2
+                        Coward: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward EmoCowboy HanSolo
+HanSolo: Coward EmoCowboy Grenadier
+Coward: HanSolo EmoCowboy Grenadier
+EmoCowboy: HanSolo Coward Grenadier
+Generated: 2014/08/12 10:46:43.707216639 UTC

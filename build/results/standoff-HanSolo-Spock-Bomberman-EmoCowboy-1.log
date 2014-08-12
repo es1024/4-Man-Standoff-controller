@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Bomberman EmoCowboy
+                       HanSolo: Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                     Bomberman: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman EmoCowboy Spock
+Spock: Bomberman EmoCowboy HanSolo
+Bomberman: Spock EmoCowboy HanSolo
+EmoCowboy: Spock Bomberman HanSolo
+Generated: 2014/08/12 08:21:38.482161224 UTC

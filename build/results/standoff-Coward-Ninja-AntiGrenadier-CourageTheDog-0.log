@@ -1,0 +1,16 @@
+Standoff between: Coward Ninja AntiGrenadier CourageTheDog
+                        Coward: Sd,N,Sd,N,Sd,N,Dc,Dd,Sd,N,Dc,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Da,Da,Dc,Dc,Dc,Dc,Da,Da,Da,Da,Db,Db,Db,Da,Dd,Dd,Dd,Dc,Db,Da,Dd,Dc,Db,Da,Dd,Dc,Dd,Da,Dc,Dc,Da,Db,Db,Dd,Dc,Dc,Da,Da,Dc,Dd,Dd,Dd,Dd,Dc,Db,Dd,Dd,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sa,N,Sc,N,Dc,Da,Dc,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                         Ninja: -15
+                 AntiGrenadier: -17
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja AntiGrenadier CourageTheDog
+Ninja: Coward AntiGrenadier CourageTheDog
+AntiGrenadier: Coward Ninja CourageTheDog
+CourageTheDog: Coward Ninja AntiGrenadier
+Generated: 2014/08/12 09:39:30.384636207 UTC

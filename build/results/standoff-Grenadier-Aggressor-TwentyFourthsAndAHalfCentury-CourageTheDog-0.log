@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor TwentyFourthsAndAHalfCentury CourageTheDog
+                     Grenadier: P,Tb
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: Db,Db
+                 CourageTheDog: Sc,N
+Final Health:
+                     Grenadier: -6
+                     Aggressor: -6
+  TwentyFourthsAndAHalfCentury: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor TwentyFourthsAndAHalfCentury CourageTheDog
+Aggressor: Grenadier TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: Grenadier Aggressor CourageTheDog
+CourageTheDog: Grenadier Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:24:17.081106612 UTC

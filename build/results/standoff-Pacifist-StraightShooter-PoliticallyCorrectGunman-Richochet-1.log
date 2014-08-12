@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter PoliticallyCorrectGunman Richochet
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+      PoliticallyCorrectGunman: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -18
+               StraightShooter: -18
+      PoliticallyCorrectGunman: 0
+                     Richochet: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Richochet StraightShooter
+StraightShooter: PoliticallyCorrectGunman Richochet Pacifist
+PoliticallyCorrectGunman: StraightShooter Richochet Pacifist
+Richochet: StraightShooter PoliticallyCorrectGunman Pacifist
+Generated: 2014/08/12 07:17:09.521370347 UTC

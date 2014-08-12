@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Zaenille Bomberman
+                     Grenadier: P,N,N
+                       HanSolo: Sc,N,Sd
+                      Zaenille: Sc,N,N
+                     Bomberman: N,N,N
+Final Health:
+                     Grenadier: -1
+                       HanSolo: 2
+                      Zaenille: -4
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Bomberman HanSolo
+HanSolo: Zaenille Bomberman Grenadier
+Zaenille: HanSolo Bomberman Grenadier
+Bomberman: HanSolo Zaenille Grenadier
+Generated: 2014/08/12 09:14:12.772021264 UTC

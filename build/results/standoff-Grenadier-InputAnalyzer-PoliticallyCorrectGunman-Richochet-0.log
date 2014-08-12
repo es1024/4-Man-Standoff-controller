@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer PoliticallyCorrectGunman Richochet
+                     Grenadier: N,P,Tc
+                 InputAnalyzer: Da,P,Sd
+      PoliticallyCorrectGunman: N,Sa,N
+                     Richochet: Sb,N,Sc
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -8
+                     Richochet: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer PoliticallyCorrectGunman Richochet
+InputAnalyzer: Grenadier PoliticallyCorrectGunman Richochet
+PoliticallyCorrectGunman: Grenadier InputAnalyzer Richochet
+Richochet: Grenadier InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 10:31:15.171184302 UTC

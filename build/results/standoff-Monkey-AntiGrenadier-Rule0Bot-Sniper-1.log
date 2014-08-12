@@ -1,0 +1,16 @@
+Standoff between: Monkey AntiGrenadier Rule0Bot Sniper
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -1
+                 AntiGrenadier: -17
+                      Rule0Bot: -17
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Rule0Bot Sniper AntiGrenadier
+AntiGrenadier: Rule0Bot Sniper Monkey
+Rule0Bot: AntiGrenadier Sniper Monkey
+Sniper: AntiGrenadier Rule0Bot Monkey
+Generated: 2014/08/12 07:27:33.700465634 UTC

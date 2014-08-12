@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter AntiGrenadier Neo
+                         Spock: Sc,N,Sc,N,Sc,N,N,Sd,N
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,Dc,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Neo SimpleShooter
+SimpleShooter: AntiGrenadier Neo Spock
+AntiGrenadier: SimpleShooter Neo Spock
+Neo: SimpleShooter AntiGrenadier Spock
+Generated: 2014/08/12 10:03:50.084451909 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Sniper Scared
+                     Grenadier: N,N,N,P,N,N
+                         Spock: N,N,Sd,N,Sc,N
+                        Sniper: Sd,N,Sd,N,N,N
+                        Scared: N,N,Sc,N,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: 2
+                        Sniper: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Scared Spock
+Spock: Sniper Scared Grenadier
+Sniper: Spock Scared Grenadier
+Scared: Spock Sniper Grenadier
+Generated: 2014/08/12 10:30:12.681863461 UTC

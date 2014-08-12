@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Aggressor Richochet
+                 InputAnalyzer: Db,P
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Tb
+                     Richochet: Sa,N
+Final Health:
+                 InputAnalyzer: -6
+                 SimpleShooter: -6
+                     Aggressor: -1
+                     Richochet: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Aggressor Richochet
+SimpleShooter: InputAnalyzer Aggressor Richochet
+Aggressor: InputAnalyzer SimpleShooter Richochet
+Richochet: InputAnalyzer SimpleShooter Aggressor
+Generated: 2014/08/12 09:29:04.279503099 UTC

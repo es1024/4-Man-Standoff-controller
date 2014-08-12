@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman EmoCowboy Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Db,Dd,Db,Dc,Dd,Db,Dc,Dd,Db,Da,Dc,Da,Dc,Da,Dc,Dd,Dc,Dd,Db,Dc,Da,Dc,Dc,Dd,Dc,Db,Dd,Db,Dc,Db,Da,Dc,Da,Db,Dd,Db,Db,Db,Da,Dc,Db,Da,Db,Db,Da,Dc,Db,Da
+Final Health:
+                      Pacifist: -15
+                     Bomberman: -15
+                     EmoCowboy: -2
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Bomberman EmoCowboy
+Bomberman: Ninja Pacifist EmoCowboy
+EmoCowboy: Ninja Pacifist Bomberman
+Ninja: EmoCowboy Pacifist Bomberman
+Generated: 2014/08/12 07:24:05.190883568 UTC

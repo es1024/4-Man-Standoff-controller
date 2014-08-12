@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Sniper Scared CourageTheDog
+                 InputAnalyzer: Dd,P,Sa
+                        Sniper: Sd,N,Sc
+                        Scared: N,N,N
+                 CourageTheDog: Sb,N,P
+Final Health:
+                 InputAnalyzer: -11
+                        Sniper: -3
+                        Scared: -3
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Sniper Scared
+Sniper: CourageTheDog InputAnalyzer Scared
+Scared: CourageTheDog InputAnalyzer Sniper
+CourageTheDog: Scared InputAnalyzer Sniper
+Generated: 2014/08/12 05:50:27.842174676 UTC

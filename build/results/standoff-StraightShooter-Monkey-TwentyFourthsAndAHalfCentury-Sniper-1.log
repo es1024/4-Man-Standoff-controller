@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey TwentyFourthsAndAHalfCentury Sniper
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,N,N,Sd,N,N,N,N,Db,N,N,Sd,N,N,N,Da,N,N,N,N,N,N,N,N,N,Sd,N,Da,Db,N,N,N,N,Da,Db,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Da,Db,Da,Db,Db,Db,Db,Db,Da,Db,Da,Db,Da,N,N,N,N,N,N,N,N,Db,Db,Db,Da,Db,Da,Db,Da,Db,Da,Db,Db,Db,Da,Db,N,N,N,N,N,N,N,Db,Da,Db
+                        Sniper: Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -19
+                        Monkey: -17
+  TwentyFourthsAndAHalfCentury: -15
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Sniper Monkey
+Monkey: TwentyFourthsAndAHalfCentury Sniper StraightShooter
+TwentyFourthsAndAHalfCentury: Monkey Sniper StraightShooter
+Sniper: Monkey TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 08:53:24.210657101 UTC

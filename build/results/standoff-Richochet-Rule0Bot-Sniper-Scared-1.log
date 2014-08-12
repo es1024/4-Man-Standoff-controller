@@ -1,0 +1,16 @@
+Standoff between: Richochet Rule0Bot Sniper Scared
+                     Richochet: Sc,N,Sc,N,Sd,N,Sd,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,Sb,N,Sa,N,Sb
+Final Health:
+                     Richochet: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Sniper Scared Rule0Bot
+Rule0Bot: Sniper Scared Richochet
+Sniper: Rule0Bot Scared Richochet
+Scared: Rule0Bot Sniper Richochet
+Generated: 2014/08/12 06:19:46.022054573 UTC

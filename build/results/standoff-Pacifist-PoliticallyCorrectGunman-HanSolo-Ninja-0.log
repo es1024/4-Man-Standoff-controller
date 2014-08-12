@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman HanSolo Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sd,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                         Ninja: Dd,Db,Dc,Da,Dd,Dc,Db,Da,Dd,Da,Db,Dc,Da,Dd,Dc,Da,Db,Db,Dc,Dc,Db
+Final Health:
+                      Pacifist: -3
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman HanSolo Ninja
+PoliticallyCorrectGunman: Pacifist HanSolo Ninja
+HanSolo: Pacifist PoliticallyCorrectGunman Ninja
+Ninja: Pacifist PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 10:18:33.248995043 UTC

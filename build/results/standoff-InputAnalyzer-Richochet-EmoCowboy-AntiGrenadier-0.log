@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet EmoCowboy AntiGrenadier
+                 InputAnalyzer: Db,Dd,Sa,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                     Richochet: 5
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet EmoCowboy AntiGrenadier
+Richochet: InputAnalyzer EmoCowboy AntiGrenadier
+EmoCowboy: InputAnalyzer Richochet AntiGrenadier
+AntiGrenadier: InputAnalyzer Richochet EmoCowboy
+Generated: 2014/08/12 06:21:33.543354858 UTC

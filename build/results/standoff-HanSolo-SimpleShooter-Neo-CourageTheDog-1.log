@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Neo CourageTheDog
+                       HanSolo: Sc,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sc,N,Sd,N,Sc
+                           Neo: N,Sa,N,Dd,Dd,Dd,Dd,Dd,Dd,Sb,N
+                 CourageTheDog: Sa,N,Dc,Db,Dc,Dc,Dc,Dc,Sb,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo CourageTheDog SimpleShooter
+SimpleShooter: Neo CourageTheDog HanSolo
+Neo: SimpleShooter CourageTheDog HanSolo
+CourageTheDog: SimpleShooter Neo HanSolo
+Generated: 2014/08/12 10:45:30.381333762 UTC

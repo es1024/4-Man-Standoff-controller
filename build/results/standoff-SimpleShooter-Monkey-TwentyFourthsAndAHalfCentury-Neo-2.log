@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey TwentyFourthsAndAHalfCentury Neo
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd
+                        Monkey: N,N,Db,Db,N,Sd,N,N,Db,Db,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Db,Db,Dd,Db,Db,Dd,Db,Db,Db,Dd,N,Dd,N,N,N,N,N,N
+                           Neo: N,Db,Db,Db,N,Db,Da,Db,N,N,N,N,N,N,N,N,Da,Sa,N
+Final Health:
+                 SimpleShooter: 3
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Monkey TwentyFourthsAndAHalfCentury
+Monkey: Neo SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo SimpleShooter Monkey
+Neo: TwentyFourthsAndAHalfCentury SimpleShooter Monkey
+Generated: 2014/08/12 09:23:10.576470495 UTC

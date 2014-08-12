@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Bomberman Rule0Bot
+                 InputAnalyzer: Db,Dd,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                        Monkey: 0
+                     Bomberman: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Bomberman Rule0Bot
+Monkey: InputAnalyzer Bomberman Rule0Bot
+Bomberman: InputAnalyzer Monkey Rule0Bot
+Rule0Bot: InputAnalyzer Monkey Bomberman
+Generated: 2014/08/12 09:29:18.382670296 UTC

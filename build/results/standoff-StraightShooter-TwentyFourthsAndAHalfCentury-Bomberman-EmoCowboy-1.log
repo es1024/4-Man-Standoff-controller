@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Bomberman EmoCowboy
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Da,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,N,N,N,N,N,N,Dc,Dc,Da,Dc,Dc,Dc,Da,Dc,Da,N,N,N,N,N,N,N,Da,Dc,Da,Dc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -15
+                     Bomberman: -15
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman EmoCowboy TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman EmoCowboy StraightShooter
+Bomberman: TwentyFourthsAndAHalfCentury EmoCowboy StraightShooter
+EmoCowboy: TwentyFourthsAndAHalfCentury Bomberman StraightShooter
+Generated: 2014/08/12 08:23:51.091377038 UTC

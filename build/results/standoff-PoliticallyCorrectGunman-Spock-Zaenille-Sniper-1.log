@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Zaenille Sniper
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Dc,Sb,N,Sd,N,Sa,N,N
+                         Spock: N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: 3
+                      Zaenille: -4
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Sniper Spock
+Spock: Zaenille Sniper PoliticallyCorrectGunman
+Zaenille: Spock Sniper PoliticallyCorrectGunman
+Sniper: Spock Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 07:35:46.831740104 UTC

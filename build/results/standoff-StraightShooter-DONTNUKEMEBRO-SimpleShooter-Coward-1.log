@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter Coward
+               StraightShooter: Sd,N,Sd,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Dc,Dc,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sa,N,Sb,N,Sb,N,Sb,N,N
+                        Coward: Sa,N,Sa,N,Sc,N,Dc,Da,Sb
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+                        Coward: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Coward DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Coward StraightShooter
+SimpleShooter: DONTNUKEMEBRO Coward StraightShooter
+Coward: DONTNUKEMEBRO SimpleShooter StraightShooter
+Generated: 2014/08/12 07:39:54.662066604 UTC

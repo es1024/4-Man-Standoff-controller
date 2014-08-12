@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock TwentyFourthsAndAHalfCentury AntiGrenadier
+                 InputAnalyzer: Dc,Db,P,Dd,Db,N,N,N
+                         Spock: N,Sc,N,Sc,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: N,Db,Da,Dd,Da,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 2
+  TwentyFourthsAndAHalfCentury: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury AntiGrenadier Spock
+Spock: TwentyFourthsAndAHalfCentury AntiGrenadier InputAnalyzer
+TwentyFourthsAndAHalfCentury: Spock AntiGrenadier InputAnalyzer
+AntiGrenadier: Spock TwentyFourthsAndAHalfCentury InputAnalyzer
+Generated: 2014/08/12 07:31:05.562701170 UTC

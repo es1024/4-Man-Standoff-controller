@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Bomberman Scared
+                     Grenadier: N,N,N,N,N,N,N,P,Tb
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 2
+               StraightShooter: -3
+                     Bomberman: 0
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Scared StraightShooter
+StraightShooter: Bomberman Scared Grenadier
+Bomberman: StraightShooter Scared Grenadier
+Scared: StraightShooter Bomberman Grenadier
+Generated: 2014/08/12 08:55:00.651556364 UTC

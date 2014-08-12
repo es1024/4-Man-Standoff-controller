@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman EmoCowboy AntiGrenadier
+      PoliticallyCorrectGunman: Sb,N,Sb,N,Sb,N,Db,N,Db,N,Db,N,N,N,N,N,N,N,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman EmoCowboy AntiGrenadier
+Bomberman: PoliticallyCorrectGunman EmoCowboy AntiGrenadier
+EmoCowboy: PoliticallyCorrectGunman Bomberman AntiGrenadier
+AntiGrenadier: PoliticallyCorrectGunman Bomberman EmoCowboy
+Generated: 2014/08/12 08:24:39.514237759 UTC

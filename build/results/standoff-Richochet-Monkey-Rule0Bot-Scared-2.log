@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Rule0Bot Scared
+                     Richochet: Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sb,N
+                        Monkey: N,N,N,N,N,N,N,Sc,N,N,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,Sa,N,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+                        Monkey: -2
+                      Rule0Bot: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared Monkey Rule0Bot
+Monkey: Scared Richochet Rule0Bot
+Rule0Bot: Scared Richochet Monkey
+Scared: Rule0Bot Richochet Monkey
+Generated: 2014/08/12 07:31:47.849831826 UTC

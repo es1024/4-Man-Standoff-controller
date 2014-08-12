@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Monkey TwentyFourthsAndAHalfCentury
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sc,N,Sb,N,Sb,N,Sb
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sa,N,Da,Dd,Sa
+                        Monkey: N,Sd,N,Da,Da,Sd,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Da,Dc,Db,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                        Coward: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Coward Monkey TwentyFourthsAndAHalfCentury
+Coward: SimpleShooter Monkey TwentyFourthsAndAHalfCentury
+Monkey: SimpleShooter Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: SimpleShooter Coward Monkey
+Generated: 2014/08/12 10:47:49.669949888 UTC

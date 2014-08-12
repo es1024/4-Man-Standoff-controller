@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Bomberman Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                      Zaenille: -4
+                     Bomberman: -15
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot Zaenille Bomberman
+Zaenille: Rule0Bot StraightShooter Bomberman
+Bomberman: Rule0Bot StraightShooter Zaenille
+Rule0Bot: Bomberman StraightShooter Zaenille
+Generated: 2014/08/12 09:58:49.502018609 UTC

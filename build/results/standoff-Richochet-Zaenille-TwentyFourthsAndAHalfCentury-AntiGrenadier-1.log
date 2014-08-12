@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Richochet: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dd,Dd,Dd,Dd,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: TwentyFourthsAndAHalfCentury AntiGrenadier Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury AntiGrenadier Richochet
+TwentyFourthsAndAHalfCentury: Zaenille AntiGrenadier Richochet
+AntiGrenadier: Zaenille TwentyFourthsAndAHalfCentury Richochet
+Generated: 2014/08/12 10:28:38.118705895 UTC

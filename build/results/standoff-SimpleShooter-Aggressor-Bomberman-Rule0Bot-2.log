@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Bomberman Rule0Bot
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Td
+                     Bomberman: N,N
+                      Rule0Bot: N,Sb
+Final Health:
+                 SimpleShooter: 2
+                     Aggressor: 0
+                     Bomberman: 0
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Aggressor Bomberman
+Aggressor: Rule0Bot SimpleShooter Bomberman
+Bomberman: Rule0Bot SimpleShooter Aggressor
+Rule0Bot: Bomberman SimpleShooter Aggressor
+Generated: 2014/08/12 10:07:19.270984827 UTC

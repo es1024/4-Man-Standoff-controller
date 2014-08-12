@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Monkey Bomberman
+                 InputAnalyzer: Dc,P,Da,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sd
+                        Monkey: N,Sc,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 2
+                        Monkey: -2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Bomberman Spock
+Spock: Monkey Bomberman InputAnalyzer
+Monkey: Spock Bomberman InputAnalyzer
+Bomberman: Spock Monkey InputAnalyzer
+Generated: 2014/08/12 08:50:42.635401435 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Coward AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                        Coward: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier HanSolo Coward
+HanSolo: AntiGrenadier Pacifist Coward
+Coward: AntiGrenadier Pacifist HanSolo
+AntiGrenadier: Coward Pacifist HanSolo
+Generated: 2014/08/12 09:39:33.249403188 UTC

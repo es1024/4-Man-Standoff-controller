@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Coward TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,Sa,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Da,Da,Db,Dc,Db,Dc,Db,Sb,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward TwentyFourthsAndAHalfCentury Spock
+Spock: Coward TwentyFourthsAndAHalfCentury Pacifist
+Coward: Spock TwentyFourthsAndAHalfCentury Pacifist
+TwentyFourthsAndAHalfCentury: Spock Coward Pacifist
+Generated: 2014/08/12 08:05:16.780893428 UTC

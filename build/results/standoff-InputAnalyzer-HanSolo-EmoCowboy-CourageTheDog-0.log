@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo EmoCowboy CourageTheDog
+                 InputAnalyzer: Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Sb,N,Sb,N,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                 InputAnalyzer: -2
+                       HanSolo: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo EmoCowboy CourageTheDog
+HanSolo: InputAnalyzer EmoCowboy CourageTheDog
+EmoCowboy: InputAnalyzer HanSolo CourageTheDog
+CourageTheDog: InputAnalyzer HanSolo EmoCowboy
+Generated: 2014/08/12 06:18:26.146205235 UTC

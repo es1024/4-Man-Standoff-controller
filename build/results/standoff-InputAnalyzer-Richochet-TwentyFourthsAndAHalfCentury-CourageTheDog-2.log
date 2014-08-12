@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+                 InputAnalyzer: Dd,Db,Dd,P,N,Sc
+                     Richochet: Sd,N,Sd,N,Sc,N
+  TwentyFourthsAndAHalfCentury: N,Da,Db,Da,Dd,Da
+                 CourageTheDog: N,Da,Db,Da,P,Tc
+Final Health:
+                 InputAnalyzer: -4
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -8
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Richochet TwentyFourthsAndAHalfCentury
+Richochet: CourageTheDog InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog InputAnalyzer Richochet
+CourageTheDog: TwentyFourthsAndAHalfCentury InputAnalyzer Richochet
+Generated: 2014/08/12 08:39:30.479030024 UTC

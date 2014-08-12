@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+                 InputAnalyzer: Dc,Db,P,Sc,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,Sd
+                     EmoCowboy: N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy AntiGrenadier InputAnalyzer
+EmoCowboy: TwentyFourthsAndAHalfCentury AntiGrenadier InputAnalyzer
+AntiGrenadier: TwentyFourthsAndAHalfCentury EmoCowboy InputAnalyzer
+Generated: 2014/08/12 06:19:23.199657325 UTC

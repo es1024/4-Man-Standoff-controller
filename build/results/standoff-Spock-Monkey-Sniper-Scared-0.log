@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Sniper Scared
+                         Spock: Sb,N,Sc,N,Sc,N,Sb
+                        Monkey: N,Sb,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                        Monkey: -2
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey Sniper Scared
+Monkey: Spock Sniper Scared
+Sniper: Spock Monkey Scared
+Scared: Spock Monkey Sniper
+Generated: 2014/08/12 08:46:35.477861444 UTC

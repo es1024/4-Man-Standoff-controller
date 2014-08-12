@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor EmoCowboy CourageTheDog
+                     Grenadier: N,N,N
+                     Aggressor: P,Td,Sa
+                     EmoCowboy: Sc,N,N
+                 CourageTheDog: Sc,N,N
+Final Health:
+                     Grenadier: 0
+                     Aggressor: 2
+                     EmoCowboy: -4
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Aggressor EmoCowboy
+Aggressor: CourageTheDog Grenadier EmoCowboy
+EmoCowboy: CourageTheDog Grenadier Aggressor
+CourageTheDog: EmoCowboy Grenadier Aggressor
+Generated: 2014/08/12 07:59:59.605337405 UTC

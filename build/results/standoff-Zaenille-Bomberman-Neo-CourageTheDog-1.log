@@ -1,0 +1,16 @@
+Standoff between: Zaenille Bomberman Neo CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,Dd,Dd,Dd,Dd,N,N,Dd,N,Dd,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sb,N,Db,Sb,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Dc,Sc,N,Sc
+Final Health:
+                      Zaenille: -2
+                     Bomberman: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Neo CourageTheDog Bomberman
+Bomberman: Neo CourageTheDog Zaenille
+Neo: Bomberman CourageTheDog Zaenille
+CourageTheDog: Bomberman Neo Zaenille
+Generated: 2014/08/12 10:11:14.568359968 UTC

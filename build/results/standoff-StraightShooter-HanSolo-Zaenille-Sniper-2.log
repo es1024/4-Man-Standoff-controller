@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Zaenille Sniper
+               StraightShooter: Sb,N,Sb,N,Sb
+                       HanSolo: Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                        Sniper: Sa,N,N,N,N
+Final Health:
+               StraightShooter: 3
+                       HanSolo: -1
+                      Zaenille: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper HanSolo Zaenille
+HanSolo: Sniper StraightShooter Zaenille
+Zaenille: Sniper StraightShooter HanSolo
+Sniper: Zaenille StraightShooter HanSolo
+Generated: 2014/08/12 06:34:14.493935724 UTC

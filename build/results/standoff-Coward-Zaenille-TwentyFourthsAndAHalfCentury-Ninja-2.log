@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille TwentyFourthsAndAHalfCentury Ninja
+                        Coward: Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Da,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa
+                         Ninja: Dc,Db,Da,Dd,Db,Da,Db,Db,Dd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Ninja Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Coward Zaenille
+Ninja: TwentyFourthsAndAHalfCentury Coward Zaenille
+Generated: 2014/08/12 10:00:40.765234564 UTC

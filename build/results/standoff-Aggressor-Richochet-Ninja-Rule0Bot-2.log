@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Ninja Rule0Bot
+                     Aggressor: P,Td,N
+                     Richochet: Sa,N,Sc
+                         Ninja: Db,Dd,Da
+                      Rule0Bot: N,Sa,N
+Final Health:
+                     Aggressor: -2
+                     Richochet: 2
+                         Ninja: 0
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot Richochet Ninja
+Richochet: Rule0Bot Aggressor Ninja
+Ninja: Rule0Bot Aggressor Richochet
+Rule0Bot: Ninja Aggressor Richochet
+Generated: 2014/08/12 08:26:40.443574310 UTC

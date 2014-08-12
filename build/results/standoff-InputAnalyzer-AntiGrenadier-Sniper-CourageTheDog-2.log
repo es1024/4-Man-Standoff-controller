@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer AntiGrenadier Sniper CourageTheDog
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,Sb,N,Sb,N,Dc,Dc,Dc,Sc,N,Dc,N,Dc,Dc,Sc
+Final Health:
+                 InputAnalyzer: -4
+                 AntiGrenadier: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog AntiGrenadier Sniper
+AntiGrenadier: CourageTheDog InputAnalyzer Sniper
+Sniper: CourageTheDog InputAnalyzer AntiGrenadier
+CourageTheDog: Sniper InputAnalyzer AntiGrenadier
+Generated: 2014/08/12 08:55:32.939708092 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Richochet EmoCowboy
+                         Spock: N,N,N,N,N,N,Sb
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sc
+                     Richochet: Sa,N,Sb,N,Sb,N,Sa
+                     EmoCowboy: N,N,N,N,N,Sd,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+                     Richochet: 1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet EmoCowboy SimpleShooter
+SimpleShooter: Richochet EmoCowboy Spock
+Richochet: SimpleShooter EmoCowboy Spock
+EmoCowboy: SimpleShooter Richochet Spock
+Generated: 2014/08/12 07:03:44.106052951 UTC

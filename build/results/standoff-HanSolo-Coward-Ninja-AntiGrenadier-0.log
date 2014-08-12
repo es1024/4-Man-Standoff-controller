@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Ninja AntiGrenadier
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Dc,Dd,Dd,Db,Da,Dd,Dd,Dd,Dc,Db,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Coward: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Ninja AntiGrenadier
+Coward: HanSolo Ninja AntiGrenadier
+Ninja: HanSolo Coward AntiGrenadier
+AntiGrenadier: HanSolo Coward Ninja
+Generated: 2014/08/12 06:51:01.029092679 UTC

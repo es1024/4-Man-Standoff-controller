@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Scared Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sa,N,N,Dd,Sc,N,Dc,Dc,N,N,N,Sa,N,Dc,Dc,Dd
+                        Scared: Sb,N,Sd,N,Sd,N,Sb,N,N,N,Sd,N,Sa,N,Sd,N,Sb
+                           Neo: N,Db,Dc,Db,N,N,N,N,N,N,N,Db,Dc,Sc,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Scared Neo
+PoliticallyCorrectGunman: Pacifist Scared Neo
+Scared: Pacifist PoliticallyCorrectGunman Neo
+Neo: Pacifist PoliticallyCorrectGunman Scared
+Generated: 2014/08/12 09:25:50.511320277 UTC

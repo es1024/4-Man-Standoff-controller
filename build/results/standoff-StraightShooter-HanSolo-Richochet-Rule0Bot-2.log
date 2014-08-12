@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Richochet Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb
+                       HanSolo: Sd,N,Sd,N,Sa
+                     Richochet: Sa,N,Sd,N,Sa
+                      Rule0Bot: N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                     Richochet: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot HanSolo Richochet
+HanSolo: Rule0Bot StraightShooter Richochet
+Richochet: Rule0Bot StraightShooter HanSolo
+Rule0Bot: Richochet StraightShooter HanSolo
+Generated: 2014/08/12 06:26:45.828792289 UTC

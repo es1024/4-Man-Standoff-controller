@@ -1,0 +1,16 @@
+Standoff between: Coward AntiGrenadier Sniper Neo
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,Sc,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                 AntiGrenadier: -3
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Sniper Neo AntiGrenadier
+AntiGrenadier: Sniper Neo Coward
+Sniper: AntiGrenadier Neo Coward
+Neo: AntiGrenadier Sniper Coward
+Generated: 2014/08/12 08:54:00.435595284 UTC

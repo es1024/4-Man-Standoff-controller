@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Monkey AntiGrenadier
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,Sb,N,N,N,N,N,N,N,Sb,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,Sb,N,Sb,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                      Zaenille: -4
+                        Monkey: -15
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: AntiGrenadier Zaenille Monkey
+Zaenille: AntiGrenadier StraightShooter Monkey
+Monkey: AntiGrenadier StraightShooter Zaenille
+AntiGrenadier: Monkey StraightShooter Zaenille
+Generated: 2014/08/12 08:49:02.805100806 UTC

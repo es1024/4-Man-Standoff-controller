@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Monkey Rule0Bot
+                 InputAnalyzer: Dd,Db,Dd,Sc,N,Sd,N,Db,Dd,P,Sb,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,N,Sc,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 0
+                        Monkey: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Spock Monkey
+Spock: Rule0Bot InputAnalyzer Monkey
+Monkey: Rule0Bot InputAnalyzer Spock
+Rule0Bot: Monkey InputAnalyzer Spock
+Generated: 2014/08/12 09:24:34.444551033 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Monkey CourageTheDog
+                     Grenadier: P,Tb
+                       HanSolo: Sd,N
+                        Monkey: N,N
+                 CourageTheDog: Sa,N
+Final Health:
+                     Grenadier: 0
+                       HanSolo: -3
+                        Monkey: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog HanSolo Monkey
+HanSolo: CourageTheDog Grenadier Monkey
+Monkey: CourageTheDog Grenadier HanSolo
+CourageTheDog: Monkey Grenadier HanSolo
+Generated: 2014/08/12 10:20:21.824253430 UTC

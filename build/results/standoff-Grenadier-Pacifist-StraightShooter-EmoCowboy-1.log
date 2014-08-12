@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist StraightShooter EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,Tc,P,Tb
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -6
+               StraightShooter: -3
+                     EmoCowboy: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter EmoCowboy Pacifist
+Pacifist: StraightShooter EmoCowboy Grenadier
+StraightShooter: Pacifist EmoCowboy Grenadier
+EmoCowboy: Pacifist StraightShooter Grenadier
+Generated: 2014/08/12 10:30:14.415868545 UTC

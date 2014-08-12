@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet Scared
+      PoliticallyCorrectGunman: Dd,Db,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sc
+                     Richochet: Sa,N,Sa,N,Sa,N,N
+                        Scared: Sb,N,Sb,N,Sc,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                     Richochet: -3
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Scared Spock
+Spock: Richochet Scared PoliticallyCorrectGunman
+Richochet: Spock Scared PoliticallyCorrectGunman
+Scared: Spock Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 06:21:18.348744631 UTC

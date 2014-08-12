@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Coward Ninja
+                 InputAnalyzer: Db,Sd,N,Sc,N,Db,P
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa
+                        Coward: Sd,N,Sd,N,Sb,N,Sb
+                         Ninja: Db,Db,Db,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                       HanSolo: -2
+                        Coward: 0
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Coward Ninja
+HanSolo: InputAnalyzer Coward Ninja
+Coward: InputAnalyzer HanSolo Ninja
+Ninja: InputAnalyzer HanSolo Coward
+Generated: 2014/08/12 08:45:54.061136919 UTC

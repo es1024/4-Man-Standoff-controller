@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey Sniper Scared
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sc,N,Sc,N,Sc
+                        Monkey: N,Sd,N,Sd,N,Sb,N,N,N,N,N
+                        Sniper: Sa,N,Sd,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                        Monkey: -2
+                        Sniper: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Monkey Sniper
+Monkey: Scared HanSolo Sniper
+Sniper: Scared HanSolo Monkey
+Scared: Sniper HanSolo Monkey
+Generated: 2014/08/12 08:56:21.356655482 UTC

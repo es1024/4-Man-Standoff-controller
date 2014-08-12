@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Coward AntiGrenadier
+      PoliticallyCorrectGunman: Db,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,N,N,Sa,N,N,N,Sc,N,Sc
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                         Spock: 5
+                        Coward: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward AntiGrenadier Spock
+Spock: Coward AntiGrenadier PoliticallyCorrectGunman
+Coward: Spock AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: Spock Coward PoliticallyCorrectGunman
+Generated: 2014/08/12 07:28:17.239295845 UTC

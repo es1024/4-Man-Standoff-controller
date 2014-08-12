@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Monkey Ninja
+                     Grenadier: P,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sd
+                        Monkey: N,Dc,Dc,N,N
+                         Ninja: Dc,Db,Dd,Db,Da
+Final Health:
+                     Grenadier: -1
+                        Coward: 2
+                        Monkey: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Coward Monkey
+Coward: Ninja Grenadier Monkey
+Monkey: Ninja Grenadier Coward
+Ninja: Monkey Grenadier Coward
+Generated: 2014/08/12 09:32:18.198204543 UTC

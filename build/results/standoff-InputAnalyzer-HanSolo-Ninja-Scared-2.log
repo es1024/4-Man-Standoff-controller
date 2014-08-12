@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Ninja Scared
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Sd,N,Sc,N,Dd,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                         Ninja: Dc,Dd,Dc,Dd,Da,Da,Da,Db,Dc,Db,Dc,Da,Db,Dd,Da
+                        Scared: Sc,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 5
+                         Ninja: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared HanSolo Ninja
+HanSolo: Scared InputAnalyzer Ninja
+Ninja: Scared InputAnalyzer HanSolo
+Scared: Ninja InputAnalyzer HanSolo
+Generated: 2014/08/12 09:27:22.363248860 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Rule0Bot Sniper
+                     Grenadier: N,N,P,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dc,Da,Dd,Dc,Dc,N,N
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sb,N,Sb,N,Sc
+Final Health:
+                     Grenadier: -7
+  TwentyFourthsAndAHalfCentury: 0
+                      Rule0Bot: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Sniper Grenadier
+Rule0Bot: TwentyFourthsAndAHalfCentury Sniper Grenadier
+Sniper: TwentyFourthsAndAHalfCentury Rule0Bot Grenadier
+Generated: 2014/08/12 10:13:33.404772811 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared CourageTheDog
+      PoliticallyCorrectGunman: Dc,N,N,Sb,N,N,N,N,N,N,Sd,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Da,N,N,N,N,N,N,Sd,N,Sc,N,Sc
+                        Scared: Sb,N,Sd,N,N,N,N,Sa,N,N,Sd,N,Sa,N,Sb
+                 CourageTheDog: Sb,N,Sc,N,N,Da,Dc,N,Da,Sb,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared CourageTheDog PoliticallyCorrectGunman
+Scared: TwentyFourthsAndAHalfCentury CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: TwentyFourthsAndAHalfCentury Scared PoliticallyCorrectGunman
+Generated: 2014/08/12 10:16:46.968241352 UTC

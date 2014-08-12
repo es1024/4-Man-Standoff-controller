@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward TwentyFourthsAndAHalfCentury Neo
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,Dd,Dd,Dd,Db,Dd,Db,Sb,N,Sb
+                           Neo: N,N,N,Dc,N,Dc,N,Dc,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Neo Coward
+Coward: TwentyFourthsAndAHalfCentury Neo SimpleShooter
+TwentyFourthsAndAHalfCentury: Coward Neo SimpleShooter
+Neo: Coward TwentyFourthsAndAHalfCentury SimpleShooter
+Generated: 2014/08/12 10:47:04.356774632 UTC

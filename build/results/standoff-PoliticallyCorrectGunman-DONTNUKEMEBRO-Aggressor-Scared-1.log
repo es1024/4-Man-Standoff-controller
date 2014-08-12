@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Aggressor Scared
+      PoliticallyCorrectGunman: N,Db
+                 DONTNUKEMEBRO: Da,Sc
+                     Aggressor: P,Tb
+                        Scared: Sa,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                 DONTNUKEMEBRO: -3
+                     Aggressor: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Scared DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor Scared PoliticallyCorrectGunman
+Aggressor: DONTNUKEMEBRO Scared PoliticallyCorrectGunman
+Scared: DONTNUKEMEBRO Aggressor PoliticallyCorrectGunman
+Generated: 2014/08/12 08:59:47.437931073 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Scared CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 DONTNUKEMEBRO: Dd,Da,Dc,Dc,Da,Da,Sc,N,Da,Dc,Sc
+                        Scared: Sd,N,Sa,N,Sb,N,Sa,N,Sb,N,Sb
+                 CourageTheDog: Sc,N,Dc,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 1
+                 DONTNUKEMEBRO: -1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Scared CourageTheDog StraightShooter
+Scared: DONTNUKEMEBRO CourageTheDog StraightShooter
+CourageTheDog: DONTNUKEMEBRO Scared StraightShooter
+Generated: 2014/08/12 06:11:08.475106245 UTC

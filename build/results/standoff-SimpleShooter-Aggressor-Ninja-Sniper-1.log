@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Ninja Sniper
+                 SimpleShooter: Sb,N
+                     Aggressor: P,Tc
+                         Ninja: Db,Db
+                        Sniper: Sa,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 0
+                         Ninja: -3
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Sniper Aggressor
+Aggressor: Ninja Sniper SimpleShooter
+Ninja: Aggressor Sniper SimpleShooter
+Sniper: Aggressor Ninja SimpleShooter
+Generated: 2014/08/12 05:54:51.734265480 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Bomberman EmoCowboy
+                       HanSolo: Sb,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                      Zaenille: -4
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Bomberman EmoCowboy
+Zaenille: HanSolo Bomberman EmoCowboy
+Bomberman: HanSolo Zaenille EmoCowboy
+EmoCowboy: HanSolo Zaenille Bomberman
+Generated: 2014/08/12 09:06:55.208895638 UTC

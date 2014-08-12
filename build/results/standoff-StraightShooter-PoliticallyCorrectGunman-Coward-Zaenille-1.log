@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Coward Zaenille
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+      PoliticallyCorrectGunman: Sa,N,Sc,N,Dd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -19
+      PoliticallyCorrectGunman: -4
+                        Coward: -17
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Zaenille PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Coward Zaenille StraightShooter
+Coward: PoliticallyCorrectGunman Zaenille StraightShooter
+Zaenille: PoliticallyCorrectGunman Coward StraightShooter
+Generated: 2014/08/12 05:44:24.012533184 UTC

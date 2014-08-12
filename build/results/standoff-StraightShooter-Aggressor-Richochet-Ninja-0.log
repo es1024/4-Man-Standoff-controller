@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Richochet Ninja
+               StraightShooter: Sc,N,N
+                     Aggressor: P,Ta,Sd
+                     Richochet: Sd,N,N
+                         Ninja: Dc,Dc,Dc
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 2
+                     Richochet: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Richochet Ninja
+Aggressor: StraightShooter Richochet Ninja
+Richochet: StraightShooter Aggressor Ninja
+Ninja: StraightShooter Aggressor Richochet
+Generated: 2014/08/12 07:15:55.021376707 UTC

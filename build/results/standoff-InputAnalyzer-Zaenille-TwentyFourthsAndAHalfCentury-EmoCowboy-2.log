@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury EmoCowboy
+                 InputAnalyzer: Dd,P,Sa
+                      Zaenille: Sb,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Sa,N
+                     EmoCowboy: Sd,N,N
+Final Health:
+                 InputAnalyzer: -8
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: EmoCowboy InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy InputAnalyzer Zaenille
+EmoCowboy: TwentyFourthsAndAHalfCentury InputAnalyzer Zaenille
+Generated: 2014/08/12 09:40:38.903322860 UTC

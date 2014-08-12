@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury AntiGrenadier Neo
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N,Sd,N,Sd,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Da,Dd,Dc,N,N,N,N,N,N,Sa,N,Sc,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Neo TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Neo Spock AntiGrenadier
+AntiGrenadier: Neo Spock TwentyFourthsAndAHalfCentury
+Neo: AntiGrenadier Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:48:58.109344921 UTC

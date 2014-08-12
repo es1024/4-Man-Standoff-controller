@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Monkey CourageTheDog
+                     Grenadier: P,N,N
+                 SimpleShooter: Sa,N,Sd
+                        Monkey: N,N,N
+                 CourageTheDog: Sb,N,Sa
+Final Health:
+                     Grenadier: -5
+                 SimpleShooter: 0
+                        Monkey: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey CourageTheDog SimpleShooter
+SimpleShooter: Monkey CourageTheDog Grenadier
+Monkey: SimpleShooter CourageTheDog Grenadier
+CourageTheDog: SimpleShooter Monkey Grenadier
+Generated: 2014/08/12 07:42:46.062026479 UTC

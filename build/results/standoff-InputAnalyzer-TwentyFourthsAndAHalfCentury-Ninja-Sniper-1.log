@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Ninja Sniper
+                 InputAnalyzer: Dc,Da,P,Sc,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dc,Dc,Dc
+                         Ninja: Dd,Da,Da,Da,Dc
+                        Sniper: Sc,N,Sc,N,Sb
+Final Health:
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Sniper InputAnalyzer
+Ninja: TwentyFourthsAndAHalfCentury Sniper InputAnalyzer
+Sniper: TwentyFourthsAndAHalfCentury Ninja InputAnalyzer
+Generated: 2014/08/12 08:23:53.723976262 UTC

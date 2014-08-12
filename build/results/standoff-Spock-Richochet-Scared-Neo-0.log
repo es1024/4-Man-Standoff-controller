@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Scared Neo
+                         Spock: N,N,N,N,N,N,Sc,N,Sc,N,Sb,N,Sd,N
+                     Richochet: Sc,N,Sa,N,Sd,N,Sa,N,Sc,N,Sd,N,N,N
+                        Scared: N,N,N,N,N,N,Sb,N,Sb,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Dc,N,N,N,Db,N,Da,Sa
+Final Health:
+                         Spock: -1
+                     Richochet: -1
+                        Scared: -3
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Scared Neo
+Richochet: Spock Scared Neo
+Scared: Spock Richochet Neo
+Neo: Spock Richochet Scared
+Generated: 2014/08/12 07:41:00.865341797 UTC

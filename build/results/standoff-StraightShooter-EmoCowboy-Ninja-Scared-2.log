@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Ninja Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Db,Db,Da,Da,Db,Db,Db,N,N
+                        Scared: Sa,N,Sc,N,Sa,N,Sc,N,Sc,N,Sa
+Final Health:
+               StraightShooter: -1
+                     EmoCowboy: -4
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared EmoCowboy Ninja
+EmoCowboy: Scared StraightShooter Ninja
+Ninja: Scared StraightShooter EmoCowboy
+Scared: Ninja StraightShooter EmoCowboy
+Generated: 2014/08/12 07:46:10.967773969 UTC

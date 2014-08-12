@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Bomberman Rule0Bot
+                 InputAnalyzer: Dd,Db,Dd,Sc,N,Sd,N,Dc,Sb,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                        Coward: 3
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Coward Bomberman
+Coward: Rule0Bot InputAnalyzer Bomberman
+Bomberman: Rule0Bot InputAnalyzer Coward
+Rule0Bot: Bomberman InputAnalyzer Coward
+Generated: 2014/08/12 10:36:25.154153383 UTC

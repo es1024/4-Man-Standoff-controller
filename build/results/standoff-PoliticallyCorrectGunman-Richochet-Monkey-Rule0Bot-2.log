@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Monkey Rule0Bot
+      PoliticallyCorrectGunman: N,P,N,Sd,N
+                     Richochet: Sa,N,Sd,N,Sc
+                        Monkey: N,N,N,Sa,N
+                      Rule0Bot: N,N,Sa,N,N
+Final Health:
+      PoliticallyCorrectGunman: -7
+                     Richochet: 2
+                        Monkey: 0
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Richochet Monkey
+Richochet: Rule0Bot PoliticallyCorrectGunman Monkey
+Monkey: Rule0Bot PoliticallyCorrectGunman Richochet
+Rule0Bot: Monkey PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 07:41:52.862447694 UTC

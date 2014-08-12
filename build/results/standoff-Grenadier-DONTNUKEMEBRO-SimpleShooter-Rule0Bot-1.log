@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO SimpleShooter Rule0Bot
+                     Grenadier: N,P,N,N,N
+                 DONTNUKEMEBRO: Da,Dd,Sa,N,Dd
+                 SimpleShooter: Sa,N,Sd,N,Sb
+                      Rule0Bot: N,N,Sa,N,N
+Final Health:
+                     Grenadier: -7
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Rule0Bot DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Rule0Bot Grenadier
+SimpleShooter: DONTNUKEMEBRO Rule0Bot Grenadier
+Rule0Bot: DONTNUKEMEBRO SimpleShooter Grenadier
+Generated: 2014/08/12 08:41:10.299009839 UTC

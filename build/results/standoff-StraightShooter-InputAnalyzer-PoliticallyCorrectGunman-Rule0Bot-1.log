@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman Rule0Bot
+               StraightShooter: Sd,N,Sd,N
+                 InputAnalyzer: Dc,P,N,N
+      PoliticallyCorrectGunman: N,Sa,N,N
+                      Rule0Bot: N,N,Sb,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: 2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Rule0Bot InputAnalyzer
+InputAnalyzer: PoliticallyCorrectGunman Rule0Bot StraightShooter
+PoliticallyCorrectGunman: InputAnalyzer Rule0Bot StraightShooter
+Rule0Bot: InputAnalyzer PoliticallyCorrectGunman StraightShooter
+Generated: 2014/08/12 07:38:16.050683716 UTC

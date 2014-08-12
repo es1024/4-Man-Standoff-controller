@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,P,Sd,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman InputAnalyzer TwentyFourthsAndAHalfCentury
+InputAnalyzer: Bomberman Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Pacifist InputAnalyzer
+Bomberman: TwentyFourthsAndAHalfCentury Pacifist InputAnalyzer
+Generated: 2014/08/12 09:13:46.643672840 UTC

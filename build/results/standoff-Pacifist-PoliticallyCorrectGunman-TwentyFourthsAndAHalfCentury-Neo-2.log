@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dd,N,Dc,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,Sd,N,Sb,N,Sd,N,Sa,N,Sd,N,Sa,N,N,N,N,N,Sa
+                           Neo: N,N,N,N,N,N,N,Db,Db,Da,Da,N,Da,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+PoliticallyCorrectGunman: Neo Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo Pacifist PoliticallyCorrectGunman
+Neo: TwentyFourthsAndAHalfCentury Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 06:59:34.638075378 UTC

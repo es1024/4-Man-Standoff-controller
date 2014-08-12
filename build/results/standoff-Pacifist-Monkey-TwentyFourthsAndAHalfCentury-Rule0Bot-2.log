@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey TwentyFourthsAndAHalfCentury Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Sb,N,N,N,N,N,N,N,N,N,Sa,N,Sb,N,Sa,N,Sb,N,Sd,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Monkey TwentyFourthsAndAHalfCentury
+Monkey: Rule0Bot Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Pacifist Monkey
+Rule0Bot: TwentyFourthsAndAHalfCentury Pacifist Monkey
+Generated: 2014/08/12 06:27:50.942285443 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman HanSolo Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 5
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Monkey PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo Monkey Pacifist
+HanSolo: PoliticallyCorrectGunman Monkey Pacifist
+Monkey: PoliticallyCorrectGunman HanSolo Pacifist
+Generated: 2014/08/12 05:55:07.640322694 UTC

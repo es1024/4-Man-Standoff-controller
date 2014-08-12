@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman Rule0Bot Neo
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,Dc,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                     Bomberman: -1
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Rule0Bot Neo
+Bomberman: SimpleShooter Rule0Bot Neo
+Rule0Bot: SimpleShooter Bomberman Neo
+Neo: SimpleShooter Bomberman Rule0Bot
+Generated: 2014/08/12 10:33:38.906707694 UTC

@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman Ninja Scared
+  TwentyFourthsAndAHalfCentury: Db,Dc,Db,Db,Db,Db,Dd,N,N,Sc,N,Sb,N,Sd,N,N,Sc,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Da,Dc,Da,Db,Dc,Da,Dd,Da,Dc,Dc,Da,Db,Dc,Dc,Dc,N,N,N
+                        Scared: Sb,N,Sa,N,Sc,N,N,N,N,N,Sa,N,N,N,N,Sc,N,Sb,N,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                         Ninja: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Ninja Scared Bomberman
+Bomberman: Ninja Scared TwentyFourthsAndAHalfCentury
+Ninja: Bomberman Scared TwentyFourthsAndAHalfCentury
+Scared: Bomberman Ninja TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:14:56.860577607 UTC

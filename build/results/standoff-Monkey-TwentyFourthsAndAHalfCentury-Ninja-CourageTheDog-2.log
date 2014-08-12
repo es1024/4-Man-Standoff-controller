@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+                        Monkey: N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Dc,Da,Dd,Dc,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                         Ninja: Dc,Dd,Dd,Db,Dd,Dc,Dd,Dc,Dd,Dc,Da,Dd,Dc,Dc,Da,Dd,Da,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Db,Dc,Db,Sc,N,N,N,Db,Db,Dc,Db,Db,Dc,Sb,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: CourageTheDog TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: CourageTheDog Monkey Ninja
+Ninja: CourageTheDog Monkey TwentyFourthsAndAHalfCentury
+CourageTheDog: Ninja Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:35:05.144796202 UTC

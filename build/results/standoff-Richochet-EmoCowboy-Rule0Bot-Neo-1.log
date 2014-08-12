@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy Rule0Bot Neo
+                     Richochet: Sb,N,Sc,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sd,N,Sd
+                     EmoCowboy: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,Dc,Da,Dc,Da,Dc,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Rule0Bot Neo EmoCowboy
+EmoCowboy: Rule0Bot Neo Richochet
+Rule0Bot: EmoCowboy Neo Richochet
+Neo: EmoCowboy Rule0Bot Richochet
+Generated: 2014/08/12 07:03:45.291454496 UTC

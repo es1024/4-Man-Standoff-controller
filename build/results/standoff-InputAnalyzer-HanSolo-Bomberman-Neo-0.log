@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Bomberman Neo
+                 InputAnalyzer: Db,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,Dc,N,Dc,N,N,Dc,N,N,N,N,N,N,Dc,Dc,N,Dc,Dc,N,N,N,N,N,Dc,N,Dc,Dc,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,N,Dc,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 0
+                     Bomberman: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Bomberman Neo
+HanSolo: InputAnalyzer Bomberman Neo
+Bomberman: InputAnalyzer HanSolo Neo
+Neo: InputAnalyzer HanSolo Bomberman
+Generated: 2014/08/12 05:58:10.012163363 UTC

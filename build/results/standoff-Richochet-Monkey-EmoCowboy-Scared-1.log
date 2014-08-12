@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey EmoCowboy Scared
+                     Richochet: Sb,N,Sb,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Scared: N,N,Sa,N,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+                        Monkey: -1
+                     EmoCowboy: -2
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy Scared Monkey
+Monkey: EmoCowboy Scared Richochet
+EmoCowboy: Monkey Scared Richochet
+Scared: Monkey EmoCowboy Richochet
+Generated: 2014/08/12 10:25:10.134080494 UTC

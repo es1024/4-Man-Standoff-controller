@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Zaenille Bomberman
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Da,Dc,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -2
+                     Bomberman: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman DONTNUKEMEBRO Zaenille
+DONTNUKEMEBRO: Bomberman StraightShooter Zaenille
+Zaenille: Bomberman StraightShooter DONTNUKEMEBRO
+Bomberman: Zaenille StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 08:46:26.481015463 UTC

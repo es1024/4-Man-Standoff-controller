@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Spock Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sb,N,Sb,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,Sb,N,N,Sb,N,Sb,N,Sb,N,N,Sb,N
+                         Ninja: Dd,Db,Dc,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+               StraightShooter: -1
+                         Spock: -15
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Ninja StraightShooter
+StraightShooter: Spock Ninja Pacifist
+Spock: StraightShooter Ninja Pacifist
+Ninja: StraightShooter Spock Pacifist
+Generated: 2014/08/12 09:42:11.997511810 UTC

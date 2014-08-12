@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy Scared Neo
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,Dd,Dc,N,N,N,N,N,N,N,Sd,N,Sc,N,Sc,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sd,N,Sd,N,N,N,N,N,N,Sa,N,Sd,N,Sd,N,Sa,N,Sd
+                           Neo: N,Da,Dc,Da,N,N,N,N,N,N,N,Dc,Da,N,N,Dc,Da,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: EmoCowboy Scared Neo
+EmoCowboy: TwentyFourthsAndAHalfCentury Scared Neo
+Scared: TwentyFourthsAndAHalfCentury EmoCowboy Neo
+Neo: TwentyFourthsAndAHalfCentury EmoCowboy Scared
+Generated: 2014/08/12 07:46:13.942786300 UTC

@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy Neo CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dd,Db,N,Sd,N,Dd,Dd,Sd,N,Dd,Dd,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,Sc,N,Dc,Dc,Sc,N,Dc,Dc,Dc,Dc,Sc,N,Dc,Sc
+Final Health:
+                      Zaenille: -4
+                     EmoCowboy: -2
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Neo CourageTheDog EmoCowboy
+EmoCowboy: Neo CourageTheDog Zaenille
+Neo: EmoCowboy CourageTheDog Zaenille
+CourageTheDog: EmoCowboy Neo Zaenille
+Generated: 2014/08/12 06:15:53.106974877 UTC

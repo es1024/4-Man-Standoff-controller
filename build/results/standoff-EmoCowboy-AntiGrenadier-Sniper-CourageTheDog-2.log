@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy AntiGrenadier Sniper CourageTheDog
+                     EmoCowboy: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Sb,N,Dc,Db,Db,Dc,Dc,Dc,Db,Db,Sb,N,Db,Sc,N,Db,Sb
+Final Health:
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: CourageTheDog AntiGrenadier Sniper
+AntiGrenadier: CourageTheDog EmoCowboy Sniper
+Sniper: CourageTheDog EmoCowboy AntiGrenadier
+CourageTheDog: Sniper EmoCowboy AntiGrenadier
+Generated: 2014/08/12 05:44:23.665305492 UTC

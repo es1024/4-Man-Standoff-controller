@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Ninja Neo
+                 SimpleShooter: Sd,N,N
+                     Aggressor: P,Ta,Sc
+                         Ninja: Db,Db,Da
+                           Neo: N,N,N
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 2
+                         Ninja: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor Ninja Neo
+Aggressor: SimpleShooter Ninja Neo
+Ninja: SimpleShooter Aggressor Neo
+Neo: SimpleShooter Aggressor Ninja
+Generated: 2014/08/12 09:10:40.374977682 UTC

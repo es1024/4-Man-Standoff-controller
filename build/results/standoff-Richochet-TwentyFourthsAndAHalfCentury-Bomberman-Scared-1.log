@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Bomberman Scared
+                     Richochet: Sc,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dc,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,Sa,N,N,N,N,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Scared Richochet
+Bomberman: TwentyFourthsAndAHalfCentury Scared Richochet
+Scared: TwentyFourthsAndAHalfCentury Bomberman Richochet
+Generated: 2014/08/12 10:23:29.524097230 UTC

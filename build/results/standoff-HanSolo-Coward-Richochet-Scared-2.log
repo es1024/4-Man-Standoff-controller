@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Richochet Scared
+                       HanSolo: Sd,N,Sd,N,Sb
+                        Coward: Sc,N,Sc,N,Sc
+                     Richochet: Sd,N,Sb,N,Sa
+                        Scared: Sb,N,Sa,N,N
+Final Health:
+                       HanSolo: 1
+                        Coward: -1
+                     Richochet: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Coward Richochet
+Coward: Scared HanSolo Richochet
+Richochet: Scared HanSolo Coward
+Scared: Richochet HanSolo Coward
+Generated: 2014/08/12 09:48:53.105593147 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman Rule0Bot Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -17
+                     Bomberman: -1
+                      Rule0Bot: -15
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Bomberman Rule0Bot
+Bomberman: Sniper Pacifist Rule0Bot
+Rule0Bot: Sniper Pacifist Bomberman
+Sniper: Rule0Bot Pacifist Bomberman
+Generated: 2014/08/12 07:24:18.942438006 UTC

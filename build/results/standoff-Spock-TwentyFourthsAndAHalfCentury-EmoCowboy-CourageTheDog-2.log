@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                         Spock: N,Sd,N,Sd,N,Sd,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,Da,N,Da,Sa,N,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sb,N,Db,N,N,N,N
+Final Health:
+                         Spock: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: CourageTheDog Spock EmoCowboy
+EmoCowboy: CourageTheDog Spock TwentyFourthsAndAHalfCentury
+CourageTheDog: EmoCowboy Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:16:35.981541721 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Bomberman Sniper
+                     Aggressor: P,Tb,Sd
+                     Richochet: Sc,N,N
+                     Bomberman: N,N,N
+                        Sniper: Sc,N,Sa
+Final Health:
+                     Aggressor: 0
+                     Richochet: -3
+                     Bomberman: -2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet Bomberman Sniper
+Richochet: Aggressor Bomberman Sniper
+Bomberman: Aggressor Richochet Sniper
+Sniper: Aggressor Richochet Bomberman
+Generated: 2014/08/12 06:03:33.124120149 UTC

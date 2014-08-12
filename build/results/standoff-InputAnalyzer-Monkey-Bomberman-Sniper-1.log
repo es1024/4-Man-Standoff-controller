@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Bomberman Sniper
+                 InputAnalyzer: Dc,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                        Monkey: -15
+                     Bomberman: -15
+                        Sniper: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Sniper Monkey
+Monkey: Bomberman Sniper InputAnalyzer
+Bomberman: Monkey Sniper InputAnalyzer
+Sniper: Monkey Bomberman InputAnalyzer
+Generated: 2014/08/12 07:20:44.889650915 UTC

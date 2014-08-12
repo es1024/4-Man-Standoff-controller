@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Richochet AntiGrenadier
+                     Grenadier: P,Tc
+                 SimpleShooter: Sa,N
+                     Richochet: Sb,N
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Grenadier: -2
+                 SimpleShooter: 0
+                     Richochet: -3
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet AntiGrenadier SimpleShooter
+SimpleShooter: Richochet AntiGrenadier Grenadier
+Richochet: SimpleShooter AntiGrenadier Grenadier
+AntiGrenadier: SimpleShooter Richochet Grenadier
+Generated: 2014/08/12 09:24:44.276770080 UTC

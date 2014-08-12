@@ -1,16 +1,16 @@
 Standoff between: Grenadier StraightShooter HanSolo Spock
-                     Grenadier: P,Tb
-               StraightShooter: Sc,N
-                       HanSolo: Sa,N
-                         Spock: Sa,N
+                     Grenadier: N,N,P,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                       HanSolo: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,Sb
 Final Health:
-                     Grenadier: -2
-               StraightShooter: -3
-                       HanSolo: 0
+                     Grenadier: -9
+               StraightShooter: 0
+                       HanSolo: -2
                          Spock: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: StraightShooter HanSolo Spock
 StraightShooter: Grenadier HanSolo Spock
 HanSolo: Grenadier StraightShooter Spock
 Spock: Grenadier StraightShooter HanSolo
-Generated: 2014/08/11 00:59:53.904360985 UTC
+Generated: 2014/08/12 07:51:29.042379938 UTC

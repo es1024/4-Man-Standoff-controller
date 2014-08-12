@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Coward Aggressor
+                 InputAnalyzer: Dd,Sb,N
+                         Spock: N,N,N
+                        Coward: Sb,N,N
+                     Aggressor: P,Tc,Sa
+Final Health:
+                 InputAnalyzer: 0
+                         Spock: -2
+                        Coward: -3
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Spock Coward
+Spock: Aggressor InputAnalyzer Coward
+Coward: Aggressor InputAnalyzer Spock
+Aggressor: Coward InputAnalyzer Spock
+Generated: 2014/08/12 06:35:32.071033392 UTC

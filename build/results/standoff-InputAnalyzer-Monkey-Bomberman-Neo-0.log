@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Bomberman Neo
+                 InputAnalyzer: Db,Dd,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Dc,Dc,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,Dc,N,Dc,N,Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,N,Dc,Dc,N,N
+Final Health:
+                 InputAnalyzer: -1
+                        Monkey: 0
+                     Bomberman: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Bomberman Neo
+Monkey: InputAnalyzer Bomberman Neo
+Bomberman: InputAnalyzer Monkey Neo
+Neo: InputAnalyzer Monkey Bomberman
+Generated: 2014/08/12 08:42:56.655699900 UTC

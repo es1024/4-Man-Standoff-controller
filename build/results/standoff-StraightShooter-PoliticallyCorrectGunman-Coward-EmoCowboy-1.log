@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Coward EmoCowboy
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+      PoliticallyCorrectGunman: Dd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+      PoliticallyCorrectGunman: -4
+                        Coward: -15
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward EmoCowboy PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Coward EmoCowboy StraightShooter
+Coward: PoliticallyCorrectGunman EmoCowboy StraightShooter
+EmoCowboy: PoliticallyCorrectGunman Coward StraightShooter
+Generated: 2014/08/12 08:19:32.584989720 UTC

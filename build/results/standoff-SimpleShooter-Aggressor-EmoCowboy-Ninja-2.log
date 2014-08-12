@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor EmoCowboy Ninja
+                 SimpleShooter: Sc,N,Sb
+                     Aggressor: P,Td,Sa
+                     EmoCowboy: Sc,N,N
+                         Ninja: Dd,Dc,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 0
+                     EmoCowboy: -4
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Aggressor EmoCowboy
+Aggressor: Ninja SimpleShooter EmoCowboy
+EmoCowboy: Ninja SimpleShooter Aggressor
+Ninja: EmoCowboy SimpleShooter Aggressor
+Generated: 2014/08/12 09:17:34.508057281 UTC

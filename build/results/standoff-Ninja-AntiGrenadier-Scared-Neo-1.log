@@ -1,0 +1,16 @@
+Standoff between: Ninja AntiGrenadier Scared Neo
+                         Ninja: Da,Db,Dd,Dc,Dd,Db,Dd,Dc,Dd,Dc,Da,Db,Dd,Dc,Da,Db,Dc,Da,Dc,Dd,Db,Dc,Da,Dc,Da,Db,Dc,Dc,Da,Db,Dd,Dc,Dd,Dc,Dd,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,N,N,N,N,N,N,N,N,N,Sa,N,Sb,N,Sa,N,Sd,N,Sb,N,Sb,N,N,N,N,N,N,N,Sd,N,Sa,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,Da,N,Da,N,N,Da,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Ninja: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Ninja: Scared Neo AntiGrenadier
+AntiGrenadier: Scared Neo Ninja
+Scared: AntiGrenadier Neo Ninja
+Neo: AntiGrenadier Scared Ninja
+Generated: 2014/08/12 10:27:17.905154446 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Zaenille CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb
+                         Spock: Sd,N,Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: 1
+                      Zaenille: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Spock Zaenille
+Spock: CourageTheDog HanSolo Zaenille
+Zaenille: CourageTheDog HanSolo Spock
+CourageTheDog: Zaenille HanSolo Spock
+Generated: 2014/08/12 05:47:50.065801604 UTC

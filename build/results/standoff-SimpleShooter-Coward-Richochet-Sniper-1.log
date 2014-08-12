@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Richochet Sniper
+                 SimpleShooter: Sb,N,Sc,N,Sd,N,Sc,N,Sc
+                        Coward: Sa,N,Da,N,N,N,N,N,N
+                     Richochet: Sd,N,Sb,N,Sa,N,Sd,N,Sa
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -3
+                     Richochet: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Sniper Coward
+Coward: Richochet Sniper SimpleShooter
+Richochet: Coward Sniper SimpleShooter
+Sniper: Coward Richochet SimpleShooter
+Generated: 2014/08/12 10:48:50.399617233 UTC

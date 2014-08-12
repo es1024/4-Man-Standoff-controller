@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Bomberman AntiGrenadier
+                 InputAnalyzer: Dc,P,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Dd,Sd,N,Dc,Dc,Dc,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,Sa,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                        Coward: 2
+                     Bomberman: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman AntiGrenadier Coward
+Coward: Bomberman AntiGrenadier InputAnalyzer
+Bomberman: Coward AntiGrenadier InputAnalyzer
+AntiGrenadier: Coward Bomberman InputAnalyzer
+Generated: 2014/08/12 06:40:30.518648135 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet TwentyFourthsAndAHalfCentury EmoCowboy
+                        Coward: Sb,N,Sc,N,Sc,N,Sc,N,Db,Sc,N
+                     Richochet: Sa,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,N,Db,N,Da,N,Db,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury EmoCowboy Richochet
+Richochet: TwentyFourthsAndAHalfCentury EmoCowboy Coward
+TwentyFourthsAndAHalfCentury: Richochet EmoCowboy Coward
+EmoCowboy: Richochet TwentyFourthsAndAHalfCentury Coward
+Generated: 2014/08/12 09:53:38.557467307 UTC

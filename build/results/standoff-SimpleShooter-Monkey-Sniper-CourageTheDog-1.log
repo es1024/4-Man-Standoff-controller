@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Sniper CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sb,N,Dc,Dc,Dc,Sc,N,Dc,Sc,N,Sc
+Final Health:
+                 SimpleShooter: -1
+                        Monkey: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper CourageTheDog Monkey
+Monkey: Sniper CourageTheDog SimpleShooter
+Sniper: Monkey CourageTheDog SimpleShooter
+CourageTheDog: Monkey Sniper SimpleShooter
+Generated: 2014/08/12 06:58:02.628946459 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N,Dc,Dd,Dd,Dc,Sd,N,Sc
+                     Richochet: Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,Db,Dd,Da,N,Da,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Da,Sc,N,Dc,Sa,N,N,Sa,N,Sc,N,N
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury CourageTheDog Richochet
+Richochet: TwentyFourthsAndAHalfCentury CourageTheDog Coward
+TwentyFourthsAndAHalfCentury: Richochet CourageTheDog Coward
+CourageTheDog: Richochet TwentyFourthsAndAHalfCentury Coward
+Generated: 2014/08/12 08:50:10.210036713 UTC

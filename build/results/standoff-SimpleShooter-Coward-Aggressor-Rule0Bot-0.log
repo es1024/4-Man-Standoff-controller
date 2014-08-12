@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Aggressor Rule0Bot
+                 SimpleShooter: Sd,N
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                      Rule0Bot: N,Sc
+Final Health:
+                 SimpleShooter: -3
+                        Coward: 2
+                     Aggressor: 0
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Coward Aggressor Rule0Bot
+Coward: SimpleShooter Aggressor Rule0Bot
+Aggressor: SimpleShooter Coward Rule0Bot
+Rule0Bot: SimpleShooter Coward Aggressor
+Generated: 2014/08/12 10:00:14.278545062 UTC

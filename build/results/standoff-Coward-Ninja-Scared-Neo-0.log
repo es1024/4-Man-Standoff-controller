@@ -1,0 +1,16 @@
+Standoff between: Coward Ninja Scared Neo
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb
+                         Ninja: Dc,Dc,Dd,Dc,Dd,Dc,Da,Db,Dc,Dd,Db,Db,Dc,Da,Dd
+                        Scared: N,N,N,N,N,N,Sb,N,Sa,N,Sa,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                         Ninja: -1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Scared Neo
+Ninja: Coward Scared Neo
+Scared: Coward Ninja Neo
+Neo: Coward Ninja Scared
+Generated: 2014/08/12 10:03:36.475067843 UTC

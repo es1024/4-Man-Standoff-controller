@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Scared Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sa,N,Sa
+                        Scared: Sb,N,Sd,N,N,N,N,N,N
+                           Neo: N,Sa,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 3
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared Neo HanSolo
+HanSolo: Scared Neo StraightShooter
+Scared: HanSolo Neo StraightShooter
+Neo: HanSolo Scared StraightShooter
+Generated: 2014/08/12 06:53:12.983444024 UTC

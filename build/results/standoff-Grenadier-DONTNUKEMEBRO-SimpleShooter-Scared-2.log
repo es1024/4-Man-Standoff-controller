@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO SimpleShooter Scared
+                     Grenadier: P,Td
+                 DONTNUKEMEBRO: Da,Sa
+                 SimpleShooter: Sb,N
+                        Scared: Sb,N
+Final Health:
+                     Grenadier: 0
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: 2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Scared Grenadier SimpleShooter
+SimpleShooter: Scared Grenadier DONTNUKEMEBRO
+Scared: SimpleShooter Grenadier DONTNUKEMEBRO
+Generated: 2014/08/12 05:46:32.865632007 UTC

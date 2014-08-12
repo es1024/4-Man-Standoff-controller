@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet EmoCowboy Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,N,Da,Da,Da,N,N,Db,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Neo Richochet
+Richochet: EmoCowboy Neo Pacifist
+EmoCowboy: Richochet Neo Pacifist
+Neo: Richochet EmoCowboy Pacifist
+Generated: 2014/08/12 10:11:58.425539387 UTC

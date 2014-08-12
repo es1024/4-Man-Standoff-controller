@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor AntiGrenadier Scared
+                         Spock: Sc,N
+                     Aggressor: P,Td
+                 AntiGrenadier: N,Sb
+                        Scared: Sa,N
+Final Health:
+                         Spock: 0
+                     Aggressor: 0
+                 AntiGrenadier: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Scared Aggressor
+Aggressor: AntiGrenadier Scared Spock
+AntiGrenadier: Aggressor Scared Spock
+Scared: Aggressor AntiGrenadier Spock
+Generated: 2014/08/12 07:42:27.560245767 UTC

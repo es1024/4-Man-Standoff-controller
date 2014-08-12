@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock AntiGrenadier
+                 InputAnalyzer: Db,Dc,Da,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sd,N,Sd,N,N,Sc,N,N,Dd,Dc,Dd,Da,Sa,N,N,Dd,N,N,N,Sb
+                         Spock: N,Sd,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+      PoliticallyCorrectGunman: -2
+                         Spock: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Spock AntiGrenadier
+PoliticallyCorrectGunman: InputAnalyzer Spock AntiGrenadier
+Spock: InputAnalyzer PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: InputAnalyzer PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 09:42:59.376279574 UTC

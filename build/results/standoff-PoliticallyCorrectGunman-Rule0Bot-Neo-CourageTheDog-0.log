@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Rule0Bot Neo CourageTheDog
+      PoliticallyCorrectGunman: Sd,N,Db,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,Db,N,Db,Dd,Db,N,N,N,N,N,N,Db,Dd,Dd,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Sa,N,Sc,N,Dc,Db,Dc,Sb,N,Sc,N,Db,Db,Dc,Sc,N,Db,Db,Db,Db,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Neo CourageTheDog
+Rule0Bot: PoliticallyCorrectGunman Neo CourageTheDog
+Neo: PoliticallyCorrectGunman Rule0Bot CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman Rule0Bot Neo
+Generated: 2014/08/12 06:31:32.728830868 UTC

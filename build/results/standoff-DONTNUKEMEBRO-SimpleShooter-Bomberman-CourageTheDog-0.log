@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Bomberman CourageTheDog
+                 DONTNUKEMEBRO: Db,Dc,Dd,Dc,Sb,N,Dc,Dc,Dd,Dc,Dc,Dd,Db,Dd,Sb,N,Dc,Sd,N,Db,Dd,Dd,Dc,Dd,Dc,Db,Dc,Dc,Dd,Db,Db,Dc,Dc,Dd,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Db,N,Db,Db,Da,N,Da,N,Sb,N,Dc,Sa,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -19
+                 SimpleShooter: -1
+                     Bomberman: -19
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Bomberman CourageTheDog
+SimpleShooter: DONTNUKEMEBRO Bomberman CourageTheDog
+Bomberman: DONTNUKEMEBRO SimpleShooter CourageTheDog
+CourageTheDog: DONTNUKEMEBRO SimpleShooter Bomberman
+Generated: 2014/08/12 09:51:09.068151987 UTC

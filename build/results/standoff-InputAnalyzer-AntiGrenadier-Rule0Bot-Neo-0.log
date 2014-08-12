@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer AntiGrenadier Rule0Bot Neo
+                 InputAnalyzer: Db,Dd,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Dc,Dc,N,N,N,N,Dc,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,Dc,Dc,N,N,Dc,N,N,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                 AntiGrenadier: 0
+                      Rule0Bot: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Rule0Bot Neo
+AntiGrenadier: InputAnalyzer Rule0Bot Neo
+Rule0Bot: InputAnalyzer AntiGrenadier Neo
+Neo: InputAnalyzer AntiGrenadier Rule0Bot
+Generated: 2014/08/12 10:19:09.366960230 UTC

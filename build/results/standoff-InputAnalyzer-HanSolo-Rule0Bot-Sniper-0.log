@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Rule0Bot Sniper
+                 InputAnalyzer: Db,Dd,Da,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                       HanSolo: -1
+                      Rule0Bot: -15
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Rule0Bot Sniper
+HanSolo: InputAnalyzer Rule0Bot Sniper
+Rule0Bot: InputAnalyzer HanSolo Sniper
+Sniper: InputAnalyzer HanSolo Rule0Bot
+Generated: 2014/08/12 07:55:30.976230870 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Monkey Rule0Bot
+                     Grenadier: N,N,N,N,N,N,N,P,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Dd,Dd,Dd,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -5
+                        Coward: 2
+                        Monkey: -1
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Coward Monkey
+Coward: Rule0Bot Grenadier Monkey
+Monkey: Rule0Bot Grenadier Coward
+Rule0Bot: Monkey Grenadier Coward
+Generated: 2014/08/12 09:05:37.077987038 UTC

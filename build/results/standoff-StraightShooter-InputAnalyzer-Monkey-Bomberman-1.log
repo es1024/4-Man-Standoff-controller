@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Monkey Bomberman
+               StraightShooter: Sd,N,Sd,N
+                 InputAnalyzer: Dc,P,Sc,N
+                        Monkey: N,N,N,Sd
+                     Bomberman: N,N,N,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -1
+                        Monkey: 0
+                     Bomberman: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Bomberman InputAnalyzer
+InputAnalyzer: Monkey Bomberman StraightShooter
+Monkey: InputAnalyzer Bomberman StraightShooter
+Bomberman: InputAnalyzer Monkey StraightShooter
+Generated: 2014/08/12 07:13:18.917516913 UTC

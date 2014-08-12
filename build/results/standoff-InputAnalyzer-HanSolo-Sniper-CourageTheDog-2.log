@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Sniper CourageTheDog
+                 InputAnalyzer: Dd,Da,Da,P,Db
+                       HanSolo: Sd,N,Sd,N,Sd
+                        Sniper: Sb,N,Sa,N,Sd
+                 CourageTheDog: Sa,N,Da,Dc,P
+Final Health:
+                 InputAnalyzer: -6
+                       HanSolo: -3
+                        Sniper: -1
+                 CourageTheDog: -12
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog HanSolo Sniper
+HanSolo: CourageTheDog InputAnalyzer Sniper
+Sniper: CourageTheDog InputAnalyzer HanSolo
+CourageTheDog: Sniper InputAnalyzer HanSolo
+Generated: 2014/08/12 09:52:39.207060062 UTC

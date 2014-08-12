@@ -1,16 +1,16 @@
 Standoff between: StraightShooter InputAnalyzer HanSolo Spock
-               StraightShooter: Sc,N,Sc,N,N
-                 InputAnalyzer: Da,Db,Sb,N,N
-                       HanSolo: Sa,N,Sa,N,Sd
-                         Spock: Sa,N,Sa,N,Sc
+               StraightShooter: Sc,N,Sc
+                 InputAnalyzer: Da,P,Sb
+                       HanSolo: Sa,N,Sa
+                         Spock: N,N,Sa
 Final Health:
-               StraightShooter: -3
-                 InputAnalyzer: -2
-                       HanSolo: -1
-                         Spock: 3
+               StraightShooter: -4
+                 InputAnalyzer: -8
+                       HanSolo: -2
+                         Spock: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 StraightShooter: InputAnalyzer HanSolo Spock
 InputAnalyzer: StraightShooter HanSolo Spock
 HanSolo: StraightShooter InputAnalyzer Spock
 Spock: StraightShooter InputAnalyzer HanSolo
-Generated: 2014/08/11 00:58:54.538698183 UTC
+Generated: 2014/08/12 07:33:52.442529056 UTC

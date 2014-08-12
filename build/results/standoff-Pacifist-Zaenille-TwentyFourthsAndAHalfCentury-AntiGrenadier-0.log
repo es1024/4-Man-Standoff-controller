@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Sa,N,Sd,N,Sa,N,Sa,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+Zaenille: Pacifist TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Pacifist Zaenille AntiGrenadier
+AntiGrenadier: Pacifist Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:43:42.285235530 UTC

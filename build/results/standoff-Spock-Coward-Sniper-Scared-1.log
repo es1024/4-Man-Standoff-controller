@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Sniper Scared
+                         Spock: Sc,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sd,N,Sd,N,Sc,N,Sc
+                        Sniper: Sa,N,N,N,N,Sd,N,N,N
+                        Scared: Sa,N,Sb,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 3
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper Scared Coward
+Coward: Sniper Scared Spock
+Sniper: Coward Scared Spock
+Scared: Coward Sniper Spock
+Generated: 2014/08/12 09:53:53.870490327 UTC

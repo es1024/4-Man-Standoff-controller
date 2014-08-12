@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter EmoCowboy Scared
+                 DONTNUKEMEBRO: Dd,Db,Sd,N,P,Tc
+                 SimpleShooter: Sc,N,Sa,N,Sd,N
+                     EmoCowboy: Sc,N,N,N,N,N
+                        Scared: Sa,N,Sa,N,Sb,N
+Final Health:
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: 0
+                     EmoCowboy: -4
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Scared SimpleShooter EmoCowboy
+SimpleShooter: Scared DONTNUKEMEBRO EmoCowboy
+EmoCowboy: Scared DONTNUKEMEBRO SimpleShooter
+Scared: EmoCowboy DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 07:18:39.685067028 UTC

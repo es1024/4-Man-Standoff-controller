@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Bomberman Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,Dc,Da,Da,Sa,N,N,Dc,N,Da,Sa,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -17
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman Sniper PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Bomberman Sniper Pacifist
+Bomberman: PoliticallyCorrectGunman Sniper Pacifist
+Sniper: PoliticallyCorrectGunman Bomberman Pacifist
+Generated: 2014/08/12 10:45:49.914207347 UTC

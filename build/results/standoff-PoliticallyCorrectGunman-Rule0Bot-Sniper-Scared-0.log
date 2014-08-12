@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Rule0Bot Sniper Scared
+      PoliticallyCorrectGunman: Sc,N,N,N,N,N,N,N,N,N,N,P,Db,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,Sa
+                        Scared: Sc,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N
+Final Health:
+      PoliticallyCorrectGunman: -7
+                      Rule0Bot: -1
+                        Sniper: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Sniper Scared
+Rule0Bot: PoliticallyCorrectGunman Sniper Scared
+Sniper: PoliticallyCorrectGunman Rule0Bot Scared
+Scared: PoliticallyCorrectGunman Rule0Bot Sniper
+Generated: 2014/08/12 08:32:41.065527704 UTC

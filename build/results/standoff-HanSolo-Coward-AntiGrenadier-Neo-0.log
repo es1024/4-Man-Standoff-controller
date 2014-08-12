@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward AntiGrenadier Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd
+                        Coward: Sd,N,Sd,N,Dd,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sa,N
+Final Health:
+                       HanSolo: 3
+                        Coward: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward AntiGrenadier Neo
+Coward: HanSolo AntiGrenadier Neo
+AntiGrenadier: HanSolo Coward Neo
+Neo: HanSolo Coward AntiGrenadier
+Generated: 2014/08/12 06:22:31.799565320 UTC

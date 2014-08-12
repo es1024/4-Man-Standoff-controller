@@ -1,16 +1,16 @@
 Standoff between: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO Spock
-               StraightShooter: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-      PoliticallyCorrectGunman: Sa,N,Da,Sc,N,N,Da,Sd,N,Sc,N,N,P,N,N
-                 DONTNUKEMEBRO: Db,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N
-                         Spock: Sa,N,Sc,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+               StraightShooter: Sc,N,Sc
+      PoliticallyCorrectGunman: P,Sc,N
+                 DONTNUKEMEBRO: Dd,Sb,N
+                         Spock: Sa,N,Sb
 Final Health:
-               StraightShooter: -1
-      PoliticallyCorrectGunman: -1
-                 DONTNUKEMEBRO: -1
-                         Spock: -2
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -5
+                 DONTNUKEMEBRO: -4
+                         Spock: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 StraightShooter: PoliticallyCorrectGunman DONTNUKEMEBRO Spock
 PoliticallyCorrectGunman: StraightShooter DONTNUKEMEBRO Spock
 DONTNUKEMEBRO: StraightShooter PoliticallyCorrectGunman Spock
 Spock: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO
-Generated: 2014/08/11 00:58:47.700146443 UTC
+Generated: 2014/08/12 05:46:01.935595239 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Monkey Ninja
+      PoliticallyCorrectGunman: Db,Dd,N,Sd,N,Sa,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sc,N,Sd,N,Sd
+                        Monkey: N,Sa,N,N,Sd,N,N,Sc,N,N,N
+                         Ninja: Dc,Dc,Db,Da,Dd,Da,Da,Dd,Db,Db,Dc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: 5
+                        Monkey: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey Ninja SimpleShooter
+SimpleShooter: Monkey Ninja PoliticallyCorrectGunman
+Monkey: SimpleShooter Ninja PoliticallyCorrectGunman
+Ninja: SimpleShooter Monkey PoliticallyCorrectGunman
+Generated: 2014/08/12 06:24:15.053114430 UTC

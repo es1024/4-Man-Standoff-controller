@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Aggressor Scared
+                      Pacifist: N,N
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                        Scared: Sb,N
+Final Health:
+                      Pacifist: -3
+                        Coward: 0
+                     Aggressor: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Aggressor Scared
+Coward: Pacifist Aggressor Scared
+Aggressor: Pacifist Coward Scared
+Scared: Pacifist Coward Aggressor
+Generated: 2014/08/12 09:49:48.157452074 UTC

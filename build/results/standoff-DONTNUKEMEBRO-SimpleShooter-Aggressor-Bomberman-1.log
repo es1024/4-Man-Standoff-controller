@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Aggressor Bomberman
+                 DONTNUKEMEBRO: Dc,Sc
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+                     Bomberman: N,N
+Final Health:
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -3
+                     Aggressor: 0
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Aggressor Bomberman SimpleShooter
+SimpleShooter: Aggressor Bomberman DONTNUKEMEBRO
+Aggressor: SimpleShooter Bomberman DONTNUKEMEBRO
+Bomberman: SimpleShooter Aggressor DONTNUKEMEBRO
+Generated: 2014/08/12 06:42:15.772336908 UTC

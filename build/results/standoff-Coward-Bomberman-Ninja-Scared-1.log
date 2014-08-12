@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman Ninja Scared
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Db,Da,Da,Dc,Dd,Db,Da,Dd,Dc
+                        Scared: Sb,N,Sa,N,Sc,N,Sc,N,Sc,N,N
+Final Health:
+                        Coward: 3
+                     Bomberman: -1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Scared Bomberman
+Bomberman: Ninja Scared Coward
+Ninja: Bomberman Scared Coward
+Scared: Bomberman Ninja Coward
+Generated: 2014/08/12 09:39:46.437945204 UTC

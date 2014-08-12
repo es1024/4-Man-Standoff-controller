@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey EmoCowboy Rule0Bot
+                 InputAnalyzer: Db,P,Da,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                        Monkey: -18
+                     EmoCowboy: -2
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey EmoCowboy Rule0Bot
+Monkey: InputAnalyzer EmoCowboy Rule0Bot
+EmoCowboy: InputAnalyzer Monkey Rule0Bot
+Rule0Bot: InputAnalyzer Monkey EmoCowboy
+Generated: 2014/08/12 09:38:54.216317124 UTC

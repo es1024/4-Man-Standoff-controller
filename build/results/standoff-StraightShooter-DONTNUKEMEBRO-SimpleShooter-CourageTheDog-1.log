@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Sd,N,Da,Da,Sc,N,Dc,Dc,Sc
+                 SimpleShooter: Sa,N,Sa,N,Sb,N,Sa,N,Sb,N,Sb
+                 CourageTheDog: Sb,N,Da,Dc,Db,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter CourageTheDog StraightShooter
+SimpleShooter: DONTNUKEMEBRO CourageTheDog StraightShooter
+CourageTheDog: DONTNUKEMEBRO SimpleShooter StraightShooter
+Generated: 2014/08/12 08:11:17.174787392 UTC

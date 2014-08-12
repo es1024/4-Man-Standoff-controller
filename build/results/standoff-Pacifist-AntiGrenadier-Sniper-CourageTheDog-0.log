@@ -1,0 +1,16 @@
+Standoff between: Pacifist AntiGrenadier Sniper CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sa,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Dc,Sc,N,Da,Sa,N,Db,Dc,Db,Sb,N,Db,Dc,Dc,Db,Dc,Dc,Dc,Sb,N,Dc,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Sniper CourageTheDog
+AntiGrenadier: Pacifist Sniper CourageTheDog
+Sniper: Pacifist AntiGrenadier CourageTheDog
+CourageTheDog: Pacifist AntiGrenadier Sniper
+Generated: 2014/08/12 06:12:06.389607807 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Coward Rule0Bot
+      PoliticallyCorrectGunman: P,Tc,N
+                         Spock: Sc,N,Sd
+                        Coward: Sa,N,N
+                      Rule0Bot: N,Sa,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: 2
+                        Coward: -5
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward Rule0Bot Spock
+Spock: Coward Rule0Bot PoliticallyCorrectGunman
+Coward: Spock Rule0Bot PoliticallyCorrectGunman
+Rule0Bot: Spock Coward PoliticallyCorrectGunman
+Generated: 2014/08/12 07:40:10.813777903 UTC

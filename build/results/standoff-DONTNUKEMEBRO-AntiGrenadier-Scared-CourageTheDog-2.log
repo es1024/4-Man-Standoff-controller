@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO AntiGrenadier Scared CourageTheDog
+                 DONTNUKEMEBRO: Db,Dc,Dd,Dc,Dc,Sd,N,Dd,Db,Dc,Dc,Dd,Dc,Dd,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,Sd,N,Sb,N,Sb,N,Sd,N,Sa,N,Sa,N,N
+                 CourageTheDog: Sc,N,N,Sa,N,Da,Sc,N,Dc,Da,Sb,N,Dc,Da,Sc,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 AntiGrenadier: -1
+                        Scared: -3
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog AntiGrenadier Scared
+AntiGrenadier: CourageTheDog DONTNUKEMEBRO Scared
+Scared: CourageTheDog DONTNUKEMEBRO AntiGrenadier
+CourageTheDog: Scared DONTNUKEMEBRO AntiGrenadier
+Generated: 2014/08/12 09:06:25.983536985 UTC

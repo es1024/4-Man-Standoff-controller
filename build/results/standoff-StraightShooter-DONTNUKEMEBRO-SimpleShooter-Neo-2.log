@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter Neo
+               StraightShooter: Sb,N,Sb,N
+                 DONTNUKEMEBRO: Dc,Dc,P,Tc
+                 SimpleShooter: Sb,N,Sa,N
+                           Neo: N,Db,Db,N
+Final Health:
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: -3
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Neo StraightShooter SimpleShooter
+SimpleShooter: Neo StraightShooter DONTNUKEMEBRO
+Neo: SimpleShooter StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 07:15:03.806882945 UTC

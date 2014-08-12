@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey TwentyFourthsAndAHalfCentury Ninja
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,Db,Db,Da,Sa,N,Sa,N,Sa
+                         Ninja: Dd,Dc,Dd,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Monkey TwentyFourthsAndAHalfCentury
+Monkey: Ninja HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja HanSolo Monkey
+Ninja: TwentyFourthsAndAHalfCentury HanSolo Monkey
+Generated: 2014/08/12 06:21:16.259040821 UTC

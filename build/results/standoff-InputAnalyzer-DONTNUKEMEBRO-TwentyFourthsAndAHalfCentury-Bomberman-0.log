@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Bomberman
+                 InputAnalyzer: Db,Da,P,Da,Sb
+                 DONTNUKEMEBRO: Da,Da,Dd,Sa,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Sd,N,Sb
+                     Bomberman: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: -2
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Bomberman
+DONTNUKEMEBRO: InputAnalyzer TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: InputAnalyzer DONTNUKEMEBRO Bomberman
+Bomberman: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:25:56.675179480 UTC

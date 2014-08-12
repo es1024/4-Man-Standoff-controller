@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo Aggressor
+                 InputAnalyzer: Db,Sc
+      PoliticallyCorrectGunman: N,N
+                       HanSolo: Sa,N
+                     Aggressor: P,Tb
+Final Health:
+                 InputAnalyzer: 0
+      PoliticallyCorrectGunman: -3
+                       HanSolo: 0
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman HanSolo Aggressor
+PoliticallyCorrectGunman: InputAnalyzer HanSolo Aggressor
+HanSolo: InputAnalyzer PoliticallyCorrectGunman Aggressor
+Aggressor: InputAnalyzer PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 06:20:58.288861338 UTC

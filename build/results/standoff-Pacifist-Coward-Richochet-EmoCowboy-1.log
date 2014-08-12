@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Richochet EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N
+                        Coward: Sa,N,Sc,N,Sc,N,Sc
+                     Richochet: Sd,N,Sa,N,Sa,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 3
+                     Richochet: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet EmoCowboy Coward
+Coward: Richochet EmoCowboy Pacifist
+Richochet: Coward EmoCowboy Pacifist
+EmoCowboy: Coward Richochet Pacifist
+Generated: 2014/08/12 05:43:46.035579137 UTC

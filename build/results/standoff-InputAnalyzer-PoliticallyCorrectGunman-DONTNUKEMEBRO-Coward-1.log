@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO Coward
+                 InputAnalyzer: Dc,Sb,N,P,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Db,Da,Sa,N,Da,Dd,Dd,Da,Db,Dd,Dd,Da,Sd
+                        Coward: Sa,N,Sa,N,Sa,N,Dc,Da,Da,Da,Da,Da,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -9
+      PoliticallyCorrectGunman: 0
+                 DONTNUKEMEBRO: 0
+                        Coward: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Coward PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO Coward InputAnalyzer
+DONTNUKEMEBRO: PoliticallyCorrectGunman Coward InputAnalyzer
+Coward: PoliticallyCorrectGunman DONTNUKEMEBRO InputAnalyzer
+Generated: 2014/08/12 08:34:19.502205108 UTC

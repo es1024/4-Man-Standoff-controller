@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock SimpleShooter EmoCowboy
+                 DONTNUKEMEBRO: Db,Db,Dc,Dd,Sc,N,Sc,N,Sb
+                         Spock: Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                 SimpleShooter: Sb,N,Sa,N,Sa,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: -3
+                 SimpleShooter: 1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: EmoCowboy Spock SimpleShooter
+Spock: EmoCowboy DONTNUKEMEBRO SimpleShooter
+SimpleShooter: EmoCowboy DONTNUKEMEBRO Spock
+EmoCowboy: SimpleShooter DONTNUKEMEBRO Spock
+Generated: 2014/08/12 06:32:37.973115484 UTC

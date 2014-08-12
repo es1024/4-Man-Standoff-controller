@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Spock Richochet
+               StraightShooter: Sc,N,Sc,N,Sc
+      PoliticallyCorrectGunman: N,N,N,P,Tc
+                         Spock: N,N,Sa,N,N
+                     Richochet: Sc,N,Sb,N,Sb
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Spock Richochet
+PoliticallyCorrectGunman: StraightShooter Spock Richochet
+Spock: StraightShooter PoliticallyCorrectGunman Richochet
+Richochet: StraightShooter PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 06:14:22.142224261 UTC

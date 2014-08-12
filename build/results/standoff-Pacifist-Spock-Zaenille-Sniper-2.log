@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Zaenille Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: 5
+                      Zaenille: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Spock Zaenille
+Spock: Sniper Pacifist Zaenille
+Zaenille: Sniper Pacifist Spock
+Sniper: Zaenille Pacifist Spock
+Generated: 2014/08/12 10:19:31.721536097 UTC

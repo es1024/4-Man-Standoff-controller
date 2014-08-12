@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy AntiGrenadier Neo
+                       HanSolo: Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Dc,Dc,N,N,N,N,N,Da,Sa,N,Sa,N
+Final Health:
+                       HanSolo: 1
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy AntiGrenadier Neo
+EmoCowboy: HanSolo AntiGrenadier Neo
+AntiGrenadier: HanSolo EmoCowboy Neo
+Neo: HanSolo EmoCowboy AntiGrenadier
+Generated: 2014/08/12 10:48:54.777092936 UTC

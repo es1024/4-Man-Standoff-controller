@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy Ninja Rule0Bot CourageTheDog
+                     EmoCowboy: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Db,Dd,Dc,Dd,Dc,Dd,Db,Dd,Dd,Db,Dc,Dc,Db,Dd,Dc,Da,Dc,Dd,Db,Dc,Db,Dc,Dc,Da,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Dc,Sb,N,Db,Sb,N,Db,Sb,N,Dc,N,Db,Db,Sc,N,N,Dc,Db,Dc,Sb,N,Dc,Sb,N,Sc,N,Dc,Sc
+Final Health:
+                     EmoCowboy: -2
+                         Ninja: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: CourageTheDog Ninja Rule0Bot
+Ninja: CourageTheDog EmoCowboy Rule0Bot
+Rule0Bot: CourageTheDog EmoCowboy Ninja
+CourageTheDog: Rule0Bot EmoCowboy Ninja
+Generated: 2014/08/12 09:07:52.920717924 UTC

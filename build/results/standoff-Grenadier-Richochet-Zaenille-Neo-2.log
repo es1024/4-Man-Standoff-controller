@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Zaenille Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sd,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,Sb,N,N,Db,N,Db,N,N
+Final Health:
+                     Grenadier: -1
+                     Richochet: 3
+                      Zaenille: -4
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Richochet Zaenille
+Richochet: Neo Grenadier Zaenille
+Zaenille: Neo Grenadier Richochet
+Neo: Zaenille Grenadier Richochet
+Generated: 2014/08/12 07:38:24.536058034 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille AntiGrenadier CourageTheDog
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Da,Da,Sa,N,Da,Da,Da,Sa
+Final Health:
+                         Spock: -1
+                      Zaenille: -2
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier CourageTheDog Zaenille
+Zaenille: AntiGrenadier CourageTheDog Spock
+AntiGrenadier: Zaenille CourageTheDog Spock
+CourageTheDog: Zaenille AntiGrenadier Spock
+Generated: 2014/08/12 07:31:52.303230538 UTC

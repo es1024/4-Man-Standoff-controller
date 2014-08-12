@@ -1,0 +1,16 @@
+Standoff between: Richochet Ninja Sniper CourageTheDog
+                     Richochet: Sc,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Db,Db,Dc,Dd,Da,Dc,Dd,Da,Db,Dc,Dd,Da,Dc,Da,Dd,Db,Db,Da,Dd,Dd,Dd,Dd,Db,Db,Da
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Db,Db,Sc,N,N,Sb,N,Db,Sc,N,Db,Sb,N,N,Db,Db,Db,Db,Db,Sb,N,Sb,N,Sb
+Final Health:
+                     Richochet: -1
+                         Ninja: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Sniper CourageTheDog
+Ninja: Richochet Sniper CourageTheDog
+Sniper: Richochet Ninja CourageTheDog
+CourageTheDog: Richochet Ninja Sniper
+Generated: 2014/08/12 08:54:59.967203831 UTC

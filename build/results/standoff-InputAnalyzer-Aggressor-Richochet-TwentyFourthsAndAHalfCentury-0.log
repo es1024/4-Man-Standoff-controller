@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Richochet TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,P
+                     Aggressor: P,Tc
+                     Richochet: Sa,N
+  TwentyFourthsAndAHalfCentury: Db,Db
+Final Health:
+                 InputAnalyzer: -6
+                     Aggressor: -1
+                     Richochet: -6
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Richochet TwentyFourthsAndAHalfCentury
+Aggressor: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury
+Richochet: InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer Aggressor Richochet
+Generated: 2014/08/12 06:10:57.854587144 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Db,Db,Da,Dd,Dd,Db,Da,Dd,Db,Dd,Db,Db,Dd,Dd,Da,Da,Dd,Dd,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Dc,N,N,Db,Dc,Db,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury HanSolo DONTNUKEMEBRO
+HanSolo: TwentyFourthsAndAHalfCentury Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury Pacifist HanSolo
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO Pacifist HanSolo
+Generated: 2014/08/12 09:29:17.242960340 UTC

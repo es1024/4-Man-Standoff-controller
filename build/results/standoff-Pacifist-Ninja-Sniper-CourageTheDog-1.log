@@ -1,0 +1,16 @@
+Standoff between: Pacifist Ninja Sniper CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Db,Da,Dc,Dd,Db,Db,Da,Dd,Dd,Db,Da,Dd,Dc,Db,Dd,Da,Da,Db,Da,Da,Db,Db,Db,Dc,Dd,Dd,Dc,Dc,Dc,Dc,Da,Dc,Da,Db,Dd,Db,Dc,Dd,Da,Dd,Da,Dd,Db,Dd,Db,Dc,Da,Da
+                        Sniper: Sd,N,Sa,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Sa,N,Dc,Db,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -19
+                         Ninja: -15
+                        Sniper: -17
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper CourageTheDog Ninja
+Ninja: Sniper CourageTheDog Pacifist
+Sniper: Ninja CourageTheDog Pacifist
+CourageTheDog: Ninja Sniper Pacifist
+Generated: 2014/08/12 09:28:59.407340153 UTC

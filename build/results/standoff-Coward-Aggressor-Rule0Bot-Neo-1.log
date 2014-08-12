@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Rule0Bot Neo
+                        Coward: Sb,N,Sd
+                     Aggressor: P,Tc,N
+                      Rule0Bot: N,Sb,N
+                           Neo: N,N,N
+Final Health:
+                        Coward: 2
+                     Aggressor: -2
+                      Rule0Bot: -3
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot Neo Aggressor
+Aggressor: Rule0Bot Neo Coward
+Rule0Bot: Aggressor Neo Coward
+Neo: Aggressor Rule0Bot Coward
+Generated: 2014/08/12 08:42:22.966562061 UTC

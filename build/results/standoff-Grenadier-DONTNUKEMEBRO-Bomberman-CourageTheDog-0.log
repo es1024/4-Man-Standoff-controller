@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Bomberman CourageTheDog
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Sa,N,Dc,Dd,Dd,Dc,Da,Dc,Da,Da,Dc,Da,Dd,Da
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                     Grenadier: -3
+                 DONTNUKEMEBRO: 0
+                     Bomberman: -2
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO Bomberman CourageTheDog
+DONTNUKEMEBRO: Grenadier Bomberman CourageTheDog
+Bomberman: Grenadier DONTNUKEMEBRO CourageTheDog
+CourageTheDog: Grenadier DONTNUKEMEBRO Bomberman
+Generated: 2014/08/12 08:57:27.620803760 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Zaenille Bomberman
+                         Spock: N,Sd,N,Sd,N,N,Sd
+                        Coward: Sc,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 5
+                      Zaenille: -4
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman Coward Zaenille
+Coward: Bomberman Spock Zaenille
+Zaenille: Bomberman Spock Coward
+Bomberman: Zaenille Spock Coward
+Generated: 2014/08/12 08:29:04.527350088 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet EmoCowboy Sniper
+                 InputAnalyzer: Dd,Da,P,Dd,N
+                     Richochet: Sa,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N
+                        Sniper: Sc,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                     Richochet: 2
+                     EmoCowboy: -4
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Richochet EmoCowboy
+Richochet: Sniper InputAnalyzer EmoCowboy
+EmoCowboy: Sniper InputAnalyzer Richochet
+Sniper: EmoCowboy InputAnalyzer Richochet
+Generated: 2014/08/12 08:10:26.934708761 UTC

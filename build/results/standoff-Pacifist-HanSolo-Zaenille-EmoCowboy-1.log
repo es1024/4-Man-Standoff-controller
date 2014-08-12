@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Zaenille EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                      Zaenille: -4
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille EmoCowboy HanSolo
+HanSolo: Zaenille EmoCowboy Pacifist
+Zaenille: HanSolo EmoCowboy Pacifist
+EmoCowboy: HanSolo Zaenille Pacifist
+Generated: 2014/08/12 06:47:12.196545461 UTC

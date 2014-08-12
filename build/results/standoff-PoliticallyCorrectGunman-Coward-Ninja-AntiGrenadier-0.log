@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Ninja AntiGrenadier
+      PoliticallyCorrectGunman: Dd,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa
+                         Ninja: Dc,Dc,Dd,Da,Db,Dc,Dd,Dc,Db,Da,Dc,Db,Da,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward Ninja AntiGrenadier
+Coward: PoliticallyCorrectGunman Ninja AntiGrenadier
+Ninja: PoliticallyCorrectGunman Coward AntiGrenadier
+AntiGrenadier: PoliticallyCorrectGunman Coward Ninja
+Generated: 2014/08/12 07:22:52.995339979 UTC

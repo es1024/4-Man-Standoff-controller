@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Richochet Rule0Bot
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Dd,P,Dd,Sc
+                     Richochet: Sd,N,Sa,N
+                      Rule0Bot: N,N,Sb,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -1
+                     Richochet: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot InputAnalyzer Richochet
+InputAnalyzer: Rule0Bot Pacifist Richochet
+Richochet: Rule0Bot Pacifist InputAnalyzer
+Rule0Bot: Richochet Pacifist InputAnalyzer
+Generated: 2014/08/12 09:18:25.204782653 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Ninja Sniper
+                 InputAnalyzer: Dd,Dc,Dd,P,Da,Db,N
+                     Richochet: Sa,N,Sc,N,Sc,N,Sd
+                         Ninja: Dd,Dd,Dd,Dd,Dd,Db,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N
+Final Health:
+                 InputAnalyzer: -5
+                     Richochet: 2
+                         Ninja: -2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Richochet Ninja
+Richochet: Sniper InputAnalyzer Ninja
+Ninja: Sniper InputAnalyzer Richochet
+Sniper: Ninja InputAnalyzer Richochet
+Generated: 2014/08/12 08:06:48.924879240 UTC

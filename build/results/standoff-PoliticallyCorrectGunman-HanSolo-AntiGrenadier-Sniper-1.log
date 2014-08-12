@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo AntiGrenadier Sniper
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,Sc,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                       HanSolo: 5
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Sniper HanSolo
+HanSolo: AntiGrenadier Sniper PoliticallyCorrectGunman
+AntiGrenadier: HanSolo Sniper PoliticallyCorrectGunman
+Sniper: HanSolo AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 05:44:37.695768425 UTC

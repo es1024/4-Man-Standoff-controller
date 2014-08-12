@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Zaenille Sniper
+                 InputAnalyzer: Dc,Da,Da,Sd,N,N,N
+                     Richochet: Sa,N,Sd,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                     Richochet: 5
+                      Zaenille: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Sniper Richochet
+Richochet: Zaenille Sniper InputAnalyzer
+Zaenille: Richochet Sniper InputAnalyzer
+Sniper: Richochet Zaenille InputAnalyzer
+Generated: 2014/08/12 06:43:44.805311878 UTC

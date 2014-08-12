@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist TwentyFourthsAndAHalfCentury Scared
+                     Grenadier: P,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,N,N,N,N
+                        Scared: Sc,N,Sa,N,N,Sb
+Final Health:
+                     Grenadier: -3
+                      Pacifist: 0
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Pacifist TwentyFourthsAndAHalfCentury
+Pacifist: Scared Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Grenadier Pacifist
+Scared: TwentyFourthsAndAHalfCentury Grenadier Pacifist
+Generated: 2014/08/12 07:18:25.764923349 UTC

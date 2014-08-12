@@ -1,0 +1,16 @@
+Standoff between: Monkey Ninja Rule0Bot CourageTheDog
+                        Monkey: N,N,N,Db,Da,Da,N,N,Db,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Db,Da,Da,Dc,Da,Dd,Dc,Db,Da,Da,Db,Dd,Dc,Da,Dc,Da,Dc,Dd,Dc,Db,Da,Db
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sa,N,Sb,N,Db,Sc,N,Sa,N,Db,Sb,N,Db,Db,Sb,N,Sb,N,Db,Db,Sb
+Final Health:
+                        Monkey: -2
+                         Ninja: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Ninja Rule0Bot CourageTheDog
+Ninja: Monkey Rule0Bot CourageTheDog
+Rule0Bot: Monkey Ninja CourageTheDog
+CourageTheDog: Monkey Ninja Rule0Bot
+Generated: 2014/08/12 06:36:31.371761550 UTC

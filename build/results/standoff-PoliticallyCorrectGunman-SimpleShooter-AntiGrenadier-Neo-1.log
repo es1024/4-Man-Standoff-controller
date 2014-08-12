@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter AntiGrenadier Neo
+      PoliticallyCorrectGunman: Db,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sa,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,Da,N,Dc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                 SimpleShooter: 5
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Neo SimpleShooter
+SimpleShooter: AntiGrenadier Neo PoliticallyCorrectGunman
+AntiGrenadier: SimpleShooter Neo PoliticallyCorrectGunman
+Neo: SimpleShooter AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 06:12:39.092003283 UTC

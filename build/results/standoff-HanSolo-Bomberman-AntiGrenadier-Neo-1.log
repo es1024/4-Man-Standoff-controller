@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman AntiGrenadier Neo
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Da,Db,N,N,Da,N,Da,Db,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Neo Bomberman
+Bomberman: AntiGrenadier Neo HanSolo
+AntiGrenadier: Bomberman Neo HanSolo
+Neo: Bomberman AntiGrenadier HanSolo
+Generated: 2014/08/12 09:25:32.248068486 UTC

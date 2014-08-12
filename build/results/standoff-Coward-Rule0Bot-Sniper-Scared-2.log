@@ -1,0 +1,16 @@
+Standoff between: Coward Rule0Bot Sniper Scared
+                        Coward: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,Sb
+Final Health:
+                        Coward: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared Rule0Bot Sniper
+Rule0Bot: Scared Coward Sniper
+Sniper: Scared Coward Rule0Bot
+Scared: Sniper Coward Rule0Bot
+Generated: 2014/08/12 07:48:59.479055031 UTC

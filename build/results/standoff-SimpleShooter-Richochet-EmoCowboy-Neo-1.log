@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet EmoCowboy Neo
+                 SimpleShooter: Sb,N,Sb,N,Sd,N,Sb
+                     Richochet: Sd,N,Sa,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                     Richochet: -1
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Neo Richochet
+Richochet: EmoCowboy Neo SimpleShooter
+EmoCowboy: Richochet Neo SimpleShooter
+Neo: Richochet EmoCowboy SimpleShooter
+Generated: 2014/08/12 07:39:43.382518288 UTC

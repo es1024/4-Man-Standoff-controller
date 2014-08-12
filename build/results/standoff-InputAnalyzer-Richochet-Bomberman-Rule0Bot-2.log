@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Bomberman Rule0Bot
+                 InputAnalyzer: Dd,Db,Dd,P,Sb,N
+                     Richochet: Sc,N,Sd,N,Sd,N
+                     Bomberman: N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                     Richochet: 0
+                     Bomberman: 0
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Richochet Bomberman
+Richochet: Rule0Bot InputAnalyzer Bomberman
+Bomberman: Rule0Bot InputAnalyzer Richochet
+Rule0Bot: Bomberman InputAnalyzer Richochet
+Generated: 2014/08/12 07:27:45.209770156 UTC

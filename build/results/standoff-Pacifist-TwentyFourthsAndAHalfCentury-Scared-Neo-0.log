@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Scared Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,Sc,N,Sd
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sd,N,Sb,N,Sd,N,N,N,N,N,N,N,N,Sa,N,Sb
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,Dc,Db,N,Db,Dc,Db,N,N,N,N,N,N,N,N,N,Dc,N,Dc
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Scared Neo
+TwentyFourthsAndAHalfCentury: Pacifist Scared Neo
+Scared: Pacifist TwentyFourthsAndAHalfCentury Neo
+Neo: Pacifist TwentyFourthsAndAHalfCentury Scared
+Generated: 2014/08/12 10:03:25.490699869 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey EmoCowboy Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,Sa,N,Sb,N,Sa,N,Sb,N,Sa
+Final Health:
+                      Pacifist: -1
+                        Monkey: -1
+                     EmoCowboy: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Scared Monkey
+Monkey: EmoCowboy Scared Pacifist
+EmoCowboy: Monkey Scared Pacifist
+Scared: Monkey EmoCowboy Pacifist
+Generated: 2014/08/12 08:47:28.779299344 UTC

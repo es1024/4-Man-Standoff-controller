@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Aggressor Ninja
+               StraightShooter: Sb,N,Sb
+                 DONTNUKEMEBRO: Da,Sc,N
+                     Aggressor: P,Td,N
+                         Ninja: Da,Db,N
+Final Health:
+               StraightShooter: 2
+                 DONTNUKEMEBRO: 0
+                     Aggressor: 0
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja DONTNUKEMEBRO Aggressor
+DONTNUKEMEBRO: Ninja StraightShooter Aggressor
+Aggressor: Ninja StraightShooter DONTNUKEMEBRO
+Ninja: Aggressor StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 08:03:20.215377875 UTC

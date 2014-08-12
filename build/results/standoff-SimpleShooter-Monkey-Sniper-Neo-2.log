@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Sniper Neo
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,Sc,N,Sb,N
+                        Sniper: Sb,N,Sa,N,Sd,N,N,N,N
+                           Neo: N,N,N,N,N,N,Da,N,N
+Final Health:
+                 SimpleShooter: 3
+                        Monkey: -2
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Monkey Sniper
+Monkey: Neo SimpleShooter Sniper
+Sniper: Neo SimpleShooter Monkey
+Neo: Sniper SimpleShooter Monkey
+Generated: 2014/08/12 06:30:07.649182201 UTC

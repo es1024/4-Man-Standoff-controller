@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille EmoCowboy CourageTheDog
+                       HanSolo: Sb,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Sa,N,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+                      Zaenille: -4
+                     EmoCowboy: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille EmoCowboy CourageTheDog
+Zaenille: HanSolo EmoCowboy CourageTheDog
+EmoCowboy: HanSolo Zaenille CourageTheDog
+CourageTheDog: HanSolo Zaenille EmoCowboy
+Generated: 2014/08/12 07:49:17.564846701 UTC

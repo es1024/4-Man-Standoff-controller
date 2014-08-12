@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury Neo
+                 InputAnalyzer: Dd,Db,Dd,Dc,Sb,N,Sa,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sd,N,Sd,N,Sc,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,Db,Sb,N,Sb
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Richochet TwentyFourthsAndAHalfCentury
+Richochet: Neo InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo InputAnalyzer Richochet
+Neo: TwentyFourthsAndAHalfCentury InputAnalyzer Richochet
+Generated: 2014/08/12 06:26:37.881782123 UTC

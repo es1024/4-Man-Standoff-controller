@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist EmoCowboy Rule0Bot
+                     Grenadier: N,N,N,N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -18
+                     EmoCowboy: -2
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist EmoCowboy Rule0Bot
+Pacifist: Grenadier EmoCowboy Rule0Bot
+EmoCowboy: Grenadier Pacifist Rule0Bot
+Rule0Bot: Grenadier Pacifist EmoCowboy
+Generated: 2014/08/12 06:18:15.166146886 UTC

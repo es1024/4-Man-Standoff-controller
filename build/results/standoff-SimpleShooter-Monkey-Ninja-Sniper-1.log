@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Ninja Sniper
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Da,Dc,Dc,Db,Db,Dc,Dd,Dc,Da,Da,Da,Dd,Dd
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -1
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Sniper Monkey
+Monkey: Ninja Sniper SimpleShooter
+Ninja: Monkey Sniper SimpleShooter
+Sniper: Monkey Ninja SimpleShooter
+Generated: 2014/08/12 09:51:37.903922355 UTC

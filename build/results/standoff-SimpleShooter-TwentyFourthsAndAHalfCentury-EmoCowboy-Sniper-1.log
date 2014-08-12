@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy Sniper
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sb,N,Sd,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dc,N,Dd,Dd,Da,Dd,Dd,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+Final Health:
+                 SimpleShooter: -15
+  TwentyFourthsAndAHalfCentury: -19
+                     EmoCowboy: -4
+                        Sniper: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Sniper SimpleShooter
+EmoCowboy: TwentyFourthsAndAHalfCentury Sniper SimpleShooter
+Sniper: TwentyFourthsAndAHalfCentury EmoCowboy SimpleShooter
+Generated: 2014/08/12 05:47:02.595980833 UTC

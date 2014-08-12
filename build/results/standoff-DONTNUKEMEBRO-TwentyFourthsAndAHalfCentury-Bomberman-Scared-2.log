@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Bomberman Scared
+                 DONTNUKEMEBRO: Dd,Dc,Db,Dc,Dc,Dd,Dc,Db,Dd,Dc,Dd,Sd,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N,N,N,N,Sc,N,Sa,N,Sa,N,Sc,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,Sb,N,Sa,N,Sb,N,Sc,N,N,N,N,N,Sb
+Final Health:
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Scared TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Scared DONTNUKEMEBRO Bomberman
+Bomberman: Scared DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Scared: Bomberman DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:34:13.564349651 UTC

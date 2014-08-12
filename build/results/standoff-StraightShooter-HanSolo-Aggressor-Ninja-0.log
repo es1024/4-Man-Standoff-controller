@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Aggressor Ninja
+               StraightShooter: Sc,N
+                       HanSolo: Sa,N
+                     Aggressor: P,Tb
+                         Ninja: Db,Dd
+Final Health:
+               StraightShooter: 0
+                       HanSolo: -3
+                     Aggressor: 0
+                         Ninja: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Aggressor Ninja
+HanSolo: StraightShooter Aggressor Ninja
+Aggressor: StraightShooter HanSolo Ninja
+Ninja: StraightShooter HanSolo Aggressor
+Generated: 2014/08/12 07:31:39.591618692 UTC

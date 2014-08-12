@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Bomberman CourageTheDog
+                     Richochet: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Dc,N,Dc,N,N,N,Dc,Da,Da,Sa,N
+Final Health:
+                     Richochet: 3
+                      Zaenille: -4
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman CourageTheDog Zaenille
+Zaenille: Bomberman CourageTheDog Richochet
+Bomberman: Zaenille CourageTheDog Richochet
+CourageTheDog: Zaenille Bomberman Richochet
+Generated: 2014/08/12 09:18:16.398266607 UTC

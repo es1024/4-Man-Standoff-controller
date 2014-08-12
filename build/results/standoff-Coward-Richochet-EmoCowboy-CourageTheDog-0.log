@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet EmoCowboy CourageTheDog
+                        Coward: Sd,N,Sb,N,Sb
+                     Richochet: Sc,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Sb,N
+Final Health:
+                        Coward: 5
+                     Richochet: -1
+                     EmoCowboy: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet EmoCowboy CourageTheDog
+Richochet: Coward EmoCowboy CourageTheDog
+EmoCowboy: Coward Richochet CourageTheDog
+CourageTheDog: Coward Richochet EmoCowboy
+Generated: 2014/08/12 07:20:15.433520670 UTC

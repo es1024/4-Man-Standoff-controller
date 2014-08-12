@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Bomberman AntiGrenadier
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd
+                        Coward: Sd,N,Sd,N,Dd,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Coward: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Bomberman AntiGrenadier
+Coward: HanSolo Bomberman AntiGrenadier
+Bomberman: HanSolo Coward AntiGrenadier
+AntiGrenadier: HanSolo Coward Bomberman
+Generated: 2014/08/12 07:30:51.115816467 UTC

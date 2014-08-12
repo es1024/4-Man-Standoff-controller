@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet EmoCowboy CourageTheDog
+      PoliticallyCorrectGunman: N,Sd,N,Sc,N,Sd,N,N,N,N,N
+                     Richochet: Sc,N,Sd,N,Sa,N,Sa,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sa,N,Da,Db,Db,Db,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 1
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy CourageTheDog Richochet
+Richochet: EmoCowboy CourageTheDog PoliticallyCorrectGunman
+EmoCowboy: Richochet CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Richochet EmoCowboy PoliticallyCorrectGunman
+Generated: 2014/08/12 08:48:22.444962798 UTC

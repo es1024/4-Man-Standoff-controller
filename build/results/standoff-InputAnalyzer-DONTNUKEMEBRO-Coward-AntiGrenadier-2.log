@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Coward AntiGrenadier
+                 InputAnalyzer: Dd,Dc,Sd,N,Da,Db,Da,P,N
+                 DONTNUKEMEBRO: Dd,Da,Sc,N,Sc,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: -1
+                        Coward: -2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier DONTNUKEMEBRO Coward
+DONTNUKEMEBRO: AntiGrenadier InputAnalyzer Coward
+Coward: AntiGrenadier InputAnalyzer DONTNUKEMEBRO
+AntiGrenadier: Coward InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 09:54:10.828696603 UTC

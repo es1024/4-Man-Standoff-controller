@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Coward Aggressor
+                 InputAnalyzer: Db,Dd,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Db,Dd,Db,Dd,Db,Dd,Sb
+                     Aggressor: P,Ta,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 0
+                        Coward: 0
+                     Aggressor: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Coward Aggressor
+SimpleShooter: InputAnalyzer Coward Aggressor
+Coward: InputAnalyzer SimpleShooter Aggressor
+Aggressor: InputAnalyzer SimpleShooter Coward
+Generated: 2014/08/12 07:37:07.229483264 UTC

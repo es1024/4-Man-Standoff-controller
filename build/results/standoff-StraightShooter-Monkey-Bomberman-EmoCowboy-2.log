@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Bomberman EmoCowboy
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                        Monkey: N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,N,N
+                     EmoCowboy: N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 2
+                        Monkey: -2
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Monkey Bomberman
+Monkey: EmoCowboy StraightShooter Bomberman
+Bomberman: EmoCowboy StraightShooter Monkey
+EmoCowboy: Bomberman StraightShooter Monkey
+Generated: 2014/08/12 07:20:10.804464494 UTC

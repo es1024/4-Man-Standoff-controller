@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Rule0Bot Sniper
+      PoliticallyCorrectGunman: N,Sb,N,Db,Db,Db,Sc,N,N,N,N,N,N,N,Sb,N,P,Tc
+  TwentyFourthsAndAHalfCentury: Dd,Da,Dc,Da,Dc,Da,Dc,N,N,N,N,N,N,Sd,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+  TwentyFourthsAndAHalfCentury: 0
+                      Rule0Bot: -1
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Sniper PoliticallyCorrectGunman
+Rule0Bot: TwentyFourthsAndAHalfCentury Sniper PoliticallyCorrectGunman
+Sniper: TwentyFourthsAndAHalfCentury Rule0Bot PoliticallyCorrectGunman
+Generated: 2014/08/12 06:00:23.705711660 UTC

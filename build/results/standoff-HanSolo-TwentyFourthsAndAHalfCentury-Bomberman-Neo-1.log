@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Bomberman Neo
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: N,N,N,Dc,Da,Dd,Dd,Dd,Dd,Dd,Dd,N,N,N,N,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Dc,N,Db,N,N,N,Db,Da,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Neo HanSolo
+Bomberman: TwentyFourthsAndAHalfCentury Neo HanSolo
+Neo: TwentyFourthsAndAHalfCentury Bomberman HanSolo
+Generated: 2014/08/12 09:22:15.169877996 UTC

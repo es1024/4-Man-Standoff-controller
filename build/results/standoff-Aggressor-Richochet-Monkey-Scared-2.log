@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Monkey Scared
+                     Aggressor: P,Td
+                     Richochet: Sc,N
+                        Monkey: N,N
+                        Scared: Sa,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+                        Monkey: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Scared Richochet Monkey
+Richochet: Scared Aggressor Monkey
+Monkey: Scared Aggressor Richochet
+Scared: Monkey Aggressor Richochet
+Generated: 2014/08/12 07:07:07.518906891 UTC

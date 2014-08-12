@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                     Grenadier: N,N,N,P,Tb,P
+  TwentyFourthsAndAHalfCentury: N,N,N,Dc,Da,N
+                     EmoCowboy: N,N,N,Sc,N,N
+                 CourageTheDog: Sc,N,Sc,N,P,Ta
+Final Health:
+                     Grenadier: -12
+  TwentyFourthsAndAHalfCentury: -3
+                     EmoCowboy: -2
+                 CourageTheDog: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+TwentyFourthsAndAHalfCentury: Grenadier EmoCowboy CourageTheDog
+EmoCowboy: Grenadier TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 10:45:09.143429566 UTC

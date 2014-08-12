@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Scared CourageTheDog
+                     Grenadier: P,N,N,N
+                      Zaenille: Sb,N,N,N
+                        Scared: N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sc
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -4
+                        Scared: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Zaenille Scared
+Zaenille: CourageTheDog Grenadier Scared
+Scared: CourageTheDog Grenadier Zaenille
+CourageTheDog: Scared Grenadier Zaenille
+Generated: 2014/08/12 08:43:53.308662808 UTC

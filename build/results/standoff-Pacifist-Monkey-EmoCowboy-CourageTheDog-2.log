@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey EmoCowboy CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Db,Sb,N,Sb,N,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,N,Da,N,Da,Da,Sa,N,Da,Sa,N,Da,Sa
+Final Health:
+                      Pacifist: -1
+                        Monkey: -1
+                     EmoCowboy: -4
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Monkey EmoCowboy
+Monkey: CourageTheDog Pacifist EmoCowboy
+EmoCowboy: CourageTheDog Pacifist Monkey
+CourageTheDog: EmoCowboy Pacifist Monkey
+Generated: 2014/08/12 05:56:22.888582720 UTC

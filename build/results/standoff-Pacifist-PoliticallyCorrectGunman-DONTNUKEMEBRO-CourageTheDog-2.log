@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Da,Dd,Dd,Db,Dd,Sd,N,Db,Dd,Dd,Da,Da,Dd,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Sc,N,Sa,N,Dc,N,Da,Da,Sc,N,Dc,Sc,N,Da,Sa,N,Da,Da,Da,Da,Da,Da,Da,Sa
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog PoliticallyCorrectGunman DONTNUKEMEBRO
+PoliticallyCorrectGunman: CourageTheDog Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: CourageTheDog Pacifist PoliticallyCorrectGunman
+CourageTheDog: DONTNUKEMEBRO Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 06:46:38.558836919 UTC

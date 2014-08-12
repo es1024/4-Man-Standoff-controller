@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Bomberman Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,Sa,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,Sa,N,N,N,N,Sa,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -15
+                     Bomberman: -1
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Bomberman Sniper
+Spock: Pacifist Bomberman Sniper
+Bomberman: Pacifist Spock Sniper
+Sniper: Pacifist Spock Bomberman
+Generated: 2014/08/12 09:19:41.357525560 UTC

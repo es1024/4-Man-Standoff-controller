@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Monkey CourageTheDog
+                        Coward: Sb,N,Sb,N,Sd,N,Sc,N,Sc
+                     Richochet: Sd,N,Sa,N,N,N,N,N,N
+                        Monkey: N,Sd,N,Sb,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sc,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                     Richochet: -1
+                        Monkey: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey CourageTheDog Richochet
+Richochet: Monkey CourageTheDog Coward
+Monkey: Richochet CourageTheDog Coward
+CourageTheDog: Richochet Monkey Coward
+Generated: 2014/08/12 08:42:08.863738779 UTC

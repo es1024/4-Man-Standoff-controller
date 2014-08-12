@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey AntiGrenadier Rule0Bot
+                     Aggressor: P,Tb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: -2
+                        Monkey: -3
+                 AntiGrenadier: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Monkey AntiGrenadier Rule0Bot
+Monkey: Aggressor AntiGrenadier Rule0Bot
+AntiGrenadier: Aggressor Monkey Rule0Bot
+Rule0Bot: Aggressor Monkey AntiGrenadier
+Generated: 2014/08/12 08:36:12.837603402 UTC

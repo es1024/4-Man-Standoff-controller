@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Neo CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                         Spock: Sc,N,Sc,N,Sd,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,Sc,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N
+                           Neo: N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                         Spock: -15
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo CourageTheDog Spock
+Spock: Neo CourageTheDog StraightShooter
+Neo: Spock CourageTheDog StraightShooter
+CourageTheDog: Spock Neo StraightShooter
+Generated: 2014/08/12 07:54:52.888888711 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Zaenille Scared
+                       HanSolo: Sb,N
+                     Aggressor: P,Ta
+                      Zaenille: Sc,N
+                        Scared: Sc,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 0
+                      Zaenille: -4
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Zaenille Scared
+Aggressor: HanSolo Zaenille Scared
+Zaenille: HanSolo Aggressor Scared
+Scared: HanSolo Aggressor Zaenille
+Generated: 2014/08/12 10:46:48.157779277 UTC

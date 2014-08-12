@@ -1,16 +1,16 @@
 Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO
-               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
-                 InputAnalyzer: Dd,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-      PoliticallyCorrectGunman: P,Dd,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 DONTNUKEMEBRO: Da,Sc,N,Da,Db,Db,Db,Db,Db,Db,Da,Da,Da,Da,Da,Da,Da,Da,Db,Db,Db,Db,Db,Db,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da
+               StraightShooter: Sb,N,Sb,N
+                 InputAnalyzer: Dd,P,Dd,N
+      PoliticallyCorrectGunman: Da,Sa,N,Sd
+                 DONTNUKEMEBRO: Db,Db,Sb,N
 Final Health:
-               StraightShooter: -18
-                 InputAnalyzer: -2
-      PoliticallyCorrectGunman: -3
-                 DONTNUKEMEBRO: -18
+               StraightShooter: 0
+                 InputAnalyzer: -5
+      PoliticallyCorrectGunman: 2
+                 DONTNUKEMEBRO: 0
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 StraightShooter: DONTNUKEMEBRO InputAnalyzer PoliticallyCorrectGunman
 InputAnalyzer: DONTNUKEMEBRO StraightShooter PoliticallyCorrectGunman
 PoliticallyCorrectGunman: DONTNUKEMEBRO StraightShooter InputAnalyzer
 DONTNUKEMEBRO: PoliticallyCorrectGunman StraightShooter InputAnalyzer
-Generated: 2014/08/11 00:59:09.638334589 UTC
+Generated: 2014/08/12 08:17:57.599391228 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Bomberman Rule0Bot Sniper
+                         Spock: N,Sc,N,Sd,N
+                     Bomberman: N,N,P,N,N
+                      Rule0Bot: N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N
+Final Health:
+                         Spock: 2
+                     Bomberman: -1
+                      Rule0Bot: -1
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper Bomberman Rule0Bot
+Bomberman: Sniper Spock Rule0Bot
+Rule0Bot: Sniper Spock Bomberman
+Sniper: Rule0Bot Spock Bomberman
+Generated: 2014/08/12 07:28:18.618416974 UTC

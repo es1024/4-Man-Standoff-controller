@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Ninja CourageTheDog
+                 SimpleShooter: Sd,N,Sb,N,Sc,N,Sd,N,Sc
+                        Monkey: N,Sd,N,Dd,N,N,N,N,N
+                         Ninja: Db,Dd,Dd,Dd,Db,Db,Da,Da,Db
+                 CourageTheDog: Sc,N,Sb,N,Sa,N,Sb,N,N
+Final Health:
+                 SimpleShooter: 3
+                        Monkey: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey Ninja CourageTheDog
+Monkey: SimpleShooter Ninja CourageTheDog
+Ninja: SimpleShooter Monkey CourageTheDog
+CourageTheDog: SimpleShooter Monkey Ninja
+Generated: 2014/08/12 08:06:16.323810907 UTC

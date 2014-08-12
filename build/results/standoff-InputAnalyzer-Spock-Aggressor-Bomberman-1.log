@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Aggressor Bomberman
+                 InputAnalyzer: Dc,Dd,P,Db,N
+                         Spock: N,N,N,N,N
+                     Aggressor: P,Tb,Sd,N,Sa
+                     Bomberman: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -6
+                         Spock: -3
+                     Aggressor: -1
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Bomberman Spock
+Spock: Aggressor Bomberman InputAnalyzer
+Aggressor: Spock Bomberman InputAnalyzer
+Bomberman: Spock Aggressor InputAnalyzer
+Generated: 2014/08/12 07:47:10.965885644 UTC

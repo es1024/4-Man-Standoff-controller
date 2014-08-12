@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Coward Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sa,N,Sa,N,Sa,N,Sd
+                        Scared: N,N,N,N,N,N,N,N,Sc,N,Sc
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -3
+                        Coward: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared HanSolo Coward
+HanSolo: Scared StraightShooter Coward
+Coward: Scared StraightShooter HanSolo
+Scared: Coward StraightShooter HanSolo
+Generated: 2014/08/12 07:53:20.162195214 UTC

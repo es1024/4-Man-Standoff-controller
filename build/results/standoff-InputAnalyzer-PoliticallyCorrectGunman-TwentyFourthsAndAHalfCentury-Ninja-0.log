@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja
+                 InputAnalyzer: Db,P,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dc,Sc,N,N,N,N,N,N,N,N,N,Dc,Sd,N,P,N,Da
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Db,Dc,Db,Dc,Da,Db,Da,Db,Dc,Dd,Db,Dc,Db,Dd,Dc
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -4
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja
+PoliticallyCorrectGunman: InputAnalyzer TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: InputAnalyzer PoliticallyCorrectGunman Ninja
+Ninja: InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:48:33.013887036 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Coward AntiGrenadier
+                 InputAnalyzer: Dc,P,Sa,N,N
+      PoliticallyCorrectGunman: Dd,N,Sd,N,Sb
+                        Coward: Sa,N,Sa,N,Sb
+                 AntiGrenadier: N,N,Sa,N,N
+Final Health:
+                 InputAnalyzer: -12
+      PoliticallyCorrectGunman: -4
+                        Coward: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward AntiGrenadier PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Coward AntiGrenadier InputAnalyzer
+Coward: PoliticallyCorrectGunman AntiGrenadier InputAnalyzer
+AntiGrenadier: PoliticallyCorrectGunman Coward InputAnalyzer
+Generated: 2014/08/12 09:01:40.246857619 UTC

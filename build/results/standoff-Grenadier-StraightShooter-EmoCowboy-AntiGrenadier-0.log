@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter EmoCowboy AntiGrenadier
+                     Grenadier: N,N,N,N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+               StraightShooter: -18
+                     EmoCowboy: -4
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter EmoCowboy AntiGrenadier
+StraightShooter: Grenadier EmoCowboy AntiGrenadier
+EmoCowboy: Grenadier StraightShooter AntiGrenadier
+AntiGrenadier: Grenadier StraightShooter EmoCowboy
+Generated: 2014/08/12 06:33:21.078279487 UTC

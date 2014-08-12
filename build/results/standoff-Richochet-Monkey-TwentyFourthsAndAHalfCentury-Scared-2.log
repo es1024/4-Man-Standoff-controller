@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey TwentyFourthsAndAHalfCentury Scared
+                     Richochet: Sc,N,Sb,N,Sc,N,Sd,N,Sc,N,Sc,N
+                        Monkey: N,N,N,N,N,Sc,N,N,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Db,Db,Dd,Db,Da,Db,Da,Sb
+                        Scared: N,N,N,N,Sa,N,Sb,N,Sa,N,Sa,N
+Final Health:
+                     Richochet: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared Monkey TwentyFourthsAndAHalfCentury
+Monkey: Scared Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Richochet Monkey
+Scared: TwentyFourthsAndAHalfCentury Richochet Monkey
+Generated: 2014/08/12 10:19:33.078686143 UTC

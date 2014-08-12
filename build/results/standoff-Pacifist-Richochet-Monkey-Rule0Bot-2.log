@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Monkey Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                        Monkey: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Richochet Monkey
+Richochet: Rule0Bot Pacifist Monkey
+Monkey: Rule0Bot Pacifist Richochet
+Rule0Bot: Monkey Pacifist Richochet
+Generated: 2014/08/12 08:04:42.655048395 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Scared Neo CourageTheDog
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Dc,Sd
+                        Scared: Sa,N,Sd,N,Sd,N,Sd,N,N,N,N,N
+                           Neo: N,N,Db,Dd,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Sc,N,Da,Da,Sa,N,Da,Da,Sa
+Final Health:
+                        Coward: -1
+                        Scared: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Scared Neo
+Scared: CourageTheDog Coward Neo
+Neo: CourageTheDog Coward Scared
+CourageTheDog: Neo Coward Scared
+Generated: 2014/08/12 07:04:26.276008804 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Spock EmoCowboy
+                     Grenadier: N,N,N,N,N,N,P
+                 InputAnalyzer: Da,Dd,P,Da,Dd,N,N
+                         Spock: N,N,N,N,N,N,Sa
+                     EmoCowboy: N,N,Sd,N,N,N,N
+Final Health:
+                     Grenadier: -6
+                 InputAnalyzer: -1
+                         Spock: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Spock EmoCowboy
+InputAnalyzer: Grenadier Spock EmoCowboy
+Spock: Grenadier InputAnalyzer EmoCowboy
+EmoCowboy: Grenadier InputAnalyzer Spock
+Generated: 2014/08/12 08:58:52.321591138 UTC

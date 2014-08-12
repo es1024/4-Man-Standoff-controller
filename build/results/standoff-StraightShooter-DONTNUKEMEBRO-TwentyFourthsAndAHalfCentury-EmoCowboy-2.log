@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO TwentyFourthsAndAHalfCentury EmoCowboy
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 DONTNUKEMEBRO: Dd,Dc,Sa,N,Sa,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Da,N,N,N,N,N,N,N,N,Sa
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: EmoCowboy StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy StraightShooter DONTNUKEMEBRO
+EmoCowboy: TwentyFourthsAndAHalfCentury StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 06:37:59.913668715 UTC

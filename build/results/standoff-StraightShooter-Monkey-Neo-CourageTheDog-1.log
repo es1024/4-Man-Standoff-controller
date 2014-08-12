@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Neo CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc
+                           Neo: N,N,N,N,N,N,N,N,N,Db,N,Db,N,N,Da,Db,Da,Db,N,N,N,N,N,N,N,N,N,Db,Da,Db,Da,N,N,N,N,Db,Da,N,N,N,N,N,N,N,N,Db,Da,N,Sc,N
+                 CourageTheDog: Sa,N,Sa,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -19
+                        Monkey: -15
+                           Neo: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo CourageTheDog Monkey
+Monkey: Neo CourageTheDog StraightShooter
+Neo: Monkey CourageTheDog StraightShooter
+CourageTheDog: Monkey Neo StraightShooter
+Generated: 2014/08/12 07:55:27.163357732 UTC

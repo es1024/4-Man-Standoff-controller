@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock SimpleShooter Scared
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N
+                         Spock: Sa,N,Sa,N,N,N,N,Sa
+                 SimpleShooter: Sd,N,Sd,N,Sd,N,N,N
+                        Scared: Sb,N,Sb,N,Sc,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 1
+                 SimpleShooter: -3
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock SimpleShooter Scared
+Spock: StraightShooter SimpleShooter Scared
+SimpleShooter: StraightShooter Spock Scared
+Scared: StraightShooter Spock SimpleShooter
+Generated: 2014/08/12 10:36:17.324092690 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Zaenille Scared
+               StraightShooter: Sd,N,Sd
+                 InputAnalyzer: Dc,P,Sb
+                      Zaenille: Sc,N,N
+                        Scared: Sc,N,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -8
+                      Zaenille: -4
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille Scared InputAnalyzer
+InputAnalyzer: Zaenille Scared StraightShooter
+Zaenille: InputAnalyzer Scared StraightShooter
+Scared: InputAnalyzer Zaenille StraightShooter
+Generated: 2014/08/12 08:40:24.020934654 UTC

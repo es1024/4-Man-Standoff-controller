@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,Dd,Da,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Db,Dc,Dc,Db,Dd,Dc,Dc,Db,Dc,Dd,Dc,Dd,Da,Dd,Da,Db,Da,Dc,Da,Dd,Dc,Dc,Db,Dd,Dc,Da,Dd,Da,Da,Dd,Dc,Da,Db,Dc,Db,Dc,Db,Dc,Da,Dc,Db,Dc,Db,Da,Dc,Dd,Dd,Dc
+Final Health:
+               StraightShooter: -15
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja
+PoliticallyCorrectGunman: StraightShooter TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: StraightShooter PoliticallyCorrectGunman Ninja
+Ninja: StraightShooter PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:13:54.527313699 UTC

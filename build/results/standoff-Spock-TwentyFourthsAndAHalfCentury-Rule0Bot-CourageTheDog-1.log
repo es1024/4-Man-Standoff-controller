@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+                         Spock: N,N,N,Sc,N,Sc,N,Sc,N,Sd,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dd,Sa,N,Sc,N,Sd,N,Sa,N,Sd,N,Sd,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Db,Db,Db,Sb,N,Sb,N,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot CourageTheDog Spock
+Rule0Bot: TwentyFourthsAndAHalfCentury CourageTheDog Spock
+CourageTheDog: TwentyFourthsAndAHalfCentury Rule0Bot Spock
+Generated: 2014/08/12 08:05:36.952207134 UTC

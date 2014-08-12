@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Ninja AntiGrenadier
+                 InputAnalyzer: Dc,Da,Db,Dc,P,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Sd,N,N,N,N
+                         Ninja: Dd,Dd,Db,Da,Da,Dc,Db
+                 AntiGrenadier: N,N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja AntiGrenadier InputAnalyzer
+Ninja: TwentyFourthsAndAHalfCentury AntiGrenadier InputAnalyzer
+AntiGrenadier: TwentyFourthsAndAHalfCentury Ninja InputAnalyzer
+Generated: 2014/08/12 09:38:03.140741907 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+                        Coward: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Db,Dc,Db,Dc,Db,Dc,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Da,Dd,Dd,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury AntiGrenadier Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury AntiGrenadier Coward
+TwentyFourthsAndAHalfCentury: Zaenille AntiGrenadier Coward
+AntiGrenadier: Zaenille TwentyFourthsAndAHalfCentury Coward
+Generated: 2014/08/12 10:46:46.220792341 UTC

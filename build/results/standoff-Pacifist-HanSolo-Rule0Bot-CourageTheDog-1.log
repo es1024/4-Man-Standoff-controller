@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Sb,N,Db,N,N,N,Sa,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 3
+                      Rule0Bot: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot CourageTheDog HanSolo
+HanSolo: Rule0Bot CourageTheDog Pacifist
+Rule0Bot: HanSolo CourageTheDog Pacifist
+CourageTheDog: HanSolo Rule0Bot Pacifist
+Generated: 2014/08/12 09:06:10.867737820 UTC

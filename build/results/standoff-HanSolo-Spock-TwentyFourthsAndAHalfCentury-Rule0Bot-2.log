@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock TwentyFourthsAndAHalfCentury Rule0Bot
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,N,Da,N,Da,N,Da,Sa,N,Sa,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Spock TwentyFourthsAndAHalfCentury
+Spock: Rule0Bot HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot HanSolo Spock
+Rule0Bot: TwentyFourthsAndAHalfCentury HanSolo Spock
+Generated: 2014/08/12 06:21:42.453610630 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey Ninja CourageTheDog
+      PoliticallyCorrectGunman: N,N,N,N,N,Dd,P,Dc,Dc
+                        Monkey: N,N,N,N,N,N,N,Dc,Dd
+                         Ninja: Db,Db,Dc,Db,Dc,Db,Dc,Dd,Dc
+                 CourageTheDog: Sa,N,Dc,Da,Db,Da,Dc,P,Ta
+Final Health:
+      PoliticallyCorrectGunman: -11
+                        Monkey: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Monkey Ninja
+Monkey: CourageTheDog PoliticallyCorrectGunman Ninja
+Ninja: CourageTheDog PoliticallyCorrectGunman Monkey
+CourageTheDog: Ninja PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 06:44:40.072483686 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Zaenille Sniper
+      PoliticallyCorrectGunman: N,N,N,Dd,Sc,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,Sa,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 5
+                      Zaenille: -4
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Zaenille Sniper
+HanSolo: PoliticallyCorrectGunman Zaenille Sniper
+Zaenille: PoliticallyCorrectGunman HanSolo Sniper
+Sniper: PoliticallyCorrectGunman HanSolo Zaenille
+Generated: 2014/08/12 06:36:35.138237846 UTC

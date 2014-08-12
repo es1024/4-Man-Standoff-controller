@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,Dd,Db,Sd,N,P,Dc,Sb,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dd,Sb,N,Sd,N,Sd,N,Sb,N,Sa
+                           Neo: N,Da,Da,Da,N,N,Da,N,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -10
+  TwentyFourthsAndAHalfCentury: 2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Neo InputAnalyzer
+InputAnalyzer: TwentyFourthsAndAHalfCentury Neo Pacifist
+TwentyFourthsAndAHalfCentury: InputAnalyzer Neo Pacifist
+Neo: InputAnalyzer TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 05:45:22.185794479 UTC

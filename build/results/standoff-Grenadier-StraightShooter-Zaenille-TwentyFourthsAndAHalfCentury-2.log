@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Zaenille TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sb
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury StraightShooter Zaenille
+StraightShooter: TwentyFourthsAndAHalfCentury Grenadier Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Grenadier StraightShooter
+TwentyFourthsAndAHalfCentury: Zaenille Grenadier StraightShooter
+Generated: 2014/08/12 08:55:59.364703969 UTC

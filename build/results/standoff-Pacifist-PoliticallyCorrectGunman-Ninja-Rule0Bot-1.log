@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Ninja Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dd,Sa,N,Dc,Sa,N,N,Dc,Sd,N,N,N,Sa,N,Sc,N,N,N,N,N,N,Da,N,P,Td,Dc,N,Sb
+                         Ninja: Dc,Db,Db,Dc,Dc,Dd,Db,Dc,Dc,Da,Db,Dd,Dc,Da,Db,Dd,Db,Dd,Dc,Da,Dd,Db,Dd,Db,Da,Dc,Dd,Db
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                         Ninja: 2
+                      Rule0Bot: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Rule0Bot PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Ninja Rule0Bot Pacifist
+Ninja: PoliticallyCorrectGunman Rule0Bot Pacifist
+Rule0Bot: PoliticallyCorrectGunman Ninja Pacifist
+Generated: 2014/08/12 10:15:49.574360136 UTC

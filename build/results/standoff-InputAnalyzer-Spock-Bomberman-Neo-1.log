@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Bomberman Neo
+                 InputAnalyzer: Dc,P,Da,Sb
+                         Spock: Sc,N,Sc,N
+                     Bomberman: N,N,N,N
+                           Neo: N,Da,N,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 0
+                     Bomberman: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Neo Spock
+Spock: Bomberman Neo InputAnalyzer
+Bomberman: Spock Neo InputAnalyzer
+Neo: Spock Bomberman InputAnalyzer
+Generated: 2014/08/12 06:28:47.186295819 UTC

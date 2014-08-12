@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,P,Dc,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,Db,Db,Db,Db,N,N,Sa
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Neo
+PoliticallyCorrectGunman: StraightShooter TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: StraightShooter PoliticallyCorrectGunman Neo
+Neo: StraightShooter PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:11:15.306089681 UTC

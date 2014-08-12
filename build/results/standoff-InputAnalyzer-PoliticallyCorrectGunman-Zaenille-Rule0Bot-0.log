@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Zaenille Rule0Bot
+                 InputAnalyzer: Db,Sd,N,Dd,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Da,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,Dd,N,N,N,N,Sc,N,N,N,Dd,N,Da,N,Sb
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                      Rule0Bot: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Zaenille Rule0Bot
+PoliticallyCorrectGunman: InputAnalyzer Zaenille Rule0Bot
+Zaenille: InputAnalyzer PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: InputAnalyzer PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 10:06:05.070818840 UTC

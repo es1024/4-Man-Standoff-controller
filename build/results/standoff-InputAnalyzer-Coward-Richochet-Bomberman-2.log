@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Richochet Bomberman
+                 InputAnalyzer: Dd,Sc,N,Sc,N,Da,Dc,Dd,Dc,Dd,P
+                        Coward: Sc,N,Sc,N,Sa,N,Dd,Dd,Sa,N,Sa
+                     Richochet: Sb,N,Sb,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                        Coward: -2
+                     Richochet: -1
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Coward Richochet
+Coward: Bomberman InputAnalyzer Richochet
+Richochet: Bomberman InputAnalyzer Coward
+Bomberman: Richochet InputAnalyzer Coward
+Generated: 2014/08/12 09:22:08.354584796 UTC

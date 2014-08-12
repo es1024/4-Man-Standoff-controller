@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier
+      PoliticallyCorrectGunman: Sc,N,N,Sd,N,P,Sd
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,Dd,Db,Dd,Dd,Da,Dd
+                 AntiGrenadier: N,N,N,N,N,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -7
+                 SimpleShooter: 2
+  TwentyFourthsAndAHalfCentury: -2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: AntiGrenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier PoliticallyCorrectGunman SimpleShooter
+AntiGrenadier: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 05:45:15.475533343 UTC

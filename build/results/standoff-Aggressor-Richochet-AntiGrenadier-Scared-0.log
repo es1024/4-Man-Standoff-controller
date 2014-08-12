@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet AntiGrenadier Scared
+                     Aggressor: P,Tb,N
+                     Richochet: Sa,N,N
+                 AntiGrenadier: N,Sa,N
+                        Scared: Sa,N,Sc
+Final Health:
+                     Aggressor: -4
+                     Richochet: -3
+                 AntiGrenadier: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet AntiGrenadier Scared
+Richochet: Aggressor AntiGrenadier Scared
+AntiGrenadier: Aggressor Richochet Scared
+Scared: Aggressor Richochet AntiGrenadier
+Generated: 2014/08/12 09:11:11.487993241 UTC

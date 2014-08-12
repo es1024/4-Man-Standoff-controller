@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Scared Neo
+               StraightShooter: Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,P,N,Sd
+                        Scared: Sb,N,Sa,N,Sb
+                           Neo: N,Db,Da,Db,Da
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -3
+                        Scared: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared Neo InputAnalyzer
+InputAnalyzer: Scared Neo StraightShooter
+Scared: InputAnalyzer Neo StraightShooter
+Neo: InputAnalyzer Scared StraightShooter
+Generated: 2014/08/12 07:57:51.137993756 UTC

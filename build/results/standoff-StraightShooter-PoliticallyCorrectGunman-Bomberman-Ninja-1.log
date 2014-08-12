@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Bomberman Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+      PoliticallyCorrectGunman: Sd,N,N,N,N,Sc,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Da,Da,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -17
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Ninja PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Bomberman Ninja StraightShooter
+Bomberman: PoliticallyCorrectGunman Ninja StraightShooter
+Ninja: PoliticallyCorrectGunman Bomberman StraightShooter
+Generated: 2014/08/12 09:59:00.547025220 UTC

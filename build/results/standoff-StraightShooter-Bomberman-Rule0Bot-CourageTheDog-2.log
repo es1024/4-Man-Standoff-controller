@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Bomberman Rule0Bot CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Da,Db,Dc,Sa,N,Da,Da,Sc,N,Da,Da,Sc,N,Da,N,Da,Da,Da,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                     Bomberman: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Bomberman Rule0Bot
+Bomberman: CourageTheDog StraightShooter Rule0Bot
+Rule0Bot: CourageTheDog StraightShooter Bomberman
+CourageTheDog: Rule0Bot StraightShooter Bomberman
+Generated: 2014/08/12 07:56:59.475293898 UTC

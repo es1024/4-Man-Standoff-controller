@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Bomberman Neo
+      PoliticallyCorrectGunman: Dd,Dc,Sb
+                     Aggressor: P,Td,Sa
+                     Bomberman: N,N,N
+                           Neo: N,Db,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 0
+                     Bomberman: 2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Aggressor Bomberman
+Aggressor: Neo PoliticallyCorrectGunman Bomberman
+Bomberman: Neo PoliticallyCorrectGunman Aggressor
+Neo: Bomberman PoliticallyCorrectGunman Aggressor
+Generated: 2014/08/12 06:47:51.901357827 UTC

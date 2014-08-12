@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter AntiGrenadier Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sd,N,Sa,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sc,N,Sb,N,Sb,N,Sc
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: -1
+                 AntiGrenadier: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Scared SimpleShooter
+SimpleShooter: AntiGrenadier Scared Pacifist
+AntiGrenadier: SimpleShooter Scared Pacifist
+Scared: SimpleShooter AntiGrenadier Pacifist
+Generated: 2014/08/12 07:05:46.941854262 UTC

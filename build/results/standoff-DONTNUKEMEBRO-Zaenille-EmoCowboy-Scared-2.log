@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Zaenille EmoCowboy Scared
+                 DONTNUKEMEBRO: Db,Dd,Dd,Db,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sa,N,Sa,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -2
+                     EmoCowboy: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Scared Zaenille EmoCowboy
+Zaenille: Scared DONTNUKEMEBRO EmoCowboy
+EmoCowboy: Scared DONTNUKEMEBRO Zaenille
+Scared: EmoCowboy DONTNUKEMEBRO Zaenille
+Generated: 2014/08/12 07:16:13.005149981 UTC

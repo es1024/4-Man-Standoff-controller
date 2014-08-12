@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Richochet EmoCowboy
+               StraightShooter: Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Da,Da,Sa,N,P
+                     Richochet: Sd,N,Sb,N,Sa
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+               StraightShooter: -2
+                 DONTNUKEMEBRO: -7
+                     Richochet: 2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: EmoCowboy StraightShooter Richochet
+Richochet: EmoCowboy StraightShooter DONTNUKEMEBRO
+EmoCowboy: Richochet StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 07:58:50.328645472 UTC

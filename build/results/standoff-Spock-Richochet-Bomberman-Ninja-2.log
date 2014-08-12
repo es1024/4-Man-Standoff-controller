@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Bomberman Ninja
+                         Spock: N,N,Sc,N,N,Sc,N,Sd,N,Sd,N
+                     Richochet: Sc,N,Sa,N,Sa,N,Sd,N,Sd,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Dd,Dc,Da,Dc,Dc,Da,Dd,Dc,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja Richochet Bomberman
+Richochet: Ninja Spock Bomberman
+Bomberman: Ninja Spock Richochet
+Ninja: Bomberman Spock Richochet
+Generated: 2014/08/12 08:44:19.114032652 UTC

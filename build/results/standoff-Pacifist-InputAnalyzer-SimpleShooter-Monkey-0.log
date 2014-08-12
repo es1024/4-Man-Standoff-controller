@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer SimpleShooter Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dc,Da,Sc,N,Db,Dd,P,N,Dc
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sd,N,Sb,N
+                        Monkey: N,Da,N,N,N,N,Db,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -5
+                 SimpleShooter: 0
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer SimpleShooter Monkey
+InputAnalyzer: Pacifist SimpleShooter Monkey
+SimpleShooter: Pacifist InputAnalyzer Monkey
+Monkey: Pacifist InputAnalyzer SimpleShooter
+Generated: 2014/08/12 09:41:22.585076536 UTC

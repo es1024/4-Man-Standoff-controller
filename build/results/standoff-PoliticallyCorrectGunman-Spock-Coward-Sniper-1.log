@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Coward Sniper
+      PoliticallyCorrectGunman: Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,Sc,N,N,Sc,N,Sc,N,Sc,N,N,Sc,N
+                        Coward: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                         Spock: -17
+                        Coward: -3
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward Sniper Spock
+Spock: Coward Sniper PoliticallyCorrectGunman
+Coward: Spock Sniper PoliticallyCorrectGunman
+Sniper: Spock Coward PoliticallyCorrectGunman
+Generated: 2014/08/12 09:53:35.467406201 UTC

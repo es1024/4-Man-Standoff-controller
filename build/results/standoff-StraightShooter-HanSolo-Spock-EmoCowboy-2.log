@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Spock EmoCowboy
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                       HanSolo: Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                         Spock: 5
+                     EmoCowboy: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy HanSolo Spock
+HanSolo: EmoCowboy StraightShooter Spock
+Spock: EmoCowboy StraightShooter HanSolo
+EmoCowboy: Spock StraightShooter HanSolo
+Generated: 2014/08/12 10:10:36.192448209 UTC

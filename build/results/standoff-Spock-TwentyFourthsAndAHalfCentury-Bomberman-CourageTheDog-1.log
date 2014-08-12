@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+                         Spock: N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Dc,N,N,N,N,N,Sa,N,Sa,N,Sc,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Db,N,Da,Da,Da,Sa,N,Db,Db,Sb,N,Db,Db,Db,Sb,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman CourageTheDog Spock
+Bomberman: TwentyFourthsAndAHalfCentury CourageTheDog Spock
+CourageTheDog: TwentyFourthsAndAHalfCentury Bomberman Spock
+Generated: 2014/08/12 09:55:02.565862951 UTC

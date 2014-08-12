@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter TwentyFourthsAndAHalfCentury Ninja
+      PoliticallyCorrectGunman: N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N,Sc,N,Sc,N,Sd,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,Da,Db,Dd,Db,Dd,Db,Dd,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Db,Dc,Dd,Dd,Db,Dc,Dd,Db,Da,Dd,Da,Dc,Da,Dc,Dd
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Ninja PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja PoliticallyCorrectGunman SimpleShooter
+Ninja: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 07:52:16.575407344 UTC

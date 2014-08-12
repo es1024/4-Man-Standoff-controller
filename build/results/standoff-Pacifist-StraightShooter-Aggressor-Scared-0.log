@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Aggressor Scared
+                      Pacifist: N,N
+               StraightShooter: Sc,N
+                     Aggressor: P,Ta
+                        Scared: Sb,N
+Final Health:
+                      Pacifist: -3
+               StraightShooter: 0
+                     Aggressor: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Aggressor Scared
+StraightShooter: Pacifist Aggressor Scared
+Aggressor: Pacifist StraightShooter Scared
+Scared: Pacifist StraightShooter Aggressor
+Generated: 2014/08/12 05:43:33.961768036 UTC

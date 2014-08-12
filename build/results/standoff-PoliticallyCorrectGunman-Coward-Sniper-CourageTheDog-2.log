@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Sniper CourageTheDog
+      PoliticallyCorrectGunman: N,P,Sd,N
+                        Coward: Sc,N,Sc,N
+                        Sniper: Sb,N,Sb,N
+                 CourageTheDog: Sc,N,P,Ta
+Final Health:
+      PoliticallyCorrectGunman: -9
+                        Coward: -5
+                        Sniper: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Coward Sniper
+Coward: CourageTheDog PoliticallyCorrectGunman Sniper
+Sniper: CourageTheDog PoliticallyCorrectGunman Coward
+CourageTheDog: Sniper PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 05:53:15.622769185 UTC

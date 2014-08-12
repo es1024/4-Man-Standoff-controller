@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Rule0Bot CourageTheDog
+                       HanSolo: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Ta,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                       HanSolo: -3
+                     Aggressor: -4
+                      Rule0Bot: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Rule0Bot CourageTheDog
+Aggressor: HanSolo Rule0Bot CourageTheDog
+Rule0Bot: HanSolo Aggressor CourageTheDog
+CourageTheDog: HanSolo Aggressor Rule0Bot
+Generated: 2014/08/12 10:06:53.434107329 UTC

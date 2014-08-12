@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter AntiGrenadier CourageTheDog
+                         Spock: Sd,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sc,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Db,Db,Db
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 3
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog SimpleShooter AntiGrenadier
+SimpleShooter: CourageTheDog Spock AntiGrenadier
+AntiGrenadier: CourageTheDog Spock SimpleShooter
+CourageTheDog: AntiGrenadier Spock SimpleShooter
+Generated: 2014/08/12 10:23:47.576156039 UTC

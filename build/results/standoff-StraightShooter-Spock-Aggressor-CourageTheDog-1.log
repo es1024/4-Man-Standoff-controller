@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Aggressor CourageTheDog
+               StraightShooter: Sd,N
+                         Spock: Sc,N
+                     Aggressor: P,Tb
+                 CourageTheDog: Sc,N
+Final Health:
+               StraightShooter: 2
+                         Spock: -3
+                     Aggressor: -2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor CourageTheDog Spock
+Spock: Aggressor CourageTheDog StraightShooter
+Aggressor: Spock CourageTheDog StraightShooter
+CourageTheDog: Spock Aggressor StraightShooter
+Generated: 2014/08/12 06:49:19.808237360 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist EmoCowboy Ninja CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Da,Dc,Dd,Dd,Dc,Dd,Da,Dd,Da,Dd,Dc,Dd,Dd,Dc,Dc,Dd,Db,Da,Da,Db,Dd,Da,Da,Da,Db
+                 CourageTheDog: Sc,N,Dc,Da,Sc,N,Sa,N,Sa,N,Dc,Sa,N,Dc,Sc,N,Dc,Sc,N,Dc,Sc,N,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog EmoCowboy Ninja
+EmoCowboy: CourageTheDog Pacifist Ninja
+Ninja: CourageTheDog Pacifist EmoCowboy
+CourageTheDog: Ninja Pacifist EmoCowboy
+Generated: 2014/08/12 08:46:34.721234893 UTC

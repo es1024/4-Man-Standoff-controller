@@ -1,0 +1,16 @@
+Standoff between: Zaenille Bomberman EmoCowboy AntiGrenadier
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+                     Bomberman: -15
+                     EmoCowboy: -2
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: AntiGrenadier Bomberman EmoCowboy
+Bomberman: AntiGrenadier Zaenille EmoCowboy
+EmoCowboy: AntiGrenadier Zaenille Bomberman
+AntiGrenadier: EmoCowboy Zaenille Bomberman
+Generated: 2014/08/12 09:24:38.473803135 UTC

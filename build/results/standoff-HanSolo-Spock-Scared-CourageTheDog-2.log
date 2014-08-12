@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Scared CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N
+                         Spock: Sd,N,N,N,N,N,N,Sa
+                        Scared: N,N,N,N,N,N,N,Sb
+                 CourageTheDog: Sa,N,Sa,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                        Scared: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Spock Scared
+Spock: CourageTheDog HanSolo Scared
+Scared: CourageTheDog HanSolo Spock
+CourageTheDog: Scared HanSolo Spock
+Generated: 2014/08/12 10:19:16.617845464 UTC

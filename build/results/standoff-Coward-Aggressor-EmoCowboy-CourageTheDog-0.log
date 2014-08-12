@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor EmoCowboy CourageTheDog
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sc,N
+                 CourageTheDog: Sb,N
+Final Health:
+                        Coward: -3
+                     Aggressor: 0
+                     EmoCowboy: -2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Aggressor EmoCowboy CourageTheDog
+Aggressor: Coward EmoCowboy CourageTheDog
+EmoCowboy: Coward Aggressor CourageTheDog
+CourageTheDog: Coward Aggressor EmoCowboy
+Generated: 2014/08/12 06:59:09.109098647 UTC

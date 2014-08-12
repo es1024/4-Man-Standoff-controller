@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury AntiGrenadier Scared
+                        Monkey: N,N,N,Dc,N,N,N,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Dc,Dc,Dd,Da,Dc,Dc,Dd,Da,Dd,Da,Dd,N,N,N,Da,Da,Da,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sa,N,Sb,N,Sb,N,Sa
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: AntiGrenadier Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier Scared Monkey
+AntiGrenadier: TwentyFourthsAndAHalfCentury Scared Monkey
+Scared: TwentyFourthsAndAHalfCentury AntiGrenadier Monkey
+Generated: 2014/08/12 09:42:18.561744511 UTC

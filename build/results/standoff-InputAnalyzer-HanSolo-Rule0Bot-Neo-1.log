@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Rule0Bot Neo
+                 InputAnalyzer: Dc,P,Dc,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sd,N
+                      Rule0Bot: N,N,Sa,N,N,N
+                           Neo: N,N,Da,N,Db,Sb
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 0
+                      Rule0Bot: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Neo HanSolo
+HanSolo: Rule0Bot Neo InputAnalyzer
+Rule0Bot: HanSolo Neo InputAnalyzer
+Neo: HanSolo Rule0Bot InputAnalyzer
+Generated: 2014/08/12 10:28:36.227521921 UTC

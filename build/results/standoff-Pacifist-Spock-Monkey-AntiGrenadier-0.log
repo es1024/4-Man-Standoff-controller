@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Monkey AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,Sa,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,Sa,N,N,N,N,N,Sa,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -15
+                        Monkey: -15
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Monkey AntiGrenadier
+Spock: Pacifist Monkey AntiGrenadier
+Monkey: Pacifist Spock AntiGrenadier
+AntiGrenadier: Pacifist Spock Monkey
+Generated: 2014/08/12 09:38:09.676226663 UTC

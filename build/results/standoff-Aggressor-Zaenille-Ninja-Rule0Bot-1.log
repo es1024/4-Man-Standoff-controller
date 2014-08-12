@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Ninja Rule0Bot
+                     Aggressor: P,Tc,Sd
+                      Zaenille: Sb,N,N
+                         Ninja: Dd,Db,N
+                      Rule0Bot: N,N,N
+Final Health:
+                     Aggressor: 2
+                      Zaenille: -2
+                         Ninja: -3
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Ninja Rule0Bot Zaenille
+Zaenille: Ninja Rule0Bot Aggressor
+Ninja: Zaenille Rule0Bot Aggressor
+Rule0Bot: Zaenille Ninja Aggressor
+Generated: 2014/08/12 07:48:11.678472405 UTC

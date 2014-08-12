@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Aggressor Rule0Bot
+               StraightShooter: Sd,N
+                       HanSolo: Sc,N
+                     Aggressor: P,Tb
+                      Rule0Bot: N,Sc
+Final Health:
+               StraightShooter: 2
+                       HanSolo: -3
+                     Aggressor: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Rule0Bot HanSolo
+HanSolo: Aggressor Rule0Bot StraightShooter
+Aggressor: HanSolo Rule0Bot StraightShooter
+Rule0Bot: HanSolo Aggressor StraightShooter
+Generated: 2014/08/12 08:30:41.229169965 UTC

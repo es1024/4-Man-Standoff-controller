@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Rule0Bot CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,Da,Da,Sa,N,Dc,Dc,Dc,Dc,Dc,Sc,N,Sc
+Final Health:
+               StraightShooter: -1
+                     Richochet: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Richochet Rule0Bot
+Richochet: CourageTheDog StraightShooter Rule0Bot
+Rule0Bot: CourageTheDog StraightShooter Richochet
+CourageTheDog: Rule0Bot StraightShooter Richochet
+Generated: 2014/08/12 06:27:49.707273479 UTC

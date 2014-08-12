@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Scared Neo
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dd,Dd,Dd,Dd,N,N,Dd,N,N,N,N,N,Sc,N,Sc,N,Sc,N
+                        Scared: Sa,N,Sd,N,Sb,N,N,N,N,N,N,N,Sd,N,Sd,N,Sb,N,N
+                           Neo: N,N,Dc,Db,Dc,N,N,N,N,N,N,N,Dc,N,N,N,Dc,Db,Sb
+Final Health:
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: TwentyFourthsAndAHalfCentury Scared Neo
+TwentyFourthsAndAHalfCentury: Zaenille Scared Neo
+Scared: Zaenille TwentyFourthsAndAHalfCentury Neo
+Neo: Zaenille TwentyFourthsAndAHalfCentury Scared
+Generated: 2014/08/12 09:55:22.850656848 UTC

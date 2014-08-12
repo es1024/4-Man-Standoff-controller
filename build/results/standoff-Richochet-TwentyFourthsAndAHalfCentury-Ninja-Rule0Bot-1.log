@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+                     Richochet: Sc,N,Sc,N,Sd,N,Sc,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+                         Ninja: Db,Da,Dd,Da,Dd,Db,Dc,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Rule0Bot Richochet
+Ninja: TwentyFourthsAndAHalfCentury Rule0Bot Richochet
+Rule0Bot: TwentyFourthsAndAHalfCentury Ninja Richochet
+Generated: 2014/08/12 08:07:43.471038161 UTC

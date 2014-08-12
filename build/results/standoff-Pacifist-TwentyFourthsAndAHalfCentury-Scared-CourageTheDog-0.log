@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Scared CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,Dc,N,N,N,N,N,Sd,N,Sc,N,Sa,N
+                        Scared: Sb,N,N,N,N,N,N,Sa,N,Sd,N,Sa,N,N
+                 CourageTheDog: Sb,N,Db,N,Sb,N,N,Dc,Db,Sc,N,Sc,N,Sb
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Scared CourageTheDog
+TwentyFourthsAndAHalfCentury: Pacifist Scared CourageTheDog
+Scared: Pacifist TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Pacifist TwentyFourthsAndAHalfCentury Scared
+Generated: 2014/08/12 06:48:37.471712070 UTC

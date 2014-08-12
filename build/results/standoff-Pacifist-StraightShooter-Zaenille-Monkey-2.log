@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Zaenille Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Sa,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -15
+                      Zaenille: -2
+                        Monkey: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey StraightShooter Zaenille
+StraightShooter: Monkey Pacifist Zaenille
+Zaenille: Monkey Pacifist StraightShooter
+Monkey: Zaenille Pacifist StraightShooter
+Generated: 2014/08/12 06:22:17.272151748 UTC

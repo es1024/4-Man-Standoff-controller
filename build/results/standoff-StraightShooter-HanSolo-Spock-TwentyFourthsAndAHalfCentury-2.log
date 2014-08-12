@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Spock TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,N,N,N,N
+                         Spock: Sd,N,N,N,Sb,N,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -3
+                         Spock: 5
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury HanSolo Spock
+HanSolo: TwentyFourthsAndAHalfCentury StraightShooter Spock
+Spock: TwentyFourthsAndAHalfCentury StraightShooter HanSolo
+TwentyFourthsAndAHalfCentury: Spock StraightShooter HanSolo
+Generated: 2014/08/12 07:13:24.847606348 UTC

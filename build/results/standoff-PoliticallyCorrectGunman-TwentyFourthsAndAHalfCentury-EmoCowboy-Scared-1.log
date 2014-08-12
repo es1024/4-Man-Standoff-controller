@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury EmoCowboy Scared
+      PoliticallyCorrectGunman: Dd,N,N,Dd,N,N,N,N,N,Dd,Dd,Db,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Da,N,N,N,N,N,Sa,N,Sd,N,Sd,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,Sb,N,Sb,N,Sa,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Scared PoliticallyCorrectGunman
+EmoCowboy: TwentyFourthsAndAHalfCentury Scared PoliticallyCorrectGunman
+Scared: TwentyFourthsAndAHalfCentury EmoCowboy PoliticallyCorrectGunman
+Generated: 2014/08/12 07:38:20.496047374 UTC

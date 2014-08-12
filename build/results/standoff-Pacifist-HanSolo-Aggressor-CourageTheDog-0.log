@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Aggressor CourageTheDog
+                      Pacifist: N,N,N
+                       HanSolo: Sa,N,N
+                     Aggressor: P,Tb,Sd
+                 CourageTheDog: Sa,N,Sc
+Final Health:
+                      Pacifist: -2
+                       HanSolo: -3
+                     Aggressor: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Aggressor CourageTheDog
+HanSolo: Pacifist Aggressor CourageTheDog
+Aggressor: Pacifist HanSolo CourageTheDog
+CourageTheDog: Pacifist HanSolo Aggressor
+Generated: 2014/08/12 10:13:59.023961968 UTC

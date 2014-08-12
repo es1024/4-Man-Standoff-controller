@@ -1,0 +1,16 @@
+Standoff between: Monkey EmoCowboy AntiGrenadier Neo
+                        Monkey: N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Dc,Dc,Dc,Dc,Dc,Dc,N,N,Dc,N,N,N,N,N,N,N,N,Dc,N,Dc,N,Dc,N,N,N,N,N,N,Dc,Dc,Dc,Dc,N,N,N,Dc,N,N,N,N,N,N,N,N,Dc
+Final Health:
+                        Monkey: -15
+                     EmoCowboy: -2
+                 AntiGrenadier: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: EmoCowboy AntiGrenadier Neo
+EmoCowboy: Monkey AntiGrenadier Neo
+AntiGrenadier: Monkey EmoCowboy Neo
+Neo: Monkey EmoCowboy AntiGrenadier
+Generated: 2014/08/12 08:44:11.611051859 UTC

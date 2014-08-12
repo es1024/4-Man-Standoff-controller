@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury Scared
+                 InputAnalyzer: Dd,Dc,Dd,Dc,P,Db,N,N
+                        Monkey: N,N,N,Da,Sc,N,Da,N
+  TwentyFourthsAndAHalfCentury: N,Dd,Da,Dd,Db,Da,Da,Sd
+                        Scared: N,Sb,N,Sc,N,Sa,N,Sc
+Final Health:
+                 InputAnalyzer: -3
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Monkey TwentyFourthsAndAHalfCentury
+Monkey: Scared InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared InputAnalyzer Monkey
+Scared: TwentyFourthsAndAHalfCentury InputAnalyzer Monkey
+Generated: 2014/08/12 05:47:47.335731128 UTC

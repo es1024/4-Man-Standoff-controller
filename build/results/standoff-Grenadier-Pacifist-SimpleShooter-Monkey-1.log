@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist SimpleShooter Monkey
+                     Grenadier: N,P,Tc
+                      Pacifist: N,N,N
+                 SimpleShooter: Sa,N,Sd
+                        Monkey: N,N,P
+Final Health:
+                     Grenadier: -3
+                      Pacifist: -1
+                 SimpleShooter: -6
+                        Monkey: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Monkey Pacifist
+Pacifist: SimpleShooter Monkey Grenadier
+SimpleShooter: Pacifist Monkey Grenadier
+Monkey: Pacifist SimpleShooter Grenadier
+Generated: 2014/08/12 08:42:51.067187893 UTC

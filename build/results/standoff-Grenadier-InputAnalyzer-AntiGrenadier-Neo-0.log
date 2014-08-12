@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer AntiGrenadier Neo
+                     Grenadier: N,N,N,P,N,N
+                 InputAnalyzer: Da,Dd,P,Sb,N,N
+                 AntiGrenadier: N,N,N,Sb,N,Sa
+                           Neo: N,Dc,Dc,N,N,N
+Final Health:
+                     Grenadier: -6
+                 InputAnalyzer: -10
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer AntiGrenadier Neo
+InputAnalyzer: Grenadier AntiGrenadier Neo
+AntiGrenadier: Grenadier InputAnalyzer Neo
+Neo: Grenadier InputAnalyzer AntiGrenadier
+Generated: 2014/08/12 06:45:53.203392702 UTC

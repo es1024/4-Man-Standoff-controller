@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Bomberman CourageTheDog
+                     Grenadier: N,P,Tb,N
+                        Monkey: N,N,N,N
+                     Bomberman: N,N,N,N
+                 CourageTheDog: Sa,N,P,Tc
+Final Health:
+                     Grenadier: 0
+                        Monkey: -3
+                     Bomberman: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Bomberman CourageTheDog
+Monkey: Grenadier Bomberman CourageTheDog
+Bomberman: Grenadier Monkey CourageTheDog
+CourageTheDog: Grenadier Monkey Bomberman
+Generated: 2014/08/12 10:31:09.897630425 UTC

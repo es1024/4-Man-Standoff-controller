@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Monkey Ninja
+                         Spock: Sc,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sa
+                        Monkey: N,Sc,N,N,N,N,N
+                         Ninja: Dc,Dc,Da,Dc,Dc,Da,Db
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                        Monkey: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey Ninja SimpleShooter
+SimpleShooter: Monkey Ninja Spock
+Monkey: SimpleShooter Ninja Spock
+Ninja: SimpleShooter Monkey Spock
+Generated: 2014/08/12 08:25:52.915052245 UTC

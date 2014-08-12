@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille EmoCowboy Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+                     EmoCowboy: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille EmoCowboy Scared
+Zaenille: Pacifist EmoCowboy Scared
+EmoCowboy: Pacifist Zaenille Scared
+Scared: Pacifist Zaenille EmoCowboy
+Generated: 2014/08/12 06:05:55.259213892 UTC

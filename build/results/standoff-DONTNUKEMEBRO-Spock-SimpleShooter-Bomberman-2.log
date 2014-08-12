@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock SimpleShooter Bomberman
+                 DONTNUKEMEBRO: Dd,Db,Db,Dc,Sc,N,Dd,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sa,N,Sc
+                 SimpleShooter: Sb,N,Sa,N,Sb,N,Sa,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: -1
+                 SimpleShooter: 1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Bomberman Spock SimpleShooter
+Spock: Bomberman DONTNUKEMEBRO SimpleShooter
+SimpleShooter: Bomberman DONTNUKEMEBRO Spock
+Bomberman: SimpleShooter DONTNUKEMEBRO Spock
+Generated: 2014/08/12 07:02:25.569640819 UTC

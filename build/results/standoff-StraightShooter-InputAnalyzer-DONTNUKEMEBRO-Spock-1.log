@@ -1,16 +1,16 @@
 Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO Spock
-               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
-                 InputAnalyzer: Dc,P,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 DONTNUKEMEBRO: Da,Da,Sb,N,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Db,Db
-                         Spock: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,Sc,N,P
+                 DONTNUKEMEBRO: Db,Dd,Da,Da,Sb
+                         Spock: Sb,N,Sb,N,Sb
 Final Health:
-               StraightShooter: -18
-                 InputAnalyzer: -7
-                 DONTNUKEMEBRO: -18
-                         Spock: -2
+               StraightShooter: 2
+                 InputAnalyzer: -9
+                 DONTNUKEMEBRO: 0
+                         Spock: -4
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 StraightShooter: DONTNUKEMEBRO Spock InputAnalyzer
 InputAnalyzer: DONTNUKEMEBRO Spock StraightShooter
 DONTNUKEMEBRO: InputAnalyzer Spock StraightShooter
 Spock: InputAnalyzer DONTNUKEMEBRO StraightShooter
-Generated: 2014/08/11 00:58:59.298322853 UTC
+Generated: 2014/08/12 08:11:13.919507110 UTC

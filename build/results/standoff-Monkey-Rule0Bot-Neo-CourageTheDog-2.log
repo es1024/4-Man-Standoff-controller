@@ -1,0 +1,16 @@
+Standoff between: Monkey Rule0Bot Neo CourageTheDog
+                        Monkey: N,Sb,N,N,Da,Da,Dc,N,Db,N,Sb,N,N,Da,Sc,N,N,N,N,N,Dc,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Da,Dd,Da,Da,Da,Dd,Da,Da,Da,Da,Da,Sd,N
+                 CourageTheDog: Sb,N,Db,Da,Da,Dc,Dc,Dc,Dc,Sb,N,Sa,N,Sc,N,Sa,N,Sc,N,Dc,Sa,N,Sc
+Final Health:
+                        Monkey: -1
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: CourageTheDog Rule0Bot Neo
+Rule0Bot: CourageTheDog Monkey Neo
+Neo: CourageTheDog Monkey Rule0Bot
+CourageTheDog: Neo Monkey Rule0Bot
+Generated: 2014/08/12 10:50:19.020345586 UTC

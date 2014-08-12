@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO SimpleShooter Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Sc,N,Sc,N,Da,Da,Dd,Dd,Sc,N,Dc,Dd,Da,Dc,Dd,Da,Dc,Da,Dd,Dc,Dc,Dc,Dd,Dd,Dc,Dd,Dd,Dd,Dd,Da,Dd,Da,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                 SimpleShooter: Sb,N,Sb,N,Sa,N,Sd,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Db,Db,Db,Db,Db,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Da,N,N,N,Da,Db,N,Db,Da,N,N,N,N
+Final Health:
+                      Pacifist: -19
+                 DONTNUKEMEBRO: -19
+                 SimpleShooter: -1
+                           Neo: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Neo Pacifist SimpleShooter
+SimpleShooter: Neo Pacifist DONTNUKEMEBRO
+Neo: SimpleShooter Pacifist DONTNUKEMEBRO
+Generated: 2014/08/12 09:54:37.196667984 UTC

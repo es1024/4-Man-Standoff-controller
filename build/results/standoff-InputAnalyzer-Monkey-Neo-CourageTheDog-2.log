@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Neo CourageTheDog
+                 InputAnalyzer: Dd,Db,Dd,P,N,Sa
+                        Monkey: N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Da,P,Ta
+Final Health:
+                 InputAnalyzer: -16
+                        Monkey: -1
+                           Neo: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Monkey Neo
+Monkey: CourageTheDog InputAnalyzer Neo
+Neo: CourageTheDog InputAnalyzer Monkey
+CourageTheDog: Neo InputAnalyzer Monkey
+Generated: 2014/08/12 10:04:07.962109158 UTC

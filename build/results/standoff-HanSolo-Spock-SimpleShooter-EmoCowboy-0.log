@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock SimpleShooter EmoCowboy
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc
+                         Spock: N,Sa,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sa
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                 SimpleShooter: 1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock SimpleShooter EmoCowboy
+Spock: HanSolo SimpleShooter EmoCowboy
+SimpleShooter: HanSolo Spock EmoCowboy
+EmoCowboy: HanSolo Spock SimpleShooter
+Generated: 2014/08/12 06:51:03.885616320 UTC

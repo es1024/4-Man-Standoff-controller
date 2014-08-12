@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward TwentyFourthsAndAHalfCentury Sniper
+                 InputAnalyzer: Dc,Sb,N,Sd,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Da,Db,Da,Db,N,N,N,N
+                        Sniper: Sc,N,Sc,N,Sc,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                        Coward: 3
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Sniper Coward
+Coward: TwentyFourthsAndAHalfCentury Sniper InputAnalyzer
+TwentyFourthsAndAHalfCentury: Coward Sniper InputAnalyzer
+Sniper: Coward TwentyFourthsAndAHalfCentury InputAnalyzer
+Generated: 2014/08/12 09:21:35.668294485 UTC

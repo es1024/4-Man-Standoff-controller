@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Bomberman EmoCowboy
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Sc,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,Sd,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy Richochet Bomberman
+Richochet: EmoCowboy PoliticallyCorrectGunman Bomberman
+Bomberman: EmoCowboy PoliticallyCorrectGunman Richochet
+EmoCowboy: Bomberman PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 07:45:01.768463316 UTC

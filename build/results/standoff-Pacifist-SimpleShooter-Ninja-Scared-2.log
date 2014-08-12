@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Ninja Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N,Sd,N,Sa,N,Sd
+                         Ninja: Da,Dc,Dc,Dd,Dd,Da,Da,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sc,N,Sc,N,Sb,N,Sa,N,Sb
+Final Health:
+                      Pacifist: -3
+                 SimpleShooter: -1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared SimpleShooter Ninja
+SimpleShooter: Scared Pacifist Ninja
+Ninja: Scared Pacifist SimpleShooter
+Scared: Ninja Pacifist SimpleShooter
+Generated: 2014/08/12 07:12:48.224760672 UTC

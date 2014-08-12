@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo DONTNUKEMEBRO Coward
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc
+                 DONTNUKEMEBRO: Dd,Dd,Sd,N,Sd,N,Sd
+                        Coward: Sc,N,Sc,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                 DONTNUKEMEBRO: -3
+                        Coward: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo DONTNUKEMEBRO Coward
+HanSolo: Pacifist DONTNUKEMEBRO Coward
+DONTNUKEMEBRO: Pacifist HanSolo Coward
+Coward: Pacifist HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 08:28:22.618341963 UTC

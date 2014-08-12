@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Neo CourageTheDog
+                        Monkey: N,N,N,N,N,N,Dd,Sd,N,Sd,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Dd,Sd,N,Sd,N,Sa,N,N,N,N,N,N,Sa,N,Sc,N,Sc,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N
+                           Neo: N,N,N,N,N,N,Dd,N,N,Dd,Dd,N,N,N,N,N,N,Db,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sa,N,Dc,Sa,N,Db,Da,Db,N,Db,Da,Dc,Dc,Sc,N,Sc,N,Db,Dc,Sb,N,N,N,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: TwentyFourthsAndAHalfCentury Neo CourageTheDog
+TwentyFourthsAndAHalfCentury: Monkey Neo CourageTheDog
+Neo: Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Monkey TwentyFourthsAndAHalfCentury Neo
+Generated: 2014/08/12 09:03:19.220877665 UTC

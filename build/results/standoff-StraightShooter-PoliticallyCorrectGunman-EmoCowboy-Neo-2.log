@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman EmoCowboy Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+      PoliticallyCorrectGunman: N,N,N,N,Sa,N,N,N,N,N
+                     EmoCowboy: N,N,Sc,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Sa,N,N,N,Sa
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                     EmoCowboy: -2
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo PoliticallyCorrectGunman EmoCowboy
+PoliticallyCorrectGunman: Neo StraightShooter EmoCowboy
+EmoCowboy: Neo StraightShooter PoliticallyCorrectGunman
+Neo: EmoCowboy StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 09:56:08.594587997 UTC

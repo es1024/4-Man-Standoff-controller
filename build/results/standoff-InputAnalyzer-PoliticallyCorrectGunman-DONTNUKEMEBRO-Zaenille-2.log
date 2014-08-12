@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO Zaenille
+                 InputAnalyzer: Dd,Da,Dc,Dd,Db,Da,Db,Da,Sb,N,P,Dd
+      PoliticallyCorrectGunman: Da,Da,P,N,Dd,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Dd,Da,Sb,N,Db,Dd,Dd,Db,Dd,Da,Sa
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -3
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille PoliticallyCorrectGunman DONTNUKEMEBRO
+PoliticallyCorrectGunman: Zaenille InputAnalyzer DONTNUKEMEBRO
+DONTNUKEMEBRO: Zaenille InputAnalyzer PoliticallyCorrectGunman
+Zaenille: DONTNUKEMEBRO InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 06:24:23.695793708 UTC

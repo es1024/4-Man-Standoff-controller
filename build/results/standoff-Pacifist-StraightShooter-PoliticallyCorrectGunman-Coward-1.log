@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter PoliticallyCorrectGunman Coward
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Da,Db,P,Da,Td,Da,Db,Dd,Dd,Db,Sd,N,P,Sb
+                        Coward: Sa,N,Sa,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -2
+               StraightShooter: 0
+      PoliticallyCorrectGunman: 2
+                        Coward: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Coward StraightShooter
+StraightShooter: PoliticallyCorrectGunman Coward Pacifist
+PoliticallyCorrectGunman: StraightShooter Coward Pacifist
+Coward: StraightShooter PoliticallyCorrectGunman Pacifist
+Generated: 2014/08/12 07:30:23.843876055 UTC

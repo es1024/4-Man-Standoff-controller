@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Ninja Scared
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Dd,N,Da,Da,N,Da,Da,Db,N,N,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,Da,Db,Db,N,N,N,Dc,Dc,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,Dc
+                         Ninja: Dd,Dd,Da,Da,Dd,Da,Da,Db,Da,Dc,Dd,Dc,Dc,Dd,Da,Db,Da,Db,Dc,Db,Dd,Dc,Dc,Da,Db,Da,Da,Db,Dd,Dc,Da,Dd,Da,Da,Dd,Dc,Dc,Dd,Dc,Db,Dc,Db,Dc,Db,Da,Dd,Dc,Dd,Dc,Dc
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: -18
+                         Ninja: -18
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Scared Monkey Ninja
+Monkey: Scared Aggressor Ninja
+Ninja: Scared Aggressor Monkey
+Scared: Ninja Aggressor Monkey
+Generated: 2014/08/12 07:21:59.885361673 UTC

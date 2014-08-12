@@ -1,0 +1,16 @@
+Standoff between: Coward AntiGrenadier Sniper Scared
+                        Coward: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -17
+                 AntiGrenadier: -1
+                        Sniper: -19
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared AntiGrenadier Sniper
+AntiGrenadier: Scared Coward Sniper
+Sniper: Scared Coward AntiGrenadier
+Scared: Sniper Coward AntiGrenadier
+Generated: 2014/08/12 07:53:58.599602634 UTC

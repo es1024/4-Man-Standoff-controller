@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Richochet TwentyFourthsAndAHalfCentury
+                 SimpleShooter: Sb,N,Sc,N,Sb,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sc
+                     Richochet: Sd,N,Sd,N,Sd,N,Sb
+  TwentyFourthsAndAHalfCentury: Db,N,Db,N,Da,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet TwentyFourthsAndAHalfCentury Coward
+Coward: Richochet TwentyFourthsAndAHalfCentury SimpleShooter
+Richochet: Coward TwentyFourthsAndAHalfCentury SimpleShooter
+TwentyFourthsAndAHalfCentury: Coward Richochet SimpleShooter
+Generated: 2014/08/12 08:01:02.324615649 UTC

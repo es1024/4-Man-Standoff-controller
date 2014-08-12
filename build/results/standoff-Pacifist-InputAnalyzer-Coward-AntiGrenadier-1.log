@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Coward AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Dd,Dc,Sa,N,P,Sb
+                        Coward: Sa,N,Sa,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,Sb
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -10
+                        Coward: 2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward AntiGrenadier InputAnalyzer
+InputAnalyzer: Coward AntiGrenadier Pacifist
+Coward: InputAnalyzer AntiGrenadier Pacifist
+AntiGrenadier: InputAnalyzer Coward Pacifist
+Generated: 2014/08/12 08:18:04.129361928 UTC

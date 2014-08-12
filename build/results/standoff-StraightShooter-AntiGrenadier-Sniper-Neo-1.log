@@ -1,0 +1,16 @@
+Standoff between: StraightShooter AntiGrenadier Sniper Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                 AntiGrenadier: -1
+                        Sniper: -15
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper Neo AntiGrenadier
+AntiGrenadier: Sniper Neo StraightShooter
+Sniper: AntiGrenadier Neo StraightShooter
+Neo: AntiGrenadier Sniper StraightShooter
+Generated: 2014/08/12 09:37:30.107041115 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter AntiGrenadier Rule0Bot Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Db,N,N,Dc,Da,N,Da,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,Dc,Da,Dc,Da,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,Dc,N,N
+Final Health:
+               StraightShooter: -15
+                 AntiGrenadier: -1
+                      Rule0Bot: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo AntiGrenadier Rule0Bot
+AntiGrenadier: Neo StraightShooter Rule0Bot
+Rule0Bot: Neo StraightShooter AntiGrenadier
+Neo: Rule0Bot StraightShooter AntiGrenadier
+Generated: 2014/08/12 08:48:52.699262830 UTC

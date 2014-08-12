@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Coward TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Db,Sb
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                       HanSolo: -1
+                        Coward: 1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Coward TwentyFourthsAndAHalfCentury
+HanSolo: Grenadier Coward TwentyFourthsAndAHalfCentury
+Coward: Grenadier HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Grenadier HanSolo Coward
+Generated: 2014/08/12 10:11:33.981041119 UTC

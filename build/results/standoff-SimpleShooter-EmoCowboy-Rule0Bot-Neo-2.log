@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter EmoCowboy Rule0Bot Neo
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo EmoCowboy Rule0Bot
+EmoCowboy: Neo SimpleShooter Rule0Bot
+Rule0Bot: Neo SimpleShooter EmoCowboy
+Neo: Rule0Bot SimpleShooter EmoCowboy
+Generated: 2014/08/12 09:57:44.755216989 UTC

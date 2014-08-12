@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Zaenille TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,P,Da,Sd,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Da,Da,Da,Da,Da,Da,Db,Da,Da,Da,Sb
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 0
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille TwentyFourthsAndAHalfCentury Spock
+Spock: Zaenille TwentyFourthsAndAHalfCentury InputAnalyzer
+Zaenille: Spock TwentyFourthsAndAHalfCentury InputAnalyzer
+TwentyFourthsAndAHalfCentury: Spock Zaenille InputAnalyzer
+Generated: 2014/08/12 08:52:53.577015594 UTC

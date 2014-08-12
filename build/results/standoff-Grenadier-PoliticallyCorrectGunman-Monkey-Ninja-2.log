@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Monkey Ninja
+                     Grenadier: N,N,N,P,Td,P
+      PoliticallyCorrectGunman: N,N,N,N,N,Sb
+                        Monkey: N,N,N,N,P,Td
+                         Ninja: Da,Dc,Dc,Da,Dc,N
+Final Health:
+                     Grenadier: -7
+      PoliticallyCorrectGunman: -8
+                        Monkey: -4
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja PoliticallyCorrectGunman Monkey
+PoliticallyCorrectGunman: Ninja Grenadier Monkey
+Monkey: Ninja Grenadier PoliticallyCorrectGunman
+Ninja: Monkey Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 08:54:23.694868132 UTC

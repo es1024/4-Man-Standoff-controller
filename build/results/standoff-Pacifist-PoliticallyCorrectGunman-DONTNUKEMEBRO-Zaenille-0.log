@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO Zaenille
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dc,Sd,N,N,Sd,N,Dc,Dd,Sa,N,N,Dc,Sd,N,Da,N,Sc,N,Dd,P,Da,N
+                 DONTNUKEMEBRO: Dd,Dd,Da,Da,Db,Da,Db,Db,Da,Dd,Da,Dd,Db,Db,Da,Da,Da,Db,Sb,N,Sb,N
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+      PoliticallyCorrectGunman: -5
+                 DONTNUKEMEBRO: 0
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman DONTNUKEMEBRO Zaenille
+PoliticallyCorrectGunman: Pacifist DONTNUKEMEBRO Zaenille
+DONTNUKEMEBRO: Pacifist PoliticallyCorrectGunman Zaenille
+Zaenille: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 05:44:50.707746248 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Zaenille Ninja
+      PoliticallyCorrectGunman: N,Sd,N,N,Dd,Sd,N,N,N,P,Db,Dc
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Da,Dd,Dc,Da,Db,Dd,Dc,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 2
+                      Zaenille: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Ninja HanSolo
+HanSolo: Zaenille Ninja PoliticallyCorrectGunman
+Zaenille: HanSolo Ninja PoliticallyCorrectGunman
+Ninja: HanSolo Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 06:34:19.349887804 UTC

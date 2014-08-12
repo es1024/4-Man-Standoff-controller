@@ -1,0 +1,16 @@
+Standoff between: Pacifist EmoCowboy Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,Sc,N,Sc,N,Sa,N,Sc,N,Sa
+Final Health:
+                      Pacifist: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared EmoCowboy Rule0Bot
+EmoCowboy: Scared Pacifist Rule0Bot
+Rule0Bot: Scared Pacifist EmoCowboy
+Scared: Rule0Bot Pacifist EmoCowboy
+Generated: 2014/08/12 08:48:10.561165083 UTC

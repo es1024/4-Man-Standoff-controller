@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey EmoCowboy Ninja
+                     Richochet: Sb,N,Sb,N,Sd,N,Sd,N,Sb,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dc,Da,Dc,Db,Db,Dd,Dd,Db,Da,Dc,Da,Da,Dd
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy Ninja Monkey
+Monkey: EmoCowboy Ninja Richochet
+EmoCowboy: Monkey Ninja Richochet
+Ninja: Monkey EmoCowboy Richochet
+Generated: 2014/08/12 08:51:12.510786017 UTC

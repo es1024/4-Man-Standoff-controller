@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: AntiGrenadier HanSolo Bomberman
+Bomberman: AntiGrenadier HanSolo TwentyFourthsAndAHalfCentury
+AntiGrenadier: Bomberman HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:01:45.668366534 UTC

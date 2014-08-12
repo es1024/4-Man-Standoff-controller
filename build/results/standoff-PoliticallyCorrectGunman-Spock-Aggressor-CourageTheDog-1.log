@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Aggressor CourageTheDog
+      PoliticallyCorrectGunman: N,Dc
+                         Spock: Sc,N
+                     Aggressor: P,Tb
+                 CourageTheDog: Sa,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                         Spock: -3
+                     Aggressor: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor CourageTheDog Spock
+Spock: Aggressor CourageTheDog PoliticallyCorrectGunman
+Aggressor: Spock CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Spock Aggressor PoliticallyCorrectGunman
+Generated: 2014/08/12 06:09:36.367047262 UTC

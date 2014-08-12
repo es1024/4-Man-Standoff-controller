@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO EmoCowboy Scared
+                       HanSolo: Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dc,Dd,Sa,N,Sa
+                     EmoCowboy: N,N,N,Sc,N
+                        Scared: N,N,N,N,Sa
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+                     EmoCowboy: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: DONTNUKEMEBRO EmoCowboy Scared
+DONTNUKEMEBRO: HanSolo EmoCowboy Scared
+EmoCowboy: HanSolo DONTNUKEMEBRO Scared
+Scared: HanSolo DONTNUKEMEBRO EmoCowboy
+Generated: 2014/08/12 07:20:04.764969487 UTC

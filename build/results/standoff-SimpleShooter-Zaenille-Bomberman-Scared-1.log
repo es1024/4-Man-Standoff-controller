@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Bomberman Scared
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,Sa,N,N
+Final Health:
+                 SimpleShooter: 3
+                      Zaenille: -4
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Scared Zaenille
+Zaenille: Bomberman Scared SimpleShooter
+Bomberman: Zaenille Scared SimpleShooter
+Scared: Zaenille Bomberman SimpleShooter
+Generated: 2014/08/12 07:54:18.207022904 UTC

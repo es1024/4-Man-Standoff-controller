@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Grenadier: N,N,P,Td
+                 SimpleShooter: Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Dd,Da
+                 AntiGrenadier: N,N,N,Sa
+Final Health:
+                     Grenadier: 0
+                 SimpleShooter: 2
+  TwentyFourthsAndAHalfCentury: 0
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: AntiGrenadier Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier Grenadier SimpleShooter
+AntiGrenadier: TwentyFourthsAndAHalfCentury Grenadier SimpleShooter
+Generated: 2014/08/12 09:00:01.061059459 UTC

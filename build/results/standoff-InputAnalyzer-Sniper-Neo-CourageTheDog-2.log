@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Sniper Neo CourageTheDog
+                 InputAnalyzer: Dd,P,Sa,N
+                        Sniper: Sa,N,Sc,N
+                           Neo: N,N,N,N
+                 CourageTheDog: Sc,N,P,Tb
+Final Health:
+                 InputAnalyzer: -8
+                        Sniper: -6
+                           Neo: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Sniper Neo
+Sniper: CourageTheDog InputAnalyzer Neo
+Neo: CourageTheDog InputAnalyzer Sniper
+CourageTheDog: Neo InputAnalyzer Sniper
+Generated: 2014/08/12 10:17:52.000795621 UTC

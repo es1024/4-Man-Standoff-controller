@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Bomberman Ninja AntiGrenadier
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Dc,Dd,Da,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                     Bomberman: -15
+                         Ninja: -1
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Ninja AntiGrenadier
+Bomberman: StraightShooter Ninja AntiGrenadier
+Ninja: StraightShooter Bomberman AntiGrenadier
+AntiGrenadier: StraightShooter Bomberman Ninja
+Generated: 2014/08/12 08:58:00.102556313 UTC

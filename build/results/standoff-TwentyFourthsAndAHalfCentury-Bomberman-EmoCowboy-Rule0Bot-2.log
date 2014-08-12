@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman EmoCowboy Rule0Bot
+  TwentyFourthsAndAHalfCentury: Dd,Db,Sd,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Rule0Bot Bomberman EmoCowboy
+Bomberman: Rule0Bot TwentyFourthsAndAHalfCentury EmoCowboy
+EmoCowboy: Rule0Bot TwentyFourthsAndAHalfCentury Bomberman
+Rule0Bot: EmoCowboy TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 06:19:49.450416998 UTC

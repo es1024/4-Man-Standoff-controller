@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Ninja AntiGrenadier Sniper
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,Dd,Dd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb
+                         Ninja: Dd,Dd,Da,Db,Dd,Db,Dd,Dd,Db,Db,Da,Dd,Dd,Db,Da,Db,Dc,Dd,Dd,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Sniper Ninja AntiGrenadier
+Ninja: Sniper TwentyFourthsAndAHalfCentury AntiGrenadier
+AntiGrenadier: Sniper TwentyFourthsAndAHalfCentury Ninja
+Sniper: AntiGrenadier TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 06:13:36.515904292 UTC

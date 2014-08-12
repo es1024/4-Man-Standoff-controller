@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Richochet Zaenille
+      PoliticallyCorrectGunman: N,N,P,Sc,N
+                        Coward: Sd,N,Sc,N,Sc
+                     Richochet: Sa,N,Sb,N,Sa
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+                        Coward: 0
+                     Richochet: -4
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward Richochet Zaenille
+Coward: PoliticallyCorrectGunman Richochet Zaenille
+Richochet: PoliticallyCorrectGunman Coward Zaenille
+Zaenille: PoliticallyCorrectGunman Coward Richochet
+Generated: 2014/08/12 07:04:05.458782423 UTC

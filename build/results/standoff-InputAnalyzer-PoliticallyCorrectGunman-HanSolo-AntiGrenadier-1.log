@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo AntiGrenadier
+                 InputAnalyzer: Dc,Db,Da,Dc,Da,Dc,P,Dd,N
+      PoliticallyCorrectGunman: Dd,Sa,N,Sc,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 0
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo AntiGrenadier PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo AntiGrenadier InputAnalyzer
+HanSolo: PoliticallyCorrectGunman AntiGrenadier InputAnalyzer
+AntiGrenadier: PoliticallyCorrectGunman HanSolo InputAnalyzer
+Generated: 2014/08/12 07:50:15.406300878 UTC

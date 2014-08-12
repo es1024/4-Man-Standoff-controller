@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Ninja Rule0Bot Scared
+  TwentyFourthsAndAHalfCentury: Db,Db,Dd,Db,N,N,N,N,N,N,N,N,N,Sd,N,Sb,N,Sc,N,Sd,N
+                         Ninja: Db,Dd,Db,Db,Dc,Db,Dd,Da,Dd,Dc,Db,Dd,Db,Db,Dd,Db,Db,Dc,Db,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sc,N,Sb,N,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Scared Ninja Rule0Bot
+Ninja: Scared TwentyFourthsAndAHalfCentury Rule0Bot
+Rule0Bot: Scared TwentyFourthsAndAHalfCentury Ninja
+Scared: Rule0Bot TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 06:40:49.555480896 UTC

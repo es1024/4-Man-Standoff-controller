@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Rule0Bot Neo
+      PoliticallyCorrectGunman: Sd,N,Sd,N,Sc,N,Db,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 5
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo HanSolo Rule0Bot
+HanSolo: Neo PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Neo PoliticallyCorrectGunman HanSolo
+Neo: Rule0Bot PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 08:56:38.521371834 UTC

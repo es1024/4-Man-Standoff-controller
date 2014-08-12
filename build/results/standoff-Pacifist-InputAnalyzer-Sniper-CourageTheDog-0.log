@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Sniper CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Sd,N,Sd,N,P,Sb
+                        Sniper: Sd,N,Sd,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,N,N,N
+Final Health:
+                      Pacifist: 2
+                 InputAnalyzer: -8
+                        Sniper: 0
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Sniper CourageTheDog
+InputAnalyzer: Pacifist Sniper CourageTheDog
+Sniper: Pacifist InputAnalyzer CourageTheDog
+CourageTheDog: Pacifist InputAnalyzer Sniper
+Generated: 2014/08/12 08:42:54.445516530 UTC

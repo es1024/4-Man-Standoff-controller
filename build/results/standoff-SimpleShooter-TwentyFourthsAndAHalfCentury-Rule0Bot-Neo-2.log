@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot Neo
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sb,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Dc,N,N,N,N,N,N,N,Dc,Dc,Dd,Dd,Da,Dd,Dd,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N,Db,Db,N,Db,Db,Db,Db,N,Da,N,N
+Final Health:
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: Neo SimpleShooter Rule0Bot
+Rule0Bot: Neo SimpleShooter TwentyFourthsAndAHalfCentury
+Neo: Rule0Bot SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:26:58.640147611 UTC

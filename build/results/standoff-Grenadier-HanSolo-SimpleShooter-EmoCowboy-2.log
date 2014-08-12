@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo SimpleShooter EmoCowboy
+                     Grenadier: P,Tc
+                       HanSolo: Sd,N
+                 SimpleShooter: Sb,N
+                     EmoCowboy: Sd,N
+Final Health:
+                     Grenadier: 2
+                       HanSolo: 0
+                 SimpleShooter: -3
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy HanSolo SimpleShooter
+HanSolo: EmoCowboy Grenadier SimpleShooter
+SimpleShooter: EmoCowboy Grenadier HanSolo
+EmoCowboy: SimpleShooter Grenadier HanSolo
+Generated: 2014/08/12 10:16:46.522498602 UTC

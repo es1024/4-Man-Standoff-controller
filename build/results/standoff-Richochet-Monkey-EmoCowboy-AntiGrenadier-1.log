@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey EmoCowboy AntiGrenadier
+                     Richochet: Sb,N,Sb,N,Sd,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,Sd,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy AntiGrenadier Monkey
+Monkey: EmoCowboy AntiGrenadier Richochet
+EmoCowboy: Monkey AntiGrenadier Richochet
+AntiGrenadier: Monkey EmoCowboy Richochet
+Generated: 2014/08/12 09:34:16.907844264 UTC

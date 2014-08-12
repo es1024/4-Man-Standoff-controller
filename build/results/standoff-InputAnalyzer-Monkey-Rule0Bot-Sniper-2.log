@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Rule0Bot Sniper
+                 InputAnalyzer: Dd,P,Sd,N
+                        Monkey: N,N,N,Sd
+                      Rule0Bot: N,N,Sa,N
+                        Sniper: Sb,N,Sb,N
+Final Health:
+                 InputAnalyzer: -3
+                        Monkey: -2
+                      Rule0Bot: 2
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Monkey Rule0Bot
+Monkey: Sniper InputAnalyzer Rule0Bot
+Rule0Bot: Sniper InputAnalyzer Monkey
+Sniper: Rule0Bot InputAnalyzer Monkey
+Generated: 2014/08/12 10:01:41.134139205 UTC

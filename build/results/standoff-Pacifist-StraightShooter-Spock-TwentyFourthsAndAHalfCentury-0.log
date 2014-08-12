@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Spock TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                         Spock: Sa,N,Sa,N,Sa,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Dc,Da,Db,Sb,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Spock TwentyFourthsAndAHalfCentury
+StraightShooter: Pacifist Spock TwentyFourthsAndAHalfCentury
+Spock: Pacifist StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist StraightShooter Spock
+Generated: 2014/08/12 08:46:35.879243451 UTC

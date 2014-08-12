@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury AntiGrenadier Sniper
+                     Aggressor: P,Tb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: -2
+  TwentyFourthsAndAHalfCentury: -3
+                 AntiGrenadier: -18
+                        Sniper: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury AntiGrenadier Sniper
+TwentyFourthsAndAHalfCentury: Aggressor AntiGrenadier Sniper
+AntiGrenadier: Aggressor TwentyFourthsAndAHalfCentury Sniper
+Sniper: Aggressor TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 07:18:40.236074825 UTC

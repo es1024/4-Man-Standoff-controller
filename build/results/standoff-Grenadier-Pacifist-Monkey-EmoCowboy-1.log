@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Monkey EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,P,Tc,P,Tb
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,Sd,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -6
+                        Monkey: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey EmoCowboy Pacifist
+Pacifist: Monkey EmoCowboy Grenadier
+Monkey: Pacifist EmoCowboy Grenadier
+EmoCowboy: Pacifist Monkey Grenadier
+Generated: 2014/08/12 07:29:23.914669227 UTC

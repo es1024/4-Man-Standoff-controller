@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sc,N,N,N,N,N,N,N,Sa,N,Sb,N,Sc,N,Sc,N,Sa,N,Sb
+Final Health:
+                      Pacifist: -1
+                     Bomberman: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman Rule0Bot Scared
+Bomberman: Pacifist Rule0Bot Scared
+Rule0Bot: Pacifist Bomberman Scared
+Scared: Pacifist Bomberman Rule0Bot
+Generated: 2014/08/12 08:27:43.829264937 UTC

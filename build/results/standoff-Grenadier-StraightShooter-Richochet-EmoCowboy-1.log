@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Richochet EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Richochet: Sb,N,Sa,N,Sa,N,Sa,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -1
+                     Richochet: 5
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet EmoCowboy StraightShooter
+StraightShooter: Richochet EmoCowboy Grenadier
+Richochet: StraightShooter EmoCowboy Grenadier
+EmoCowboy: StraightShooter Richochet Grenadier
+Generated: 2014/08/12 07:47:22.336371897 UTC

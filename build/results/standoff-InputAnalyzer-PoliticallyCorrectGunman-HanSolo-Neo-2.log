@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo Neo
+                 InputAnalyzer: Dd,P,Sa,N,N
+      PoliticallyCorrectGunman: N,Dc,N,Sa,N
+                       HanSolo: Sd,N,Sd,N,Sb
+                           Neo: N,N,Db,N,N
+Final Health:
+                 InputAnalyzer: -8
+      PoliticallyCorrectGunman: 0
+                       HanSolo: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo PoliticallyCorrectGunman HanSolo
+PoliticallyCorrectGunman: Neo InputAnalyzer HanSolo
+HanSolo: Neo InputAnalyzer PoliticallyCorrectGunman
+Neo: HanSolo InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 10:46:24.043776357 UTC

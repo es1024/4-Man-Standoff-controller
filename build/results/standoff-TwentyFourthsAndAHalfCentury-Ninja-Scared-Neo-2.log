@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Ninja Scared Neo
+  TwentyFourthsAndAHalfCentury: Dc,Dd,Db,Db,Dc,Db,N,N,N,N,N,Sc,N,Sb,N,Sb,N,N,N
+                         Ninja: Dd,Da,Dd,Db,Db,Dd,Dc,Da,Dc,Dc,Dc,Dc,Dc,Db,Dd,Dd,N,N,N
+                        Scared: Sb,N,Sa,N,Sd,N,N,N,N,N,Sd,N,Sb,N,Sa,N,Sa,N,Sd
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,Db,N,Db,N,Dc,Sc,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Neo Ninja Scared
+Ninja: Neo TwentyFourthsAndAHalfCentury Scared
+Scared: Neo TwentyFourthsAndAHalfCentury Ninja
+Neo: Scared TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 10:15:08.452092718 UTC

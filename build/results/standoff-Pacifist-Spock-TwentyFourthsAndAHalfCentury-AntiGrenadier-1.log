@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock TwentyFourthsAndAHalfCentury AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,N,N,N,Sc,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,N,P,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Db,Da,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+                      Pacifist: -15
+                         Spock: -19
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury AntiGrenadier Spock
+Spock: TwentyFourthsAndAHalfCentury AntiGrenadier Pacifist
+TwentyFourthsAndAHalfCentury: Spock AntiGrenadier Pacifist
+AntiGrenadier: Spock TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 10:09:50.640963131 UTC

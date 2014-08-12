@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter HanSolo Coward
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N
+                       HanSolo: Sa,N,Sa,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sa
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                       HanSolo: -3
+                        Coward: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter HanSolo Coward
+StraightShooter: Pacifist HanSolo Coward
+HanSolo: Pacifist StraightShooter Coward
+Coward: Pacifist StraightShooter HanSolo
+Generated: 2014/08/12 08:16:39.592512570 UTC

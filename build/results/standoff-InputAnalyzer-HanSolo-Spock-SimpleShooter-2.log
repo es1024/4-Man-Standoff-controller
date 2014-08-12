@@ -1,16 +1,16 @@
 Standoff between: InputAnalyzer HanSolo Spock SimpleShooter
-                 InputAnalyzer: Dd,Da,Sa,N,N
-                       HanSolo: Sd,N,Sd,N,Sc
-                         Spock: Sd,N,Sd,N,Sb
-                 SimpleShooter: Sb,N,Sb,N,N
+                 InputAnalyzer: Dd,P,Sa
+                       HanSolo: Sd,N,Sd
+                         Spock: N,N,N
+                 SimpleShooter: Sb,N,Sa
 Final Health:
-                 InputAnalyzer: -2
-                       HanSolo: -1
-                         Spock: 3
-                 SimpleShooter: -3
+                 InputAnalyzer: -10
+                       HanSolo: 0
+                         Spock: 2
+                 SimpleShooter: -2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 InputAnalyzer: SimpleShooter HanSolo Spock
 HanSolo: SimpleShooter InputAnalyzer Spock
 Spock: SimpleShooter InputAnalyzer HanSolo
 SimpleShooter: Spock InputAnalyzer HanSolo
-Generated: 2014/08/11 00:58:37.309369537 UTC
+Generated: 2014/08/12 07:11:31.504946998 UTC

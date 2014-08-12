@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Ninja Sniper Scared
+      PoliticallyCorrectGunman: Sc,N,Sb,N,Db,N,N,N,N,N,N,N,N,Dd,N,N,Db,P,Sa
+                         Ninja: Db,Db,Da,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -10
+                         Ninja: -1
+                        Sniper: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper Scared Ninja
+Ninja: Sniper Scared PoliticallyCorrectGunman
+Sniper: Ninja Scared PoliticallyCorrectGunman
+Scared: Ninja Sniper PoliticallyCorrectGunman
+Generated: 2014/08/12 09:53:26.702486618 UTC

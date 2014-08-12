@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo SimpleShooter EmoCowboy
+                 InputAnalyzer: Dd,P,Sa
+                       HanSolo: Sd,N,Sa
+                 SimpleShooter: Sb,N,Sa
+                     EmoCowboy: Sd,N,N
+Final Health:
+                 InputAnalyzer: -12
+                       HanSolo: 0
+                 SimpleShooter: 2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy HanSolo SimpleShooter
+HanSolo: EmoCowboy InputAnalyzer SimpleShooter
+SimpleShooter: EmoCowboy InputAnalyzer HanSolo
+EmoCowboy: SimpleShooter InputAnalyzer HanSolo
+Generated: 2014/08/12 10:47:03.470933968 UTC

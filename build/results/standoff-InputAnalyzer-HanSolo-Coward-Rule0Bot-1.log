@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Coward Rule0Bot
+                 InputAnalyzer: Dc,Db,Da,Dd,Sa,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                        Coward: Sa,N,Sa,N,Dd,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                       HanSolo: 5
+                        Coward: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Rule0Bot HanSolo
+HanSolo: Coward Rule0Bot InputAnalyzer
+Coward: HanSolo Rule0Bot InputAnalyzer
+Rule0Bot: HanSolo Coward InputAnalyzer
+Generated: 2014/08/12 08:18:46.908109439 UTC

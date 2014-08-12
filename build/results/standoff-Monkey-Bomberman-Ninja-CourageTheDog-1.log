@@ -1,0 +1,16 @@
+Standoff between: Monkey Bomberman Ninja CourageTheDog
+                        Monkey: N,N,Db,Db,Da,N,N,Db,Sb,N,N,N,N,N,N,N,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Dd,Da,Dd,Db,Dc,Db,Db,Dc,Da,Db,Dd,Da,Dd,Dd,Da,Dd,Da,Dc,Dd,Da,Dc,Db,Dd,Dd,Db,Dd,Db,Dc,Dc,Da,Dc
+                 CourageTheDog: Sc,N,Sb,N,Sc,N,Db,Sb,N,Dc,Dc,Dc,Sa,N,Da,Dc,Dc,Sa,N,Sa,N,Dc,Dc,Dc,Sc,N,Dc,Dc,Sc,N,Dc,Dc,Sc
+Final Health:
+                        Monkey: -1
+                     Bomberman: -1
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Ninja CourageTheDog Bomberman
+Bomberman: Ninja CourageTheDog Monkey
+Ninja: Bomberman CourageTheDog Monkey
+CourageTheDog: Bomberman Ninja Monkey
+Generated: 2014/08/12 08:02:15.015181181 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet EmoCowboy Scared
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,N
+                     Richochet: Sc,N,Sd,N,Sa,N,Sd
+                     EmoCowboy: N,N,N,Sc,N,N,N
+                        Scared: N,N,Sa,N,Sa,N,Sb
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                     EmoCowboy: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Scared Richochet
+Richochet: EmoCowboy Scared SimpleShooter
+EmoCowboy: Richochet Scared SimpleShooter
+Scared: Richochet EmoCowboy SimpleShooter
+Generated: 2014/08/12 10:17:39.812641929 UTC

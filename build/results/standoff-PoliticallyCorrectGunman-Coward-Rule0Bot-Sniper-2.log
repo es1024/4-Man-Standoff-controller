@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Rule0Bot Sniper
+      PoliticallyCorrectGunman: Dd,Sc,N,N,Sb,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: 3
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper Coward Rule0Bot
+Coward: Sniper PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Sniper PoliticallyCorrectGunman Coward
+Sniper: Rule0Bot PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 10:50:06.451479047 UTC

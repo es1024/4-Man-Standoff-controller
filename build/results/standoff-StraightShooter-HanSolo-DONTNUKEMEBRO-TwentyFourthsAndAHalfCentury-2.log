@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Dd,Da,Db,Dd,Db,Da,Db,Dd,Dd,Da,Da,Db,Dd,Dd,Dd,Dd,Da,Da,Db,Db,Dd,Da,Db,Db,Dd,Da,Da,Da,Dd,Db,Db,Da,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,Da,Dc,Da,Dc,Da,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,N
+Final Health:
+               StraightShooter: -15
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -15
+  TwentyFourthsAndAHalfCentury: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury HanSolo DONTNUKEMEBRO
+HanSolo: TwentyFourthsAndAHalfCentury StraightShooter DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury StraightShooter HanSolo
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO StraightShooter HanSolo
+Generated: 2014/08/12 07:27:24.198143389 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Zaenille Bomberman
+               StraightShooter: Sb,N,Sb,N,Sb
+                       HanSolo: Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                     Bomberman: N,N,N,N,N
+Final Health:
+               StraightShooter: 5
+                       HanSolo: -1
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman HanSolo Zaenille
+HanSolo: Bomberman StraightShooter Zaenille
+Zaenille: Bomberman StraightShooter HanSolo
+Bomberman: Zaenille StraightShooter HanSolo
+Generated: 2014/08/12 08:58:06.537398457 UTC

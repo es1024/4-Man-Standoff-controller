@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Richochet Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sa
+                     Richochet: Sd,N,Sa,N,Sa,N,N
+                           Neo: N,Sb,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 3
+                     Richochet: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Neo HanSolo
+HanSolo: Richochet Neo StraightShooter
+Richochet: HanSolo Neo StraightShooter
+Neo: HanSolo Richochet StraightShooter
+Generated: 2014/08/12 06:25:14.813069928 UTC

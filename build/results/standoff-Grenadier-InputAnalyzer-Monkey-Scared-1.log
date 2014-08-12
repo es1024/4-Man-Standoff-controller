@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Monkey Scared
+                     Grenadier: N,P,N,N,N
+                 InputAnalyzer: Dc,Dd,Db,Dc,Db
+                        Monkey: N,Sc,N,N,N
+                        Scared: Sc,N,Sa,N,Sb
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: 0
+                        Monkey: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Scared InputAnalyzer
+InputAnalyzer: Monkey Scared Grenadier
+Monkey: InputAnalyzer Scared Grenadier
+Scared: InputAnalyzer Monkey Grenadier
+Generated: 2014/08/12 05:48:12.172413951 UTC

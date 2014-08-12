@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer SimpleShooter Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N
+                 InputAnalyzer: Dd,Db,Db,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd
+                        Sniper: Sc,N,Sb,N,N,N,N,Sa,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -3
+                 SimpleShooter: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper InputAnalyzer SimpleShooter
+InputAnalyzer: Sniper StraightShooter SimpleShooter
+SimpleShooter: Sniper StraightShooter InputAnalyzer
+Sniper: SimpleShooter StraightShooter InputAnalyzer
+Generated: 2014/08/12 09:24:12.669418950 UTC

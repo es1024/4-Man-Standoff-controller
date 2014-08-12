@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Bomberman EmoCowboy
+                     Richochet: Sb,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -4
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy Zaenille Bomberman
+Zaenille: EmoCowboy Richochet Bomberman
+Bomberman: EmoCowboy Richochet Zaenille
+EmoCowboy: Bomberman Richochet Zaenille
+Generated: 2014/08/12 07:28:45.513007215 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Richochet Bomberman
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N
+                 DONTNUKEMEBRO: Dd,Da,Sa,N,Sa,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sb,N,Sa,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -3
+                     Richochet: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: Bomberman StraightShooter Richochet
+Richochet: Bomberman StraightShooter DONTNUKEMEBRO
+Bomberman: Richochet StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 07:36:23.929325117 UTC

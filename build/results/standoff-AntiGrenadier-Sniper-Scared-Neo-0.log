@@ -1,0 +1,16 @@
+Standoff between: AntiGrenadier Sniper Scared Neo
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sb,N,Sd,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,Sd,N,Sb,N,Sd
+                           Neo: N,Da,Dc,N,Dc,N,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Sc,N
+Final Health:
+                 AntiGrenadier: -1
+                        Sniper: -1
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+AntiGrenadier: Sniper Scared Neo
+Sniper: AntiGrenadier Scared Neo
+Scared: AntiGrenadier Sniper Neo
+Neo: AntiGrenadier Sniper Scared
+Generated: 2014/08/12 10:20:17.150566785 UTC

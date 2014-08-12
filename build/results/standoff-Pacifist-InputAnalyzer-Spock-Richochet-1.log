@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Spock Richochet
+                      Pacifist: N,N,N
+                 InputAnalyzer: Dc,P,Sb
+                         Spock: Sb,N,Sb
+                     Richochet: Sc,N,Sa
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -10
+                         Spock: 0
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Richochet InputAnalyzer
+InputAnalyzer: Spock Richochet Pacifist
+Spock: InputAnalyzer Richochet Pacifist
+Richochet: InputAnalyzer Spock Pacifist
+Generated: 2014/08/12 10:46:21.596865850 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Zaenille Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sa,N,Sb,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 1
+                      Zaenille: -6
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Scared HanSolo
+HanSolo: Zaenille Scared Pacifist
+Zaenille: HanSolo Scared Pacifist
+Scared: HanSolo Zaenille Pacifist
+Generated: 2014/08/12 07:46:58.488941457 UTC

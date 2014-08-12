@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Ninja Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Dc,Dd,Dd,Da,Da,Da,Db,Db,Da,Dd,Dd,Dd,Da,Dc,Dd,Da,Dd,Dc,Dd,Da,Db,Db,Da,Dc,Db,Dd,Dd,Dc,Da,Db,Dd,Db,Dc,Dc,Dd,Dd,Dc,Dc,Dd,Dd,Da,Dc,Db,Dc,Db,Dc,Db,Da
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                         Spock: -1
+                         Ninja: -15
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot Spock Ninja
+Spock: Rule0Bot StraightShooter Ninja
+Ninja: Rule0Bot StraightShooter Spock
+Rule0Bot: Ninja StraightShooter Spock
+Generated: 2014/08/12 09:17:09.185309349 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Monkey TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: N,Db,N,Dc,N,N,Sa,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,Sc,N
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dc,Da,Da,Db,Da,Db,Sb,N,N,N,N,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey TwentyFourthsAndAHalfCentury Spock
+Spock: Monkey TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Monkey: Spock TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Spock Monkey PoliticallyCorrectGunman
+Generated: 2014/08/12 10:47:55.593115208 UTC

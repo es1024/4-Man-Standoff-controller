@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Bomberman Neo
+                 InputAnalyzer: Db,Dc,Db,Dd,Sc,N,Sa,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sd,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                 SimpleShooter: 5
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Bomberman Neo
+SimpleShooter: InputAnalyzer Bomberman Neo
+Bomberman: InputAnalyzer SimpleShooter Neo
+Neo: InputAnalyzer SimpleShooter Bomberman
+Generated: 2014/08/12 08:03:30.988692362 UTC

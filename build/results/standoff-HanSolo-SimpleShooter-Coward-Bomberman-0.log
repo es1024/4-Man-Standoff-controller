@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Coward Bomberman
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sb,N,Sa,N,Da,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: -3
+                        Coward: 1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Coward Bomberman
+SimpleShooter: HanSolo Coward Bomberman
+Coward: HanSolo SimpleShooter Bomberman
+Bomberman: HanSolo SimpleShooter Coward
+Generated: 2014/08/12 10:07:03.172304772 UTC

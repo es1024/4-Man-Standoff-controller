@@ -1,0 +1,16 @@
+Standoff between: Coward Sniper Neo CourageTheDog
+                        Coward: Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Dd,Dc,Dc
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Da,Da,Db,N,Sa,N,Da,Da,Sa
+Final Health:
+                        Coward: -1
+                        Sniper: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Sniper Neo
+Sniper: CourageTheDog Coward Neo
+Neo: CourageTheDog Coward Sniper
+CourageTheDog: Neo Coward Sniper
+Generated: 2014/08/12 07:32:26.895852709 UTC

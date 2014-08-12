@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd,N,Sd
+      PoliticallyCorrectGunman: Sc,N,Sb,N,N
+                        Coward: Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,Db,N,Dc
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                        Coward: 3
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Coward TwentyFourthsAndAHalfCentury StraightShooter
+Coward: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Coward StraightShooter
+Generated: 2014/08/12 09:22:14.858781874 UTC

@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Sniper Neo CourageTheDog
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Db,Dc,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,N,N,N,Dd,N,N,N,N,N,N,N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Da,Dc,Dc,Sc,N,Dc,Db,Dc,Sb,N,Db,Sc,N,Db,Sb,N,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: CourageTheDog Sniper Neo
+Sniper: CourageTheDog TwentyFourthsAndAHalfCentury Neo
+Neo: CourageTheDog TwentyFourthsAndAHalfCentury Sniper
+CourageTheDog: Neo TwentyFourthsAndAHalfCentury Sniper
+Generated: 2014/08/12 06:02:31.843427423 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Bomberman Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Sc,N,Dc,Dd,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Db,Dd,Da,Dc,Dc,Dc,Dc,Dc,Dd,Da,Da,Dd,Dd,Dc,Dc,Dc,Da,Dd,Db,Dc,Dd,Db,Db,Da,Dc,Dc,Dc,Da,Db,Db,Dc,Dd,Dd,Dc,Dc,Dd,Dc,Db,Dc,Da,Da,Dd,Dd,Dc,Dc,Dc,Dc,Dd
+Final Health:
+                      Pacifist: -15
+                 InputAnalyzer: -2
+                     Bomberman: -19
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja InputAnalyzer Bomberman
+InputAnalyzer: Ninja Pacifist Bomberman
+Bomberman: Ninja Pacifist InputAnalyzer
+Ninja: Bomberman Pacifist InputAnalyzer
+Generated: 2014/08/12 09:19:29.101437843 UTC

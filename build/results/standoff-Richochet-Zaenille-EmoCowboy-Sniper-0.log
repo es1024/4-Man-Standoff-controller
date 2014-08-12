@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille EmoCowboy Sniper
+                     Richochet: Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                        Sniper: Sc,N,N,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -2
+                     EmoCowboy: -4
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Zaenille EmoCowboy Sniper
+Zaenille: Richochet EmoCowboy Sniper
+EmoCowboy: Richochet Zaenille Sniper
+Sniper: Richochet Zaenille EmoCowboy
+Generated: 2014/08/12 05:44:07.543533579 UTC

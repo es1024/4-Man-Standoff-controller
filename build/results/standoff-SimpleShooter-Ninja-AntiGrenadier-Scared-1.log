@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Ninja AntiGrenadier Scared
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+                         Ninja: Da,Da,Db,Dd,Db,Dc,Dc,Dd,Dd,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,Sa,N,Sc,N,Sa,N,Sa
+Final Health:
+                 SimpleShooter: -1
+                         Ninja: -1
+                 AntiGrenadier: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: AntiGrenadier Scared Ninja
+Ninja: AntiGrenadier Scared SimpleShooter
+AntiGrenadier: Ninja Scared SimpleShooter
+Scared: Ninja AntiGrenadier SimpleShooter
+Generated: 2014/08/12 06:52:53.726092607 UTC

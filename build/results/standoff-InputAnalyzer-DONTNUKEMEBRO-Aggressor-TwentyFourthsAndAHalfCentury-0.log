@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Aggressor TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,Da,N
+                 DONTNUKEMEBRO: Da,Sc,N
+                     Aggressor: P,Ta,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Sb
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Aggressor TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer DONTNUKEMEBRO Aggressor
+Generated: 2014/08/12 10:23:46.162823598 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman HanSolo Bomberman
+               StraightShooter: Sc,N,Sc,N,Sc
+      PoliticallyCorrectGunman: Sb,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -1
+                     Bomberman: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman HanSolo Bomberman
+PoliticallyCorrectGunman: StraightShooter HanSolo Bomberman
+HanSolo: StraightShooter PoliticallyCorrectGunman Bomberman
+Bomberman: StraightShooter PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 07:14:28.574533208 UTC

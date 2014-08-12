@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO TwentyFourthsAndAHalfCentury CourageTheDog
+               StraightShooter: Sb,N,Sb,N
+                 DONTNUKEMEBRO: Da,Dd,P,Tc
+  TwentyFourthsAndAHalfCentury: Dd,Db,Da,Db
+                 CourageTheDog: Sb,N,Sa,N
+Final Health:
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -2
+  TwentyFourthsAndAHalfCentury: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: CourageTheDog StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog StraightShooter DONTNUKEMEBRO
+CourageTheDog: TwentyFourthsAndAHalfCentury StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 06:45:34.748633492 UTC

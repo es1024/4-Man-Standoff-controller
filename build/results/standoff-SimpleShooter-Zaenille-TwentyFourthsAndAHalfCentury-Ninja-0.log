@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille TwentyFourthsAndAHalfCentury Ninja
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,Dd,Dd,Dd,Da,Dd,Da,Dd,Dd,Dd,Da,Sa,N
+                         Ninja: Dd,Dd,Dd,Dd,Da,Dc,Dd,Db,Dc,Dc,Dc,Dd,Dd,N,N
+Final Health:
+                 SimpleShooter: 3
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille TwentyFourthsAndAHalfCentury Ninja
+Zaenille: SimpleShooter TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: SimpleShooter Zaenille Ninja
+Ninja: SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:45:20.429972500 UTC

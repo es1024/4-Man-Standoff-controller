@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Bomberman EmoCowboy
+                 InputAnalyzer: Db,Sc
+                     Aggressor: P,Ta
+                     Bomberman: N,N
+                     EmoCowboy: Sd,N
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 2
+                     Bomberman: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Bomberman EmoCowboy
+Aggressor: InputAnalyzer Bomberman EmoCowboy
+Bomberman: InputAnalyzer Aggressor EmoCowboy
+EmoCowboy: InputAnalyzer Aggressor Bomberman
+Generated: 2014/08/12 07:16:07.048599193 UTC

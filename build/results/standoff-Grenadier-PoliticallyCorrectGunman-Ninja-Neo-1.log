@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Ninja Neo
+                     Grenadier: P,Tc,N,N,N,N,N,N,N,N,N,P,N,N
+      PoliticallyCorrectGunman: N,N,Da,N,N,N,N,N,N,N,N,Sd,N,N
+                         Ninja: Dd,Db,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Da,Da,N,N
+Final Health:
+                     Grenadier: -4
+      PoliticallyCorrectGunman: -1
+                         Ninja: -3
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Ninja Neo Grenadier
+Ninja: PoliticallyCorrectGunman Neo Grenadier
+Neo: PoliticallyCorrectGunman Ninja Grenadier
+Generated: 2014/08/12 06:34:07.047883837 UTC

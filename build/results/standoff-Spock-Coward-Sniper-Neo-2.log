@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Sniper Neo
+                         Spock: Sd,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sa,N,Sd,N,Sd
+                        Sniper: Sb,N,Sa,N,Sa,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 3
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Neo Coward Sniper
+Coward: Neo Spock Sniper
+Sniper: Neo Spock Coward
+Neo: Sniper Spock Coward
+Generated: 2014/08/12 07:12:29.644680076 UTC

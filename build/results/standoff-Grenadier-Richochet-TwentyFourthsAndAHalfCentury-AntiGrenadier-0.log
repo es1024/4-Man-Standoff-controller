@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,Tb
+                     Richochet: Sc,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,N,N,Db,Da,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 2
+                     Richochet: -3
+  TwentyFourthsAndAHalfCentury: 0
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet TwentyFourthsAndAHalfCentury AntiGrenadier
+Richochet: Grenadier TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Grenadier Richochet AntiGrenadier
+AntiGrenadier: Grenadier Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:04:13.705545766 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Neo CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Sd,N,Dd,Sd,N,Dd,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N,Dd,N,Dd,Dd,N,Dd,N,N,N,N,N,N,N,Dd,N,Dd,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Sb,N,Sa,N,Dc,Sc,N,Dc,Dc,Dc,Dc,Sc,N,Dc,Sc,N,Dc,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Sc,N,Dc,Sc,N,Dc,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -3
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog PoliticallyCorrectGunman Neo
+PoliticallyCorrectGunman: CourageTheDog StraightShooter Neo
+Neo: CourageTheDog StraightShooter PoliticallyCorrectGunman
+CourageTheDog: Neo StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 07:43:29.461412269 UTC

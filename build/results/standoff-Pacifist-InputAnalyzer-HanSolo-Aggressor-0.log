@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer HanSolo Aggressor
+                      Pacifist: N,N,N
+                 InputAnalyzer: Da,Dc,N
+                       HanSolo: Sa,N,Sd
+                     Aggressor: P,Tb,Sc
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                       HanSolo: 0
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer HanSolo Aggressor
+InputAnalyzer: Pacifist HanSolo Aggressor
+HanSolo: Pacifist InputAnalyzer Aggressor
+Aggressor: Pacifist InputAnalyzer HanSolo
+Generated: 2014/08/12 08:28:13.615643772 UTC

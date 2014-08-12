@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock Coward
+                 InputAnalyzer: Dd,Sa,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,N,N
+                        Coward: Sb,N,Sc,N,Dc,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -4
+                         Spock: -1
+                        Coward: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: Coward InputAnalyzer Spock
+Spock: Coward InputAnalyzer PoliticallyCorrectGunman
+Coward: Spock InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 08:32:09.526137436 UTC

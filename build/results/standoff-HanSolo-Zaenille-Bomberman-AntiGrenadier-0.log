@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Bomberman AntiGrenadier
+                       HanSolo: Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                      Zaenille: -4
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Bomberman AntiGrenadier
+Zaenille: HanSolo Bomberman AntiGrenadier
+Bomberman: HanSolo Zaenille AntiGrenadier
+AntiGrenadier: HanSolo Zaenille Bomberman
+Generated: 2014/08/12 06:07:44.451960026 UTC

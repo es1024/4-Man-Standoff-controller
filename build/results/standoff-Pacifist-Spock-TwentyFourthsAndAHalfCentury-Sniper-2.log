@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock TwentyFourthsAndAHalfCentury Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,N,N,N,N,N,Db,Sd,N,Sb,N,Sb
+                        Sniper: Sa,N,Sc,N,Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Spock TwentyFourthsAndAHalfCentury
+Spock: Sniper Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Pacifist Spock
+Sniper: TwentyFourthsAndAHalfCentury Pacifist Spock
+Generated: 2014/08/12 10:31:02.957890363 UTC

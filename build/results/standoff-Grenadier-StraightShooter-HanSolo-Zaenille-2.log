@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter HanSolo Zaenille
+                     Grenadier: P,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa
+                       HanSolo: Sd,N,Sa,N,Sb
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+                     Grenadier: -7
+               StraightShooter: 0
+                       HanSolo: 2
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille StraightShooter HanSolo
+StraightShooter: Zaenille Grenadier HanSolo
+HanSolo: Zaenille Grenadier StraightShooter
+Zaenille: HanSolo Grenadier StraightShooter
+Generated: 2014/08/12 08:31:32.126882551 UTC

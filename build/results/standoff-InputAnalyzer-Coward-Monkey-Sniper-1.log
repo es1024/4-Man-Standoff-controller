@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Monkey Sniper
+                 InputAnalyzer: Dc,Db,Sa,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,Sd,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -6
+                        Coward: 5
+                        Monkey: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Sniper Coward
+Coward: Monkey Sniper InputAnalyzer
+Monkey: Coward Sniper InputAnalyzer
+Sniper: Coward Monkey InputAnalyzer
+Generated: 2014/08/12 10:25:24.729146675 UTC

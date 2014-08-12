@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor AntiGrenadier Rule0Bot
+                        Coward: Sc,N
+                     Aggressor: P,Td
+                 AntiGrenadier: N,Sb
+                      Rule0Bot: N,Sb
+Final Health:
+                        Coward: 2
+                     Aggressor: -2
+                 AntiGrenadier: 0
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot Aggressor AntiGrenadier
+Aggressor: Rule0Bot Coward AntiGrenadier
+AntiGrenadier: Rule0Bot Coward Aggressor
+Rule0Bot: AntiGrenadier Coward Aggressor
+Generated: 2014/08/12 06:21:07.815806186 UTC

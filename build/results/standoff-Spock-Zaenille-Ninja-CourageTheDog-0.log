@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille Ninja CourageTheDog
+                         Spock: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sb,N,Sb
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Da,Da,Dc,Db,Db,Da,Db,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Dc,Dc,Sc,N,Da,Dc,Da,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                      Zaenille: -4
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Zaenille Ninja CourageTheDog
+Zaenille: Spock Ninja CourageTheDog
+Ninja: Spock Zaenille CourageTheDog
+CourageTheDog: Spock Zaenille Ninja
+Generated: 2014/08/12 05:47:08.809023926 UTC

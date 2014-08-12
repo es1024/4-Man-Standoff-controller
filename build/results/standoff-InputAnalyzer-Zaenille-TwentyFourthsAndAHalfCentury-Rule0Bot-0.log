@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury Rule0Bot
+                 InputAnalyzer: Db,Sd,N,Sc,N,Dd,Db,P,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dd,Dd,Dd,Dd,Dd,Sd,N,Sa,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille TwentyFourthsAndAHalfCentury Rule0Bot
+Zaenille: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: InputAnalyzer Zaenille Rule0Bot
+Rule0Bot: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:44:37.444539603 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,N,Db,Sd,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,Da,N,Sd,N,N,Db,Db,Db,Da,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,Db,Da,Db,Db,Db,Da,Db,Db,Db,Da,Db,Db,N,N,Db,N,N,N,N,N,N,N,Db,Db,Db,Db,Db,Da,Db,Da,Db,Db,Db,Da,Db,Db,Db,Da,Db,Da,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                        Monkey: -15
+  TwentyFourthsAndAHalfCentury: -15
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury AntiGrenadier Monkey
+Monkey: TwentyFourthsAndAHalfCentury AntiGrenadier StraightShooter
+TwentyFourthsAndAHalfCentury: Monkey AntiGrenadier StraightShooter
+AntiGrenadier: Monkey TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 06:21:32.796003208 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter AntiGrenadier
+                 InputAnalyzer: Dd,P,Sa
+                         Spock: Sd,N,Sd
+                 SimpleShooter: Sb,N,Sa
+                 AntiGrenadier: N,N,Sa
+Final Health:
+                 InputAnalyzer: -12
+                         Spock: 0
+                 SimpleShooter: 2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Spock SimpleShooter
+Spock: AntiGrenadier InputAnalyzer SimpleShooter
+SimpleShooter: AntiGrenadier InputAnalyzer Spock
+AntiGrenadier: SimpleShooter InputAnalyzer Spock
+Generated: 2014/08/12 07:45:48.622673035 UTC

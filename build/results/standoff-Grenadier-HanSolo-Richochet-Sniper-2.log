@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Richochet Sniper
+                     Grenadier: P,N,N
+                       HanSolo: Sd,N,Sd
+                     Richochet: Sd,N,Sa
+                        Sniper: Sc,N,Sa
+Final Health:
+                     Grenadier: -5
+                       HanSolo: 2
+                     Richochet: 0
+                        Sniper: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper HanSolo Richochet
+HanSolo: Sniper Grenadier Richochet
+Richochet: Sniper Grenadier HanSolo
+Sniper: Richochet Grenadier HanSolo
+Generated: 2014/08/12 09:04:54.338480718 UTC

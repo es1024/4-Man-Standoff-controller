@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet EmoCowboy Rule0Bot
+                        Coward: Sd,N,Sb,N,Sb,N,Sb
+                     Richochet: Sc,N,Sa,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: -1
+                     EmoCowboy: -4
+                      Rule0Bot: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet EmoCowboy Rule0Bot
+Richochet: Coward EmoCowboy Rule0Bot
+EmoCowboy: Coward Richochet Rule0Bot
+Rule0Bot: Coward Richochet EmoCowboy
+Generated: 2014/08/12 09:34:11.204644994 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman AntiGrenadier Scared
+                     Aggressor: P,Tc
+                     Bomberman: N,N
+                 AntiGrenadier: N,Sa
+                        Scared: Sb,N
+Final Health:
+                     Aggressor: 0
+                     Bomberman: 0
+                 AntiGrenadier: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: AntiGrenadier Scared Bomberman
+Bomberman: AntiGrenadier Scared Aggressor
+AntiGrenadier: Bomberman Scared Aggressor
+Scared: Bomberman AntiGrenadier Aggressor
+Generated: 2014/08/12 07:33:25.979939123 UTC

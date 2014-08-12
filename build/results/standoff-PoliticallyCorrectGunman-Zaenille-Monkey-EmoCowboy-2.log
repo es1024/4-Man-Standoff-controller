@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Monkey EmoCowboy
+      PoliticallyCorrectGunman: N,N,N,N,Db,N,N,Sd,N,Db,N,Sc,N,P,Sb,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -2
+                        Monkey: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy Zaenille Monkey
+Zaenille: EmoCowboy PoliticallyCorrectGunman Monkey
+Monkey: EmoCowboy PoliticallyCorrectGunman Zaenille
+EmoCowboy: Monkey PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 08:46:47.910227153 UTC

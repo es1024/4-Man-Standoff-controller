@@ -1,0 +1,16 @@
+Standoff between: HanSolo AntiGrenadier Rule0Bot CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Da,Sc,N,Dc,Da,Sa,N,Sa,N,Da,Da,Da,Da,Da,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Rule0Bot CourageTheDog
+AntiGrenadier: HanSolo Rule0Bot CourageTheDog
+Rule0Bot: HanSolo AntiGrenadier CourageTheDog
+CourageTheDog: HanSolo AntiGrenadier Rule0Bot
+Generated: 2014/08/12 08:31:36.681821845 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock TwentyFourthsAndAHalfCentury Neo
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N
+                         Spock: Sd,N,N,N,N,N,Sd,N,Sd,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Da,N,Da,Sa,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo Spock TwentyFourthsAndAHalfCentury
+Spock: Neo HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo HanSolo Spock
+Neo: TwentyFourthsAndAHalfCentury HanSolo Spock
+Generated: 2014/08/12 07:47:43.701836741 UTC

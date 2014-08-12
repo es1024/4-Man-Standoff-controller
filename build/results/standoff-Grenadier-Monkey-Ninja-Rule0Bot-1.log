@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Ninja Rule0Bot
+                     Grenadier: N,N,P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Db,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Da,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+                        Monkey: -18
+                         Ninja: -3
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Rule0Bot Monkey
+Monkey: Ninja Rule0Bot Grenadier
+Ninja: Monkey Rule0Bot Grenadier
+Rule0Bot: Monkey Ninja Grenadier
+Generated: 2014/08/12 07:14:59.594567918 UTC

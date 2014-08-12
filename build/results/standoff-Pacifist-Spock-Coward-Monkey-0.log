@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Coward Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,Sa
+                        Coward: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                        Monkey: N,Sa,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                        Coward: 5
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Coward Monkey
+Spock: Pacifist Coward Monkey
+Coward: Pacifist Spock Monkey
+Monkey: Pacifist Spock Coward
+Generated: 2014/08/12 06:53:17.228778321 UTC

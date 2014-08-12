@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet EmoCowboy AntiGrenadier
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sb
+                     Richochet: Sa,N,Sa,N,Sd,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 3
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy AntiGrenadier Richochet
+Richochet: EmoCowboy AntiGrenadier HanSolo
+EmoCowboy: Richochet AntiGrenadier HanSolo
+AntiGrenadier: Richochet EmoCowboy HanSolo
+Generated: 2014/08/12 07:05:33.060733143 UTC

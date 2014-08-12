@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille TwentyFourthsAndAHalfCentury Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille TwentyFourthsAndAHalfCentury Bomberman
+Zaenille: Pacifist TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Pacifist Zaenille Bomberman
+Bomberman: Pacifist Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:29:08.821656254 UTC

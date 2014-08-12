@@ -1,0 +1,16 @@
+Standoff between: Coward AntiGrenadier Sniper CourageTheDog
+                        Coward: Sb,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Dc,Db,Db,Db,Dc,Db,Dc,Db,Db,Db,Dc,Dc,Sc,N,Dc,Db,Db,Sc,N,Dc,Sb,N,Dc,Dc,Dc,Sc
+Final Health:
+                        Coward: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Sniper CourageTheDog AntiGrenadier
+AntiGrenadier: Sniper CourageTheDog Coward
+Sniper: AntiGrenadier CourageTheDog Coward
+CourageTheDog: AntiGrenadier Sniper Coward
+Generated: 2014/08/12 10:45:35.391689585 UTC

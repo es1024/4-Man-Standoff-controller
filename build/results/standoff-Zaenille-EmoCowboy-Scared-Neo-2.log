@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy Scared Neo
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,N,N,Sd,N,N,N,N,Sd,N,N,Sd,N,Sd
+                           Neo: N,N,Dc,N,N,N,N,N,N,N,N,Dc,Sc,N,N,Sc,N
+Final Health:
+                      Zaenille: -2
+                     EmoCowboy: -4
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Neo EmoCowboy Scared
+EmoCowboy: Neo Zaenille Scared
+Scared: Neo Zaenille EmoCowboy
+Neo: Scared Zaenille EmoCowboy
+Generated: 2014/08/12 10:22:04.857646261 UTC

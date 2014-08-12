@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Ninja Sniper Scared
+                 InputAnalyzer: Db,Dd,Db,P,Da
+                         Ninja: Dd,Dd,Da,Db,Dc
+                        Sniper: Sd,N,Sa,N,Sa
+                        Scared: Sa,N,Sc,N,Sa
+Final Health:
+                 InputAnalyzer: -9
+                         Ninja: 2
+                        Sniper: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Sniper Scared
+Ninja: InputAnalyzer Sniper Scared
+Sniper: InputAnalyzer Ninja Scared
+Scared: InputAnalyzer Ninja Sniper
+Generated: 2014/08/12 07:28:30.398088828 UTC

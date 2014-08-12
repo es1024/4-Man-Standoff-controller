@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock SimpleShooter Bomberman
+                     Grenadier: N,P,Tc
+                         Spock: Sd,N,Sd
+                 SimpleShooter: Sb,N,Sa
+                     Bomberman: N,N,N
+Final Health:
+                     Grenadier: 0
+                         Spock: 0
+                 SimpleShooter: -3
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Spock SimpleShooter
+Spock: Bomberman Grenadier SimpleShooter
+SimpleShooter: Bomberman Grenadier Spock
+Bomberman: SimpleShooter Grenadier Spock
+Generated: 2014/08/12 06:22:24.957419959 UTC

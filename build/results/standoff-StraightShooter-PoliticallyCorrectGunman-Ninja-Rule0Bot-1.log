@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Ninja Rule0Bot
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+      PoliticallyCorrectGunman: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Dc,N,N,Sd,N,P,N,N
+                         Ninja: Da,Da,Dc,Db,Dc,Db,Dd,Db,Da,Da,Db,Dd,Da,Dc,Da,Dc,Dc,Dc,Db,Da,Dd,Dc,Db,Da,Dc,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 2
+      PoliticallyCorrectGunman: -1
+                         Ninja: 0
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Rule0Bot PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Ninja Rule0Bot StraightShooter
+Ninja: PoliticallyCorrectGunman Rule0Bot StraightShooter
+Rule0Bot: PoliticallyCorrectGunman Ninja StraightShooter
+Generated: 2014/08/12 09:50:46.507453356 UTC

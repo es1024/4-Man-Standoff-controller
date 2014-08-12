@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor TwentyFourthsAndAHalfCentury Neo
+                       HanSolo: Sc,N,Sd,N,Sb
+                     Aggressor: P,Tc,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,Dd,N,N,N
+                           Neo: N,Dc,N,N,N
+Final Health:
+                       HanSolo: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury Neo Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury Neo HanSolo
+TwentyFourthsAndAHalfCentury: Aggressor Neo HanSolo
+Neo: Aggressor TwentyFourthsAndAHalfCentury HanSolo
+Generated: 2014/08/12 06:56:41.057008812 UTC

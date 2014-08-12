@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury Ninja
+                 InputAnalyzer: Dd,Sa,N
+                     Aggressor: P,Td,Sc
+  TwentyFourthsAndAHalfCentury: Dd,N,N
+                         Ninja: Dc,Db,N
+Final Health:
+                 InputAnalyzer: -5
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Ninja InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja InputAnalyzer Aggressor
+Ninja: TwentyFourthsAndAHalfCentury InputAnalyzer Aggressor
+Generated: 2014/08/12 08:47:35.798922606 UTC

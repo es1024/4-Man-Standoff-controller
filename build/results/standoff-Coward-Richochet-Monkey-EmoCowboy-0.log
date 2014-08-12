@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Monkey EmoCowboy
+                        Coward: Sd,N,Sc,N,Sc,N,Sb,N,Db,Dd,Db,Sb,N
+                     Richochet: Sd,N,Sa,N,Sc,N,Sa,N,Sa,N,Sa,N,Sa
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: 1
+                        Monkey: -1
+                     EmoCowboy: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet Monkey EmoCowboy
+Richochet: Coward Monkey EmoCowboy
+Monkey: Coward Richochet EmoCowboy
+EmoCowboy: Coward Richochet Monkey
+Generated: 2014/08/12 08:02:13.722383390 UTC

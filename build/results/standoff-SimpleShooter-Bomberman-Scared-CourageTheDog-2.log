@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman Scared CourageTheDog
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sc,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,Sb,N,Sa,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Db,Dc,Sa,N,Db,Db,Db,Sb
+Final Health:
+                 SimpleShooter: -3
+                     Bomberman: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog Bomberman Scared
+Bomberman: CourageTheDog SimpleShooter Scared
+Scared: CourageTheDog SimpleShooter Bomberman
+CourageTheDog: Scared SimpleShooter Bomberman
+Generated: 2014/08/12 05:44:33.048901476 UTC

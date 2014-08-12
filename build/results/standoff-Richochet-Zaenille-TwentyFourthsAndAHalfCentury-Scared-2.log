@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille TwentyFourthsAndAHalfCentury Scared
+                     Richochet: Sb,N,Sc,N,Sc,N,Sd,N,Sc,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Da,N,Da,N,Dd,N,N,N
+                        Scared: N,N,N,N,Sa,N,Sc,N,N,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Scared Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Richochet Zaenille
+Scared: TwentyFourthsAndAHalfCentury Richochet Zaenille
+Generated: 2014/08/12 06:25:03.328686517 UTC

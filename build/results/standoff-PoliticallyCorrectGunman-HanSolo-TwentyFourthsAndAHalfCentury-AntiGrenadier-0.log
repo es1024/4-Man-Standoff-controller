@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury AntiGrenadier
+      PoliticallyCorrectGunman: P,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,N,N,N
+                 AntiGrenadier: N,Sa,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -7
+                       HanSolo: 2
+  TwentyFourthsAndAHalfCentury: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo TwentyFourthsAndAHalfCentury AntiGrenadier
+HanSolo: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman HanSolo AntiGrenadier
+AntiGrenadier: PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:40:25.763206641 UTC

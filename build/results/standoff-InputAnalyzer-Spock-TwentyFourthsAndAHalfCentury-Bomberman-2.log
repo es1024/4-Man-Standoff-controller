@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock TwentyFourthsAndAHalfCentury Bomberman
+                 InputAnalyzer: Dd,Dc,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,N,Db,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Spock TwentyFourthsAndAHalfCentury
+Spock: Bomberman InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman InputAnalyzer Spock
+Bomberman: TwentyFourthsAndAHalfCentury InputAnalyzer Spock
+Generated: 2014/08/12 09:21:18.768916759 UTC

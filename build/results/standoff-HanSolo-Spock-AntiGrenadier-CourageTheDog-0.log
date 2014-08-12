@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock AntiGrenadier CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N
+                         Spock: Sa,N,Sa,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sb,N,Sc,N,N,Sa
+Final Health:
+                       HanSolo: -1
+                         Spock: -3
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock AntiGrenadier CourageTheDog
+Spock: HanSolo AntiGrenadier CourageTheDog
+AntiGrenadier: HanSolo Spock CourageTheDog
+CourageTheDog: HanSolo Spock AntiGrenadier
+Generated: 2014/08/12 08:06:31.997195349 UTC

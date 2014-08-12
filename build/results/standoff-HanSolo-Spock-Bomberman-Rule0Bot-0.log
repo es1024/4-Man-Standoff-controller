@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Bomberman Rule0Bot
+                       HanSolo: Sb,N,Sb,N,Sb,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,P,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                     Bomberman: -1
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock Bomberman Rule0Bot
+Spock: HanSolo Bomberman Rule0Bot
+Bomberman: HanSolo Spock Rule0Bot
+Rule0Bot: HanSolo Spock Bomberman
+Generated: 2014/08/12 05:43:50.818598317 UTC

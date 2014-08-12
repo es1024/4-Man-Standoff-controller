@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury Ninja
+                 InputAnalyzer: Dd,Sa,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,Dd,Db,Dd,Dd,Dd,Dd,N,N,N,N
+                         Ninja: Dc,Dc,Dc,Da,Da,Dc,Dc,Dc,Dd,Dd,Db,Dd,Dd
+Final Health:
+                 InputAnalyzer: -2
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Ninja InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja InputAnalyzer SimpleShooter
+Ninja: TwentyFourthsAndAHalfCentury InputAnalyzer SimpleShooter
+Generated: 2014/08/12 08:22:34.878623868 UTC

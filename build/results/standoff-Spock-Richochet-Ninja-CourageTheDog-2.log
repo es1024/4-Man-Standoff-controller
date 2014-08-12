@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Ninja CourageTheDog
+                         Spock: N,N,N,N,N,N,Sd,N,N,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc,N,Sc
+                         Ninja: Dc,Db,Da,Db,Da,Dd,Db,Dc,Dc,Db,Dd,Dc,Da
+                 CourageTheDog: Sa,N,Dc,Sa,N,Db,Da,Sa,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Richochet Ninja
+Richochet: CourageTheDog Spock Ninja
+Ninja: CourageTheDog Spock Richochet
+CourageTheDog: Ninja Spock Richochet
+Generated: 2014/08/12 09:11:17.504398631 UTC

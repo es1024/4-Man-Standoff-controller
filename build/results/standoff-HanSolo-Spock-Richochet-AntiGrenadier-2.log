@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Richochet AntiGrenadier
+                       HanSolo: Sd,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                     Richochet: Sd,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -3
+                     Richochet: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Spock Richochet
+Spock: AntiGrenadier HanSolo Richochet
+Richochet: AntiGrenadier HanSolo Spock
+AntiGrenadier: Richochet HanSolo Spock
+Generated: 2014/08/12 06:03:39.365708115 UTC

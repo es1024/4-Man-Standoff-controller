@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Bomberman Scared
+                       HanSolo: Sb,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,N,N,N,N,N,N,Sa
+Final Health:
+                       HanSolo: 1
+                      Zaenille: -4
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Bomberman Scared
+Zaenille: HanSolo Bomberman Scared
+Bomberman: HanSolo Zaenille Scared
+Scared: HanSolo Zaenille Bomberman
+Generated: 2014/08/12 06:29:12.208948319 UTC

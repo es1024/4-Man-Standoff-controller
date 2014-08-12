@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Sniper Scared
+                 InputAnalyzer: Db,Dc,P,N,Da
+  TwentyFourthsAndAHalfCentury: N,N,Dc,Da,Da
+                        Sniper: Sb,N,Sd,N,Sb
+                        Scared: N,Sc,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+  TwentyFourthsAndAHalfCentury: -2
+                        Sniper: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Sniper Scared
+TwentyFourthsAndAHalfCentury: InputAnalyzer Sniper Scared
+Sniper: InputAnalyzer TwentyFourthsAndAHalfCentury Scared
+Scared: InputAnalyzer TwentyFourthsAndAHalfCentury Sniper
+Generated: 2014/08/12 06:41:24.832295346 UTC

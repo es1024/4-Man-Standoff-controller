@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dd,Dc,Sc,N,Sd,N,Sd,N,Sd,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Sb,N,Dc,Sc,N,Db,Dc,N,N
+Final Health:
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 3
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: TwentyFourthsAndAHalfCentury AntiGrenadier CourageTheDog
+TwentyFourthsAndAHalfCentury: Zaenille AntiGrenadier CourageTheDog
+AntiGrenadier: Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 07:17:05.891238495 UTC

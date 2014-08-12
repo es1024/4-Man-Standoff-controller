@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey EmoCowboy Neo
+                        Coward: Sc,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,N,N,Sb,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,N,N,Db,Da,Sa,N,Sa,N,Sa
+Final Health:
+                        Coward: -1
+                        Monkey: -2
+                     EmoCowboy: -4
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Neo Monkey EmoCowboy
+Monkey: Neo Coward EmoCowboy
+EmoCowboy: Neo Coward Monkey
+Neo: EmoCowboy Coward Monkey
+Generated: 2014/08/12 09:29:11.414228957 UTC

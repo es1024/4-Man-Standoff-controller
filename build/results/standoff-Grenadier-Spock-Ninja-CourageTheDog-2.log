@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Ninja CourageTheDog
+                     Grenadier: P,Tc
+                         Spock: Sd,N
+                         Ninja: Dc,Dd
+                 CourageTheDog: Sb,N
+Final Health:
+                     Grenadier: 2
+                         Spock: 0
+                         Ninja: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Spock Ninja
+Spock: CourageTheDog Grenadier Ninja
+Ninja: CourageTheDog Grenadier Spock
+CourageTheDog: Ninja Grenadier Spock
+Generated: 2014/08/12 05:43:46.323508470 UTC

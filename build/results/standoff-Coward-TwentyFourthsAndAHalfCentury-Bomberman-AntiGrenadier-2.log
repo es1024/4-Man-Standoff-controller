@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,Dd,Da,Dd,Dd,Dd,Dd,Dd,Da,Dd,Dd,Dd,Dd,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: AntiGrenadier Coward Bomberman
+Bomberman: AntiGrenadier Coward TwentyFourthsAndAHalfCentury
+AntiGrenadier: Bomberman Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:37:53.900039917 UTC

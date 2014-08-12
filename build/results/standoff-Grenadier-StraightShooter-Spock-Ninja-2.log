@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Spock Ninja
+                     Grenadier: N,P,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa
+                         Spock: Sd,N,Sa,N,Sd,N,Sb
+                         Ninja: Dc,Da,Db,Dd,Db,N,N
+Final Health:
+                     Grenadier: -7
+               StraightShooter: 0
+                         Spock: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja StraightShooter Spock
+StraightShooter: Ninja Grenadier Spock
+Spock: Ninja Grenadier StraightShooter
+Ninja: Spock Grenadier StraightShooter
+Generated: 2014/08/12 09:01:40.388263843 UTC

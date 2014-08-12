@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Bomberman CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,N
+                     Richochet: Sc,N,Sa,N,Sc,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Da,Db,Sa,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                     Bomberman: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman CourageTheDog Richochet
+Richochet: Bomberman CourageTheDog StraightShooter
+Bomberman: Richochet CourageTheDog StraightShooter
+CourageTheDog: Richochet Bomberman StraightShooter
+Generated: 2014/08/12 06:35:39.915038220 UTC

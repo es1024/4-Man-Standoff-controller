@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Scared CourageTheDog
+                 SimpleShooter: Sd,N,Sd,N,Sc,N,Sd,N,Sd,N,Sd,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,N,Sa,N,Sa,N
+                 CourageTheDog: Sc,N,Db,Da,Sb,N,Da,Db,Da,Sb,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                        Monkey: -1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey Scared CourageTheDog
+Monkey: SimpleShooter Scared CourageTheDog
+Scared: SimpleShooter Monkey CourageTheDog
+CourageTheDog: SimpleShooter Monkey Scared
+Generated: 2014/08/12 06:05:08.062533845 UTC

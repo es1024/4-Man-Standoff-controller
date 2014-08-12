@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Monkey Ninja
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Richochet: Sc,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,Db,Db,N,N,N,Dc,Db,N,N,Db,N,Sb,N,Da,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Db,Db,N,N,Sb,N,N,Da,Da,N,Sb,N,Dd,Dd,Db
+                         Ninja: Dc,Db,Dd,Dd,Dd,Dc,Dc,Db,Dd,Da,Db,Dc,Db,Dd,Da,Dd,Db,Dc,Dd,Da,Db,Dc,Da,Dd,Dc,Dd,Dc,Db,Dd,Dd,Db,Da,Db,Db,Db,Da,Dd,Dc,Dc,Db,Dd,Da,Da,Db,Dc,Da,Dd,Da,Db,Dd
+Final Health:
+               StraightShooter: -17
+                     Richochet: -1
+                        Monkey: -19
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Richochet Monkey
+Richochet: Ninja StraightShooter Monkey
+Monkey: Ninja StraightShooter Richochet
+Ninja: Monkey StraightShooter Richochet
+Generated: 2014/08/12 06:58:10.131397317 UTC

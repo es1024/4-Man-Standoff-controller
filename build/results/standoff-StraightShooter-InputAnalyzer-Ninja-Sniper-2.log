@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Ninja Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 InputAnalyzer: Dd,Dc,Dd,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Da,Da,Dc,Dc,Dc,Dc,Dc,Db,Db,Db,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Db,Dd,Dd,Da,Dc,Dd,Db,Dd,Dd,Dc,Dc,Da,Db,Db,Dd,Dd,Dc,Da,Dc,Dd,Db,Db,Dc,Dc,Dc
+                        Sniper: Sb,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                 InputAnalyzer: -3
+                         Ninja: -17
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper InputAnalyzer Ninja
+InputAnalyzer: Sniper StraightShooter Ninja
+Ninja: Sniper StraightShooter InputAnalyzer
+Sniper: Ninja StraightShooter InputAnalyzer
+Generated: 2014/08/12 08:54:53.684834315 UTC

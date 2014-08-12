@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Ninja Neo
+                     Grenadier: P,Tb,N,N,N,N,P,N,N
+                     Richochet: Sc,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,N,Dc,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                     Richochet: -3
+                         Ninja: 0
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Ninja Neo
+Richochet: Grenadier Ninja Neo
+Ninja: Grenadier Richochet Neo
+Neo: Grenadier Richochet Ninja
+Generated: 2014/08/12 09:52:57.324739078 UTC

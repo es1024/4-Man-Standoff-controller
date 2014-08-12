@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury EmoCowboy
+                 InputAnalyzer: Db,P,Da,Dc,N
+                     Richochet: Sa,N,Sa,N,Sc
+  TwentyFourthsAndAHalfCentury: Db,Da,Db,Da,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet TwentyFourthsAndAHalfCentury EmoCowboy
+Richochet: InputAnalyzer TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: InputAnalyzer Richochet EmoCowboy
+EmoCowboy: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:15:48.659088435 UTC

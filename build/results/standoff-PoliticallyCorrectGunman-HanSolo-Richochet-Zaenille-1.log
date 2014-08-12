@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Richochet Zaenille
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sa,N,Sa
+                     Richochet: Sd,N,Sb,N,Sa,N,N,N,N
+                      Zaenille: Sd,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 3
+                     Richochet: -1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Zaenille HanSolo
+HanSolo: Richochet Zaenille PoliticallyCorrectGunman
+Richochet: HanSolo Zaenille PoliticallyCorrectGunman
+Zaenille: HanSolo Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 07:47:20.425686559 UTC

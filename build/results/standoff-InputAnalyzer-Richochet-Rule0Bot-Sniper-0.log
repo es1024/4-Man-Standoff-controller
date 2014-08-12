@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Rule0Bot Sniper
+                 InputAnalyzer: Db,Dd,P,Dc,Sd
+                     Richochet: Sc,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,Sa,N
+                        Sniper: Sa,N,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -3
+                     Richochet: 2
+                      Rule0Bot: -4
+                        Sniper: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Rule0Bot Sniper
+Richochet: InputAnalyzer Rule0Bot Sniper
+Rule0Bot: InputAnalyzer Richochet Sniper
+Sniper: InputAnalyzer Richochet Rule0Bot
+Generated: 2014/08/12 09:17:00.035282204 UTC

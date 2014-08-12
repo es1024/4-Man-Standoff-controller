@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy Ninja CourageTheDog
+                        Coward: Sd,N,Sd,N,Dd,Sd,N,Dd,Sc,N,Sc,N,Sc,N,Dd,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dc,Da,Db,Da,Dc,Dc,Da,Dd,Dc,Db,Da,Dd,Dc,Dc
+                 CourageTheDog: Sa,N,Sa,N,Da,Sc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                     EmoCowboy: -2
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy Ninja CourageTheDog
+EmoCowboy: Coward Ninja CourageTheDog
+Ninja: Coward EmoCowboy CourageTheDog
+CourageTheDog: Coward EmoCowboy Ninja
+Generated: 2014/08/12 08:21:08.670966583 UTC

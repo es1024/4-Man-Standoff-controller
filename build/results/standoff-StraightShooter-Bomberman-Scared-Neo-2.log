@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Bomberman Scared Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sa,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sa
+                           Neo: N,N,Db,Db,N,N,N,N,N,N,N,N,N,Sa,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Bomberman: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Bomberman Scared
+Bomberman: Neo StraightShooter Scared
+Scared: Neo StraightShooter Bomberman
+Neo: Scared StraightShooter Bomberman
+Generated: 2014/08/12 08:21:20.870708441 UTC

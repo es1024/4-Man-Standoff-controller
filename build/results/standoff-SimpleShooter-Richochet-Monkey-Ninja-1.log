@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Monkey Ninja
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sb,N,Sc,N,Sb
+                     Richochet: Sc,N,Sa,N,Sa,N,Sd,N,Sc,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Da,Dd,Dd,Db,Dc,Dc,Da,Da,Dc
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                        Monkey: -1
+                         Ninja: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey Ninja Richochet
+Richochet: Monkey Ninja SimpleShooter
+Monkey: Richochet Ninja SimpleShooter
+Ninja: Richochet Monkey SimpleShooter
+Generated: 2014/08/12 08:58:49.141263390 UTC

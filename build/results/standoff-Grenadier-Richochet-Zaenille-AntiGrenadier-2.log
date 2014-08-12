@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Zaenille AntiGrenadier
+                     Grenadier: N,P,N,N
+                     Richochet: Sd,N,Sa,N
+                      Zaenille: Sc,N,N,N
+                 AntiGrenadier: N,N,Sa,N
+Final Health:
+                     Grenadier: -5
+                     Richochet: 2
+                      Zaenille: -2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Richochet Zaenille
+Richochet: AntiGrenadier Grenadier Zaenille
+Zaenille: AntiGrenadier Grenadier Richochet
+AntiGrenadier: Zaenille Grenadier Richochet
+Generated: 2014/08/12 09:04:52.440945969 UTC

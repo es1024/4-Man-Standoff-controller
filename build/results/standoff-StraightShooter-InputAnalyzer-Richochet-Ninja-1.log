@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Richochet Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Dd,Sa,N,Sc,N,Db,Dc,P
+                     Richochet: Sd,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb
+                         Ninja: Dc,Dc,Da,Da,Da,Da,Da,Da,Da,Dd,Dd
+Final Health:
+               StraightShooter: -3
+                 InputAnalyzer: -7
+                     Richochet: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Ninja InputAnalyzer
+InputAnalyzer: Richochet Ninja StraightShooter
+Richochet: InputAnalyzer Ninja StraightShooter
+Ninja: InputAnalyzer Richochet StraightShooter
+Generated: 2014/08/12 08:23:53.954613353 UTC

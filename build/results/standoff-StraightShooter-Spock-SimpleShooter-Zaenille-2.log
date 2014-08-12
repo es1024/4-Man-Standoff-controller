@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock SimpleShooter Zaenille
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+                         Spock: Sd,N,Sd,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille Spock SimpleShooter
+Spock: Zaenille StraightShooter SimpleShooter
+SimpleShooter: Zaenille StraightShooter Spock
+Zaenille: SimpleShooter StraightShooter Spock
+Generated: 2014/08/12 08:27:00.115056860 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist HanSolo Neo
+                     Grenadier: N,N,N,N,N,N,N,P,Tc
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                           Neo: N,N,N,N,N,N,Da,Da,Da
+Final Health:
+                     Grenadier: 2
+                      Pacifist: -1
+                       HanSolo: -3
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Neo Pacifist
+Pacifist: HanSolo Neo Grenadier
+HanSolo: Pacifist Neo Grenadier
+Neo: Pacifist HanSolo Grenadier
+Generated: 2014/08/12 06:02:41.568316770 UTC

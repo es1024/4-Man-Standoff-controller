@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Neo CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,N,N,N,N,N,N,N,N,N,N,Da,Sa,N,N,N,Sa,N,Sa
+                 CourageTheDog: Sb,N,Sc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     EmoCowboy: -4
+                           Neo: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo CourageTheDog EmoCowboy
+EmoCowboy: Neo CourageTheDog StraightShooter
+Neo: EmoCowboy CourageTheDog StraightShooter
+CourageTheDog: EmoCowboy Neo StraightShooter
+Generated: 2014/08/12 09:51:55.076247764 UTC

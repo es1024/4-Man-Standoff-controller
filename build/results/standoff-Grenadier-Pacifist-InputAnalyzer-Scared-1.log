@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist InputAnalyzer Scared
+                     Grenadier: P,Td,N,P,Tb
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Db,Sd,N,N,N
+                        Scared: Sc,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -6
+                 InputAnalyzer: 0
+                        Scared: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Scared Pacifist
+Pacifist: InputAnalyzer Scared Grenadier
+InputAnalyzer: Pacifist Scared Grenadier
+Scared: Pacifist InputAnalyzer Grenadier
+Generated: 2014/08/12 08:08:58.419317792 UTC

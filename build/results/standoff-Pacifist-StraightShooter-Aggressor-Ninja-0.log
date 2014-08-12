@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Aggressor Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     Aggressor: P,Ta,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Da,Da,Dd,Dd,Dd,Dc,Dc,Dc,Dc,Dd,Dd,Dd,Db,Db,Db,Dc,Dc,Da,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Da,Da,Da,Dc,Dc,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Da,Da,Da,Dc
+Final Health:
+                      Pacifist: -3
+               StraightShooter: -18
+                     Aggressor: 0
+                         Ninja: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Aggressor Ninja
+StraightShooter: Pacifist Aggressor Ninja
+Aggressor: Pacifist StraightShooter Ninja
+Ninja: Pacifist StraightShooter Aggressor
+Generated: 2014/08/12 07:16:57.304966410 UTC

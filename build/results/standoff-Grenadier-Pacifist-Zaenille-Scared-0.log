@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Zaenille Scared
+                     Grenadier: P,Td
+                      Pacifist: N,N
+                      Zaenille: Sc,N
+                        Scared: Sb,N
+Final Health:
+                     Grenadier: 2
+                      Pacifist: 0
+                      Zaenille: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist Zaenille Scared
+Pacifist: Grenadier Zaenille Scared
+Zaenille: Grenadier Pacifist Scared
+Scared: Grenadier Pacifist Zaenille
+Generated: 2014/08/12 05:44:03.982037271 UTC

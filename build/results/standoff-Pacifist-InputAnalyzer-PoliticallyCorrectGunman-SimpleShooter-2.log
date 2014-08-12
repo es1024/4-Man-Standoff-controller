@@ -1,16 +1,16 @@
 Standoff between: Pacifist InputAnalyzer PoliticallyCorrectGunman SimpleShooter
-                      Pacifist: N,N,N,N,N,N,N,N
-                 InputAnalyzer: Dd,P,N,N,N,N,N,N
-      PoliticallyCorrectGunman: Db,Da,Sd,N,N,Dd,Dd,Sa
-                 SimpleShooter: Sb,N,Sb,N,N,N,N,N
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dd,P,Db,Sa,N
+      PoliticallyCorrectGunman: Dd,N,Da,N,N
+                 SimpleShooter: Sb,N,Sb,N,Sc
 Final Health:
                       Pacifist: 0
                  InputAnalyzer: -3
-      PoliticallyCorrectGunman: 2
-                 SimpleShooter: 0
+      PoliticallyCorrectGunman: 0
+                 SimpleShooter: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: SimpleShooter InputAnalyzer PoliticallyCorrectGunman
 InputAnalyzer: SimpleShooter Pacifist PoliticallyCorrectGunman
 PoliticallyCorrectGunman: SimpleShooter Pacifist InputAnalyzer
 SimpleShooter: PoliticallyCorrectGunman Pacifist InputAnalyzer
-Generated: 2014/08/11 00:59:24.552634337 UTC
+Generated: 2014/08/12 09:51:39.087976278 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Sd,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,Dd,N,Dd,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Sc,N,Sd,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,Db,Dc,Db,Dc,N,N,Db,N,N,N,N,N,N,Da,Da,Da,Da,N,N,N,N,N,N,N,N,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -17
+                           Neo: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Neo PoliticallyCorrectGunman Bomberman
+Bomberman: Neo PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Neo: Bomberman PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:25:08.476273489 UTC

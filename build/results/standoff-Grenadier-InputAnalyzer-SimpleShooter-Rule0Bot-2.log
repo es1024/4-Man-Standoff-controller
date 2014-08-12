@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer SimpleShooter Rule0Bot
+                     Grenadier: N,N,P,Td
+                 InputAnalyzer: Dd,P,N,Sc
+                 SimpleShooter: Sb,N,Sa,N
+                      Rule0Bot: N,N,Sb,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -8
+                 SimpleShooter: -3
+                      Rule0Bot: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot InputAnalyzer SimpleShooter
+InputAnalyzer: Rule0Bot Grenadier SimpleShooter
+SimpleShooter: Rule0Bot Grenadier InputAnalyzer
+Rule0Bot: SimpleShooter Grenadier InputAnalyzer
+Generated: 2014/08/12 08:41:55.848209331 UTC

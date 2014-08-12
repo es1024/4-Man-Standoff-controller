@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Bomberman Ninja Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Da,Dd,Db,Da,Db,Da,Db,Da,Da,Dd,Dc,Dc,Dd,Da,Db,Db,Dc,Db,Da,Da,Db,Da,Da,Dd,Da,Da,Dd,Da,Dd,Da,Db,Da,Da,Dd,Dc,Db,Dc,Dd,Da,Da,Dd,Dc,Dc,Db,Dc,Da,Db,Da
+                           Neo: N,N,N,N,N,Dc,Da,N,Da,Dc,N,Dc,N,Dc,N,Dc,N,N,N,N,N,N,N,Dc,N,Dc,N,N,Da,Dc,Da,N,Da,N,N,N,N,N,N,N,Da,Dc,N,Dc,Da,Dc,Da,Dc,N,Dc
+Final Health:
+               StraightShooter: -15
+                     Bomberman: -1
+                         Ninja: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Bomberman Ninja
+Bomberman: Neo StraightShooter Ninja
+Ninja: Neo StraightShooter Bomberman
+Neo: Ninja StraightShooter Bomberman
+Generated: 2014/08/12 09:45:41.388725992 UTC

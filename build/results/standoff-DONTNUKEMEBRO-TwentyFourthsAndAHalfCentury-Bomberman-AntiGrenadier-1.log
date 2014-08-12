@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+                 DONTNUKEMEBRO: Db,Dc,Dc,Dd,Sb,N,Dd,Db,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Sa,N,Sd,N,Sa,N,Sa,N,N,N,N,N,N,N,Sc,N,Sc,N,Sd,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Bomberman AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman AntiGrenadier DONTNUKEMEBRO
+Bomberman: TwentyFourthsAndAHalfCentury AntiGrenadier DONTNUKEMEBRO
+AntiGrenadier: TwentyFourthsAndAHalfCentury Bomberman DONTNUKEMEBRO
+Generated: 2014/08/12 08:52:47.433345083 UTC

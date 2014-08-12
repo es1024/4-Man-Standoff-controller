@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Monkey Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dd,N,N,N,N,N,N,N,N,Dd,Da,N,Sa,N,Dc,P,Td,N,N,N,N,N,N,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,Da,Da,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,N,N,N,N,N,N,Da,N,N,Da,N,N,Da,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+      PoliticallyCorrectGunman: -2
+                        Monkey: 2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Monkey Neo Pacifist
+Monkey: PoliticallyCorrectGunman Neo Pacifist
+Neo: PoliticallyCorrectGunman Monkey Pacifist
+Generated: 2014/08/12 06:37:18.801749865 UTC

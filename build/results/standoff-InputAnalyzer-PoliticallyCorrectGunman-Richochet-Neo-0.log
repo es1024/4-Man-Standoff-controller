@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Richochet Neo
+                 InputAnalyzer: Db,Dc,Da,Dc,Db,P,Sc
+      PoliticallyCorrectGunman: P,N,N,N,N,N,N
+                     Richochet: Sb,N,Sb,N,Sd,N,Sa
+                           Neo: N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -5
+                     Richochet: -3
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Richochet Neo
+PoliticallyCorrectGunman: InputAnalyzer Richochet Neo
+Richochet: InputAnalyzer PoliticallyCorrectGunman Neo
+Neo: InputAnalyzer PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 10:02:18.875824962 UTC

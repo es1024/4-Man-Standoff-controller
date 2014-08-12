@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist TwentyFourthsAndAHalfCentury Neo
+                     Grenadier: P,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,N,N,N,Sb,N,Sd
+                           Neo: N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: 0
+  TwentyFourthsAndAHalfCentury: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Neo Pacifist
+Pacifist: TwentyFourthsAndAHalfCentury Neo Grenadier
+TwentyFourthsAndAHalfCentury: Pacifist Neo Grenadier
+Neo: Pacifist TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 06:41:27.172414258 UTC

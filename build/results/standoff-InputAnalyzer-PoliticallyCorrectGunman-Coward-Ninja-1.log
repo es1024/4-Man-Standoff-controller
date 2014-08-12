@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Coward Ninja
+                 InputAnalyzer: Dc,Da,Dd,P,Dc,N,N,N,N
+      PoliticallyCorrectGunman: Dd,N,Sa,N,Sa,N,N,N,Sc
+                        Coward: Sa,N,Sa,N,Sa,N,Db,Sd,N
+                         Ninja: Dc,Da,Db,Db,Dc,Dd,Dd,Db,N
+Final Health:
+                 InputAnalyzer: -7
+      PoliticallyCorrectGunman: 2
+                        Coward: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Ninja PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Coward Ninja InputAnalyzer
+Coward: PoliticallyCorrectGunman Ninja InputAnalyzer
+Ninja: PoliticallyCorrectGunman Coward InputAnalyzer
+Generated: 2014/08/12 06:37:38.822875775 UTC

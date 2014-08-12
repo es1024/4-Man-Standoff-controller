@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer HanSolo Richochet
+                     Grenadier: N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Db,Sa,N,Dc,Dd,P,Sa,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sb,N
+                     Richochet: Sa,N,Sc,N,Sb,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -5
+                       HanSolo: 0
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet InputAnalyzer HanSolo
+InputAnalyzer: Richochet Grenadier HanSolo
+HanSolo: Richochet Grenadier InputAnalyzer
+Richochet: HanSolo Grenadier InputAnalyzer
+Generated: 2014/08/12 09:38:27.144468917 UTC

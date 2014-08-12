@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Zaenille CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Sa,N,Sb,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Da,Da,Da,Da,Da,Da,Da,Da,Da,N,Sa
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -2
+                      Zaenille: -2
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille CourageTheDog InputAnalyzer
+InputAnalyzer: Zaenille CourageTheDog Pacifist
+Zaenille: InputAnalyzer CourageTheDog Pacifist
+CourageTheDog: InputAnalyzer Zaenille Pacifist
+Generated: 2014/08/12 08:03:58.247574918 UTC

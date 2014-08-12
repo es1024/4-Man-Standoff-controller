@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter TwentyFourthsAndAHalfCentury Sniper
+                     Grenadier: P,N,N
+               StraightShooter: Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N
+                        Sniper: Sa,N,Sb
+Final Health:
+                     Grenadier: -3
+               StraightShooter: 0
+  TwentyFourthsAndAHalfCentury: -2
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter TwentyFourthsAndAHalfCentury Sniper
+StraightShooter: Grenadier TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: Grenadier StraightShooter Sniper
+Sniper: Grenadier StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:14:37.676665177 UTC

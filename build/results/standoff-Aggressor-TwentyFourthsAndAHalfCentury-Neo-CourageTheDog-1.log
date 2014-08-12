@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Neo CourageTheDog
+                     Aggressor: P,Tc,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Sd,N,N,N,N
+                           Neo: N,Da,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Db,N,Sb
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+                           Neo: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo CourageTheDog Aggressor
+Neo: TwentyFourthsAndAHalfCentury CourageTheDog Aggressor
+CourageTheDog: TwentyFourthsAndAHalfCentury Neo Aggressor
+Generated: 2014/08/12 10:28:08.530394134 UTC

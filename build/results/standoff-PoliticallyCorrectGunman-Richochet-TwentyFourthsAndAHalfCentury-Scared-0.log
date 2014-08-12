@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet TwentyFourthsAndAHalfCentury Scared
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Db,N,Dd,N,Db,N,Dd,Sb
+                        Scared: N,N,N,N,N,N,Sb,N,Sb,N,Sc,N,Sc,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet TwentyFourthsAndAHalfCentury Scared
+Richochet: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Richochet Scared
+Scared: PoliticallyCorrectGunman Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:54:30.187882355 UTC

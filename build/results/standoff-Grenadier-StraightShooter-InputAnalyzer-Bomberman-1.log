@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter InputAnalyzer Bomberman
+                     Grenadier: P,N,N,N
+               StraightShooter: Sd,N,Sd,N
+                 InputAnalyzer: Db,P,N,Sa
+                     Bomberman: N,N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -1
+                 InputAnalyzer: -4
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Bomberman StraightShooter
+StraightShooter: InputAnalyzer Bomberman Grenadier
+InputAnalyzer: StraightShooter Bomberman Grenadier
+Bomberman: StraightShooter InputAnalyzer Grenadier
+Generated: 2014/08/12 08:59:24.922601782 UTC

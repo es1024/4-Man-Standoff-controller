@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock AntiGrenadier Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,Sc,N,Sa,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,Sc,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -17
+                 AntiGrenadier: -1
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock AntiGrenadier Sniper
+Spock: Pacifist AntiGrenadier Sniper
+AntiGrenadier: Pacifist Spock Sniper
+Sniper: Pacifist Spock AntiGrenadier
+Generated: 2014/08/12 10:13:11.523935270 UTC

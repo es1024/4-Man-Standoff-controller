@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward EmoCowboy Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Da,Db,Db,Dd,Dc,Da,Dc,Db,Dd,Dd,Da,Da,Dc,Dd,Dd,Dc,Dc,Dd,Db,Dc,Dd,Dd,Da,Dd,Dd,Dc,Db,Dd,Dd,Dc,Dc,Da,Dd,Da,Dc,Dd,Dc,Da,Db,Db,Db,Dc,Da,Dd,Db,Dd,Dc,Da
+Final Health:
+                      Pacifist: -1
+                        Coward: -15
+                     EmoCowboy: -2
+                         Ninja: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward EmoCowboy Ninja
+Coward: Pacifist EmoCowboy Ninja
+EmoCowboy: Pacifist Coward Ninja
+Ninja: Pacifist Coward EmoCowboy
+Generated: 2014/08/12 05:49:01.549373060 UTC

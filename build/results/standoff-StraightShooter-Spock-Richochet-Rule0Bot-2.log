@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Richochet Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+                         Spock: Sd,N,Sd,N,Sd,N,N
+                     Richochet: Sa,N,Sa,N,Sb,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: -3
+                     Richochet: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot Spock Richochet
+Spock: Rule0Bot StraightShooter Richochet
+Richochet: Rule0Bot StraightShooter Spock
+Rule0Bot: Richochet StraightShooter Spock
+Generated: 2014/08/12 06:51:22.129801497 UTC

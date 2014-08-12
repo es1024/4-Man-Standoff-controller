@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey EmoCowboy Rule0Bot
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Monkey: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey EmoCowboy Rule0Bot
+Monkey: HanSolo EmoCowboy Rule0Bot
+EmoCowboy: HanSolo Monkey Rule0Bot
+Rule0Bot: HanSolo Monkey EmoCowboy
+Generated: 2014/08/12 07:06:57.509282194 UTC

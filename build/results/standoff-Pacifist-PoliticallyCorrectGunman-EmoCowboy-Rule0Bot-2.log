@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman EmoCowboy Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Dc,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+      PoliticallyCorrectGunman: -2
+                     EmoCowboy: -2
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot PoliticallyCorrectGunman EmoCowboy
+PoliticallyCorrectGunman: Rule0Bot Pacifist EmoCowboy
+EmoCowboy: Rule0Bot Pacifist PoliticallyCorrectGunman
+Rule0Bot: EmoCowboy Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 07:47:25.108686751 UTC

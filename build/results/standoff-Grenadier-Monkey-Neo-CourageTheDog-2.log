@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Neo CourageTheDog
+                     Grenadier: N,P,N,N
+                        Monkey: N,Sa,N,N
+                           Neo: N,N,N,N
+                 CourageTheDog: Sa,N,P,Tc
+Final Health:
+                     Grenadier: -8
+                        Monkey: -1
+                           Neo: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Monkey Neo
+Monkey: CourageTheDog Grenadier Neo
+Neo: CourageTheDog Grenadier Monkey
+CourageTheDog: Neo Grenadier Monkey
+Generated: 2014/08/12 10:31:05.489374080 UTC

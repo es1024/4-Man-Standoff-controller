@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Bomberman Sniper
+                     Aggressor: P,Tc,Sd
+                        Monkey: N,N,N
+                     Bomberman: N,N,N
+                        Sniper: Sb,N,Sa
+Final Health:
+                     Aggressor: 0
+                        Monkey: 0
+                     Bomberman: -3
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Monkey Bomberman Sniper
+Monkey: Aggressor Bomberman Sniper
+Bomberman: Aggressor Monkey Sniper
+Sniper: Aggressor Monkey Bomberman
+Generated: 2014/08/12 08:02:33.144123374 UTC

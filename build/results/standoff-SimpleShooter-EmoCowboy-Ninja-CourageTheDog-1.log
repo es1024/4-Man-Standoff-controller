@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter EmoCowboy Ninja CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Dd,Dc,Da,Dd,Dc,Da,Db,Dc,Dd,Da,Dd,Da,Dc,Db,Dd,Da,Dd,Da
+                 CourageTheDog: Sc,N,Da,Sa,N,Sa,N,Sa,N,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Dc,Dc,Sc
+Final Health:
+                 SimpleShooter: -1
+                     EmoCowboy: -4
+                         Ninja: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja CourageTheDog EmoCowboy
+EmoCowboy: Ninja CourageTheDog SimpleShooter
+Ninja: EmoCowboy CourageTheDog SimpleShooter
+CourageTheDog: EmoCowboy Ninja SimpleShooter
+Generated: 2014/08/12 09:12:45.504686930 UTC

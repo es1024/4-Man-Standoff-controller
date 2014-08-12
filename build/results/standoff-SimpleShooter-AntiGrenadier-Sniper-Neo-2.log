@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter AntiGrenadier Sniper Neo
+                 SimpleShooter: Sc,N,Sb,N,Sc,N,Sb,N,Sc,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                           Neo: N,Db,N,Db,Db,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                 AntiGrenadier: -1
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo AntiGrenadier Sniper
+AntiGrenadier: Neo SimpleShooter Sniper
+Sniper: Neo SimpleShooter AntiGrenadier
+Neo: Sniper SimpleShooter AntiGrenadier
+Generated: 2014/08/12 08:05:21.574601798 UTC

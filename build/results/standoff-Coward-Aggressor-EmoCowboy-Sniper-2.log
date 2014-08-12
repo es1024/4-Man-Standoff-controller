@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor EmoCowboy Sniper
+                        Coward: Sc,N,Sb
+                     Aggressor: P,Td,Sa
+                     EmoCowboy: Sc,N,N
+                        Sniper: Sc,N,N
+Final Health:
+                        Coward: 0
+                     Aggressor: 0
+                     EmoCowboy: -6
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Sniper Aggressor EmoCowboy
+Aggressor: Sniper Coward EmoCowboy
+EmoCowboy: Sniper Coward Aggressor
+Sniper: EmoCowboy Coward Aggressor
+Generated: 2014/08/12 07:29:16.241497531 UTC

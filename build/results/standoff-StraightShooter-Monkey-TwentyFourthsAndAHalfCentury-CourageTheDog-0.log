@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sc,N,N,Dd,Sc,N,N,N,N,N,N,N,N,N,Db,Db,Db,Db,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Da,Dd,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Dc,Db,Dc,Sa,N,Db,Db,Db,Sa,N,Db,Db,Db,Db,Db,Db,Db,Db,Sb,N,Sb,N,Db,Sb
+Final Health:
+               StraightShooter: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+Monkey: StraightShooter TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: StraightShooter Monkey CourageTheDog
+CourageTheDog: StraightShooter Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:11:36.566035942 UTC

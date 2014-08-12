@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter EmoCowboy Sniper Neo
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Sa,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                     EmoCowboy: -6
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Neo EmoCowboy
+EmoCowboy: Sniper Neo SimpleShooter
+Sniper: EmoCowboy Neo SimpleShooter
+Neo: EmoCowboy Sniper SimpleShooter
+Generated: 2014/08/12 06:25:42.982329536 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+                     Grenadier: P,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Da,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Db,Db,Sb
+Final Health:
+                     Grenadier: -1
+  TwentyFourthsAndAHalfCentury: 0
+                     Bomberman: -2
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: CourageTheDog Grenadier Bomberman
+Bomberman: CourageTheDog Grenadier TwentyFourthsAndAHalfCentury
+CourageTheDog: Bomberman Grenadier TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:12:29.945976186 UTC

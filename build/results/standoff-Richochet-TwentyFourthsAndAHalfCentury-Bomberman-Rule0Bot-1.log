@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+                     Richochet: Sc,N,Sc,N,Sb,N,Sb,N,Sd,N,Sb,N,Sd,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,Dc,Dd,Dd,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,Dd,N,N,N,Db,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Rule0Bot Richochet
+Bomberman: TwentyFourthsAndAHalfCentury Rule0Bot Richochet
+Rule0Bot: TwentyFourthsAndAHalfCentury Bomberman Richochet
+Generated: 2014/08/12 07:25:54.861373196 UTC

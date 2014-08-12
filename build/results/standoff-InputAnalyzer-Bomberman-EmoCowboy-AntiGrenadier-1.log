@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman EmoCowboy AntiGrenadier
+                 InputAnalyzer: Dc,Dd,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                     Bomberman: -15
+                     EmoCowboy: -2
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy AntiGrenadier Bomberman
+Bomberman: EmoCowboy AntiGrenadier InputAnalyzer
+EmoCowboy: Bomberman AntiGrenadier InputAnalyzer
+AntiGrenadier: Bomberman EmoCowboy InputAnalyzer
+Generated: 2014/08/12 10:20:27.700273346 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Monkey TwentyFourthsAndAHalfCentury
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,N
+                     Richochet: Sc,N,Sa,N,Sc,N,Sa,N,Sc
+                        Monkey: N,N,N,N,Dc,Sd,N,Sa,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dc,Db,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 3
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury Richochet Monkey
+Richochet: TwentyFourthsAndAHalfCentury HanSolo Monkey
+Monkey: TwentyFourthsAndAHalfCentury HanSolo Richochet
+TwentyFourthsAndAHalfCentury: Monkey HanSolo Richochet
+Generated: 2014/08/12 10:23:35.244124923 UTC

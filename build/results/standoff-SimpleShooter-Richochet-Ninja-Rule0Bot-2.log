@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Ninja Rule0Bot
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb
+                     Richochet: Sc,N,Sa,N,Sc,N,Sd,N,Sd,N,Sc,N,Sa
+                         Ninja: Db,Dc,Db,Db,Db,Da,Da,Db,Db,Dc,Da,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                     Richochet: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Richochet Ninja
+Richochet: Rule0Bot SimpleShooter Ninja
+Ninja: Rule0Bot SimpleShooter Richochet
+Rule0Bot: Ninja SimpleShooter Richochet
+Generated: 2014/08/12 06:18:36.011690223 UTC

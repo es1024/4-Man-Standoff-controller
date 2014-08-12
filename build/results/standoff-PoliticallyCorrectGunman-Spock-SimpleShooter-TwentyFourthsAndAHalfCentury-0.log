@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock SimpleShooter TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: N,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,Sa,N,Sa,N,Sc,N,Sc,N,Sa,N,N,N,N,N,N,N,Sa,N
+                 SimpleShooter: Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Db,Dc,Db,Dc,Db,Dc,Db,Sb,N,N,N,N,N,N,N,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock SimpleShooter TwentyFourthsAndAHalfCentury
+Spock: PoliticallyCorrectGunman SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: PoliticallyCorrectGunman Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Spock SimpleShooter
+Generated: 2014/08/12 09:12:02.758837439 UTC

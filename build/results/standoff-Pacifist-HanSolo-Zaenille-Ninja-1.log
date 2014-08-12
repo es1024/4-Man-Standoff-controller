@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Zaenille Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Db,Dd,Dd,Dd,Dd,Dd,Da,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                      Zaenille: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Ninja HanSolo
+HanSolo: Zaenille Ninja Pacifist
+Zaenille: HanSolo Ninja Pacifist
+Ninja: HanSolo Zaenille Pacifist
+Generated: 2014/08/12 07:22:30.333794298 UTC

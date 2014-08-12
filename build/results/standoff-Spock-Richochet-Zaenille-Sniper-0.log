@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Zaenille Sniper
+                         Spock: N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,Sa,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 3
+                      Zaenille: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Zaenille Sniper
+Richochet: Spock Zaenille Sniper
+Zaenille: Spock Richochet Sniper
+Sniper: Spock Richochet Zaenille
+Generated: 2014/08/12 09:16:22.761111266 UTC

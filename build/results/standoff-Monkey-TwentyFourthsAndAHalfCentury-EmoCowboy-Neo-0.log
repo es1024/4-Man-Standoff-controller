@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury EmoCowboy Neo
+                        Monkey: N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,Db,N,Sd,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,N,N,Sa,N,Sd,N,Sd,N,N,N,N,N,N,N,Sa,N,Sd,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Db,Db,Db,Da,Db,N,N,N,N,N,N,N,N,N,Db,Da,N,Da,Db,Sb,N
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 3
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: TwentyFourthsAndAHalfCentury EmoCowboy Neo
+TwentyFourthsAndAHalfCentury: Monkey EmoCowboy Neo
+EmoCowboy: Monkey TwentyFourthsAndAHalfCentury Neo
+Neo: Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 10:09:00.003750477 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Rule0Bot Scared
+                     Grenadier: N,P,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Da,Da,N
+                      Rule0Bot: N,N,Sa,N,N
+                        Scared: Sb,N,Sa,N,Sc
+Final Health:
+                     Grenadier: -5
+  TwentyFourthsAndAHalfCentury: 0
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Scared Grenadier
+Rule0Bot: TwentyFourthsAndAHalfCentury Scared Grenadier
+Scared: TwentyFourthsAndAHalfCentury Rule0Bot Grenadier
+Generated: 2014/08/12 06:30:14.068343024 UTC

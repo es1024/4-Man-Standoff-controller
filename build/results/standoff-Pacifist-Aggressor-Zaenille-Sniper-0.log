@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Zaenille Sniper
+                      Pacifist: N,N
+                     Aggressor: P,Ta
+                      Zaenille: Sc,N
+                        Sniper: Sb,N
+Final Health:
+                      Pacifist: -3
+                     Aggressor: 0
+                      Zaenille: -2
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Zaenille Sniper
+Aggressor: Pacifist Zaenille Sniper
+Zaenille: Pacifist Aggressor Sniper
+Sniper: Pacifist Aggressor Zaenille
+Generated: 2014/08/12 07:58:22.948949207 UTC

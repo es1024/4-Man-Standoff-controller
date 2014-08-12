@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Coward Aggressor
+                      Pacifist: N,N
+                 InputAnalyzer: Dd,Sa
+                        Coward: Sb,N
+                     Aggressor: P,Tc
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: 0
+                        Coward: -3
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor InputAnalyzer Coward
+InputAnalyzer: Aggressor Pacifist Coward
+Coward: Aggressor Pacifist InputAnalyzer
+Aggressor: Coward Pacifist InputAnalyzer
+Generated: 2014/08/12 06:29:10.920040421 UTC

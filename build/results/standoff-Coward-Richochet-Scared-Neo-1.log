@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Scared Neo
+                        Coward: Sb,N,Sb,N,Db,Dd,Db,Sc,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sc,N,Sc
+                        Scared: N,Sa,N,Sa,N,Sd,N,Sa,N
+                           Neo: N,N,Da,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: 1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared Neo Richochet
+Richochet: Scared Neo Coward
+Scared: Richochet Neo Coward
+Neo: Richochet Scared Coward
+Generated: 2014/08/12 08:37:57.942665886 UTC

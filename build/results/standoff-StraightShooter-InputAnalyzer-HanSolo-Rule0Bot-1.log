@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer HanSolo Rule0Bot
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,Sb,N,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sd,N,Sa,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -4
+                       HanSolo: 5
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Rule0Bot InputAnalyzer
+InputAnalyzer: HanSolo Rule0Bot StraightShooter
+HanSolo: InputAnalyzer Rule0Bot StraightShooter
+Rule0Bot: InputAnalyzer HanSolo StraightShooter
+Generated: 2014/08/12 06:10:33.736414341 UTC

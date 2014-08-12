@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sc,N,Sa,N,N,N,Dd,N,Da,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Db,Sb,N,Dd,Da,Da,Dd,Dd,Db,Dd,Db,Dd,Db,Dd,Db,Db,Db,Da,Da,Da,Db,Dd,Sd,N,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Db,Da,Da,Db,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sc,N,Sa
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+PoliticallyCorrectGunman: Pacifist DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: Pacifist PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 09:13:02.517188735 UTC

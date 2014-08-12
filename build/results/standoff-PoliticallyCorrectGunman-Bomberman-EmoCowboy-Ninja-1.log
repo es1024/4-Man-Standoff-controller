@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman EmoCowboy Ninja
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Dd,P,Tc,N,N,N,Db,Dd,Dd,Dd,Dc,N,N,N,N,N,Dc,P,Dd,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Dd,Da,Db,Dc,Db,Da,Da,Db,Dd,Da,Dd,Db,Dc,Db,Da,Dd,Db,Dd,Dc,Db,Db,Db,Da,Dc
+Final Health:
+      PoliticallyCorrectGunman: -4
+                     Bomberman: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy Ninja Bomberman
+Bomberman: EmoCowboy Ninja PoliticallyCorrectGunman
+EmoCowboy: Bomberman Ninja PoliticallyCorrectGunman
+Ninja: Bomberman EmoCowboy PoliticallyCorrectGunman
+Generated: 2014/08/12 08:19:30.200780873 UTC

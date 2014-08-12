@@ -1,0 +1,16 @@
+Standoff between: Richochet Ninja Rule0Bot CourageTheDog
+                     Richochet: Sc,N,Sc,N,Sd,N,Sb,N,Sd,N,Sb,N,Sb,N,Sb,N
+                         Ninja: Db,Da,Da,Da,Dc,Dc,Da,Da,Dc,Dc,Da,Da,Dd,Dc,Dc,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sc,N,Sb,N,Db,Db,Db,Db,Db,Sa,N,Db,Sa
+Final Health:
+                     Richochet: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Rule0Bot CourageTheDog
+Ninja: Richochet Rule0Bot CourageTheDog
+Rule0Bot: Richochet Ninja CourageTheDog
+CourageTheDog: Richochet Ninja Rule0Bot
+Generated: 2014/08/12 08:48:59.311693490 UTC

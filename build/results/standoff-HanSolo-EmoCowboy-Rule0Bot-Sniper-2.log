@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy Rule0Bot Sniper
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                     EmoCowboy: N,N,N,Sb,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper EmoCowboy Rule0Bot
+EmoCowboy: Sniper HanSolo Rule0Bot
+Rule0Bot: Sniper HanSolo EmoCowboy
+Sniper: Rule0Bot HanSolo EmoCowboy
+Generated: 2014/08/12 06:24:58.043409181 UTC

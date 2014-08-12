@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Sniper CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N
+                 CourageTheDog: Sb,N,Dc,Da,Sc,N,Dc,Da,Dc,Dc,Da,N,Da,Da,Da,Dc,Da,Sa,N,Da,Sc,N,Dc,Sa,N,Dc,Dc,Sc
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog PoliticallyCorrectGunman Sniper
+PoliticallyCorrectGunman: CourageTheDog StraightShooter Sniper
+Sniper: CourageTheDog StraightShooter PoliticallyCorrectGunman
+CourageTheDog: Sniper StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 06:58:02.757160225 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Zaenille TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sc,N,Sa,N,Da,Dc,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,Db,N,Da,Db,Db,Sa
+Final Health:
+               StraightShooter: -1
+                        Coward: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Coward Zaenille
+Coward: TwentyFourthsAndAHalfCentury StraightShooter Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury StraightShooter Coward
+TwentyFourthsAndAHalfCentury: Zaenille StraightShooter Coward
+Generated: 2014/08/12 08:10:33.631554697 UTC

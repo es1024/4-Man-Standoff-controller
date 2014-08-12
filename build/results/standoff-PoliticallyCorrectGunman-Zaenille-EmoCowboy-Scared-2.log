@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille EmoCowboy Scared
+      PoliticallyCorrectGunman: Db,N,N,N,N
+                      Zaenille: Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                        Scared: Sa,N,Sa,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -2
+                     EmoCowboy: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared Zaenille EmoCowboy
+Zaenille: Scared PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: Scared PoliticallyCorrectGunman Zaenille
+Scared: EmoCowboy PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 09:08:05.780784183 UTC

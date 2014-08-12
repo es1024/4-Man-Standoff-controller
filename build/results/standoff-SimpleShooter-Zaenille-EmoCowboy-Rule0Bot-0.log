@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille EmoCowboy Rule0Bot
+                 SimpleShooter: Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                      Rule0Bot: N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -2
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille EmoCowboy Rule0Bot
+Zaenille: SimpleShooter EmoCowboy Rule0Bot
+EmoCowboy: SimpleShooter Zaenille Rule0Bot
+Rule0Bot: SimpleShooter Zaenille EmoCowboy
+Generated: 2014/08/12 07:15:26.984083596 UTC

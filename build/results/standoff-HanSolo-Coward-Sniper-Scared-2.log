@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Sniper Scared
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sd,N,Dc,Sd,N,Sd,N,Sd,N,Dc,Sd,N,Dc,Dc,Dc,Dc,Dc,Sd,N,Sd,N,Dc,Dc,Sd,N,Dc,Dc,Dc,Sd,N,Dc,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Dc,Dc,Sd
+                        Sniper: Sa,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: -19
+                        Sniper: -19
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Coward Sniper
+Coward: Scared HanSolo Sniper
+Sniper: Scared HanSolo Coward
+Scared: Sniper HanSolo Coward
+Generated: 2014/08/12 05:46:14.057129704 UTC

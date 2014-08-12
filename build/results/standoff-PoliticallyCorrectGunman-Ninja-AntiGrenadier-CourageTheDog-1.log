@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Ninja AntiGrenadier CourageTheDog
+      PoliticallyCorrectGunman: Sd,N,Sd,N,Dc,N,N,N,N,N,N,N,N,N,N,Dd,P,N
+                         Ninja: Da,Dd,Db,Dc,Dc,Db,Da,Dd,Da,Db,Dd,Da,Db,Da,Db,Dc,Db,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+                 CourageTheDog: Sa,N,Sb,N,Db,Dc,Db,Dc,Dc,Sa,N,Da,Dc,Sc,N,Db,Da,P
+Final Health:
+      PoliticallyCorrectGunman: -10
+                         Ninja: -3
+                 AntiGrenadier: -3
+                 CourageTheDog: -8
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier CourageTheDog Ninja
+Ninja: AntiGrenadier CourageTheDog PoliticallyCorrectGunman
+AntiGrenadier: Ninja CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Ninja AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 06:57:03.685255871 UTC

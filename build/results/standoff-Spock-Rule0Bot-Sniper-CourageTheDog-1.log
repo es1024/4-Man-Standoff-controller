@@ -1,0 +1,16 @@
+Standoff between: Spock Rule0Bot Sniper CourageTheDog
+                         Spock: N,Sd,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,Sc,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,Sc,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Dc,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -15
+                      Rule0Bot: -15
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper CourageTheDog Rule0Bot
+Rule0Bot: Sniper CourageTheDog Spock
+Sniper: Rule0Bot CourageTheDog Spock
+CourageTheDog: Rule0Bot Sniper Spock
+Generated: 2014/08/12 08:59:38.733951670 UTC

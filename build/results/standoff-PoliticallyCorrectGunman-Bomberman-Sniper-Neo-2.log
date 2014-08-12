@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Sniper Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,Db,N,P,Tb,Sb,N,Dc,N,N,N,N,N,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Db,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 2
+                     Bomberman: -5
+                        Sniper: 0
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Bomberman Sniper
+Bomberman: Neo PoliticallyCorrectGunman Sniper
+Sniper: Neo PoliticallyCorrectGunman Bomberman
+Neo: Sniper PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 05:51:26.726808073 UTC

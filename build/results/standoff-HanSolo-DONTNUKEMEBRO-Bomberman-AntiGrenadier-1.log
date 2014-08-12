@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Bomberman AntiGrenadier
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Da,Dd,Da,Dc,Dd,Dd,Dd,Dc,Dc,Da,Da,Dc,Dd,Da,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman AntiGrenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: Bomberman AntiGrenadier HanSolo
+Bomberman: DONTNUKEMEBRO AntiGrenadier HanSolo
+AntiGrenadier: DONTNUKEMEBRO Bomberman HanSolo
+Generated: 2014/08/12 08:35:28.314206009 UTC

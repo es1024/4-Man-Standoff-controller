@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Monkey Rule0Bot
+                 InputAnalyzer: Db,Dc,P,Db,Dd,N
+                        Coward: Sd,N,Sd,N,Sd,N
+                        Monkey: N,Db,Db,P,N,N
+                      Rule0Bot: N,N,N,Sa,N,N
+Final Health:
+                 InputAnalyzer: -3
+                        Coward: -1
+                        Monkey: -4
+                      Rule0Bot: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Monkey Rule0Bot
+Coward: InputAnalyzer Monkey Rule0Bot
+Monkey: InputAnalyzer Coward Rule0Bot
+Rule0Bot: InputAnalyzer Coward Monkey
+Generated: 2014/08/12 05:54:51.749804210 UTC

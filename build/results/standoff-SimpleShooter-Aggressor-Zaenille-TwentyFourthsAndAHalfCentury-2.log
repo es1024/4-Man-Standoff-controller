@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Zaenille TwentyFourthsAndAHalfCentury
+                 SimpleShooter: Sc,N,Sb
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 0
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Aggressor Zaenille
+Aggressor: TwentyFourthsAndAHalfCentury SimpleShooter Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury SimpleShooter Aggressor
+TwentyFourthsAndAHalfCentury: Zaenille SimpleShooter Aggressor
+Generated: 2014/08/12 10:15:43.988678840 UTC

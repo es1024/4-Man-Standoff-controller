@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Ninja Rule0Bot
+                     Grenadier: P,Td
+                        Coward: Sc,N
+                         Ninja: Dd,Dd
+                      Rule0Bot: N,Sa
+Final Health:
+                     Grenadier: 0
+                        Coward: 2
+                         Ninja: 0
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Coward Ninja
+Coward: Rule0Bot Grenadier Ninja
+Ninja: Rule0Bot Grenadier Coward
+Rule0Bot: Ninja Grenadier Coward
+Generated: 2014/08/12 10:11:37.753126892 UTC

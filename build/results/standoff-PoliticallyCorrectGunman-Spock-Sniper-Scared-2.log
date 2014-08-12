@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Sniper Scared
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sc,N,Sc
+                        Sniper: Sd,N,Sd,N,N,N,N
+                        Scared: Sb,N,Sc,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: 3
+                        Sniper: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared Spock Sniper
+Spock: Scared PoliticallyCorrectGunman Sniper
+Sniper: Scared PoliticallyCorrectGunman Spock
+Scared: Sniper PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 07:07:28.627456264 UTC

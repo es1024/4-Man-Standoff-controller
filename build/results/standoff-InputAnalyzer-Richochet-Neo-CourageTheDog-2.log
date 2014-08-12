@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Neo CourageTheDog
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sc,N,Sd,N,Sd,N,Sd
+                           Neo: N,Da,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sc,N,Sb,N,Db,Db,Sb,N
+Final Health:
+                 InputAnalyzer: -4
+                     Richochet: 1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Richochet Neo
+Richochet: CourageTheDog InputAnalyzer Neo
+Neo: CourageTheDog InputAnalyzer Richochet
+CourageTheDog: Neo InputAnalyzer Richochet
+Generated: 2014/08/12 08:08:15.296541630 UTC

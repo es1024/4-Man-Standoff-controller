@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Richochet CourageTheDog
+                 InputAnalyzer: Db,Da,P,Dd,N
+                         Spock: Sa,N,Sd,N,Sa
+                     Richochet: Sd,N,Sb,N,Sa
+                 CourageTheDog: Sb,N,Sa,N,Da
+Final Health:
+                 InputAnalyzer: -7
+                         Spock: -2
+                     Richochet: 2
+                 CourageTheDog: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Richochet CourageTheDog
+Spock: InputAnalyzer Richochet CourageTheDog
+Richochet: InputAnalyzer Spock CourageTheDog
+CourageTheDog: InputAnalyzer Spock Richochet
+Generated: 2014/08/12 09:42:18.651168060 UTC

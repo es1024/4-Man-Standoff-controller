@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Ninja Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sc
+                         Ninja: Dc,Db,Db,Da,Da,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Dc
+                        Sniper: Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sa,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 3
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Ninja Sniper
+SimpleShooter: Pacifist Ninja Sniper
+Ninja: Pacifist SimpleShooter Sniper
+Sniper: Pacifist SimpleShooter Ninja
+Generated: 2014/08/12 08:13:56.191494114 UTC

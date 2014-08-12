@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+                       HanSolo: Sb,N,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,Da,N,Dd,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,Sc,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+TwentyFourthsAndAHalfCentury: HanSolo EmoCowboy AntiGrenadier
+EmoCowboy: HanSolo TwentyFourthsAndAHalfCentury AntiGrenadier
+AntiGrenadier: HanSolo TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 09:08:54.951397844 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Bomberman Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,N,N,N,N,N,N,Sd,N,Sd,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,P,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+                         Spock: 2
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Spock Bomberman
+Spock: Rule0Bot Pacifist Bomberman
+Bomberman: Rule0Bot Pacifist Spock
+Rule0Bot: Bomberman Pacifist Spock
+Generated: 2014/08/12 07:44:15.118533340 UTC

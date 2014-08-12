@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Bomberman Ninja
+                 SimpleShooter: Sb,N,Sc,N,Sb,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sc,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dc,Da,Da,Db,Db,Db,Db,Dc,Dc,Dd,Dc,Dc,Da,Da,Db,Dc,Da,Db,Dc,Da,Dd,Dd,Da,Da,Dc,Da,Dc,Dd,Db,Db,Db,Db,Da,Da,Dd,Dd,Dc,Dc,Da,Da,Db,Db,Db,Db,Dd,Dd,Dc,Dc
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                     Bomberman: -19
+                         Ninja: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Ninja Richochet
+Richochet: Bomberman Ninja SimpleShooter
+Bomberman: Richochet Ninja SimpleShooter
+Ninja: Richochet Bomberman SimpleShooter
+Generated: 2014/08/12 10:15:53.760615066 UTC

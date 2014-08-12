@@ -1,0 +1,16 @@
+Standoff between: Monkey EmoCowboy Rule0Bot CourageTheDog
+                        Monkey: N,N,N,Db,Db,N,N,N,N,Dc,Dc,N,Sc,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Da,Dc,Dc,Da,Da,Dc,Sc,N,Sc,N,Da,Da,Da,Sa,N,N,Da,Da,Da,Sa
+Final Health:
+                        Monkey: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: EmoCowboy Rule0Bot CourageTheDog
+EmoCowboy: Monkey Rule0Bot CourageTheDog
+Rule0Bot: Monkey EmoCowboy CourageTheDog
+CourageTheDog: Monkey EmoCowboy Rule0Bot
+Generated: 2014/08/12 06:57:07.528169328 UTC

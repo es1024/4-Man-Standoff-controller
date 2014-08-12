@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury Bomberman
+      PoliticallyCorrectGunman: P,Tc,Sb
+                       HanSolo: Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Da,N
+                     Bomberman: N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 2
+                       HanSolo: 0
+  TwentyFourthsAndAHalfCentury: -5
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Bomberman HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury Bomberman PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: HanSolo Bomberman PoliticallyCorrectGunman
+Bomberman: HanSolo TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 10:23:38.330499094 UTC

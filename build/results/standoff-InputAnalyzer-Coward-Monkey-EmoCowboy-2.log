@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Monkey EmoCowboy
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,Dd,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                        Coward: -15
+                        Monkey: -19
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Coward Monkey
+Coward: EmoCowboy InputAnalyzer Monkey
+Monkey: EmoCowboy InputAnalyzer Coward
+EmoCowboy: Monkey InputAnalyzer Coward
+Generated: 2014/08/12 09:57:03.893184907 UTC

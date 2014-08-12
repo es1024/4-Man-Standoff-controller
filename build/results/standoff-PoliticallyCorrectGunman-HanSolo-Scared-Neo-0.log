@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Scared Neo
+      PoliticallyCorrectGunman: Dc,P,Db,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd
+                        Scared: Sa,N,Sa,N,N,N,N
+                           Neo: N,N,Dc,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+                       HanSolo: 2
+                        Scared: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Scared Neo
+HanSolo: PoliticallyCorrectGunman Scared Neo
+Scared: PoliticallyCorrectGunman HanSolo Neo
+Neo: PoliticallyCorrectGunman HanSolo Scared
+Generated: 2014/08/12 06:37:55.354603643 UTC

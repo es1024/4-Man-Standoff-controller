@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Ninja Rule0Bot
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,Db,N,N,Db,Db,N,N,N,Dd,Dd,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dd,Db,Dc,Dd,Da,Db,Dd,Da,Dd,Da,Da,Db,Dc,Dd,Da,Dc,Dd,Db,Db,Dc,Da,Db,Db,Dc,Dc,Da,Dd,Db,Dc,Da,Dd,Da,Dd,Db,Dc,Dd,Dc,Da,Dd,Dc,Db,Dd,Dd,Dc,Dc,Dd,Dd,Dc
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: -18
+                         Ninja: -18
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot Monkey Ninja
+Monkey: Rule0Bot Aggressor Ninja
+Ninja: Rule0Bot Aggressor Monkey
+Rule0Bot: Ninja Aggressor Monkey
+Generated: 2014/08/12 10:31:59.020248934 UTC

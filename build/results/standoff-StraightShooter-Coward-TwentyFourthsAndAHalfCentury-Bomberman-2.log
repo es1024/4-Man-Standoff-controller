@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward TwentyFourthsAndAHalfCentury Bomberman
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Db,Dd,Da,Dd,Dd,N,N,N,N,N,N,Dd,Dd,Dd,Dd,Dd,Da,Dd,Dd,Dd,Dd,Dd,Da,N,N,N,N,N,N,N,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Dd,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -19
+                     Bomberman: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Coward TwentyFourthsAndAHalfCentury
+Coward: Bomberman StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman StraightShooter Coward
+Bomberman: TwentyFourthsAndAHalfCentury StraightShooter Coward
+Generated: 2014/08/12 06:00:15.323745864 UTC

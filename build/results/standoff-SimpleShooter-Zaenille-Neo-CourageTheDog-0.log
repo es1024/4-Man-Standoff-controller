@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Neo CourageTheDog
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Sa,N,N,Sa,N,Da,Dc,Sc
+Final Health:
+                 SimpleShooter: 1
+                      Zaenille: -2
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille Neo CourageTheDog
+Zaenille: SimpleShooter Neo CourageTheDog
+Neo: SimpleShooter Zaenille CourageTheDog
+CourageTheDog: SimpleShooter Zaenille Neo
+Generated: 2014/08/12 10:24:56.287759897 UTC

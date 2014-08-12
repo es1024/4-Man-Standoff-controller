@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Db,Da,P,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Db,Db,Sb,N,Db,Da,Dd,Dd,Da,Db,Dd,Dd,Db,Da,Da,Da,Db,Da,Da,Db,Dd,Da,Da,Db,Dd,Db,Da,Dd,Da,Da,Db,Dd,Sa
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dc,Dc,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 2
+  TwentyFourthsAndAHalfCentury: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury InputAnalyzer
+InputAnalyzer: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury StraightShooter
+DONTNUKEMEBRO: InputAnalyzer TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: InputAnalyzer DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/12 07:10:56.536166682 UTC

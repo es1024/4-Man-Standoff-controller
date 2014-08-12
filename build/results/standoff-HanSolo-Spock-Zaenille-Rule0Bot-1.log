@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Zaenille Rule0Bot
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Spock: Sc,N,Sc,N,Sd,N,Sc,N,N,N,Sc
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                      Zaenille: -6
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Rule0Bot Spock
+Spock: Zaenille Rule0Bot HanSolo
+Zaenille: Spock Rule0Bot HanSolo
+Rule0Bot: Spock Zaenille HanSolo
+Generated: 2014/08/12 10:33:24.180478551 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+                 SimpleShooter: Sd,N,Sc,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Dd,Dd,Dd,Dd,Sc,N,Sd,N,Sd
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Dc,Db,Db,Db,Sb,N,Dc,Sc
+Final Health:
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: 3
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+TwentyFourthsAndAHalfCentury: SimpleShooter Sniper CourageTheDog
+Sniper: SimpleShooter TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: SimpleShooter TwentyFourthsAndAHalfCentury Sniper
+Generated: 2014/08/12 10:33:58.660971725 UTC

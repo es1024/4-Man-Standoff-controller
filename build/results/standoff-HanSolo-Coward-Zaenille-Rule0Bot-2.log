@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Zaenille Rule0Bot
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb
+                        Coward: Sc,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 3
+                      Zaenille: -4
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Coward Zaenille
+Coward: Rule0Bot HanSolo Zaenille
+Zaenille: Rule0Bot HanSolo Coward
+Rule0Bot: Zaenille HanSolo Coward
+Generated: 2014/08/12 07:02:23.071723748 UTC

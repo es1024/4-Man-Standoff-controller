@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy AntiGrenadier Rule0Bot Sniper
+                     EmoCowboy: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     EmoCowboy: -4
+                 AntiGrenadier: -15
+                      Rule0Bot: -15
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: Sniper AntiGrenadier Rule0Bot
+AntiGrenadier: Sniper EmoCowboy Rule0Bot
+Rule0Bot: Sniper EmoCowboy AntiGrenadier
+Sniper: Rule0Bot EmoCowboy AntiGrenadier
+Generated: 2014/08/12 09:11:19.759881951 UTC

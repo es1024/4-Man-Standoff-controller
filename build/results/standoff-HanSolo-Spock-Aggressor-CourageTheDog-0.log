@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Aggressor CourageTheDog
+                       HanSolo: Sb,N
+                         Spock: Sa,N
+                     Aggressor: P,Td
+                 CourageTheDog: Sc,N
+Final Health:
+                       HanSolo: 0
+                         Spock: 0
+                     Aggressor: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock Aggressor CourageTheDog
+Spock: HanSolo Aggressor CourageTheDog
+Aggressor: HanSolo Spock CourageTheDog
+CourageTheDog: HanSolo Spock Aggressor
+Generated: 2014/08/12 08:37:10.042976609 UTC

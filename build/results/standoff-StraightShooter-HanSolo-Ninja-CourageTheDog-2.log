@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Ninja CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Db,Da,Dc,Db,Dd,Db,Da,Dc,Dc,Dd,Dd,Db,Db,Dc,Dc,Da,Dd,Db,Da,Da,Dc,Dd,Da,Da,Dc,Db,Da,Db,Dc,Db,Dd,Da,Db,Da,Db,Dc,Dc,Dd,Dd,Db,Da,Dc,Db,Dc,Db,Dc,Db,Db
+                 CourageTheDog: Sc,N,Da,Da,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                       HanSolo: -3
+                         Ninja: -17
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog HanSolo Ninja
+HanSolo: CourageTheDog StraightShooter Ninja
+Ninja: CourageTheDog StraightShooter HanSolo
+CourageTheDog: Ninja StraightShooter HanSolo
+Generated: 2014/08/12 09:41:04.171045499 UTC

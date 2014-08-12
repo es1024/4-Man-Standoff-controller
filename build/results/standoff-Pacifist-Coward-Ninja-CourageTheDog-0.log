@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Ninja CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sd,N,Da,Da,Sc,N,Da,Sc,N,Sc,N,Da,Da,Sc,N,Da,Sa,N,Da,Da,Da,Da,Sa
+                         Ninja: Dc,Db,Dd,Db,Dd,Da,Db,Dc,Dd,Da,Dc,Dd,Dc,Db,Dc,Dd,Da,Da,Dd,Dc,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Db,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Ninja CourageTheDog
+Coward: Pacifist Ninja CourageTheDog
+Ninja: Pacifist Coward CourageTheDog
+CourageTheDog: Pacifist Coward Ninja
+Generated: 2014/08/12 07:46:48.808710553 UTC

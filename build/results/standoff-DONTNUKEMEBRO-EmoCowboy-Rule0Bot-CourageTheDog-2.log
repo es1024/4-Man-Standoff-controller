@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO EmoCowboy Rule0Bot CourageTheDog
+                 DONTNUKEMEBRO: Db,Dc,Db,Dc,Dd,Dd,Db,Dc,Dd,Db,Db,Db,Dd,Dd,Db,Dc,Dd,Sd,N,Db,Sd,N,Dc,Dc,Dd,Dc,Dd,Dc,Db
+                     EmoCowboy: N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,Db,Dc,Db,Sc,N,Sc,N,Da,Da,Da,Da,Da,Sa,N,Da,Sa,N,Da,Da,Da,Da,Da,Da,Da,Da,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog EmoCowboy Rule0Bot
+EmoCowboy: CourageTheDog DONTNUKEMEBRO Rule0Bot
+Rule0Bot: CourageTheDog DONTNUKEMEBRO EmoCowboy
+CourageTheDog: Rule0Bot DONTNUKEMEBRO EmoCowboy
+Generated: 2014/08/12 05:52:16.712513458 UTC

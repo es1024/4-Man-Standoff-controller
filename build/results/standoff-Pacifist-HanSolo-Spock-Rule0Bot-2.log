@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Spock Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,Sd,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                         Spock: -1
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot HanSolo Spock
+HanSolo: Rule0Bot Pacifist Spock
+Spock: Rule0Bot Pacifist HanSolo
+Rule0Bot: Spock Pacifist HanSolo
+Generated: 2014/08/12 07:09:03.323070804 UTC

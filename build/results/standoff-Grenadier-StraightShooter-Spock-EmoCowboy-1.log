@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Spock EmoCowboy
+                     Grenadier: P,N,N
+               StraightShooter: Sd,N,Sd
+                         Spock: Sb,N,Sb
+                     EmoCowboy: Sd,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -2
+                         Spock: 2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock EmoCowboy StraightShooter
+StraightShooter: Spock EmoCowboy Grenadier
+Spock: StraightShooter EmoCowboy Grenadier
+EmoCowboy: StraightShooter Spock Grenadier
+Generated: 2014/08/12 07:53:37.141434230 UTC

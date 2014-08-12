@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Monkey Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,Td
+                 InputAnalyzer: Dc,Da,P,Sc,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Da,N,N
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -1
+                        Monkey: 0
+                           Neo: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Neo InputAnalyzer
+InputAnalyzer: Monkey Neo Grenadier
+Monkey: InputAnalyzer Neo Grenadier
+Neo: InputAnalyzer Monkey Grenadier
+Generated: 2014/08/12 08:20:22.720993182 UTC

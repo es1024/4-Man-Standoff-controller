@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Aggressor Richochet
+                      Pacifist: N,N
+                 InputAnalyzer: Da,Sc
+                     Aggressor: P,Tb
+                     Richochet: Sa,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                     Aggressor: 0
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Aggressor Richochet
+InputAnalyzer: Pacifist Aggressor Richochet
+Aggressor: Pacifist InputAnalyzer Richochet
+Richochet: Pacifist InputAnalyzer Aggressor
+Generated: 2014/08/12 09:49:42.937725589 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock Scared
+                 InputAnalyzer: Dd,P
+      PoliticallyCorrectGunman: P,Ta
+                         Spock: Sd,N
+                        Scared: Sc,N
+Final Health:
+                 InputAnalyzer: -9
+      PoliticallyCorrectGunman: -1
+                         Spock: -3
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: Scared InputAnalyzer Spock
+Spock: Scared InputAnalyzer PoliticallyCorrectGunman
+Scared: Spock InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 06:42:15.282505540 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Grenadier: P,Tc,N
+                       HanSolo: Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Db,Da,N
+                 AntiGrenadier: N,Sa,N
+Final Health:
+                     Grenadier: 0
+                       HanSolo: 2
+  TwentyFourthsAndAHalfCentury: -3
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury AntiGrenadier HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury AntiGrenadier Grenadier
+TwentyFourthsAndAHalfCentury: HanSolo AntiGrenadier Grenadier
+AntiGrenadier: HanSolo TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 09:48:11.170541617 UTC

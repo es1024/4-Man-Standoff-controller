@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock EmoCowboy Ninja
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,Sa,N,Sa,N,Sa,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Da,Dd,Da,Db,Db,Da,Db,Dc,Db,Db,Da,Dc,Dd,Db,Dc,Dc,Dd,Dd,Da,Dc,Db,Db,Da,Dc,Db,Da,Dd,Db,Dc,Db,Db,Db,Dc,Dd,Dd,Dc,Dc,Db,Da,Da,Db,Dd,Da,Da,Dd,Da,Dd,Dc
+Final Health:
+               StraightShooter: -1
+                         Spock: -15
+                     EmoCowboy: -4
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock EmoCowboy Ninja
+Spock: StraightShooter EmoCowboy Ninja
+EmoCowboy: StraightShooter Spock Ninja
+Ninja: StraightShooter Spock EmoCowboy
+Generated: 2014/08/12 07:32:57.056707703 UTC

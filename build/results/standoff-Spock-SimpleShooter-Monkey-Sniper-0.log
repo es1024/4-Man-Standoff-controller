@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Monkey Sniper
+                         Spock: Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sd,N,Sc,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 3
+                 SimpleShooter: -1
+                        Monkey: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Monkey Sniper
+SimpleShooter: Spock Monkey Sniper
+Monkey: Spock SimpleShooter Sniper
+Sniper: Spock SimpleShooter Monkey
+Generated: 2014/08/12 05:49:10.505714222 UTC

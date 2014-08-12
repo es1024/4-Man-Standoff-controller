@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Ninja CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dd,Db,Dd,Dd,Da,Db,Dd,Dc,Db,Da,Dd,Dd,Da,Db,Da,Da,Dc,Dd,Dd,Dd,Db,Db,Dd,Dd,Dc,Dc,Dc,Db,Da,Da,Da,Dd,Dd,Dd,Db,Db,Db,Db,Db,Dd,Dd,Dc,Dc,Db,Da,Dc,Dd,Db
+                 CourageTheDog: Sb,N,Da,Dc,Sc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                      Zaenille: -4
+                         Ninja: -15
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja CourageTheDog Zaenille
+Zaenille: Ninja CourageTheDog StraightShooter
+Ninja: Zaenille CourageTheDog StraightShooter
+CourageTheDog: Zaenille Ninja StraightShooter
+Generated: 2014/08/12 08:47:38.439189746 UTC

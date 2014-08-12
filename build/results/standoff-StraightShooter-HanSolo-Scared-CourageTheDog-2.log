@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Scared CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,Sa,N,Sa,N,Sd
+                 CourageTheDog: Sa,N,Db,Sc,N,Dc,Sa,N,Sc
+Final Health:
+               StraightShooter: -3
+                       HanSolo: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog HanSolo Scared
+HanSolo: CourageTheDog StraightShooter Scared
+Scared: CourageTheDog StraightShooter HanSolo
+CourageTheDog: Scared StraightShooter HanSolo
+Generated: 2014/08/12 06:57:15.785025638 UTC

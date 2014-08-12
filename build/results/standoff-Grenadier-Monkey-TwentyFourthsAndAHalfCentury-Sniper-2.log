@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey TwentyFourthsAndAHalfCentury Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,P,Td,N,P,Tb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                        Monkey: -6
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Monkey TwentyFourthsAndAHalfCentury
+Monkey: Sniper Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Grenadier Monkey
+Sniper: TwentyFourthsAndAHalfCentury Grenadier Monkey
+Generated: 2014/08/12 10:08:56.253883888 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor AntiGrenadier Rule0Bot
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Ta,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                     Aggressor: -2
+                 AntiGrenadier: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor AntiGrenadier Rule0Bot
+Aggressor: Grenadier AntiGrenadier Rule0Bot
+AntiGrenadier: Grenadier Aggressor Rule0Bot
+Rule0Bot: Grenadier Aggressor AntiGrenadier
+Generated: 2014/08/12 09:59:58.414535827 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Zaenille Scared
+                 InputAnalyzer: Db,Da,Da,Dc,Dd,Db,Dd,Sb
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sb,N,Sb,N
+Final Health:
+                 InputAnalyzer: 1
+                 SimpleShooter: -1
+                      Zaenille: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Zaenille Scared
+SimpleShooter: InputAnalyzer Zaenille Scared
+Zaenille: InputAnalyzer SimpleShooter Scared
+Scared: InputAnalyzer SimpleShooter Zaenille
+Generated: 2014/08/12 07:16:05.807958745 UTC

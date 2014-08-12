@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Monkey EmoCowboy
+      PoliticallyCorrectGunman: Dd,P,Dd
+                     Aggressor: P,Tc,Sa
+                        Monkey: N,Dd,N
+                     EmoCowboy: Sd,N,N
+Final Health:
+      PoliticallyCorrectGunman: -6
+                     Aggressor: -1
+                        Monkey: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey EmoCowboy Aggressor
+Aggressor: Monkey EmoCowboy PoliticallyCorrectGunman
+Monkey: Aggressor EmoCowboy PoliticallyCorrectGunman
+EmoCowboy: Aggressor Monkey PoliticallyCorrectGunman
+Generated: 2014/08/12 06:22:13.742260009 UTC

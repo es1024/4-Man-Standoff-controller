@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO SimpleShooter EmoCowboy
+                     Grenadier: P,Tc
+                 DONTNUKEMEBRO: Dd,Sa
+                 SimpleShooter: Sb,N
+                     EmoCowboy: Sd,N
+Final Health:
+                     Grenadier: 0
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: EmoCowboy Grenadier SimpleShooter
+SimpleShooter: EmoCowboy Grenadier DONTNUKEMEBRO
+EmoCowboy: SimpleShooter Grenadier DONTNUKEMEBRO
+Generated: 2014/08/12 09:24:50.314090714 UTC

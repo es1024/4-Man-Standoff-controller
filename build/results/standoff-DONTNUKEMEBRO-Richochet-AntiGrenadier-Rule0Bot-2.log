@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Richochet AntiGrenadier Rule0Bot
+                 DONTNUKEMEBRO: Dc,Dd,Sb,N,Db,Db,Dc,Dd,Sb,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sc,N,Sa,N,Sa,N,Sc,N,Sd,N,Sc,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                     Richochet: 1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Rule0Bot Richochet AntiGrenadier
+Richochet: Rule0Bot DONTNUKEMEBRO AntiGrenadier
+AntiGrenadier: Rule0Bot DONTNUKEMEBRO Richochet
+Rule0Bot: AntiGrenadier DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 10:20:36.021920981 UTC

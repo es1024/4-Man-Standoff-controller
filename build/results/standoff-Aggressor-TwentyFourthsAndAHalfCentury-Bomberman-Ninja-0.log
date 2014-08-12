@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Bomberman Ninja
+                     Aggressor: P,Tb,Sc,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dd,Dd,Da,Dc,Db
+Final Health:
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: -3
+                     Bomberman: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury Bomberman Ninja
+TwentyFourthsAndAHalfCentury: Aggressor Bomberman Ninja
+Bomberman: Aggressor TwentyFourthsAndAHalfCentury Ninja
+Ninja: Aggressor TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 07:21:06.655204658 UTC

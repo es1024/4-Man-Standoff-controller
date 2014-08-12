@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Aggressor Rule0Bot
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Da,Dc,Da,Sd
+                     Aggressor: P,Ta,N,N
+                      Rule0Bot: N,Sc,N,N
+Final Health:
+                      Pacifist: -3
+                 InputAnalyzer: 2
+                     Aggressor: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Aggressor Rule0Bot
+InputAnalyzer: Pacifist Aggressor Rule0Bot
+Aggressor: Pacifist InputAnalyzer Rule0Bot
+Rule0Bot: Pacifist InputAnalyzer Aggressor
+Generated: 2014/08/12 10:03:52.955574092 UTC

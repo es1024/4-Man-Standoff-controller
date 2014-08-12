@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Monkey TwentyFourthsAndAHalfCentury
+                         Spock: Sc,N,N,Sc,N,N,Sc,N,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sa,N,Sa,N,Sd,N,Sd,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,Sb,N,Sb,N,Sb
+Final Health:
+                         Spock: -1
+                     Richochet: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey TwentyFourthsAndAHalfCentury Richochet
+Richochet: Monkey TwentyFourthsAndAHalfCentury Spock
+Monkey: Richochet TwentyFourthsAndAHalfCentury Spock
+TwentyFourthsAndAHalfCentury: Richochet Monkey Spock
+Generated: 2014/08/12 06:34:55.841824199 UTC

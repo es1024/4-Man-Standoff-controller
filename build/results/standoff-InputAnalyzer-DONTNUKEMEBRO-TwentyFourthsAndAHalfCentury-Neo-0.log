@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Neo
+                 InputAnalyzer: Db,Dd,Sd,N,Dc,P,N,Sb
+                 DONTNUKEMEBRO: Da,Da,Dc,Dd,Dd,Da,Sa,N
+  TwentyFourthsAndAHalfCentury: N,Da,Sd,N,Sa,N,Sa,N
+                           Neo: N,Dc,N,Db,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 0
+  TwentyFourthsAndAHalfCentury: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Neo
+DONTNUKEMEBRO: InputAnalyzer TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: InputAnalyzer DONTNUKEMEBRO Neo
+Neo: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:03:40.738550208 UTC

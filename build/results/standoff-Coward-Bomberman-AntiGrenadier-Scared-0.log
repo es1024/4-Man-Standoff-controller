@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman AntiGrenadier Scared
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Bomberman AntiGrenadier Scared
+Bomberman: Coward AntiGrenadier Scared
+AntiGrenadier: Coward Bomberman Scared
+Scared: Coward Bomberman AntiGrenadier
+Generated: 2014/08/12 09:00:53.937781470 UTC

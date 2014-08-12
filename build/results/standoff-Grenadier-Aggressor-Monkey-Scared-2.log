@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Monkey Scared
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,Tc
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                     Aggressor: 0
+                        Monkey: -6
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Aggressor Monkey
+Aggressor: Scared Grenadier Monkey
+Monkey: Scared Grenadier Aggressor
+Scared: Monkey Grenadier Aggressor
+Generated: 2014/08/12 07:40:47.313691361 UTC

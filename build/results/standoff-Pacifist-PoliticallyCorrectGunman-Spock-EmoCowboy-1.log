@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Spock EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,Sb,N,Sb,N,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,Sb,N,Sb,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+      PoliticallyCorrectGunman: -4
+                         Spock: -15
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock EmoCowboy PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Spock EmoCowboy Pacifist
+Spock: PoliticallyCorrectGunman EmoCowboy Pacifist
+EmoCowboy: PoliticallyCorrectGunman Spock Pacifist
+Generated: 2014/08/12 10:32:41.397561005 UTC

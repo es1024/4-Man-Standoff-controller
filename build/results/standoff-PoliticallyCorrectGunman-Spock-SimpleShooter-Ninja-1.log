@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock SimpleShooter Ninja
+      PoliticallyCorrectGunman: Db,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,P
+                         Spock: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,Sa
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Dd,Db,Dd,Dc,Dd,Da,Dd,Da,Dc,Db,Dc,Da,Dd
+Final Health:
+      PoliticallyCorrectGunman: -7
+                         Spock: -2
+                 SimpleShooter: -1
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Ninja Spock
+Spock: SimpleShooter Ninja PoliticallyCorrectGunman
+SimpleShooter: Spock Ninja PoliticallyCorrectGunman
+Ninja: Spock SimpleShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 10:23:27.163458074 UTC

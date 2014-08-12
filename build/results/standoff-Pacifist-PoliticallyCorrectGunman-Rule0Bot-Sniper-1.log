@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Rule0Bot Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sd,N,N,P,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -18
+      PoliticallyCorrectGunman: -9
+                      Rule0Bot: -18
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Sniper PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Rule0Bot Sniper Pacifist
+Rule0Bot: PoliticallyCorrectGunman Sniper Pacifist
+Sniper: PoliticallyCorrectGunman Rule0Bot Pacifist
+Generated: 2014/08/12 05:44:39.255813161 UTC

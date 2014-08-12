@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Ninja Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tc,P,Td
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Dd,Da,Db,Da,Dd,Da,Dc,Dc,Da,Dd,Dd,Da,Dc,Db,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+                         Ninja: -3
+                        Sniper: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Sniper Zaenille
+Zaenille: Ninja Sniper Grenadier
+Ninja: Zaenille Sniper Grenadier
+Sniper: Zaenille Ninja Grenadier
+Generated: 2014/08/12 10:11:34.149874387 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter EmoCowboy Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Db,Sb,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 3
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Neo SimpleShooter
+SimpleShooter: EmoCowboy Neo Pacifist
+EmoCowboy: SimpleShooter Neo Pacifist
+Neo: SimpleShooter EmoCowboy Pacifist
+Generated: 2014/08/12 08:25:45.251756596 UTC

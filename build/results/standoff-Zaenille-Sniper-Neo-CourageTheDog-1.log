@@ -1,0 +1,16 @@
+Standoff between: Zaenille Sniper Neo CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dd,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Db,Db,Sb,N,Db,Sb,N,Db,Db,Sb
+Final Health:
+                      Zaenille: -2
+                        Sniper: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Neo CourageTheDog Sniper
+Sniper: Neo CourageTheDog Zaenille
+Neo: Sniper CourageTheDog Zaenille
+CourageTheDog: Sniper Neo Zaenille
+Generated: 2014/08/12 09:50:15.206091584 UTC

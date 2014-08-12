@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Monkey EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,P,Tb
+                     Richochet: Sd,N,Sc,N,Sd,N,Sc,N,Sa
+                        Monkey: N,N,N,N,N,Sd,N,Sc,N
+                     EmoCowboy: N,N,N,N,N,Sd,N,N,N
+Final Health:
+                     Grenadier: 0
+                     Richochet: -3
+                        Monkey: -2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey EmoCowboy Richochet
+Richochet: Monkey EmoCowboy Grenadier
+Monkey: Richochet EmoCowboy Grenadier
+EmoCowboy: Richochet Monkey Grenadier
+Generated: 2014/08/12 06:15:19.809693252 UTC

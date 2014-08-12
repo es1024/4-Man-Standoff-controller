@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Ninja Sniper
+                     Aggressor: P,Td,Sb,N,Sb,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Dc,Dc,N,N,N,N
+                         Ninja: Dd,Dc,Dc,Dd,Dd,Dc,Da,Dc,Dd
+                        Sniper: Sc,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Sniper Aggressor Ninja
+Ninja: Sniper Aggressor TwentyFourthsAndAHalfCentury
+Sniper: Ninja Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:52:01.522855308 UTC

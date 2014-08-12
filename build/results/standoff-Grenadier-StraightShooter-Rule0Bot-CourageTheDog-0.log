@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Rule0Bot CourageTheDog
+                     Grenadier: N,N,P,N,N
+               StraightShooter: Sc,N,Sc,N,Sc
+                      Rule0Bot: N,N,N,Sa,N
+                 CourageTheDog: Sb,N,Da,P,Tc
+Final Health:
+                     Grenadier: -6
+               StraightShooter: -3
+                      Rule0Bot: -12
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Rule0Bot CourageTheDog
+StraightShooter: Grenadier Rule0Bot CourageTheDog
+Rule0Bot: Grenadier StraightShooter CourageTheDog
+CourageTheDog: Grenadier StraightShooter Rule0Bot
+Generated: 2014/08/12 06:58:05.657358969 UTC

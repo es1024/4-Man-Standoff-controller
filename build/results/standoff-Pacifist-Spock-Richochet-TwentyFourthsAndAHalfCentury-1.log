@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Richochet TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,N,N,Sc,N,Sa,N,Sa
+                     Richochet: Sd,N,Sd,N,Sd,N,Sa,N,Sd,N,Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: 3
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet TwentyFourthsAndAHalfCentury Spock
+Spock: Richochet TwentyFourthsAndAHalfCentury Pacifist
+Richochet: Spock TwentyFourthsAndAHalfCentury Pacifist
+TwentyFourthsAndAHalfCentury: Spock Richochet Pacifist
+Generated: 2014/08/12 09:12:06.240548922 UTC

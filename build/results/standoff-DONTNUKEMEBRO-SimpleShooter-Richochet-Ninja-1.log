@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Richochet Ninja
+                 DONTNUKEMEBRO: Dd,Db,Sb,N,Db,Db,P
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,Sd
+                     Richochet: Sd,N,Sb,N,Sa,N,Sa
+                         Ninja: Da,Da,Da,Da,Da,Dc,Dc
+Final Health:
+                 DONTNUKEMEBRO: -7
+                 SimpleShooter: -2
+                     Richochet: 0
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Richochet Ninja SimpleShooter
+SimpleShooter: Richochet Ninja DONTNUKEMEBRO
+Richochet: SimpleShooter Ninja DONTNUKEMEBRO
+Ninja: SimpleShooter Richochet DONTNUKEMEBRO
+Generated: 2014/08/12 08:52:50.573494231 UTC

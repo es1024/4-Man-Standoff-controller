@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+                     Richochet: Sd,N,Sd,N,Sb,N,Sc,N,Sc,N,Sd,N,Sb
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,N,N,N,N,Da,Sa,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sb,N,Db,Dc,Db,Da,Sa,N,N,N
+Final Health:
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+TwentyFourthsAndAHalfCentury: Richochet Rule0Bot CourageTheDog
+Rule0Bot: Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Richochet TwentyFourthsAndAHalfCentury Rule0Bot
+Generated: 2014/08/12 08:18:34.634608050 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Bomberman CourageTheDog
+                 InputAnalyzer: Dc,Sb,N,Dd,P,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Dd,Dd,Sa,N,Sa,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Da,N,N,N,Dc,N,Dc,Dc,Sc
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 0
+                     Bomberman: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Bomberman CourageTheDog InputAnalyzer
+Bomberman: DONTNUKEMEBRO CourageTheDog InputAnalyzer
+CourageTheDog: DONTNUKEMEBRO Bomberman InputAnalyzer
+Generated: 2014/08/12 09:11:07.607908617 UTC

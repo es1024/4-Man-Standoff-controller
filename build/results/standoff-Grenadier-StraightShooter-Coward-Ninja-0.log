@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Coward Ninja
+                     Grenadier: N,P,N,N
+               StraightShooter: Sc,N,Sc,N
+                        Coward: Sd,N,Sd,N
+                         Ninja: Dd,Dc,Dc,Da
+Final Health:
+                     Grenadier: -1
+               StraightShooter: 2
+                        Coward: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Coward Ninja
+StraightShooter: Grenadier Coward Ninja
+Coward: Grenadier StraightShooter Ninja
+Ninja: Grenadier StraightShooter Coward
+Generated: 2014/08/12 08:55:07.926548753 UTC

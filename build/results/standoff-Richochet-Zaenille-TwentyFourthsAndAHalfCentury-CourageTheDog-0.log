@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+                     Richochet: Sd,N,Sc,N,Sd,N,Sd,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,Da,Dd,Dd,Dd,Dd,Sa,N,Sa
+                 CourageTheDog: Sb,N,Dc,Dc,Dc,Dc,Sa,N,N,N
+Final Health:
+                     Richochet: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+Zaenille: Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: Richochet Zaenille CourageTheDog
+CourageTheDog: Richochet Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:07:55.405058181 UTC

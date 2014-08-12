@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Ninja AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Sd,N,Sd,N,Db,Sc,N,Dd,P,N,Dc
+                         Ninja: Da,Dc,Db,Db,Da,Da,Dc,Dc,Dc,Db,Db,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,Sb,N
+Final Health:
+                      Pacifist: 2
+                 InputAnalyzer: -3
+                         Ninja: 0
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Ninja AntiGrenadier
+InputAnalyzer: Pacifist Ninja AntiGrenadier
+Ninja: Pacifist InputAnalyzer AntiGrenadier
+AntiGrenadier: Pacifist InputAnalyzer Ninja
+Generated: 2014/08/12 08:44:27.158384971 UTC

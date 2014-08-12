@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet AntiGrenadier CourageTheDog
+      PoliticallyCorrectGunman: Dd,Dc,Sb,N,Sc,N,P,N,Sd
+                     Richochet: Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Db,Db,Da,Db,P,Ta
+Final Health:
+      PoliticallyCorrectGunman: -9
+                     Richochet: -3
+                 AntiGrenadier: -1
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet AntiGrenadier CourageTheDog
+Richochet: PoliticallyCorrectGunman AntiGrenadier CourageTheDog
+AntiGrenadier: PoliticallyCorrectGunman Richochet CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman Richochet AntiGrenadier
+Generated: 2014/08/12 07:15:12.644808697 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Bomberman Ninja
+                     Grenadier: P,Td,N,P,N,N
+                      Pacifist: N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N
+                         Ninja: Dd,Dd,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                      Pacifist: -1
+                     Bomberman: -1
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Pacifist Bomberman
+Pacifist: Ninja Grenadier Bomberman
+Bomberman: Ninja Grenadier Pacifist
+Ninja: Bomberman Grenadier Pacifist
+Generated: 2014/08/12 07:08:22.929306481 UTC

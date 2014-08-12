@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman EmoCowboy AntiGrenadier Rule0Bot
+      PoliticallyCorrectGunman: Dc,Db,Db,Db,Sb,N,N,N,N,N,Sd,N,Sb,N,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     EmoCowboy: -2
+                 AntiGrenadier: -15
+                      Rule0Bot: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy AntiGrenadier Rule0Bot
+EmoCowboy: PoliticallyCorrectGunman AntiGrenadier Rule0Bot
+AntiGrenadier: PoliticallyCorrectGunman EmoCowboy Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman EmoCowboy AntiGrenadier
+Generated: 2014/08/12 06:33:05.947651588 UTC

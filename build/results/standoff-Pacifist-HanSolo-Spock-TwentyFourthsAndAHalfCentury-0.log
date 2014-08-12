@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Spock TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,N,Sd,N,Sd,N,Sd
+                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,N,Dc,N,Dc,N,N,N,N,Sb,N,N,N,Sb
+Final Health:
+                      Pacifist: -3
+                       HanSolo: 1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Spock TwentyFourthsAndAHalfCentury
+HanSolo: Pacifist Spock TwentyFourthsAndAHalfCentury
+Spock: Pacifist HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist HanSolo Spock
+Generated: 2014/08/12 10:13:06.751153381 UTC

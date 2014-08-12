@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,P,Da,Dd,N
+      PoliticallyCorrectGunman: Sc,N,Dc,Da,N
+                        Monkey: N,Sc,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Db,Sb
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: 0
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury
+PoliticallyCorrectGunman: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury
+Monkey: InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 06:18:03.199171014 UTC

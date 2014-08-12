@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Bomberman AntiGrenadier
+                 InputAnalyzer: Dc,Db,Sc,N,Sd,N,P,Dc,N
+                 DONTNUKEMEBRO: Da,Dd,Dd,Da,Dc,Dc,Dd,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 2
+                     Bomberman: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman AntiGrenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: Bomberman AntiGrenadier InputAnalyzer
+Bomberman: DONTNUKEMEBRO AntiGrenadier InputAnalyzer
+AntiGrenadier: DONTNUKEMEBRO Bomberman InputAnalyzer
+Generated: 2014/08/12 09:07:45.630512863 UTC

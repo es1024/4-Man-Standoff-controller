@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter TwentyFourthsAndAHalfCentury Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Da,N,N,Db,Dd,Db,Dd,Db,Dd,Db,Dd,Db,Dd,Db,Dd,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,Sc,N,Sb,N,Sc,N,Sb,N,Sc,N,Sc,N,N,N,N,Sc,N,N,N,N,Sc,N,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared StraightShooter TwentyFourthsAndAHalfCentury
+StraightShooter: Scared Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Pacifist StraightShooter
+Scared: TwentyFourthsAndAHalfCentury Pacifist StraightShooter
+Generated: 2014/08/12 09:36:35.201355732 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Rule0Bot Scared CourageTheDog
+                 SimpleShooter: Sd,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,Sa,N,N
+                 CourageTheDog: Sc,N,Dc,Db,Da,Db,Dc,Da,Dc,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                      Rule0Bot: -1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Scared CourageTheDog
+Rule0Bot: SimpleShooter Scared CourageTheDog
+Scared: SimpleShooter Rule0Bot CourageTheDog
+CourageTheDog: SimpleShooter Rule0Bot Scared
+Generated: 2014/08/12 06:56:59.989525926 UTC

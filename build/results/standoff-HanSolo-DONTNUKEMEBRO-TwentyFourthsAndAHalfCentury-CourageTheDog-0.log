@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury CourageTheDog
+                       HanSolo: Sb,N,Sb,N
+                 DONTNUKEMEBRO: Da,Dd,P,Td
+  TwentyFourthsAndAHalfCentury: Da,Db,Da,Db
+                 CourageTheDog: Sb,N,Db,P
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -5
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury CourageTheDog
+DONTNUKEMEBRO: HanSolo TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: HanSolo DONTNUKEMEBRO CourageTheDog
+CourageTheDog: HanSolo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:52:47.594808216 UTC

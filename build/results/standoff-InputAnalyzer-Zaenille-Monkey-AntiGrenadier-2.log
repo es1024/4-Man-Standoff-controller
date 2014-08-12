@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Monkey AntiGrenadier
+                 InputAnalyzer: Dd,P,Sd,N
+                      Zaenille: Sb,N,N,N
+                        Monkey: N,N,N,Sd
+                 AntiGrenadier: N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                      Zaenille: -2
+                        Monkey: 2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Zaenille Monkey
+Zaenille: AntiGrenadier InputAnalyzer Monkey
+Monkey: AntiGrenadier InputAnalyzer Zaenille
+AntiGrenadier: Monkey InputAnalyzer Zaenille
+Generated: 2014/08/12 09:08:09.791835058 UTC

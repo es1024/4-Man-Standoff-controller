@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey Scared CourageTheDog
+                        Coward: Sc,N,Sc,N,Sc,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Sa,N,N,N,N,N
+                        Scared: N,Sd,N,N,Sa,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Db,Db,Db,Db,Sb,N,Sb
+Final Health:
+                        Coward: -1
+                        Monkey: -1
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Monkey Scared
+Monkey: CourageTheDog Coward Scared
+Scared: CourageTheDog Coward Monkey
+CourageTheDog: Scared Coward Monkey
+Generated: 2014/08/12 09:38:36.154556568 UTC

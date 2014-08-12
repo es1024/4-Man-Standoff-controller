@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Scared CourageTheDog
+                         Spock: N,Sc,N,Sb,N,Sb
+                        Coward: Sc,N,Sa,N,Dd,Sa
+                        Scared: Sa,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Db,Db
+Final Health:
+                         Spock: -1
+                        Coward: -1
+                        Scared: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Coward Scared
+Coward: CourageTheDog Spock Scared
+Scared: CourageTheDog Spock Coward
+CourageTheDog: Scared Spock Coward
+Generated: 2014/08/12 09:25:40.597443025 UTC

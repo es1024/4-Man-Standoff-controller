@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Aggressor Zaenille
+                     Grenadier: N,N,N
+                 InputAnalyzer: Dd,Da,Sd
+                     Aggressor: P,Ta,Sb
+                      Zaenille: Sd,N,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille InputAnalyzer Aggressor
+InputAnalyzer: Zaenille Grenadier Aggressor
+Aggressor: Zaenille Grenadier InputAnalyzer
+Zaenille: Aggressor Grenadier InputAnalyzer
+Generated: 2014/08/12 07:33:30.343824771 UTC

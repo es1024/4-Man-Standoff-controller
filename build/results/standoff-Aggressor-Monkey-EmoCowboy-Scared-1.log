@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey EmoCowboy Scared
+                     Aggressor: P,Td
+                        Monkey: N,N
+                     EmoCowboy: Sc,N
+                        Scared: Sa,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: 2
+                     EmoCowboy: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy Scared Monkey
+Monkey: EmoCowboy Scared Aggressor
+EmoCowboy: Monkey Scared Aggressor
+Scared: Monkey EmoCowboy Aggressor
+Generated: 2014/08/12 08:55:20.051636761 UTC

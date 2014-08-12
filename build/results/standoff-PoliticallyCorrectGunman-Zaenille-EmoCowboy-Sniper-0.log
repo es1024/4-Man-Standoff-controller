@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille EmoCowboy Sniper
+      PoliticallyCorrectGunman: N,Db,N,N,N,N,N,N,N,Sc,N,P,Tc,P
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -6
+                      Zaenille: -4
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille EmoCowboy Sniper
+Zaenille: PoliticallyCorrectGunman EmoCowboy Sniper
+EmoCowboy: PoliticallyCorrectGunman Zaenille Sniper
+Sniper: PoliticallyCorrectGunman Zaenille EmoCowboy
+Generated: 2014/08/12 09:55:12.469479180 UTC

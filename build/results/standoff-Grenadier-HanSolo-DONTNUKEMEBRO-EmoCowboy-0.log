@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo DONTNUKEMEBRO EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Db,Da,Db,Da,Da,Dd,Db,Dd,Sb,N,Sb,N,Sb
+                     EmoCowboy: N,N,N,N,Sd,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo DONTNUKEMEBRO EmoCowboy
+HanSolo: Grenadier DONTNUKEMEBRO EmoCowboy
+DONTNUKEMEBRO: Grenadier HanSolo EmoCowboy
+EmoCowboy: Grenadier HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 08:02:51.140236565 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock TwentyFourthsAndAHalfCentury Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,Sd,N,Sa,N,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N,Sa,N,Sb,N,Sb,N,Sb
+                         Ninja: Dc,Da,Dc,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Spock TwentyFourthsAndAHalfCentury
+Spock: Ninja Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Pacifist Spock
+Ninja: TwentyFourthsAndAHalfCentury Pacifist Spock
+Generated: 2014/08/12 08:13:00.599149737 UTC

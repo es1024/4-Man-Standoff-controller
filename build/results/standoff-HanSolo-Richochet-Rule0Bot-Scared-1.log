@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Rule0Bot Scared
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sb
+                     Richochet: Sc,N,Sc,N,Sd,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 1
+                      Rule0Bot: -3
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Scared Richochet
+Richochet: Rule0Bot Scared HanSolo
+Rule0Bot: Richochet Scared HanSolo
+Scared: Richochet Rule0Bot HanSolo
+Generated: 2014/08/12 09:36:21.210899817 UTC

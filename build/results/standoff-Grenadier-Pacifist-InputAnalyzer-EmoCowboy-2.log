@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist InputAnalyzer EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tb
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Da,Dd,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 2
+                      Pacifist: -3
+                 InputAnalyzer: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Pacifist InputAnalyzer
+Pacifist: EmoCowboy Grenadier InputAnalyzer
+InputAnalyzer: EmoCowboy Grenadier Pacifist
+EmoCowboy: InputAnalyzer Grenadier Pacifist
+Generated: 2014/08/12 07:23:49.368712145 UTC

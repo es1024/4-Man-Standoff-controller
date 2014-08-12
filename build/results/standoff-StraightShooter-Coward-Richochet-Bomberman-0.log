@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Richochet Bomberman
+               StraightShooter: Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd
+                     Richochet: Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N
+Final Health:
+               StraightShooter: 5
+                        Coward: -1
+                     Richochet: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Richochet Bomberman
+Coward: StraightShooter Richochet Bomberman
+Richochet: StraightShooter Coward Bomberman
+Bomberman: StraightShooter Coward Richochet
+Generated: 2014/08/12 08:13:23.241342272 UTC

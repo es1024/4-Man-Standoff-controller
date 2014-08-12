@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock AntiGrenadier Rule0Bot
+      PoliticallyCorrectGunman: Dd,N,Db,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -15
+                 AntiGrenadier: -1
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock AntiGrenadier Rule0Bot
+Spock: PoliticallyCorrectGunman AntiGrenadier Rule0Bot
+AntiGrenadier: PoliticallyCorrectGunman Spock Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman Spock AntiGrenadier
+Generated: 2014/08/12 08:02:04.182951171 UTC

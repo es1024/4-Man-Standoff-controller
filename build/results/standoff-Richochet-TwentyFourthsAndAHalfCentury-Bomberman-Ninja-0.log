@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Bomberman Ninja
+                     Richochet: Sc,N,Sc,N,Sd,N,Sc,N,Sb,N,Sb,N,Sd,N,Sd,N,Sb
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,Dc,Dd,Dd,N,N,N,N,N,N,N,N,N,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dd,Dc,Db,Dd,Dc,Db,Da,Db,Da,Da,Dd,Da,Dd,N,N
+Final Health:
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: TwentyFourthsAndAHalfCentury Bomberman Ninja
+TwentyFourthsAndAHalfCentury: Richochet Bomberman Ninja
+Bomberman: Richochet TwentyFourthsAndAHalfCentury Ninja
+Ninja: Richochet TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 07:20:09.220442195 UTC

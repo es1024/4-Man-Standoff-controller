@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Zaenille Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,P,Dd,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Da,Db,Db,Da,Dc,Dc,Dd,Dd,Da,Db,Db,Dd,Dd,Dd,Dc,Dc,Da,Da,Da,Db,Db,Db,Db,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Dc,Dc,Dc,Dc,Dd,Da,Da,Da,Da,Dc,Dd,Db,Dd,Dc,Db,Dc,Dd
+Final Health:
+                      Pacifist: -18
+                 InputAnalyzer: -1
+                      Zaenille: -2
+                         Ninja: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Ninja InputAnalyzer
+InputAnalyzer: Zaenille Ninja Pacifist
+Zaenille: InputAnalyzer Ninja Pacifist
+Ninja: InputAnalyzer Zaenille Pacifist
+Generated: 2014/08/12 09:10:19.875354632 UTC

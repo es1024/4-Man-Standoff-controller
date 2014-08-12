@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Dd,N,Dd,Dd,Dd,N,N,N,Dd,N,N,N,N,Sd,N
+                 CourageTheDog: Sb,N,Da,Dc,N,Sa,N,Dc,Sa,N,Da,Da,Dc,Da,Sa,N,Sc,N,Sc,N,Dc,Dc,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -4
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Neo CourageTheDog
+Zaenille: Pacifist Neo CourageTheDog
+Neo: Pacifist Zaenille CourageTheDog
+CourageTheDog: Pacifist Zaenille Neo
+Generated: 2014/08/12 10:27:46.502895158 UTC

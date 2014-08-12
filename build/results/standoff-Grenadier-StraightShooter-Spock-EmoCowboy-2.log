@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Spock EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                         Spock: Sd,N,N,N,Sa,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,Sd,N,Sd,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+               StraightShooter: -15
+                         Spock: -15
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy StraightShooter Spock
+StraightShooter: EmoCowboy Grenadier Spock
+Spock: EmoCowboy Grenadier StraightShooter
+EmoCowboy: Spock Grenadier StraightShooter
+Generated: 2014/08/12 07:56:21.963320185 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Zaenille Rule0Bot
+      PoliticallyCorrectGunman: N,N,N,Sd,N,Sd,N,N
+                         Spock: N,Sa,N,Sa,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: 5
+                      Zaenille: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Zaenille Rule0Bot
+Spock: PoliticallyCorrectGunman Zaenille Rule0Bot
+Zaenille: PoliticallyCorrectGunman Spock Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman Spock Zaenille
+Generated: 2014/08/12 06:17:15.491873863 UTC

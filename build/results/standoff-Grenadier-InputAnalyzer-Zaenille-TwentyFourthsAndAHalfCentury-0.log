@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury
+                     Grenadier: P,Tb,P
+                 InputAnalyzer: Da,Sd,N
+                      Zaenille: Sc,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Db,Sa
+Final Health:
+                     Grenadier: -6
+                 InputAnalyzer: -3
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury
+InputAnalyzer: Grenadier Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Grenadier InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Grenadier InputAnalyzer Zaenille
+Generated: 2014/08/12 09:39:46.184693817 UTC

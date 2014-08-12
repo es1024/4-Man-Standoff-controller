@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Coward Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sa
+                        Coward: Sa,N,Sa,N,Da,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Db,Db,Dc,Dd,Da,Da,Da,Db,Dc,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                        Coward: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Ninja HanSolo
+HanSolo: Coward Ninja Pacifist
+Coward: HanSolo Ninja Pacifist
+Ninja: HanSolo Coward Pacifist
+Generated: 2014/08/12 09:53:26.734115388 UTC

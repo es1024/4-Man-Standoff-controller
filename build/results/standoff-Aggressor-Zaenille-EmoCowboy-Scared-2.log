@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille EmoCowboy Scared
+                     Aggressor: P,Td
+                      Zaenille: Sb,N
+                     EmoCowboy: Sc,N
+                        Scared: Sa,N
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+                     EmoCowboy: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Scared Zaenille EmoCowboy
+Zaenille: Scared Aggressor EmoCowboy
+EmoCowboy: Scared Aggressor Zaenille
+Scared: EmoCowboy Aggressor Zaenille
+Generated: 2014/08/12 08:41:48.485867179 UTC

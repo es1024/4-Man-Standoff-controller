@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Neo CourageTheDog
+                        Coward: Sb,N,Sd,N,Db,Sd,N
+                     Aggressor: P,Tc,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Da,Da,Sa
+Final Health:
+                        Coward: 0
+                     Aggressor: -2
+                           Neo: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Neo CourageTheDog Aggressor
+Aggressor: Neo CourageTheDog Coward
+Neo: Aggressor CourageTheDog Coward
+CourageTheDog: Aggressor Neo Coward
+Generated: 2014/08/12 09:09:09.818674975 UTC

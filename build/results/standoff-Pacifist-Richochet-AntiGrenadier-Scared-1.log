@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet AntiGrenadier Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sc,N,Sc,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,Sc,N,Sb,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                     Richochet: -1
+                 AntiGrenadier: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Scared Richochet
+Richochet: AntiGrenadier Scared Pacifist
+AntiGrenadier: Richochet Scared Pacifist
+Scared: Richochet AntiGrenadier Pacifist
+Generated: 2014/08/12 09:36:38.874089579 UTC

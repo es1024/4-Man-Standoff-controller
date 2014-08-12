@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo SimpleShooter Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sc
+                 SimpleShooter: Sb,N,Sa,N,Sb,N,Sa,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                 SimpleShooter: 3
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot HanSolo SimpleShooter
+HanSolo: Rule0Bot Pacifist SimpleShooter
+SimpleShooter: Rule0Bot Pacifist HanSolo
+Rule0Bot: SimpleShooter Pacifist HanSolo
+Generated: 2014/08/12 07:45:05.383530964 UTC

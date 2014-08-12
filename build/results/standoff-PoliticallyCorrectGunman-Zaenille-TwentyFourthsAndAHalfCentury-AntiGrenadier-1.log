@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+      PoliticallyCorrectGunman: N,Sa,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Sd,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury AntiGrenadier Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury AntiGrenadier PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Zaenille AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: Zaenille TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 09:44:15.212975415 UTC

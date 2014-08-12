@@ -1,0 +1,16 @@
+Standoff between: Zaenille Scared Neo CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,Sd,N,Sc,N,Sd,N,Sd,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Db,Dd,Db,Sb
+                 CourageTheDog: Sa,N,Dc,N,Dc,Sb,N,Db,Dc,Sc,N,Sb,N,Db,Dc,N
+Final Health:
+                      Zaenille: -6
+                        Scared: -1
+                           Neo: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog Scared Neo
+Scared: CourageTheDog Zaenille Neo
+Neo: CourageTheDog Zaenille Scared
+CourageTheDog: Neo Zaenille Scared
+Generated: 2014/08/12 06:42:26.404812696 UTC

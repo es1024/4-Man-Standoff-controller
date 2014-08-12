@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille AntiGrenadier CourageTheDog
+      PoliticallyCorrectGunman: N,Sa,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Dc,Sc,N,Dc,Dc,Dc,Sc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -4
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Zaenille AntiGrenadier
+Zaenille: CourageTheDog PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: CourageTheDog PoliticallyCorrectGunman Zaenille
+CourageTheDog: AntiGrenadier PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 10:46:19.526048734 UTC

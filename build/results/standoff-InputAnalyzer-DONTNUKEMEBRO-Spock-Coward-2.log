@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock Coward
+                 InputAnalyzer: Dd,Dc,P,Dd,Sb
+                 DONTNUKEMEBRO: Da,Dc,Sd,N,Sd
+                         Spock: Sd,N,N,N,N
+                        Coward: Sb,N,Sb,N,Db
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: -4
+                         Spock: 2
+                        Coward: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Coward InputAnalyzer Spock
+Spock: Coward InputAnalyzer DONTNUKEMEBRO
+Coward: Spock InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:09:01.612764841 UTC

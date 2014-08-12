@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman Scared Neo
+  TwentyFourthsAndAHalfCentury: Dc,Dd,N,N,N,N,N,Sc,N,Sc,N,Sb,N,Sc,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,Sd,N,Sa,N,Sb,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,Da,N,Da,Sa,N,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                        Scared: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Neo Bomberman Scared
+Bomberman: Neo TwentyFourthsAndAHalfCentury Scared
+Scared: Neo TwentyFourthsAndAHalfCentury Bomberman
+Neo: Scared TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 07:18:05.370160176 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter Aggressor
+                 InputAnalyzer: Dc,Db,Sb
+                         Spock: Sc,N,N
+                 SimpleShooter: Sa,N,N
+                     Aggressor: P,Tb,Sa
+Final Health:
+                 InputAnalyzer: 0
+                         Spock: -3
+                 SimpleShooter: 0
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Aggressor Spock
+Spock: SimpleShooter Aggressor InputAnalyzer
+SimpleShooter: Spock Aggressor InputAnalyzer
+Aggressor: Spock SimpleShooter InputAnalyzer
+Generated: 2014/08/12 09:37:33.147301230 UTC

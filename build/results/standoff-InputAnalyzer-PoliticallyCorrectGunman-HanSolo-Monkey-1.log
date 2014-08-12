@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo Monkey
+                 InputAnalyzer: Dc,Dd,P
+      PoliticallyCorrectGunman: P,Sa,N
+                       HanSolo: Sb,N,Sb
+                        Monkey: N,N,N
+Final Health:
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -8
+                       HanSolo: -1
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Monkey PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo Monkey InputAnalyzer
+HanSolo: PoliticallyCorrectGunman Monkey InputAnalyzer
+Monkey: PoliticallyCorrectGunman HanSolo InputAnalyzer
+Generated: 2014/08/12 05:58:54.925726492 UTC

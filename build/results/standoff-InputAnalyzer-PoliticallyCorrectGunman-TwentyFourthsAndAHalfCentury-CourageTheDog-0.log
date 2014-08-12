@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury CourageTheDog
+                 InputAnalyzer: Db,Sd,N,Dc,P,Sc,N
+      PoliticallyCorrectGunman: N,N,Sa,N,Dd,Sb,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Db,Da,Db,Db,Dd
+                 CourageTheDog: Sa,N,Da,Sc,N,P,Ta
+Final Health:
+                 InputAnalyzer: -13
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: -5
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury CourageTheDog
+PoliticallyCorrectGunman: InputAnalyzer TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: InputAnalyzer PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:53:39.121446974 UTC

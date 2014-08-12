@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Zaenille AntiGrenadier
+                 InputAnalyzer: Db,Sd,N,Dd,P,Sb,N
+      PoliticallyCorrectGunman: Sd,N,Sa,N,N,P,N
+                      Zaenille: Sc,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -8
+      PoliticallyCorrectGunman: -6
+                      Zaenille: -2
+                 AntiGrenadier: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Zaenille AntiGrenadier
+PoliticallyCorrectGunman: InputAnalyzer Zaenille AntiGrenadier
+Zaenille: InputAnalyzer PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: InputAnalyzer PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 08:48:13.130823412 UTC

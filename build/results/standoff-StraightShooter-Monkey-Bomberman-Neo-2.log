@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Bomberman Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Db,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,N,Da,N,Da,N,Da,Dc,Da,Dc,N,N,N,N,Da,Dc,N,Dc,Da,Dc,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                        Monkey: -1
+                     Bomberman: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Monkey Bomberman
+Monkey: Neo StraightShooter Bomberman
+Bomberman: Neo StraightShooter Monkey
+Neo: Bomberman StraightShooter Monkey
+Generated: 2014/08/12 06:52:29.747888232 UTC

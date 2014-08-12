@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock SimpleShooter Richochet
+                       HanSolo: Sb,N,Sb,N,Sc
+                         Spock: Sa,N,N,N,N
+                 SimpleShooter: Sd,N,Sd,N,Sd
+                     Richochet: Sb,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                 SimpleShooter: 3
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock SimpleShooter Richochet
+Spock: HanSolo SimpleShooter Richochet
+SimpleShooter: HanSolo Spock Richochet
+Richochet: HanSolo Spock SimpleShooter
+Generated: 2014/08/12 09:05:02.685765217 UTC

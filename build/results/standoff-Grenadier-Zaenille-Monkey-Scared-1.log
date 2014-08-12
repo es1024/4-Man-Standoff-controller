@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Monkey Scared
+                     Grenadier: N,P,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,Sc
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -4
+                        Monkey: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Scared Zaenille
+Zaenille: Monkey Scared Grenadier
+Monkey: Zaenille Scared Grenadier
+Scared: Zaenille Monkey Grenadier
+Generated: 2014/08/12 10:13:56.752386979 UTC

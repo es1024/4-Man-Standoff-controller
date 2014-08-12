@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman EmoCowboy Scared
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                     Bomberman: -1
+                     EmoCowboy: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Scared Bomberman
+Bomberman: EmoCowboy Scared HanSolo
+EmoCowboy: Bomberman Scared HanSolo
+Scared: Bomberman EmoCowboy HanSolo
+Generated: 2014/08/12 05:59:35.437725120 UTC

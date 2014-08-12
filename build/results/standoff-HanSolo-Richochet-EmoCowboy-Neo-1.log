@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet EmoCowboy Neo
+                       HanSolo: Sc,N,Sd,N,Sd,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 5
+                     EmoCowboy: -4
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Neo Richochet
+Richochet: EmoCowboy Neo HanSolo
+EmoCowboy: Richochet Neo HanSolo
+Neo: Richochet EmoCowboy HanSolo
+Generated: 2014/08/12 08:31:29.849964971 UTC

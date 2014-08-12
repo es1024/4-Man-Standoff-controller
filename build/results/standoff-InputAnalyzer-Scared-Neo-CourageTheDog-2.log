@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Scared Neo CourageTheDog
+                 InputAnalyzer: Dd,Dc,P,Sd,N
+                        Scared: Sa,N,Sc,N,Sa
+                           Neo: N,N,Db,N,N
+                 CourageTheDog: Sa,N,Db,P,Tc
+Final Health:
+                 InputAnalyzer: -8
+                        Scared: -1
+                           Neo: -6
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Scared Neo
+Scared: CourageTheDog InputAnalyzer Neo
+Neo: CourageTheDog InputAnalyzer Scared
+CourageTheDog: Neo InputAnalyzer Scared
+Generated: 2014/08/12 09:16:47.374073976 UTC

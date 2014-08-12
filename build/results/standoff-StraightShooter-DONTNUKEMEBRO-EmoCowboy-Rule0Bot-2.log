@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO EmoCowboy Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 DONTNUKEMEBRO: Dd,Dd,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -19
+                 DONTNUKEMEBRO: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot DONTNUKEMEBRO EmoCowboy
+DONTNUKEMEBRO: Rule0Bot StraightShooter EmoCowboy
+EmoCowboy: Rule0Bot StraightShooter DONTNUKEMEBRO
+Rule0Bot: EmoCowboy StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 07:37:08.319269159 UTC

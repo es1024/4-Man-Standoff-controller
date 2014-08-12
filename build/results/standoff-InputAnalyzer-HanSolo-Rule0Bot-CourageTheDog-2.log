@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Rule0Bot CourageTheDog
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Db,Sb,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                       HanSolo: 3
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog HanSolo Rule0Bot
+HanSolo: CourageTheDog InputAnalyzer Rule0Bot
+Rule0Bot: CourageTheDog InputAnalyzer HanSolo
+CourageTheDog: Rule0Bot InputAnalyzer HanSolo
+Generated: 2014/08/12 06:25:14.019744834 UTC

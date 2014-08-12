@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy Rule0Bot
+                     Grenadier: P,Td,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Sa
+                     EmoCowboy: Sc,N,N
+                      Rule0Bot: N,N,N
+Final Health:
+                     Grenadier: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Rule0Bot Grenadier
+EmoCowboy: TwentyFourthsAndAHalfCentury Rule0Bot Grenadier
+Rule0Bot: TwentyFourthsAndAHalfCentury EmoCowboy Grenadier
+Generated: 2014/08/12 08:46:41.736454584 UTC

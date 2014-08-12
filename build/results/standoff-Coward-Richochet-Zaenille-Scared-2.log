@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Zaenille Scared
+                        Coward: Sc,N,Sb,N,Db,N,N
+                     Richochet: Sc,N,Sa,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sa,N,Sb
+Final Health:
+                        Coward: -1
+                     Richochet: -1
+                      Zaenille: -6
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared Richochet Zaenille
+Richochet: Scared Coward Zaenille
+Zaenille: Scared Coward Richochet
+Scared: Zaenille Coward Richochet
+Generated: 2014/08/12 07:20:27.285997803 UTC

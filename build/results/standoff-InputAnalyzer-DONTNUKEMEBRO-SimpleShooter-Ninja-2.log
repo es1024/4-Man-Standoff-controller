@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO SimpleShooter Ninja
+                 InputAnalyzer: Dd,Da,Sc,N,Dd,Dc,Dd,P,N,Sc
+                 DONTNUKEMEBRO: Dc,Dc,Sc,N,Sc,N,Dd,Dd,Sa,N
+                 SimpleShooter: Sb,N,Sb,N,Sa,N,N,N,N,N
+                         Ninja: Db,Db,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dc
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -1
+                         Ninja: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Ninja InputAnalyzer SimpleShooter
+SimpleShooter: Ninja InputAnalyzer DONTNUKEMEBRO
+Ninja: SimpleShooter InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:59:53.251430074 UTC

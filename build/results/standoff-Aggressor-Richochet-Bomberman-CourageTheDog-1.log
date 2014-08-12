@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Bomberman CourageTheDog
+                     Aggressor: P,Tc,N
+                     Richochet: Sa,N,Sd
+                     Bomberman: N,N,N
+                 CourageTheDog: Sa,N,Sb
+Final Health:
+                     Aggressor: -2
+                     Richochet: 0
+                     Bomberman: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman CourageTheDog Richochet
+Richochet: Bomberman CourageTheDog Aggressor
+Bomberman: Richochet CourageTheDog Aggressor
+CourageTheDog: Richochet Bomberman Aggressor
+Generated: 2014/08/12 07:43:18.248186403 UTC

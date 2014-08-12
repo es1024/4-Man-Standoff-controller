@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Scared Neo
+                         Spock: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,Sd,N,Sb,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,Sa,N,N,N,Sd,N,N,Sd,N,Sa,N,Sa
+                           Neo: N,Db,Dc,N,N,N,N,N,N,N,Dc,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Monkey: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey Scared Neo
+Monkey: Spock Scared Neo
+Scared: Spock Monkey Neo
+Neo: Spock Monkey Scared
+Generated: 2014/08/12 07:15:08.938715361 UTC

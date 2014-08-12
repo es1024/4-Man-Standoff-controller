@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman HanSolo Monkey
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb
+      PoliticallyCorrectGunman: Dd,N,N,Sb,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                        Monkey: N,N,N,Sd,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                       HanSolo: 5
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey PoliticallyCorrectGunman HanSolo
+PoliticallyCorrectGunman: Monkey StraightShooter HanSolo
+HanSolo: Monkey StraightShooter PoliticallyCorrectGunman
+Monkey: HanSolo StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 07:59:35.916230423 UTC

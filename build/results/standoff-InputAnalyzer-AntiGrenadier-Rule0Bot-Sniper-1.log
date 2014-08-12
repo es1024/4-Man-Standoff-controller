@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer AntiGrenadier Rule0Bot Sniper
+                 InputAnalyzer: Dc,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                 AntiGrenadier: -15
+                      Rule0Bot: -15
+                        Sniper: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Sniper AntiGrenadier
+AntiGrenadier: Rule0Bot Sniper InputAnalyzer
+Rule0Bot: AntiGrenadier Sniper InputAnalyzer
+Sniper: AntiGrenadier Rule0Bot InputAnalyzer
+Generated: 2014/08/12 07:07:04.271728476 UTC

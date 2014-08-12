@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Coward Richochet
+                      Pacifist: N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,Sb
+                     Richochet: Sb,N,Sc,N,Sb,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                        Coward: 1
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Coward Richochet
+Spock: Pacifist Coward Richochet
+Coward: Pacifist Spock Richochet
+Richochet: Pacifist Spock Coward
+Generated: 2014/08/12 08:14:41.377175169 UTC

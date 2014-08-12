@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Ninja Neo
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dc,Dd,Dd,Dc,Db,Db,Da,Dc,Da,Dd,Db,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -2
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Zaenille Ninja
+Zaenille: Neo SimpleShooter Ninja
+Ninja: Neo SimpleShooter Zaenille
+Neo: Ninja SimpleShooter Zaenille
+Generated: 2014/08/12 08:37:44.671031201 UTC

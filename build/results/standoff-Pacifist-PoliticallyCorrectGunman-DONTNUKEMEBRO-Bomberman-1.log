@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sd,N,Sc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Db,Db,Db,Sb,N,Da,Da,Db,Dd,Da,Db,Dd,Da,Dd,Da,Da,Db,Da,Db,Dd,Dd,Da,Db,Db,Db,Db,Dd,Da,Db,Dd,Da,Da,Da,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -15
+                     Bomberman: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO Bomberman PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO Bomberman Pacifist
+DONTNUKEMEBRO: PoliticallyCorrectGunman Bomberman Pacifist
+Bomberman: PoliticallyCorrectGunman DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 10:45:34.540648900 UTC

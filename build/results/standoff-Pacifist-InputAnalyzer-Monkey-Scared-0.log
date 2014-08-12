@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Monkey Scared
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Da,P,Db,N,N
+                        Monkey: N,Da,N,N,N
+                        Scared: Sc,N,Sb,N,Sa
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                        Monkey: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Monkey Scared
+InputAnalyzer: Pacifist Monkey Scared
+Monkey: Pacifist InputAnalyzer Scared
+Scared: Pacifist InputAnalyzer Monkey
+Generated: 2014/08/12 10:48:21.298219025 UTC

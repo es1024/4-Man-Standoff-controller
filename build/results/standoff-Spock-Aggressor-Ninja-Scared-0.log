@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Ninja Scared
+                         Spock: Sb,N,N,N,N
+                     Aggressor: P,Ta,N,N,N
+                         Ninja: Dc,Dd,Dd,Db,Da
+                        Scared: Sb,N,Sc,N,Sc
+Final Health:
+                         Spock: -3
+                     Aggressor: -2
+                         Ninja: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Aggressor Ninja Scared
+Aggressor: Spock Ninja Scared
+Ninja: Spock Aggressor Scared
+Scared: Spock Aggressor Ninja
+Generated: 2014/08/12 09:32:53.165203996 UTC

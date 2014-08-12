@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter EmoCowboy Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 SimpleShooter: Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: -1
+                     EmoCowboy: -4
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo SimpleShooter EmoCowboy
+SimpleShooter: Neo StraightShooter EmoCowboy
+EmoCowboy: Neo StraightShooter SimpleShooter
+Neo: EmoCowboy StraightShooter SimpleShooter
+Generated: 2014/08/12 09:59:38.453858148 UTC

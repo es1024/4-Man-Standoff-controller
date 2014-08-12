@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Ninja Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc
+                         Ninja: Dd,Da,Db,Dd,Dc,Da,Dd,Dd,Db,Da,Dc,Dc,Da
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: 5
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Neo Coward
+Coward: Ninja Neo StraightShooter
+Ninja: Coward Neo StraightShooter
+Neo: Coward Ninja StraightShooter
+Generated: 2014/08/12 07:49:55.438762314 UTC

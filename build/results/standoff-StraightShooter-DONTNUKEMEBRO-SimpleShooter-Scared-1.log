@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 DONTNUKEMEBRO: Dd,Da,Dc,Dc,Sc,N,Sc,N,Dd,Dc,Da,Da,Dc,Da,Dd,Dc,Dd,Da,Dc,Dc,Dc,Da,Da,Dc,Dc,Dd,Dc,Dc,Da,Da,Dd,Dd,Da,Dc,Sa
+                 SimpleShooter: Sa,N,Sb,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: 3
+                 SimpleShooter: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Scared DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Scared StraightShooter
+SimpleShooter: DONTNUKEMEBRO Scared StraightShooter
+Scared: DONTNUKEMEBRO SimpleShooter StraightShooter
+Generated: 2014/08/12 08:23:33.480526074 UTC

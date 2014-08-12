@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Spock Rule0Bot
+                     Grenadier: N,P,Tc
+                      Pacifist: N,N,N
+                         Spock: Sb,N,Sb
+                      Rule0Bot: N,N,Sa
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -2
+                         Spock: -3
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Rule0Bot Pacifist
+Pacifist: Spock Rule0Bot Grenadier
+Spock: Pacifist Rule0Bot Grenadier
+Rule0Bot: Pacifist Spock Grenadier
+Generated: 2014/08/12 09:49:50.865945428 UTC

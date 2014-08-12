@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Ninja AntiGrenadier
+                     Grenadier: N,N,N,P,Tc
+                      Zaenille: Sb,N,N,N,N
+                         Ninja: Da,Da,Dc,Dd,Db
+                 AntiGrenadier: N,N,N,N,Sa
+Final Health:
+                     Grenadier: 0
+                      Zaenille: -2
+                         Ninja: -3
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja AntiGrenadier Zaenille
+Zaenille: Ninja AntiGrenadier Grenadier
+Ninja: Zaenille AntiGrenadier Grenadier
+AntiGrenadier: Zaenille Ninja Grenadier
+Generated: 2014/08/12 09:25:53.771528671 UTC

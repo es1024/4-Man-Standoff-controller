@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille TwentyFourthsAndAHalfCentury EmoCowboy
+                     Grenadier: P,N,N
+                      Zaenille: Sb,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,N
+                     EmoCowboy: Sd,N,N
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille TwentyFourthsAndAHalfCentury EmoCowboy
+Zaenille: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Grenadier Zaenille EmoCowboy
+EmoCowboy: Grenadier Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:04:00.786349372 UTC

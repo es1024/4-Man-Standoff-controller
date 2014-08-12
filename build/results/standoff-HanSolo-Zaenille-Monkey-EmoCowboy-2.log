@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Monkey EmoCowboy
+                       HanSolo: Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N
+                        Monkey: N,Sd,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                      Zaenille: -2
+                        Monkey: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Zaenille Monkey
+Zaenille: EmoCowboy HanSolo Monkey
+Monkey: EmoCowboy HanSolo Zaenille
+EmoCowboy: Monkey HanSolo Zaenille
+Generated: 2014/08/12 06:37:51.092904881 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                     Richochet: Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,Sb,N,Sb,N,Da,Da,Da,Da,Da,Sa
+Final Health:
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy CourageTheDog Richochet
+EmoCowboy: TwentyFourthsAndAHalfCentury CourageTheDog Richochet
+CourageTheDog: TwentyFourthsAndAHalfCentury EmoCowboy Richochet
+Generated: 2014/08/12 06:34:00.887364969 UTC

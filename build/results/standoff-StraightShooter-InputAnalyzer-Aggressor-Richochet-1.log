@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Aggressor Richochet
+               StraightShooter: Sd,N
+                 InputAnalyzer: Dc,Da
+                     Aggressor: P,Ta
+                     Richochet: Sb,N
+Final Health:
+               StraightShooter: -3
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                     Richochet: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Richochet InputAnalyzer
+InputAnalyzer: Aggressor Richochet StraightShooter
+Aggressor: InputAnalyzer Richochet StraightShooter
+Richochet: InputAnalyzer Aggressor StraightShooter
+Generated: 2014/08/12 08:19:52.825210022 UTC

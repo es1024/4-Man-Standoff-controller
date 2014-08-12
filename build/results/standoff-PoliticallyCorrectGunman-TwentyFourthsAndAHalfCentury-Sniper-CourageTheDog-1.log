@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+      PoliticallyCorrectGunman: Dc,Dd,Dd,Dc,P,Tc
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Da,Da,Dd
+                        Sniper: Sa,N,Sa,N,Sd,N
+                 CourageTheDog: Sb,N,Dc,Da,Da,P
+Final Health:
+      PoliticallyCorrectGunman: -3
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -6
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper CourageTheDog PoliticallyCorrectGunman
+Sniper: TwentyFourthsAndAHalfCentury CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: TwentyFourthsAndAHalfCentury Sniper PoliticallyCorrectGunman
+Generated: 2014/08/12 06:28:49.352585304 UTC

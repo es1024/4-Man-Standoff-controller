@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                        Monkey: N,N,N,N,N,N,N,Da,N,Sc,N,Da,Da,N,N,N,Db,N,N,Db,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Da,Db,Db,Db,Da,Db,Da,Db,Da,Db,N,N,Db,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+Monkey: Coward TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Coward Monkey EmoCowboy
+EmoCowboy: Coward Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:10:29.844161676 UTC

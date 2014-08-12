@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Monkey CourageTheDog
+                     Grenadier: N,P,Td
+               StraightShooter: Sc,N,Sc
+                        Monkey: N,Sc,N
+                 CourageTheDog: Sb,N,P
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -3
+                        Monkey: -2
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Monkey CourageTheDog
+StraightShooter: Grenadier Monkey CourageTheDog
+Monkey: Grenadier StraightShooter CourageTheDog
+CourageTheDog: Grenadier StraightShooter Monkey
+Generated: 2014/08/12 07:40:06.668197662 UTC

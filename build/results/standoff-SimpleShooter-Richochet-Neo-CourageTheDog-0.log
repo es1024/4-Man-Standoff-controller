@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Neo CourageTheDog
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sd,N,N,N
+                     Richochet: Sa,N,Sa,N,Sc,N,Sd,N,Sc,N
+                           Neo: N,N,N,N,N,N,Dd,N,Db,Sb
+                 CourageTheDog: Sc,N,Dc,Sb,N,Db,Sa,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                           Neo: 1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Neo CourageTheDog
+Richochet: SimpleShooter Neo CourageTheDog
+Neo: SimpleShooter Richochet CourageTheDog
+CourageTheDog: SimpleShooter Richochet Neo
+Generated: 2014/08/12 05:51:32.372445812 UTC

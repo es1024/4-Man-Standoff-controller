@@ -1,0 +1,16 @@
+Standoff between: Pacifist Sniper Scared CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sc,N,Sd,N,Sd,N,N,N,N
+                        Scared: Sa,N,Sd,N,Sa,N,Sd,N,Sb,N,Sa
+                 CourageTheDog: Sb,N,Sb,N,Db,Db,Da,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Sniper: -1
+                        Scared: 3
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared CourageTheDog Sniper
+Sniper: Scared CourageTheDog Pacifist
+Scared: Sniper CourageTheDog Pacifist
+CourageTheDog: Sniper Scared Pacifist
+Generated: 2014/08/12 09:04:02.726354706 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey TwentyFourthsAndAHalfCentury Ninja
+                     Aggressor: P,Td,Sb,N,Sc
+                        Monkey: N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N
+                         Ninja: Dd,Db,N,N,N
+Final Health:
+                     Aggressor: 2
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Ninja Monkey TwentyFourthsAndAHalfCentury
+Monkey: Ninja Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Aggressor Monkey
+Ninja: TwentyFourthsAndAHalfCentury Aggressor Monkey
+Generated: 2014/08/12 08:15:21.534434898 UTC

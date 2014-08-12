@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Bomberman CourageTheDog
+                         Spock: N,N,Sd,N,Sd,N,Sd,N,Sb,N,Sd,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -19
+                        Monkey: -2
+                     Bomberman: -15
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Monkey Bomberman
+Monkey: CourageTheDog Spock Bomberman
+Bomberman: CourageTheDog Spock Monkey
+CourageTheDog: Bomberman Spock Monkey
+Generated: 2014/08/12 07:43:32.458617572 UTC

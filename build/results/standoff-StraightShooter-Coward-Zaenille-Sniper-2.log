@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Zaenille Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Da,Sa,N,Dd,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: 1
+                      Zaenille: -4
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper Coward Zaenille
+Coward: Sniper StraightShooter Zaenille
+Zaenille: Sniper StraightShooter Coward
+Sniper: Zaenille StraightShooter Coward
+Generated: 2014/08/12 08:26:41.849802467 UTC

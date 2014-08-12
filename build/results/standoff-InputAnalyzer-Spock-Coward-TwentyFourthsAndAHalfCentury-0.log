@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Coward TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,P,Sa,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,Sc,N
+                        Coward: Sd,N,Sd,N,Sd,N,Db,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dc,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -10
+                         Spock: 0
+                        Coward: 2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Coward TwentyFourthsAndAHalfCentury
+Spock: InputAnalyzer Coward TwentyFourthsAndAHalfCentury
+Coward: InputAnalyzer Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer Spock Coward
+Generated: 2014/08/12 08:25:16.749397309 UTC

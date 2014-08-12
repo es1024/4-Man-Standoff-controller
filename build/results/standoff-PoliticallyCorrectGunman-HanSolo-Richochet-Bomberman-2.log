@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Richochet Bomberman
+      PoliticallyCorrectGunman: Sc,N,Dc,Dd,Sc,N,Sc
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa
+                     Richochet: Sa,N,Sa,N,Sb,N,Sa
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 3
+                     Richochet: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman HanSolo Richochet
+HanSolo: Bomberman PoliticallyCorrectGunman Richochet
+Richochet: Bomberman PoliticallyCorrectGunman HanSolo
+Bomberman: Richochet PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 05:47:54.892034617 UTC

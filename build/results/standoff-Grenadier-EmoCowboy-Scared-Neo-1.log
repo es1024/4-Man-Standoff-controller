@@ -1,0 +1,16 @@
+Standoff between: Grenadier EmoCowboy Scared Neo
+                     Grenadier: N,N,N,N,N,N,N,P,Tc
+                     EmoCowboy: N,N,N,N,N,Sb,N,N,N
+                        Scared: N,N,N,N,N,Sb,N,Sa,N
+                           Neo: N,N,N,N,N,Da,N,Da,Da
+Final Health:
+                     Grenadier: 0
+                     EmoCowboy: -4
+                        Scared: -3
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Neo EmoCowboy
+EmoCowboy: Scared Neo Grenadier
+Scared: EmoCowboy Neo Grenadier
+Neo: EmoCowboy Scared Grenadier
+Generated: 2014/08/12 08:21:21.004574574 UTC

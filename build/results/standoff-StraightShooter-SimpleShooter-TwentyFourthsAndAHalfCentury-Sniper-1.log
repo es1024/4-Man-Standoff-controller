@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter TwentyFourthsAndAHalfCentury Sniper
+               StraightShooter: Sd,N,Sd,N,Sd,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,N,Dd,Sb,N
+                        Sniper: Sc,N,Sa,N,Sa,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Sniper SimpleShooter
+SimpleShooter: TwentyFourthsAndAHalfCentury Sniper StraightShooter
+TwentyFourthsAndAHalfCentury: SimpleShooter Sniper StraightShooter
+Sniper: SimpleShooter TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 10:31:56.733152943 UTC

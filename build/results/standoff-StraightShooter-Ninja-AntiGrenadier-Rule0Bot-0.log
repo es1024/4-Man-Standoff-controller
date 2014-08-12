@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Ninja AntiGrenadier Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                         Ninja: Db,Dd,Dd,Da,Da,Dc,Dc,Db,Dd,Db,Db,Da,Dd,Db,Db,Da,Da,Dc,Dc,Dd,Dd,Db,Dc,Da,Da,Da,Db,Db,Db,Db,Db,Dd,Dd,Da,Da,Da,Db,Db,Dc,Dc,Dc,Dd,Da,Da,Dd,Dd,Db,Dc,Db,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                         Ninja: -15
+                 AntiGrenadier: -1
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja AntiGrenadier Rule0Bot
+Ninja: StraightShooter AntiGrenadier Rule0Bot
+AntiGrenadier: StraightShooter Ninja Rule0Bot
+Rule0Bot: StraightShooter Ninja AntiGrenadier
+Generated: 2014/08/12 08:59:07.354816784 UTC

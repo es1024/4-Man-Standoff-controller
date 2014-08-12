@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Bomberman AntiGrenadier
+                     Richochet: Sb,N,Sc,N,Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman AntiGrenadier Monkey
+Monkey: Bomberman AntiGrenadier Richochet
+Bomberman: Monkey AntiGrenadier Richochet
+AntiGrenadier: Monkey Bomberman Richochet
+Generated: 2014/08/12 06:36:42.139313334 UTC

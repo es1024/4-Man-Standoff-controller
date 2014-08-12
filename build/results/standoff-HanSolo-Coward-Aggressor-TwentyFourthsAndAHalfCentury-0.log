@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Aggressor TwentyFourthsAndAHalfCentury
+                       HanSolo: Sb,N,N
+                        Coward: Sd,N,N
+                     Aggressor: P,Ta,Sd
+  TwentyFourthsAndAHalfCentury: Db,Dc,N
+Final Health:
+                       HanSolo: -3
+                        Coward: 0
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Aggressor TwentyFourthsAndAHalfCentury
+Coward: HanSolo Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: HanSolo Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: HanSolo Coward Aggressor
+Generated: 2014/08/12 08:33:51.716294152 UTC

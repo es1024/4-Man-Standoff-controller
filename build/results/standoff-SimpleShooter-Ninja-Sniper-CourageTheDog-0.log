@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Ninja Sniper CourageTheDog
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sc,N,Sb,N,Sc
+                         Ninja: Da,Dc,Db,Da,Dc,Db,Da,Da,Db,Db,N
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,Sb,N
+                 CourageTheDog: Sa,N,Db,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                         Ninja: -1
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Sniper CourageTheDog
+Ninja: SimpleShooter Sniper CourageTheDog
+Sniper: SimpleShooter Ninja CourageTheDog
+CourageTheDog: SimpleShooter Ninja Sniper
+Generated: 2014/08/12 08:14:32.997702697 UTC

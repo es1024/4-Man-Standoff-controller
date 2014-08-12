@@ -1,0 +1,16 @@
+Standoff between: Monkey Rule0Bot Sniper CourageTheDog
+                        Monkey: N,N,N,N,N,N,N,N,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Dc,Da,Dc,Dc,Da,Sa,N,Sc,N,Dc,Dc,Dc,Dc,Sc,N,N,Dc,Dc,Dc,Dc,N,Dc,Sc
+Final Health:
+                        Monkey: -2
+                      Rule0Bot: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Rule0Bot Sniper CourageTheDog
+Rule0Bot: Monkey Sniper CourageTheDog
+Sniper: Monkey Rule0Bot CourageTheDog
+CourageTheDog: Monkey Rule0Bot Sniper
+Generated: 2014/08/12 06:28:20.042570967 UTC

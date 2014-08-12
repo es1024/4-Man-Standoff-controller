@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Aggressor Rule0Bot
+                 InputAnalyzer: Dc,Db,Sa
+                 DONTNUKEMEBRO: Dc,Sc,N
+                     Aggressor: P,Tb,N
+                      Rule0Bot: N,Sc,N
+Final Health:
+                 InputAnalyzer: -2
+                 DONTNUKEMEBRO: -3
+                     Aggressor: -2
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Rule0Bot DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor Rule0Bot InputAnalyzer
+Aggressor: DONTNUKEMEBRO Rule0Bot InputAnalyzer
+Rule0Bot: DONTNUKEMEBRO Aggressor InputAnalyzer
+Generated: 2014/08/12 07:45:18.355134938 UTC

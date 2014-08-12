@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Aggressor Rule0Bot
+                      Pacifist: N,N
+                         Spock: Sd,N
+                     Aggressor: P,Ta
+                      Rule0Bot: N,Sc
+Final Health:
+                      Pacifist: -3
+                         Spock: 2
+                     Aggressor: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Spock Aggressor
+Spock: Rule0Bot Pacifist Aggressor
+Aggressor: Rule0Bot Pacifist Spock
+Rule0Bot: Aggressor Pacifist Spock
+Generated: 2014/08/12 09:32:26.943565957 UTC

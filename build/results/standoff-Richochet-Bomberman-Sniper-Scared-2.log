@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman Sniper Scared
+                     Richochet: Sc,N,Sd,N,Sd,N,Sb,N,Sc,N,Sc,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                     Bomberman: -1
+                        Sniper: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared Bomberman Sniper
+Bomberman: Scared Richochet Sniper
+Sniper: Scared Richochet Bomberman
+Scared: Sniper Richochet Bomberman
+Generated: 2014/08/12 07:22:04.363353749 UTC

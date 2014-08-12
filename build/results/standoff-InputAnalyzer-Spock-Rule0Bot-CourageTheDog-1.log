@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Rule0Bot CourageTheDog
+                 InputAnalyzer: Dc,Db,Da,Dd,Sb,N,Sb,N,P,N,Sc
+                         Spock: Sc,N,Sc,N,Sc,N,Sa,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Da,Db,Sb,N,Da,Da,P,Ta
+Final Health:
+                 InputAnalyzer: -13
+                         Spock: -1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot CourageTheDog Spock
+Spock: Rule0Bot CourageTheDog InputAnalyzer
+Rule0Bot: Spock CourageTheDog InputAnalyzer
+CourageTheDog: Spock Rule0Bot InputAnalyzer
+Generated: 2014/08/12 10:47:35.438884435 UTC

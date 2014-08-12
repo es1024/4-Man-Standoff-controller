@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury EmoCowboy Sniper
+                        Monkey: N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Da,Da,Dd,Da,Sa,N,Sd,N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,Sd
+                     EmoCowboy: N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 3
+                     EmoCowboy: -4
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: TwentyFourthsAndAHalfCentury EmoCowboy Sniper
+TwentyFourthsAndAHalfCentury: Monkey EmoCowboy Sniper
+EmoCowboy: Monkey TwentyFourthsAndAHalfCentury Sniper
+Sniper: Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 06:27:27.265716016 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Bomberman Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,P,Tc
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                     Aggressor: 0
+                     Bomberman: -6
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Aggressor Bomberman
+Aggressor: Sniper Grenadier Bomberman
+Bomberman: Sniper Grenadier Aggressor
+Sniper: Bomberman Grenadier Aggressor
+Generated: 2014/08/12 06:21:09.521794396 UTC

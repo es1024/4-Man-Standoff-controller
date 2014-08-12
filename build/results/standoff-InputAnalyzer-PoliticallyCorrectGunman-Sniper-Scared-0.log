@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Sniper Scared
+                 InputAnalyzer: Db,Da,Da,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sd,N,Dc,N,Sa,N,Dd,N,N,Sc,N,Sb
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,Sc,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -2
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Sniper Scared
+PoliticallyCorrectGunman: InputAnalyzer Sniper Scared
+Sniper: InputAnalyzer PoliticallyCorrectGunman Scared
+Scared: InputAnalyzer PoliticallyCorrectGunman Sniper
+Generated: 2014/08/12 08:28:58.521286768 UTC

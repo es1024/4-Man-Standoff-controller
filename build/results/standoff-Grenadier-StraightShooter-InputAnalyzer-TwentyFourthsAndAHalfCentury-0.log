@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter InputAnalyzer TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,N,N,N,N,P,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                 InputAnalyzer: Da,Sb,N,Sc,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Db,Da,Da,Da,Db
+Final Health:
+                     Grenadier: -1
+               StraightShooter: 0
+                 InputAnalyzer: -2
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter InputAnalyzer TwentyFourthsAndAHalfCentury
+StraightShooter: Grenadier InputAnalyzer TwentyFourthsAndAHalfCentury
+InputAnalyzer: Grenadier StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Grenadier StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:12:47.902345001 UTC

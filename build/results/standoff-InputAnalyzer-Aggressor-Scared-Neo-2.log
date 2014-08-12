@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Scared Neo
+                 InputAnalyzer: Dd,Sb
+                     Aggressor: P,Ta
+                        Scared: Sd,N
+                           Neo: N,Db
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 0
+                        Scared: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Aggressor Scared
+Aggressor: Neo InputAnalyzer Scared
+Scared: Neo InputAnalyzer Aggressor
+Neo: Scared InputAnalyzer Aggressor
+Generated: 2014/08/12 08:42:49.537275765 UTC

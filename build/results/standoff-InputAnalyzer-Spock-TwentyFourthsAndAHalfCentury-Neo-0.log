@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock TwentyFourthsAndAHalfCentury Neo
+                 InputAnalyzer: Db,Dd,P,Sd,N,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,Sc
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 2
+  TwentyFourthsAndAHalfCentury: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock TwentyFourthsAndAHalfCentury Neo
+Spock: InputAnalyzer TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: InputAnalyzer Spock Neo
+Neo: InputAnalyzer Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:20:06.538141754 UTC

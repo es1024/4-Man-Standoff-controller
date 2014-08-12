@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward AntiGrenadier Neo
+                 InputAnalyzer: Db,Dc,Db,Sd,N,P,Sa
+                        Coward: Sd,N,Sd,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,Sa
+                           Neo: N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -10
+                        Coward: 2
+                 AntiGrenadier: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward AntiGrenadier Neo
+Coward: InputAnalyzer AntiGrenadier Neo
+AntiGrenadier: InputAnalyzer Coward Neo
+Neo: InputAnalyzer Coward AntiGrenadier
+Generated: 2014/08/12 08:11:54.800666095 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+                     Aggressor: P,Tc,Sd
+                        Monkey: N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,N
+                 CourageTheDog: Sb,N,Sa
+Final Health:
+                     Aggressor: 0
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury CourageTheDog Monkey
+Monkey: TwentyFourthsAndAHalfCentury CourageTheDog Aggressor
+TwentyFourthsAndAHalfCentury: Monkey CourageTheDog Aggressor
+CourageTheDog: Monkey TwentyFourthsAndAHalfCentury Aggressor
+Generated: 2014/08/12 09:45:19.501353698 UTC

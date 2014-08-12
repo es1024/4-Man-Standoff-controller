@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury EmoCowboy Rule0Bot
+                     Richochet: Sd,N,Sb,N,Sb,N,Sd,N,Sb,N,Sb,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Dd,Dd,Dd,Dd,Da,Dd,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Rule0Bot Richochet
+EmoCowboy: TwentyFourthsAndAHalfCentury Rule0Bot Richochet
+Rule0Bot: TwentyFourthsAndAHalfCentury EmoCowboy Richochet
+Generated: 2014/08/12 10:30:44.386170238 UTC

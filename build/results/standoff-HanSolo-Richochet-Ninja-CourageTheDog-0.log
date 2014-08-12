@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Ninja CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd,N
+                     Richochet: Sc,N,Sa,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dd,Db,Da,Dd,Dd,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,N,Sc,N,Dc,Da,Sa,N,Da,Sa
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+                         Ninja: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Ninja CourageTheDog
+Richochet: HanSolo Ninja CourageTheDog
+Ninja: HanSolo Richochet CourageTheDog
+CourageTheDog: HanSolo Richochet Ninja
+Generated: 2014/08/12 07:51:38.424800021 UTC

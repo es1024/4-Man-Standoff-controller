@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Monkey CourageTheDog
+                     Aggressor: P,Tc,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sd,N
+                        Monkey: N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,N,Db,Sb
+Final Health:
+                     Aggressor: -2
+                     Richochet: 0
+                        Monkey: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Monkey CourageTheDog Richochet
+Richochet: Monkey CourageTheDog Aggressor
+Monkey: Richochet CourageTheDog Aggressor
+CourageTheDog: Richochet Monkey Aggressor
+Generated: 2014/08/12 09:59:18.258423163 UTC

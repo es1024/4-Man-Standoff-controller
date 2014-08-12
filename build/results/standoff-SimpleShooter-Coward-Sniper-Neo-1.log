@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Sniper Neo
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sd,N,Sc
+                        Coward: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Da,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                        Coward: -1
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Neo Coward
+Coward: Sniper Neo SimpleShooter
+Sniper: Coward Neo SimpleShooter
+Neo: Coward Sniper SimpleShooter
+Generated: 2014/08/12 08:20:20.515741509 UTC

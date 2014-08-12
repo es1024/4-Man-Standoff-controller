@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Sniper CourageTheDog
+      PoliticallyCorrectGunman: Sb,N,Db,Sa,N
+                       HanSolo: Sc,N,Sc,N,N
+                        Sniper: Sb,N,Sb,N,N
+                 CourageTheDog: Sa,N,Dc,Da,Sc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper CourageTheDog HanSolo
+HanSolo: Sniper CourageTheDog PoliticallyCorrectGunman
+Sniper: HanSolo CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: HanSolo Sniper PoliticallyCorrectGunman
+Generated: 2014/08/12 06:52:53.239688694 UTC

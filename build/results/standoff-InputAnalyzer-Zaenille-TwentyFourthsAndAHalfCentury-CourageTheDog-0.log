@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+                 InputAnalyzer: Db,Sd,N,Dc,Db,Sd,N,Dd,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,Da,Sd,N,Sa,N,Sa
+                 CourageTheDog: Sc,N,Dc,Dc,Da,Sc,N,N,N
+Final Health:
+                 InputAnalyzer: 1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+Zaenille: InputAnalyzer TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: InputAnalyzer Zaenille CourageTheDog
+CourageTheDog: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:13:53.564671819 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Rule0Bot Scared
+                       HanSolo: Sb,N,Sb,N,Sb,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Scared: Sc,N,Sc,N,Sa,N,Sc
+Final Health:
+                       HanSolo: -3
+                         Spock: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock Rule0Bot Scared
+Spock: HanSolo Rule0Bot Scared
+Rule0Bot: HanSolo Spock Scared
+Scared: HanSolo Spock Rule0Bot
+Generated: 2014/08/12 09:26:26.994707931 UTC

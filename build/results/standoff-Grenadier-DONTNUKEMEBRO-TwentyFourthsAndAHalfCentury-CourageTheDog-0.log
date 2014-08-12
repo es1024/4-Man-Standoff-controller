@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,P,N,N
+                 DONTNUKEMEBRO: Dd,Dc,Dd,Dc,Sd,N,Dc,Dc,Dd,Da,Dd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Da,Da,Sa,N,Sb
+                 CourageTheDog: Sa,N,Sb,N,Sa,N,Db,Dc,Db,N,N
+Final Health:
+                     Grenadier: -7
+                 DONTNUKEMEBRO: 0
+  TwentyFourthsAndAHalfCentury: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury CourageTheDog
+DONTNUKEMEBRO: Grenadier TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: Grenadier DONTNUKEMEBRO CourageTheDog
+CourageTheDog: Grenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:33:38.801388277 UTC

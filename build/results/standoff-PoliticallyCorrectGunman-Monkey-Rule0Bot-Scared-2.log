@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey Rule0Bot Scared
+      PoliticallyCorrectGunman: Sb,N,Dc,N,N,N,N,N,N,P,Sb,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sc,N,N,N,Sc,N,Sa,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+                        Monkey: -2
+                      Rule0Bot: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared Monkey Rule0Bot
+Monkey: Scared PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Scared PoliticallyCorrectGunman Monkey
+Scared: Rule0Bot PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 06:44:41.088404524 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Monkey Scared
+                 InputAnalyzer: Dd,P,Da,Sb
+                         Spock: Sd,N,Sd,N
+                        Monkey: N,Sd,N,Sd
+                        Scared: Sa,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 0
+                        Monkey: 2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Spock Monkey
+Spock: Scared InputAnalyzer Monkey
+Monkey: Scared InputAnalyzer Spock
+Scared: Monkey InputAnalyzer Spock
+Generated: 2014/08/12 05:50:04.010112005 UTC

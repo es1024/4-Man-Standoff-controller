@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman Rule0Bot Scared
+                     Richochet: Sd,N,Sc,N,Sc,N,Sb,N,Sc,N,Sb,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+Final Health:
+                     Richochet: 1
+                     Bomberman: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared Bomberman Rule0Bot
+Bomberman: Scared Richochet Rule0Bot
+Rule0Bot: Scared Richochet Bomberman
+Scared: Rule0Bot Richochet Bomberman
+Generated: 2014/08/12 06:22:11.852726869 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Zaenille Neo
+                         Spock: N,Sd,N,Sc,N,Sc,N,Sc,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                      Zaenille: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Zaenille Neo Richochet
+Richochet: Zaenille Neo Spock
+Zaenille: Richochet Neo Spock
+Neo: Richochet Zaenille Spock
+Generated: 2014/08/12 09:00:03.435248506 UTC

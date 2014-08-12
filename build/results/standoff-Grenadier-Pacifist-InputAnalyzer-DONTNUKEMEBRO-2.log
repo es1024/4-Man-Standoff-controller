@@ -1,16 +1,16 @@
 Standoff between: Grenadier Pacifist InputAnalyzer DONTNUKEMEBRO
-                     Grenadier: P,Td,N
-                      Pacifist: N,N,N
-                 InputAnalyzer: Dd,Db,Sc
-                 DONTNUKEMEBRO: Dc,Sa,N
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,P,Tc
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Db,Sd,N,Dd,Db,Sa,N,Sb,N,Dc,P,Sb
+                 DONTNUKEMEBRO: Dc,Da,Db,Dc,Sc,N,Dc,Db,Db,Da,Db,Dc,Sa
 Final Health:
-                     Grenadier: 0
-                      Pacifist: 2
-                 InputAnalyzer: -2
+                     Grenadier: -5
+                      Pacifist: -5
+                 InputAnalyzer: -9
                  DONTNUKEMEBRO: -3
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: DONTNUKEMEBRO Pacifist InputAnalyzer
 Pacifist: DONTNUKEMEBRO Grenadier InputAnalyzer
 InputAnalyzer: DONTNUKEMEBRO Grenadier Pacifist
 DONTNUKEMEBRO: InputAnalyzer Grenadier Pacifist
-Generated: 2014/08/11 01:00:22.130088600 UTC
+Generated: 2014/08/12 06:07:35.796080153 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Aggressor CourageTheDog
+                 InputAnalyzer: Db,Sd
+                 DONTNUKEMEBRO: Dc,Sc
+                     Aggressor: P,Tb
+                 CourageTheDog: Sa,N
+Final Health:
+                 InputAnalyzer: 0
+                 DONTNUKEMEBRO: -3
+                     Aggressor: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Aggressor CourageTheDog
+DONTNUKEMEBRO: InputAnalyzer Aggressor CourageTheDog
+Aggressor: InputAnalyzer DONTNUKEMEBRO CourageTheDog
+CourageTheDog: InputAnalyzer DONTNUKEMEBRO Aggressor
+Generated: 2014/08/12 06:35:21.950072524 UTC

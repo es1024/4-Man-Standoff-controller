@@ -1,0 +1,16 @@
+Standoff between: Zaenille AntiGrenadier Rule0Bot Sniper
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+                 AntiGrenadier: -15
+                      Rule0Bot: -17
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Sniper AntiGrenadier Rule0Bot
+AntiGrenadier: Sniper Zaenille Rule0Bot
+Rule0Bot: Sniper Zaenille AntiGrenadier
+Sniper: Rule0Bot Zaenille AntiGrenadier
+Generated: 2014/08/12 07:07:47.080659917 UTC

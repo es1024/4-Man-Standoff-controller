@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Sniper Scared
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,N,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                        Monkey: -15
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Sniper Scared
+Monkey: StraightShooter Sniper Scared
+Sniper: StraightShooter Monkey Scared
+Scared: StraightShooter Monkey Sniper
+Generated: 2014/08/12 06:37:05.942795109 UTC

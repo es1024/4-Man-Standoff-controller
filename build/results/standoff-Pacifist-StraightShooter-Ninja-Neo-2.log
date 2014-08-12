@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Ninja Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                         Ninja: Dc,Dd,Db,Da,Dd,Db,Dc,Db,Db,Dc,Dd,Da,Dd,Dd,Dc,Da,Dd,Da,Db,Db,Dc,Da,Dd,Da,Db,Dc,Dd,Dc,Db,Dc,Da,Dd,Dd,Da,Dd,Dd,Da,Db,Da,Da,Db,Dd,Da,Db,Da,Da,Dd,Da,Db,Dc
+                           Neo: N,N,N,N,N,N,N,N,N,Dc,Db,N,Db,N,Db,Dc,Db,N,N,Dc,N,N,N,N,N,N,N,N,N,N,Db,Dc,Db,N,Db,Dc,Db,N,N,Dc,Db,N,Db,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -15
+                         Ninja: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo StraightShooter Ninja
+StraightShooter: Neo Pacifist Ninja
+Ninja: Neo Pacifist StraightShooter
+Neo: Ninja Pacifist StraightShooter
+Generated: 2014/08/12 09:09:20.480234773 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet TwentyFourthsAndAHalfCentury EmoCowboy
+                     Aggressor: P,Tc
+                     Richochet: Sa,N
+  TwentyFourthsAndAHalfCentury: Dd,Da
+                     EmoCowboy: Sd,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury EmoCowboy Richochet
+Richochet: TwentyFourthsAndAHalfCentury EmoCowboy Aggressor
+TwentyFourthsAndAHalfCentury: Richochet EmoCowboy Aggressor
+EmoCowboy: Richochet TwentyFourthsAndAHalfCentury Aggressor
+Generated: 2014/08/12 07:22:17.812760321 UTC

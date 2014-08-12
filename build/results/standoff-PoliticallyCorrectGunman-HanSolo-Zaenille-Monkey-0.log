@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Zaenille Monkey
+      PoliticallyCorrectGunman: Dd,N,Sb,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sd,N,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Sa,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 3
+                      Zaenille: -2
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Zaenille Monkey
+HanSolo: PoliticallyCorrectGunman Zaenille Monkey
+Zaenille: PoliticallyCorrectGunman HanSolo Monkey
+Monkey: PoliticallyCorrectGunman HanSolo Zaenille
+Generated: 2014/08/12 10:34:17.424636951 UTC

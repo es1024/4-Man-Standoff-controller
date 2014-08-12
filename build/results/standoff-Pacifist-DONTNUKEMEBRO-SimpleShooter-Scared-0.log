@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO SimpleShooter Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dc,Dd,Dd,Sc,N,Sd,N,Dc,Dc,Sc
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sa,N,Sb,N,Sb
+                        Scared: Sc,N,Sa,N,Sb,N,Sa,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO SimpleShooter Scared
+DONTNUKEMEBRO: Pacifist SimpleShooter Scared
+SimpleShooter: Pacifist DONTNUKEMEBRO Scared
+Scared: Pacifist DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 07:27:03.360413371 UTC

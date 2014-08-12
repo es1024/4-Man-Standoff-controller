@@ -1,0 +1,16 @@
+Standoff between: Zaenille Ninja Rule0Bot CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Db,Dd,Da,Db,Dc,Da,Dc,Db,Dc,Db,Db,Db,Dc,Da,Dd,Dd,Dc,Da,Da,Db,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Db,Db,Db,Db,Dc,Sc,N,Db,Dc,Db,Db,Db,Dc,Db,Sb,N,Db,Sb,N,Dc,Sc
+Final Health:
+                      Zaenille: -2
+                         Ninja: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Rule0Bot CourageTheDog Ninja
+Ninja: Rule0Bot CourageTheDog Zaenille
+Rule0Bot: Ninja CourageTheDog Zaenille
+CourageTheDog: Ninja Rule0Bot Zaenille
+Generated: 2014/08/12 08:41:11.938343192 UTC

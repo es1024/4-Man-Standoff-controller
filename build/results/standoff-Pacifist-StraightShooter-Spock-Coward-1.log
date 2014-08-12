@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Spock Coward
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                         Spock: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,Sb
+                        Coward: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                         Spock: 5
+                        Coward: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Coward StraightShooter
+StraightShooter: Spock Coward Pacifist
+Spock: StraightShooter Coward Pacifist
+Coward: StraightShooter Spock Pacifist
+Generated: 2014/08/12 07:35:30.529569224 UTC

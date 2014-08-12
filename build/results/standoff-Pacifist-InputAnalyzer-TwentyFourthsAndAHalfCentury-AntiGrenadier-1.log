@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,P,Dd,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Sd,N,Sb,N,Sa
+                 AntiGrenadier: N,N,N,Sb,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+  TwentyFourthsAndAHalfCentury: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury AntiGrenadier InputAnalyzer
+InputAnalyzer: TwentyFourthsAndAHalfCentury AntiGrenadier Pacifist
+TwentyFourthsAndAHalfCentury: InputAnalyzer AntiGrenadier Pacifist
+AntiGrenadier: InputAnalyzer TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 09:36:41.837180679 UTC

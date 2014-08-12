@@ -1,0 +1,16 @@
+Standoff between: HanSolo AntiGrenadier Rule0Bot Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,N,Da,Sa
+Final Health:
+                       HanSolo: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Rule0Bot Neo
+AntiGrenadier: HanSolo Rule0Bot Neo
+Rule0Bot: HanSolo AntiGrenadier Neo
+Neo: HanSolo AntiGrenadier Rule0Bot
+Generated: 2014/08/12 08:33:44.705537256 UTC

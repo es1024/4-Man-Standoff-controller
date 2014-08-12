@@ -1,0 +1,16 @@
+Standoff between: HanSolo AntiGrenadier Scared Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd
+                           Neo: N,N,N,Db,Dc,Sa,N,Sa,N,Sc,N
+Final Health:
+                       HanSolo: -1
+                 AntiGrenadier: -1
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Scared Neo
+AntiGrenadier: HanSolo Scared Neo
+Scared: HanSolo AntiGrenadier Neo
+Neo: HanSolo AntiGrenadier Scared
+Generated: 2014/08/12 07:35:55.005014060 UTC

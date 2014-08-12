@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Monkey EmoCowboy
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,Sd,N,N
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -2
+                        Monkey: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Zaenille Monkey
+Zaenille: EmoCowboy SimpleShooter Monkey
+Monkey: EmoCowboy SimpleShooter Zaenille
+EmoCowboy: Monkey SimpleShooter Zaenille
+Generated: 2014/08/12 05:54:44.281119153 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Monkey Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                        Monkey: N,Dd,N,Dd,Da,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Dd,Da,Db,Dc,Da,Dd,Da,Dd,Da,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                        Monkey: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey Ninja HanSolo
+HanSolo: Monkey Ninja Pacifist
+Monkey: HanSolo Ninja Pacifist
+Ninja: HanSolo Monkey Pacifist
+Generated: 2014/08/12 10:02:15.365341260 UTC

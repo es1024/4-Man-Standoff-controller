@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Richochet AntiGrenadier
+                 InputAnalyzer: Dd,Dc,Dd,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Sc,N,Dc,Dd,Sc,N,Dd,Da,Dc,Dd,Da,Dd,Da,Da,Dc,Dc,Dd,Dd,Dc,Da,Dd,Dd,Da,Da,Dc,Dc,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sb,N,Sd,N,Sb,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: -15
+                     Richochet: -1
+                 AntiGrenadier: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: AntiGrenadier InputAnalyzer Richochet
+Richochet: AntiGrenadier InputAnalyzer DONTNUKEMEBRO
+AntiGrenadier: Richochet InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 07:24:38.858682089 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Monkey Sniper
+                     Grenadier: P,Tc
+                         Spock: Sd,N
+                        Monkey: N,P
+                        Sniper: Sb,N
+Final Health:
+                     Grenadier: -1
+                         Spock: -3
+                        Monkey: -9
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Spock Monkey
+Spock: Sniper Grenadier Monkey
+Monkey: Sniper Grenadier Spock
+Sniper: Monkey Grenadier Spock
+Generated: 2014/08/12 06:54:29.719078590 UTC

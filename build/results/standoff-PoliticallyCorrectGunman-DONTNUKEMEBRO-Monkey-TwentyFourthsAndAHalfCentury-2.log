@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Monkey TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,P,Td
+                 DONTNUKEMEBRO: Da,Dc,Da,Dc,Sd,N,Da,Da,Dd,Dd,Dc,Dc,Dc,Sd,N,Dc,Sa
+                        Monkey: N,Dc,Dc,Da,N,N,N,N,N,N,N,N,Sb,N,N,N,P
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Sb,N,N,N,N,N,N,N,N,Sb,N,Sa,N,Sc,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+                 DONTNUKEMEBRO: -5
+                        Monkey: -6
+  TwentyFourthsAndAHalfCentury: -10
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO Monkey
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Monkey
+Monkey: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: Monkey PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 06:43:07.256563949 UTC

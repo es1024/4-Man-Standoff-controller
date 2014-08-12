@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy
+                 DONTNUKEMEBRO: Dc,Dc,Sb,N,Dc,Db,Sb,N,Dc,N
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,Sc,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,N,N,N,N,N,Db,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: 1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury EmoCowboy SimpleShooter
+SimpleShooter: TwentyFourthsAndAHalfCentury EmoCowboy DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: SimpleShooter EmoCowboy DONTNUKEMEBRO
+EmoCowboy: SimpleShooter TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+Generated: 2014/08/12 09:23:01.822922375 UTC

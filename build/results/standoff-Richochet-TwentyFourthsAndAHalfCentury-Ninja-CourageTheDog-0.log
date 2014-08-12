@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+                     Richochet: Sb,N,Sd,N,Sc,N,Sd,N,Sb,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Da,Dc,Dd,Dc,Dd,Dc,Da,Dd,Da,Dc,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Dd,Da,Db,Db,Da,Da,Db,Dc,Da,Dd,Dc,Dd,Dd,Dc,Da,Dc,Da,Da,Da,Da,Dd
+                 CourageTheDog: Sa,N,Sc,N,Sc,N,Db,Db,Dc,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+TwentyFourthsAndAHalfCentury: Richochet Ninja CourageTheDog
+Ninja: Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Richochet TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 07:55:12.715169364 UTC

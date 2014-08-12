@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo AntiGrenadier CourageTheDog
+                     Grenadier: P,Td
+                       HanSolo: Sc,N
+                 AntiGrenadier: N,Sa
+                 CourageTheDog: Sc,N
+Final Health:
+                     Grenadier: 0
+                       HanSolo: 2
+                 AntiGrenadier: -2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier CourageTheDog HanSolo
+HanSolo: AntiGrenadier CourageTheDog Grenadier
+AntiGrenadier: HanSolo CourageTheDog Grenadier
+CourageTheDog: HanSolo AntiGrenadier Grenadier
+Generated: 2014/08/12 07:14:11.408186642 UTC

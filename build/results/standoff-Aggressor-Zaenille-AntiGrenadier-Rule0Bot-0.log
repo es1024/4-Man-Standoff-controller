@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille AntiGrenadier Rule0Bot
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+                 AntiGrenadier: N,Sa
+                      Rule0Bot: N,N
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+                 AntiGrenadier: -3
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Zaenille AntiGrenadier Rule0Bot
+Zaenille: Aggressor AntiGrenadier Rule0Bot
+AntiGrenadier: Aggressor Zaenille Rule0Bot
+Rule0Bot: Aggressor Zaenille AntiGrenadier
+Generated: 2014/08/12 10:00:25.407640611 UTC

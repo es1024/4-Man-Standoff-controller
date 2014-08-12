@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman
+                 InputAnalyzer: Dc,Db,Dd,Da,P,Dd,Db
+      PoliticallyCorrectGunman: N,Da,Dd,N,Sd,N,Dd
+  TwentyFourthsAndAHalfCentury: Dd,Db,N,Sa,N,Sb,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Bomberman PoliticallyCorrectGunman
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Bomberman InputAnalyzer
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Bomberman InputAnalyzer
+Bomberman: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury InputAnalyzer
+Generated: 2014/08/12 09:18:32.292867073 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter TwentyFourthsAndAHalfCentury Scared
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Dd,N,Dd,N,Dd,N,Db,N,Db,N,N,N,N,N,N,N,Dd,N,Dd,Sd,N
+                        Scared: N,N,N,N,N,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,Sb,N,Sb,N,Sc
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared StraightShooter TwentyFourthsAndAHalfCentury
+StraightShooter: Scared Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Grenadier StraightShooter
+Scared: TwentyFourthsAndAHalfCentury Grenadier StraightShooter
+Generated: 2014/08/12 10:05:16.047225336 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Ninja Scared
+                         Spock: N,N,N,Sc,N,Sc,N,Sd,N,N,N
+                 SimpleShooter: Sc,N,Sc,N,Sa,N,Sd,N,Sa,N,Sd
+                         Ninja: Db,Da,Dd,Dd,Dc,Dd,N,N,N,N,N
+                        Scared: N,N,N,N,Sb,N,Sa,N,Sb,N,Sb
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared SimpleShooter Ninja
+SimpleShooter: Scared Spock Ninja
+Ninja: Scared Spock SimpleShooter
+Scared: Ninja Spock SimpleShooter
+Generated: 2014/08/12 07:56:07.361358201 UTC

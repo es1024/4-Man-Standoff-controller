@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Ninja CourageTheDog
+                 InputAnalyzer: Db,Dd,Db,Dd,Db,Da,Dd,Dc,Db,Da,Dd,P,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+                         Ninja: Da,Dc,Db,Db,Da,Da,Da,Dc,Da,Da,Dc,Da,Dc
+                 CourageTheDog: Sb,N,Sc,N,Da,Dc,Da,Da,Da,Db,Db,Sc,N
+Final Health:
+                 InputAnalyzer: -7
+                       HanSolo: 0
+                         Ninja: -2
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Ninja CourageTheDog
+HanSolo: InputAnalyzer Ninja CourageTheDog
+Ninja: InputAnalyzer HanSolo CourageTheDog
+CourageTheDog: InputAnalyzer HanSolo Ninja
+Generated: 2014/08/12 08:12:36.095945028 UTC

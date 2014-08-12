@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer AntiGrenadier CourageTheDog
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Da,P,Da,Dd
+                 AntiGrenadier: N,N,Sb,N
+                 CourageTheDog: Sa,N,P,Tc
+Final Health:
+                      Pacifist: -3
+                 InputAnalyzer: -6
+                 AntiGrenadier: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer AntiGrenadier CourageTheDog
+InputAnalyzer: Pacifist AntiGrenadier CourageTheDog
+AntiGrenadier: Pacifist InputAnalyzer CourageTheDog
+CourageTheDog: Pacifist InputAnalyzer AntiGrenadier
+Generated: 2014/08/12 07:04:11.473329808 UTC

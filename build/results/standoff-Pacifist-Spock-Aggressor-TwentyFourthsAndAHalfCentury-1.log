@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Aggressor TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N
+                         Spock: Sc,N,N,N
+                     Aggressor: P,Tb,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Sa
+Final Health:
+                      Pacifist: 0
+                         Spock: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor TwentyFourthsAndAHalfCentury Spock
+Spock: Aggressor TwentyFourthsAndAHalfCentury Pacifist
+Aggressor: Spock TwentyFourthsAndAHalfCentury Pacifist
+TwentyFourthsAndAHalfCentury: Spock Aggressor Pacifist
+Generated: 2014/08/12 09:52:24.742613382 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Monkey Bomberman
+      PoliticallyCorrectGunman: Db,N,Db,Db,P,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,Db,N,P,N,N
+                     Bomberman: N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                        Monkey: -4
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman Spock Monkey
+Spock: Bomberman PoliticallyCorrectGunman Monkey
+Monkey: Bomberman PoliticallyCorrectGunman Spock
+Bomberman: Monkey PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 06:08:56.535952013 UTC

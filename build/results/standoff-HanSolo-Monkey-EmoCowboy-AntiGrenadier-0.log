@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey EmoCowboy AntiGrenadier
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Monkey: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey EmoCowboy AntiGrenadier
+Monkey: HanSolo EmoCowboy AntiGrenadier
+EmoCowboy: HanSolo Monkey AntiGrenadier
+AntiGrenadier: HanSolo Monkey EmoCowboy
+Generated: 2014/08/12 09:48:39.561460545 UTC

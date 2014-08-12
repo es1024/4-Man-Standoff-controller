@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Bomberman Scared
+                 SimpleShooter: Sc,N,Sb
+                     Aggressor: P,Td,Sa
+                     Bomberman: N,N,N
+                        Scared: Sc,N,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 0
+                     Bomberman: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Aggressor Bomberman
+Aggressor: Scared SimpleShooter Bomberman
+Bomberman: Scared SimpleShooter Aggressor
+Scared: Bomberman SimpleShooter Aggressor
+Generated: 2014/08/12 08:30:11.367899141 UTC

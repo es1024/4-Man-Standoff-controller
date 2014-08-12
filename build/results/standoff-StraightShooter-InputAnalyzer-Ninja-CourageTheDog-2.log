@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Ninja CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N
+                 InputAnalyzer: Dd,Dc,Dd,Db,Da,Db,P,N,N
+                         Ninja: Dc,Da,Dc,Dd,Dd,Db,Dd,Dd,Dc
+                 CourageTheDog: Sb,N,Da,Sa,N,Da,Db,P,Tc
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                         Ninja: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog InputAnalyzer Ninja
+InputAnalyzer: CourageTheDog StraightShooter Ninja
+Ninja: CourageTheDog StraightShooter InputAnalyzer
+CourageTheDog: Ninja StraightShooter InputAnalyzer
+Generated: 2014/08/12 08:17:00.165436369 UTC

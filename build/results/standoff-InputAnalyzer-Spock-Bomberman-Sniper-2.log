@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Bomberman Sniper
+                 InputAnalyzer: Dd,P,Sa
+                         Spock: Sd,N,Sd
+                     Bomberman: N,N,N
+                        Sniper: Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -10
+                         Spock: 0
+                     Bomberman: 2
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Spock Bomberman
+Spock: Sniper InputAnalyzer Bomberman
+Bomberman: Sniper InputAnalyzer Spock
+Sniper: Bomberman InputAnalyzer Spock
+Generated: 2014/08/12 07:18:38.895274482 UTC

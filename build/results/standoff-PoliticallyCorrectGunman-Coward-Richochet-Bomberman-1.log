@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Richochet Bomberman
+      PoliticallyCorrectGunman: N,Db,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sc,N,Sc
+                     Richochet: Sb,N,Sa,N,Sd,N,Sd,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: -1
+                     Richochet: 1
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Bomberman Coward
+Coward: Richochet Bomberman PoliticallyCorrectGunman
+Richochet: Coward Bomberman PoliticallyCorrectGunman
+Bomberman: Coward Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 08:30:22.777764055 UTC

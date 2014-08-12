@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet TwentyFourthsAndAHalfCentury Rule0Bot
+                     Aggressor: P,Td
+                     Richochet: Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd
+                      Rule0Bot: N,Sa
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: 0
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot Richochet TwentyFourthsAndAHalfCentury
+Richochet: Rule0Bot Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Aggressor Richochet
+Rule0Bot: TwentyFourthsAndAHalfCentury Aggressor Richochet
+Generated: 2014/08/12 06:15:20.923352310 UTC

@@ -1,0 +1,16 @@
+Standoff between: Monkey Ninja Sniper CourageTheDog
+                        Monkey: N,N,Da,N,N,N,N,N,Sa,N,N,N,N,N
+                         Ninja: Db,Da,Dd,Da,Dd,Dd,Dc,Dc,Db,N,N,N,N,N
+                        Sniper: Sd,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,N,N,Sb,N,Sa,N,Dc,Sc,N,Dc,Sc
+Final Health:
+                        Monkey: -2
+                         Ninja: -1
+                        Sniper: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Sniper CourageTheDog Ninja
+Ninja: Sniper CourageTheDog Monkey
+Sniper: Ninja CourageTheDog Monkey
+CourageTheDog: Ninja Sniper Monkey
+Generated: 2014/08/12 06:58:52.425365879 UTC

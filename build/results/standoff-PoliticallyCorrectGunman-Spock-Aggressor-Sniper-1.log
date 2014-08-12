@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Aggressor Sniper
+      PoliticallyCorrectGunman: Sc,N
+                         Spock: Sc,N
+                     Aggressor: P,Tb
+                        Sniper: Sa,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                         Spock: -3
+                     Aggressor: -2
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Sniper Spock
+Spock: Aggressor Sniper PoliticallyCorrectGunman
+Aggressor: Spock Sniper PoliticallyCorrectGunman
+Sniper: Spock Aggressor PoliticallyCorrectGunman
+Generated: 2014/08/12 07:19:20.188275378 UTC

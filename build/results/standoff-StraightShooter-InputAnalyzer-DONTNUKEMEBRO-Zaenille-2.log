@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO Zaenille
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 InputAnalyzer: Dd,Sc,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Db,Dd,Sb,N,Dd,Dd,Da,Da,Da,Da,Dd,Db,Da,Da,Da,Da,Da,Db,Db,Dd,Dd,Dd,Db,Db,Dd,Db,Db,Dd,Da,Dd,Dd,Dd,Da,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: -15
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: Zaenille StraightShooter DONTNUKEMEBRO
+DONTNUKEMEBRO: Zaenille StraightShooter InputAnalyzer
+Zaenille: DONTNUKEMEBRO StraightShooter InputAnalyzer
+Generated: 2014/08/12 07:21:08.874940057 UTC

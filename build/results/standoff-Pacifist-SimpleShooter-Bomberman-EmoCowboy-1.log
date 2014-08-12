@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Bomberman EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sa,N,Sc,N,Sa,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,Sd,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman EmoCowboy SimpleShooter
+SimpleShooter: Bomberman EmoCowboy Pacifist
+Bomberman: SimpleShooter EmoCowboy Pacifist
+EmoCowboy: SimpleShooter Bomberman Pacifist
+Generated: 2014/08/12 10:25:01.912253019 UTC

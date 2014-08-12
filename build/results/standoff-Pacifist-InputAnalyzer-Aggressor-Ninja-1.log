@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Aggressor Ninja
+                      Pacifist: N,N,N
+                 InputAnalyzer: Dc,Sa,N
+                     Aggressor: P,Tb,Sd
+                         Ninja: Da,Dc,Dd
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                     Aggressor: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Ninja InputAnalyzer
+InputAnalyzer: Aggressor Ninja Pacifist
+Aggressor: InputAnalyzer Ninja Pacifist
+Ninja: InputAnalyzer Aggressor Pacifist
+Generated: 2014/08/12 09:26:19.776874776 UTC

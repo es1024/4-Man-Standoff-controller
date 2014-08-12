@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock TwentyFourthsAndAHalfCentury Sniper
+                 InputAnalyzer: Db,P,N,Sb,N
+                         Spock: Sa,N,Sa,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Da,Sd
+                        Sniper: Sc,N,Sb,N,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: -2
+  TwentyFourthsAndAHalfCentury: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock TwentyFourthsAndAHalfCentury Sniper
+Spock: InputAnalyzer TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: InputAnalyzer Spock Sniper
+Sniper: InputAnalyzer Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:33:45.970879153 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Zaenille Rule0Bot
+                     Grenadier: N,P,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                      Rule0Bot: N,N,N,N,N
+Final Health:
+                     Grenadier: -5
+                     Richochet: 2
+                      Zaenille: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Zaenille Rule0Bot
+Richochet: Grenadier Zaenille Rule0Bot
+Zaenille: Grenadier Richochet Rule0Bot
+Rule0Bot: Grenadier Richochet Zaenille
+Generated: 2014/08/12 09:52:42.567784921 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Monkey CourageTheDog
+                 InputAnalyzer: Dd,Sc,N,Dd,Dc,Dd,Dc,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Dc,Sd,N,Sd,N,Dc
+                        Monkey: N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Sa,N,Sa,N,Sb,N,Db,Db,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                 InputAnalyzer: -1
+                        Coward: -1
+                        Monkey: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Coward Monkey
+Coward: CourageTheDog InputAnalyzer Monkey
+Monkey: CourageTheDog InputAnalyzer Coward
+CourageTheDog: Monkey InputAnalyzer Coward
+Generated: 2014/08/12 07:19:08.676570254 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Ninja Scared
+                     Richochet: Sd,N,Sb,N,Sc,N,Sd,N,Sc,N,Sd,N,Sb,N,Sc,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,Dc,Dc,Dc,Da,Dc,Dc,Dc,Da,Sa
+                         Ninja: Db,Da,Db,Dd,Dc,Dc,Da,Dc,Dd,Db,Dc,Dd,Dd,Dc,Db,N
+                        Scared: N,N,N,N,N,N,Sa,N,Sc,N,Sa,N,N,N,N,N
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: 1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: TwentyFourthsAndAHalfCentury Ninja Scared
+TwentyFourthsAndAHalfCentury: Richochet Ninja Scared
+Ninja: Richochet TwentyFourthsAndAHalfCentury Scared
+Scared: Richochet TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 07:36:42.294436444 UTC

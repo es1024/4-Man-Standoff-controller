@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Monkey Neo
+               StraightShooter: Sc,N,Sc,N
+                 InputAnalyzer: Da,P,Sa,N
+                        Monkey: N,N,N,N
+                           Neo: N,N,N,Dc
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -1
+                        Monkey: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer Monkey Neo
+InputAnalyzer: StraightShooter Monkey Neo
+Monkey: StraightShooter InputAnalyzer Neo
+Neo: StraightShooter InputAnalyzer Monkey
+Generated: 2014/08/12 09:46:34.157505036 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+                     Aggressor: P,Td
+  TwentyFourthsAndAHalfCentury: Dc,Da
+                     EmoCowboy: Sc,N
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy AntiGrenadier Aggressor
+EmoCowboy: TwentyFourthsAndAHalfCentury AntiGrenadier Aggressor
+AntiGrenadier: TwentyFourthsAndAHalfCentury EmoCowboy Aggressor
+Generated: 2014/08/12 10:12:35.697723286 UTC

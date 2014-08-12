@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Coward Bomberman
+      PoliticallyCorrectGunman: Sd,N,N,N,N,N,N,N,N,N,Sc,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                        Coward: 3
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Coward Bomberman
+Spock: PoliticallyCorrectGunman Coward Bomberman
+Coward: PoliticallyCorrectGunman Spock Bomberman
+Bomberman: PoliticallyCorrectGunman Spock Coward
+Generated: 2014/08/12 08:14:40.951867778 UTC

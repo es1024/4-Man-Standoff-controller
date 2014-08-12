@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo DONTNUKEMEBRO Scared
+      PoliticallyCorrectGunman: Db,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Db,Db,Sd,N,Dd,Da,Da,Da,Db,Da,Db,Dd,Sb,N,Sb
+                        Scared: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared HanSolo DONTNUKEMEBRO
+HanSolo: Scared PoliticallyCorrectGunman DONTNUKEMEBRO
+DONTNUKEMEBRO: Scared PoliticallyCorrectGunman HanSolo
+Scared: DONTNUKEMEBRO PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 09:03:54.368622708 UTC

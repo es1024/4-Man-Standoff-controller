@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Rule0Bot Scared Neo
+                 SimpleShooter: Sc,N,Sb,N,Sc,N,Sb,N,Sc,N,Sb,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sa,N,Sd,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,Db,Db,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                      Rule0Bot: -1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Rule0Bot Scared
+Rule0Bot: Neo SimpleShooter Scared
+Scared: Neo SimpleShooter Rule0Bot
+Neo: Scared SimpleShooter Rule0Bot
+Generated: 2014/08/12 07:51:25.216037551 UTC

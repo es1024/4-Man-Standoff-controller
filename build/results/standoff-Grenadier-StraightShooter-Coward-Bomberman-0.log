@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Coward Bomberman
+                     Grenadier: N,N,N,N,P,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: 2
+                        Coward: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Coward Bomberman
+StraightShooter: Grenadier Coward Bomberman
+Coward: Grenadier StraightShooter Bomberman
+Bomberman: Grenadier StraightShooter Coward
+Generated: 2014/08/12 09:51:23.632484241 UTC

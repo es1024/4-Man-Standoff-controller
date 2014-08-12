@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer EmoCowboy
+                      Pacifist: N,N,N
+               StraightShooter: Sa,N,Sa
+                 InputAnalyzer: Dd,P,Sc
+                     EmoCowboy: Sd,N,N
+Final Health:
+                      Pacifist: -2
+               StraightShooter: 2
+                 InputAnalyzer: -8
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy StraightShooter InputAnalyzer
+StraightShooter: EmoCowboy Pacifist InputAnalyzer
+InputAnalyzer: EmoCowboy Pacifist StraightShooter
+EmoCowboy: InputAnalyzer Pacifist StraightShooter
+Generated: 2014/08/12 07:48:07.271939208 UTC

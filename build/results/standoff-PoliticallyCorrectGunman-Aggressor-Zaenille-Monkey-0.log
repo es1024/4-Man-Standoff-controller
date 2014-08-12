@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Zaenille Monkey
+      PoliticallyCorrectGunman: Db,Sd
+                     Aggressor: P,Ta
+                      Zaenille: Sc,N
+                        Monkey: N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -3
+                     Aggressor: 2
+                      Zaenille: -2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Zaenille Monkey
+Aggressor: PoliticallyCorrectGunman Zaenille Monkey
+Zaenille: PoliticallyCorrectGunman Aggressor Monkey
+Monkey: PoliticallyCorrectGunman Aggressor Zaenille
+Generated: 2014/08/12 06:12:54.508441760 UTC

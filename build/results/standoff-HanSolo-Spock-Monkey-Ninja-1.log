@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Monkey Ninja
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,N,Sd,N,Sc,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Da,Dd,Da,Dd,Db,Db,Dc,Db,Dd,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                        Monkey: -3
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Ninja Spock
+Spock: Monkey Ninja HanSolo
+Monkey: Spock Ninja HanSolo
+Ninja: Spock Monkey HanSolo
+Generated: 2014/08/12 10:30:14.587047827 UTC

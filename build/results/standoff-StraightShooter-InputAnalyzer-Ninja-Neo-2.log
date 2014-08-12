@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Ninja Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 InputAnalyzer: Dd,Sc,N,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Db,Dc,Dc,Db,Dd,Dc,Db,Dd,Da,Da,Dd,Dd,Dc,Dd,Db,Da,Da,Db,Dc,Dd,Dd,Dc,Db,Db,Da,Db,Dc,Db,Dd,Dc,Db,Da,Dc,Db,Dc,Dc,Db,Db,Da,Dc,Dd,Dd,Da,Db,Da,Dc,Db,Db
+                           Neo: N,N,N,N,Db,Dc,N,N,N,N,Da,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Da,N,Da,Dc,N,Dc,Da,N,N,Dc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                 InputAnalyzer: -1
+                         Ninja: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo InputAnalyzer Ninja
+InputAnalyzer: Neo StraightShooter Ninja
+Ninja: Neo StraightShooter InputAnalyzer
+Neo: Ninja StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:06:31.283419818 UTC

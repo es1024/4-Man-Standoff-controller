@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,N,Db,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,Sd,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Sa,N,Da,Dc,Da,Db,Da,Db,Da,Db,Db,Db,Sb,N,Db,Da,Dc,Dc,Db,Da,Da,Dc,Sa,N,Dc,Sb,N,Dc,Sb,N,Sc,N,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                     Bomberman: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Bomberman Neo
+Bomberman: CourageTheDog Pacifist Neo
+Neo: CourageTheDog Pacifist Bomberman
+CourageTheDog: Neo Pacifist Bomberman
+Generated: 2014/08/12 10:17:04.527667288 UTC

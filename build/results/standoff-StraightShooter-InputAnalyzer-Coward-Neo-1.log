@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Coward Neo
+               StraightShooter: Sd,N,Sd,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Sa,N,Sb
+                        Coward: Sa,N,Sa,N,Sd,N
+                           Neo: N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -2
+                        Coward: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Neo InputAnalyzer
+InputAnalyzer: Coward Neo StraightShooter
+Coward: InputAnalyzer Neo StraightShooter
+Neo: InputAnalyzer Coward StraightShooter
+Generated: 2014/08/12 07:21:39.523271342 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Scared Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,Sa,N,Sb,N,Sd,N,Sb,N,N,N,N,N,N,N,Sd,N,N,Sb,N,Sd
+                           Neo: N,N,N,N,N,N,N,N,Db,Db,Db,Db,Db,Db,N,N,N,N,N,N,N,N,N,N,Sc,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                     Bomberman: -1
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Bomberman Scared
+Bomberman: Neo PoliticallyCorrectGunman Scared
+Scared: Neo PoliticallyCorrectGunman Bomberman
+Neo: Scared PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 09:39:34.104741039 UTC

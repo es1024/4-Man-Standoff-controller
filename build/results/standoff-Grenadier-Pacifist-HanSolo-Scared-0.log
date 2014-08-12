@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist HanSolo Scared
+                     Grenadier: N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sb,N,Sb,N,Sd
+                        Scared: Sa,N,Sc,N,Sb,N,Sc,N,Sc
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -1
+                       HanSolo: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist HanSolo Scared
+Pacifist: Grenadier HanSolo Scared
+HanSolo: Grenadier Pacifist Scared
+Scared: Grenadier Pacifist HanSolo
+Generated: 2014/08/12 08:27:50.341038286 UTC

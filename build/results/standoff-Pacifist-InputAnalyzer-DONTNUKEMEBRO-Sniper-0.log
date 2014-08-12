@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer DONTNUKEMEBRO Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dd,Sa,N,Dd,Da,P,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Dd,Dd,Da,Da,Db,Sb,N,Db,Db,Dd,Dd,Da,Da,Dd,Dd,Dd,Da,Da,Da,Da,Dd,Dd,Dd,Dd,Da,Da,Da,Db,Db,Db,Da,Da,Sd
+                        Sniper: Sa,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer DONTNUKEMEBRO Sniper
+InputAnalyzer: Pacifist DONTNUKEMEBRO Sniper
+DONTNUKEMEBRO: Pacifist InputAnalyzer Sniper
+Sniper: Pacifist InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 06:26:11.720150023 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Ninja AntiGrenadier
+      PoliticallyCorrectGunman: P,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Da,Dd,Da,Da,Da,Dd,Da,Db,Db,Dc,Db,Dc,Db,Dc,Dc,Db,Dc,Db,Dd,Dc,Dd,Dd,Dc,Db,Dc,Db,Da,Dd,Da,Db,Da,Dd,Dc,Dc,Dd,Da,Dd,Db,Dc,Db,Db,Da,Db,Dd,Da,Dd,Da,Dd
+                 AntiGrenadier: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Bomberman: -18
+                         Ninja: -18
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Bomberman Ninja
+Bomberman: AntiGrenadier PoliticallyCorrectGunman Ninja
+Ninja: AntiGrenadier PoliticallyCorrectGunman Bomberman
+AntiGrenadier: Ninja PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 08:05:33.686113854 UTC

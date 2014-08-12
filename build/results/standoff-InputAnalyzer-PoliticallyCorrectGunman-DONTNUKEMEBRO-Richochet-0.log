@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO Richochet
+                 InputAnalyzer: Db,Da,Sd,N
+      PoliticallyCorrectGunman: Dd,Dc,P,Sb
+                 DONTNUKEMEBRO: Da,Db,Dd,Sb
+                     Richochet: Sa,N,Sa,N
+Final Health:
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -10
+                 DONTNUKEMEBRO: 2
+                     Richochet: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman DONTNUKEMEBRO Richochet
+PoliticallyCorrectGunman: InputAnalyzer DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: InputAnalyzer PoliticallyCorrectGunman Richochet
+Richochet: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 08:21:29.144350611 UTC

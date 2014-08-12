@@ -1,0 +1,16 @@
+Standoff between: Monkey EmoCowboy Scared Neo
+                        Monkey: N,N,N,N,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,Sa,N,Sd,N,Sd,N,Sa,N,Sd,N,N,N,N,N,N,N,Sa,N,Sd
+                           Neo: N,N,N,N,N,N,Da,Da,Dc,Da,N,Da,Da,N,N,N,N,N,N,N,Da,N,N
+Final Health:
+                        Monkey: -1
+                     EmoCowboy: -2
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Neo EmoCowboy Scared
+EmoCowboy: Neo Monkey Scared
+Scared: Neo Monkey EmoCowboy
+Neo: Scared Monkey EmoCowboy
+Generated: 2014/08/12 08:06:06.628117107 UTC

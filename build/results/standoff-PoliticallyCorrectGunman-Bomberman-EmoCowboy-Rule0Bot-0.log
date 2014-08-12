@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman EmoCowboy Rule0Bot
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -1
+                     EmoCowboy: -2
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman EmoCowboy Rule0Bot
+Bomberman: PoliticallyCorrectGunman EmoCowboy Rule0Bot
+EmoCowboy: PoliticallyCorrectGunman Bomberman Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman Bomberman EmoCowboy
+Generated: 2014/08/12 07:08:21.163527031 UTC

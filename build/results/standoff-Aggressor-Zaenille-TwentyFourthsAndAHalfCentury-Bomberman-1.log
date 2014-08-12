@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille TwentyFourthsAndAHalfCentury Bomberman
+                     Aggressor: P,Tc,Sd
+                      Zaenille: Sb,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N
+                     Bomberman: N,N,N
+Final Health:
+                     Aggressor: 2
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -3
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury Bomberman Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Bomberman Aggressor
+TwentyFourthsAndAHalfCentury: Zaenille Bomberman Aggressor
+Bomberman: Zaenille TwentyFourthsAndAHalfCentury Aggressor
+Generated: 2014/08/12 08:59:25.143938367 UTC

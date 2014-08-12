@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Zaenille TwentyFourthsAndAHalfCentury
+                       HanSolo: Sc,N,Sb
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N
+Final Health:
+                       HanSolo: 0
+                     Aggressor: 0
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille TwentyFourthsAndAHalfCentury Aggressor
+Aggressor: Zaenille TwentyFourthsAndAHalfCentury HanSolo
+Zaenille: Aggressor TwentyFourthsAndAHalfCentury HanSolo
+TwentyFourthsAndAHalfCentury: Aggressor Zaenille HanSolo
+Generated: 2014/08/12 07:01:08.419368929 UTC

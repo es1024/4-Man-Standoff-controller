@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer HanSolo Zaenille
+                     Grenadier: N,N,N,N,P,Tc
+                 InputAnalyzer: Dc,Da,Sb,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sa,N
+                      Zaenille: Sd,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: -4
+                       HanSolo: -3
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Zaenille InputAnalyzer
+InputAnalyzer: HanSolo Zaenille Grenadier
+HanSolo: InputAnalyzer Zaenille Grenadier
+Zaenille: InputAnalyzer HanSolo Grenadier
+Generated: 2014/08/12 06:51:56.846907782 UTC

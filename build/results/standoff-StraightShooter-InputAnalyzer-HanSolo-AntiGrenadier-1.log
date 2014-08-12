@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer HanSolo AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,Sb,N,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sd,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -4
+                       HanSolo: 5
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo AntiGrenadier InputAnalyzer
+InputAnalyzer: HanSolo AntiGrenadier StraightShooter
+HanSolo: InputAnalyzer AntiGrenadier StraightShooter
+AntiGrenadier: InputAnalyzer HanSolo StraightShooter
+Generated: 2014/08/12 10:15:38.484695539 UTC

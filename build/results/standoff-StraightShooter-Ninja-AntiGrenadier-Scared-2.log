@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Ninja AntiGrenadier Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                         Ninja: Dd,Db,Db,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sc,N,Sa,N,Sc,N,Sa
+Final Health:
+               StraightShooter: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared Ninja AntiGrenadier
+Ninja: Scared StraightShooter AntiGrenadier
+AntiGrenadier: Scared StraightShooter Ninja
+Scared: AntiGrenadier StraightShooter Ninja
+Generated: 2014/08/12 06:04:24.853427708 UTC

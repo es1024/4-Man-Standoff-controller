@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO AntiGrenadier Rule0Bot
+                 InputAnalyzer: Dc,Db,Dc,Db,Sc,N,Sd,N,Db,Dc,Db,Dc,Db,Dc,Db,P,N
+                 DONTNUKEMEBRO: Dc,Dc,Dd,Da,Da,Dd,Dd,Dc,Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 2
+                 AntiGrenadier: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Rule0Bot DONTNUKEMEBRO
+DONTNUKEMEBRO: AntiGrenadier Rule0Bot InputAnalyzer
+AntiGrenadier: DONTNUKEMEBRO Rule0Bot InputAnalyzer
+Rule0Bot: DONTNUKEMEBRO AntiGrenadier InputAnalyzer
+Generated: 2014/08/12 07:22:28.972835404 UTC

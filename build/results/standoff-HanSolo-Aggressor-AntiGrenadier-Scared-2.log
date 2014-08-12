@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor AntiGrenadier Scared
+                       HanSolo: Sd,N
+                     Aggressor: P,Ta
+                 AntiGrenadier: N,Sb
+                        Scared: N,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 0
+                 AntiGrenadier: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Aggressor AntiGrenadier
+Aggressor: Scared HanSolo AntiGrenadier
+AntiGrenadier: Scared HanSolo Aggressor
+Scared: AntiGrenadier HanSolo Aggressor
+Generated: 2014/08/12 08:22:32.222414643 UTC

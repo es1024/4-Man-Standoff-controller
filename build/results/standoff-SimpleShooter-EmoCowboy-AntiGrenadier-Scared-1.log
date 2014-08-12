@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter EmoCowboy AntiGrenadier Scared
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd,N,Sd,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sc,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                     EmoCowboy: -6
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: AntiGrenadier Scared EmoCowboy
+EmoCowboy: AntiGrenadier Scared SimpleShooter
+AntiGrenadier: EmoCowboy Scared SimpleShooter
+Scared: EmoCowboy AntiGrenadier SimpleShooter
+Generated: 2014/08/12 06:15:52.283459476 UTC

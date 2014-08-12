@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+                 DONTNUKEMEBRO: Dd,Dd,Db,Dc,Dd,Dc,Dd,Dc,Db,Dc,Db,Dc,Db,Dd,Dd,Sb,N,Dc,Db,Sb,N,Db,Db,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Da,Sd,N,N,N,N,N,N,N,N,N,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: AntiGrenadier TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: AntiGrenadier DONTNUKEMEBRO EmoCowboy
+EmoCowboy: AntiGrenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+AntiGrenadier: EmoCowboy DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:09:19.845037567 UTC

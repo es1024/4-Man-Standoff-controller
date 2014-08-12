@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO Sniper
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+      PoliticallyCorrectGunman: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Db,Da,Dd,Db,Da,Dd,Da,Da,Db,Da,Db,Db,Db,Db,Dd,Dd,Da,Da,Da,Da,Dd,Db,Dd,Da,Db,Db,Dd,Dd,Dd,Dd,Da,Db,Sa,N,Sa,N,Sa
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: 5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Sniper PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO Sniper StraightShooter
+DONTNUKEMEBRO: PoliticallyCorrectGunman Sniper StraightShooter
+Sniper: PoliticallyCorrectGunman DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/12 08:27:38.161209577 UTC

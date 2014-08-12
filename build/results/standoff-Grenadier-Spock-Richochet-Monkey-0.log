@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Richochet Monkey
+                     Grenadier: P,Tc
+                         Spock: Sa,N
+                     Richochet: Sb,N
+                        Monkey: N,N
+Final Health:
+                     Grenadier: 0
+                         Spock: 0
+                     Richochet: -3
+                        Monkey: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Richochet Monkey
+Spock: Grenadier Richochet Monkey
+Richochet: Grenadier Spock Monkey
+Monkey: Grenadier Spock Richochet
+Generated: 2014/08/12 08:03:47.691917651 UTC

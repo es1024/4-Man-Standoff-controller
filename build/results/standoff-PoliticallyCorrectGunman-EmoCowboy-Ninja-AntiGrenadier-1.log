@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman EmoCowboy Ninja AntiGrenadier
+      PoliticallyCorrectGunman: Sd,N,N,N,N,N,Sc,N,N,N,N,Dd,N,Sc,N,N,Sc,N,Db,Dd,N,Sd,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,Sa
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dc,Db,Dd,Da,Dd,Da,Dd,Db,Dd,Db,Da,Dd,Dd,Db,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     EmoCowboy: -2
+                         Ninja: -1
+                 AntiGrenadier: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja AntiGrenadier EmoCowboy
+EmoCowboy: Ninja AntiGrenadier PoliticallyCorrectGunman
+Ninja: EmoCowboy AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: EmoCowboy Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 08:50:18.138909146 UTC

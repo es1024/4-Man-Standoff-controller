@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+                     Richochet: Sc,N,Sd,N,Sb,N,Sc,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sc
+                        Monkey: N,N,N,N,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Db,Db,Db,Dd,Da,Dd,Dd,N,Da,Dd,Dd,N,Da,Dd,Da,Dd,Dd,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Da,Sb,N,Da,Sc,N,Da,Da,Sc,N,Dc,Sa,N,Da,Sc,N,Sa,N,N
+Final Health:
+                     Richochet: 1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: CourageTheDog Monkey TwentyFourthsAndAHalfCentury
+Monkey: CourageTheDog Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog Richochet Monkey
+CourageTheDog: TwentyFourthsAndAHalfCentury Richochet Monkey
+Generated: 2014/08/12 05:48:23.783706378 UTC

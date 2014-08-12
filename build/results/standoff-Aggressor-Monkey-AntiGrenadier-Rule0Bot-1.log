@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey AntiGrenadier Rule0Bot
+                     Aggressor: P,Tc,N,N
+                        Monkey: N,P,Sa,N
+                 AntiGrenadier: N,Sa,N,N
+                      Rule0Bot: N,Sa,N,N
+Final Health:
+                     Aggressor: -2
+                        Monkey: -4
+                 AntiGrenadier: -3
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: AntiGrenadier Rule0Bot Monkey
+Monkey: AntiGrenadier Rule0Bot Aggressor
+AntiGrenadier: Monkey Rule0Bot Aggressor
+Rule0Bot: Monkey AntiGrenadier Aggressor
+Generated: 2014/08/12 08:36:18.302186835 UTC

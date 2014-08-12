@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer PoliticallyCorrectGunman Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Db,Da,Db,Da,P,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Db,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Dd,Dd,Dd,Dc,Db,Da,Da,Db,Db,Db,Dd,Dd,Da,Dc,Dc,Da,Da,Dc,Db,Dd,Dd,Db,Da,Dc,Db,Dd,Dc,Da,Da,Db,Da,Db,Dc,Dd,Dc,Dc,Dd,Dd,Dd,Dc,Dc,Dd,Da,Dc,Dc,Dc,Da,Da
+Final Health:
+                      Pacifist: -18
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -2
+                         Ninja: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja InputAnalyzer PoliticallyCorrectGunman
+InputAnalyzer: Ninja Pacifist PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Ninja Pacifist InputAnalyzer
+Ninja: PoliticallyCorrectGunman Pacifist InputAnalyzer
+Generated: 2014/08/12 10:00:50.124508382 UTC

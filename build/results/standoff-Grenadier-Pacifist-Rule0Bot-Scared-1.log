@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Rule0Bot Scared
+                     Grenadier: P,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,Sc,N,N,N,N,N,Sb
+Final Health:
+                     Grenadier: -5
+                      Pacifist: 0
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Scared Pacifist
+Pacifist: Rule0Bot Scared Grenadier
+Rule0Bot: Pacifist Scared Grenadier
+Scared: Pacifist Rule0Bot Grenadier
+Generated: 2014/08/12 06:10:54.565768857 UTC

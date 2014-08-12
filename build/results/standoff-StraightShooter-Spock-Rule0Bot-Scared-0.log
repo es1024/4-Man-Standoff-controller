@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Rule0Bot Scared
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N
+                         Spock: Sa,N,Sc,N,Sa,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sa,N,Sb,N,Sb
+Final Health:
+               StraightShooter: -1
+                         Spock: -1
+                      Rule0Bot: -3
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Rule0Bot Scared
+Spock: StraightShooter Rule0Bot Scared
+Rule0Bot: StraightShooter Spock Scared
+Scared: StraightShooter Spock Rule0Bot
+Generated: 2014/08/12 06:48:43.179765253 UTC

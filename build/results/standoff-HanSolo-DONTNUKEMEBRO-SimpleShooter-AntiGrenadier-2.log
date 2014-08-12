@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO SimpleShooter AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sc
+                 DONTNUKEMEBRO: Dd,Dd,Sc,N,Da,Da,Sc,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sb,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: AntiGrenadier HanSolo SimpleShooter
+SimpleShooter: AntiGrenadier HanSolo DONTNUKEMEBRO
+AntiGrenadier: SimpleShooter HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 09:45:38.223035089 UTC

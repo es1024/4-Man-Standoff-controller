@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Zaenille Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb
+                         Spock: Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                      Rule0Bot: N,N,N,N,N
+Final Health:
+               StraightShooter: 5
+                         Spock: -1
+                      Zaenille: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot Spock Zaenille
+Spock: Rule0Bot StraightShooter Zaenille
+Zaenille: Rule0Bot StraightShooter Spock
+Rule0Bot: Zaenille StraightShooter Spock
+Generated: 2014/08/12 07:01:27.535619498 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy Ninja Neo
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc
+                     EmoCowboy: N,N,N,N,N,Sb,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Da,Dd,Dd,Da,Dc,Dd,Da,Db,Dd,Da,Dd
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     EmoCowboy: -2
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo EmoCowboy Ninja
+EmoCowboy: Neo HanSolo Ninja
+Ninja: Neo HanSolo EmoCowboy
+Neo: Ninja HanSolo EmoCowboy
+Generated: 2014/08/12 06:36:42.755752566 UTC

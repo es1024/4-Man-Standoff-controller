@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Bomberman CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Db,Db,Db
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 5
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman CourageTheDog SimpleShooter
+SimpleShooter: Bomberman CourageTheDog HanSolo
+Bomberman: SimpleShooter CourageTheDog HanSolo
+CourageTheDog: SimpleShooter Bomberman HanSolo
+Generated: 2014/08/12 05:57:14.241813132 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Bomberman Scared
+                         Spock: Sd,N,Sd,N,Sd,N,Sb
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sa
+                     Bomberman: N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sc,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 1
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared SimpleShooter Bomberman
+SimpleShooter: Scared Spock Bomberman
+Bomberman: Scared Spock SimpleShooter
+Scared: Bomberman Spock SimpleShooter
+Generated: 2014/08/12 07:56:16.748590129 UTC

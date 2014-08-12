@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter DONTNUKEMEBRO Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Db,Da,Da,Dd,Dd,Db,Db,Db,Db,Dd,Da,Da,Da,Da,Da,Db,Db,Db,Dd,Dd,Dd,Db,Db,Da,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Da,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -15
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot StraightShooter DONTNUKEMEBRO
+StraightShooter: Rule0Bot Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: Rule0Bot Pacifist StraightShooter
+Rule0Bot: DONTNUKEMEBRO Pacifist StraightShooter
+Generated: 2014/08/12 10:26:25.461868790 UTC

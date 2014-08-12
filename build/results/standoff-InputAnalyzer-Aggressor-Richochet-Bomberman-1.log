@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Richochet Bomberman
+                 InputAnalyzer: Dc,P,Sc,N
+                     Aggressor: P,Tc,Sd,N
+                     Richochet: Sa,N,N,N
+                     Bomberman: N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                     Aggressor: -1
+                     Richochet: -3
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Bomberman Aggressor
+Aggressor: Richochet Bomberman InputAnalyzer
+Richochet: Aggressor Bomberman InputAnalyzer
+Bomberman: Aggressor Richochet InputAnalyzer
+Generated: 2014/08/12 05:44:09.085002250 UTC

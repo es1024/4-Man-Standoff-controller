@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman Ninja Neo
+  TwentyFourthsAndAHalfCentury: N,Db,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,N,Sb,N,Sc,N,Sd,N,Sc,N,N,N,Sc,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Db,Dc,Db,Dd,Dc,Dd,Db,Dd,Da,Dd,Da,Da,Db,Dc,Dc,Db,Da,Da,Da,Dd,Dc,Db,Dd,N,N
+                           Neo: N,N,Db,N,N,Db,Db,Db,N,N,N,N,N,Db,Db,Db,N,Db,Db,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Neo Bomberman Ninja
+Bomberman: Neo TwentyFourthsAndAHalfCentury Ninja
+Ninja: Neo TwentyFourthsAndAHalfCentury Bomberman
+Neo: Ninja TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 08:30:58.544094326 UTC

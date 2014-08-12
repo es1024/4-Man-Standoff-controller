@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer Neo
+                      Pacifist: N,N,N,N
+               StraightShooter: Sa,N,Sa,N
+                 InputAnalyzer: Dd,P,Sd,N
+                           Neo: N,N,N,N
+Final Health:
+                      Pacifist: -2
+               StraightShooter: 2
+                 InputAnalyzer: -1
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo StraightShooter InputAnalyzer
+StraightShooter: Neo Pacifist InputAnalyzer
+InputAnalyzer: Neo Pacifist StraightShooter
+Neo: InputAnalyzer Pacifist StraightShooter
+Generated: 2014/08/12 07:26:17.752937174 UTC

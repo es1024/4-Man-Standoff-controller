@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+                     Richochet: Sd,N,Sd,N,Sb,N,Sd,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,Dd,Dd,Dd,Da,Sa,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dc,Dc,Da,Dd,Db,N,N,N,N
+Final Health:
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Ninja Richochet EmoCowboy
+EmoCowboy: Ninja Richochet TwentyFourthsAndAHalfCentury
+Ninja: EmoCowboy Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:51:08.330659802 UTC

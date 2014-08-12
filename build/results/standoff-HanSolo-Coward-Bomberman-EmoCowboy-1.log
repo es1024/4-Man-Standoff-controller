@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Bomberman EmoCowboy
+                       HanSolo: Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                        Coward: Sa,N,Sc,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,Sd,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Coward: -1
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman EmoCowboy Coward
+Coward: Bomberman EmoCowboy HanSolo
+Bomberman: Coward EmoCowboy HanSolo
+EmoCowboy: Coward Bomberman HanSolo
+Generated: 2014/08/12 09:56:36.748481204 UTC

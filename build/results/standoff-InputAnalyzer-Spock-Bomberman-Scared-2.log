@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Bomberman Scared
+                 InputAnalyzer: Dd,P,Sa,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,N,N,N,N,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sa,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -10
+                         Spock: 2
+                     Bomberman: 0
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Spock Bomberman
+Spock: Scared InputAnalyzer Bomberman
+Bomberman: Scared InputAnalyzer Spock
+Scared: Bomberman InputAnalyzer Spock
+Generated: 2014/08/12 08:58:52.237421825 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Ninja Rule0Bot
+                 InputAnalyzer: Dc,Db,Dc,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                         Ninja: Dc,Db,Dd,Db,Da,Dc,Dc,Da,Da,Da,Dc,Dc,Dd,Db,Dc,Dc,Dc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                        Coward: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Rule0Bot Coward
+Coward: Ninja Rule0Bot InputAnalyzer
+Ninja: Coward Rule0Bot InputAnalyzer
+Rule0Bot: Coward Ninja InputAnalyzer
+Generated: 2014/08/12 09:29:12.397252296 UTC

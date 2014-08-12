@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey Scared CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sd,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N
+                 CourageTheDog: Sc,N,Dc,Db,Da,Db,Sa,N,Db,Dc,Db,Sb,N,Dc,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                        Monkey: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey Scared CourageTheDog
+Monkey: Pacifist Scared CourageTheDog
+Scared: Pacifist Monkey CourageTheDog
+CourageTheDog: Pacifist Monkey Scared
+Generated: 2014/08/12 10:17:45.323823809 UTC

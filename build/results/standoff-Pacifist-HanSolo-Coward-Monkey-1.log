@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Coward Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                        Coward: Sa,N,Sa,N,Sa,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                        Coward: -1
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Monkey HanSolo
+HanSolo: Coward Monkey Pacifist
+Coward: HanSolo Monkey Pacifist
+Monkey: HanSolo Coward Pacifist
+Generated: 2014/08/12 08:06:01.370854105 UTC

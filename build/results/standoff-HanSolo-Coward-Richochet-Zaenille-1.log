@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Richochet Zaenille
+                       HanSolo: Sc,N,Sc
+                        Coward: Sa,N,Sc
+                     Richochet: Sa,N,Sa
+                      Zaenille: Sd,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 5
+                     Richochet: -1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Zaenille Coward
+Coward: Richochet Zaenille HanSolo
+Richochet: Coward Zaenille HanSolo
+Zaenille: Coward Richochet HanSolo
+Generated: 2014/08/12 10:26:46.398368309 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Richochet AntiGrenadier
+                 InputAnalyzer: Dc,Dd,P,Dd,Sa
+                     Aggressor: P,Tc,N,N,N
+                     Richochet: Sb,N,N,N,N
+                 AntiGrenadier: N,Sb,N,Sa,N
+Final Health:
+                 InputAnalyzer: -8
+                     Aggressor: -2
+                     Richochet: -3
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet AntiGrenadier Aggressor
+Aggressor: Richochet AntiGrenadier InputAnalyzer
+Richochet: Aggressor AntiGrenadier InputAnalyzer
+AntiGrenadier: Aggressor Richochet InputAnalyzer
+Generated: 2014/08/12 09:42:16.452988951 UTC

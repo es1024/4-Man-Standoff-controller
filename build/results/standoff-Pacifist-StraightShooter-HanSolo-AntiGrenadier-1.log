@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter HanSolo AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                       HanSolo: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo AntiGrenadier StraightShooter
+StraightShooter: HanSolo AntiGrenadier Pacifist
+HanSolo: StraightShooter AntiGrenadier Pacifist
+AntiGrenadier: StraightShooter HanSolo Pacifist
+Generated: 2014/08/12 09:06:16.610829680 UTC

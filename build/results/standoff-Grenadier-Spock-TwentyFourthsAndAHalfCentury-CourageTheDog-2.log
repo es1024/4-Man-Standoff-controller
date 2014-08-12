@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock TwentyFourthsAndAHalfCentury CourageTheDog
+                     Grenadier: N,N,P,N,N
+                         Spock: Sd,N,Sd,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Db,N,N
+                 CourageTheDog: Sb,N,Db,P,Tc
+Final Health:
+                     Grenadier: -4
+                         Spock: -3
+  TwentyFourthsAndAHalfCentury: -6
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Spock TwentyFourthsAndAHalfCentury
+Spock: CourageTheDog Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog Grenadier Spock
+CourageTheDog: TwentyFourthsAndAHalfCentury Grenadier Spock
+Generated: 2014/08/12 06:28:04.936371585 UTC

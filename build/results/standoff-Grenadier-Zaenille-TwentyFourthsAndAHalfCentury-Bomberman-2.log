@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille TwentyFourthsAndAHalfCentury Bomberman
+                     Grenadier: N,P,Td,P
+                      Zaenille: Sb,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Sa
+                     Bomberman: N,N,N,N
+Final Health:
+                     Grenadier: -6
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Bomberman Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Grenadier Zaenille
+Bomberman: TwentyFourthsAndAHalfCentury Grenadier Zaenille
+Generated: 2014/08/12 07:11:50.114584444 UTC

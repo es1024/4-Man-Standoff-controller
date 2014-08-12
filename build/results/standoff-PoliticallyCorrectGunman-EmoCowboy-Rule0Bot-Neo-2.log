@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman EmoCowboy Rule0Bot Neo
+      PoliticallyCorrectGunman: Sc,N,Sc,N,N,N,N,N,N,N,N,Sd,N,N,P,Td
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,Da,N,N,N,N,N,N,N,Da,N,Dc,Da,Da,N
+Final Health:
+      PoliticallyCorrectGunman: 2
+                     EmoCowboy: -2
+                      Rule0Bot: -2
+                           Neo: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo EmoCowboy Rule0Bot
+EmoCowboy: Neo PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Neo PoliticallyCorrectGunman EmoCowboy
+Neo: Rule0Bot PoliticallyCorrectGunman EmoCowboy
+Generated: 2014/08/12 08:12:16.647755112 UTC

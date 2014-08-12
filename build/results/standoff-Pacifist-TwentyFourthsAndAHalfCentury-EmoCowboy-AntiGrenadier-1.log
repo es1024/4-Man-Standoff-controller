@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Sd,N,Sd,N,N,N,Sa,N,N,Sd,N,Sa,N,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy AntiGrenadier Pacifist
+EmoCowboy: TwentyFourthsAndAHalfCentury AntiGrenadier Pacifist
+AntiGrenadier: TwentyFourthsAndAHalfCentury EmoCowboy Pacifist
+Generated: 2014/08/12 08:30:15.175163870 UTC

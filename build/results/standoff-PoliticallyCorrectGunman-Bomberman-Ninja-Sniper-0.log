@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Ninja Sniper
+      PoliticallyCorrectGunman: N,Db,N,N,N,N,N,N,N,N,N,Db,Sb,N,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Dc,Dd,Dc,Da,Db,Dd,Db,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,Sb,N,Sc,N,Sc,N,N,N,N,Sb,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -1
+                         Ninja: -1
+                        Sniper: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman Ninja Sniper
+Bomberman: PoliticallyCorrectGunman Ninja Sniper
+Ninja: PoliticallyCorrectGunman Bomberman Sniper
+Sniper: PoliticallyCorrectGunman Bomberman Ninja
+Generated: 2014/08/12 06:48:35.180072746 UTC

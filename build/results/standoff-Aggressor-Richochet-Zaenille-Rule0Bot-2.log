@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Zaenille Rule0Bot
+                     Aggressor: P,Td
+                     Richochet: Sa,N
+                      Zaenille: Sc,N
+                      Rule0Bot: N,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+                      Zaenille: -2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot Richochet Zaenille
+Richochet: Rule0Bot Aggressor Zaenille
+Zaenille: Rule0Bot Aggressor Richochet
+Rule0Bot: Zaenille Aggressor Richochet
+Generated: 2014/08/12 09:33:17.777781179 UTC

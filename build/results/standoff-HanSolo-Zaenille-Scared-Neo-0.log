@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Scared Neo
+                       HanSolo: Sb,N,Sc,N,Sc,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                        Scared: N,Sa,N,Sd,N,Sd,N,N,N
+                           Neo: N,N,N,N,Da,N,N,Sa,N
+Final Health:
+                       HanSolo: 1
+                      Zaenille: -4
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Scared Neo
+Zaenille: HanSolo Scared Neo
+Scared: HanSolo Zaenille Neo
+Neo: HanSolo Zaenille Scared
+Generated: 2014/08/12 08:54:32.741927140 UTC

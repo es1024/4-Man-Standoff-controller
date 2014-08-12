@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Rule0Bot CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Da,Da,Sa,N,Da,Da,Sc,N,Sc,N,Da,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog EmoCowboy Rule0Bot
+EmoCowboy: CourageTheDog StraightShooter Rule0Bot
+Rule0Bot: CourageTheDog StraightShooter EmoCowboy
+CourageTheDog: Rule0Bot StraightShooter EmoCowboy
+Generated: 2014/08/12 08:29:17.440529430 UTC

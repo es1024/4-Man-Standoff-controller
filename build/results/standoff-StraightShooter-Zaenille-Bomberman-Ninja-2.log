@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Bomberman Ninja
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Dc,Dc,Dd,Da,Da,Db,Da,Dc,Dc,Dd,Dd,Dc,Dc,Da,Da,Db,Db,Dd,Db,Da,Db,Dd,Da,Db,Dd,Dc,Dd,Dd,Dd,Da,Db,Db,Db,Db,Dc,Dd,Da,Dd,Db,Dd,Dd,Dd,Dd,Dd,Db,Db,Dc,Dd
+Final Health:
+               StraightShooter: -15
+                      Zaenille: -4
+                     Bomberman: -15
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Zaenille Bomberman
+Zaenille: Ninja StraightShooter Bomberman
+Bomberman: Ninja StraightShooter Zaenille
+Ninja: Bomberman StraightShooter Zaenille
+Generated: 2014/08/12 09:24:51.531196305 UTC

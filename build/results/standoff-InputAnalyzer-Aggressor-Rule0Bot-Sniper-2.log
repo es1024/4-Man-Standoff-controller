@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Rule0Bot Sniper
+                 InputAnalyzer: Dd,Sb,N,Sc
+                     Aggressor: P,Td,N,N
+                      Rule0Bot: N,Sb,N,N
+                        Sniper: Sa,N,N,N
+Final Health:
+                 InputAnalyzer: 2
+                     Aggressor: -2
+                      Rule0Bot: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Aggressor Rule0Bot
+Aggressor: Sniper InputAnalyzer Rule0Bot
+Rule0Bot: Sniper InputAnalyzer Aggressor
+Sniper: Rule0Bot InputAnalyzer Aggressor
+Generated: 2014/08/12 06:11:16.935472662 UTC

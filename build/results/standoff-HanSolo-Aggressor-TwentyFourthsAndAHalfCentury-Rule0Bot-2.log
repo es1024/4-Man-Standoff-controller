@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor TwentyFourthsAndAHalfCentury Rule0Bot
+                       HanSolo: Sd,N
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: Da,Dd
+                      Rule0Bot: N,Sb
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Rule0Bot HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot HanSolo Aggressor
+Rule0Bot: TwentyFourthsAndAHalfCentury HanSolo Aggressor
+Generated: 2014/08/12 07:28:20.170040948 UTC

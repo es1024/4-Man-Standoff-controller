@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Richochet Scared
+                 InputAnalyzer: Dc,Db,P,Sd
+                       HanSolo: Sc,N,Sc,N
+                     Richochet: Sd,N,Sa,N
+                        Scared: N,Sa,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                       HanSolo: 2
+                     Richochet: -2
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Scared HanSolo
+HanSolo: Richochet Scared InputAnalyzer
+Richochet: HanSolo Scared InputAnalyzer
+Scared: HanSolo Richochet InputAnalyzer
+Generated: 2014/08/12 08:43:17.674757167 UTC

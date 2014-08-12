@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Bomberman CourageTheDog
+                 SimpleShooter: Sc,N,Sd,N,Sb,N,Sb,N,Sd,N
+                     Richochet: Sc,N,Sd,N,Sa,N,Sa,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Db,Sc,N,Da,Da,Sa
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                     Bomberman: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog Richochet Bomberman
+Richochet: CourageTheDog SimpleShooter Bomberman
+Bomberman: CourageTheDog SimpleShooter Richochet
+CourageTheDog: Bomberman SimpleShooter Richochet
+Generated: 2014/08/12 06:51:13.859564774 UTC

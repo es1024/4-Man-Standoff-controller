@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury AntiGrenadier Scared CourageTheDog
+  TwentyFourthsAndAHalfCentury: Db,Db,Dd,Db,Dc,Db,N,N,N,N,N,N,N,Sd,N,Sd,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sd,N,Sb,N,N,N,N,N,N,N,N,Sb,N,Sa,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sc,N,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Sa,N,Da,Sc,N,Db,Db,Db,Sb
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Scared CourageTheDog AntiGrenadier
+AntiGrenadier: Scared CourageTheDog TwentyFourthsAndAHalfCentury
+Scared: AntiGrenadier CourageTheDog TwentyFourthsAndAHalfCentury
+CourageTheDog: AntiGrenadier Scared TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:38:20.316702532 UTC

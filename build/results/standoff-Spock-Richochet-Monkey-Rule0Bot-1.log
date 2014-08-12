@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Monkey Rule0Bot
+                         Spock: Sc,N,Sc,N,Sc,N,Sd,N,Sc,N,Sc
+                     Richochet: Sc,N,Sa,N,Sd,N,Sd,N,Sa,N,Sa
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                        Monkey: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey Rule0Bot Richochet
+Richochet: Monkey Rule0Bot Spock
+Monkey: Richochet Rule0Bot Spock
+Rule0Bot: Richochet Monkey Spock
+Generated: 2014/08/12 10:30:24.493333271 UTC

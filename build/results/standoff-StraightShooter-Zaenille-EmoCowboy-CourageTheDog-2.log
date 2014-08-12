@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille EmoCowboy CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sa,N,N,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -6
+                     EmoCowboy: -2
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Zaenille EmoCowboy
+Zaenille: CourageTheDog StraightShooter EmoCowboy
+EmoCowboy: CourageTheDog StraightShooter Zaenille
+CourageTheDog: EmoCowboy StraightShooter Zaenille
+Generated: 2014/08/12 09:58:29.422511909 UTC

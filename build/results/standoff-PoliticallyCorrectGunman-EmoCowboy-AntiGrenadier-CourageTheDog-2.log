@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman EmoCowboy AntiGrenadier CourageTheDog
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,Sd,N,Dc,Dc,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Sa,N,Da,Dc,Sc,N,Da,Db,Dc,Dc,Sa,N,Dc,Sc,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog EmoCowboy AntiGrenadier
+EmoCowboy: CourageTheDog PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: CourageTheDog PoliticallyCorrectGunman EmoCowboy
+CourageTheDog: AntiGrenadier PoliticallyCorrectGunman EmoCowboy
+Generated: 2014/08/12 10:02:41.659434730 UTC

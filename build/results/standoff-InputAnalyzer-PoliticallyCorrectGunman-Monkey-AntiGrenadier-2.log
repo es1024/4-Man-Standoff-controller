@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Monkey AntiGrenadier
+                 InputAnalyzer: Dd,Dc,P,Sd,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Sb
+                        Monkey: N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: -2
+                        Monkey: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier PoliticallyCorrectGunman Monkey
+PoliticallyCorrectGunman: AntiGrenadier InputAnalyzer Monkey
+Monkey: AntiGrenadier InputAnalyzer PoliticallyCorrectGunman
+AntiGrenadier: Monkey InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 05:51:26.494465511 UTC

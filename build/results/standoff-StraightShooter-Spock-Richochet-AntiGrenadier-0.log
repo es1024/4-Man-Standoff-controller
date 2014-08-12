@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Richochet AntiGrenadier
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N
+                         Spock: N,N,N,N,N,N,Sa,N,Sa,N,Sd,N,Sd
+                     Richochet: Sa,N,Sb,N,Sd,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 3
+                     Richochet: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Richochet AntiGrenadier
+Spock: StraightShooter Richochet AntiGrenadier
+Richochet: StraightShooter Spock AntiGrenadier
+AntiGrenadier: StraightShooter Spock Richochet
+Generated: 2014/08/12 06:46:14.151015538 UTC

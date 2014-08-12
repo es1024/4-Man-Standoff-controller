@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman Scared CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sd,N,Sd,N,Sa,N,Sd,N,Sd
+                 CourageTheDog: Sb,N,Db,Sa,N,Dc,Sb,N,Sa,N,Dc,Sc,N
+Final Health:
+                      Pacifist: -3
+                     Bomberman: -1
+                        Scared: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared CourageTheDog Bomberman
+Bomberman: Scared CourageTheDog Pacifist
+Scared: Bomberman CourageTheDog Pacifist
+CourageTheDog: Bomberman Scared Pacifist
+Generated: 2014/08/12 09:45:51.048429813 UTC

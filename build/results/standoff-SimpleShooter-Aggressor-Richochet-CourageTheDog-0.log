@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Richochet CourageTheDog
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Tc
+                     Richochet: Sb,N
+                 CourageTheDog: Sa,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 0
+                     Richochet: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor Richochet CourageTheDog
+Aggressor: SimpleShooter Richochet CourageTheDog
+Richochet: SimpleShooter Aggressor CourageTheDog
+CourageTheDog: SimpleShooter Aggressor Richochet
+Generated: 2014/08/12 07:46:38.609756993 UTC

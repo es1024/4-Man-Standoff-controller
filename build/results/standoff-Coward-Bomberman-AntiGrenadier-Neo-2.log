@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman AntiGrenadier Neo
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N,Db,N,N,Sa,N,N,Da,Sa,N
+Final Health:
+                        Coward: 1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Neo Bomberman AntiGrenadier
+Bomberman: Neo Coward AntiGrenadier
+AntiGrenadier: Neo Coward Bomberman
+Neo: AntiGrenadier Coward Bomberman
+Generated: 2014/08/12 07:04:07.254849060 UTC

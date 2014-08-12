@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Richochet TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dd,Dc,P,Db,Sa
+      PoliticallyCorrectGunman: Sd,N,Sa,N,Sd
+                     Richochet: Sb,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dc,Da,Dc
+Final Health:
+                 InputAnalyzer: -10
+      PoliticallyCorrectGunman: 0
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Richochet
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury InputAnalyzer Richochet
+Richochet: TwentyFourthsAndAHalfCentury InputAnalyzer PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Richochet InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 05:50:37.449930712 UTC

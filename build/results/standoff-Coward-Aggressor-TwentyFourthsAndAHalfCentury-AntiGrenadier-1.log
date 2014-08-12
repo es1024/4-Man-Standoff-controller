@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor TwentyFourthsAndAHalfCentury AntiGrenadier
+                        Coward: Sb,N,Db,Dd,Dd,Sd
+                     Aggressor: P,Tc,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N
+                 AntiGrenadier: N,Sb,N,N,N,N
+Final Health:
+                        Coward: 2
+                     Aggressor: -2
+  TwentyFourthsAndAHalfCentury: -3
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury AntiGrenadier Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury AntiGrenadier Coward
+TwentyFourthsAndAHalfCentury: Aggressor AntiGrenadier Coward
+AntiGrenadier: Aggressor TwentyFourthsAndAHalfCentury Coward
+Generated: 2014/08/12 07:53:54.458286484 UTC

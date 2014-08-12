@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N
+               StraightShooter: Sa,N,Sa,N
+                 InputAnalyzer: Dd,P,Sc,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Sb
+Final Health:
+                      Pacifist: -2
+               StraightShooter: 0
+                 InputAnalyzer: -8
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury StraightShooter InputAnalyzer
+StraightShooter: TwentyFourthsAndAHalfCentury Pacifist InputAnalyzer
+InputAnalyzer: TwentyFourthsAndAHalfCentury Pacifist StraightShooter
+TwentyFourthsAndAHalfCentury: InputAnalyzer Pacifist StraightShooter
+Generated: 2014/08/12 08:33:44.489972005 UTC

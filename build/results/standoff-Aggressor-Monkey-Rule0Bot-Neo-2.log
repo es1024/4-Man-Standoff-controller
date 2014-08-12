@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Rule0Bot Neo
+                     Aggressor: P,Td,N,N
+                        Monkey: N,P,Db,Db
+                      Rule0Bot: N,Sa,N,N
+                           Neo: N,Db,N,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: -4
+                      Rule0Bot: -1
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo Monkey Rule0Bot
+Monkey: Neo Aggressor Rule0Bot
+Rule0Bot: Neo Aggressor Monkey
+Neo: Rule0Bot Aggressor Monkey
+Generated: 2014/08/12 08:43:39.426749688 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Sniper Scared
+                      Pacifist: N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sc
+                        Sniper: Sb,N,Sa,N,Sa,N,Sd
+                        Scared: Sc,N,N,N,N,N,Sc
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 3
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Scared SimpleShooter
+SimpleShooter: Sniper Scared Pacifist
+Sniper: SimpleShooter Scared Pacifist
+Scared: SimpleShooter Sniper Pacifist
+Generated: 2014/08/12 07:13:01.565588416 UTC

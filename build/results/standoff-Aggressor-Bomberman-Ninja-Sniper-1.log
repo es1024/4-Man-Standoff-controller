@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman Ninja Sniper
+                     Aggressor: P,Td,Sb
+                     Bomberman: N,N,N
+                         Ninja: Dc,Dc,N
+                        Sniper: Sc,N,N
+Final Health:
+                     Aggressor: 2
+                     Bomberman: 0
+                         Ninja: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Ninja Sniper Bomberman
+Bomberman: Ninja Sniper Aggressor
+Ninja: Bomberman Sniper Aggressor
+Sniper: Bomberman Ninja Aggressor
+Generated: 2014/08/12 08:24:07.528409923 UTC

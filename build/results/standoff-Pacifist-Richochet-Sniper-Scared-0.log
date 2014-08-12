@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Sniper Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sc,N,Sc,N,Sd,N,Sd
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -3
+                     Richochet: 5
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Sniper Scared
+Richochet: Pacifist Sniper Scared
+Sniper: Pacifist Richochet Scared
+Scared: Pacifist Richochet Sniper
+Generated: 2014/08/12 08:02:13.120927657 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Richochet Rule0Bot
+                        Coward: Sb,N
+                     Aggressor: P,Tc
+                     Richochet: Sa,N
+                      Rule0Bot: N,Sb
+Final Health:
+                        Coward: 0
+                     Aggressor: -2
+                     Richochet: -3
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet Rule0Bot Aggressor
+Aggressor: Richochet Rule0Bot Coward
+Richochet: Aggressor Rule0Bot Coward
+Rule0Bot: Aggressor Richochet Coward
+Generated: 2014/08/12 07:14:38.304950522 UTC

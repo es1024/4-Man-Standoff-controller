@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Bomberman CourageTheDog
+                         Spock: N,Sc,N,Sc,N,Sb,N,Sb,N,N,N,N,Sc
+                        Monkey: N,N,Sc,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Da,Sa,N,Sb,N,Db,Sb,N,Sa,N,N,Sa
+Final Health:
+                         Spock: -1
+                        Monkey: -3
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman CourageTheDog Monkey
+Monkey: Bomberman CourageTheDog Spock
+Bomberman: Monkey CourageTheDog Spock
+CourageTheDog: Monkey Bomberman Spock
+Generated: 2014/08/12 07:40:29.627753013 UTC

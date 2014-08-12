@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Richochet TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Dd,Da,Sd,N,Dc,Da,Sc
+                     Richochet: Sb,N,Sa,N,Sb,N,Sd,N,Sd,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,N,Dc,N,Db,Db,Dc,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: -1
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet TwentyFourthsAndAHalfCentury Coward
+Coward: Richochet TwentyFourthsAndAHalfCentury Pacifist
+Richochet: Coward TwentyFourthsAndAHalfCentury Pacifist
+TwentyFourthsAndAHalfCentury: Coward Richochet Pacifist
+Generated: 2014/08/12 07:39:12.865200548 UTC

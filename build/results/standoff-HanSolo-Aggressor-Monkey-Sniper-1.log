@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Monkey Sniper
+                       HanSolo: Sc,N
+                     Aggressor: P,Td
+                        Monkey: N,Sc
+                        Sniper: Sa,N
+Final Health:
+                       HanSolo: 0
+                     Aggressor: 2
+                        Monkey: -5
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Sniper Aggressor
+Aggressor: Monkey Sniper HanSolo
+Monkey: Aggressor Sniper HanSolo
+Sniper: Aggressor Monkey HanSolo
+Generated: 2014/08/12 09:09:47.201612692 UTC

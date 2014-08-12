@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Sniper Scared
+                 InputAnalyzer: Dc,P,Da,N,N
+                         Spock: Sc,N,Sc,N,Sc
+                        Sniper: Sa,N,Sa,N,N
+                        Scared: Sa,N,Sa,N,Sb
+Final Health:
+                 InputAnalyzer: -7
+                         Spock: 0
+                        Sniper: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Scared Spock
+Spock: Sniper Scared InputAnalyzer
+Sniper: Spock Scared InputAnalyzer
+Scared: Spock Sniper InputAnalyzer
+Generated: 2014/08/12 08:12:18.251868877 UTC

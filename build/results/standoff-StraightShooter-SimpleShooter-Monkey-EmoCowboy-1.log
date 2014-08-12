@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Monkey EmoCowboy
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,Sc,N,Sa,N,Sc
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                        Monkey: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey EmoCowboy SimpleShooter
+SimpleShooter: Monkey EmoCowboy StraightShooter
+Monkey: SimpleShooter EmoCowboy StraightShooter
+EmoCowboy: SimpleShooter Monkey StraightShooter
+Generated: 2014/08/12 09:57:34.721736488 UTC

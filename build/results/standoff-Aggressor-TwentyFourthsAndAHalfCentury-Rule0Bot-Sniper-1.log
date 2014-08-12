@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Rule0Bot Sniper
+                     Aggressor: P,Td
+  TwentyFourthsAndAHalfCentury: N,N
+                      Rule0Bot: N,Sa
+                        Sniper: Sc,N
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                      Rule0Bot: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Sniper Aggressor
+Rule0Bot: TwentyFourthsAndAHalfCentury Sniper Aggressor
+Sniper: TwentyFourthsAndAHalfCentury Rule0Bot Aggressor
+Generated: 2014/08/12 07:37:10.069770554 UTC

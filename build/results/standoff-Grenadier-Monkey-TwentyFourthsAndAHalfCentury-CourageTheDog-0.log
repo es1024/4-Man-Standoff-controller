@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd
+                 CourageTheDog: Sb,N,Da,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                     Grenadier: -1
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+Monkey: Grenadier TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: Grenadier Monkey CourageTheDog
+CourageTheDog: Grenadier Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:50:10.383043245 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Sniper Neo
+                     Grenadier: P,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sc
+                        Sniper: Sd,N,Sd,N,N
+                           Neo: N,N,Db,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: 2
+                        Sniper: 0
+                           Neo: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Spock Sniper
+Spock: Neo Grenadier Sniper
+Sniper: Neo Grenadier Spock
+Neo: Sniper Grenadier Spock
+Generated: 2014/08/12 10:00:56.895727377 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Ninja CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N,Db,Db,Da,Da,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Da,Db,Db,Dd,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,N,Sa,N,Sc,N,Da,Da,Db,Db,Da,Da,Da,Da,Db,Sb,N,Da,Db,Db,Sa,N,Db,Da,Da,Db,N,Sa,N,Db,Sb,N,Sb
+Final Health:
+               StraightShooter: -1
+                        Monkey: -1
+                         Ninja: -3
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Ninja CourageTheDog
+Monkey: StraightShooter Ninja CourageTheDog
+Ninja: StraightShooter Monkey CourageTheDog
+CourageTheDog: StraightShooter Monkey Ninja
+Generated: 2014/08/12 08:58:02.114338494 UTC

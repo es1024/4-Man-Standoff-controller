@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared
+                 InputAnalyzer: Db,Dd,P,Sb,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Dd,Sd
+                        Scared: N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: 0
+  TwentyFourthsAndAHalfCentury: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared
+PoliticallyCorrectGunman: InputAnalyzer TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: InputAnalyzer PoliticallyCorrectGunman Scared
+Scared: InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:03:18.777491712 UTC

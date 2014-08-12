@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Rule0Bot Neo
+                 InputAnalyzer: Dd,Db,Da,Sb,N,Dd,P,N,Da
+                     Richochet: Sd,N,Sa,N,Sd,N,Sc,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,Sa,N
+                           Neo: N,Da,Db,Da,Db,Da,Db,N,N
+Final Health:
+                 InputAnalyzer: -7
+                     Richochet: 0
+                      Rule0Bot: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Richochet Rule0Bot
+Richochet: Neo InputAnalyzer Rule0Bot
+Rule0Bot: Neo InputAnalyzer Richochet
+Neo: Rule0Bot InputAnalyzer Richochet
+Generated: 2014/08/12 05:46:01.730656085 UTC

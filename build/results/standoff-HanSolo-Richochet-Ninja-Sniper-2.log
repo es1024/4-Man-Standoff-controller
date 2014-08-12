@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Ninja Sniper
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Richochet: Sd,N,Sd,N,Sc,N,Sc,N,Sa
+                         Ninja: Db,Dc,Dc,Dd,Dd,Dc,Da,N,N
+                        Sniper: Sc,N,Sa,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                     Richochet: -1
+                         Ninja: -1
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Richochet Ninja
+Richochet: Sniper HanSolo Ninja
+Ninja: Sniper HanSolo Richochet
+Sniper: Ninja HanSolo Richochet
+Generated: 2014/08/12 07:32:20.405338891 UTC

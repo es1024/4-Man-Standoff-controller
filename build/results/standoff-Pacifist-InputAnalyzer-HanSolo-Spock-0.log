@@ -2,7 +2,7 @@ Standoff between: Pacifist InputAnalyzer HanSolo Spock
                       Pacifist: N,N,N,N,N
                  InputAnalyzer: Da,P,Db,Dc,N
                        HanSolo: Sa,N,Sa,N,Sd
-                         Spock: Sa,N,Sa,N,Sa
+                         Spock: Sa,N,Sa,N,N
 Final Health:
                       Pacifist: -3
                  InputAnalyzer: -1
@@ -13,4 +13,4 @@ Pacifist: InputAnalyzer HanSolo Spock
 InputAnalyzer: Pacifist HanSolo Spock
 HanSolo: Pacifist InputAnalyzer Spock
 Spock: Pacifist InputAnalyzer HanSolo
-Generated: 2014/08/11 00:59:19.587531386 UTC
+Generated: 2014/08/12 10:01:46.238685829 UTC

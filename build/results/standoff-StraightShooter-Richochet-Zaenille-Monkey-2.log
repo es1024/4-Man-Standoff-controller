@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Zaenille Monkey
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Richochet: Sc,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,Sb,N,Sb,N,Sb,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                     Richochet: -1
+                      Zaenille: -4
+                        Monkey: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Richochet Zaenille
+Richochet: Monkey StraightShooter Zaenille
+Zaenille: Monkey StraightShooter Richochet
+Monkey: Zaenille StraightShooter Richochet
+Generated: 2014/08/12 09:29:16.519638437 UTC

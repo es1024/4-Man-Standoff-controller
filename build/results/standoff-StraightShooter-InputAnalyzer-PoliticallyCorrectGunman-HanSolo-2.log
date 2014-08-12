@@ -1,16 +1,16 @@
 Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman HanSolo
-               StraightShooter: Sb,N,Sb,N,Sb
-                 InputAnalyzer: Dd,P,Sb,N,N
-      PoliticallyCorrectGunman: N,N,N,N,N
-                       HanSolo: Sc,N,Sc,N,Sa
+               StraightShooter: Sb,N,Sb
+                 InputAnalyzer: Dd,P,N
+      PoliticallyCorrectGunman: P,N,Db
+                       HanSolo: Sc,N,Sc
 Final Health:
-               StraightShooter: 0
-                 InputAnalyzer: -10
-      PoliticallyCorrectGunman: -2
-                       HanSolo: 2
+               StraightShooter: -1
+                 InputAnalyzer: -8
+      PoliticallyCorrectGunman: -8
+                       HanSolo: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 StraightShooter: HanSolo InputAnalyzer PoliticallyCorrectGunman
 InputAnalyzer: HanSolo StraightShooter PoliticallyCorrectGunman
 PoliticallyCorrectGunman: HanSolo StraightShooter InputAnalyzer
 HanSolo: PoliticallyCorrectGunman StraightShooter InputAnalyzer
-Generated: 2014/08/11 00:58:59.343289646 UTC
+Generated: 2014/08/12 08:24:41.915332366 UTC

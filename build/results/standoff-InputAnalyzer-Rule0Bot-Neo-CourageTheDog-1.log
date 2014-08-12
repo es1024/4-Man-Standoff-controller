@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Rule0Bot Neo CourageTheDog
+                 InputAnalyzer: Dc,Dd,Da,Sb,N,P,Sc,N
+                      Rule0Bot: N,N,N,N,N,N,Sa,N
+                           Neo: N,Da,Da,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Db,Sa,N,P,Ta
+Final Health:
+                 InputAnalyzer: -13
+                      Rule0Bot: -3
+                           Neo: -5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo CourageTheDog Rule0Bot
+Rule0Bot: Neo CourageTheDog InputAnalyzer
+Neo: Rule0Bot CourageTheDog InputAnalyzer
+CourageTheDog: Rule0Bot Neo InputAnalyzer
+Generated: 2014/08/12 08:09:51.378946295 UTC

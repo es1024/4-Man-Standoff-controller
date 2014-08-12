@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer HanSolo Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dd,Da,Sd,N,Da,Dd,Sa,N,Sb,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                         Ninja: Dd,Db,Db,Db,Da,Da,Da,Dc,Dc,Db,Dd,Db,Db,Dc,Dc,Dc,Dc,Db,Dd
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -2
+                       HanSolo: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer HanSolo Ninja
+InputAnalyzer: Pacifist HanSolo Ninja
+HanSolo: Pacifist InputAnalyzer Ninja
+Ninja: Pacifist InputAnalyzer HanSolo
+Generated: 2014/08/12 08:38:57.749104414 UTC

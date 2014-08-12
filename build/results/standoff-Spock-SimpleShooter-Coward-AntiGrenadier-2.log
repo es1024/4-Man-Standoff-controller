@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Coward AntiGrenadier
+                         Spock: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Da,Db,Da,Db,Da,Db,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 1
+                 SimpleShooter: -1
+                        Coward: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier SimpleShooter Coward
+SimpleShooter: AntiGrenadier Spock Coward
+Coward: AntiGrenadier Spock SimpleShooter
+AntiGrenadier: Coward Spock SimpleShooter
+Generated: 2014/08/12 08:39:41.606990020 UTC

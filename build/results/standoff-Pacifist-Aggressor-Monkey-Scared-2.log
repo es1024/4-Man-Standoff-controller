@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Monkey Scared
+                      Pacifist: N,N,N
+                     Aggressor: P,Td,Sc
+                        Monkey: N,Sa,N
+                        Scared: Sa,N,N
+Final Health:
+                      Pacifist: -2
+                     Aggressor: 2
+                        Monkey: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared Aggressor Monkey
+Aggressor: Scared Pacifist Monkey
+Monkey: Scared Pacifist Aggressor
+Scared: Monkey Pacifist Aggressor
+Generated: 2014/08/12 10:22:40.964055267 UTC

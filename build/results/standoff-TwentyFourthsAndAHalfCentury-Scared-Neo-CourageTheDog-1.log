@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Scared Neo CourageTheDog
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,N,N,N,Db,Dd,Db,Sd,N
+                        Scared: Sc,N,N,Sa,N,N,N,Sd,N,Sd,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Sb,N,Sa,N,Da,Da,Db,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 3
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Neo CourageTheDog Scared
+Scared: Neo CourageTheDog TwentyFourthsAndAHalfCentury
+Neo: Scared CourageTheDog TwentyFourthsAndAHalfCentury
+CourageTheDog: Scared Neo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:05:20.798193139 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer HanSolo Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dc,Da,Sd,N,Da,Sb,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sb,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -4
+                       HanSolo: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer HanSolo Rule0Bot
+InputAnalyzer: Pacifist HanSolo Rule0Bot
+HanSolo: Pacifist InputAnalyzer Rule0Bot
+Rule0Bot: Pacifist InputAnalyzer HanSolo
+Generated: 2014/08/12 09:58:37.504718343 UTC

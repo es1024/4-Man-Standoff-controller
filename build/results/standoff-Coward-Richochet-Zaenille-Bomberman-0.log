@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Zaenille Bomberman
+                        Coward: Sd,N,Sb,N,Sb,N,Dd,Sb
+                     Richochet: Sd,N,Sa,N,Sa,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet Zaenille Bomberman
+Richochet: Coward Zaenille Bomberman
+Zaenille: Coward Richochet Bomberman
+Bomberman: Coward Richochet Zaenille
+Generated: 2014/08/12 07:20:57.453733734 UTC

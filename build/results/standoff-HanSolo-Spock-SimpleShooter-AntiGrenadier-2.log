@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock SimpleShooter AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sc,N,Sc
+                         Spock: N,N,N,Sd,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sb,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                 SimpleShooter: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Spock SimpleShooter
+Spock: AntiGrenadier HanSolo SimpleShooter
+SimpleShooter: AntiGrenadier HanSolo Spock
+AntiGrenadier: SimpleShooter HanSolo Spock
+Generated: 2014/08/12 08:46:21.708888438 UTC

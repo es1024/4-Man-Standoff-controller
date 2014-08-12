@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Coward Neo
+               StraightShooter: Sc,N,Sc
+      PoliticallyCorrectGunman: P,Tc,Sb
+                        Coward: Sd,N,N
+                           Neo: N,Db,N
+Final Health:
+               StraightShooter: 2
+      PoliticallyCorrectGunman: -2
+                        Coward: -5
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Coward Neo
+PoliticallyCorrectGunman: StraightShooter Coward Neo
+Coward: StraightShooter PoliticallyCorrectGunman Neo
+Neo: StraightShooter PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 08:23:54.338472749 UTC

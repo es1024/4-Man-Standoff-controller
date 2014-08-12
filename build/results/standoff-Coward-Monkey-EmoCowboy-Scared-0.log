@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey EmoCowboy Scared
+                        Coward: Sd,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+Final Health:
+                        Coward: -1
+                        Monkey: -1
+                     EmoCowboy: -2
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey EmoCowboy Scared
+Monkey: Coward EmoCowboy Scared
+EmoCowboy: Coward Monkey Scared
+Scared: Coward Monkey EmoCowboy
+Generated: 2014/08/12 06:22:11.615234778 UTC

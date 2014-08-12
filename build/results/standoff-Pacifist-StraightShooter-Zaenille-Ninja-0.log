@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Zaenille Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Da,Db,Db,Db,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Da,Da,Da,Da,Da,Dd,Dd,Db,Db,Db,Db,Db,Da,Da,Da,Da,Da,Da,Dc,Dc,Dd,Dd,Dd,Db,Db,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Db,Dd,Dd,Da,Dc
+Final Health:
+                      Pacifist: -15
+               StraightShooter: -15
+                      Zaenille: -4
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Zaenille Ninja
+StraightShooter: Pacifist Zaenille Ninja
+Zaenille: Pacifist StraightShooter Ninja
+Ninja: Pacifist StraightShooter Zaenille
+Generated: 2014/08/12 09:50:03.608970826 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Scared CourageTheDog
+                     Richochet: Sc,N,Sb,N,Sd,N,Sc,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,Sd,N,Sb,N,N,N,N,Sd
+                 CourageTheDog: Sa,N,Db,Da,Sa,N,Da,Sa,N,Sb,N
+Final Health:
+                     Richochet: -1
+                        Monkey: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: CourageTheDog Monkey Scared
+Monkey: CourageTheDog Richochet Scared
+Scared: CourageTheDog Richochet Monkey
+CourageTheDog: Scared Richochet Monkey
+Generated: 2014/08/12 10:09:36.477543386 UTC

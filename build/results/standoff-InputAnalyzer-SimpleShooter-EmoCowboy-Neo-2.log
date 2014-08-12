@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter EmoCowboy Neo
+                 InputAnalyzer: Dd,Sc,N,Sb,N,Dc,Sb,N,Db,Dd,P,Sc,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sd,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,N,Db,N,Db,Sb,N,N,N,Da,Sa
+Final Health:
+                 InputAnalyzer: -5
+                 SimpleShooter: -1
+                     EmoCowboy: -4
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo SimpleShooter EmoCowboy
+SimpleShooter: Neo InputAnalyzer EmoCowboy
+EmoCowboy: Neo InputAnalyzer SimpleShooter
+Neo: EmoCowboy InputAnalyzer SimpleShooter
+Generated: 2014/08/12 10:47:08.320144848 UTC

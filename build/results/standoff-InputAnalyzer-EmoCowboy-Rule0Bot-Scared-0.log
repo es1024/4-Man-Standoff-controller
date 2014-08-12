@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer EmoCowboy Rule0Bot Scared
+                 InputAnalyzer: Db,Dd,P,Sb,N,N
+                     EmoCowboy: N,N,N,N,N,N
+                      Rule0Bot: N,N,N,Sa,N,N
+                        Scared: N,N,N,N,N,Sc
+Final Health:
+                 InputAnalyzer: -3
+                     EmoCowboy: 0
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Rule0Bot Scared
+EmoCowboy: InputAnalyzer Rule0Bot Scared
+Rule0Bot: InputAnalyzer EmoCowboy Scared
+Scared: InputAnalyzer EmoCowboy Rule0Bot
+Generated: 2014/08/12 09:21:17.627407143 UTC

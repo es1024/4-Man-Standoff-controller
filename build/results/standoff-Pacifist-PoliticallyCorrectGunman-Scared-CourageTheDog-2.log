@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Scared CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,Da,N,N,N,Sc,N,N,N,N
+                        Scared: Sb,N,N,Sd,N,N,Sa,N,Sd,N,Sa,N,Sd
+                 CourageTheDog: Sc,N,Da,Dc,Dc,Sb,N,Db,Sb,N,Sa,N,Sc
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog PoliticallyCorrectGunman Scared
+PoliticallyCorrectGunman: CourageTheDog Pacifist Scared
+Scared: CourageTheDog Pacifist PoliticallyCorrectGunman
+CourageTheDog: Scared Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 09:25:37.457122185 UTC

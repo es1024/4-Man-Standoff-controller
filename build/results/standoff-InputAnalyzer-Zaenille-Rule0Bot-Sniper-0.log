@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Rule0Bot Sniper
+                 InputAnalyzer: Db,P,Sa
+                      Zaenille: Sb,N,N
+                      Rule0Bot: N,N,N
+                        Sniper: Sc,N,N
+Final Health:
+                 InputAnalyzer: -8
+                      Zaenille: -2
+                      Rule0Bot: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Rule0Bot Sniper
+Zaenille: InputAnalyzer Rule0Bot Sniper
+Rule0Bot: InputAnalyzer Zaenille Sniper
+Sniper: InputAnalyzer Zaenille Rule0Bot
+Generated: 2014/08/12 08:16:21.174878077 UTC

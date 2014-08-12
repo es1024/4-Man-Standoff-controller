@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Zaenille Bomberman
+      PoliticallyCorrectGunman: N,Sa
+                     Aggressor: P,Td
+                      Zaenille: Sc,N
+                     Bomberman: N,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+                     Aggressor: 2
+                      Zaenille: -2
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Bomberman Aggressor
+Aggressor: Zaenille Bomberman PoliticallyCorrectGunman
+Zaenille: Aggressor Bomberman PoliticallyCorrectGunman
+Bomberman: Aggressor Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 09:20:34.004703482 UTC

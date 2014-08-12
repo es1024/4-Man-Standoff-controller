@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Zaenille Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                 InputAnalyzer: Da,Dd,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,Da,N,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -2
+                      Zaenille: -4
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer Zaenille Neo
+InputAnalyzer: StraightShooter Zaenille Neo
+Zaenille: StraightShooter InputAnalyzer Neo
+Neo: StraightShooter InputAnalyzer Zaenille
+Generated: 2014/08/12 07:26:45.408400257 UTC

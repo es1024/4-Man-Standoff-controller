@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+                         Spock: Sd,N,Sd,N,N,N,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Dc,Dd,N,N,N,N,N,Sa,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dd,Db,Db,Da,Db,Da,Dc,Da,Da,Dc
+Final Health:
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Ninja Spock EmoCowboy
+EmoCowboy: Ninja Spock TwentyFourthsAndAHalfCentury
+Ninja: EmoCowboy Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:46:51.082240958 UTC

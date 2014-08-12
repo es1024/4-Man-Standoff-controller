@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Coward Richochet
+                 InputAnalyzer: Db,Da,P,N,Dd
+                       HanSolo: Sa,N,Sa,N,Sa
+                        Coward: Sd,N,Sd,N,Sd
+                     Richochet: Sb,N,Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -5
+                       HanSolo: -2
+                        Coward: 2
+                     Richochet: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Coward Richochet
+HanSolo: InputAnalyzer Coward Richochet
+Coward: InputAnalyzer HanSolo Richochet
+Richochet: InputAnalyzer HanSolo Coward
+Generated: 2014/08/12 08:31:00.907529619 UTC

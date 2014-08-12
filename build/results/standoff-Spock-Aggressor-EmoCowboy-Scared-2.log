@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor EmoCowboy Scared
+                         Spock: Sd,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sc,N
+                        Scared: Sc,N
+Final Health:
+                         Spock: -3
+                     Aggressor: 2
+                     EmoCowboy: -4
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared Aggressor EmoCowboy
+Aggressor: Scared Spock EmoCowboy
+EmoCowboy: Scared Spock Aggressor
+Scared: EmoCowboy Spock Aggressor
+Generated: 2014/08/12 09:58:12.034806611 UTC

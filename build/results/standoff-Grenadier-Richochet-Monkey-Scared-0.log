@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Monkey Scared
+                     Grenadier: P,N,N
+                     Richochet: Sa,N,Sd
+                        Monkey: N,Sa,N
+                        Scared: Sc,N,Sa
+Final Health:
+                     Grenadier: -7
+                     Richochet: 2
+                        Monkey: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Monkey Scared
+Richochet: Grenadier Monkey Scared
+Monkey: Grenadier Richochet Scared
+Scared: Grenadier Richochet Monkey
+Generated: 2014/08/12 06:22:21.038399895 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Aggressor AntiGrenadier
+                     Grenadier: P,N,N
+                       HanSolo: Sc,N,N
+                     Aggressor: P,Tb,N
+                 AntiGrenadier: N,Sc,N
+Final Health:
+                     Grenadier: -4
+                       HanSolo: -3
+                     Aggressor: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor AntiGrenadier HanSolo
+HanSolo: Aggressor AntiGrenadier Grenadier
+Aggressor: HanSolo AntiGrenadier Grenadier
+AntiGrenadier: HanSolo Aggressor Grenadier
+Generated: 2014/08/12 10:33:51.670984190 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Db,Da,Db,Dd,Da,Db,Dd,Dd,Dd,Da,Db,Dd,Da,Da,Db,Db,Db,Da,Da,Db,Dd,Db,Da,Db,Dd,Dd,Db,Db,Dd,Db,Dd,Dd,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: N,Da,Da,Dc,N,N,Db,Dc,Db,Dc,Dc,Dc,Db,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,Db,Sc,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury StraightShooter DONTNUKEMEBRO
+StraightShooter: TwentyFourthsAndAHalfCentury Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury Pacifist StraightShooter
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO Pacifist StraightShooter
+Generated: 2014/08/12 09:11:19.862633875 UTC

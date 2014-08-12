@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Monkey Scared
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sc,N,N
+                        Coward: Sa,N,Da,Dc,Da,Dd,Da,Sa,N
+                        Monkey: N,Sb,N,Da,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,N,N,Sc,N,Sb
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+                        Monkey: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey Scared Coward
+Coward: Monkey Scared SimpleShooter
+Monkey: Coward Scared SimpleShooter
+Scared: Coward Monkey SimpleShooter
+Generated: 2014/08/12 10:26:39.724422112 UTC

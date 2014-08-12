@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward AntiGrenadier CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N
+                        Coward: Sd,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Dc,Sa,N,Dc,Da,Da,Da,Sa,N,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+                        Coward: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward AntiGrenadier CourageTheDog
+Coward: HanSolo AntiGrenadier CourageTheDog
+AntiGrenadier: HanSolo Coward CourageTheDog
+CourageTheDog: HanSolo Coward AntiGrenadier
+Generated: 2014/08/12 08:33:36.602512655 UTC

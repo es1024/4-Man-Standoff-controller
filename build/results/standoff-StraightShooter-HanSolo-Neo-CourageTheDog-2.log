@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Neo CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Sa,N,Dd,N,N,Da,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Da,Da,Da,Sc,N,Dc,Da,Dc,Da,Sc,N,Da,Da,Sa,N,Da,Da,Da,Da,Da,Da,Da,Da,Da,Sa
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog HanSolo Neo
+HanSolo: CourageTheDog StraightShooter Neo
+Neo: CourageTheDog StraightShooter HanSolo
+CourageTheDog: Neo StraightShooter HanSolo
+Generated: 2014/08/12 10:48:15.307535433 UTC

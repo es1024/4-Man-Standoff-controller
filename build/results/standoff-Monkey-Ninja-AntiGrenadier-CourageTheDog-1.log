@@ -1,0 +1,16 @@
+Standoff between: Monkey Ninja AntiGrenadier CourageTheDog
+                        Monkey: N,Dc,Da,Da,Da,N,N,Dc,N,Db,N,Da,Dc,Dc,Db,Da,Da,Da,Da,Da,Da,Dc,Dc,N,N,Db,Db,Da,N,N,Dc,N,N,N,Da,Da,Da,N,N,N,N,Sc,N
+                         Ninja: Dc,Da,Dd,Db,Da,Dc,Dc,Db,Db,Dd,Da,Dc,Db,Db,Dd,Da,Da,Dc,Db,Dc,Dc,Dc,Dd,Db,Db,Da,Dc,Db,Db,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Da,Da,Da,Db,Da,Db,Dc,Sa,N,Da,Da,Dc,Da,Da,Db,Sb,N,Dc,Db,Sc,N,Da,Da,Dc,Db,Da,Sb,N,Da,Da,Da,Da,Da,Dc,Da,Dc,Sc,N,Sa
+Final Health:
+                        Monkey: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: AntiGrenadier CourageTheDog Ninja
+Ninja: AntiGrenadier CourageTheDog Monkey
+AntiGrenadier: Ninja CourageTheDog Monkey
+CourageTheDog: Ninja AntiGrenadier Monkey
+Generated: 2014/08/12 05:44:46.039227363 UTC

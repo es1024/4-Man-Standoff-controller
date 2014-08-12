@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Monkey CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb
+                     Richochet: Sc,N,Sd,N,Sd,N,Sa,N,Sd,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Da,Db,Sb,N,Da,Db,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 1
+                        Monkey: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey CourageTheDog Richochet
+Richochet: Monkey CourageTheDog HanSolo
+Monkey: Richochet CourageTheDog HanSolo
+CourageTheDog: Richochet Monkey HanSolo
+Generated: 2014/08/12 08:48:21.224968852 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Bomberman AntiGrenadier Sniper
+                         Spock: Sd,N,Sd,N,Sd,N,Sb,N,N,Sb,N,Sc,N,Sc
+                     Bomberman: N,N,N,Da,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 3
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper Bomberman AntiGrenadier
+Bomberman: Sniper Spock AntiGrenadier
+AntiGrenadier: Sniper Spock Bomberman
+Sniper: AntiGrenadier Spock Bomberman
+Generated: 2014/08/12 06:59:35.712123896 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Da,Db,Sa,N,Da,Db,Da,Dd,Da,Dd,Da,Db,Dd,Dd,Db,Db
+  TwentyFourthsAndAHalfCentury: Da,Db,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,Sc
+Final Health:
+                     Grenadier: -7
+                 InputAnalyzer: -2
+                 DONTNUKEMEBRO: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+InputAnalyzer: Grenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: Grenadier InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Grenadier InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:36:02.651654663 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Richochet Ninja
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                        Coward: Sc,N,Sc,N,Sc,N,Da,Sa,N
+                     Richochet: Sd,N,Sd,N,Sb,N,N,N,N
+                         Ninja: Da,Da,Db,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Coward: -1
+                     Richochet: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Coward Richochet
+Coward: Ninja HanSolo Richochet
+Richochet: Ninja HanSolo Coward
+Ninja: Richochet HanSolo Coward
+Generated: 2014/08/12 06:31:38.389183455 UTC

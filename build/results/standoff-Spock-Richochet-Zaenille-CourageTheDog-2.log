@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Zaenille CourageTheDog
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sa,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Da,Da,Db,Db,Db,Sb
+Final Health:
+                         Spock: -1
+                     Richochet: 3
+                      Zaenille: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Richochet Zaenille
+Richochet: CourageTheDog Spock Zaenille
+Zaenille: CourageTheDog Spock Richochet
+CourageTheDog: Zaenille Spock Richochet
+Generated: 2014/08/12 10:15:05.680356909 UTC

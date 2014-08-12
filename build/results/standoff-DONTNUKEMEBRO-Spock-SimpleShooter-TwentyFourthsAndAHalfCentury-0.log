@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock SimpleShooter TwentyFourthsAndAHalfCentury
+                 DONTNUKEMEBRO: Db,Db,Dd,Dc,Db,Dc,Sc,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,Sa,N,Sa,N,Sc,N,Sc,N,Sd,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sd,N,Sd,N,Sd,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Da,Dc,Db,Dc,Db,Dc,Db,Sb,N,Sb
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: -1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Spock SimpleShooter TwentyFourthsAndAHalfCentury
+Spock: DONTNUKEMEBRO SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: DONTNUKEMEBRO Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO Spock SimpleShooter
+Generated: 2014/08/12 07:26:42.016680779 UTC

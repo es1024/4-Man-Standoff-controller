@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Aggressor Ninja
+                 InputAnalyzer: Dd,Da,P
+      PoliticallyCorrectGunman: Dc,Sd,N
+                     Aggressor: P,Td,Sa
+                         Ninja: Dc,Dc,N
+Final Health:
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -1
+                     Aggressor: -1
+                         Ninja: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja PoliticallyCorrectGunman Aggressor
+PoliticallyCorrectGunman: Ninja InputAnalyzer Aggressor
+Aggressor: Ninja InputAnalyzer PoliticallyCorrectGunman
+Ninja: Aggressor InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 09:35:07.758324760 UTC

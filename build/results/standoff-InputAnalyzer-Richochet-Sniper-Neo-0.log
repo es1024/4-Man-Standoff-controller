@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Sniper Neo
+                 InputAnalyzer: Db,P,Sa
+                     Richochet: Sc,N,Sd
+                        Sniper: Sb,N,Sb
+                           Neo: N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                     Richochet: -2
+                        Sniper: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Sniper Neo
+Richochet: InputAnalyzer Sniper Neo
+Sniper: InputAnalyzer Richochet Neo
+Neo: InputAnalyzer Richochet Sniper
+Generated: 2014/08/12 07:15:11.195101689 UTC

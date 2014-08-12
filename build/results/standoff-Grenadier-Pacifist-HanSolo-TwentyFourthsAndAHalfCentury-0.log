@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist HanSolo TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Dc,Db,Dc,Db,Dc,Db,Dc,Sc,N,Sc,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -1
+                       HanSolo: 1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist HanSolo TwentyFourthsAndAHalfCentury
+Pacifist: Grenadier HanSolo TwentyFourthsAndAHalfCentury
+HanSolo: Grenadier Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Grenadier Pacifist HanSolo
+Generated: 2014/08/12 08:03:08.354547582 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Ninja Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Db,Db,Da,Db,Dd,Da,Da,Dd,Dd,Dc,Da,Db,Da,Da,Db,Dd,Dc,Da,Db,Db,Db,Db,Da,Da,Dc,Db,Db,Dd,Dd,Db,Da,Da,Dc,Dc,Dc,Dc,Dd,Db,Db,Db,Dc,Dc,Dc,Da,Da,Dd,Db,Db
+                      Rule0Bot: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -18
+                     Aggressor: -2
+                         Ninja: -18
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot Aggressor Ninja
+Aggressor: Rule0Bot StraightShooter Ninja
+Ninja: Rule0Bot StraightShooter Aggressor
+Rule0Bot: Ninja StraightShooter Aggressor
+Generated: 2014/08/12 09:39:43.230945702 UTC

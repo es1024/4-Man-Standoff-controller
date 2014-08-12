@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Sniper Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+      PoliticallyCorrectGunman: P,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sd,N,Sa
+                           Neo: N,N,Db,N,Da,N,N
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -9
+                        Sniper: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo PoliticallyCorrectGunman Sniper
+PoliticallyCorrectGunman: Neo StraightShooter Sniper
+Sniper: Neo StraightShooter PoliticallyCorrectGunman
+Neo: Sniper StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 10:09:52.397704568 UTC

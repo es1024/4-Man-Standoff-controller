@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sc,N,Sc,N,Sa,N,Sd,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,Da,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Dc,Sc,N,Da,Db,Db,Db,Da,Da,Da,Db,Db,Db,Sb,N,Db,Db,Sb
+Final Health:
+                      Pacifist: -1
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury CourageTheDog Richochet
+Richochet: TwentyFourthsAndAHalfCentury CourageTheDog Pacifist
+TwentyFourthsAndAHalfCentury: Richochet CourageTheDog Pacifist
+CourageTheDog: Richochet TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 07:58:56.812824363 UTC

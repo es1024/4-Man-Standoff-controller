@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,Db,N,N,N,N,N,N,Dc,Dc,Dc,Dc,Dc,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,Db,Db,N,N,Sb,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,N,Dd,N,N,N,N,N,N,Dd,N,N,N,N,N,N,N,N,N,N,Dd,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Db,Dc,Dc,Db,Dc,Dc,Da,Sc,N,Sc,N,Da,Dc,Dc,Da,N,Sb,N,Db,Sa,N,Da,Db,Db,Dc,Db,Dc,Sb,N,Da,Sc,N,Da,Sa
+Final Health:
+                      Pacifist: -1
+                        Monkey: -2
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey Neo CourageTheDog
+Monkey: Pacifist Neo CourageTheDog
+Neo: Pacifist Monkey CourageTheDog
+CourageTheDog: Pacifist Monkey Neo
+Generated: 2014/08/12 06:50:01.979126153 UTC

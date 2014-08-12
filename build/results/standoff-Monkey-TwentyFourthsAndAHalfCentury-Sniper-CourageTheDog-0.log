@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+                        Monkey: N,Sa,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dc,Dc,Dd,Dc,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Sc,N,Sc,N,Sb,N,Db,Sb
+Final Health:
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+TwentyFourthsAndAHalfCentury: Monkey Sniper CourageTheDog
+Sniper: Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Monkey TwentyFourthsAndAHalfCentury Sniper
+Generated: 2014/08/12 07:56:41.891739473 UTC

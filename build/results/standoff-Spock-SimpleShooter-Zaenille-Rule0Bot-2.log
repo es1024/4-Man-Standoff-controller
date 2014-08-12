@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Zaenille Rule0Bot
+                         Spock: Sd,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sc,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot SimpleShooter Zaenille
+SimpleShooter: Rule0Bot Spock Zaenille
+Zaenille: Rule0Bot Spock SimpleShooter
+Rule0Bot: Zaenille Spock SimpleShooter
+Generated: 2014/08/12 06:34:13.622303753 UTC

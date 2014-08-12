@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Scared Neo
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sc
+                     Richochet: Sa,N,Sc,N,Sc,N,N
+                        Scared: Sb,N,Sd,N,Sa,N,N
+                           Neo: N,Sb,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                     Richochet: -1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo Richochet Scared
+Richochet: Neo HanSolo Scared
+Scared: Neo HanSolo Richochet
+Neo: Scared HanSolo Richochet
+Generated: 2014/08/12 08:40:39.848745787 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Zaenille Monkey
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sb
+                     Richochet: Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 3
+                      Zaenille: -4
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Monkey Richochet
+Richochet: Zaenille Monkey HanSolo
+Zaenille: Richochet Monkey HanSolo
+Monkey: Richochet Zaenille HanSolo
+Generated: 2014/08/12 07:56:42.675103783 UTC

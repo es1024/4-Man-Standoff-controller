@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Rule0Bot Neo
+                     Grenadier: N,P,N,N,N
+                 InputAnalyzer: Dd,Dc,P,Dc,N
+                      Rule0Bot: N,N,Sa,N,N
+                           Neo: N,Db,N,N,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -4
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo InputAnalyzer Rule0Bot
+InputAnalyzer: Neo Grenadier Rule0Bot
+Rule0Bot: Neo Grenadier InputAnalyzer
+Neo: Rule0Bot Grenadier InputAnalyzer
+Generated: 2014/08/12 07:44:31.068706073 UTC

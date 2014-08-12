@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock TwentyFourthsAndAHalfCentury Bomberman
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,Sa,N,N,N,N,Sc,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dd,Da,N,N,N,N,N,N,N,Sd,N,Sd,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock TwentyFourthsAndAHalfCentury Bomberman
+Spock: StraightShooter TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: StraightShooter Spock Bomberman
+Bomberman: StraightShooter Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:55:24.505297584 UTC

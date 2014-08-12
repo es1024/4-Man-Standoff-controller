@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer SimpleShooter Monkey
+                     Grenadier: N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dc,Da,Sc,N,Db,Dd,P,Sb
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sd,N,Sb
+                        Monkey: N,Da,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: -10
+                 SimpleShooter: 0
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer SimpleShooter Monkey
+InputAnalyzer: Grenadier SimpleShooter Monkey
+SimpleShooter: Grenadier InputAnalyzer Monkey
+Monkey: Grenadier InputAnalyzer SimpleShooter
+Generated: 2014/08/12 07:59:56.848109187 UTC

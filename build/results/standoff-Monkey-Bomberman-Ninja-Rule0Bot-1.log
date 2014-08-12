@@ -1,0 +1,16 @@
+Standoff between: Monkey Bomberman Ninja Rule0Bot
+                        Monkey: N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Dd,Dd,Da,N,N,N,N,Da,N,N,N,N,N,N,N,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Dc,Da,Dc,Da,Dc,Db,Dc,Dd,Da,Dd,Db,Dd,Da,Dd,Dc,Da,Dc,Db,Dc,Db,Da,Dc,Da,Dc,Da,Da,Dd,Da,Dc,Da,Dd,Db,Dd,Dc,Da,Dd,Db,Dd,Dc,Da,Da,Dc,Db,Dd,Da,Dd,Db,Db
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -15
+                     Bomberman: -15
+                         Ninja: -15
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Ninja Rule0Bot Bomberman
+Bomberman: Ninja Rule0Bot Monkey
+Ninja: Bomberman Rule0Bot Monkey
+Rule0Bot: Bomberman Ninja Monkey
+Generated: 2014/08/12 08:16:59.261702447 UTC

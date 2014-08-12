@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Spock TwentyFourthsAndAHalfCentury
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Dd,Dc,Dc,Dd,Dc,Dc,Dd,Dc,Sa,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Dc,Db,Dc,Db,Db,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+                         Spock: 1
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury HanSolo Spock
+Spock: TwentyFourthsAndAHalfCentury HanSolo DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: Spock HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 06:05:24.814452113 UTC

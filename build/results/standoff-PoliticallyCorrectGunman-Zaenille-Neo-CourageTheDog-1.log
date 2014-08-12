@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Neo CourageTheDog
+      PoliticallyCorrectGunman: Sb,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Dd,N,N,Dd,N,Dd,N,N
+                 CourageTheDog: Sa,N,Da,Dc,Sa,N,Dc,Sc,N,Dc,Sa,N,Dc,Dc,Sc,N,Dc,Sc,N,Sc,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -4
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo CourageTheDog Zaenille
+Zaenille: Neo CourageTheDog PoliticallyCorrectGunman
+Neo: Zaenille CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Zaenille Neo PoliticallyCorrectGunman
+Generated: 2014/08/12 07:20:36.149460177 UTC

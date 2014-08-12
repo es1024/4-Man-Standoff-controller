@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Coward Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: -3
+                        Coward: 3
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot SimpleShooter Coward
+SimpleShooter: Rule0Bot StraightShooter Coward
+Coward: Rule0Bot StraightShooter SimpleShooter
+Rule0Bot: Coward StraightShooter SimpleShooter
+Generated: 2014/08/12 09:26:23.576919355 UTC

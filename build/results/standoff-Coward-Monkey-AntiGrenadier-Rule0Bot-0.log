@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey AntiGrenadier Rule0Bot
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey AntiGrenadier Rule0Bot
+Monkey: Coward AntiGrenadier Rule0Bot
+AntiGrenadier: Coward Monkey Rule0Bot
+Rule0Bot: Coward Monkey AntiGrenadier
+Generated: 2014/08/12 10:33:40.901860666 UTC

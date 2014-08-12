@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Monkey Rule0Bot
+               StraightShooter: Sd,N
+                     Aggressor: P,Tc
+                        Monkey: N,Sd
+                      Rule0Bot: N,Sb
+Final Health:
+               StraightShooter: 2
+                     Aggressor: 0
+                        Monkey: -3
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Rule0Bot Aggressor
+Aggressor: Monkey Rule0Bot StraightShooter
+Monkey: Aggressor Rule0Bot StraightShooter
+Rule0Bot: Aggressor Monkey StraightShooter
+Generated: 2014/08/12 06:12:36.818718669 UTC

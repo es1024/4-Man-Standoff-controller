@@ -1,0 +1,16 @@
+Standoff between: Aggressor Ninja AntiGrenadier Scared
+                     Aggressor: P,Tc
+                         Ninja: Da,Dc
+                 AntiGrenadier: N,Sa
+                        Scared: Sb,N
+Final Health:
+                     Aggressor: 0
+                         Ninja: 0
+                 AntiGrenadier: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: AntiGrenadier Scared Ninja
+Ninja: AntiGrenadier Scared Aggressor
+AntiGrenadier: Ninja Scared Aggressor
+Scared: Ninja AntiGrenadier Aggressor
+Generated: 2014/08/12 07:19:16.412433571 UTC

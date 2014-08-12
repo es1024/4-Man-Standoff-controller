@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Sniper CourageTheDog
+                     Grenadier: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -6
+                        Sniper: -6
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Zaenille Sniper
+Zaenille: CourageTheDog Grenadier Sniper
+Sniper: CourageTheDog Grenadier Zaenille
+CourageTheDog: Sniper Grenadier Zaenille
+Generated: 2014/08/12 10:14:56.522678061 UTC

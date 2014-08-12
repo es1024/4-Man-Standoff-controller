@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Bomberman CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N
+                     Aggressor: P,Ta,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Db,Db,Db,Sb
+Final Health:
+                      Pacifist: -3
+                     Aggressor: 0
+                     Bomberman: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Bomberman CourageTheDog
+Aggressor: Pacifist Bomberman CourageTheDog
+Bomberman: Pacifist Aggressor CourageTheDog
+CourageTheDog: Pacifist Aggressor Bomberman
+Generated: 2014/08/12 07:18:42.189824500 UTC

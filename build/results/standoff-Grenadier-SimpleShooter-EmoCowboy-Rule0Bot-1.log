@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter EmoCowboy Rule0Bot
+                     Grenadier: N,N,N,P,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N
+                     EmoCowboy: N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,Sa,N
+Final Health:
+                     Grenadier: -5
+                 SimpleShooter: 2
+                     EmoCowboy: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Rule0Bot SimpleShooter
+SimpleShooter: EmoCowboy Rule0Bot Grenadier
+EmoCowboy: SimpleShooter Rule0Bot Grenadier
+Rule0Bot: SimpleShooter EmoCowboy Grenadier
+Generated: 2014/08/12 10:08:33.762395684 UTC

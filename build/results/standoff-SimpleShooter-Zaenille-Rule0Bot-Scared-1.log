@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Rule0Bot Scared
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,Sc,N,N
+Final Health:
+                 SimpleShooter: 3
+                      Zaenille: -4
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Scared Zaenille
+Zaenille: Rule0Bot Scared SimpleShooter
+Rule0Bot: Zaenille Scared SimpleShooter
+Scared: Zaenille Rule0Bot SimpleShooter
+Generated: 2014/08/12 08:49:24.252274838 UTC

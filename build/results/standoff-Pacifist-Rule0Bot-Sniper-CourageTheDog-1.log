@@ -1,0 +1,16 @@
+Standoff between: Pacifist Rule0Bot Sniper CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sb,N,Dc,Dc,Da,Sc,N,Dc,Sa,N,Dc,Sc,N,Dc,Da,Da,Da,Sa,N,Dc,Da,Dc,Sc,N,Da,Da,Da,Da,N,Da,Da,Da,Sa
+Final Health:
+                      Pacifist: -1
+                      Rule0Bot: -3
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper CourageTheDog Rule0Bot
+Rule0Bot: Sniper CourageTheDog Pacifist
+Sniper: Rule0Bot CourageTheDog Pacifist
+CourageTheDog: Rule0Bot Sniper Pacifist
+Generated: 2014/08/12 05:56:51.105162056 UTC

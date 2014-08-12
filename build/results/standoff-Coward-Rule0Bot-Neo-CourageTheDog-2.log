@@ -1,0 +1,16 @@
+Standoff between: Coward Rule0Bot Neo CourageTheDog
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sd,N,Sd,N,Dc,Dd,Dd,Sd,N,Dc,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Sb,N,Sb,N,Da,Da,Da,Da,Sa,N,N,Sa,N,Da,Da,Sa
+Final Health:
+                        Coward: -1
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Rule0Bot Neo
+Rule0Bot: CourageTheDog Coward Neo
+Neo: CourageTheDog Coward Rule0Bot
+CourageTheDog: Neo Coward Rule0Bot
+Generated: 2014/08/12 06:00:12.353578494 UTC

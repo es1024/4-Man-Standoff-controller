@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Ninja CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Db,Dd,Dd,Db,Db,Dc,Dd,Db,Dc,Dc,Dd,Db,Dd,Db,Da,Dc,Dc,Da,Db,Dd,Dd,Db,Dd,Dd,Db,Da,Dd,Dc,Da,Dd,Db,Dd,Db,Dc,Db,Da,Dd,Dc,Da,Db,Dc,Dd,Dd,Da,Dd,Dc,Da,Db
+                 CourageTheDog: Sb,N,Sa,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+      PoliticallyCorrectGunman: -4
+                         Ninja: -15
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja CourageTheDog PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Ninja CourageTheDog StraightShooter
+Ninja: PoliticallyCorrectGunman CourageTheDog StraightShooter
+CourageTheDog: PoliticallyCorrectGunman Ninja StraightShooter
+Generated: 2014/08/12 07:33:25.957914579 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille TwentyFourthsAndAHalfCentury Neo
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Dd,Dd,Da,Dd,N,N,N,N,N
+                           Neo: N,Dc,N,Dc,Da,Dc,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Neo Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Neo SimpleShooter
+TwentyFourthsAndAHalfCentury: Zaenille Neo SimpleShooter
+Neo: Zaenille TwentyFourthsAndAHalfCentury SimpleShooter
+Generated: 2014/08/12 09:46:55.389011471 UTC

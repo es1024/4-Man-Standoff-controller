@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Aggressor CourageTheDog
+                       HanSolo: Sc,N
+                        Coward: Sa,N
+                     Aggressor: P,Tb
+                 CourageTheDog: Sc,N
+Final Health:
+                       HanSolo: 0
+                        Coward: -3
+                     Aggressor: -2
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor CourageTheDog Coward
+Coward: Aggressor CourageTheDog HanSolo
+Aggressor: Coward CourageTheDog HanSolo
+CourageTheDog: Coward Aggressor HanSolo
+Generated: 2014/08/12 10:33:54.437056779 UTC

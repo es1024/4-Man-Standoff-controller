@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Ninja Rule0Bot
+                 InputAnalyzer: Dc,Sb,N,P,N,N
+                         Spock: Sc,N,Sc,N,Sc,N
+                         Ninja: Da,Db,Db,Dc,Dd,Db
+                      Rule0Bot: N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 0
+                         Ninja: -2
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Rule0Bot Spock
+Spock: Ninja Rule0Bot InputAnalyzer
+Ninja: Spock Rule0Bot InputAnalyzer
+Rule0Bot: Spock Ninja InputAnalyzer
+Generated: 2014/08/12 10:14:58.389361667 UTC

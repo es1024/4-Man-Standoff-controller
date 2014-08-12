@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Aggressor TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N
+               StraightShooter: Sc,N,Sc
+                     Aggressor: P,Ta,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Sb
+Final Health:
+                      Pacifist: -3
+               StraightShooter: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Aggressor TwentyFourthsAndAHalfCentury
+StraightShooter: Pacifist Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Pacifist StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist StraightShooter Aggressor
+Generated: 2014/08/12 06:19:25.335633272 UTC

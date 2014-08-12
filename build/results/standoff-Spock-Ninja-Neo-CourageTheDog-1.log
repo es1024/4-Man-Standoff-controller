@@ -1,0 +1,16 @@
+Standoff between: Spock Ninja Neo CourageTheDog
+                         Spock: Sc,N,N,N,N,N,N,Sc,N,N,Sb,N,Sb,N,Sc,N,Sc,N
+                         Ninja: Db,Dc,Dd,Da,Db,Db,Da,Dd,Dd,Da,Dd,Da,Dd,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Db,Db,Da,Sc,N,Da,Da,Sa,N,Sb,N,Da,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                         Ninja: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Neo CourageTheDog Ninja
+Ninja: Neo CourageTheDog Spock
+Neo: Ninja CourageTheDog Spock
+CourageTheDog: Ninja Neo Spock
+Generated: 2014/08/12 10:08:55.039094174 UTC

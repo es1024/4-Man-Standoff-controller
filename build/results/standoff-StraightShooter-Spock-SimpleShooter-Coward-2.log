@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock SimpleShooter Coward
+               StraightShooter: Sb,N,Sb,N,Sb,N,N
+                         Spock: Sd,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N,Sd
+                        Coward: Sb,N,Sa,N,Sa,N,Sc
+Final Health:
+               StraightShooter: -1
+                         Spock: -1
+                 SimpleShooter: 3
+                        Coward: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Spock SimpleShooter
+Spock: Coward StraightShooter SimpleShooter
+SimpleShooter: Coward StraightShooter Spock
+Coward: SimpleShooter StraightShooter Spock
+Generated: 2014/08/12 08:26:40.887096772 UTC

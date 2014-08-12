@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Aggressor EmoCowboy
+                      Pacifist: N,N,N
+                 InputAnalyzer: Dd,Da,Sd
+                     Aggressor: P,Ta,Sb
+                     EmoCowboy: Sd,N,N
+Final Health:
+                      Pacifist: -3
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy InputAnalyzer Aggressor
+InputAnalyzer: EmoCowboy Pacifist Aggressor
+Aggressor: EmoCowboy Pacifist InputAnalyzer
+EmoCowboy: Aggressor Pacifist InputAnalyzer
+Generated: 2014/08/12 06:01:22.965842310 UTC

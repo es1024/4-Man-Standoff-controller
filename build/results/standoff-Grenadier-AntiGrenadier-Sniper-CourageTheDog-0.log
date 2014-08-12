@@ -1,0 +1,16 @@
+Standoff between: Grenadier AntiGrenadier Sniper CourageTheDog
+                     Grenadier: P,Tb
+                 AntiGrenadier: N,Sa
+                        Sniper: Sa,N
+                 CourageTheDog: Sc,N
+Final Health:
+                     Grenadier: -2
+                 AntiGrenadier: -3
+                        Sniper: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Sniper CourageTheDog
+AntiGrenadier: Grenadier Sniper CourageTheDog
+Sniper: Grenadier AntiGrenadier CourageTheDog
+CourageTheDog: Grenadier AntiGrenadier Sniper
+Generated: 2014/08/12 05:44:50.886059637 UTC

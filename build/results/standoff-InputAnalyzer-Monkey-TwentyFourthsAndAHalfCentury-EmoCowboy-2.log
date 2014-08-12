@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+                 InputAnalyzer: Dd,Dc,Dd,Sc,N,P,Sd,N
+                        Monkey: N,N,N,N,N,N,P,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,Sb,N
+                     EmoCowboy: N,N,Sd,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                        Monkey: -6
+  TwentyFourthsAndAHalfCentury: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Monkey TwentyFourthsAndAHalfCentury
+Monkey: EmoCowboy InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy InputAnalyzer Monkey
+EmoCowboy: TwentyFourthsAndAHalfCentury InputAnalyzer Monkey
+Generated: 2014/08/12 09:46:17.279483205 UTC

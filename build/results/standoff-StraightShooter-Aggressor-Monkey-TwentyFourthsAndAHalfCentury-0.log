@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Monkey TwentyFourthsAndAHalfCentury
+               StraightShooter: Sc,N
+                     Aggressor: P,Ta
+                        Monkey: N,P
+  TwentyFourthsAndAHalfCentury: Db,Db
+Final Health:
+               StraightShooter: -6
+                     Aggressor: -1
+                        Monkey: -6
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Monkey TwentyFourthsAndAHalfCentury
+Aggressor: StraightShooter Monkey TwentyFourthsAndAHalfCentury
+Monkey: StraightShooter Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: StraightShooter Aggressor Monkey
+Generated: 2014/08/12 08:06:54.561009900 UTC

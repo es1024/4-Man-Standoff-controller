@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Richochet EmoCowboy
+                      Pacifist: N,N,N
+                     Aggressor: P,Tc,Sa
+                     Richochet: Sd,N,N
+                     EmoCowboy: N,N,N
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 2
+                     Richochet: -3
+                     EmoCowboy: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet EmoCowboy Aggressor
+Aggressor: Richochet EmoCowboy Pacifist
+Richochet: Aggressor EmoCowboy Pacifist
+EmoCowboy: Aggressor Richochet Pacifist
+Generated: 2014/08/12 08:30:42.979112109 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Rule0Bot CourageTheDog
+                     Grenadier: N,N,N,N,N,P,N,N
+                        Monkey: N,N,N,N,N,N,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,Sa,N
+                 CourageTheDog: Sb,N,Dc,Sc,N,Da,P,Tc
+Final Health:
+                     Grenadier: -8
+                        Monkey: -3
+                      Rule0Bot: -8
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Monkey Rule0Bot
+Monkey: CourageTheDog Grenadier Rule0Bot
+Rule0Bot: CourageTheDog Grenadier Monkey
+CourageTheDog: Rule0Bot Grenadier Monkey
+Generated: 2014/08/12 09:19:29.304293645 UTC

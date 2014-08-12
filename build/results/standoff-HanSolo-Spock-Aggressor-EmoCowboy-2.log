@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Aggressor EmoCowboy
+                       HanSolo: Sd,N,N
+                         Spock: N,N,Sc
+                     Aggressor: P,Ta,Sb
+                     EmoCowboy: N,Sd,N
+Final Health:
+                       HanSolo: -3
+                         Spock: 0
+                     Aggressor: 0
+                     EmoCowboy: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Spock Aggressor
+Spock: EmoCowboy HanSolo Aggressor
+Aggressor: EmoCowboy HanSolo Spock
+EmoCowboy: Aggressor HanSolo Spock
+Generated: 2014/08/12 06:00:16.755632858 UTC

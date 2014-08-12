@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Coward Monkey
+                     Grenadier: P,N,N,N
+      PoliticallyCorrectGunman: Sc,N,N,Sb
+                        Coward: Sa,N,Sa,N
+                        Monkey: N,P,N,N
+Final Health:
+                     Grenadier: -5
+      PoliticallyCorrectGunman: -5
+                        Coward: 0
+                        Monkey: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Monkey PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Coward Monkey Grenadier
+Coward: PoliticallyCorrectGunman Monkey Grenadier
+Monkey: PoliticallyCorrectGunman Coward Grenadier
+Generated: 2014/08/12 06:44:54.675790193 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Scared CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sd
+                        Scared: Sd,N,Sb,N,Sa,N,Sb
+                 CourageTheDog: Sa,N,Sb,N,Db,Dc,Sa
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Scared CourageTheDog
+SimpleShooter: Pacifist Scared CourageTheDog
+Scared: Pacifist SimpleShooter CourageTheDog
+CourageTheDog: Pacifist SimpleShooter Scared
+Generated: 2014/08/12 06:50:21.685552939 UTC

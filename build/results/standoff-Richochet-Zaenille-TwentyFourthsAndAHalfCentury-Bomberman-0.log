@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille TwentyFourthsAndAHalfCentury Bomberman
+                     Richochet: Sc,N,Sc,N,Sd,N,Sd,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,Dd,Da,Dd,Da,Dd,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Zaenille TwentyFourthsAndAHalfCentury Bomberman
+Zaenille: Richochet TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Richochet Zaenille Bomberman
+Bomberman: Richochet Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:25:03.962225794 UTC

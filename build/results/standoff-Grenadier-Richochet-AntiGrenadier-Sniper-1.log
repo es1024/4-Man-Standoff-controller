@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet AntiGrenadier Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,N
+                     Richochet: Sa,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -7
+                     Richochet: -1
+                 AntiGrenadier: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Sniper Richochet
+Richochet: AntiGrenadier Sniper Grenadier
+AntiGrenadier: Richochet Sniper Grenadier
+Sniper: Richochet AntiGrenadier Grenadier
+Generated: 2014/08/12 10:01:33.433593977 UTC

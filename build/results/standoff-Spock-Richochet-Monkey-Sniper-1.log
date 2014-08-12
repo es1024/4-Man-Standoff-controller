@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Monkey Sniper
+                         Spock: Sc,N,Sd,N,Sc,N,Sc
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa
+                        Monkey: N,Sc,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                        Monkey: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey Sniper Richochet
+Richochet: Monkey Sniper Spock
+Monkey: Richochet Sniper Spock
+Sniper: Richochet Monkey Spock
+Generated: 2014/08/12 08:45:06.621642634 UTC

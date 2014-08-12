@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor TwentyFourthsAndAHalfCentury AntiGrenadier
+               StraightShooter: Sd,N
+                     Aggressor: P,Tc
+  TwentyFourthsAndAHalfCentury: Db,Db
+                 AntiGrenadier: N,Sb
+Final Health:
+               StraightShooter: 2
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury AntiGrenadier Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury AntiGrenadier StraightShooter
+TwentyFourthsAndAHalfCentury: Aggressor AntiGrenadier StraightShooter
+AntiGrenadier: Aggressor TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 10:01:45.383164906 UTC

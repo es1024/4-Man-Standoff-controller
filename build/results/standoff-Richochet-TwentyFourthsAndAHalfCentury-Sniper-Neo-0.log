@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Sniper Neo
+                     Richochet: Sd,N,Sb,N,Sc,N,Sd,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dd,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sd,N,Sb,N,N,N,N,N,N
+                           Neo: N,N,N,Db,Dc,N,Dc,N,N,N,N
+Final Health:
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: TwentyFourthsAndAHalfCentury Sniper Neo
+TwentyFourthsAndAHalfCentury: Richochet Sniper Neo
+Sniper: Richochet TwentyFourthsAndAHalfCentury Neo
+Neo: Richochet TwentyFourthsAndAHalfCentury Sniper
+Generated: 2014/08/12 09:10:32.577766335 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Monkey Rule0Bot
+      PoliticallyCorrectGunman: Sd,N
+                     Aggressor: P,Ta
+                        Monkey: N,Sd
+                      Rule0Bot: N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -3
+                     Aggressor: 0
+                        Monkey: 2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Monkey Rule0Bot
+Aggressor: PoliticallyCorrectGunman Monkey Rule0Bot
+Monkey: PoliticallyCorrectGunman Aggressor Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman Aggressor Monkey
+Generated: 2014/08/12 06:59:39.478433036 UTC

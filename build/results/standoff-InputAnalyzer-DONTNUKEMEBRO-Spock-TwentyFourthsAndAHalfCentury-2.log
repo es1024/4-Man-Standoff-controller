@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Dd,Dd,Da,Da,Da,Da,Dc,Dc,Da,Dc,Da,Sd,N,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N,Sd,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Db,Db,N,N,N,N,N,N,N,N,Sb,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                 DONTNUKEMEBRO: -1
+                         Spock: 3
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury InputAnalyzer Spock
+Spock: TwentyFourthsAndAHalfCentury InputAnalyzer DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: Spock InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 06:36:33.039876987 UTC

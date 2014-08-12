@@ -1,0 +1,16 @@
+Standoff between: Aggressor EmoCowboy Ninja CourageTheDog
+                     Aggressor: P,Td
+                     EmoCowboy: Sb,N
+                         Ninja: Db,Dc
+                 CourageTheDog: Sc,N
+Final Health:
+                     Aggressor: 2
+                     EmoCowboy: -2
+                         Ninja: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog EmoCowboy Ninja
+EmoCowboy: CourageTheDog Aggressor Ninja
+Ninja: CourageTheDog Aggressor EmoCowboy
+CourageTheDog: Ninja Aggressor EmoCowboy
+Generated: 2014/08/12 07:03:57.262625861 UTC

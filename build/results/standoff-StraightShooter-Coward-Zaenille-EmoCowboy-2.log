@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Zaenille EmoCowboy
+               StraightShooter: Sb,N,Sb,N,Sb
+                        Coward: Sc,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+               StraightShooter: 1
+                        Coward: -1
+                      Zaenille: -4
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Coward Zaenille
+Coward: EmoCowboy StraightShooter Zaenille
+Zaenille: EmoCowboy StraightShooter Coward
+EmoCowboy: Zaenille StraightShooter Coward
+Generated: 2014/08/12 09:55:21.424469952 UTC

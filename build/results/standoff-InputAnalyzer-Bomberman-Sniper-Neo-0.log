@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Sniper Neo
+                 InputAnalyzer: Db,Dc,Db,Dd,Sc,N,Da,P,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sb,N,Sb,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Bomberman: -1
+                        Sniper: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Sniper Neo
+Bomberman: InputAnalyzer Sniper Neo
+Sniper: InputAnalyzer Bomberman Neo
+Neo: InputAnalyzer Bomberman Sniper
+Generated: 2014/08/12 07:08:55.293748568 UTC

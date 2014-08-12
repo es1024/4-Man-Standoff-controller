@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Richochet Rule0Bot
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sb
+                        Coward: Sd,N,Sc,N,Sc,N,Sa
+                     Richochet: Sd,N,Sa,N,Sa,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: 1
+                     Richochet: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Coward Richochet Rule0Bot
+Coward: SimpleShooter Richochet Rule0Bot
+Richochet: SimpleShooter Coward Rule0Bot
+Rule0Bot: SimpleShooter Coward Richochet
+Generated: 2014/08/12 06:34:54.982254199 UTC

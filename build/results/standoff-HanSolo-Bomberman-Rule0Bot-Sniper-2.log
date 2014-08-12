@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman Rule0Bot Sniper
+                       HanSolo: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Bomberman: -15
+                      Rule0Bot: -15
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Bomberman Rule0Bot
+Bomberman: Sniper HanSolo Rule0Bot
+Rule0Bot: Sniper HanSolo Bomberman
+Sniper: Rule0Bot HanSolo Bomberman
+Generated: 2014/08/12 08:11:29.901966996 UTC

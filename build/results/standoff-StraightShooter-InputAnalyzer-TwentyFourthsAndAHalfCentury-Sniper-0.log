@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer TwentyFourthsAndAHalfCentury Sniper
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                 InputAnalyzer: Da,Dd,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                 InputAnalyzer: -2
+  TwentyFourthsAndAHalfCentury: -3
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer TwentyFourthsAndAHalfCentury Sniper
+InputAnalyzer: StraightShooter TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: StraightShooter InputAnalyzer Sniper
+Sniper: StraightShooter InputAnalyzer TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:01:12.988954531 UTC

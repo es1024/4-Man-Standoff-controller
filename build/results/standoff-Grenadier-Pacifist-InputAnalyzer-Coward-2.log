@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist InputAnalyzer Coward
+                     Grenadier: N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Da,Dd,Sb,N,P,Sc
+                        Coward: Sb,N,Sb,N,Sa,N,Sa
+Final Health:
+                     Grenadier: -2
+                      Pacifist: -1
+                 InputAnalyzer: -8
+                        Coward: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Pacifist InputAnalyzer
+Pacifist: Coward Grenadier InputAnalyzer
+InputAnalyzer: Coward Grenadier Pacifist
+Coward: InputAnalyzer Grenadier Pacifist
+Generated: 2014/08/12 09:47:01.958318389 UTC

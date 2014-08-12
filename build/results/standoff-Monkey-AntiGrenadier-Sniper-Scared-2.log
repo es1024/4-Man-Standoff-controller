@@ -1,0 +1,16 @@
+Standoff between: Monkey AntiGrenadier Sniper Scared
+                        Monkey: N,Sd,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -17
+                 AntiGrenadier: -15
+                        Sniper: -19
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Scared AntiGrenadier Sniper
+AntiGrenadier: Scared Monkey Sniper
+Sniper: Scared Monkey AntiGrenadier
+Scared: Sniper Monkey AntiGrenadier
+Generated: 2014/08/12 07:15:16.972048454 UTC

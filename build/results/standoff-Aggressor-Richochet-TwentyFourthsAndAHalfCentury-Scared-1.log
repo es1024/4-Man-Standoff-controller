@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet TwentyFourthsAndAHalfCentury Scared
+                     Aggressor: P,Tc
+                     Richochet: Sa,N
+  TwentyFourthsAndAHalfCentury: Da,Da
+                        Scared: Sb,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 0
+  TwentyFourthsAndAHalfCentury: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury Scared Richochet
+Richochet: TwentyFourthsAndAHalfCentury Scared Aggressor
+TwentyFourthsAndAHalfCentury: Richochet Scared Aggressor
+Scared: Richochet TwentyFourthsAndAHalfCentury Aggressor
+Generated: 2014/08/12 08:11:10.925859371 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey TwentyFourthsAndAHalfCentury Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Db,N,Db,N,N,Dd,N,Da,Dd,Dd,Dd,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Dc,N,N,Dc,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey TwentyFourthsAndAHalfCentury Neo
+Monkey: HanSolo TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: HanSolo Monkey Neo
+Neo: HanSolo Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:01:24.520539304 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Ninja Rule0Bot CourageTheDog
+                     Grenadier: N,N,P,Tc
+                         Ninja: Da,Da,Dd,Dc
+                      Rule0Bot: N,N,N,Sa
+                 CourageTheDog: Sb,N,Da,P
+Final Health:
+                     Grenadier: 0
+                         Ninja: 0
+                      Rule0Bot: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot CourageTheDog Ninja
+Ninja: Rule0Bot CourageTheDog Grenadier
+Rule0Bot: Ninja CourageTheDog Grenadier
+CourageTheDog: Ninja Rule0Bot Grenadier
+Generated: 2014/08/12 09:06:13.917647244 UTC

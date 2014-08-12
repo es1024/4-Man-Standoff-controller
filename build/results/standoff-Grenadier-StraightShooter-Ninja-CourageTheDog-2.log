@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Ninja CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+                         Ninja: Dd,Da,Db,Da,Db,Db,Db,Da,Db,Dc,Dd,Db,Dc,Dd,Dc,Da,Db,Da,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sb,N,Db,Db,Db,Db,Dc,Dc,Dc,Dc,Db,Db,Sc,N,Sc,N,Sc,N,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -1
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog StraightShooter Ninja
+StraightShooter: CourageTheDog Grenadier Ninja
+Ninja: CourageTheDog Grenadier StraightShooter
+CourageTheDog: Ninja Grenadier StraightShooter
+Generated: 2014/08/12 07:16:51.571462013 UTC

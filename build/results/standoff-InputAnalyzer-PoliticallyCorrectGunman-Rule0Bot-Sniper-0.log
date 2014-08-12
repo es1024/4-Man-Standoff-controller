@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Rule0Bot Sniper
+                 InputAnalyzer: Db,P,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Sa,N,P,Sa,N
+                      Rule0Bot: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+      PoliticallyCorrectGunman: -4
+                      Rule0Bot: 0
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Rule0Bot Sniper
+PoliticallyCorrectGunman: InputAnalyzer Rule0Bot Sniper
+Rule0Bot: InputAnalyzer PoliticallyCorrectGunman Sniper
+Sniper: InputAnalyzer PoliticallyCorrectGunman Rule0Bot
+Generated: 2014/08/12 10:10:34.963777801 UTC

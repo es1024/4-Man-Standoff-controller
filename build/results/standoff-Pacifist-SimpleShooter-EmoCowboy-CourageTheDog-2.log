@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter EmoCowboy CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sd,N,Sa,N,Sd,N,Sd,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sb,N,Da,Db,Db,Da,Da,Db,Db,Db,Db,Db,Sb,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 1
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog SimpleShooter EmoCowboy
+SimpleShooter: CourageTheDog Pacifist EmoCowboy
+EmoCowboy: CourageTheDog Pacifist SimpleShooter
+CourageTheDog: EmoCowboy Pacifist SimpleShooter
+Generated: 2014/08/12 09:20:43.197942267 UTC

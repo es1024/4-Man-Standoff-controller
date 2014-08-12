@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Monkey CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sa
+                        Monkey: N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sa,N,N,Sb
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 3
+                        Monkey: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey CourageTheDog SimpleShooter
+SimpleShooter: Monkey CourageTheDog HanSolo
+Monkey: SimpleShooter CourageTheDog HanSolo
+CourageTheDog: SimpleShooter Monkey HanSolo
+Generated: 2014/08/12 10:33:33.457518497 UTC

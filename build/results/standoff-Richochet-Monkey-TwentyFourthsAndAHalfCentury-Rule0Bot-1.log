@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey TwentyFourthsAndAHalfCentury Rule0Bot
+                     Richochet: Sc,N,Sb,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sc
+                        Monkey: N,Dd,N,Db,N,N,N,N,N,N,N,N,N,Db,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Db,Dd,Dd,Db,Db,Dd,Db,Dd,Db,N,Db,Db,Da,Sa,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: TwentyFourthsAndAHalfCentury Rule0Bot Monkey
+Monkey: TwentyFourthsAndAHalfCentury Rule0Bot Richochet
+TwentyFourthsAndAHalfCentury: Monkey Rule0Bot Richochet
+Rule0Bot: Monkey TwentyFourthsAndAHalfCentury Richochet
+Generated: 2014/08/12 05:46:00.722580957 UTC

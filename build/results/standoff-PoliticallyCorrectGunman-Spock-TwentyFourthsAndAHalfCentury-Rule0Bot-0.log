@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock TwentyFourthsAndAHalfCentury Rule0Bot
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,N,Sa,N,Sc,N,Sc,N,Sd,N,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Sa,N,Sa,N,Sd,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: 5
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock TwentyFourthsAndAHalfCentury Rule0Bot
+Spock: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Spock Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:50:46.065147690 UTC

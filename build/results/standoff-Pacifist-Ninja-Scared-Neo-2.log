@@ -1,0 +1,16 @@
+Standoff between: Pacifist Ninja Scared Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dd,Da,Dd,Dc,Da,Dd,Dc,Dc,Da,Dd,Db,Dc,Da,Dd,Db,Dc,Db,Dc,Da,Dd,Db,Dc,Db,Dc,Db,Dd,Da,N,N
+                        Scared: Sd,N,N,N,N,N,N,N,N,Sa,N,Sb,N,Sa,N,Sb,N,Sd,N,N,N,N,N,N,N,N,Sd,N,Sb,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,Db,Db,N,N,Db,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Ninja: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo Ninja Scared
+Ninja: Neo Pacifist Scared
+Scared: Neo Pacifist Ninja
+Neo: Scared Pacifist Ninja
+Generated: 2014/08/12 08:45:05.178632191 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Ninja Scared Neo
+                     Grenadier: N,N,N,N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dc,Dc,Da,Db,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,Sa,N,Sb,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,Sd
+                           Neo: N,N,N,N,Db,Dc,N,N,Db,Dc,Db,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -5
+                         Ninja: 0
+                        Scared: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Scared Neo
+Ninja: Grenadier Scared Neo
+Scared: Grenadier Ninja Neo
+Neo: Grenadier Ninja Scared
+Generated: 2014/08/12 08:26:35.237716763 UTC

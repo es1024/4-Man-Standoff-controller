@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille AntiGrenadier Scared
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+                      Zaenille: -2
+                 AntiGrenadier: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Scared Zaenille
+Zaenille: AntiGrenadier Scared HanSolo
+AntiGrenadier: Zaenille Scared HanSolo
+Scared: Zaenille AntiGrenadier HanSolo
+Generated: 2014/08/12 08:16:31.652072900 UTC

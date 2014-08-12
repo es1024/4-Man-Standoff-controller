@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer HanSolo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Sc,N,Dc,P,Sc,N
+                       HanSolo: Sd,N,Sd,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sc,N,P,Tb
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -9
+                       HanSolo: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog InputAnalyzer HanSolo
+InputAnalyzer: CourageTheDog Pacifist HanSolo
+HanSolo: CourageTheDog Pacifist InputAnalyzer
+CourageTheDog: HanSolo Pacifist InputAnalyzer
+Generated: 2014/08/12 09:20:00.859106123 UTC

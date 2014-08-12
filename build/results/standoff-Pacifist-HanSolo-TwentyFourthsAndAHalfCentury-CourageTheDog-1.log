@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo TwentyFourthsAndAHalfCentury CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Db,Db,Sa,N,Db,Sa,N,Da,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury CourageTheDog HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury CourageTheDog Pacifist
+TwentyFourthsAndAHalfCentury: HanSolo CourageTheDog Pacifist
+CourageTheDog: HanSolo TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 06:11:10.759226155 UTC

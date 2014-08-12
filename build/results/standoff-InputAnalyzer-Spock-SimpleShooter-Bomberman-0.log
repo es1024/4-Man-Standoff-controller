@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter Bomberman
+                 InputAnalyzer: Db,Sd,N,Dc,Db,P,Sb,N
+                         Spock: Sa,N,Sd,N,Sa,N,Sa,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                         Spock: -1
+                 SimpleShooter: 2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock SimpleShooter Bomberman
+Spock: InputAnalyzer SimpleShooter Bomberman
+SimpleShooter: InputAnalyzer Spock Bomberman
+Bomberman: InputAnalyzer Spock SimpleShooter
+Generated: 2014/08/12 08:46:43.159656738 UTC

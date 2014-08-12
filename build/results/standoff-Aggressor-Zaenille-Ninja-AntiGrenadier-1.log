@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Ninja AntiGrenadier
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+                         Ninja: Dc,Dc
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+                         Ninja: -3
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Ninja AntiGrenadier Zaenille
+Zaenille: Ninja AntiGrenadier Aggressor
+Ninja: Zaenille AntiGrenadier Aggressor
+AntiGrenadier: Zaenille Ninja Aggressor
+Generated: 2014/08/12 08:10:58.414047258 UTC

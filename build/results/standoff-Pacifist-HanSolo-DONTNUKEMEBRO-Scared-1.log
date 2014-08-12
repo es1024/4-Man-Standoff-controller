@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo DONTNUKEMEBRO Scared
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,N
+                 DONTNUKEMEBRO: Da,Dd,Sb,N,Sb,N,N
+                        Scared: Sa,N,Sb,N,Sa,N,Sa
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO Scared HanSolo
+HanSolo: DONTNUKEMEBRO Scared Pacifist
+DONTNUKEMEBRO: HanSolo Scared Pacifist
+Scared: HanSolo DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 08:45:47.760952664 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Richochet Neo
+                        Coward: Sb,N,Db,Db,Sd,N,Sd
+                     Aggressor: P,Tc,N,N,N,N,N
+                     Richochet: Sb,N,N,N,N,N,N
+                           Neo: N,Db,Da,N,Da,N,N
+Final Health:
+                        Coward: 2
+                     Aggressor: -2
+                     Richochet: -3
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet Neo Aggressor
+Aggressor: Richochet Neo Coward
+Richochet: Aggressor Neo Coward
+Neo: Aggressor Richochet Coward
+Generated: 2014/08/12 07:24:02.861765016 UTC

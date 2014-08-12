@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Bomberman Ninja
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Dc,Dc,Dc,Dc,Dc,Dc,Da,Dc,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Dd,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Ninja HanSolo Bomberman
+Bomberman: Ninja HanSolo TwentyFourthsAndAHalfCentury
+Ninja: Bomberman HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:54:01.350602627 UTC

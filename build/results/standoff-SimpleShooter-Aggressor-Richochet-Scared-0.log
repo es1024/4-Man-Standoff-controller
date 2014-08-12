@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Richochet Scared
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Ta
+                     Richochet: Sb,N
+                        Scared: N,N
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 0
+                     Richochet: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor Richochet Scared
+Aggressor: SimpleShooter Richochet Scared
+Richochet: SimpleShooter Aggressor Scared
+Scared: SimpleShooter Aggressor Richochet
+Generated: 2014/08/12 06:34:36.562387091 UTC

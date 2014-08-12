@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Coward Ninja
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,N,Sc,N,Sa,N,Sd,N,Sd,N,Sd
+                        Coward: Sa,N,Sa,N,Da,Db,Da,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Db,Dd,Dc,Dc,Da,Dd,Dc,Db,Db,Dd,Dd,Da,Da
+Final Health:
+                       HanSolo: -1
+                         Spock: 5
+                        Coward: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Ninja Spock
+Spock: Coward Ninja HanSolo
+Coward: Spock Ninja HanSolo
+Ninja: Spock Coward HanSolo
+Generated: 2014/08/12 08:39:35.028708882 UTC

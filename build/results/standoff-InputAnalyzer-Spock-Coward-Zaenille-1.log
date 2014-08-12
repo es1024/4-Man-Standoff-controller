@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Coward Zaenille
+                 InputAnalyzer: Dc,Sa,N,N,N,N,N
+                         Spock: Sc,N,N,N,N,N,N
+                        Coward: Sa,N,Sb,N,Sb,N,Sb
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                         Spock: -1
+                        Coward: 3
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Zaenille Spock
+Spock: Coward Zaenille InputAnalyzer
+Coward: Spock Zaenille InputAnalyzer
+Zaenille: Spock Coward InputAnalyzer
+Generated: 2014/08/12 09:16:11.309688266 UTC

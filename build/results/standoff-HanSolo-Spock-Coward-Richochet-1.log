@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Coward Richochet
+                       HanSolo: Sc,N,Sc,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,N
+                        Coward: Sa,N,Sa,N,N,N,N
+                     Richochet: Sa,N,Sb,N,Sb,N,Sb
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                        Coward: -3
+                     Richochet: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Richochet Spock
+Spock: Coward Richochet HanSolo
+Coward: Spock Richochet HanSolo
+Richochet: Spock Coward HanSolo
+Generated: 2014/08/12 09:19:57.034693410 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Ninja AntiGrenadier
+                 InputAnalyzer: Db,Dd,Db,Sd,N,Db,Sd,N,Dc,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sd
+                         Ninja: Db,Dd,Dd,Dc,Dc,Dc,Dc,Da,Da,Dd,Da,Da,Dc,Dc,Dc,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Ninja AntiGrenadier
+HanSolo: InputAnalyzer Ninja AntiGrenadier
+Ninja: InputAnalyzer HanSolo AntiGrenadier
+AntiGrenadier: InputAnalyzer HanSolo Ninja
+Generated: 2014/08/12 06:34:04.361352536 UTC

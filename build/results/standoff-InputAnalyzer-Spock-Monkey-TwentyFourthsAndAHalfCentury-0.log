@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Monkey TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,P,Sa,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,N,Sa,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N,N,N,Sc,N,Sb
+Final Health:
+                 InputAnalyzer: -8
+                         Spock: 0
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Monkey TwentyFourthsAndAHalfCentury
+Spock: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury
+Monkey: InputAnalyzer Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer Spock Monkey
+Generated: 2014/08/12 10:25:56.401265532 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey AntiGrenadier Neo
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,N,N,N,N,Sa,N,N,N,N,N
+                 AntiGrenadier: N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: -18
+                 AntiGrenadier: -18
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo Monkey AntiGrenadier
+Monkey: Neo Aggressor AntiGrenadier
+AntiGrenadier: Neo Aggressor Monkey
+Neo: AntiGrenadier Aggressor Monkey
+Generated: 2014/08/12 09:20:51.295222142 UTC

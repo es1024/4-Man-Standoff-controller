@@ -1,0 +1,16 @@
+Standoff between: Zaenille Ninja Scared CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dc,Dd,Da,Db,Dc,Dd,Da,Db,Dc,Dc,Da,Dc,Db,Dd,Da,Dd,Da,Db
+                        Scared: Sd,N,Sd,N,Sb,N,Sd,N,Sd,N,Sb,N,N,N,N,N,N,N,N,Sb
+                 CourageTheDog: Sb,N,Dc,Sc,N,Db,Sc,N,Db,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+                         Ninja: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog Ninja Scared
+Ninja: CourageTheDog Zaenille Scared
+Scared: CourageTheDog Zaenille Ninja
+CourageTheDog: Scared Zaenille Ninja
+Generated: 2014/08/12 09:12:41.064939093 UTC

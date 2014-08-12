@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Zaenille Scared
+                     Grenadier: P,Td
+                         Spock: Sc,N
+                      Zaenille: Sc,N
+                        Scared: Sb,N
+Final Health:
+                     Grenadier: 2
+                         Spock: 0
+                      Zaenille: -4
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Scared Spock
+Spock: Zaenille Scared Grenadier
+Zaenille: Spock Scared Grenadier
+Scared: Spock Zaenille Grenadier
+Generated: 2014/08/12 07:05:46.816959585 UTC

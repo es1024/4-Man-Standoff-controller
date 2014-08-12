@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Zaenille Scared
+                       HanSolo: Sb,N,Sb
+                     Richochet: Sa,N,Sa
+                      Zaenille: Sc,N,N
+                        Scared: Sa,N,Sb
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+                      Zaenille: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Zaenille Scared
+Richochet: HanSolo Zaenille Scared
+Zaenille: HanSolo Richochet Scared
+Scared: HanSolo Richochet Zaenille
+Generated: 2014/08/12 09:37:01.275335391 UTC

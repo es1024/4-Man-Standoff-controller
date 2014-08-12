@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman EmoCowboy Ninja
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tb
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,P,Tc,P,Sc,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Da,Db,Da,Db,Db,Dc,Dd,Dd,Dd,Da,Db,Dd,Da
+Final Health:
+                     Grenadier: -4
+      PoliticallyCorrectGunman: -12
+                     EmoCowboy: -2
+                         Ninja: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman EmoCowboy Ninja
+PoliticallyCorrectGunman: Grenadier EmoCowboy Ninja
+EmoCowboy: Grenadier PoliticallyCorrectGunman Ninja
+Ninja: Grenadier PoliticallyCorrectGunman EmoCowboy
+Generated: 2014/08/12 09:58:04.431058562 UTC

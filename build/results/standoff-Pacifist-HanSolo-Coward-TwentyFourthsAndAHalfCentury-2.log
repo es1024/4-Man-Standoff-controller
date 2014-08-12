@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Coward TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,Da,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury HanSolo Coward
+HanSolo: TwentyFourthsAndAHalfCentury Pacifist Coward
+Coward: TwentyFourthsAndAHalfCentury Pacifist HanSolo
+TwentyFourthsAndAHalfCentury: Coward Pacifist HanSolo
+Generated: 2014/08/12 07:54:16.071004589 UTC

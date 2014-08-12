@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Scared Neo
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,Sd,N,Sd,N,Sd
+                           Neo: N,N,N,N,Dc,Sc,N,Sc,N
+Final Health:
+                 InputAnalyzer: -2
+                      Zaenille: -4
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Zaenille Scared
+Zaenille: Neo InputAnalyzer Scared
+Scared: Neo InputAnalyzer Zaenille
+Neo: Scared InputAnalyzer Zaenille
+Generated: 2014/08/12 09:48:22.202522713 UTC

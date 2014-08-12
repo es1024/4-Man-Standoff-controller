@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Zaenille Neo
+      PoliticallyCorrectGunman: Db,N,N,N,N,N,N,N,N,Dc,Sa
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                       HanSolo: 5
+                      Zaenille: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo HanSolo Zaenille
+HanSolo: Neo PoliticallyCorrectGunman Zaenille
+Zaenille: Neo PoliticallyCorrectGunman HanSolo
+Neo: Zaenille PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 08:58:09.596532609 UTC

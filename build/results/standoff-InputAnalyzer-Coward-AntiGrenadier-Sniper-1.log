@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward AntiGrenadier Sniper
+                 InputAnalyzer: Dc,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -6
+                        Coward: 5
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Sniper Coward
+Coward: AntiGrenadier Sniper InputAnalyzer
+AntiGrenadier: Coward Sniper InputAnalyzer
+Sniper: Coward AntiGrenadier InputAnalyzer
+Generated: 2014/08/12 05:48:38.245762718 UTC

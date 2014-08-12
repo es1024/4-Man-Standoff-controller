@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey Ninja Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,Dc,N,N,Dd,N,N,N,N,Dd,Dd,Dc,Dc,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,Dd,Dd
+                         Ninja: Db,Da,Dc,Db,Da,Dd,Db,Dc,Da,Dc,Db,Db,Da,Dc,Db,Dc,Dd,Dc,Dc,Da,Dd,Dd,Db,Dc,Da,Db,Dd,Dd,Da,Dc,Db,Dc,Da,Db,Dc,Da,Dd,Db,Dc,Dc,Db,Da,Dd,Dd,Dc,Da,Dd,Dd,Db,Dc
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Monkey: -15
+                         Ninja: -15
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Monkey Ninja
+Monkey: Sniper Pacifist Ninja
+Ninja: Sniper Pacifist Monkey
+Sniper: Ninja Pacifist Monkey
+Generated: 2014/08/12 06:57:07.608070027 UTC

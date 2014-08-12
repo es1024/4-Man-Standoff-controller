@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman DONTNUKEMEBRO Scared
+                     Grenadier: P,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Sa,N,Da,Dd,Dd,Sd
+                        Scared: Sa,N,Sa,N,Sc,N,N
+Final Health:
+                     Grenadier: -7
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO Scared Grenadier
+DONTNUKEMEBRO: PoliticallyCorrectGunman Scared Grenadier
+Scared: PoliticallyCorrectGunman DONTNUKEMEBRO Grenadier
+Generated: 2014/08/12 06:47:52.385546768 UTC

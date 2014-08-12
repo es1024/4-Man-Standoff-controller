@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Bomberman Rule0Bot
+                 InputAnalyzer: Db,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,N,N,N,N
+                      Rule0Bot: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 0
+                     Bomberman: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Bomberman Rule0Bot
+Spock: InputAnalyzer Bomberman Rule0Bot
+Bomberman: InputAnalyzer Spock Rule0Bot
+Rule0Bot: InputAnalyzer Spock Bomberman
+Generated: 2014/08/12 06:10:39.797528674 UTC

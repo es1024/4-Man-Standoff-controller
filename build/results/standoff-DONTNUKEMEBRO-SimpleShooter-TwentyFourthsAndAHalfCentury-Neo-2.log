@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter TwentyFourthsAndAHalfCentury Neo
+                 DONTNUKEMEBRO: Dd,Dc,Dc,Db,Sb,N,Db,Dd,Dc,Dc,Sb,N,Db,Dc,Dd,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sd,N,Sc,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Db,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Neo SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Neo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo DONTNUKEMEBRO SimpleShooter
+Neo: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 06:25:42.975365111 UTC

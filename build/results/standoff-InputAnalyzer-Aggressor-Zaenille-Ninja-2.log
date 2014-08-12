@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Zaenille Ninja
+                 InputAnalyzer: Dd,P,Da
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+                         Ninja: Da,Da,N
+Final Health:
+                 InputAnalyzer: -6
+                     Aggressor: -1
+                      Zaenille: -2
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Aggressor Zaenille
+Aggressor: Ninja InputAnalyzer Zaenille
+Zaenille: Ninja InputAnalyzer Aggressor
+Ninja: Zaenille InputAnalyzer Aggressor
+Generated: 2014/08/12 10:05:49.293671064 UTC

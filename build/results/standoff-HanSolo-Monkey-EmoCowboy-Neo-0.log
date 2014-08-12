@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey EmoCowboy Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Da,Sa,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Monkey: -1
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey EmoCowboy Neo
+Monkey: HanSolo EmoCowboy Neo
+EmoCowboy: HanSolo Monkey Neo
+Neo: HanSolo Monkey EmoCowboy
+Generated: 2014/08/12 08:36:16.437767794 UTC

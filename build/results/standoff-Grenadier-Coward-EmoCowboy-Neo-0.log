@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward EmoCowboy Neo
+                     Grenadier: N,P,Tb
+                        Coward: Sd,N,Sa
+                     EmoCowboy: Sc,N,N
+                           Neo: N,Da,N
+Final Health:
+                     Grenadier: 0
+                        Coward: -3
+                     EmoCowboy: -2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward EmoCowboy Neo
+Coward: Grenadier EmoCowboy Neo
+EmoCowboy: Grenadier Coward Neo
+Neo: Grenadier Coward EmoCowboy
+Generated: 2014/08/12 10:46:39.168602260 UTC

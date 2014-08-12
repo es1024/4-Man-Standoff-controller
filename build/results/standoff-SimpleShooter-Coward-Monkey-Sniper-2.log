@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Monkey Sniper
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Dd,Sd,N,Dd,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: 1
+                        Monkey: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Coward Monkey
+Coward: Sniper SimpleShooter Monkey
+Monkey: Sniper SimpleShooter Coward
+Sniper: Monkey SimpleShooter Coward
+Generated: 2014/08/12 10:09:33.374271637 UTC

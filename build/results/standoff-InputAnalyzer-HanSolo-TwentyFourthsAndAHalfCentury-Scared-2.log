@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury Scared
+                 InputAnalyzer: Dd,Dc,P,Db,Sa
+                       HanSolo: Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,Da,N
+                        Scared: Sc,N,Sa,N,N
+Final Health:
+                 InputAnalyzer: -8
+                       HanSolo: 2
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared HanSolo TwentyFourthsAndAHalfCentury
+HanSolo: Scared InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared InputAnalyzer HanSolo
+Scared: TwentyFourthsAndAHalfCentury InputAnalyzer HanSolo
+Generated: 2014/08/12 09:21:56.210195790 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet AntiGrenadier Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sa,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet AntiGrenadier Rule0Bot
+Richochet: Pacifist AntiGrenadier Rule0Bot
+AntiGrenadier: Pacifist Richochet Rule0Bot
+Rule0Bot: Pacifist Richochet AntiGrenadier
+Generated: 2014/08/12 08:22:53.778593897 UTC

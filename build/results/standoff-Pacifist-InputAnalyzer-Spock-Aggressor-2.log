@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Spock Aggressor
+                      Pacifist: N,N
+                 InputAnalyzer: Dd,Sa
+                         Spock: Sd,N
+                     Aggressor: P,Tc
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: 2
+                         Spock: -3
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor InputAnalyzer Spock
+InputAnalyzer: Aggressor Pacifist Spock
+Spock: Aggressor Pacifist InputAnalyzer
+Aggressor: Spock Pacifist InputAnalyzer
+Generated: 2014/08/12 06:59:43.572749805 UTC

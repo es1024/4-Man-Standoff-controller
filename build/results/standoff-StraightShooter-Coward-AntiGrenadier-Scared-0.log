@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward AntiGrenadier Scared
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sa,N,Sa,N,Dd,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sb,N,Sb,N,N,N,N,Sb
+Final Health:
+               StraightShooter: -1
+                        Coward: -1
+                 AntiGrenadier: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward AntiGrenadier Scared
+Coward: StraightShooter AntiGrenadier Scared
+AntiGrenadier: StraightShooter Coward Scared
+Scared: StraightShooter Coward AntiGrenadier
+Generated: 2014/08/12 10:12:41.041222784 UTC

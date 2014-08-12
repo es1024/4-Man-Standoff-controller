@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Zaenille AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dd,Dd,Da,Da,Da,Da,Dc,Dc,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier DONTNUKEMEBRO Zaenille
+DONTNUKEMEBRO: AntiGrenadier HanSolo Zaenille
+Zaenille: AntiGrenadier HanSolo DONTNUKEMEBRO
+AntiGrenadier: Zaenille HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 10:31:15.470722689 UTC

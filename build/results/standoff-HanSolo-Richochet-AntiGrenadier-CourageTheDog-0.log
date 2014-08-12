@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet AntiGrenadier CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sb,N,Sa,N,N,Sc,N,Sc
+Final Health:
+                       HanSolo: -1
+                     Richochet: -3
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet AntiGrenadier CourageTheDog
+Richochet: HanSolo AntiGrenadier CourageTheDog
+AntiGrenadier: HanSolo Richochet CourageTheDog
+CourageTheDog: HanSolo Richochet AntiGrenadier
+Generated: 2014/08/12 07:19:01.726814277 UTC

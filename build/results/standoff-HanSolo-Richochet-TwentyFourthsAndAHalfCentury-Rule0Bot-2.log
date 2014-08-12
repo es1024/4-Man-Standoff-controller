@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet TwentyFourthsAndAHalfCentury Rule0Bot
+                       HanSolo: Sd,N,Sd,N,Sd,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Db,Dd,Db,Sb,N,Sb,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: 1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Richochet TwentyFourthsAndAHalfCentury
+Richochet: Rule0Bot HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot HanSolo Richochet
+Rule0Bot: TwentyFourthsAndAHalfCentury HanSolo Richochet
+Generated: 2014/08/12 05:44:23.304107873 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Ninja CourageTheDog
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+                         Ninja: Db,Dc
+                 CourageTheDog: Sa,N
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+                         Ninja: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Ninja CourageTheDog Zaenille
+Zaenille: Ninja CourageTheDog Aggressor
+Ninja: Zaenille CourageTheDog Aggressor
+CourageTheDog: Zaenille Ninja Aggressor
+Generated: 2014/08/12 07:26:27.817322090 UTC

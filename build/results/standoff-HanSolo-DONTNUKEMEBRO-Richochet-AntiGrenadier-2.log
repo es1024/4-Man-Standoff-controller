@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Richochet AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc
+                 DONTNUKEMEBRO: Dd,Da,Sc,N,Sc,N,N
+                     Richochet: Sb,N,Sb,N,Sb,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                 DONTNUKEMEBRO: -1
+                     Richochet: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: AntiGrenadier HanSolo Richochet
+Richochet: AntiGrenadier HanSolo DONTNUKEMEBRO
+AntiGrenadier: Richochet HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 09:21:03.057612264 UTC

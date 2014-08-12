@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+                     Aggressor: P,Tc,Sb
+                        Monkey: N,N,N
+  TwentyFourthsAndAHalfCentury: N,Dd,N
+                     EmoCowboy: N,Sd,N
+Final Health:
+                     Aggressor: 2
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: -3
+                     EmoCowboy: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury EmoCowboy Monkey
+Monkey: TwentyFourthsAndAHalfCentury EmoCowboy Aggressor
+TwentyFourthsAndAHalfCentury: Monkey EmoCowboy Aggressor
+EmoCowboy: Monkey TwentyFourthsAndAHalfCentury Aggressor
+Generated: 2014/08/12 10:13:58.267442587 UTC

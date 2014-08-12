@@ -1,0 +1,16 @@
+Standoff between: Aggressor EmoCowboy Ninja Neo
+                     Aggressor: P,Td,Sc,N,Sc,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N
+                         Ninja: Dc,Db,Da,Da,Da,Db,Dc
+                           Neo: N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 2
+                     EmoCowboy: -2
+                         Ninja: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo EmoCowboy Ninja
+EmoCowboy: Neo Aggressor Ninja
+Ninja: Neo Aggressor EmoCowboy
+Neo: Ninja Aggressor EmoCowboy
+Generated: 2014/08/12 06:44:25.056137754 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Ninja AntiGrenadier
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                     Richochet: Sd,N,Sd,N,Sa,N,Sc,N,Sc,N,Sa,N,Sa
+                         Ninja: Dd,Da,Da,Da,Da,Dd,Dd,Db,Da,Da,Da,Dc,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                         Ninja: -1
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Richochet Ninja
+Richochet: AntiGrenadier Spock Ninja
+Ninja: AntiGrenadier Spock Richochet
+AntiGrenadier: Ninja Spock Richochet
+Generated: 2014/08/12 06:44:02.825597073 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Coward Ninja
+                     Grenadier: N,N,N,N,N,P,N,N
+      PoliticallyCorrectGunman: N,N,N,N,Sc,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N
+                         Ninja: Db,Da,Db,Dd,Dc,Db,Dd,Db
+Final Health:
+                     Grenadier: -3
+      PoliticallyCorrectGunman: -1
+                        Coward: 0
+                         Ninja: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja PoliticallyCorrectGunman Coward
+PoliticallyCorrectGunman: Ninja Grenadier Coward
+Coward: Ninja Grenadier PoliticallyCorrectGunman
+Ninja: Coward Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 09:55:12.861629674 UTC

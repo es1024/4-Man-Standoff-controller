@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo EmoCowboy Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 1
+                     EmoCowboy: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo EmoCowboy Scared
+HanSolo: Pacifist EmoCowboy Scared
+EmoCowboy: Pacifist HanSolo Scared
+Scared: Pacifist HanSolo EmoCowboy
+Generated: 2014/08/12 10:12:54.131562626 UTC

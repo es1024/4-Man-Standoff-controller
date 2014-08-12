@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Monkey Scared
+      PoliticallyCorrectGunman: N,Db,Dd,P,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N
+                        Monkey: N,Sc,N,N,N,N
+                        Scared: Sc,N,Sb,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                 SimpleShooter: 0
+                        Monkey: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared SimpleShooter Monkey
+SimpleShooter: Scared PoliticallyCorrectGunman Monkey
+Monkey: Scared PoliticallyCorrectGunman SimpleShooter
+Scared: Monkey PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 06:18:21.109709770 UTC

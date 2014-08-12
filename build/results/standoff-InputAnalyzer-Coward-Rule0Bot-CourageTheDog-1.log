@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Rule0Bot CourageTheDog
+                 InputAnalyzer: Dc,P,N,N
+                        Coward: Sa,N,Sa,N
+                      Rule0Bot: N,N,Sa,N
+                 CourageTheDog: Sc,N,P,Tb
+Final Health:
+                 InputAnalyzer: -7
+                        Coward: -6
+                      Rule0Bot: 0
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot CourageTheDog Coward
+Coward: Rule0Bot CourageTheDog InputAnalyzer
+Rule0Bot: Coward CourageTheDog InputAnalyzer
+CourageTheDog: Coward Rule0Bot InputAnalyzer
+Generated: 2014/08/12 09:16:37.064818492 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman Ninja AntiGrenadier
+                     Richochet: Sb,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Dc,Dd,Dd,Db,Dd,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                     Bomberman: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja AntiGrenadier Bomberman
+Bomberman: Ninja AntiGrenadier Richochet
+Ninja: Bomberman AntiGrenadier Richochet
+AntiGrenadier: Bomberman Ninja Richochet
+Generated: 2014/08/12 08:47:31.261212836 UTC

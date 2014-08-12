@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Ninja AntiGrenadier
+                 InputAnalyzer: Dc,Db,Dc,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                         Ninja: Db,Db,Db,Db,Dd,Dd,Dd,Dc,Dc,Dc,Dc,Dc,Db,Db,Db,Db,Db,Da,Da,Dd,Dc,Da,Db,Db,Db,Dd,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                        Coward: 3
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja AntiGrenadier Coward
+Coward: Ninja AntiGrenadier InputAnalyzer
+Ninja: Coward AntiGrenadier InputAnalyzer
+AntiGrenadier: Coward Ninja InputAnalyzer
+Generated: 2014/08/12 07:57:22.263031008 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet AntiGrenadier Scared
+                 InputAnalyzer: Db,P,Sb,N,N,N
+                     Richochet: Sa,N,Sa,N,N,N
+                 AntiGrenadier: N,N,Sa,N,N,N
+                        Scared: N,N,N,Sa,N,Sc
+Final Health:
+                 InputAnalyzer: -7
+                     Richochet: 0
+                 AntiGrenadier: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet AntiGrenadier Scared
+Richochet: InputAnalyzer AntiGrenadier Scared
+AntiGrenadier: InputAnalyzer Richochet Scared
+Scared: InputAnalyzer Richochet AntiGrenadier
+Generated: 2014/08/12 07:28:14.225476743 UTC

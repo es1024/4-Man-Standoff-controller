@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman EmoCowboy Sniper
+                     Grenadier: P,N,N
+                     Bomberman: N,N,N
+                     EmoCowboy: Sc,N,N
+                        Sniper: Sb,N,N
+Final Health:
+                     Grenadier: -1
+                     Bomberman: 0
+                     EmoCowboy: -2
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Sniper Bomberman
+Bomberman: EmoCowboy Sniper Grenadier
+EmoCowboy: Bomberman Sniper Grenadier
+Sniper: Bomberman EmoCowboy Grenadier
+Generated: 2014/08/12 07:48:17.298572685 UTC

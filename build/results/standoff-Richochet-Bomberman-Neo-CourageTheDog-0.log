@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman Neo CourageTheDog
+                     Richochet: Sc,N,Sd,N,Sb,N,Sd,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Db,Sa,N,Dc,Da,Sc,N,Db,Da,Da,Da,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+                     Bomberman: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman Neo CourageTheDog
+Bomberman: Richochet Neo CourageTheDog
+Neo: Richochet Bomberman CourageTheDog
+CourageTheDog: Richochet Bomberman Neo
+Generated: 2014/08/12 07:18:45.202915522 UTC

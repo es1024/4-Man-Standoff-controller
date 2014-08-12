@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy Rule0Bot Scared Neo
+                     EmoCowboy: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+                           Neo: N,N,N,N,Db,Db,Db,N,N,Db,N,N,N,N
+Final Health:
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: Neo Rule0Bot Scared
+Rule0Bot: Neo EmoCowboy Scared
+Scared: Neo EmoCowboy Rule0Bot
+Neo: Scared EmoCowboy Rule0Bot
+Generated: 2014/08/12 06:10:41.259099765 UTC

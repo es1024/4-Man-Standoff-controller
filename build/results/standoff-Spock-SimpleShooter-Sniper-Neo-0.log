@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Sniper Neo
+                         Spock: Sb,N,Sb,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N
+                           Neo: N,Sa,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 1
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Sniper Neo
+SimpleShooter: Spock Sniper Neo
+Sniper: Spock SimpleShooter Neo
+Neo: Spock SimpleShooter Sniper
+Generated: 2014/08/12 07:32:58.149327449 UTC

@@ -1,0 +1,16 @@
+Standoff between: Bomberman EmoCowboy Rule0Bot CourageTheDog
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,Sb,N,Sc,N,Da,Da,Sc,N,Da,Sa,N,N,Da,Da,Da,Da,Sa
+Final Health:
+                     Bomberman: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: Rule0Bot CourageTheDog EmoCowboy
+EmoCowboy: Rule0Bot CourageTheDog Bomberman
+Rule0Bot: EmoCowboy CourageTheDog Bomberman
+CourageTheDog: EmoCowboy Rule0Bot Bomberman
+Generated: 2014/08/12 06:05:51.372879128 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter AntiGrenadier Scared CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sa,N,Sa,N,Db,Db,Db,Sb,N,Sb,N,Db,Db,N,Db,Sb
+Final Health:
+               StraightShooter: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: AntiGrenadier Scared CourageTheDog
+AntiGrenadier: StraightShooter Scared CourageTheDog
+Scared: StraightShooter AntiGrenadier CourageTheDog
+CourageTheDog: StraightShooter AntiGrenadier Scared
+Generated: 2014/08/12 05:53:22.727110043 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Richochet Monkey
+                 InputAnalyzer: Dc,P,Sc
+                     Aggressor: P,Tc,Sa
+                     Richochet: Sd,N,N
+                        Monkey: N,N,N
+Final Health:
+                 InputAnalyzer: -6
+                     Aggressor: -1
+                     Richochet: -3
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Monkey Aggressor
+Aggressor: Richochet Monkey InputAnalyzer
+Richochet: Aggressor Monkey InputAnalyzer
+Monkey: Aggressor Richochet InputAnalyzer
+Generated: 2014/08/12 07:18:39.581163435 UTC

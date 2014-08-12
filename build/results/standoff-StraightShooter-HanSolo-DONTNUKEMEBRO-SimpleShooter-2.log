@@ -1,16 +1,16 @@
 Standoff between: StraightShooter HanSolo DONTNUKEMEBRO SimpleShooter
                StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
                        HanSolo: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 DONTNUKEMEBRO: Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da
-                 SimpleShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 DONTNUKEMEBRO: Db,Da,Db,Db,Da,Da,Sd,N,Dd,Db,Db,Db,Dd,Db,Da,Db,Dd,Da,Db,Db,Db,Dd,Dd,Da,Dd,Dd,Da,Dd,Da,Dd,Dd,Da,Dd,Db,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 SimpleShooter: Sb,N,Sa,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
 Final Health:
-               StraightShooter: -15
-                       HanSolo: -3
-                 DONTNUKEMEBRO: -15
-                 SimpleShooter: -19
+               StraightShooter: -19
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -17
+                 SimpleShooter: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 StraightShooter: SimpleShooter HanSolo DONTNUKEMEBRO
 HanSolo: SimpleShooter StraightShooter DONTNUKEMEBRO
 DONTNUKEMEBRO: SimpleShooter StraightShooter HanSolo
 SimpleShooter: DONTNUKEMEBRO StraightShooter HanSolo
-Generated: 2014/08/11 00:58:45.139595266 UTC
+Generated: 2014/08/12 09:27:20.903072942 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Bomberman Scared
+               StraightShooter: Sd,N,Sd
+                     Aggressor: P,Tc,Sa
+                     Bomberman: N,N,N
+                        Scared: N,N,N
+Final Health:
+               StraightShooter: 0
+                     Aggressor: 2
+                     Bomberman: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Scared Aggressor
+Aggressor: Bomberman Scared StraightShooter
+Bomberman: Aggressor Scared StraightShooter
+Scared: Aggressor Bomberman StraightShooter
+Generated: 2014/08/12 09:00:22.775308817 UTC

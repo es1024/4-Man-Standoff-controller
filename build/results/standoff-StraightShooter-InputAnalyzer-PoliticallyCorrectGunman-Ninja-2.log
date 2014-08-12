@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman Ninja
+               StraightShooter: Sb,N,Sb
+                 InputAnalyzer: Dd,P,Sb
+      PoliticallyCorrectGunman: P,Sa,N
+                         Ninja: Db,Dc,Dc
+Final Health:
+               StraightShooter: -3
+                 InputAnalyzer: -13
+      PoliticallyCorrectGunman: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja InputAnalyzer PoliticallyCorrectGunman
+InputAnalyzer: Ninja StraightShooter PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Ninja StraightShooter InputAnalyzer
+Ninja: PoliticallyCorrectGunman StraightShooter InputAnalyzer
+Generated: 2014/08/12 09:16:30.981109849 UTC

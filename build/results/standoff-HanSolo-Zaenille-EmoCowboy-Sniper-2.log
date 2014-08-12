@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille EmoCowboy Sniper
+                       HanSolo: Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                        Sniper: Sa,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                      Zaenille: -2
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Zaenille EmoCowboy
+Zaenille: Sniper HanSolo EmoCowboy
+EmoCowboy: Sniper HanSolo Zaenille
+Sniper: EmoCowboy HanSolo Zaenille
+Generated: 2014/08/12 10:09:40.900550720 UTC

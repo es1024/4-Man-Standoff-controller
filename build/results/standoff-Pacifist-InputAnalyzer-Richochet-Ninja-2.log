@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Richochet Ninja
+                      Pacifist: N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Sc,N,Sa,N,Sa,N,Sb
+                     Richochet: Sd,N,Sd,N,Sd,N,Sa,N
+                         Ninja: Db,Db,Da,Da,Da,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -2
+                     Richochet: 3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja InputAnalyzer Richochet
+InputAnalyzer: Ninja Pacifist Richochet
+Richochet: Ninja Pacifist InputAnalyzer
+Ninja: Richochet Pacifist InputAnalyzer
+Generated: 2014/08/12 10:34:49.533727927 UTC

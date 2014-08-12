@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey EmoCowboy CourageTheDog
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,Sc,N,N,N,N,N,N
+                 CourageTheDog: N,Db,Dc,Sb,N,Da,Sa,N,Sa
+Final Health:
+                        Coward: 1
+                        Monkey: -1
+                     EmoCowboy: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy CourageTheDog Monkey
+Monkey: EmoCowboy CourageTheDog Coward
+EmoCowboy: Monkey CourageTheDog Coward
+CourageTheDog: Monkey EmoCowboy Coward
+Generated: 2014/08/12 07:33:19.494963710 UTC

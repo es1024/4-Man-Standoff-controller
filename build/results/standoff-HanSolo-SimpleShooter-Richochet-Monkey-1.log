@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Richochet Monkey
+                       HanSolo: Sc,N,Sc,N,Sc
+                 SimpleShooter: Sa,N,Sd,N,Sa
+                     Richochet: Sa,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 5
+                     Richochet: -1
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Monkey SimpleShooter
+SimpleShooter: Richochet Monkey HanSolo
+Richochet: SimpleShooter Monkey HanSolo
+Monkey: SimpleShooter Richochet HanSolo
+Generated: 2014/08/12 10:03:05.668557596 UTC

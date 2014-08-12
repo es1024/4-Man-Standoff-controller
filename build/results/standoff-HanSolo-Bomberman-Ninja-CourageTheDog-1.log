@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman Ninja CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dd,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Db,Db,Db,Db,Da,Sa,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                     Bomberman: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja CourageTheDog Bomberman
+Bomberman: Ninja CourageTheDog HanSolo
+Ninja: Bomberman CourageTheDog HanSolo
+CourageTheDog: Bomberman Ninja HanSolo
+Generated: 2014/08/12 06:28:48.775409574 UTC

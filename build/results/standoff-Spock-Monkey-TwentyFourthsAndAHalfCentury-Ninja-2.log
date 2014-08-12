@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey TwentyFourthsAndAHalfCentury Ninja
+                         Spock: N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,N,N,Da,Db,Sd,N,N,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,Sa,N,N,Sd,N,Sd,N,Sb,N,Sa,N,Sa
+                         Ninja: Da,Dc,Db,Da,Da,Db,Da,Db,Dc,Dd,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja Monkey TwentyFourthsAndAHalfCentury
+Monkey: Ninja Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Spock Monkey
+Ninja: TwentyFourthsAndAHalfCentury Spock Monkey
+Generated: 2014/08/12 09:36:06.324327250 UTC

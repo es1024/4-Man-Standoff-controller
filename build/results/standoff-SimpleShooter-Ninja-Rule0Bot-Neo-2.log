@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Ninja Rule0Bot Neo
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sb,N,Sb,N,Sd
+                         Ninja: Dd,Dd,Da,Dd,Dc,Db,Dd,Db,Dd,Db,Dc,Dc,Db,Dc,Dd,Da,Da,Dc,Da,Dd,Dd,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,Db,N,Db,N,Db,N,Db,Db,Db,N,N
+Final Health:
+                 SimpleShooter: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Ninja Rule0Bot
+Ninja: Neo SimpleShooter Rule0Bot
+Rule0Bot: Neo SimpleShooter Ninja
+Neo: Rule0Bot SimpleShooter Ninja
+Generated: 2014/08/12 07:31:13.402828407 UTC

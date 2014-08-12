@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Sniper CourageTheDog
+                     Grenadier: N,P,Td
+                 DONTNUKEMEBRO: Dc,Dd,Sa
+                        Sniper: Sb,N,Sa
+                 CourageTheDog: Sc,N,P
+Final Health:
+                     Grenadier: -5
+                 DONTNUKEMEBRO: -1
+                        Sniper: -3
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Sniper CourageTheDog Grenadier
+Sniper: DONTNUKEMEBRO CourageTheDog Grenadier
+CourageTheDog: DONTNUKEMEBRO Sniper Grenadier
+Generated: 2014/08/12 07:24:45.651891633 UTC

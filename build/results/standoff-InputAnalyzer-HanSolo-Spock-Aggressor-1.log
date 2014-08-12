@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Spock Aggressor
+                 InputAnalyzer: Dc,Sd
+                       HanSolo: Sc,N
+                         Spock: N,N
+                     Aggressor: P,Tb
+Final Health:
+                 InputAnalyzer: 2
+                       HanSolo: -3
+                         Spock: 0
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Aggressor HanSolo
+HanSolo: Spock Aggressor InputAnalyzer
+Spock: HanSolo Aggressor InputAnalyzer
+Aggressor: HanSolo Spock InputAnalyzer
+Generated: 2014/08/12 07:25:07.622197332 UTC

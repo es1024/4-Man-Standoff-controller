@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Aggressor AntiGrenadier
+                         Spock: N,N
+                        Coward: Sa,N
+                     Aggressor: P,Tb
+                 AntiGrenadier: N,Sc
+Final Health:
+                         Spock: 0
+                        Coward: -3
+                     Aggressor: 0
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Aggressor AntiGrenadier Coward
+Coward: Aggressor AntiGrenadier Spock
+Aggressor: Coward AntiGrenadier Spock
+AntiGrenadier: Coward Aggressor Spock
+Generated: 2014/08/12 10:06:23.616553695 UTC

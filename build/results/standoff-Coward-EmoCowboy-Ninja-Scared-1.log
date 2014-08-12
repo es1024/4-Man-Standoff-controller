@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy Ninja Scared
+                        Coward: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dc,Da,Db,Dd,Da,Dc,Da,Dd,Db,Dc,Da,Db,Dc
+                        Scared: Sb,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                     EmoCowboy: -6
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Scared EmoCowboy
+EmoCowboy: Ninja Scared Coward
+Ninja: EmoCowboy Scared Coward
+Scared: EmoCowboy Ninja Coward
+Generated: 2014/08/12 07:18:31.630788752 UTC

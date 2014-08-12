@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey EmoCowboy Sniper
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sd
+                        Monkey: N,Sc,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -1
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Sniper Monkey
+Monkey: EmoCowboy Sniper SimpleShooter
+EmoCowboy: Monkey Sniper SimpleShooter
+Sniper: Monkey EmoCowboy SimpleShooter
+Generated: 2014/08/12 07:24:53.748119350 UTC

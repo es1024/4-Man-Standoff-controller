@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Bomberman CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Sa,N,Sa,N,Sc,N,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman CourageTheDog Zaenille
+Zaenille: Bomberman CourageTheDog Pacifist
+Bomberman: Zaenille CourageTheDog Pacifist
+CourageTheDog: Zaenille Bomberman Pacifist
+Generated: 2014/08/12 10:46:40.532915112 UTC

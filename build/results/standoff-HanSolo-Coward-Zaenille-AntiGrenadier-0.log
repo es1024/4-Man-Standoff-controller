@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Zaenille AntiGrenadier
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                        Coward: Sd,N,Sa,N,Sa,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                        Coward: -1
+                      Zaenille: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Zaenille AntiGrenadier
+Coward: HanSolo Zaenille AntiGrenadier
+Zaenille: HanSolo Coward AntiGrenadier
+AntiGrenadier: HanSolo Coward Zaenille
+Generated: 2014/08/12 06:41:58.569841105 UTC

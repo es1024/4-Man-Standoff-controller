@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman AntiGrenadier Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sa,N,N,Sc,N,N,N,Sc,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -17
+      PoliticallyCorrectGunman: -2
+                 AntiGrenadier: -19
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Rule0Bot PoliticallyCorrectGunman
+PoliticallyCorrectGunman: AntiGrenadier Rule0Bot Pacifist
+AntiGrenadier: PoliticallyCorrectGunman Rule0Bot Pacifist
+Rule0Bot: PoliticallyCorrectGunman AntiGrenadier Pacifist
+Generated: 2014/08/12 09:46:33.587544225 UTC

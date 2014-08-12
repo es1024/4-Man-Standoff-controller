@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Coward TwentyFourthsAndAHalfCentury
+                 DONTNUKEMEBRO: Dd,Dc,P,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc
+                        Coward: Sa,N,Sa,N,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da,N,N
+Final Health:
+                 DONTNUKEMEBRO: -7
+                 SimpleShooter: 0
+                        Coward: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Coward TwentyFourthsAndAHalfCentury SimpleShooter
+SimpleShooter: Coward TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+Coward: SimpleShooter TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: SimpleShooter Coward DONTNUKEMEBRO
+Generated: 2014/08/12 07:25:57.288459727 UTC

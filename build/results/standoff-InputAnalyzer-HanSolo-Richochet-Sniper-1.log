@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Richochet Sniper
+                 InputAnalyzer: Dc,Da,P,Db,Db
+                       HanSolo: Sc,N,Sc,N,Sd
+                     Richochet: Sa,N,Sd,N,N
+                        Sniper: Sb,N,Sc,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 0
+                     Richochet: -1
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Sniper HanSolo
+HanSolo: Richochet Sniper InputAnalyzer
+Richochet: HanSolo Sniper InputAnalyzer
+Sniper: HanSolo Richochet InputAnalyzer
+Generated: 2014/08/12 10:48:12.930672458 UTC

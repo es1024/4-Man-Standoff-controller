@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter DONTNUKEMEBRO CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 DONTNUKEMEBRO: Dd,Dd,Dd,Da,Db,Sd,N,Dd,Da,Da,Da,Db,Db,Db,Dd,Dd,Dd,Dd,Dd,Db,Db,Db,Dd,Da,Da,Da,Dd,Da,Db,Db,Dd,Db,Db,Da,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                 CourageTheDog: Sb,N,Da,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -17
+                 DONTNUKEMEBRO: -17
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO CourageTheDog StraightShooter
+StraightShooter: DONTNUKEMEBRO CourageTheDog Pacifist
+DONTNUKEMEBRO: StraightShooter CourageTheDog Pacifist
+CourageTheDog: StraightShooter DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 07:29:14.598689099 UTC

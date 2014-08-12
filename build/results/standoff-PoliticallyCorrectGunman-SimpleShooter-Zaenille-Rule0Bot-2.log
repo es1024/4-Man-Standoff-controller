@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Zaenille Rule0Bot
+      PoliticallyCorrectGunman: N,P,Sb,N
+                 SimpleShooter: Sc,N,Sa,N
+                      Zaenille: Sc,N,N,N
+                      Rule0Bot: N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                 SimpleShooter: 0
+                      Zaenille: -4
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot SimpleShooter Zaenille
+SimpleShooter: Rule0Bot PoliticallyCorrectGunman Zaenille
+Zaenille: Rule0Bot PoliticallyCorrectGunman SimpleShooter
+Rule0Bot: Zaenille PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 10:34:36.584006645 UTC

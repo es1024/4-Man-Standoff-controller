@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Monkey AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,P,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,Sa,N,Sc
+Final Health:
+                     Grenadier: -3
+                      Zaenille: -2
+                        Monkey: -6
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Zaenille Monkey
+Zaenille: AntiGrenadier Grenadier Monkey
+Monkey: AntiGrenadier Grenadier Zaenille
+AntiGrenadier: Monkey Grenadier Zaenille
+Generated: 2014/08/12 09:51:36.943960676 UTC

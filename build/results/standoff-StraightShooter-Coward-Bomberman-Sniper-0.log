@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Bomberman Sniper
+               StraightShooter: Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                        Coward: 5
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Bomberman Sniper
+Coward: StraightShooter Bomberman Sniper
+Bomberman: StraightShooter Coward Sniper
+Sniper: StraightShooter Coward Bomberman
+Generated: 2014/08/12 09:16:41.742954449 UTC

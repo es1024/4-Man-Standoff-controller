@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock TwentyFourthsAndAHalfCentury Neo
+      PoliticallyCorrectGunman: Sd,N,Dc,N,N,N,N,Db,Sc,N,Sb,N,N,P,Tb
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,Dd,N,Da,N,N,Db,N,Db,N,Db,Da,Da
+                           Neo: N,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 2
+                         Spock: -5
+  TwentyFourthsAndAHalfCentury: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Spock TwentyFourthsAndAHalfCentury
+Spock: Neo PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo PoliticallyCorrectGunman Spock
+Neo: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 09:41:40.105192875 UTC

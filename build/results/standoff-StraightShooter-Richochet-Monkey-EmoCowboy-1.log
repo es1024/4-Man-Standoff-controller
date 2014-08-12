@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Monkey EmoCowboy
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                        Monkey: N,N,N,Sa,N,Sd,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                        Monkey: -1
+                     EmoCowboy: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey EmoCowboy Richochet
+Richochet: Monkey EmoCowboy StraightShooter
+Monkey: Richochet EmoCowboy StraightShooter
+EmoCowboy: Richochet Monkey StraightShooter
+Generated: 2014/08/12 10:28:46.237792011 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman AntiGrenadier Sniper
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sb,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sc,N,Sc,N,Sb
+Final Health:
+                 SimpleShooter: 3
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman AntiGrenadier Sniper
+Bomberman: SimpleShooter AntiGrenadier Sniper
+AntiGrenadier: SimpleShooter Bomberman Sniper
+Sniper: SimpleShooter Bomberman AntiGrenadier
+Generated: 2014/08/12 07:42:10.332196605 UTC

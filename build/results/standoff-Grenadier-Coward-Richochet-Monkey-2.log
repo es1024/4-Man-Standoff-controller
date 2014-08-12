@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Richochet Monkey
+                     Grenadier: P,Tb
+                        Coward: Sc,N
+                     Richochet: Sd,N
+                        Monkey: N,P
+Final Health:
+                     Grenadier: -1
+                        Coward: -6
+                     Richochet: -3
+                        Monkey: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Coward Richochet
+Coward: Monkey Grenadier Richochet
+Richochet: Monkey Grenadier Coward
+Monkey: Richochet Grenadier Coward
+Generated: 2014/08/12 09:34:26.712948521 UTC

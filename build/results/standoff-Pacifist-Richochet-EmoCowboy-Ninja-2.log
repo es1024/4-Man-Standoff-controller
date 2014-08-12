@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet EmoCowboy Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Dc,Dd,Dd,Dd,Db,Dc,Dc,Da,Da,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                     EmoCowboy: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Richochet EmoCowboy
+Richochet: Ninja Pacifist EmoCowboy
+EmoCowboy: Ninja Pacifist Richochet
+Ninja: EmoCowboy Pacifist Richochet
+Generated: 2014/08/12 08:07:05.872972836 UTC

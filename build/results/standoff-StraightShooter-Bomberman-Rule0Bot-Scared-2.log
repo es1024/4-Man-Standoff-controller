@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Bomberman Rule0Bot Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sa,N,Sc,N,N,N,N,N,N,N,N,Sa,N,N,Sc
+Final Health:
+               StraightShooter: -1
+                     Bomberman: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared Bomberman Rule0Bot
+Bomberman: Scared StraightShooter Rule0Bot
+Rule0Bot: Scared StraightShooter Bomberman
+Scared: Rule0Bot StraightShooter Bomberman
+Generated: 2014/08/12 09:56:48.056135496 UTC

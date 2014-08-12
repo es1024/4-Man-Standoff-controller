@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman EmoCowboy Sniper
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                     Bomberman: -1
+                     EmoCowboy: -4
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Bomberman EmoCowboy
+Bomberman: Sniper SimpleShooter EmoCowboy
+EmoCowboy: Sniper SimpleShooter Bomberman
+Sniper: EmoCowboy SimpleShooter Bomberman
+Generated: 2014/08/12 09:24:18.216334011 UTC

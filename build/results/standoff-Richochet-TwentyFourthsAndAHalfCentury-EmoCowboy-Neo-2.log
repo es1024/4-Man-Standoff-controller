@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury EmoCowboy Neo
+                     Richochet: Sd,N,Sb,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: N,Dd,Da,Dd,Da,Dd,Dd,Sa,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Neo Richochet EmoCowboy
+EmoCowboy: Neo Richochet TwentyFourthsAndAHalfCentury
+Neo: EmoCowboy Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:29:51.284938847 UTC

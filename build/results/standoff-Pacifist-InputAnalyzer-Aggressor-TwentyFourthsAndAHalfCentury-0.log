@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Da,Dd,Da,N
+                     Aggressor: P,Ta,Sb,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Db,Sc
+Final Health:
+                      Pacifist: -3
+                 InputAnalyzer: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury
+InputAnalyzer: Pacifist Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist InputAnalyzer Aggressor
+Generated: 2014/08/12 07:01:24.405532966 UTC

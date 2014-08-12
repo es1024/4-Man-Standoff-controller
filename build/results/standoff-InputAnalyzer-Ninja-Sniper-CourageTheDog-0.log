@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Ninja Sniper CourageTheDog
+                 InputAnalyzer: Db,Sd,N,Dc,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dd,Dc,Dd,Da,Db,Db,Da,Da,Da,Dd,Db,Dc,Dc,Dd,Da,Da,Db,Db,Dc,Da,Da,Da,Db,Db,Dd,Da,Db,Da,Dc,Dd,Da,Db,Dc,Db,Dd,Dc,Db,Dd,Da,Db,Dc,Dd,Dd,Dc,Dd,Db,Dd,Dd
+                        Sniper: Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                         Ninja: -18
+                        Sniper: -18
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Sniper CourageTheDog
+Ninja: InputAnalyzer Sniper CourageTheDog
+Sniper: InputAnalyzer Ninja CourageTheDog
+CourageTheDog: InputAnalyzer Ninja Sniper
+Generated: 2014/08/12 09:32:07.942287703 UTC

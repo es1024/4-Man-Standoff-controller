@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Coward TwentyFourthsAndAHalfCentury
+                     Grenadier: N,P,N,N,N
+                      Pacifist: N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Db
+  TwentyFourthsAndAHalfCentury: Dc,Db,Dc,Db,Sc
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -2
+                        Coward: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Pacifist Coward
+Pacifist: TwentyFourthsAndAHalfCentury Grenadier Coward
+Coward: TwentyFourthsAndAHalfCentury Grenadier Pacifist
+TwentyFourthsAndAHalfCentury: Coward Grenadier Pacifist
+Generated: 2014/08/12 08:18:41.614653406 UTC

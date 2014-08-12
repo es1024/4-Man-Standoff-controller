@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Ninja CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc
+      PoliticallyCorrectGunman: Da,Sb,N,N,N
+                         Ninja: Dc,Db,Dd,Dd,Dd
+                 CourageTheDog: Sa,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Ninja CourageTheDog
+PoliticallyCorrectGunman: StraightShooter Ninja CourageTheDog
+Ninja: StraightShooter PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: StraightShooter PoliticallyCorrectGunman Ninja
+Generated: 2014/08/12 07:31:50.312687581 UTC

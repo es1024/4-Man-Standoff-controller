@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury AntiGrenadier Rule0Bot
+                 InputAnalyzer: Db,Dd,Db,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dd,Sd,N,Sa,N,Sd,N,Sc,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury AntiGrenadier Rule0Bot
+TwentyFourthsAndAHalfCentury: InputAnalyzer AntiGrenadier Rule0Bot
+AntiGrenadier: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot
+Rule0Bot: InputAnalyzer TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 06:32:23.837812727 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Bomberman Rule0Bot
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sb
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 3
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Rule0Bot SimpleShooter
+SimpleShooter: Bomberman Rule0Bot HanSolo
+Bomberman: SimpleShooter Rule0Bot HanSolo
+Rule0Bot: SimpleShooter Bomberman HanSolo
+Generated: 2014/08/12 10:12:55.184164490 UTC

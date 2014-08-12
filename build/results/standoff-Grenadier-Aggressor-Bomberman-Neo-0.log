@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Bomberman Neo
+                     Grenadier: N,N,N,N,N
+                     Aggressor: P,Ta,Sc,N,Sd
+                     Bomberman: N,N,N,N,N
+                           Neo: N,N,Dc,N,Dc
+Final Health:
+                     Grenadier: -3
+                     Aggressor: 2
+                     Bomberman: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Bomberman Neo
+Aggressor: Grenadier Bomberman Neo
+Bomberman: Grenadier Aggressor Neo
+Neo: Grenadier Aggressor Bomberman
+Generated: 2014/08/12 08:55:49.331557080 UTC

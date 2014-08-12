@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet AntiGrenadier Neo
+                        Coward: Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                     Richochet: Sd,N,Sc,N,Sd,N,Sa,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,Db,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                     Richochet: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Neo Richochet AntiGrenadier
+Richochet: Neo Coward AntiGrenadier
+AntiGrenadier: Neo Coward Richochet
+Neo: AntiGrenadier Coward Richochet
+Generated: 2014/08/12 08:26:16.062828207 UTC

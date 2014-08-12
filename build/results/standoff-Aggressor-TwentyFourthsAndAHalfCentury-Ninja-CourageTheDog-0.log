@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+                     Aggressor: P,Tb,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,N,N,N
+                         Ninja: Db,Dd,Dd,Dc,Dc
+                 CourageTheDog: Sa,N,Dc,Dc,Sc
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                         Ninja: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+TwentyFourthsAndAHalfCentury: Aggressor Ninja CourageTheDog
+Ninja: Aggressor TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Aggressor TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 07:52:34.604867950 UTC

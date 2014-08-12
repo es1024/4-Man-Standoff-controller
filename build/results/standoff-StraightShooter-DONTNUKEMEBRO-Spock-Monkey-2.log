@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Spock Monkey
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 DONTNUKEMEBRO: Dc,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                         Spock: 5
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Monkey StraightShooter Spock
+Spock: Monkey StraightShooter DONTNUKEMEBRO
+Monkey: Spock StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 10:28:29.001303568 UTC

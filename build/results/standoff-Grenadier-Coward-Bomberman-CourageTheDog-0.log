@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Bomberman CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,P,Tb
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Sc,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+                        Coward: -5
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Bomberman CourageTheDog
+Coward: Grenadier Bomberman CourageTheDog
+Bomberman: Grenadier Coward CourageTheDog
+CourageTheDog: Grenadier Coward Bomberman
+Generated: 2014/08/12 10:21:05.698007378 UTC

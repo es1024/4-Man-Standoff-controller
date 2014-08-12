@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy Rule0Bot Sniper
+                     Richochet: Sb,N,Sc,N,Sc,N,Sd,N,Sd,N,Sc,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy Rule0Bot Sniper
+EmoCowboy: Richochet Rule0Bot Sniper
+Rule0Bot: Richochet EmoCowboy Sniper
+Sniper: Richochet EmoCowboy Rule0Bot
+Generated: 2014/08/12 08:43:53.884344574 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Ninja Rule0Bot
+                     Richochet: Sc,N,Sd,N,Sb,N,Sd,N,Sd,N,Sb,N,Sc,N,Sc,N,Sb
+                        Monkey: N,N,Dd,Dc,Dc,N,N,N,N,N,N,Dd,Dd,Sc,N,N,N
+                         Ninja: Dd,Dd,Dc,Dc,Da,Dd,Dd,Dc,Dc,Db,Dd,Dc,Dc,Db,Dc,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Rule0Bot Monkey Ninja
+Monkey: Rule0Bot Richochet Ninja
+Ninja: Rule0Bot Richochet Monkey
+Rule0Bot: Ninja Richochet Monkey
+Generated: 2014/08/12 06:45:55.703037305 UTC

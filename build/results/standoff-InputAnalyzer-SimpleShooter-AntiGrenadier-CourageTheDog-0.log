@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter AntiGrenadier CourageTheDog
+                 InputAnalyzer: Db,Sd,N,Dd,P,Dc,Dd
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sa
+                 AntiGrenadier: N,N,N,N,N,Sa,N
+                 CourageTheDog: Sa,N,Dc,Dc,Db,P,Ta
+Final Health:
+                 InputAnalyzer: -13
+                 SimpleShooter: -1
+                 AntiGrenadier: -5
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter AntiGrenadier CourageTheDog
+SimpleShooter: InputAnalyzer AntiGrenadier CourageTheDog
+AntiGrenadier: InputAnalyzer SimpleShooter CourageTheDog
+CourageTheDog: InputAnalyzer SimpleShooter AntiGrenadier
+Generated: 2014/08/12 10:14:56.977128965 UTC

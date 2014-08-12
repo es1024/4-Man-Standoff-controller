@@ -1,0 +1,16 @@
+Standoff between: Monkey Bomberman Ninja AntiGrenadier
+                        Monkey: N,N,N,N,N,Db,N,Dc,Dc,Da,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Dd,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,Dc,N,N,N,N,Dd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dc,Da,Db,Da,Dc,Dc,Da,Db,Db,Da,Db,Dd,Da,Dc,Dd,Db,Da,Dd,Dc,Dd,Dd,Db,Da,Dc,Dc,Da,Dc,Dd,Db,Dd,Dd,Dc,Da,Dc,Dd,Dc,Dd,Db,Dc,Dd,Db,Dc,Db,Db,Da,Db,Dd,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -15
+                     Bomberman: -15
+                         Ninja: -15
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Bomberman Ninja AntiGrenadier
+Bomberman: Monkey Ninja AntiGrenadier
+Ninja: Monkey Bomberman AntiGrenadier
+AntiGrenadier: Monkey Bomberman Ninja
+Generated: 2014/08/12 07:50:59.611936278 UTC

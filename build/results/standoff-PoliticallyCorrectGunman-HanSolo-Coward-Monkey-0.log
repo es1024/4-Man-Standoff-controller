@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Coward Monkey
+      PoliticallyCorrectGunman: Dc,N,Db,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                        Monkey: N,Sa,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: -1
+                        Coward: -1
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Coward Monkey
+HanSolo: PoliticallyCorrectGunman Coward Monkey
+Coward: PoliticallyCorrectGunman HanSolo Monkey
+Monkey: PoliticallyCorrectGunman HanSolo Coward
+Generated: 2014/08/12 09:26:31.117221602 UTC

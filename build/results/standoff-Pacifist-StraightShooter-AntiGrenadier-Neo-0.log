@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter AntiGrenadier Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Da,Db,Da,N,Da,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+               StraightShooter: -15
+                 AntiGrenadier: -1
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter AntiGrenadier Neo
+StraightShooter: Pacifist AntiGrenadier Neo
+AntiGrenadier: Pacifist StraightShooter Neo
+Neo: Pacifist StraightShooter AntiGrenadier
+Generated: 2014/08/12 06:55:02.832213428 UTC

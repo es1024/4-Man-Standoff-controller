@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey AntiGrenadier Scared
+                        Coward: Sd,N,Sd,N,Sc,N,Sb,N
+                        Monkey: N,N,N,Sd,N,Sc,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N
+                        Scared: N,N,N,Sc,N,N,N,N
+Final Health:
+                        Coward: 5
+                        Monkey: -2
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey AntiGrenadier Scared
+Monkey: Coward AntiGrenadier Scared
+AntiGrenadier: Coward Monkey Scared
+Scared: Coward Monkey AntiGrenadier
+Generated: 2014/08/12 09:43:09.607093682 UTC

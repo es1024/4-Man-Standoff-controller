@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+      PoliticallyCorrectGunman: N,N,N,Sd,N,Dd,Sd,N,N,N,N,Sb,N,Db,Dc,P,Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,N,N,N,Sa,N,Sd,N,Sa,N,Sa,N,Sa
+                         Ninja: Dc,Db,Dc,Da,Db,Dc,Db,Db,Dc,Dc,Dc,Dd,Da,Da,Dd,Dc,Da,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -7
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: 2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Rule0Bot PoliticallyCorrectGunman Ninja
+Ninja: Rule0Bot PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Rule0Bot: Ninja PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:15:05.296798450 UTC

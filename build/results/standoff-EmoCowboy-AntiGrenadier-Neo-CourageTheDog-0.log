@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy AntiGrenadier Neo CourageTheDog
+                     EmoCowboy: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Dd,Dd,Dd,Dd,N,N,Dd,N,N,N,Dd,Sd,N,N,Dd,Dd,Dd,N,N,Sd,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Db,Sb,N,Dc,Sc,N,Sb,N,Sc,N,Dc,Dc,Dc,Dc,Sc,N,Sc,N,Sc,N,Dc,Dc,Sc
+Final Health:
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: AntiGrenadier Neo CourageTheDog
+AntiGrenadier: EmoCowboy Neo CourageTheDog
+Neo: EmoCowboy AntiGrenadier CourageTheDog
+CourageTheDog: EmoCowboy AntiGrenadier Neo
+Generated: 2014/08/12 09:22:59.464037839 UTC

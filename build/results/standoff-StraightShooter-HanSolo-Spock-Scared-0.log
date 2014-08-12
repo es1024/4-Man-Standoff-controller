@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Spock Scared
+               StraightShooter: Sc,N,Sc,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                         Spock: Sa,N,Sa,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sb,N,N,N,N
+Final Health:
+               StraightShooter: -3
+                       HanSolo: 1
+                         Spock: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Spock Scared
+HanSolo: StraightShooter Spock Scared
+Spock: StraightShooter HanSolo Scared
+Scared: StraightShooter HanSolo Spock
+Generated: 2014/08/12 08:05:32.089042242 UTC

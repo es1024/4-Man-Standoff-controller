@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey Scared CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Db,N,N,Db,Sd,N,N,N
+                        Scared: N,N,N,N,N,N,Sd,N,Sd,N,Sb
+                 CourageTheDog: Sb,N,Db,Db,Dc,Db,Sb,N,Sc,N,N
+Final Health:
+                      Zaenille: -2
+                        Monkey: -1
+                        Scared: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Scared CourageTheDog Monkey
+Monkey: Scared CourageTheDog Zaenille
+Scared: Monkey CourageTheDog Zaenille
+CourageTheDog: Monkey Scared Zaenille
+Generated: 2014/08/12 10:17:43.133663339 UTC

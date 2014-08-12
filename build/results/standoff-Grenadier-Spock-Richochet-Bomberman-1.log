@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Richochet Bomberman
+                     Grenadier: N,N,P,N,N
+                         Spock: Sc,N,Sc,N,N
+                     Richochet: Sa,N,Sa,N,Sd
+                     Bomberman: N,N,N,N,N
+Final Health:
+                     Grenadier: -5
+                         Spock: 2
+                     Richochet: -2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Bomberman Spock
+Spock: Richochet Bomberman Grenadier
+Richochet: Spock Bomberman Grenadier
+Bomberman: Spock Richochet Grenadier
+Generated: 2014/08/12 06:57:29.264827839 UTC

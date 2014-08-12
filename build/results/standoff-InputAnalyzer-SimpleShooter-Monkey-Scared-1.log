@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Monkey Scared
+                 InputAnalyzer: Dc,Db,Sa,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,Sc,N
+                        Scared: Sa,N,N,N,N,N,N,N,Sb,N,Sb
+Final Health:
+                 InputAnalyzer: -2
+                 SimpleShooter: 1
+                        Monkey: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Scared SimpleShooter
+SimpleShooter: Monkey Scared InputAnalyzer
+Monkey: SimpleShooter Scared InputAnalyzer
+Scared: SimpleShooter Monkey InputAnalyzer
+Generated: 2014/08/12 07:10:48.149508203 UTC

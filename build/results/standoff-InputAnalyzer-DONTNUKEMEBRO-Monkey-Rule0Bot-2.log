@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Monkey Rule0Bot
+                 InputAnalyzer: Dd,P,Da,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dd,Sa,N,Dc,Dc,Dd,Dc,Da,Da,Dc,Dc,Da,Dc,Dc,Dd,Da,Dc,Da,Da,Dc,Dc,Dd,Da,Dd,Da,Dc,Dd,Dd,Dd,Dc,Dd,Dc,Dd,Sc,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                        Monkey: N,N,N,Sa,N,Dc,Dc,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: -18
+                        Monkey: 0
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot DONTNUKEMEBRO Monkey
+DONTNUKEMEBRO: Rule0Bot InputAnalyzer Monkey
+Monkey: Rule0Bot InputAnalyzer DONTNUKEMEBRO
+Rule0Bot: Monkey InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:10:53.421754385 UTC

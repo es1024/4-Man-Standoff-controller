@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Rule0Bot
+                     Grenadier: N,N,P,N,N
+                 DONTNUKEMEBRO: Dc,Dd,Da,Sa,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Sb,N,Sd
+                      Rule0Bot: N,N,N,Sa,N
+Final Health:
+                     Grenadier: -5
+                 DONTNUKEMEBRO: 0
+  TwentyFourthsAndAHalfCentury: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Rule0Bot DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury Rule0Bot Grenadier
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO Rule0Bot Grenadier
+Rule0Bot: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 09:50:55.032508440 UTC

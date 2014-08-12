@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor EmoCowboy Rule0Bot
+                        Coward: Sb,N
+                     Aggressor: P,Td
+                     EmoCowboy: Sc,N
+                      Rule0Bot: N,N
+Final Health:
+                        Coward: 2
+                     Aggressor: 0
+                     EmoCowboy: -2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy Rule0Bot Aggressor
+Aggressor: EmoCowboy Rule0Bot Coward
+EmoCowboy: Aggressor Rule0Bot Coward
+Rule0Bot: Aggressor EmoCowboy Coward
+Generated: 2014/08/12 07:17:11.129155906 UTC

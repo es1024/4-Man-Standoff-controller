@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Ninja Neo
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: N,Dc,N,N,Dd,Dc,N,N,Dd,Dc,Dd,Dc,Dc,Dc,Dd,N,N,N,N,N,N
+                         Ninja: Dd,Db,Dd,Da,Db,Da,Dc,Db,Dd,Da,Dc,Dc,Dc,Db,Dd,Da,Dc,Da,Dc,Db,Db
+                           Neo: N,N,N,N,N,N,N,N,Da,Dc,N,N,Da,Dc,Da,N,Da,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Neo SimpleShooter
+Ninja: TwentyFourthsAndAHalfCentury Neo SimpleShooter
+Neo: TwentyFourthsAndAHalfCentury Ninja SimpleShooter
+Generated: 2014/08/12 07:13:49.260385279 UTC

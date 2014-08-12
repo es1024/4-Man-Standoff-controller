@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Spock AntiGrenadier
+                 InputAnalyzer: Dd,Db,Dd,Sc,N,P,Dc,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N
+                         Spock: N,N,N,N,Sd,N,Sd,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 2
+                         Spock: 0
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier HanSolo Spock
+HanSolo: AntiGrenadier InputAnalyzer Spock
+Spock: AntiGrenadier InputAnalyzer HanSolo
+AntiGrenadier: Spock InputAnalyzer HanSolo
+Generated: 2014/08/12 06:04:17.942072267 UTC

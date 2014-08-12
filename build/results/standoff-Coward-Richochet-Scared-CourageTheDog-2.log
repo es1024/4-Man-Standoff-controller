@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Scared CourageTheDog
+                        Coward: Sc,N,Dc,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sc,N,Sd,N,Sd,N
+                        Scared: Sd,N,N,Sb,N,N,N,N,N,Sb
+                 CourageTheDog: Sa,N,N,Dc,Dc,N,Dc,Sb,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Richochet Scared
+Richochet: CourageTheDog Coward Scared
+Scared: CourageTheDog Coward Richochet
+CourageTheDog: Scared Coward Richochet
+Generated: 2014/08/12 10:31:47.557508323 UTC

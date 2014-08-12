@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Bomberman AntiGrenadier
+                         Spock: Sb,N,Sb,N,N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sd,N,Sd,N,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 2
+                        Coward: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Bomberman AntiGrenadier
+Coward: Spock Bomberman AntiGrenadier
+Bomberman: Spock Coward AntiGrenadier
+AntiGrenadier: Spock Coward Bomberman
+Generated: 2014/08/12 08:49:02.833162027 UTC

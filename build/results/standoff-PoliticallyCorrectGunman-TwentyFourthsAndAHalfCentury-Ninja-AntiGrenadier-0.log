@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja AntiGrenadier
+      PoliticallyCorrectGunman: Dd,Dd,Db,N,N,N,N,N,N,N,N,N,N,P,Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Sd,N,N,N,N,N,N,N,N,N,Sa,N,Sd,N
+                         Ninja: Db,Da,Da,Dc,Da,Dc,Dd,Dc,Dd,Dc,Db,Da,Da,Da,Db,Dc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Ninja AntiGrenadier
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Ninja AntiGrenadier
+Ninja: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury AntiGrenadier
+AntiGrenadier: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 08:22:57.211164155 UTC

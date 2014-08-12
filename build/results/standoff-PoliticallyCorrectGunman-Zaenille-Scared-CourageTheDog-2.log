@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Scared CourageTheDog
+      PoliticallyCorrectGunman: N,Sd,N,Dd,Sc,N,Db,Dc,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+                        Scared: N,Sd,N,Sa,N,Sd,N,Sa,N,Sa
+                 CourageTheDog: Sc,N,Sa,N,Da,Da,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -2
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Zaenille Scared
+Zaenille: CourageTheDog PoliticallyCorrectGunman Scared
+Scared: CourageTheDog PoliticallyCorrectGunman Zaenille
+CourageTheDog: Scared PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 06:40:51.277932904 UTC

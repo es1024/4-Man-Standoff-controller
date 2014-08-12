@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman AntiGrenadier Scared
+                     Richochet: Sb,N,Sd,N,Sd,N,Sc,N,Sb,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,Sa,N,N,Sa,N,Sc
+Final Health:
+                     Richochet: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: AntiGrenadier Scared Bomberman
+Bomberman: AntiGrenadier Scared Richochet
+AntiGrenadier: Bomberman Scared Richochet
+Scared: Bomberman AntiGrenadier Richochet
+Generated: 2014/08/12 09:40:04.322327828 UTC

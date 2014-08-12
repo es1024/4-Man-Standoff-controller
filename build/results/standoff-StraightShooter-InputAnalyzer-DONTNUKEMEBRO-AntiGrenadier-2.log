@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO AntiGrenadier
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 InputAnalyzer: Dd,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Da,Sb,N,Dd,Dd,Da,Db,Da,Db,Db,Db,Da,Da,Da,Da,Da,Dd,Db,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Da,Da,Db,Db,Db,Da,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: -17
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: AntiGrenadier InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: AntiGrenadier StraightShooter DONTNUKEMEBRO
+DONTNUKEMEBRO: AntiGrenadier StraightShooter InputAnalyzer
+AntiGrenadier: DONTNUKEMEBRO StraightShooter InputAnalyzer
+Generated: 2014/08/12 07:23:05.425565853 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Richochet Ninja
+      PoliticallyCorrectGunman: N,Sd,N,Dc,Sa,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sd,N,Sc
+                     Richochet: Sb,N,Sa,N,Sb,N,Sd,N,Sb
+                         Ninja: Da,Dc,Db,Dc,Da,Dc,Db,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: -1
+                     Richochet: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Richochet Ninja
+SimpleShooter: PoliticallyCorrectGunman Richochet Ninja
+Richochet: PoliticallyCorrectGunman SimpleShooter Ninja
+Ninja: PoliticallyCorrectGunman SimpleShooter Richochet
+Generated: 2014/08/12 08:30:17.728525915 UTC

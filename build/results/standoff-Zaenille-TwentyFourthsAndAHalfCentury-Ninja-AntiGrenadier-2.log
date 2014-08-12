@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Ninja AntiGrenadier
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Sd,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,Sc
+                         Ninja: Da,Da,Db,Db,Db,Da,Dc,Db,Db,Da,Da,Da,Db,Dd,Db,Da,Da,Db,Dd,Da,Dc,Db,Dd,Da,Db,Dc,Dc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: AntiGrenadier TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: AntiGrenadier Zaenille Ninja
+Ninja: AntiGrenadier Zaenille TwentyFourthsAndAHalfCentury
+AntiGrenadier: Ninja Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:24:48.644459374 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo SimpleShooter CourageTheDog
+      PoliticallyCorrectGunman: Sd,N,Db,Sc,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sb
+                 CourageTheDog: Sb,N,Sa,N,Da,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: -1
+                 SimpleShooter: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo SimpleShooter CourageTheDog
+HanSolo: PoliticallyCorrectGunman SimpleShooter CourageTheDog
+SimpleShooter: PoliticallyCorrectGunman HanSolo CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman HanSolo SimpleShooter
+Generated: 2014/08/12 10:45:32.981270840 UTC

@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Richochet Scared
+                 DONTNUKEMEBRO: Dd,Dc,Sc,N,Db,Dc,Sd
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sd
+                     Richochet: Sa,N,Sb,N,N,N,N
+                        Scared: Sb,N,Sc,N,Sa,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 1
+                     Richochet: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Richochet Scared
+SimpleShooter: DONTNUKEMEBRO Richochet Scared
+Richochet: DONTNUKEMEBRO SimpleShooter Scared
+Scared: DONTNUKEMEBRO SimpleShooter Richochet
+Generated: 2014/08/12 10:46:19.583672219 UTC

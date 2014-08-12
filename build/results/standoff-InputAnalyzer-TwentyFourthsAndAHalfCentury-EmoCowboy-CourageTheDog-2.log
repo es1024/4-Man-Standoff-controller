@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                 InputAnalyzer: Dd,Dc,Dd,P,Sa,N
+  TwentyFourthsAndAHalfCentury: Da,Da,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Db,P,Tb
+Final Health:
+                 InputAnalyzer: -8
+  TwentyFourthsAndAHalfCentury: -6
+                     EmoCowboy: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: CourageTheDog InputAnalyzer EmoCowboy
+EmoCowboy: CourageTheDog InputAnalyzer TwentyFourthsAndAHalfCentury
+CourageTheDog: EmoCowboy InputAnalyzer TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:32:21.957596353 UTC

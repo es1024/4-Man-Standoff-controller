@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman Neo CourageTheDog
+                     Grenadier: P,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sc,N,Db,Db,Db,N,Sb
+Final Health:
+                     Grenadier: -3
+                     Bomberman: 0
+                           Neo: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Neo CourageTheDog
+Bomberman: Grenadier Neo CourageTheDog
+Neo: Grenadier Bomberman CourageTheDog
+CourageTheDog: Grenadier Bomberman Neo
+Generated: 2014/08/12 09:35:45.981178300 UTC

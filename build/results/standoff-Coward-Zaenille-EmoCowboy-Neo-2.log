@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille EmoCowboy Neo
+                        Coward: Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,Sc
+                           Neo: N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                      Zaenille: -2
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Neo Zaenille EmoCowboy
+Zaenille: Neo Coward EmoCowboy
+EmoCowboy: Neo Coward Zaenille
+Neo: EmoCowboy Coward Zaenille
+Generated: 2014/08/12 07:44:04.485177013 UTC

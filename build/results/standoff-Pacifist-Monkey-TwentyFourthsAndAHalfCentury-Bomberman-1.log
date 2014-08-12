@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey TwentyFourthsAndAHalfCentury Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Sb,N,Sd,N,N,N,N,Sd,N,Sa,N,Sb,N,Sd,N,Sa,N,Sb,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Bomberman Monkey
+Monkey: TwentyFourthsAndAHalfCentury Bomberman Pacifist
+TwentyFourthsAndAHalfCentury: Monkey Bomberman Pacifist
+Bomberman: Monkey TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 09:43:20.352773549 UTC

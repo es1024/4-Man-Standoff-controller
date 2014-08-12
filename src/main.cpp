@@ -19,9 +19,24 @@ const char *entry_info[] = {
 	"DONTNUKEMEBRO",				"lua ./players/DONTNUKEMEBRO/DONTNUKEMEBRO.lua",
 	"Spock",						"python ./players/Spock/Spock.py",
 	"SimpleShooter",				"perl ./players/SimpleShooter/SimpleShooter.perl",
+	"Coward",						"perl ./players/Coward/Coward.perl",
+	"Aggressor",					"./players/Aggressor/Aggressor",
+	"Richochet",					"perl ./players/Richochet/Richochet.perl",
+	"Zaenille",						"./players/Zaenille/Zaenille",
+	"Monkey",						"python ./players/Monkey/monkey.py",
+	"TwentyFourthsAndAHalfCentury",	"python ./players/TwentyFourthsAndAHalfCentury/TwentyFourthsAndAHalfCentury.py",
+	"Bomberman",					"Rscript ./players/Bomberman/Bomberman.R",
+	"EmoCowboy",					"python ./players/EmoCowboy/EmoCowboy.py",
+	"Ninja",						"lua ./players/Ninja/ninja.lua",
+	"AntiGrenadier",				"lua ./players/AntiGrenadier/AntiGrenadier.lua",
+	"Rule0Bot",						"python ./players/Rule0Bot/rule0bot.py",
+	"Sniper",						"lua ./players/Sniper/Sniper.lua",
+	"TakeEmWithMe",					"vb?? ./players/TakeEmWithMe/TakeEmWithMe.vb",
+	"Scared",						"python ./players/Scared/scared.py",
+	"Neo",							"java -cp ./players/Neo Neo",
 };
 
-const int num_threads = 8;
+const int num_threads = 64;
 const int num_repeats = 3;
 const int num_entries = sizeof(entry_info)/sizeof(entry_info[0])/2;
 
@@ -48,9 +63,8 @@ int main(){
 		//standoff(tmp[0],tmp[1],tmp[2],tmp[3])();
 	}while(std::next_permutation(v.begin(), v.end()));
 	
-	// Wait for all to finish
-	while(p->num_jobs());
-	delete p;
+	p->init();
+	delete p; // force join
 
 	// sort entries by score
 	std::sort(&entries[0], &entries[num_entries], [](const entry *lhs, const entry *rhs)->bool{

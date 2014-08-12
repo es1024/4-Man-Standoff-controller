@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Bomberman EmoCowboy
+                        Coward: Sc,N,Sc,N,Sc,N,Sb
+                     Richochet: Sd,N,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: 3
+                     Bomberman: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy Richochet Bomberman
+Richochet: EmoCowboy Coward Bomberman
+Bomberman: EmoCowboy Coward Richochet
+EmoCowboy: Bomberman Coward Richochet
+Generated: 2014/08/12 06:24:12.118714002 UTC

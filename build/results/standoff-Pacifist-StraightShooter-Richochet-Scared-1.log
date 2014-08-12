@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Richochet Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,N
+                     Richochet: Sa,N,Sb,N,Sd,N,Sb,N,Sa
+                        Scared: Sa,N,Sb,N,Sc,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                     Richochet: 3
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Scared StraightShooter
+StraightShooter: Richochet Scared Pacifist
+Richochet: StraightShooter Scared Pacifist
+Scared: StraightShooter Richochet Pacifist
+Generated: 2014/08/12 06:19:53.366184846 UTC

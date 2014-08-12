@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille AntiGrenadier Sniper
+                        Coward: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                      Zaenille: -6
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier Sniper Zaenille
+Zaenille: AntiGrenadier Sniper Coward
+AntiGrenadier: Zaenille Sniper Coward
+Sniper: Zaenille AntiGrenadier Coward
+Generated: 2014/08/12 06:07:09.403717193 UTC

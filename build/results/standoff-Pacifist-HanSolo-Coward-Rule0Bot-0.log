@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Coward Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                        Coward: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Coward Rule0Bot
+HanSolo: Pacifist Coward Rule0Bot
+Coward: Pacifist HanSolo Rule0Bot
+Rule0Bot: Pacifist HanSolo Coward
+Generated: 2014/08/12 09:51:31.066256580 UTC

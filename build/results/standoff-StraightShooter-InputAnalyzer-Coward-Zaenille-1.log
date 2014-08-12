@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Coward Zaenille
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Db,Db,Dd,Da,P,Sa
+                        Coward: Sa,N,Sb,N,Sb,N,Sb
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -2
+                 InputAnalyzer: -7
+                        Coward: 2
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Zaenille InputAnalyzer
+InputAnalyzer: Coward Zaenille StraightShooter
+Coward: InputAnalyzer Zaenille StraightShooter
+Zaenille: InputAnalyzer Coward StraightShooter
+Generated: 2014/08/12 06:47:56.541631209 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille Rule0Bot Scared
+                         Spock: Sd,N,N,N,N,N,N,N,Sd,N,Sd,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,Sa,N,Sc,N,N,N,N,N
+Final Health:
+                         Spock: 3
+                      Zaenille: -2
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared Zaenille Rule0Bot
+Zaenille: Scared Spock Rule0Bot
+Rule0Bot: Scared Spock Zaenille
+Scared: Rule0Bot Spock Zaenille
+Generated: 2014/08/12 08:19:31.706217854 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Monkey Neo
+                     Grenadier: N,N,N,N,N,P,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N
+                        Monkey: N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Da,Da,Da,Da,N
+Final Health:
+                     Grenadier: -1
+                       HanSolo: 2
+                        Monkey: -1
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Neo HanSolo
+HanSolo: Monkey Neo Grenadier
+Monkey: HanSolo Neo Grenadier
+Neo: HanSolo Monkey Grenadier
+Generated: 2014/08/12 05:50:45.717160481 UTC

@@ -1,10 +1,10 @@
 Standoff between: Grenadier Pacifist InputAnalyzer DONTNUKEMEBRO
-                     Grenadier: P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
                       Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 InputAnalyzer: Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 DONTNUKEMEBRO: Db,Sa,N,Dc,Dc,Dc,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Dc,Dc,Dc,Dc,Db,Db,Db,Db,Db,Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Da,Da,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db
+                 InputAnalyzer: Db,Sa,N,Da,Db,P,Db,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Dc,Da,Db,Dc,Db,Sc,N,Da,Dc,Da,Db,Da,Db,Db,Da,Da,Dc,Da,Db,Dc,Da,Da,Db,Dc,Db,Dc,Da,Da,Db,Da,Db,Dc,Dc,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
 Final Health:
-                     Grenadier: -2
+                     Grenadier: 0
                       Pacifist: -18
                  InputAnalyzer: -3
                  DONTNUKEMEBRO: -18
@@ -13,4 +13,4 @@ Grenadier: InputAnalyzer DONTNUKEMEBRO Pacifist
 Pacifist: InputAnalyzer DONTNUKEMEBRO Grenadier
 InputAnalyzer: Pacifist DONTNUKEMEBRO Grenadier
 DONTNUKEMEBRO: Pacifist InputAnalyzer Grenadier
-Generated: 2014/08/11 01:00:21.659966230 UTC
+Generated: 2014/08/12 06:07:02.914712522 UTC

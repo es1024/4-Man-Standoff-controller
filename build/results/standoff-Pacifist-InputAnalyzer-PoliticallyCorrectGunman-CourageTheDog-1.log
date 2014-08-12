@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer PoliticallyCorrectGunman CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,Dc,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,Da,Da,N,Da,N,Sa,N,Dd,Sb,N,Sa,N,Da,N,Da,N,N
+                 CourageTheDog: N,Sb,N,Sc,N,Dc,Dc,Da,Da,Sc,N,Dc,Dc,Da,Dc,Dc,Da,Dc,Da,Da,Da,Sa,N,Dc,N,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman CourageTheDog InputAnalyzer
+InputAnalyzer: PoliticallyCorrectGunman CourageTheDog Pacifist
+PoliticallyCorrectGunman: InputAnalyzer CourageTheDog Pacifist
+CourageTheDog: InputAnalyzer PoliticallyCorrectGunman Pacifist
+Generated: 2014/08/12 07:23:22.891935255 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Coward Bomberman
+                 InputAnalyzer: Dc,Db,P,Sd,N
+                 SimpleShooter: Sa,N,Sd,N,Sc
+                        Coward: Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                 SimpleShooter: 2
+                        Coward: 0
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Bomberman SimpleShooter
+SimpleShooter: Coward Bomberman InputAnalyzer
+Coward: SimpleShooter Bomberman InputAnalyzer
+Bomberman: SimpleShooter Coward InputAnalyzer
+Generated: 2014/08/12 08:16:28.765071776 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Coward TwentyFourthsAndAHalfCentury
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                         Spock: N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,N,Sd,N,N,Sa,N,Sa,N,Sa
+                        Coward: Sd,N,Da,Db,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Da,Db,Da,Db,Da,Db,Da,Db,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 5
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Coward TwentyFourthsAndAHalfCentury
+Spock: StraightShooter Coward TwentyFourthsAndAHalfCentury
+Coward: StraightShooter Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: StraightShooter Spock Coward
+Generated: 2014/08/12 05:58:49.211515945 UTC

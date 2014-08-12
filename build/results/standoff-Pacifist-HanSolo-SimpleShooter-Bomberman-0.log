@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo SimpleShooter Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,N,Sc,N,Sc,N
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                 SimpleShooter: 1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo SimpleShooter Bomberman
+HanSolo: Pacifist SimpleShooter Bomberman
+SimpleShooter: Pacifist HanSolo Bomberman
+Bomberman: Pacifist HanSolo SimpleShooter
+Generated: 2014/08/12 06:02:38.211095736 UTC

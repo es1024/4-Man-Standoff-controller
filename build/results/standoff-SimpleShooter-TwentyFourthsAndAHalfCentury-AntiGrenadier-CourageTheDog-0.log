@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier CourageTheDog
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sd,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dc,N,N,N,N,Dc,Dc,Sd,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,N,Sa,N,Sa,N,Db,Dc,N,N
+Final Health:
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: 3
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury AntiGrenadier CourageTheDog
+TwentyFourthsAndAHalfCentury: SimpleShooter AntiGrenadier CourageTheDog
+AntiGrenadier: SimpleShooter TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 06:53:22.101297981 UTC

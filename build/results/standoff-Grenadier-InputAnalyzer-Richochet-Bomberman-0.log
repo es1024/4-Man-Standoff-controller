@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Richochet Bomberman
+                     Grenadier: P,Tb,N
+                 InputAnalyzer: Da,Dc,N
+                     Richochet: Sa,N,Sd
+                     Bomberman: N,N,N
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: -3
+                     Richochet: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Richochet Bomberman
+InputAnalyzer: Grenadier Richochet Bomberman
+Richochet: Grenadier InputAnalyzer Bomberman
+Bomberman: Grenadier InputAnalyzer Richochet
+Generated: 2014/08/12 10:08:42.527282735 UTC

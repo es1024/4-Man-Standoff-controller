@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille TwentyFourthsAndAHalfCentury Scared
+                     Grenadier: P,Tc,N
+                      Zaenille: Sb,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,N
+                        Scared: Sb,N,Sa
+Final Health:
+                     Grenadier: 0
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Scared Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Scared Grenadier
+TwentyFourthsAndAHalfCentury: Zaenille Scared Grenadier
+Scared: Zaenille TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 10:36:31.625295657 UTC

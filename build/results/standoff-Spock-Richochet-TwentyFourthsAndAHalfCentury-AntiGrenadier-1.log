@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet TwentyFourthsAndAHalfCentury AntiGrenadier
+                         Spock: Sc,N,Sc,N,Sc,N,Sd,N,Sc,N,Sc,N,N
+                     Richochet: Sc,N,Sc,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -3
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: TwentyFourthsAndAHalfCentury AntiGrenadier Richochet
+Richochet: TwentyFourthsAndAHalfCentury AntiGrenadier Spock
+TwentyFourthsAndAHalfCentury: Richochet AntiGrenadier Spock
+AntiGrenadier: Richochet TwentyFourthsAndAHalfCentury Spock
+Generated: 2014/08/12 08:30:42.947637832 UTC

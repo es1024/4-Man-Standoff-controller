@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Richochet Sniper
+                 InputAnalyzer: Db,P,Dd,Db
+      PoliticallyCorrectGunman: N,Dd,Da,Dd
+                     Richochet: Sb,N,Sb,N
+                        Sniper: Sc,N,Sa,N
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -2
+                     Richochet: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Richochet Sniper
+PoliticallyCorrectGunman: InputAnalyzer Richochet Sniper
+Richochet: InputAnalyzer PoliticallyCorrectGunman Sniper
+Sniper: InputAnalyzer PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 06:55:25.348216338 UTC

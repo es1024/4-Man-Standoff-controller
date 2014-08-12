@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury AntiGrenadier CourageTheDog
+                 DONTNUKEMEBRO: Dd,Dd,Dd,Dc,Sd,N,Db,Db,Dd,Sd,N,Dc,Dc,Sd,N,Dd,Dc,Dd,Db,Dc,Db,Db,Dd,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Dc,Da,Dd,Dc,Dd,Dd,Dc,Dc,Dc,Dc,Da,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Sb,N,Dc,Sa,N,Sb,N,Sa,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 3
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: CourageTheDog DONTNUKEMEBRO AntiGrenadier
+AntiGrenadier: CourageTheDog DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+CourageTheDog: AntiGrenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:26:37.641997270 UTC

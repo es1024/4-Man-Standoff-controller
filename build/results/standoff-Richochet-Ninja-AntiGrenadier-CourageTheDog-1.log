@@ -1,0 +1,16 @@
+Standoff between: Richochet Ninja AntiGrenadier CourageTheDog
+                     Richochet: Sc,N,Sd,N,Sc,N,Sb,N,Sd,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                         Ninja: Dd,Dc,Db,Da,Db,Db,Da,Dd,Dc,Da,Dd,Da,Db,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Db,Sa,N,Da,Dc,Da,Sc,N,Sb,N,Da,Da,Da,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: AntiGrenadier CourageTheDog Ninja
+Ninja: AntiGrenadier CourageTheDog Richochet
+AntiGrenadier: Ninja CourageTheDog Richochet
+CourageTheDog: Ninja AntiGrenadier Richochet
+Generated: 2014/08/12 09:27:22.670846422 UTC

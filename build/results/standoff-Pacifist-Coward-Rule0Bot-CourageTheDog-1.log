@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Dc,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Sa,N,Db,Sc,N,Dc,Sc,N,Sb,N,N,N
+Final Health:
+                      Pacifist: -3
+                        Coward: 1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot CourageTheDog Coward
+Coward: Rule0Bot CourageTheDog Pacifist
+Rule0Bot: Coward CourageTheDog Pacifist
+CourageTheDog: Coward Rule0Bot Pacifist
+Generated: 2014/08/12 08:25:42.947784774 UTC

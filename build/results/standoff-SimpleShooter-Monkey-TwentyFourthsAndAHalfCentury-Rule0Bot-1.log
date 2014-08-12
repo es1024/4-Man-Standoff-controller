@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey TwentyFourthsAndAHalfCentury Rule0Bot
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sc,N,Sb,N,Sd,N,Sc,N,Sc,N,Sc,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,Sc,N,N,Db,Db,Db,N,N,N,N,N,N,Sc,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Dd,Db,N,Da,Db,Dd,Db,Db,Db,Dd,Dd,Da,Db,Da,N,Dd,Dd,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Rule0Bot Monkey
+Monkey: TwentyFourthsAndAHalfCentury Rule0Bot SimpleShooter
+TwentyFourthsAndAHalfCentury: Monkey Rule0Bot SimpleShooter
+Rule0Bot: Monkey TwentyFourthsAndAHalfCentury SimpleShooter
+Generated: 2014/08/12 06:50:57.440388305 UTC

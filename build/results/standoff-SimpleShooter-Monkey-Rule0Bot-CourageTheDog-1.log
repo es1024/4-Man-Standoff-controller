@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Rule0Bot CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sd,N,Sc
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Dc,Dc,Sa,N,Dc,Dc,Sa,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                        Monkey: -2
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot CourageTheDog Monkey
+Monkey: Rule0Bot CourageTheDog SimpleShooter
+Rule0Bot: Monkey CourageTheDog SimpleShooter
+CourageTheDog: Monkey Rule0Bot SimpleShooter
+Generated: 2014/08/12 07:49:26.893098326 UTC

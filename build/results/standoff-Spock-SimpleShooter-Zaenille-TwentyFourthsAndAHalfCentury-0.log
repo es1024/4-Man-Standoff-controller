@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+                         Spock: Sb,N,Sb,N,Sb,N,Sd,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,Da,N,Db,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+SimpleShooter: Spock Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Spock SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Spock SimpleShooter Zaenille
+Generated: 2014/08/12 08:27:44.087486837 UTC

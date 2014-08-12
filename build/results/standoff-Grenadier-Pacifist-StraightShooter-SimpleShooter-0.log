@@ -1,11 +1,11 @@
 Standoff between: Grenadier Pacifist StraightShooter SimpleShooter
-                     Grenadier: P,Td
-                      Pacifist: N,N
-               StraightShooter: Sb,N
-                 SimpleShooter: Sc,N
+                     Grenadier: N,N,P,Td
+                      Pacifist: N,N,N,N
+               StraightShooter: Sb,N,Sb,N
+                 SimpleShooter: Sc,N,Sa,N
 Final Health:
-                     Grenadier: 2
-                      Pacifist: 0
+                     Grenadier: 0
+                      Pacifist: -2
                StraightShooter: 0
                  SimpleShooter: -3
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
@@ -13,4 +13,4 @@ Grenadier: Pacifist StraightShooter SimpleShooter
 Pacifist: Grenadier StraightShooter SimpleShooter
 StraightShooter: Grenadier Pacifist SimpleShooter
 SimpleShooter: Grenadier Pacifist StraightShooter
-Generated: 2014/08/11 01:00:12.791114858 UTC
+Generated: 2014/08/12 10:47:20.554986047 UTC

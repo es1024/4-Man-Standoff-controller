@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Bomberman Neo
+                     Richochet: Sb,N,Sc,N,Sc,N,Sc,N,Sb,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,N,N,N,N,N,Da,Dd,Da,Dd,Da,N,N,N,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,Da,N,N,N,N,Db,Da,N,N,Db,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Neo Richochet
+Bomberman: TwentyFourthsAndAHalfCentury Neo Richochet
+Neo: TwentyFourthsAndAHalfCentury Bomberman Richochet
+Generated: 2014/08/12 05:58:06.322416905 UTC

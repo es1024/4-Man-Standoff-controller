@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock EmoCowboy AntiGrenadier
+                 InputAnalyzer: Db,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,Sa,N,N,N,N,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                         Spock: -15
+                     EmoCowboy: -2
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock EmoCowboy AntiGrenadier
+Spock: InputAnalyzer EmoCowboy AntiGrenadier
+EmoCowboy: InputAnalyzer Spock AntiGrenadier
+AntiGrenadier: InputAnalyzer Spock EmoCowboy
+Generated: 2014/08/12 06:56:08.621725421 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,P,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Db,Db,Sb,N,Dd,Dd,Da,Dd,Db,Dd,Db,Db,Da,Da,Db,Dd,Da,Db,Da,Da,Da,Da,Dd,Db,Da,Db,Db,Dd,Db,Db,Dd,Db,Db,Sa
+                           Neo: N,N,Da,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -8
+                 DONTNUKEMEBRO: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Neo InputAnalyzer
+InputAnalyzer: DONTNUKEMEBRO Neo StraightShooter
+DONTNUKEMEBRO: InputAnalyzer Neo StraightShooter
+Neo: InputAnalyzer DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/12 06:44:48.315506201 UTC

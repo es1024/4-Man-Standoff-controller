@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Bomberman CourageTheDog
+                 SimpleShooter: Sc,N,Sd,N,Sb,N,Sd,N,Sd
+                        Coward: Sc,N,Sc,N,Sa,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Sb,N,Sa,N,Sa
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+                     Bomberman: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog Coward Bomberman
+Coward: CourageTheDog SimpleShooter Bomberman
+Bomberman: CourageTheDog SimpleShooter Coward
+CourageTheDog: Bomberman SimpleShooter Coward
+Generated: 2014/08/12 06:53:21.991306817 UTC

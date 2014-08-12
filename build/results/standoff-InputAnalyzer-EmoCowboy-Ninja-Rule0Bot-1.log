@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer EmoCowboy Ninja Rule0Bot
+                 InputAnalyzer: Dc,Sb,N,P,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Dd,Dc,Db,Dc,Dd,Dc,Da,Db,Dd,Dc,Da,Db,Dc,Dd,Db,Da,Dc,Da,Dc,Da,Dd,Db,Dd,Dc,Da,Dd,Dc,Dc,Dc,Db,Da,Dd,Dd,Dc,Da,Db,Dd,Da,Db,Da,Dd,Dd,Da,Da,Dc,Dd,Da,Dc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                     EmoCowboy: -2
+                         Ninja: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Rule0Bot EmoCowboy
+EmoCowboy: Ninja Rule0Bot InputAnalyzer
+Ninja: EmoCowboy Rule0Bot InputAnalyzer
+Rule0Bot: EmoCowboy Ninja InputAnalyzer
+Generated: 2014/08/12 07:09:32.735832168 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Zaenille Bomberman
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Dd,Dd,Dd,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: 1
+                      Zaenille: -6
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Coward Zaenille
+Coward: Bomberman SimpleShooter Zaenille
+Zaenille: Bomberman SimpleShooter Coward
+Bomberman: Zaenille SimpleShooter Coward
+Generated: 2014/08/12 08:38:22.288846870 UTC

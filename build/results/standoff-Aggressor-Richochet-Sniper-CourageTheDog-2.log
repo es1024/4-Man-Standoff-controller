@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Sniper CourageTheDog
+                     Aggressor: P,Td
+                     Richochet: Sc,N
+                        Sniper: Sa,N
+                 CourageTheDog: N,P
+Final Health:
+                     Aggressor: -3
+                     Richochet: -1
+                        Sniper: -3
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Richochet Sniper
+Richochet: CourageTheDog Aggressor Sniper
+Sniper: CourageTheDog Aggressor Richochet
+CourageTheDog: Sniper Aggressor Richochet
+Generated: 2014/08/12 05:54:33.273137489 UTC

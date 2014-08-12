@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier
+                 InputAnalyzer: Db,P,Da,Dc
+                 SimpleShooter: Sd,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Db,Dd,Da,Da
+                 AntiGrenadier: N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 2
+  TwentyFourthsAndAHalfCentury: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier
+SimpleShooter: InputAnalyzer TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: InputAnalyzer SimpleShooter AntiGrenadier
+AntiGrenadier: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:48:40.848715865 UTC

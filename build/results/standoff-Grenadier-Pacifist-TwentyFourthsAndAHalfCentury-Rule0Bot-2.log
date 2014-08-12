@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist TwentyFourthsAndAHalfCentury Rule0Bot
+                     Grenadier: N,P,Td,N
+                      Pacifist: N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Da,Sb
+                      Rule0Bot: N,N,Sa,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: 0
+  TwentyFourthsAndAHalfCentury: 2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Pacifist TwentyFourthsAndAHalfCentury
+Pacifist: Rule0Bot Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Grenadier Pacifist
+Rule0Bot: TwentyFourthsAndAHalfCentury Grenadier Pacifist
+Generated: 2014/08/12 09:30:43.037497702 UTC

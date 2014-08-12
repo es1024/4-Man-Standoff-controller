@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Richochet Zaenille
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Coward: Sa,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Da,Sc,N,Sc,N,Da,Sc,N,Sc,N,Da,Sc,N,Da,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Da,Da,Sc,N,Sc,N,Da,Da,Da,Da,Da,Sc,N,Sc
+                     Richochet: Sd,N,Sb,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -19
+                        Coward: -19
+                     Richochet: -1
+                      Zaenille: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Zaenille Coward
+Coward: Richochet Zaenille StraightShooter
+Richochet: Coward Zaenille StraightShooter
+Zaenille: Coward Richochet StraightShooter
+Generated: 2014/08/12 09:24:46.488305370 UTC

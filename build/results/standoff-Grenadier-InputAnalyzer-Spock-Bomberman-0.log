@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Spock Bomberman
+                     Grenadier: P,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dc,Db,Dd,P,Sa,N
+                         Spock: Sa,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -4
+                         Spock: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Spock Bomberman
+InputAnalyzer: Grenadier Spock Bomberman
+Spock: Grenadier InputAnalyzer Bomberman
+Bomberman: Grenadier InputAnalyzer Spock
+Generated: 2014/08/12 07:45:33.309025645 UTC

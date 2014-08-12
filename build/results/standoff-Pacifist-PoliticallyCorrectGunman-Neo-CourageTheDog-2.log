@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dd,Sd,N,N,P,Sa,N
+                           Neo: N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Da,Dc,P,Tc
+Final Health:
+                      Pacifist: -5
+      PoliticallyCorrectGunman: -4
+                           Neo: -6
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog PoliticallyCorrectGunman Neo
+PoliticallyCorrectGunman: CourageTheDog Pacifist Neo
+Neo: CourageTheDog Pacifist PoliticallyCorrectGunman
+CourageTheDog: Neo Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 06:28:00.129860066 UTC

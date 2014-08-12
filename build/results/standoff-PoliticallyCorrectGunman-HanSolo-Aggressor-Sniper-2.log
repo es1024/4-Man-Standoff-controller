@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Aggressor Sniper
+      PoliticallyCorrectGunman: N,Sc
+                       HanSolo: Sd,N
+                     Aggressor: P,Tb
+                        Sniper: Sa,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                       HanSolo: -3
+                     Aggressor: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper HanSolo Aggressor
+HanSolo: Sniper PoliticallyCorrectGunman Aggressor
+Aggressor: Sniper PoliticallyCorrectGunman HanSolo
+Sniper: Aggressor PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 09:43:20.530391628 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Monkey Scared
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sb
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sa
+                        Monkey: N,Sc,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 1
+                        Monkey: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Scared SimpleShooter
+SimpleShooter: Monkey Scared HanSolo
+Monkey: SimpleShooter Scared HanSolo
+Scared: SimpleShooter Monkey HanSolo
+Generated: 2014/08/12 06:29:40.472650303 UTC

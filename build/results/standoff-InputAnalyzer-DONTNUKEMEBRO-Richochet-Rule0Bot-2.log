@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Richochet Rule0Bot
+                 InputAnalyzer: Dd,Dc,Sd,N,Dc,P,Db,Dc
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Dc,Dd,Dd,Sa,N
+                     Richochet: Sd,N,Sa,N,Sb,N,Sd,N
+                      Rule0Bot: N,N,N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 0
+                     Richochet: 2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: Rule0Bot InputAnalyzer Richochet
+Richochet: Rule0Bot InputAnalyzer DONTNUKEMEBRO
+Rule0Bot: Richochet InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:14:57.169463658 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Coward Ninja
+                     Grenadier: P,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc
+                        Coward: Sd,N,Sd,N,Sb
+                         Ninja: Dc,Db,Db,N,N
+Final Health:
+                     Grenadier: -5
+                       HanSolo: 0
+                        Coward: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Coward Ninja
+HanSolo: Grenadier Coward Ninja
+Coward: Grenadier HanSolo Ninja
+Ninja: Grenadier HanSolo Coward
+Generated: 2014/08/12 06:24:02.832905323 UTC

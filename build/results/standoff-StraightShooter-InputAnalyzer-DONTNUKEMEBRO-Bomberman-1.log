@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO Bomberman
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,P,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Sb,N,Db,Dd,Dd,Db,Db,Da,Da,Dd,Db,Db,Da,Da,Dd,Dd,Dd,Dd,Dd,Da,Da,Db,Db,Dd,Dd,Dd,Dd,Da,Da,Db,Dd,Dd,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 2
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Bomberman InputAnalyzer
+InputAnalyzer: DONTNUKEMEBRO Bomberman StraightShooter
+DONTNUKEMEBRO: InputAnalyzer Bomberman StraightShooter
+Bomberman: InputAnalyzer DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/12 10:20:29.522241055 UTC

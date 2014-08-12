@@ -1,10 +1,10 @@
 Standoff between: Pacifist StraightShooter InputAnalyzer Spock
                       Pacifist: N,N,N,N,N,N,N,N,N
                StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc
-                 InputAnalyzer: Da,Dd,Dc,Db,P,N,N,N,N
-                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,Sb
+                 InputAnalyzer: Da,Dd,Dc,P,Sa,N,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,Sb
 Final Health:
-                      Pacifist: -4
+                      Pacifist: -2
                StraightShooter: 0
                  InputAnalyzer: -7
                          Spock: 2
@@ -13,4 +13,4 @@ Pacifist: StraightShooter InputAnalyzer Spock
 StraightShooter: Pacifist InputAnalyzer Spock
 InputAnalyzer: Pacifist StraightShooter Spock
 Spock: Pacifist StraightShooter InputAnalyzer
-Generated: 2014/08/11 00:59:34.686857944 UTC
+Generated: 2014/08/12 10:31:43.345171700 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey AntiGrenadier Scared
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Sb,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sc,N,N,N,N,N,N,N,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                        Monkey: -2
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Scared Monkey
+Monkey: AntiGrenadier Scared PoliticallyCorrectGunman
+AntiGrenadier: Monkey Scared PoliticallyCorrectGunman
+Scared: Monkey AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 07:20:06.599456512 UTC

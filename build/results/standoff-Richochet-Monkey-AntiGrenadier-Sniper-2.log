@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey AntiGrenadier Sniper
+                     Richochet: Sd,N,Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Sniper Monkey AntiGrenadier
+Monkey: Sniper Richochet AntiGrenadier
+AntiGrenadier: Sniper Richochet Monkey
+Sniper: AntiGrenadier Richochet Monkey
+Generated: 2014/08/12 08:13:45.697699775 UTC

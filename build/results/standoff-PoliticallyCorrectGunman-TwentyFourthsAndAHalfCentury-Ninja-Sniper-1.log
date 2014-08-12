@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja Sniper
+      PoliticallyCorrectGunman: Dd,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sd,N,Db,Dd,Dc,Sc,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dd,Da,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sa
+                         Ninja: Dd,Da,Dc,Dc,Db,Dd,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Sniper PoliticallyCorrectGunman
+Ninja: TwentyFourthsAndAHalfCentury Sniper PoliticallyCorrectGunman
+Sniper: TwentyFourthsAndAHalfCentury Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 08:14:50.360279605 UTC

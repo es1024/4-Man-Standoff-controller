@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman Ninja Rule0Bot
+                     Grenadier: N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dc,Db,Da,Db,Da,Dd,Dc,Dd,Dc,Db,Db,Da,Da,Dd,Da,Db,Dc,Dd,Da,Db,Dc,Dd,Dc,Db,Db,Db,Dd,Da,Dd,Dc,Db,Dc,Dd,Dd,Da,Db,Db,Dc,Db,Dd,Da,Dd,Da,Db,Da,Db,Dc,Db
+                      Rule0Bot: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                     Bomberman: -18
+                         Ninja: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Bomberman Ninja
+Bomberman: Rule0Bot Grenadier Ninja
+Ninja: Rule0Bot Grenadier Bomberman
+Rule0Bot: Ninja Grenadier Bomberman
+Generated: 2014/08/12 07:03:14.308736803 UTC

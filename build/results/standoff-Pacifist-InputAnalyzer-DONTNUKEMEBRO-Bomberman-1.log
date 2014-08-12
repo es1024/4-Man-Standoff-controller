@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer DONTNUKEMEBRO Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,Dc,P,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Dd,Da,Sb,N,Da,Db,Dd,Dd,Db,Db,Db,Dd,Db,Da,Dd,Dd,Db,Da,Dd,Da,Dd,Db,Dd,Dd,Da,Db,Dd,Da,Dd,Da,Db,Da,Sa,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO Bomberman InputAnalyzer
+InputAnalyzer: DONTNUKEMEBRO Bomberman Pacifist
+DONTNUKEMEBRO: InputAnalyzer Bomberman Pacifist
+Bomberman: InputAnalyzer DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 06:56:01.079380890 UTC

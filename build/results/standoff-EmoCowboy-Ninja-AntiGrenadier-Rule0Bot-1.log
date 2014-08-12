@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy Ninja AntiGrenadier Rule0Bot
+                     EmoCowboy: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dc,Da,Db,Da,Dd,Dd,Db,Dc,Dc,Dd,Db,Dc,Da,Dd,Db,Da,Dd,Dc,Da,Da,Dd,Db,Da,Dd,Da,Dc,Db,Db,Dc,Dc,Dd,Db,Db,Da,Dc,Dd,Dd,Dd,Da,Dc,Dd,Dd,Dc,Db,Dc,Dd,Da,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     EmoCowboy: -2
+                         Ninja: -15
+                 AntiGrenadier: -15
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: AntiGrenadier Rule0Bot Ninja
+Ninja: AntiGrenadier Rule0Bot EmoCowboy
+AntiGrenadier: Ninja Rule0Bot EmoCowboy
+Rule0Bot: Ninja AntiGrenadier EmoCowboy
+Generated: 2014/08/12 09:35:31.472034343 UTC

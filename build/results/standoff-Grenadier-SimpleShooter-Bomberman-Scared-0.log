@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Bomberman Scared
+                     Grenadier: P,N,N
+                 SimpleShooter: Sd,N,Sc
+                     Bomberman: N,N,N
+                        Scared: N,N,N
+Final Health:
+                     Grenadier: -1
+                 SimpleShooter: 2
+                     Bomberman: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Bomberman Scared
+SimpleShooter: Grenadier Bomberman Scared
+Bomberman: Grenadier SimpleShooter Scared
+Scared: Grenadier SimpleShooter Bomberman
+Generated: 2014/08/12 08:20:46.052493448 UTC

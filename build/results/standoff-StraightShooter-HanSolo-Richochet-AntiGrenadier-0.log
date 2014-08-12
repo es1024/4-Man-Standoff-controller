@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Richochet AntiGrenadier
+               StraightShooter: Sc,N,Sc,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd
+                     Richochet: Sd,N,Sa,N,Sd,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+                     Richochet: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Richochet AntiGrenadier
+HanSolo: StraightShooter Richochet AntiGrenadier
+Richochet: StraightShooter HanSolo AntiGrenadier
+AntiGrenadier: StraightShooter HanSolo Richochet
+Generated: 2014/08/12 05:54:49.002419725 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Zaenille EmoCowboy
+                       HanSolo: Sd,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sc,N,Sa,N,Sa,N,Da,Dc,Da,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 1
+                      Zaenille: -4
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Coward Zaenille
+Coward: EmoCowboy HanSolo Zaenille
+Zaenille: EmoCowboy HanSolo Coward
+EmoCowboy: Zaenille HanSolo Coward
+Generated: 2014/08/12 07:37:37.465706282 UTC

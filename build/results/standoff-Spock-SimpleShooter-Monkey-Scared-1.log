@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Monkey Scared
+                         Spock: Sc,N,Sc,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sa,N,N
+                        Monkey: N,N,N,Sb,N,N,N,Sa,N
+                        Scared: Sa,N,Sb,N,N,N,Sb,N,Sc
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+                        Monkey: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey Scared SimpleShooter
+SimpleShooter: Monkey Scared Spock
+Monkey: SimpleShooter Scared Spock
+Scared: SimpleShooter Monkey Spock
+Generated: 2014/08/12 08:36:58.052322657 UTC

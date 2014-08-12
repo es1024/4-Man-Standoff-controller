@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Aggressor Bomberman
+                      Pacifist: N,N,N
+                 SimpleShooter: Sa,N,N
+                     Aggressor: P,Tb,Sd
+                     Bomberman: N,N,N
+Final Health:
+                      Pacifist: 0
+                 SimpleShooter: -3
+                     Aggressor: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Bomberman SimpleShooter
+SimpleShooter: Aggressor Bomberman Pacifist
+Aggressor: SimpleShooter Bomberman Pacifist
+Bomberman: SimpleShooter Aggressor Pacifist
+Generated: 2014/08/12 10:09:49.760861092 UTC

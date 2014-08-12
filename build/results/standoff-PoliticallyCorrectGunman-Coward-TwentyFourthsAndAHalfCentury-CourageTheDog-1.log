@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury CourageTheDog
+      PoliticallyCorrectGunman: Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Db,Da,N,N,N,N,N,N,N,N,Db,Dd,Dd,Dd,Dd,Sb
+                 CourageTheDog: Sc,N,Db,N,Sb,N,Da,Sc,N,Dc,Db,Db,Dc,Dc,Sb,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury CourageTheDog Coward
+Coward: TwentyFourthsAndAHalfCentury CourageTheDog PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Coward CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Coward TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 09:49:46.394450381 UTC

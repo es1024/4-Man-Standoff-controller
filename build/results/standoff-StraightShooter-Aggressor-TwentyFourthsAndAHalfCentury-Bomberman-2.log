@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor TwentyFourthsAndAHalfCentury Bomberman
+               StraightShooter: Sb,N,Sb
+                     Aggressor: P,Td,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Sa
+                     Bomberman: N,N,N
+Final Health:
+               StraightShooter: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Bomberman StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman StraightShooter Aggressor
+Bomberman: TwentyFourthsAndAHalfCentury StraightShooter Aggressor
+Generated: 2014/08/12 08:18:43.712801257 UTC

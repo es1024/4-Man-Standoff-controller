@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Richochet Ninja
+                 InputAnalyzer: Db,Da,Sd,N,Db,P,Sa
+                 DONTNUKEMEBRO: Dc,Dc,Sc,N,Sc,N,Sa
+                     Richochet: Sb,N,Sb,N,Sa,N,Sd
+                         Ninja: Db,Dc,Dc,Dc,Dc,Db,Db
+Final Health:
+                 InputAnalyzer: -10
+                 DONTNUKEMEBRO: 0
+                     Richochet: -2
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Richochet Ninja
+DONTNUKEMEBRO: InputAnalyzer Richochet Ninja
+Richochet: InputAnalyzer DONTNUKEMEBRO Ninja
+Ninja: InputAnalyzer DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 08:29:09.957474000 UTC

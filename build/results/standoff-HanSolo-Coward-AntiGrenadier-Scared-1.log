@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward AntiGrenadier Scared
+                       HanSolo: Sc,N,Sc,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Dd,Da,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sb,N,Sc,N,Sb,N,Sb
+Final Health:
+                       HanSolo: -1
+                        Coward: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Scared Coward
+Coward: AntiGrenadier Scared HanSolo
+AntiGrenadier: Coward Scared HanSolo
+Scared: Coward AntiGrenadier HanSolo
+Generated: 2014/08/12 05:43:48.565085667 UTC

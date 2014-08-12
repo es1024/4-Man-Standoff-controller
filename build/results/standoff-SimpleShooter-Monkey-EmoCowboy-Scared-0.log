@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey EmoCowboy Scared
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,N,N,N,Sa,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                        Monkey: -1
+                     EmoCowboy: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey EmoCowboy Scared
+Monkey: SimpleShooter EmoCowboy Scared
+EmoCowboy: SimpleShooter Monkey Scared
+Scared: SimpleShooter Monkey EmoCowboy
+Generated: 2014/08/12 10:04:59.342150909 UTC

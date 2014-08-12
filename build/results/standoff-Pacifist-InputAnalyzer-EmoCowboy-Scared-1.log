@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer EmoCowboy Scared
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sa,N,Sa
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -4
+                     EmoCowboy: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Scared InputAnalyzer
+InputAnalyzer: EmoCowboy Scared Pacifist
+EmoCowboy: InputAnalyzer Scared Pacifist
+Scared: InputAnalyzer EmoCowboy Pacifist
+Generated: 2014/08/12 06:25:12.593485483 UTC

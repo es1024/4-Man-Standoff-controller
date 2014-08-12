@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Monkey CourageTheDog
+                      Pacifist: N,N,N
+                     Aggressor: P,Td,Sa
+                        Monkey: N,N,N
+                 CourageTheDog: Sc,N,N
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 2
+                        Monkey: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Aggressor Monkey
+Aggressor: CourageTheDog Pacifist Monkey
+Monkey: CourageTheDog Pacifist Aggressor
+CourageTheDog: Monkey Pacifist Aggressor
+Generated: 2014/08/12 08:42:18.578440457 UTC

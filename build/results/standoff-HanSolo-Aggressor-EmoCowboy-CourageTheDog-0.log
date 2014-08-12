@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor EmoCowboy CourageTheDog
+                       HanSolo: Sb,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sc,N
+                 CourageTheDog: Sc,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 0
+                     EmoCowboy: -4
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor EmoCowboy CourageTheDog
+Aggressor: HanSolo EmoCowboy CourageTheDog
+EmoCowboy: HanSolo Aggressor CourageTheDog
+CourageTheDog: HanSolo Aggressor EmoCowboy
+Generated: 2014/08/12 08:02:00.066816799 UTC

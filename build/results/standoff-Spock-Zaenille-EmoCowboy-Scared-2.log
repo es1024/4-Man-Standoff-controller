@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille EmoCowboy Scared
+                         Spock: Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sa
+Final Health:
+                         Spock: 1
+                      Zaenille: -4
+                     EmoCowboy: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared Zaenille EmoCowboy
+Zaenille: Scared Spock EmoCowboy
+EmoCowboy: Scared Spock Zaenille
+Scared: EmoCowboy Spock Zaenille
+Generated: 2014/08/12 06:12:07.628519264 UTC

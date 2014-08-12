@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter Zaenille
+                 InputAnalyzer: Dd,P,Sa
+                         Spock: Sd,N,Sd
+                 SimpleShooter: Sb,N,Sa
+                      Zaenille: Sd,N,N
+Final Health:
+                 InputAnalyzer: -10
+                         Spock: 0
+                 SimpleShooter: 2
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Spock SimpleShooter
+Spock: Zaenille InputAnalyzer SimpleShooter
+SimpleShooter: Zaenille InputAnalyzer Spock
+Zaenille: SimpleShooter InputAnalyzer Spock
+Generated: 2014/08/12 09:06:58.385369476 UTC

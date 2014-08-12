@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman AntiGrenadier Sniper
+                     Aggressor: P,Tc,N
+                     Bomberman: N,N,N
+                 AntiGrenadier: N,Sa,N
+                        Sniper: Sa,N,Sb
+Final Health:
+                     Aggressor: -2
+                     Bomberman: 0
+                 AntiGrenadier: -3
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: AntiGrenadier Sniper Bomberman
+Bomberman: AntiGrenadier Sniper Aggressor
+AntiGrenadier: Bomberman Sniper Aggressor
+Sniper: Bomberman AntiGrenadier Aggressor
+Generated: 2014/08/12 07:27:01.184013863 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Monkey Scared
+                 InputAnalyzer: Dc,P,Da,N
+                      Zaenille: Sb,N,N,N
+                        Monkey: N,Sb,N,N
+                        Scared: Sc,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                      Zaenille: -2
+                        Monkey: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Scared Zaenille
+Zaenille: Monkey Scared InputAnalyzer
+Monkey: Zaenille Scared InputAnalyzer
+Scared: Zaenille Monkey InputAnalyzer
+Generated: 2014/08/12 06:50:24.248660936 UTC

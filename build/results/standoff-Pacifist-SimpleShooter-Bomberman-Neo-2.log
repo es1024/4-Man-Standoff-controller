@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Bomberman Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sa,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Db,Da,Db,N,Db,N,N,N,Db,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo SimpleShooter Bomberman
+SimpleShooter: Neo Pacifist Bomberman
+Bomberman: Neo Pacifist SimpleShooter
+Neo: Bomberman Pacifist SimpleShooter
+Generated: 2014/08/12 06:03:09.456480448 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Zaenille Rule0Bot
+                 InputAnalyzer: Dc,Dd,Sc
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+                      Rule0Bot: N,N,N
+Final Health:
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                      Zaenille: -2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Rule0Bot Aggressor
+Aggressor: Zaenille Rule0Bot InputAnalyzer
+Zaenille: Aggressor Rule0Bot InputAnalyzer
+Rule0Bot: Aggressor Zaenille InputAnalyzer
+Generated: 2014/08/12 08:59:32.952130787 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo SimpleShooter Zaenille
+                 InputAnalyzer: Dd,P,Sa
+                       HanSolo: Sd,N,Sa
+                 SimpleShooter: Sb,N,Sa
+                      Zaenille: Sd,N,N
+Final Health:
+                 InputAnalyzer: -12
+                       HanSolo: 0
+                 SimpleShooter: 2
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille HanSolo SimpleShooter
+HanSolo: Zaenille InputAnalyzer SimpleShooter
+SimpleShooter: Zaenille InputAnalyzer HanSolo
+Zaenille: SimpleShooter InputAnalyzer HanSolo
+Generated: 2014/08/12 05:51:32.318524410 UTC

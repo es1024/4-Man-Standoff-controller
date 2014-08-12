@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Da,Dc,Da,Dd,Dd,Dd,Dd,Dd,Da,Dd,Dd,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: AntiGrenadier TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: AntiGrenadier SimpleShooter Bomberman
+Bomberman: AntiGrenadier SimpleShooter TwentyFourthsAndAHalfCentury
+AntiGrenadier: Bomberman SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:12:16.628003007 UTC

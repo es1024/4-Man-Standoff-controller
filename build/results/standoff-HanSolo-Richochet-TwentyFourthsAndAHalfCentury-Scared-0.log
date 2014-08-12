@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet TwentyFourthsAndAHalfCentury Scared
+                       HanSolo: Sb,N,Sb,N,Sb,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sa,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Db,N,Da,N,N,N,Sd
+                        Scared: N,Sa,N,N,N,N,Sc,N,Sc
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet TwentyFourthsAndAHalfCentury Scared
+Richochet: HanSolo TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: HanSolo Richochet Scared
+Scared: HanSolo Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:55:12.469638538 UTC

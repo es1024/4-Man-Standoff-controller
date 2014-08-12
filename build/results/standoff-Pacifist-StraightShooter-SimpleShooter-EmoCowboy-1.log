@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter SimpleShooter EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sb,N,Sa,N,Sb,N,Sa,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                 SimpleShooter: 5
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter EmoCowboy StraightShooter
+StraightShooter: SimpleShooter EmoCowboy Pacifist
+SimpleShooter: StraightShooter EmoCowboy Pacifist
+EmoCowboy: StraightShooter SimpleShooter Pacifist
+Generated: 2014/08/12 08:48:54.045325691 UTC

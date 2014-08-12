@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Aggressor Zaenille
+                     Grenadier: P,N
+                         Spock: Sa,N
+                     Aggressor: P,Tb
+                      Zaenille: Sd,N
+Final Health:
+                     Grenadier: -6
+                         Spock: -6
+                     Aggressor: -1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Aggressor Zaenille
+Spock: Grenadier Aggressor Zaenille
+Aggressor: Grenadier Spock Zaenille
+Zaenille: Grenadier Spock Aggressor
+Generated: 2014/08/12 10:34:41.236735251 UTC

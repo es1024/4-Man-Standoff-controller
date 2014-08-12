@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Richochet Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sa,N,N
+                     Richochet: Sd,N,Sb,N,Sb,N,Sb,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                     Richochet: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot HanSolo Richochet
+HanSolo: Rule0Bot Pacifist Richochet
+Richochet: Rule0Bot Pacifist HanSolo
+Rule0Bot: Richochet Pacifist HanSolo
+Generated: 2014/08/12 08:25:36.171615323 UTC

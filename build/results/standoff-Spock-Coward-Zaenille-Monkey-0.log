@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Zaenille Monkey
+                         Spock: Sb,N,Sb,N,Sb
+                        Coward: Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                        Monkey: N,Sc,N,Sa,N
+Final Health:
+                         Spock: -1
+                        Coward: -1
+                      Zaenille: -2
+                        Monkey: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Zaenille Monkey
+Coward: Spock Zaenille Monkey
+Zaenille: Spock Coward Monkey
+Monkey: Spock Coward Zaenille
+Generated: 2014/08/12 07:16:03.958126516 UTC

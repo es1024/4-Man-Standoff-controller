@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Zaenille Bomberman
+                         Spock: Sd,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sc,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman SimpleShooter Zaenille
+SimpleShooter: Bomberman Spock Zaenille
+Zaenille: Bomberman Spock SimpleShooter
+Bomberman: Zaenille Spock SimpleShooter
+Generated: 2014/08/12 06:31:41.979079830 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Monkey Rule0Bot
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N
+                         Spock: N,N,N,Sd,N,Sd,N,Sd,N,N,N,N
+                        Monkey: N,N,N,N,N,N,Sd,N,N,N,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                        Monkey: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Spock Monkey
+Spock: Rule0Bot HanSolo Monkey
+Monkey: Rule0Bot HanSolo Spock
+Rule0Bot: Monkey HanSolo Spock
+Generated: 2014/08/12 09:21:36.135376437 UTC

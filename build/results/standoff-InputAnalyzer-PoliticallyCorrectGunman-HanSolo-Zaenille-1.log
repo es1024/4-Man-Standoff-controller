@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo Zaenille
+                 InputAnalyzer: Dc,Sb,N,Sd,N,P,Sd
+      PoliticallyCorrectGunman: Da,Sa,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sa,N,Sa
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Zaenille PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo Zaenille InputAnalyzer
+HanSolo: PoliticallyCorrectGunman Zaenille InputAnalyzer
+Zaenille: PoliticallyCorrectGunman HanSolo InputAnalyzer
+Generated: 2014/08/12 06:19:40.552544347 UTC

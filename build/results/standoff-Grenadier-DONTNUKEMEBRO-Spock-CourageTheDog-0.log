@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Spock CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,P
+                 DONTNUKEMEBRO: Dc,Dc,Da,Dc,Da,Dd,Da,Sd,N
+                         Spock: N,N,N,N,N,N,Sa,N,Sa
+                 CourageTheDog: Sa,N,Dc,N,Dc,Sb,N,Da,Sb
+Final Health:
+                     Grenadier: -7
+                 DONTNUKEMEBRO: 0
+                         Spock: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO Spock CourageTheDog
+DONTNUKEMEBRO: Grenadier Spock CourageTheDog
+Spock: Grenadier DONTNUKEMEBRO CourageTheDog
+CourageTheDog: Grenadier DONTNUKEMEBRO Spock
+Generated: 2014/08/12 05:48:43.916089135 UTC

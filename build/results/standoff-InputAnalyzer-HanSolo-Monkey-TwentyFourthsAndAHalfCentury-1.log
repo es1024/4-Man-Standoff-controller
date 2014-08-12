@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Monkey TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dc,Sb,N,Dd,Da,Sb,N,Dd,Db,P,Sa
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N
+                        Monkey: N,N,N,Db,Db,Db,Sb,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Db,Da,Dc,Dc,Dc,Sa,N,N,Sa
+Final Health:
+                 InputAnalyzer: -10
+                       HanSolo: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey TwentyFourthsAndAHalfCentury HanSolo
+HanSolo: Monkey TwentyFourthsAndAHalfCentury InputAnalyzer
+Monkey: HanSolo TwentyFourthsAndAHalfCentury InputAnalyzer
+TwentyFourthsAndAHalfCentury: HanSolo Monkey InputAnalyzer
+Generated: 2014/08/12 09:22:40.847457160 UTC

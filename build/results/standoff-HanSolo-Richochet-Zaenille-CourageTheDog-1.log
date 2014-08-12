@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Zaenille CourageTheDog
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sb
+                     Richochet: Sc,N,Sd,N,Sa,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Da,Db,Sa,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 3
+                      Zaenille: -8
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille CourageTheDog Richochet
+Richochet: Zaenille CourageTheDog HanSolo
+Zaenille: Richochet CourageTheDog HanSolo
+CourageTheDog: Richochet Zaenille HanSolo
+Generated: 2014/08/12 08:27:45.855467158 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Ninja Sniper
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,Sb
+                         Ninja: Dd,Db,Dc,Db,Dc,Dd,Db,Dd,Dc,Db
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     EmoCowboy: -2
+                         Ninja: 5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Sniper EmoCowboy
+EmoCowboy: Ninja Sniper StraightShooter
+Ninja: EmoCowboy Sniper StraightShooter
+Sniper: EmoCowboy Ninja StraightShooter
+Generated: 2014/08/12 07:03:43.361345144 UTC

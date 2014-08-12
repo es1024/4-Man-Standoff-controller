@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Aggressor TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N
+                       HanSolo: Sd,N
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: N,N
+Final Health:
+               StraightShooter: -3
+                       HanSolo: 0
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury HanSolo Aggressor
+HanSolo: TwentyFourthsAndAHalfCentury StraightShooter Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury StraightShooter HanSolo
+TwentyFourthsAndAHalfCentury: Aggressor StraightShooter HanSolo
+Generated: 2014/08/12 07:17:27.395670413 UTC

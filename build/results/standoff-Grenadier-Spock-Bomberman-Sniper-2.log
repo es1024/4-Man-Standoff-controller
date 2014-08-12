@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Bomberman Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,P,N,N
+                         Spock: N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,Sb,N,Sb,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: -1
+                     Bomberman: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Spock Bomberman
+Spock: Sniper Grenadier Bomberman
+Bomberman: Sniper Grenadier Spock
+Sniper: Bomberman Grenadier Spock
+Generated: 2014/08/12 08:22:13.348232310 UTC

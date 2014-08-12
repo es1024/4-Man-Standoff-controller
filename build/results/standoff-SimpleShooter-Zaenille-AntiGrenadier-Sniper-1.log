@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille AntiGrenadier Sniper
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                      Zaenille: -4
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: AntiGrenadier Sniper Zaenille
+Zaenille: AntiGrenadier Sniper SimpleShooter
+AntiGrenadier: Zaenille Sniper SimpleShooter
+Sniper: Zaenille AntiGrenadier SimpleShooter
+Generated: 2014/08/12 05:57:21.699947914 UTC

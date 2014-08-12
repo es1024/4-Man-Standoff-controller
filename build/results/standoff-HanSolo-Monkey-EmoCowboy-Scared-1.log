@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey EmoCowboy Scared
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sb,N,Sb
+                        Monkey: N,N,N,Sd,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Monkey: -1
+                     EmoCowboy: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Scared Monkey
+Monkey: EmoCowboy Scared HanSolo
+EmoCowboy: Monkey Scared HanSolo
+Scared: Monkey EmoCowboy HanSolo
+Generated: 2014/08/12 07:19:05.925980499 UTC

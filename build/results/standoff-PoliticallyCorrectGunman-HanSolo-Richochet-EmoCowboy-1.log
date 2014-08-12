@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Richochet EmoCowboy
+      PoliticallyCorrectGunman: Sb,N,N,N,Dc,N,N,N,Dc,Sa
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sa,N
+                     Richochet: Sa,N,Sd,N,Sa,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,Sd,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: 3
+                     Richochet: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet EmoCowboy HanSolo
+HanSolo: Richochet EmoCowboy PoliticallyCorrectGunman
+Richochet: HanSolo EmoCowboy PoliticallyCorrectGunman
+EmoCowboy: HanSolo Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 07:49:51.558693535 UTC

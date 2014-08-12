@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Richochet Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N
+                     Richochet: Sd,N,Sa,N,Sb,N,Sb,N,Sd,N,Sb,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                     Richochet: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman StraightShooter Richochet
+StraightShooter: Bomberman Pacifist Richochet
+Richochet: Bomberman Pacifist StraightShooter
+Bomberman: Richochet Pacifist StraightShooter
+Generated: 2014/08/12 10:25:16.049242757 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Sniper Scared CourageTheDog
+                         Spock: Sc,N,N,N,N,N,N,N,N,N,Sc,N,Sb,N,Sb
+                        Sniper: Sd,N,Sd,N,Sd,N,N,N,N,N,N,Sc,N,N,N
+                        Scared: Sd,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Dc,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 1
+                        Sniper: -1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared CourageTheDog Sniper
+Sniper: Scared CourageTheDog Spock
+Scared: Sniper CourageTheDog Spock
+CourageTheDog: Sniper Scared Spock
+Generated: 2014/08/12 06:54:15.552935834 UTC

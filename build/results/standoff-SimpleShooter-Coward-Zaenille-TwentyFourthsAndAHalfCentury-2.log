@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Zaenille TwentyFourthsAndAHalfCentury
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sd,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Db,N,Da,N,Db,N,Sb,N,Sb
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+                      Zaenille: -6
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Coward Zaenille
+Coward: TwentyFourthsAndAHalfCentury SimpleShooter Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury SimpleShooter Coward
+TwentyFourthsAndAHalfCentury: Zaenille SimpleShooter Coward
+Generated: 2014/08/12 07:06:40.748809799 UTC

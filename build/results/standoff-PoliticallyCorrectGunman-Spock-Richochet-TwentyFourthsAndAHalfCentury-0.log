@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: N,Db,P,N,Dd,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,N
+                     Richochet: Sd,N,Sb,N,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: Dc,Da,Db,Da,Db,N,N
+Final Health:
+      PoliticallyCorrectGunman: -9
+                         Spock: 0
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Richochet TwentyFourthsAndAHalfCentury
+Spock: PoliticallyCorrectGunman Richochet TwentyFourthsAndAHalfCentury
+Richochet: PoliticallyCorrectGunman Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Spock Richochet
+Generated: 2014/08/12 08:07:13.079188253 UTC

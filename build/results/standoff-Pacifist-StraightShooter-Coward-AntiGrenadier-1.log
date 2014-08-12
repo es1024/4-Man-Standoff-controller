@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Coward AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                        Coward: Sa,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                        Coward: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward AntiGrenadier StraightShooter
+StraightShooter: Coward AntiGrenadier Pacifist
+Coward: StraightShooter AntiGrenadier Pacifist
+AntiGrenadier: StraightShooter Coward Pacifist
+Generated: 2014/08/12 07:13:46.111941354 UTC

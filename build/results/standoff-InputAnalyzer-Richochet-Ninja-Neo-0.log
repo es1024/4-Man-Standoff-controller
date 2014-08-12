@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Ninja Neo
+                 InputAnalyzer: Db,Dd,Db,Sd,N,P,Dc,Da
+                     Richochet: Sa,N,Sc,N,Sc,N,Sd,N
+                         Ninja: Db,Dd,Dd,Db,Dc,Dd,Dc,Dc
+                           Neo: N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                     Richochet: 2
+                         Ninja: -2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Ninja Neo
+Richochet: InputAnalyzer Ninja Neo
+Ninja: InputAnalyzer Richochet Neo
+Neo: InputAnalyzer Richochet Ninja
+Generated: 2014/08/12 08:05:43.857341299 UTC

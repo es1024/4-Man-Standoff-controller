@@ -1,0 +1,16 @@
+Standoff between: Bomberman Rule0Bot Neo CourageTheDog
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Da,N,N,Da,N,N,N,N,N,N,N,N,N,N,Da,N,Da,N,Da,Da,N,N,N,N,N,N,N,N,Da,Da,Da,Da,N,N
+                 CourageTheDog: Sb,N,Da,Db,Dc,Dc,Sb,N,Db,Sc,N,N,Da,Da,Db,Sc,N,N,Db,Dc,Dc,Db,Db,Sa,N,Dc,Da,N,Dc,N,Sb,N,Dc,Sa,N,Dc,Sa,N,Sc
+Final Health:
+                     Bomberman: -1
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: Neo CourageTheDog Rule0Bot
+Rule0Bot: Neo CourageTheDog Bomberman
+Neo: Rule0Bot CourageTheDog Bomberman
+CourageTheDog: Rule0Bot Neo Bomberman
+Generated: 2014/08/12 07:17:01.353588421 UTC

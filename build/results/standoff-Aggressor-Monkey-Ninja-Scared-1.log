@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Ninja Scared
+                     Aggressor: P,Tc,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+                     Aggressor: 0
+                        Monkey: 0
+                         Ninja: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Ninja Scared Monkey
+Monkey: Ninja Scared Aggressor
+Ninja: Monkey Scared Aggressor
+Scared: Monkey Ninja Aggressor
+Generated: 2014/08/12 07:20:04.376086864 UTC

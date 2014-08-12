@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter EmoCowboy Scared
+                 InputAnalyzer: Dc,P,N,Dc,N
+                 SimpleShooter: Sa,N,Sd,N,Sc
+                     EmoCowboy: N,N,N,N,N
+                        Scared: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 2
+                     EmoCowboy: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Scared SimpleShooter
+SimpleShooter: EmoCowboy Scared InputAnalyzer
+EmoCowboy: SimpleShooter Scared InputAnalyzer
+Scared: SimpleShooter EmoCowboy InputAnalyzer
+Generated: 2014/08/12 10:10:25.428387724 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Aggressor TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dd,P
+                       HanSolo: Sd,N
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: Dc,Dc
+Final Health:
+                 InputAnalyzer: -9
+                       HanSolo: -1
+                     Aggressor: -1
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury HanSolo Aggressor
+HanSolo: TwentyFourthsAndAHalfCentury InputAnalyzer Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury InputAnalyzer HanSolo
+TwentyFourthsAndAHalfCentury: Aggressor InputAnalyzer HanSolo
+Generated: 2014/08/12 06:53:33.820416098 UTC

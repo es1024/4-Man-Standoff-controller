@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Monkey Ninja
+                 InputAnalyzer: Dc,Db,Sc,N,Sc,N,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Dc,Db,Dd,Db,Dc,Dc,Db,Db,Dd,Db,Da,Dd,Dd,Da,Db,Dc,Da,Da,Dc,Dd,Da,Db,Dd,Dd,Db,Dc,Db,Dc,Da,Dd,Da,Db,Dc,Dd,Da,Da,Dd,Dc,Da,Dc,Dd,Db,Da,Dc,Da,Dc,Da,Db
+Final Health:
+                 InputAnalyzer: -2
+                         Spock: -15
+                        Monkey: -1
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Ninja Spock
+Spock: Monkey Ninja InputAnalyzer
+Monkey: Spock Ninja InputAnalyzer
+Ninja: Spock Monkey InputAnalyzer
+Generated: 2014/08/12 07:37:03.726816864 UTC

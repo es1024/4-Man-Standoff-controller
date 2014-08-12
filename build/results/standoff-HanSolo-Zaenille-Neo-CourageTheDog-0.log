@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Neo CourageTheDog
+                       HanSolo: Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Sd,N,Dd,Dd,Dd,Dd,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Dc,Dc,Da,Da,Da,N,Da,Da,N,Da,Sa
+Final Health:
+                       HanSolo: 1
+                      Zaenille: -4
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Neo CourageTheDog
+Zaenille: HanSolo Neo CourageTheDog
+Neo: HanSolo Zaenille CourageTheDog
+CourageTheDog: HanSolo Zaenille Neo
+Generated: 2014/08/12 07:02:07.304749183 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+      PoliticallyCorrectGunman: Sd,N,Dd,Dc,Sb,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Db,Db,Dd,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Db,Da,Da,Sa,N,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury CourageTheDog
+PoliticallyCorrectGunman: StraightShooter TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: StraightShooter PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: StraightShooter PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:35:35.688893032 UTC

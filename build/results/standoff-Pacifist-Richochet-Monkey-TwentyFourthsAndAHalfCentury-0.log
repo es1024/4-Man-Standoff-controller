@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Monkey TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sa,N,Sc,N,Sd,N,Sc,N,Sa,N,Sd,N,Sd
+                        Monkey: N,N,N,Dc,Dc,N,N,N,N,Da,Da,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,Dc,Db,Dc,Db,Da,Da,Dc,Db,Da,Da,Sb,N,Sb,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Monkey TwentyFourthsAndAHalfCentury
+Richochet: Pacifist Monkey TwentyFourthsAndAHalfCentury
+Monkey: Pacifist Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist Richochet Monkey
+Generated: 2014/08/12 05:43:53.878978228 UTC

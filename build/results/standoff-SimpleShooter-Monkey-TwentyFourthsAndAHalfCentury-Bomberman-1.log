@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey TwentyFourthsAndAHalfCentury Bomberman
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sb,N,Sc,N,Sb,N,Sd,N,Sc
+                        Monkey: N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Da,Dd,Dd,N,N,N,N,Dd,Dd,Dd,Da,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Bomberman Monkey
+Monkey: TwentyFourthsAndAHalfCentury Bomberman SimpleShooter
+TwentyFourthsAndAHalfCentury: Monkey Bomberman SimpleShooter
+Bomberman: Monkey TwentyFourthsAndAHalfCentury SimpleShooter
+Generated: 2014/08/12 09:22:17.618310282 UTC

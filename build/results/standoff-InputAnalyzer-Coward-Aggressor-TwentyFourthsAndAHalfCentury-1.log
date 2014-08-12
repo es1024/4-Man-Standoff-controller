@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Aggressor TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dc,Sd,N
+                        Coward: Sa,N,N
+                     Aggressor: P,Tb,Sd
+  TwentyFourthsAndAHalfCentury: N,Da,Sc
+Final Health:
+                 InputAnalyzer: 0
+                        Coward: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor TwentyFourthsAndAHalfCentury Coward
+Coward: Aggressor TwentyFourthsAndAHalfCentury InputAnalyzer
+Aggressor: Coward TwentyFourthsAndAHalfCentury InputAnalyzer
+TwentyFourthsAndAHalfCentury: Coward Aggressor InputAnalyzer
+Generated: 2014/08/12 07:02:14.985513390 UTC

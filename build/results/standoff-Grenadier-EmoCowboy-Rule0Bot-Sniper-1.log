@@ -1,0 +1,16 @@
+Standoff between: Grenadier EmoCowboy Rule0Bot Sniper
+                     Grenadier: P,Tc
+                     EmoCowboy: Sb,N
+                      Rule0Bot: N,N
+                        Sniper: Sa,N
+Final Health:
+                     Grenadier: 0
+                     EmoCowboy: -2
+                      Rule0Bot: -3
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Sniper EmoCowboy
+EmoCowboy: Rule0Bot Sniper Grenadier
+Rule0Bot: EmoCowboy Sniper Grenadier
+Sniper: EmoCowboy Rule0Bot Grenadier
+Generated: 2014/08/12 06:45:36.895488235 UTC

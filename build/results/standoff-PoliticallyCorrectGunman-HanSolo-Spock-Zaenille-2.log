@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Spock Zaenille
+      PoliticallyCorrectGunman: N,Sb,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N
+                         Spock: Sd,N,N,N,N,N,N,N,N,Sb,N,Sb
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: -1
+                         Spock: 1
+                      Zaenille: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille HanSolo Spock
+HanSolo: Zaenille PoliticallyCorrectGunman Spock
+Spock: Zaenille PoliticallyCorrectGunman HanSolo
+Zaenille: Spock PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 07:14:07.894284150 UTC

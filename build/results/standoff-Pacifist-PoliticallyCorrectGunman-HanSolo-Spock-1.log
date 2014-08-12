@@ -1,11 +1,11 @@
 Standoff between: Pacifist PoliticallyCorrectGunman HanSolo Spock
-                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
-      PoliticallyCorrectGunman: Da,Sd,N,N,N,N,N,N,N,N,N,N,N
-                       HanSolo: Sb,N,Sb,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
-                         Spock: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                         Spock: N,N,N,N,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N
 Final Health:
                       Pacifist: -1
-      PoliticallyCorrectGunman: -3
+      PoliticallyCorrectGunman: -1
                        HanSolo: 5
                          Spock: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
@@ -13,4 +13,4 @@ Pacifist: HanSolo Spock PoliticallyCorrectGunman
 PoliticallyCorrectGunman: HanSolo Spock Pacifist
 HanSolo: PoliticallyCorrectGunman Spock Pacifist
 Spock: PoliticallyCorrectGunman HanSolo Pacifist
-Generated: 2014/08/11 00:59:14.371153711 UTC
+Generated: 2014/08/12 09:02:33.562521548 UTC

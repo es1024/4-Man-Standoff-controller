@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Zaenille Sniper
+                 SimpleShooter: Sb,N,Sd,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: 3
+                      Zaenille: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille Sniper Coward
+Coward: Zaenille Sniper SimpleShooter
+Zaenille: Coward Sniper SimpleShooter
+Sniper: Coward Zaenille SimpleShooter
+Generated: 2014/08/12 06:24:29.518569947 UTC

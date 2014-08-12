@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy
+                 InputAnalyzer: Db,Dd,Db,Sd,N,Da,Dd,Db,Sa,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sa,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Db,Da,Db,Da,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy
+SimpleShooter: InputAnalyzer TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: InputAnalyzer SimpleShooter EmoCowboy
+EmoCowboy: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:34:11.785056096 UTC

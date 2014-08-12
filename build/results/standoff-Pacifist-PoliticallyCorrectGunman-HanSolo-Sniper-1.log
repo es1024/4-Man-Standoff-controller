@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman HanSolo Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dc,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                        Sniper: Sb,N,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -3
+                       HanSolo: 1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Sniper PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo Sniper Pacifist
+HanSolo: PoliticallyCorrectGunman Sniper Pacifist
+Sniper: PoliticallyCorrectGunman HanSolo Pacifist
+Generated: 2014/08/12 08:03:04.461989005 UTC

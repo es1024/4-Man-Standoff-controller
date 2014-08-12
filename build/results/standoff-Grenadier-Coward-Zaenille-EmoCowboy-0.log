@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Zaenille EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sa,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,Sd
+Final Health:
+                     Grenadier: -1
+                        Coward: 5
+                      Zaenille: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Zaenille EmoCowboy
+Coward: Grenadier Zaenille EmoCowboy
+Zaenille: Grenadier Coward EmoCowboy
+EmoCowboy: Grenadier Coward Zaenille
+Generated: 2014/08/12 09:14:33.815752371 UTC

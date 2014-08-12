@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Zaenille Bomberman
+                     Grenadier: N,N,N,N,N,N,N,N,P,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,Dd,Sc,N,Sb
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Bomberman PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Zaenille Bomberman Grenadier
+Zaenille: PoliticallyCorrectGunman Bomberman Grenadier
+Bomberman: PoliticallyCorrectGunman Zaenille Grenadier
+Generated: 2014/08/12 07:34:55.100118488 UTC

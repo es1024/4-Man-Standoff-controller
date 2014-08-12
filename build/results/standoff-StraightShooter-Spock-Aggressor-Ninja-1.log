@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Aggressor Ninja
+               StraightShooter: Sd,N
+                         Spock: Sc,N
+                     Aggressor: P,Tb
+                         Ninja: Db,Db
+Final Health:
+               StraightShooter: 2
+                         Spock: -3
+                     Aggressor: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Ninja Spock
+Spock: Aggressor Ninja StraightShooter
+Aggressor: Spock Ninja StraightShooter
+Ninja: Spock Aggressor StraightShooter
+Generated: 2014/08/12 08:48:42.400191741 UTC

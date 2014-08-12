@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer TwentyFourthsAndAHalfCentury Scared
+                     Grenadier: N,N,N,N,N
+                 InputAnalyzer: Da,Dd,P,Da,Dc
+  TwentyFourthsAndAHalfCentury: N,N,N,Da,Sd
+                        Scared: N,N,Sc,N,Sb
+Final Health:
+                     Grenadier: 2
+                 InputAnalyzer: -3
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer TwentyFourthsAndAHalfCentury Scared
+InputAnalyzer: Grenadier TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Grenadier InputAnalyzer Scared
+Scared: Grenadier InputAnalyzer TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:52:26.563333179 UTC

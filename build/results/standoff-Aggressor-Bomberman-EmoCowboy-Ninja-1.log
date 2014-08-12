@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman EmoCowboy Ninja
+                     Aggressor: P,Td,Sb
+                     Bomberman: N,N,N
+                     EmoCowboy: Sc,N,N
+                         Ninja: Db,Db,N
+Final Health:
+                     Aggressor: 2
+                     Bomberman: 0
+                     EmoCowboy: -2
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy Ninja Bomberman
+Bomberman: EmoCowboy Ninja Aggressor
+EmoCowboy: Bomberman Ninja Aggressor
+Ninja: Bomberman EmoCowboy Aggressor
+Generated: 2014/08/12 08:47:30.054921661 UTC

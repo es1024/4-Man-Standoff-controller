@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Bomberman CourageTheDog
+               StraightShooter: Sd,N
+                     Aggressor: P,Ta
+                     Bomberman: N,Db
+                 CourageTheDog: Sc,N
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 2
+                     Bomberman: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman CourageTheDog Aggressor
+Aggressor: Bomberman CourageTheDog StraightShooter
+Bomberman: Aggressor CourageTheDog StraightShooter
+CourageTheDog: Aggressor Bomberman StraightShooter
+Generated: 2014/08/12 06:58:57.827909969 UTC

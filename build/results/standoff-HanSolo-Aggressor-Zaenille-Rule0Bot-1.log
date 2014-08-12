@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Zaenille Rule0Bot
+                       HanSolo: Sc,N,Sb
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+                      Rule0Bot: N,N,N
+Final Health:
+                       HanSolo: 0
+                     Aggressor: 0
+                      Zaenille: -4
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Rule0Bot Aggressor
+Aggressor: Zaenille Rule0Bot HanSolo
+Zaenille: Aggressor Rule0Bot HanSolo
+Rule0Bot: Aggressor Zaenille HanSolo
+Generated: 2014/08/12 09:55:21.034513824 UTC

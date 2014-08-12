@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Aggressor Richochet
+                       HanSolo: Sd,N
+                        Coward: Sc,N
+                     Aggressor: P,Tb
+                     Richochet: Sa,N
+Final Health:
+                       HanSolo: 0
+                        Coward: -3
+                     Aggressor: 0
+                     Richochet: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Coward Aggressor
+Coward: Richochet HanSolo Aggressor
+Aggressor: Richochet HanSolo Coward
+Richochet: Aggressor HanSolo Coward
+Generated: 2014/08/12 07:15:05.561059969 UTC

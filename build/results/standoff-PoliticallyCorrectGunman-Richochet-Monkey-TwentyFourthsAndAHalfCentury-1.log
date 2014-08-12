@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Monkey TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Sb,N,Sa,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sc,N,Sd,N,Sd,N,Sc,N
+                        Monkey: N,Sb,N,Sa,N,N,Dc,Dc,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Richochet: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey TwentyFourthsAndAHalfCentury Richochet
+Richochet: Monkey TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Monkey: Richochet TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Richochet Monkey PoliticallyCorrectGunman
+Generated: 2014/08/12 08:47:33.320310566 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman Rule0Bot Neo
+                     Aggressor: P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Da,Da,N,Da,N,N,N,N,N,N,N,N,N,N,N,Da,Da,Da,N,N,Da,N,N,Da,Da,N,Da,N,N,N,N,N,Da,N,N,N,N,Da,Da,Da,N,N,Da,N,Sd
+Final Health:
+                     Aggressor: 0
+                     Bomberman: 2
+                      Rule0Bot: -3
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot Neo Bomberman
+Bomberman: Rule0Bot Neo Aggressor
+Rule0Bot: Bomberman Neo Aggressor
+Neo: Bomberman Rule0Bot Aggressor
+Generated: 2014/08/12 10:16:04.198424426 UTC

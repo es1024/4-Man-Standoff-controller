@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Bomberman Scared
+                     Aggressor: P,Tb,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N
+                     Bomberman: N,N,N,N,N
+                        Scared: N,N,N,N,Sa
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                     Bomberman: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury Bomberman Scared
+TwentyFourthsAndAHalfCentury: Aggressor Bomberman Scared
+Bomberman: Aggressor TwentyFourthsAndAHalfCentury Scared
+Scared: Aggressor TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 08:19:21.171710995 UTC

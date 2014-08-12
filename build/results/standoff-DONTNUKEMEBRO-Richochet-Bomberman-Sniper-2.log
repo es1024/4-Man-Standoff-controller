@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Richochet Bomberman Sniper
+                 DONTNUKEMEBRO: Db,Dc,Dc,Dc,Sb,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sd,N,Sd,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,Sa,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                     Richochet: 1
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Sniper Richochet Bomberman
+Richochet: Sniper DONTNUKEMEBRO Bomberman
+Bomberman: Sniper DONTNUKEMEBRO Richochet
+Sniper: Bomberman DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 09:38:27.548723314 UTC

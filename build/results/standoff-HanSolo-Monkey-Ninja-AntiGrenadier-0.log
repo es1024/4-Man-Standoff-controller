@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey Ninja AntiGrenadier
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                        Monkey: N,Dc,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Da,Dd,Dd,Db,Dd,Db,Dd,Dd,Db,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Monkey: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Ninja AntiGrenadier
+Monkey: HanSolo Ninja AntiGrenadier
+Ninja: HanSolo Monkey AntiGrenadier
+AntiGrenadier: HanSolo Monkey Ninja
+Generated: 2014/08/12 09:57:37.663155014 UTC

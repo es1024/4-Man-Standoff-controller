@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Sniper Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,Sb,N,Sc,N,Sc,N,Sb,N,Sb,N,Sc
+Final Health:
+                      Pacifist: -3
+               StraightShooter: -1
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared StraightShooter Sniper
+StraightShooter: Scared Pacifist Sniper
+Sniper: Scared Pacifist StraightShooter
+Scared: Sniper Pacifist StraightShooter
+Generated: 2014/08/12 07:07:22.455721692 UTC

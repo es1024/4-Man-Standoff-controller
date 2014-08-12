@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Rule0Bot Scared
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sc,N,N
+Final Health:
+                       HanSolo: 3
+                      Zaenille: -2
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Zaenille Rule0Bot
+Zaenille: Scared HanSolo Rule0Bot
+Rule0Bot: Scared HanSolo Zaenille
+Scared: Rule0Bot HanSolo Zaenille
+Generated: 2014/08/12 08:19:32.900987339 UTC

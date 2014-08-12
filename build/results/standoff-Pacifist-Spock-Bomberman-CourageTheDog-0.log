@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Bomberman CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sc,N,Sa,N,N,N,N,Sa,N,N,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Sa,N,Db,Db,Sb,N,Db,Db,Db,Sb,N,Db,Db,Sb
+Final Health:
+                      Pacifist: -3
+                         Spock: -1
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Bomberman CourageTheDog
+Spock: Pacifist Bomberman CourageTheDog
+Bomberman: Pacifist Spock CourageTheDog
+CourageTheDog: Pacifist Spock Bomberman
+Generated: 2014/08/12 08:36:02.923127641 UTC

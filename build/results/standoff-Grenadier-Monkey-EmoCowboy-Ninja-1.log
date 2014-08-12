@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey EmoCowboy Ninja
+                     Grenadier: N,P,Td,N
+                        Monkey: N,Da,P,Td
+                     EmoCowboy: Sc,N,N,N
+                         Ninja: Da,Dc,Db,N
+Final Health:
+                     Grenadier: -1
+                        Monkey: -1
+                     EmoCowboy: -2
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Ninja Monkey
+Monkey: EmoCowboy Ninja Grenadier
+EmoCowboy: Monkey Ninja Grenadier
+Ninja: Monkey EmoCowboy Grenadier
+Generated: 2014/08/12 08:24:00.314601913 UTC

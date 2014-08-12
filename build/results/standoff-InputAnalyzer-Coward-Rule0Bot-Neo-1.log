@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Rule0Bot Neo
+                 InputAnalyzer: Dc,P,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,Da,Sb,N,N,N,N,Dc,Dc,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,Dc,N,N,Sd
+Final Health:
+                 InputAnalyzer: -12
+                        Coward: 0
+                      Rule0Bot: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Neo Coward
+Coward: Rule0Bot Neo InputAnalyzer
+Rule0Bot: Coward Neo InputAnalyzer
+Neo: Coward Rule0Bot InputAnalyzer
+Generated: 2014/08/12 07:56:11.098607046 UTC

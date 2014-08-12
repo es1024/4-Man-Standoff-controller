@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Spock Zaenille
+                      Pacifist: N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc
+                         Spock: Sa,N,Sa,N,Sa
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: 5
+                         Spock: -1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Spock Zaenille
+StraightShooter: Pacifist Spock Zaenille
+Spock: Pacifist StraightShooter Zaenille
+Zaenille: Pacifist StraightShooter Spock
+Generated: 2014/08/12 08:24:02.897508547 UTC

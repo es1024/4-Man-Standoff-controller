@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille EmoCowboy AntiGrenadier
+                 SimpleShooter: Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -2
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: AntiGrenadier Zaenille EmoCowboy
+Zaenille: AntiGrenadier SimpleShooter EmoCowboy
+EmoCowboy: AntiGrenadier SimpleShooter Zaenille
+AntiGrenadier: EmoCowboy SimpleShooter Zaenille
+Generated: 2014/08/12 07:35:48.277742034 UTC

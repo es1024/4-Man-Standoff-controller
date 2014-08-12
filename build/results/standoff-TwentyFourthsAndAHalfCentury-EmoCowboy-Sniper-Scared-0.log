@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy Sniper Scared
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Db,Sc,N,Sc
+                     EmoCowboy: N,N,N,N,Sb,N,N,N
+                        Sniper: Sd,N,Sd,N,Sd,N,N,N
+                        Scared: N,N,N,N,Sc,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: EmoCowboy Sniper Scared
+EmoCowboy: TwentyFourthsAndAHalfCentury Sniper Scared
+Sniper: TwentyFourthsAndAHalfCentury EmoCowboy Scared
+Scared: TwentyFourthsAndAHalfCentury EmoCowboy Sniper
+Generated: 2014/08/12 08:23:00.764975142 UTC

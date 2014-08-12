@@ -1,16 +1,16 @@
 Standoff between: Grenadier StraightShooter HanSolo DONTNUKEMEBRO
-                     Grenadier: P,Tc
-               StraightShooter: Sd,N
-                       HanSolo: Sb,N
-                 DONTNUKEMEBRO: Db,Sa
+                     Grenadier: N,N,N,N,N,N,N,P,N,N
+               StraightShooter: Sd,N,Sd,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sd,N,Sa,N,Sa,N
+                 DONTNUKEMEBRO: Da,Db,Sb,N,Sb,N,N,N,N,N
 Final Health:
-                     Grenadier: 0
-               StraightShooter: 0
-                       HanSolo: -3
-                 DONTNUKEMEBRO: 2
+                     Grenadier: -5
+               StraightShooter: -1
+                       HanSolo: 2
+                 DONTNUKEMEBRO: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: HanSolo DONTNUKEMEBRO StraightShooter
 StraightShooter: HanSolo DONTNUKEMEBRO Grenadier
 HanSolo: StraightShooter DONTNUKEMEBRO Grenadier
 DONTNUKEMEBRO: StraightShooter HanSolo Grenadier
-Generated: 2014/08/11 00:59:54.841553003 UTC
+Generated: 2014/08/12 08:45:40.460927330 UTC

@@ -1,0 +1,16 @@
+Standoff between: AntiGrenadier Rule0Bot Sniper CourageTheDog
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Db,Dc,Sb,N,Dc,Dc,N,Dc,Db,Sb,N,Db,Db,Db,Db,Dc,Db,Sb,N,Sc,N,Dc,Sc,N,Sc
+Final Health:
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+AntiGrenadier: CourageTheDog Rule0Bot Sniper
+Rule0Bot: CourageTheDog AntiGrenadier Sniper
+Sniper: CourageTheDog AntiGrenadier Rule0Bot
+CourageTheDog: Sniper AntiGrenadier Rule0Bot
+Generated: 2014/08/12 09:49:41.841680872 UTC

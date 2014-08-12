@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Richochet CourageTheDog
+                     Grenadier: N,N,N,P,N
+                        Coward: Sd,N,Sd,N,N
+                     Richochet: Sb,N,Sb,N,Sd
+                 CourageTheDog: Sb,N,Sc,N,P
+Final Health:
+                     Grenadier: 2
+                        Coward: -1
+                     Richochet: 0
+                 CourageTheDog: -7
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Richochet CourageTheDog
+Coward: Grenadier Richochet CourageTheDog
+Richochet: Grenadier Coward CourageTheDog
+CourageTheDog: Grenadier Coward Richochet
+Generated: 2014/08/12 06:49:39.335894314 UTC

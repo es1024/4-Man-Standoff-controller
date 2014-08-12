@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Monkey AntiGrenadier
+                         Spock: Sd,N,Sd,N,Sd
+                     Richochet: Sa,N,Sc,N,Sa
+                        Monkey: N,Sa,N,Sc,N
+                 AntiGrenadier: N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                        Monkey: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Richochet Monkey
+Richochet: AntiGrenadier Spock Monkey
+Monkey: AntiGrenadier Spock Richochet
+AntiGrenadier: Monkey Spock Richochet
+Generated: 2014/08/12 09:28:11.123416572 UTC

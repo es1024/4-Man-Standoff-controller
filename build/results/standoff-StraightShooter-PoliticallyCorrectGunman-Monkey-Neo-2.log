@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Monkey Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+      PoliticallyCorrectGunman: Dc,P,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,Dc,Da,N,Sb,N,N,N,N,N,N,N,N,N,Sb,N,Sb,N,Da,N,N,Dc,N,N,N,N,N,N,N,N,Sb
+                           Neo: N,Db,Db,N,N,Dc,Da,N,N,N,N,N,N,N,Da,N,N,N,Da,Dc,Da,Dc,Da,Dc,N,N,N,N,N,N,N,N,Da,Dc,N,Dc,Da,Dc,Da,Dc,N,N,N,N,N,N,N,N,N,Dc
+Final Health:
+               StraightShooter: -18
+      PoliticallyCorrectGunman: -7
+                        Monkey: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo PoliticallyCorrectGunman Monkey
+PoliticallyCorrectGunman: Neo StraightShooter Monkey
+Monkey: Neo StraightShooter PoliticallyCorrectGunman
+Neo: Monkey StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 09:21:20.924696279 UTC

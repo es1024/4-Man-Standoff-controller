@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Ninja Rule0Bot
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,Sd,N,N,Sb,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Dc,Db,Da,Dc,Da,Dc,Dc,Db,Dd,Da,Dc,Dc,Dd,Dd,Da,Dd,Da,Db,Dc,Da,Dc,Da,Dd,Db,Dc,Da,Db,Dc,Da,Dd,Db,Dc,Da,Dc,Db,Dd,Dd,Db,Dd,Db,Dc,Dd,Db,Dc,Db,Dc,Da,Db
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -17
+                         Ninja: -15
+                      Rule0Bot: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Rule0Bot Bomberman
+Bomberman: Ninja Rule0Bot PoliticallyCorrectGunman
+Ninja: Bomberman Rule0Bot PoliticallyCorrectGunman
+Rule0Bot: Bomberman Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 06:54:26.162825255 UTC

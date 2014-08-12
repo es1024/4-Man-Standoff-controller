@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Bomberman Sniper
+                     Grenadier: N,P,N,N
+                 InputAnalyzer: Dd,P,N,Sc
+                     Bomberman: N,N,N,N
+                        Sniper: Sa,N,Sc,N
+Final Health:
+                     Grenadier: -6
+                 InputAnalyzer: -4
+                     Bomberman: -5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper InputAnalyzer Bomberman
+InputAnalyzer: Sniper Grenadier Bomberman
+Bomberman: Sniper Grenadier InputAnalyzer
+Sniper: Bomberman Grenadier InputAnalyzer
+Generated: 2014/08/12 09:15:48.155754658 UTC

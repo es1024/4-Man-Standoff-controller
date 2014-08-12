@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Bomberman Scared
+               StraightShooter: Sd,N,Sd,N
+                 InputAnalyzer: Dc,P,Sc,N
+                     Bomberman: N,N,N,N
+                        Scared: N,N,N,Sb
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -3
+                     Bomberman: 0
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Scared InputAnalyzer
+InputAnalyzer: Bomberman Scared StraightShooter
+Bomberman: InputAnalyzer Scared StraightShooter
+Scared: InputAnalyzer Bomberman StraightShooter
+Generated: 2014/08/12 06:29:58.172626135 UTC

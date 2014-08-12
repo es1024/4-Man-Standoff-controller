@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Monkey Neo
+                 InputAnalyzer: Dc,Db,P,Sc,N,N
+                         Spock: N,N,N,N,Sc,N
+                        Monkey: N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Sb
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 0
+                        Monkey: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Neo Spock
+Spock: Monkey Neo InputAnalyzer
+Monkey: Spock Neo InputAnalyzer
+Neo: Spock Monkey InputAnalyzer
+Generated: 2014/08/12 10:47:50.966757893 UTC

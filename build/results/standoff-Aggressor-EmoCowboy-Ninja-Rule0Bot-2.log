@@ -1,0 +1,16 @@
+Standoff between: Aggressor EmoCowboy Ninja Rule0Bot
+                     Aggressor: P,Td,Sc
+                     EmoCowboy: Sb,N,N
+                         Ninja: Db,Db,Db
+                      Rule0Bot: N,N,N
+Final Health:
+                     Aggressor: 2
+                     EmoCowboy: -2
+                         Ninja: 0
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot EmoCowboy Ninja
+EmoCowboy: Rule0Bot Aggressor Ninja
+Ninja: Rule0Bot Aggressor EmoCowboy
+Rule0Bot: Ninja Aggressor EmoCowboy
+Generated: 2014/08/12 07:36:37.297865478 UTC

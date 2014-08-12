@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille AntiGrenadier Scared
+                 InputAnalyzer: Dd,Sc,N,Dc,P,Da
+                      Zaenille: Sb,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,Sa
+                        Scared: Sc,N,Sa,N,Sa,N
+Final Health:
+                 InputAnalyzer: -7
+                      Zaenille: -2
+                 AntiGrenadier: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Zaenille AntiGrenadier
+Zaenille: Scared InputAnalyzer AntiGrenadier
+AntiGrenadier: Scared InputAnalyzer Zaenille
+Scared: AntiGrenadier InputAnalyzer Zaenille
+Generated: 2014/08/12 08:24:57.481897100 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Zaenille Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: 2
+                      Zaenille: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Neo StraightShooter
+StraightShooter: Zaenille Neo Grenadier
+Zaenille: StraightShooter Neo Grenadier
+Neo: StraightShooter Zaenille Grenadier
+Generated: 2014/08/12 06:38:12.925493468 UTC

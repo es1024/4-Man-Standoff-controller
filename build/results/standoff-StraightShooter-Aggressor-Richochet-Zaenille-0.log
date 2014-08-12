@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Richochet Zaenille
+               StraightShooter: Sc,N
+                     Aggressor: P,Ta
+                     Richochet: Sa,N
+                      Zaenille: Sd,N
+Final Health:
+               StraightShooter: -5
+                     Aggressor: 2
+                     Richochet: 0
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Richochet Zaenille
+Aggressor: StraightShooter Richochet Zaenille
+Richochet: StraightShooter Aggressor Zaenille
+Zaenille: StraightShooter Aggressor Richochet
+Generated: 2014/08/12 09:56:11.237540882 UTC

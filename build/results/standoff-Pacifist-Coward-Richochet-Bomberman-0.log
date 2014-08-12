@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Richochet Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                     Richochet: Sa,N,Sb,N,Sd,N,Sa,N,Sb,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 1
+                     Richochet: -1
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Richochet Bomberman
+Coward: Pacifist Richochet Bomberman
+Richochet: Pacifist Coward Bomberman
+Bomberman: Pacifist Coward Richochet
+Generated: 2014/08/12 09:38:40.092821205 UTC

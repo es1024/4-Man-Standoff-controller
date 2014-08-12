@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd
+                 InputAnalyzer: Dc,Da,N
+                     Aggressor: P,Tb,Sa
+  TwentyFourthsAndAHalfCentury: Dc,Dc,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -3
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor TwentyFourthsAndAHalfCentury InputAnalyzer
+InputAnalyzer: Aggressor TwentyFourthsAndAHalfCentury StraightShooter
+Aggressor: InputAnalyzer TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: InputAnalyzer Aggressor StraightShooter
+Generated: 2014/08/12 06:10:59.949093857 UTC

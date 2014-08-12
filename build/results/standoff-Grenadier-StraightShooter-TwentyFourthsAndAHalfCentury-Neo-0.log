@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter TwentyFourthsAndAHalfCentury Neo
+                     Grenadier: N,N,P,Tb,P,N,N
+               StraightShooter: Sc,N,Sc,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dd,Da,Dd,N,N,N
+                           Neo: N,N,Dc,Dc,Dc,N,N
+Final Health:
+                     Grenadier: -4
+               StraightShooter: -3
+  TwentyFourthsAndAHalfCentury: 0
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter TwentyFourthsAndAHalfCentury Neo
+StraightShooter: Grenadier TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: Grenadier StraightShooter Neo
+Neo: Grenadier StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:26:07.524545595 UTC

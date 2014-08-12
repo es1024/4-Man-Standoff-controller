@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO Bomberman CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Dd,Dd,Dc,Dd,Dd,Dd,Dc,Dc,Sd,N,Dd,Da,Dc,Da,Dc,Da,Dd,Da,Dd,Da,Da,Dc,Da,Dc,Sd,N,Dd,Dc,Dd,Dd,Sd,N,Sc,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Sc,N,Sa,N,Da,Sb,N,Dc,Dc,Dc,Db,Db,Db,N,Da,Da,Sc,N,Db,Db,Db,Sb,N,Da,Db,Da,Da,Sb,N,Db,Db,Sb,N,Da,Da,N,Sa,N,Sa
+Final Health:
+                      Pacifist: -1
+                 DONTNUKEMEBRO: -1
+                     Bomberman: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog DONTNUKEMEBRO Bomberman
+DONTNUKEMEBRO: CourageTheDog Pacifist Bomberman
+Bomberman: CourageTheDog Pacifist DONTNUKEMEBRO
+CourageTheDog: Bomberman Pacifist DONTNUKEMEBRO
+Generated: 2014/08/12 08:58:03.832279885 UTC

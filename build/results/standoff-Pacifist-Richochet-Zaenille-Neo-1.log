@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Zaenille Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sa,N,Sd,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                      Zaenille: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Neo Richochet
+Richochet: Zaenille Neo Pacifist
+Zaenille: Richochet Neo Pacifist
+Neo: Richochet Zaenille Pacifist
+Generated: 2014/08/12 08:32:02.988050279 UTC

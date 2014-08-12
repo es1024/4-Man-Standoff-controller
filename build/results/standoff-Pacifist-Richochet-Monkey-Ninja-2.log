@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Monkey Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sc,N,Sd,N,Sd,N,Sa,N,Sc,N,Sc
+                        Monkey: N,Dd,N,N,N,N,N,N,N,Dd,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Dc,Db,Db,Dd,Da,Db,Dd,Da,Dd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                        Monkey: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Richochet Monkey
+Richochet: Ninja Pacifist Monkey
+Monkey: Ninja Pacifist Richochet
+Ninja: Monkey Pacifist Richochet
+Generated: 2014/08/12 09:00:12.961449928 UTC

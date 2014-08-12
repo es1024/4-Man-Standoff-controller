@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                        Monkey: N,Da,Dd,N,N,Db,Db,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Da,Dd,Db,Db,Db,Db,N,Db,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+Monkey: Coward TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Coward Monkey AntiGrenadier
+AntiGrenadier: Coward Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:53:17.052286153 UTC

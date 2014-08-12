@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet AntiGrenadier Rule0Bot
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sa,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 5
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet AntiGrenadier Rule0Bot
+Richochet: PoliticallyCorrectGunman AntiGrenadier Rule0Bot
+AntiGrenadier: PoliticallyCorrectGunman Richochet Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman Richochet AntiGrenadier
+Generated: 2014/08/12 07:34:05.054697912 UTC

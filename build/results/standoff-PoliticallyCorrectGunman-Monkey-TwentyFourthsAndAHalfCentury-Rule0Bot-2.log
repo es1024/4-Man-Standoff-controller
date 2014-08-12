@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury Rule0Bot
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,Sd,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,Sd,N,Sb,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Monkey TwentyFourthsAndAHalfCentury
+Monkey: Rule0Bot PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot PoliticallyCorrectGunman Monkey
+Rule0Bot: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 07:31:05.002266487 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury EmoCowboy Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,Dd,Dd,Da,Dd,Dd,N,N,N,N,N,N
+                     EmoCowboy: N,N,Sc,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Db,Db,Db,Sa,N,Sa,N,N,N
+Final Health:
+                       HanSolo: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury EmoCowboy Neo
+TwentyFourthsAndAHalfCentury: HanSolo EmoCowboy Neo
+EmoCowboy: HanSolo TwentyFourthsAndAHalfCentury Neo
+Neo: HanSolo TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 06:28:00.560524991 UTC

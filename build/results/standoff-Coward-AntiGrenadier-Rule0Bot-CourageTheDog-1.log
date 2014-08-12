@@ -1,0 +1,16 @@
+Standoff between: Coward AntiGrenadier Rule0Bot CourageTheDog
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Db,Dc,Dc,Sa,N,Dc,Dc,Da,Dc,Sc,N,N
+Final Health:
+                        Coward: 3
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot CourageTheDog AntiGrenadier
+AntiGrenadier: Rule0Bot CourageTheDog Coward
+Rule0Bot: AntiGrenadier CourageTheDog Coward
+CourageTheDog: AntiGrenadier Rule0Bot Coward
+Generated: 2014/08/12 10:11:36.551105886 UTC

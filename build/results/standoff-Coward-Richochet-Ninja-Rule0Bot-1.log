@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Ninja Rule0Bot
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Sc,N,Sc
+                     Richochet: Sc,N,Sd,N,Sd,N,N,N,N,N,N
+                         Ninja: Dd,Db,Da,Db,Da,Da,Da,Dc,Dd,Dd,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                     Richochet: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Rule0Bot Richochet
+Richochet: Ninja Rule0Bot Coward
+Ninja: Richochet Rule0Bot Coward
+Rule0Bot: Richochet Ninja Coward
+Generated: 2014/08/12 08:32:38.924373997 UTC

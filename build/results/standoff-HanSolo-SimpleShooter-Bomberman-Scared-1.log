@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Bomberman Scared
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sa
+                     Bomberman: N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 5
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Scared SimpleShooter
+SimpleShooter: Bomberman Scared HanSolo
+Bomberman: SimpleShooter Scared HanSolo
+Scared: SimpleShooter Bomberman HanSolo
+Generated: 2014/08/12 08:00:29.636235722 UTC

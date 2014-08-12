@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Spock Monkey
+                      Pacifist: N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dc,Da,Dc,Da,P,Sd,N
+                         Spock: Sa,N,Sa,N,N,N,Sa,N
+                        Monkey: N,Da,N,N,N,Da,P,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -4
+                         Spock: -1
+                        Monkey: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Spock Monkey
+InputAnalyzer: Pacifist Spock Monkey
+Spock: Pacifist InputAnalyzer Monkey
+Monkey: Pacifist InputAnalyzer Spock
+Generated: 2014/08/12 10:22:31.561715680 UTC

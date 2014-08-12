@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor TwentyFourthsAndAHalfCentury Neo
+                 SimpleShooter: Sd,N,N
+                     Aggressor: P,Ta,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N
+                           Neo: N,N,N
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor TwentyFourthsAndAHalfCentury Neo
+Aggressor: SimpleShooter TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: SimpleShooter Aggressor Neo
+Neo: SimpleShooter Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:35:24.426139431 UTC

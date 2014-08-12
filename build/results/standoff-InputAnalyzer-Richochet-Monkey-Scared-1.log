@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Monkey Scared
+                 InputAnalyzer: Dc,Sb,N,Sb,N,Dc,Sa,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -2
+                     Richochet: -1
+                        Monkey: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Scared Richochet
+Richochet: Monkey Scared InputAnalyzer
+Monkey: Richochet Scared InputAnalyzer
+Scared: Richochet Monkey InputAnalyzer
+Generated: 2014/08/12 06:11:53.556577897 UTC

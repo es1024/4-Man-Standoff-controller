@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo SimpleShooter Richochet
+               StraightShooter: Sd,N,Sd,N,Sd
+                       HanSolo: Sc,N,Sc,N,Sd
+                 SimpleShooter: Sa,N,Sb,N,N
+                     Richochet: Sa,N,Sc,N,Sa
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 3
+                 SimpleShooter: -1
+                     Richochet: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Richochet HanSolo
+HanSolo: SimpleShooter Richochet StraightShooter
+SimpleShooter: HanSolo Richochet StraightShooter
+Richochet: HanSolo SimpleShooter StraightShooter
+Generated: 2014/08/12 08:04:40.231985773 UTC

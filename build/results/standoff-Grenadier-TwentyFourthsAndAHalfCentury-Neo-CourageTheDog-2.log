@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Neo CourageTheDog
+                     Grenadier: P,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,N,N,N
+                           Neo: N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Dc,Sc
+Final Health:
+                     Grenadier: -1
+  TwentyFourthsAndAHalfCentury: 0
+                           Neo: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: CourageTheDog Grenadier Neo
+Neo: CourageTheDog Grenadier TwentyFourthsAndAHalfCentury
+CourageTheDog: Neo Grenadier TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:59:16.478497216 UTC

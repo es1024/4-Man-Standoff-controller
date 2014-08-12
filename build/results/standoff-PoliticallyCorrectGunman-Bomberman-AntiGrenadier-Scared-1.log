@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman AntiGrenadier Scared
+      PoliticallyCorrectGunman: Db,Dd,Dd,Sb,N,N,N,N,N,N,N,N,Dc,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sc,N,Sb,N,N,N,N,N,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -4
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Scared Bomberman
+Bomberman: AntiGrenadier Scared PoliticallyCorrectGunman
+AntiGrenadier: Bomberman Scared PoliticallyCorrectGunman
+Scared: Bomberman AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 07:57:38.406604334 UTC

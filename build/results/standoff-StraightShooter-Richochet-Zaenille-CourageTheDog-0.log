@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Zaenille CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Db,Db,Da,Da,Db,Sa,N,Sb,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+               StraightShooter: -1
+                     Richochet: -1
+                      Zaenille: -6
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Zaenille CourageTheDog
+Richochet: StraightShooter Zaenille CourageTheDog
+Zaenille: StraightShooter Richochet CourageTheDog
+CourageTheDog: StraightShooter Richochet Zaenille
+Generated: 2014/08/12 08:48:14.048315198 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Aggressor Bomberman
+                     Grenadier: P,Td
+                 InputAnalyzer: Dd,Da
+                     Aggressor: P,Td
+                     Bomberman: N,N
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -1
+                     Aggressor: -1
+                     Bomberman: -11
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman InputAnalyzer Aggressor
+InputAnalyzer: Bomberman Grenadier Aggressor
+Aggressor: Bomberman Grenadier InputAnalyzer
+Bomberman: Aggressor Grenadier InputAnalyzer
+Generated: 2014/08/12 06:21:09.018845957 UTC

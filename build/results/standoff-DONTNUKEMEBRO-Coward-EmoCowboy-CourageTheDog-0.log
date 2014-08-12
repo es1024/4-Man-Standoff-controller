@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Coward EmoCowboy CourageTheDog
+                 DONTNUKEMEBRO: Dc,Dc,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sa,N,Sa,N,Sa,N,Sa,N,Dd,Sa,N,Dd,Sa,N,Dd,Sa,N,Sa,N,Sa,N,Dd,Dd,Sa,N,Sa,N,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Sb,N,Db,Sb,N,Db,Db,N,Db,Db,Sb,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+                 DONTNUKEMEBRO: -1
+                        Coward: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Coward EmoCowboy CourageTheDog
+Coward: DONTNUKEMEBRO EmoCowboy CourageTheDog
+EmoCowboy: DONTNUKEMEBRO Coward CourageTheDog
+CourageTheDog: DONTNUKEMEBRO Coward EmoCowboy
+Generated: 2014/08/12 06:52:34.865355775 UTC

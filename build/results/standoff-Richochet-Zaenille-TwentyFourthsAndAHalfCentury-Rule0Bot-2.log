@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille TwentyFourthsAndAHalfCentury Rule0Bot
+                     Richochet: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,Sa,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Rule0Bot Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Rule0Bot Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Richochet Zaenille
+Rule0Bot: TwentyFourthsAndAHalfCentury Richochet Zaenille
+Generated: 2014/08/12 06:52:22.312850712 UTC

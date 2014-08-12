@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Zaenille Monkey
+                     Grenadier: P,Tb
+                     Richochet: Sd,N
+                      Zaenille: Sc,N
+                        Monkey: N,P
+Final Health:
+                     Grenadier: -1
+                     Richochet: -6
+                      Zaenille: -2
+                        Monkey: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Zaenille Monkey
+Richochet: Grenadier Zaenille Monkey
+Zaenille: Grenadier Richochet Monkey
+Monkey: Grenadier Richochet Zaenille
+Generated: 2014/08/12 09:26:26.365715942 UTC

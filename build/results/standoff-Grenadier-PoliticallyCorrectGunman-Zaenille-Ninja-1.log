@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Zaenille Ninja
+                     Grenadier: N,N,N,N,P,N,N,N,N
+      PoliticallyCorrectGunman: N,Dd,Dc,N,Sa,N,P,Dd,Sc
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Dd,Da,Dc,Da,Dd,Dc,Da
+Final Health:
+                     Grenadier: -3
+      PoliticallyCorrectGunman: -4
+                      Zaenille: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Ninja PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Zaenille Ninja Grenadier
+Zaenille: PoliticallyCorrectGunman Ninja Grenadier
+Ninja: PoliticallyCorrectGunman Zaenille Grenadier
+Generated: 2014/08/12 08:41:12.408979227 UTC

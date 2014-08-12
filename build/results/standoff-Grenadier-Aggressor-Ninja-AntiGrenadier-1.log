@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Ninja AntiGrenadier
+                     Grenadier: P,Tc
+                     Aggressor: P,Tc
+                         Ninja: Da,Dd
+                 AntiGrenadier: N,Sb
+Final Health:
+                     Grenadier: -1
+                     Aggressor: -3
+                         Ninja: -11
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja AntiGrenadier Aggressor
+Aggressor: Ninja AntiGrenadier Grenadier
+Ninja: Aggressor AntiGrenadier Grenadier
+AntiGrenadier: Aggressor Ninja Grenadier
+Generated: 2014/08/12 09:21:30.403824014 UTC

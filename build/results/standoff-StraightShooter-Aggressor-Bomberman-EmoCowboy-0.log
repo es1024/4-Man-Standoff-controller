@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Bomberman EmoCowboy
+               StraightShooter: Sc,N
+                     Aggressor: P,Ta
+                     Bomberman: N,N
+                     EmoCowboy: N,Sd
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 2
+                     Bomberman: 0
+                     EmoCowboy: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Bomberman EmoCowboy
+Aggressor: StraightShooter Bomberman EmoCowboy
+Bomberman: StraightShooter Aggressor EmoCowboy
+EmoCowboy: StraightShooter Aggressor Bomberman
+Generated: 2014/08/12 10:23:09.641464927 UTC

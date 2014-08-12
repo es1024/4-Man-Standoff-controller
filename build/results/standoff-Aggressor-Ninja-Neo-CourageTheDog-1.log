@@ -1,0 +1,16 @@
+Standoff between: Aggressor Ninja Neo CourageTheDog
+                     Aggressor: P,Tc,N,N,N,N,N
+                         Ninja: Db,Da,Dc,Db,Dc,Dd,Dc
+                           Neo: N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Db,Db,Sb
+Final Health:
+                     Aggressor: 0
+                         Ninja: 0
+                           Neo: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo CourageTheDog Ninja
+Ninja: Neo CourageTheDog Aggressor
+Neo: Ninja CourageTheDog Aggressor
+CourageTheDog: Ninja Neo Aggressor
+Generated: 2014/08/12 10:34:28.997598154 UTC

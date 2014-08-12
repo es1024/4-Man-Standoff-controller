@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Zaenille Neo
+      PoliticallyCorrectGunman: P,Dd,Tc,N,N,N,N,N,N,N
+                         Spock: Sc,N,N,N,Sd,N,N,N,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                         Spock: 2
+                      Zaenille: -4
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Neo Spock
+Spock: Zaenille Neo PoliticallyCorrectGunman
+Zaenille: Spock Neo PoliticallyCorrectGunman
+Neo: Spock Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 08:40:16.743460652 UTC

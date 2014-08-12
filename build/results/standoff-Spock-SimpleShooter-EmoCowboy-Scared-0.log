@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter EmoCowboy Scared
+                         Spock: N,N,N,N,N,N,N,Sd,N,Sb,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: N,N,N,N,N,N,N,Sc,N,N,N
+                        Scared: N,N,N,N,N,N,N,Sb,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 1
+                     EmoCowboy: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter EmoCowboy Scared
+SimpleShooter: Spock EmoCowboy Scared
+EmoCowboy: Spock SimpleShooter Scared
+Scared: Spock SimpleShooter EmoCowboy
+Generated: 2014/08/12 07:06:25.709497025 UTC

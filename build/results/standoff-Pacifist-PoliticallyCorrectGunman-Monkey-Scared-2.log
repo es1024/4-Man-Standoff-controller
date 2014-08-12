@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Monkey Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sc,N,Dd,Dd,Da,N,N,N,N,N,N,Sc,N,N,Da,N,N,N
+                        Monkey: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sb,N,N,N,N,N,N,Sc,N,Sb,N,Sb,N,Sa
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+                        Monkey: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared PoliticallyCorrectGunman Monkey
+PoliticallyCorrectGunman: Scared Pacifist Monkey
+Monkey: Scared Pacifist PoliticallyCorrectGunman
+Scared: Monkey Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 07:48:24.598789802 UTC

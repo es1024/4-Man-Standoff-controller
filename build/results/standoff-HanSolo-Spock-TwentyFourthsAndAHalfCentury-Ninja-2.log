@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock TwentyFourthsAndAHalfCentury Ninja
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,N,Db,N,Db,N,Db,Sa,N,Sa,N,N,N
+                         Ninja: Dd,Db,Da,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Spock TwentyFourthsAndAHalfCentury
+Spock: Ninja HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja HanSolo Spock
+Ninja: TwentyFourthsAndAHalfCentury HanSolo Spock
+Generated: 2014/08/12 07:09:36.555736386 UTC

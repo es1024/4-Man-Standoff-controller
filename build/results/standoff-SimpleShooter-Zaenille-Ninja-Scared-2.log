@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Ninja Scared
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                         Ninja: Dd,Db,Dd,Dc,Dc,N,N
+                        Scared: Sa,N,Sa,N,Sc,N,Sa
+Final Health:
+                 SimpleShooter: -1
+                      Zaenille: -2
+                         Ninja: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Zaenille Ninja
+Zaenille: Scared SimpleShooter Ninja
+Ninja: Scared SimpleShooter Zaenille
+Scared: Ninja SimpleShooter Zaenille
+Generated: 2014/08/12 06:38:12.281407555 UTC

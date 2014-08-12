@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Monkey Sniper
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,N,N,N,N,N,N,Sd,N,Sd,N,Sc,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,Sc
+                        Sniper: Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                         Spock: 3
+                        Monkey: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Spock Monkey
+Spock: Sniper InputAnalyzer Monkey
+Monkey: Sniper InputAnalyzer Spock
+Sniper: Monkey InputAnalyzer Spock
+Generated: 2014/08/12 10:12:24.257269489 UTC

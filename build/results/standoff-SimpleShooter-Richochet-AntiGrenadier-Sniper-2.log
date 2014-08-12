@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet AntiGrenadier Sniper
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,Sb
+                     Richochet: Sc,N,Sa,N,Sd,N,Sd,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Richochet AntiGrenadier
+Richochet: Sniper SimpleShooter AntiGrenadier
+AntiGrenadier: Sniper SimpleShooter Richochet
+Sniper: AntiGrenadier SimpleShooter Richochet
+Generated: 2014/08/12 08:37:45.267743672 UTC

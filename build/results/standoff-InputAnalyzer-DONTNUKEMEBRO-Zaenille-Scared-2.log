@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Zaenille Scared
+                 InputAnalyzer: Dd,Dc,P,Db,Sc,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Dd,Sa,N,Da,Da,Dc,Da,Da,Dd,Dd,Dc
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: 0
+                      Zaenille: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared DONTNUKEMEBRO Zaenille
+DONTNUKEMEBRO: Scared InputAnalyzer Zaenille
+Zaenille: Scared InputAnalyzer DONTNUKEMEBRO
+Scared: Zaenille InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:58:05.181262552 UTC

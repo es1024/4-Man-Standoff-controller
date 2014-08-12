@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Coward Richochet
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sa,N,Sa,N,Sa
+                        Coward: Sd,N,Sd,N,N,N,N
+                     Richochet: Sc,N,Sc,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                        Coward: -3
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Coward Richochet
+SimpleShooter: StraightShooter Coward Richochet
+Coward: StraightShooter SimpleShooter Richochet
+Richochet: StraightShooter SimpleShooter Coward
+Generated: 2014/08/12 09:10:07.229873713 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey Scared Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Db,Db,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,Sd,N,Sb,N,Sa,N,Sd,N,Sd,N,N,N,N,N,N,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,Db,Db,Db,N,N,Da,N,Da,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Monkey: -2
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo Monkey Scared
+Monkey: Neo Pacifist Scared
+Scared: Neo Pacifist Monkey
+Neo: Scared Pacifist Monkey
+Generated: 2014/08/12 06:57:55.183363919 UTC

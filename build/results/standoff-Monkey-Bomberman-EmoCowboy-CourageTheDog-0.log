@@ -1,0 +1,16 @@
+Standoff between: Monkey Bomberman EmoCowboy CourageTheDog
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,Sb,N,Da,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Da,Db,Da,Sb,N,Sb,N,Da,Sa,N,Sa,N,Da,N,Sa
+Final Health:
+                        Monkey: -1
+                     Bomberman: -1
+                     EmoCowboy: -4
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Bomberman EmoCowboy CourageTheDog
+Bomberman: Monkey EmoCowboy CourageTheDog
+EmoCowboy: Monkey Bomberman CourageTheDog
+CourageTheDog: Monkey Bomberman EmoCowboy
+Generated: 2014/08/12 06:23:33.822706895 UTC

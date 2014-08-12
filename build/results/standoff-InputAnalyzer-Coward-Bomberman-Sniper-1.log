@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Bomberman Sniper
+                 InputAnalyzer: Dc,Sb,N,Sb,N,Sb,N,P,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Dd,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                        Coward: -1
+                     Bomberman: -18
+                        Sniper: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Sniper Coward
+Coward: Bomberman Sniper InputAnalyzer
+Bomberman: Coward Sniper InputAnalyzer
+Sniper: Coward Bomberman InputAnalyzer
+Generated: 2014/08/12 08:00:05.408579416 UTC

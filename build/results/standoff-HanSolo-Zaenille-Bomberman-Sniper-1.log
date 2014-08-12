@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Bomberman Sniper
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                      Zaenille: -4
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Sniper Zaenille
+Zaenille: Bomberman Sniper HanSolo
+Bomberman: Zaenille Sniper HanSolo
+Sniper: Zaenille Bomberman HanSolo
+Generated: 2014/08/12 07:34:55.502298028 UTC

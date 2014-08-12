@@ -1,0 +1,16 @@
+Standoff between: Pacifist EmoCowboy Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,Dd,Dd,N,Dd,Dd,Da,N,N,N,N,N,N,N,N,Da,Dd,Dd,Dd,Da,N,Dd,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Dc,Dc,Da,Da,Sc,N,N,N,Da,Da,Dc,Sc,N,Sc,N,Dc,Da,Sc,N,Da,N,Da,Sc,N,Da,Sa
+Final Health:
+                      Pacifist: -1
+                     EmoCowboy: -2
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Neo CourageTheDog
+EmoCowboy: Pacifist Neo CourageTheDog
+Neo: Pacifist EmoCowboy CourageTheDog
+CourageTheDog: Pacifist EmoCowboy Neo
+Generated: 2014/08/12 08:18:20.489469146 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter HanSolo Monkey
+                     Grenadier: N,P,N,N
+               StraightShooter: Sd,N,Sd,N
+                       HanSolo: Sb,N,Sb,N
+                        Monkey: N,N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -2
+                       HanSolo: 2
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Monkey StraightShooter
+StraightShooter: HanSolo Monkey Grenadier
+HanSolo: StraightShooter Monkey Grenadier
+Monkey: StraightShooter HanSolo Grenadier
+Generated: 2014/08/12 06:28:05.675870590 UTC

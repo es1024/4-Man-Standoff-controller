@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter TwentyFourthsAndAHalfCentury CourageTheDog
+                 DONTNUKEMEBRO: Db,Dc,Dd,Db,Dd,Db,Sb,N,Dd,Dd,Sd,N,Sb
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sd,N,Sd,N,Sa,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,Dd,N,Da
+                 CourageTheDog: Sb,N,Sc,N,Da,Db,Db,N,Sa,N,Sc,N,N
+Final Health:
+                 DONTNUKEMEBRO: 1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter TwentyFourthsAndAHalfCentury CourageTheDog
+SimpleShooter: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO SimpleShooter CourageTheDog
+CourageTheDog: DONTNUKEMEBRO SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:34:48.599179433 UTC

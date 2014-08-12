@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Zaenille Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,N,N,Sa,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,Sa,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: -15
+                      Zaenille: -4
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Zaenille Rule0Bot
+Spock: StraightShooter Zaenille Rule0Bot
+Zaenille: StraightShooter Spock Rule0Bot
+Rule0Bot: StraightShooter Spock Zaenille
+Generated: 2014/08/12 06:59:46.525404747 UTC

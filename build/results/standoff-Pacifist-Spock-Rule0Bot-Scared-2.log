@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: 3
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared Spock Rule0Bot
+Spock: Scared Pacifist Rule0Bot
+Rule0Bot: Scared Pacifist Spock
+Scared: Rule0Bot Pacifist Spock
+Generated: 2014/08/12 09:21:23.309182851 UTC

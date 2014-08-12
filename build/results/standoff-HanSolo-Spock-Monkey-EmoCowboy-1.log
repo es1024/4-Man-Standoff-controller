@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Monkey EmoCowboy
+                       HanSolo: Sc,N,Sb,N,Sb,N,Sb
+                         Spock: N,Sc,N,Sc,N,Sc,N
+                        Monkey: N,Sc,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                        Monkey: -4
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey EmoCowboy Spock
+Spock: Monkey EmoCowboy HanSolo
+Monkey: Spock EmoCowboy HanSolo
+EmoCowboy: Spock Monkey HanSolo
+Generated: 2014/08/12 07:45:01.626073144 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Richochet Neo
+                     Grenadier: N,P,N,N
+      PoliticallyCorrectGunman: N,Dc,N,Sb
+                     Richochet: Sd,N,Sb,N
+                           Neo: N,N,Db,N
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: -5
+                     Richochet: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo PoliticallyCorrectGunman Richochet
+PoliticallyCorrectGunman: Neo Grenadier Richochet
+Richochet: Neo Grenadier PoliticallyCorrectGunman
+Neo: Richochet Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 06:21:29.905372345 UTC

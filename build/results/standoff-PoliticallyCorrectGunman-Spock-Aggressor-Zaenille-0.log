@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Aggressor Zaenille
+      PoliticallyCorrectGunman: N,Sa
+                         Spock: Sa,N
+                     Aggressor: P,Tb
+                      Zaenille: Sd,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+                         Spock: -3
+                     Aggressor: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Aggressor Zaenille
+Spock: PoliticallyCorrectGunman Aggressor Zaenille
+Aggressor: PoliticallyCorrectGunman Spock Zaenille
+Zaenille: PoliticallyCorrectGunman Spock Aggressor
+Generated: 2014/08/12 05:56:52.062287492 UTC

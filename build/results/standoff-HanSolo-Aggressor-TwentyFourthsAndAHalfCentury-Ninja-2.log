@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor TwentyFourthsAndAHalfCentury Ninja
+                       HanSolo: Sd,N,Sb
+                     Aggressor: P,Td,Sa
+  TwentyFourthsAndAHalfCentury: Db,Db,Db
+                         Ninja: Da,Db,N
+Final Health:
+                       HanSolo: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Ninja HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja HanSolo Aggressor
+Ninja: TwentyFourthsAndAHalfCentury HanSolo Aggressor
+Generated: 2014/08/12 07:14:22.424853375 UTC

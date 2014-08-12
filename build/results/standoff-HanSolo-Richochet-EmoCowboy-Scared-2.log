@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet EmoCowboy Scared
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb
+                     Richochet: Sc,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 1
+                     EmoCowboy: -6
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Richochet EmoCowboy
+Richochet: Scared HanSolo EmoCowboy
+EmoCowboy: Scared HanSolo Richochet
+Scared: EmoCowboy HanSolo Richochet
+Generated: 2014/08/12 06:27:52.018216371 UTC

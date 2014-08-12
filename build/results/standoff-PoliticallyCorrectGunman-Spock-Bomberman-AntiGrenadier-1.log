@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Bomberman AntiGrenadier
+      PoliticallyCorrectGunman: Db,Dc,Sd,N,Db,Db,N,N,N,N,N,N,Sb,N,N,N,Db,Dc,Sb,N,N,N,N,N,N,N,N,Sd,N,P,Tc
+                         Spock: Sc,N,Sc,N,Sc,N,Sd,N,N,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 2
+                         Spock: -2
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman AntiGrenadier Spock
+Spock: Bomberman AntiGrenadier PoliticallyCorrectGunman
+Bomberman: Spock AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: Spock Bomberman PoliticallyCorrectGunman
+Generated: 2014/08/12 09:02:22.710889015 UTC

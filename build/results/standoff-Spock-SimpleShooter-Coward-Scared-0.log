@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Coward Scared
+                         Spock: Sb,N,N,N,N,N,Sb,N,Sc
+                 SimpleShooter: Sd,N,Sa,N,Sc,N,Sa,N,N
+                        Coward: Sd,N,Sd,N,Sb,N,Db,Dd,Sa
+                        Scared: Sc,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+                        Coward: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Coward Scared
+SimpleShooter: Spock Coward Scared
+Coward: Spock SimpleShooter Scared
+Scared: Spock SimpleShooter Coward
+Generated: 2014/08/12 08:26:24.398134864 UTC

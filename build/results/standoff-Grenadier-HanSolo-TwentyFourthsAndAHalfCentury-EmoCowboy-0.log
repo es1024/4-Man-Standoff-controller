@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo TwentyFourthsAndAHalfCentury EmoCowboy
+                     Grenadier: N,P,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Da,Sb
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                     Grenadier: -5
+                       HanSolo: 0
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo TwentyFourthsAndAHalfCentury EmoCowboy
+HanSolo: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Grenadier HanSolo EmoCowboy
+EmoCowboy: Grenadier HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:47:58.464930209 UTC

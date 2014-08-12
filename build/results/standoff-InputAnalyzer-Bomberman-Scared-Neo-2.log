@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Scared Neo
+                 InputAnalyzer: Dd,Dc,P,Da,Db,N,N
+                     Bomberman: N,N,N,N,N,N,N
+                        Scared: N,N,Sb,N,N,N,Sd
+                           Neo: N,Db,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                     Bomberman: 0
+                        Scared: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Bomberman Scared
+Bomberman: Neo InputAnalyzer Scared
+Scared: Neo InputAnalyzer Bomberman
+Neo: Scared InputAnalyzer Bomberman
+Generated: 2014/08/12 10:26:49.927079862 UTC

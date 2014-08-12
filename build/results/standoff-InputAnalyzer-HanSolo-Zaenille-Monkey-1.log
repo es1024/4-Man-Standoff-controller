@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Zaenille Monkey
+                 InputAnalyzer: Dc,P,Da,Sd
+                       HanSolo: Sc,N,Sd,N
+                      Zaenille: Sc,N,N,N
+                        Monkey: N,Sc,N,Sd
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 2
+                      Zaenille: -4
+                        Monkey: -7
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Monkey HanSolo
+HanSolo: Zaenille Monkey InputAnalyzer
+Zaenille: HanSolo Monkey InputAnalyzer
+Monkey: HanSolo Zaenille InputAnalyzer
+Generated: 2014/08/12 07:22:17.624825663 UTC

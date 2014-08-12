@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                     Aggressor: P,Td,Sb
+  TwentyFourthsAndAHalfCentury: Dd,Da,Sa
+                     EmoCowboy: Sc,N,N
+                 CourageTheDog: Sb,N,N
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy CourageTheDog Aggressor
+EmoCowboy: TwentyFourthsAndAHalfCentury CourageTheDog Aggressor
+CourageTheDog: TwentyFourthsAndAHalfCentury EmoCowboy Aggressor
+Generated: 2014/08/12 08:18:52.041443266 UTC

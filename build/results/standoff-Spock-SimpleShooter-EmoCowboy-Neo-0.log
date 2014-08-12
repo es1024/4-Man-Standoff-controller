@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter EmoCowboy Neo
+                         Spock: Sb,N,N,Sb,N,N,N,Sb,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sa,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,N,Sa
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+                     EmoCowboy: -2
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter EmoCowboy Neo
+SimpleShooter: Spock EmoCowboy Neo
+EmoCowboy: Spock SimpleShooter Neo
+Neo: Spock SimpleShooter EmoCowboy
+Generated: 2014/08/12 07:03:01.576618734 UTC

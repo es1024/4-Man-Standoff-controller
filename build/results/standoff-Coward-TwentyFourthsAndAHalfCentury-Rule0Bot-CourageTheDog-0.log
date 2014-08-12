@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Dc,Dc,Da,N,N,N,N,N,N,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sb,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+TwentyFourthsAndAHalfCentury: Coward Rule0Bot CourageTheDog
+Rule0Bot: Coward TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Coward TwentyFourthsAndAHalfCentury Rule0Bot
+Generated: 2014/08/12 10:01:23.841856967 UTC

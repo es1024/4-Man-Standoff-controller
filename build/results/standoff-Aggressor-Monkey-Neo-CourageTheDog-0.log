@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Neo CourageTheDog
+                     Aggressor: P,Tb,Sd
+                        Monkey: N,N,N
+                           Neo: N,N,N
+                 CourageTheDog: Sc,N,Sa
+Final Health:
+                     Aggressor: 0
+                        Monkey: -3
+                           Neo: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Monkey Neo CourageTheDog
+Monkey: Aggressor Neo CourageTheDog
+Neo: Aggressor Monkey CourageTheDog
+CourageTheDog: Aggressor Monkey Neo
+Generated: 2014/08/12 09:50:01.783517445 UTC

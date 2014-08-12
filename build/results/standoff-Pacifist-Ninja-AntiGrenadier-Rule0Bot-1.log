@@ -1,0 +1,16 @@
+Standoff between: Pacifist Ninja AntiGrenadier Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dd,Dc,Da,Da,Dd,Dd,Dd,Db,Db,Da,Da,Da,Db,Db,Db,Dd,Dd,Da,Da,Da,Da,Da,Db,Db,Db,Dd,Dd,Da,Da,Da,Dc,Dd,Db,Dc,Da,Dd,Dd,Da,Da,Dd,Db,Da,Dc,Db,Db,Da,Da,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+                         Ninja: -15
+                 AntiGrenadier: -15
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Rule0Bot Ninja
+Ninja: AntiGrenadier Rule0Bot Pacifist
+AntiGrenadier: Ninja Rule0Bot Pacifist
+Rule0Bot: Ninja AntiGrenadier Pacifist
+Generated: 2014/08/12 07:06:16.182701275 UTC

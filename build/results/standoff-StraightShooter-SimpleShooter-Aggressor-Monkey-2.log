@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Aggressor Monkey
+               StraightShooter: Sb,N
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Td
+                        Monkey: N,P
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: -3
+                     Aggressor: -3
+                        Monkey: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey SimpleShooter Aggressor
+SimpleShooter: Monkey StraightShooter Aggressor
+Aggressor: Monkey StraightShooter SimpleShooter
+Monkey: Aggressor StraightShooter SimpleShooter
+Generated: 2014/08/12 10:46:55.073389185 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Zaenille Scared
+                 InputAnalyzer: Dd,P,Dd,Sa,N
+                         Spock: N,N,N,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                        Scared: N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -10
+                         Spock: 2
+                      Zaenille: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Spock Zaenille
+Spock: Scared InputAnalyzer Zaenille
+Zaenille: Scared InputAnalyzer Spock
+Scared: Zaenille InputAnalyzer Spock
+Generated: 2014/08/12 08:36:54.685468982 UTC

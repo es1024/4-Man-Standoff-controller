@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor TwentyFourthsAndAHalfCentury CourageTheDog
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Tc
+  TwentyFourthsAndAHalfCentury: N,N
+                 CourageTheDog: Sa,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor TwentyFourthsAndAHalfCentury CourageTheDog
+Aggressor: SimpleShooter TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: SimpleShooter Aggressor CourageTheDog
+CourageTheDog: SimpleShooter Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:59:27.853993758 UTC

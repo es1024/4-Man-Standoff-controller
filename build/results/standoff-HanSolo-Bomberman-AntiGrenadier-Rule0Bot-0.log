@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman AntiGrenadier Rule0Bot
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman AntiGrenadier Rule0Bot
+Bomberman: HanSolo AntiGrenadier Rule0Bot
+AntiGrenadier: HanSolo Bomberman Rule0Bot
+Rule0Bot: HanSolo Bomberman AntiGrenadier
+Generated: 2014/08/12 09:50:42.072152877 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Aggressor Rule0Bot
+                     Grenadier: P,N
+                 InputAnalyzer: Da,Dd
+                     Aggressor: P,Ta
+                      Rule0Bot: N,Sa
+Final Health:
+                     Grenadier: -11
+                 InputAnalyzer: -1
+                     Aggressor: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Aggressor Rule0Bot
+InputAnalyzer: Grenadier Aggressor Rule0Bot
+Aggressor: Grenadier InputAnalyzer Rule0Bot
+Rule0Bot: Grenadier InputAnalyzer Aggressor
+Generated: 2014/08/12 08:54:34.112056814 UTC

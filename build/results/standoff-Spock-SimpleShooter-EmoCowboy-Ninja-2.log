@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter EmoCowboy Ninja
+                         Spock: Sd,N,Sd,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sa,N,Sd,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Da,Dc,Db,Dc,Dd,Db,Dd,Dc,Dd
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                     EmoCowboy: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja SimpleShooter EmoCowboy
+SimpleShooter: Ninja Spock EmoCowboy
+EmoCowboy: Ninja Spock SimpleShooter
+Ninja: EmoCowboy Spock SimpleShooter
+Generated: 2014/08/12 07:46:37.135237169 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO SimpleShooter Monkey
+                     Grenadier: N,N,N,N,N,N,N,N,P,N
+                 DONTNUKEMEBRO: Da,Dc,Da,Da,Sc,N,Da,Dc,Da,Sa
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sd,N,Sd,N
+                        Monkey: N,N,N,Sb,N,Sa,N,Da,N,N
+Final Health:
+                     Grenadier: -7
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: 0
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO SimpleShooter Monkey
+DONTNUKEMEBRO: Grenadier SimpleShooter Monkey
+SimpleShooter: Grenadier DONTNUKEMEBRO Monkey
+Monkey: Grenadier DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 07:39:05.214946513 UTC

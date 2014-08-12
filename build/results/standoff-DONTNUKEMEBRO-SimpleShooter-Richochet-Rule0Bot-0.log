@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Richochet Rule0Bot
+                 DONTNUKEMEBRO: Db,Db,Db,Dc,Sc,N,Dd,Dd,Sb,N,Dd
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sa,N,Sd,N,Sa
+                     Richochet: Sd,N,Sa,N,Sb,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 1
+                     Richochet: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Richochet Rule0Bot
+SimpleShooter: DONTNUKEMEBRO Richochet Rule0Bot
+Richochet: DONTNUKEMEBRO SimpleShooter Rule0Bot
+Rule0Bot: DONTNUKEMEBRO SimpleShooter Richochet
+Generated: 2014/08/12 10:11:44.687126417 UTC

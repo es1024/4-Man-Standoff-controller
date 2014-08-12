@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Aggressor Richochet
+                      Pacifist: N,N
+                       HanSolo: Sd,N
+                     Aggressor: P,Ta
+                     Richochet: Sc,N
+Final Health:
+                      Pacifist: -3
+                       HanSolo: 2
+                     Aggressor: 0
+                     Richochet: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet HanSolo Aggressor
+HanSolo: Richochet Pacifist Aggressor
+Aggressor: Richochet Pacifist HanSolo
+Richochet: Aggressor Pacifist HanSolo
+Generated: 2014/08/12 10:05:39.378792378 UTC

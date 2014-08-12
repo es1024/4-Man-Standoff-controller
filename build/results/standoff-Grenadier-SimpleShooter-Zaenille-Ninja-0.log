@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Zaenille Ninja
+                     Grenadier: N,P,N,N
+                 SimpleShooter: Sd,N,Sd,N
+                      Zaenille: Sc,N,N,N
+                         Ninja: Db,Da,Da,Db
+Final Health:
+                     Grenadier: -1
+                 SimpleShooter: 2
+                      Zaenille: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Zaenille Ninja
+SimpleShooter: Grenadier Zaenille Ninja
+Zaenille: Grenadier SimpleShooter Ninja
+Ninja: Grenadier SimpleShooter Zaenille
+Generated: 2014/08/12 06:33:21.972100161 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Neo CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Dd,N,Dd,N,Dd,Sd,N
+                 CourageTheDog: Sc,N,Db,Db,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: -1
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog SimpleShooter Neo
+SimpleShooter: CourageTheDog StraightShooter Neo
+Neo: CourageTheDog StraightShooter SimpleShooter
+CourageTheDog: Neo StraightShooter SimpleShooter
+Generated: 2014/08/12 10:36:35.508387168 UTC

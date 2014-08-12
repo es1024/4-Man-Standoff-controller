@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock AntiGrenadier Sniper
+                     Grenadier: N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -9
+                         Spock: 2
+                 AntiGrenadier: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock AntiGrenadier Sniper
+Spock: Grenadier AntiGrenadier Sniper
+AntiGrenadier: Grenadier Spock Sniper
+Sniper: Grenadier Spock AntiGrenadier
+Generated: 2014/08/12 07:47:20.608267430 UTC

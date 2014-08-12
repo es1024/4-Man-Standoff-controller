@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Ninja Sniper
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Da,Dc,N,N,N,Dd,N,Dd,Da,Sa,N,Sa,N,Sa
+                         Ninja: Da,Dc,Dd,Db,Dd,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: 1
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Sniper HanSolo
+Ninja: TwentyFourthsAndAHalfCentury Sniper HanSolo
+Sniper: TwentyFourthsAndAHalfCentury Ninja HanSolo
+Generated: 2014/08/12 09:08:48.702521506 UTC

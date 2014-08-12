@@ -1,0 +1,16 @@
+Standoff between: Zaenille Rule0Bot Sniper Scared
+                      Zaenille: Sa,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,N,N,N,Sb,N,N,N
+                        Scared: Sb,N,Sc,N,Sb,N,Sc,N,Sc
+Final Health:
+                      Zaenille: -2
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Sniper Scared Rule0Bot
+Rule0Bot: Sniper Scared Zaenille
+Sniper: Rule0Bot Scared Zaenille
+Scared: Rule0Bot Sniper Zaenille
+Generated: 2014/08/12 09:16:41.365711632 UTC

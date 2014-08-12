@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille Ninja Scared
+                         Spock: Sd,N,N,N,Sd,N,N,Sd,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dd,Da,Dc,Da,Da,Dd,Dc,Dd,Da,Da,Db,Dc,Da,Db,Da,Dc,Db
+                        Scared: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 5
+                      Zaenille: -2
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared Zaenille Ninja
+Zaenille: Scared Spock Ninja
+Ninja: Scared Spock Zaenille
+Scared: Ninja Spock Zaenille
+Generated: 2014/08/12 07:04:51.008503654 UTC

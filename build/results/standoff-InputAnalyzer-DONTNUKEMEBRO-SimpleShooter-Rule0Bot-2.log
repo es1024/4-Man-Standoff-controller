@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO SimpleShooter Rule0Bot
+                 InputAnalyzer: Dd,Dc,Dd,Db,Dc,Dd,Sc,N,Dc,Dd,Dc,Sd,N,Sb,N,Dc,Dd,P,Db,Sa
+                 DONTNUKEMEBRO: Dc,Dc,Sc,N,Sc,N,Dd,Da,Dc,Dd,Da,Da,Da,Da,Da,Sa,N,Dd,Sa,N
+                 SimpleShooter: Sb,N,Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -1
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Rule0Bot InputAnalyzer SimpleShooter
+SimpleShooter: Rule0Bot InputAnalyzer DONTNUKEMEBRO
+Rule0Bot: SimpleShooter InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 07:05:30.641898333 UTC

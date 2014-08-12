@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Richochet TwentyFourthsAndAHalfCentury
+                       HanSolo: Sc,N
+                     Aggressor: P,Td
+                     Richochet: Sb,N
+  TwentyFourthsAndAHalfCentury: Dc,Db
+Final Health:
+                       HanSolo: 2
+                     Aggressor: 0
+                     Richochet: 0
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet TwentyFourthsAndAHalfCentury Aggressor
+Aggressor: Richochet TwentyFourthsAndAHalfCentury HanSolo
+Richochet: Aggressor TwentyFourthsAndAHalfCentury HanSolo
+TwentyFourthsAndAHalfCentury: Aggressor Richochet HanSolo
+Generated: 2014/08/12 07:37:32.207901561 UTC

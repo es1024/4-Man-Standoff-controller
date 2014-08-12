@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Aggressor CourageTheDog
+               StraightShooter: Sd,N
+                       HanSolo: Sc,N
+                     Aggressor: P,Tb
+                 CourageTheDog: Sc,N
+Final Health:
+               StraightShooter: 2
+                       HanSolo: -3
+                     Aggressor: -2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor CourageTheDog HanSolo
+HanSolo: Aggressor CourageTheDog StraightShooter
+Aggressor: HanSolo CourageTheDog StraightShooter
+CourageTheDog: HanSolo Aggressor StraightShooter
+Generated: 2014/08/12 10:34:47.724103889 UTC

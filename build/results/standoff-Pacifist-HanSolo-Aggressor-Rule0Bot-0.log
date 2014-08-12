@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Aggressor Rule0Bot
+                      Pacifist: N,N
+                       HanSolo: Sa,N
+                     Aggressor: P,Tb
+                      Rule0Bot: N,Sc
+Final Health:
+                      Pacifist: 0
+                       HanSolo: -3
+                     Aggressor: 0
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Aggressor Rule0Bot
+HanSolo: Pacifist Aggressor Rule0Bot
+Aggressor: Pacifist HanSolo Rule0Bot
+Rule0Bot: Pacifist HanSolo Aggressor
+Generated: 2014/08/12 09:05:26.440757958 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Richochet AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+                     Richochet: Sa,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                     Richochet: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier StraightShooter Richochet
+StraightShooter: AntiGrenadier Pacifist Richochet
+Richochet: AntiGrenadier Pacifist StraightShooter
+AntiGrenadier: Richochet Pacifist StraightShooter
+Generated: 2014/08/12 07:08:22.275524484 UTC

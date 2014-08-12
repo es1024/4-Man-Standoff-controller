@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Ninja Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                         Ninja: Dc,Db,Db,Dd,Db,Db,Da,Da,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Coward Ninja
+Coward: Rule0Bot Pacifist Ninja
+Ninja: Rule0Bot Pacifist Coward
+Rule0Bot: Ninja Pacifist Coward
+Generated: 2014/08/12 09:39:41.004592209 UTC

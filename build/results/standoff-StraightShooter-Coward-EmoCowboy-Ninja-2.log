@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward EmoCowboy Ninja
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sc,N,Sa,N,Da,Dc,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Da,Dd,Dd,Dd,Dc,Db,Db,Da,Dd,Dd,Db,Dc,Db,Db,Da,Db,Db,Dd,Dc,Dc,Dd,Dd,Db,Dd,Da,Dc,Db,Dd,Dc,Dc,Da,Da,Da,Db,Db,Dc,Dc,Da,Da,Da,Db,Db,Dc,Da,Dd,Da,Dc,Db
+Final Health:
+               StraightShooter: -19
+                        Coward: -1
+                     EmoCowboy: -4
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Coward EmoCowboy
+Coward: Ninja StraightShooter EmoCowboy
+EmoCowboy: Ninja StraightShooter Coward
+Ninja: EmoCowboy StraightShooter Coward
+Generated: 2014/08/12 08:09:40.488367786 UTC

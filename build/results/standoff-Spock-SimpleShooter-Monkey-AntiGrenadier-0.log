@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Monkey AntiGrenadier
+                         Spock: Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sd,N,Sc,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Sb,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 5
+                 SimpleShooter: -1
+                        Monkey: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Monkey AntiGrenadier
+SimpleShooter: Spock Monkey AntiGrenadier
+Monkey: Spock SimpleShooter AntiGrenadier
+AntiGrenadier: Spock SimpleShooter Monkey
+Generated: 2014/08/12 07:50:54.778874256 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward EmoCowboy Ninja
+                     Grenadier: N,N,N,N,N,N,N,P,Tb
+                        Coward: Sd,N,Sd,N,Sd,N,Sd,N,Sa
+                     EmoCowboy: N,N,N,N,N,N,Sc,N,N
+                         Ninja: Dd,Da,Db,Dc,Dd,Dd,Da,N,N
+Final Health:
+                     Grenadier: 0
+                        Coward: -3
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward EmoCowboy Ninja
+Coward: Grenadier EmoCowboy Ninja
+EmoCowboy: Grenadier Coward Ninja
+Ninja: Grenadier Coward EmoCowboy
+Generated: 2014/08/12 07:02:09.960710901 UTC

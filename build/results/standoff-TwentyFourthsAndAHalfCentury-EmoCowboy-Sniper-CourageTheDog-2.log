@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy Sniper CourageTheDog
+  TwentyFourthsAndAHalfCentury: Dd,N,Dc,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Da,Dc,Dc,Dc,Da,Da,Da,Sc,N,Da,Da,Sa,N,Da,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: 1
+                     EmoCowboy: -4
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: CourageTheDog EmoCowboy Sniper
+EmoCowboy: CourageTheDog TwentyFourthsAndAHalfCentury Sniper
+Sniper: CourageTheDog TwentyFourthsAndAHalfCentury EmoCowboy
+CourageTheDog: Sniper TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 06:14:30.835377709 UTC

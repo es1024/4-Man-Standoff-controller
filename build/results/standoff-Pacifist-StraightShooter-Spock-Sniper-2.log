@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Spock Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa
+                         Spock: Sd,N,Sd,N,Sd,N,Sb,N,Sb
+                        Sniper: Sb,N,Sa,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                         Spock: 5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper StraightShooter Spock
+StraightShooter: Sniper Pacifist Spock
+Spock: Sniper Pacifist StraightShooter
+Sniper: Spock Pacifist StraightShooter
+Generated: 2014/08/12 07:21:23.724750775 UTC

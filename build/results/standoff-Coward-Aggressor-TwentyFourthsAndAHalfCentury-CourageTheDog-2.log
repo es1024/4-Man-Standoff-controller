@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor TwentyFourthsAndAHalfCentury CourageTheDog
+                        Coward: Sc,N,Sb
+                     Aggressor: P,Td,Sa
+  TwentyFourthsAndAHalfCentury: Da,Db,N
+                 CourageTheDog: Sc,N,N
+Final Health:
+                        Coward: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: CourageTheDog Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog Coward Aggressor
+CourageTheDog: TwentyFourthsAndAHalfCentury Coward Aggressor
+Generated: 2014/08/12 07:28:32.261118833 UTC

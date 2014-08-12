@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Monkey Sniper
+                 InputAnalyzer: Dc,Db,Da,P,Sa
+                     Richochet: Sc,N,Sd,N,Sa
+                        Monkey: N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -12
+                     Richochet: 0
+                        Monkey: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Sniper Richochet
+Richochet: Monkey Sniper InputAnalyzer
+Monkey: Richochet Sniper InputAnalyzer
+Sniper: Richochet Monkey InputAnalyzer
+Generated: 2014/08/12 06:19:04.501607187 UTC

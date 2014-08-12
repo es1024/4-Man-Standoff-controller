@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter AntiGrenadier Scared
+                 InputAnalyzer: Dc,P,N
+                 SimpleShooter: Sa,N,Sd
+                 AntiGrenadier: N,N,Sa
+                        Scared: Sc,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                 SimpleShooter: 2
+                 AntiGrenadier: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Scared SimpleShooter
+SimpleShooter: AntiGrenadier Scared InputAnalyzer
+AntiGrenadier: SimpleShooter Scared InputAnalyzer
+Scared: SimpleShooter AntiGrenadier InputAnalyzer
+Generated: 2014/08/12 10:48:44.541098631 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Spock Aggressor
+                      Pacifist: N,N,N,N,N
+               StraightShooter: Sd,N,N,N,N
+                         Spock: N,N,N,N,Sa
+                     Aggressor: P,Tb,N,N,N
+Final Health:
+                      Pacifist: 0
+               StraightShooter: -3
+                         Spock: 2
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Aggressor StraightShooter
+StraightShooter: Spock Aggressor Pacifist
+Spock: StraightShooter Aggressor Pacifist
+Aggressor: StraightShooter Spock Pacifist
+Generated: 2014/08/12 10:34:25.458634735 UTC

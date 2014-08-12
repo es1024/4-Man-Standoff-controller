@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Zaenille Monkey
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Monkey: N,Sd,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Zaenille Monkey
+SimpleShooter: StraightShooter Zaenille Monkey
+Zaenille: StraightShooter SimpleShooter Monkey
+Monkey: StraightShooter SimpleShooter Zaenille
+Generated: 2014/08/12 07:24:53.040476645 UTC

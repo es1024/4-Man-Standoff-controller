@@ -1,0 +1,16 @@
+Standoff between: HanSolo Ninja Rule0Bot CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Ninja: Dd,Db,Dc,Da,Db,Da,Dd,Da,Dc,Da,Db,Dd,Dc,Da,Da,Dd,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Da,Da,Sa,N,Db,Da,Sa,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                         Ninja: -1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot CourageTheDog Ninja
+Ninja: Rule0Bot CourageTheDog HanSolo
+Rule0Bot: Ninja CourageTheDog HanSolo
+CourageTheDog: Ninja Rule0Bot HanSolo
+Generated: 2014/08/12 08:00:03.964457771 UTC

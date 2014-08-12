@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter TwentyFourthsAndAHalfCentury Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sd,N,Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Da,Db,Dd,Db,Da,Dd,Dd,Dd,Da,N,N,N,Da,Dd,N,N,N,N
+                           Neo: N,Da,Db,Da,Db,N,N,Da,Db,N,N,Da,N,N,Db,Da,Db,Sb,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Neo Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo Pacifist SimpleShooter
+Neo: TwentyFourthsAndAHalfCentury Pacifist SimpleShooter
+Generated: 2014/08/12 09:26:32.694170230 UTC

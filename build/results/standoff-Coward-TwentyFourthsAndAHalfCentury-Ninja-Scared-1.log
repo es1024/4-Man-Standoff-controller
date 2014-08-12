@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Ninja Scared
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Db,Db,Sc,N,Db,Db,Db,Db,Db,Db,Sc
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Dc,Da,Db,Dd,Db,Da,Dd,Dd,Db,Dd,Db,Dc,Da,Dc,Da,Dc,Db,Dc,Db
+                        Scared: Sb,N,Sc,N,Sa,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Scared Coward
+Ninja: TwentyFourthsAndAHalfCentury Scared Coward
+Scared: TwentyFourthsAndAHalfCentury Ninja Coward
+Generated: 2014/08/12 06:23:50.718174191 UTC

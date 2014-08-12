@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Richochet Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N
+                     Richochet: Sd,N,Sb,N,Sa,N,Sa,N,Sa
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                     Richochet: 1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper HanSolo Richochet
+HanSolo: Sniper StraightShooter Richochet
+Richochet: Sniper StraightShooter HanSolo
+Sniper: Richochet StraightShooter HanSolo
+Generated: 2014/08/12 08:41:41.204212556 UTC

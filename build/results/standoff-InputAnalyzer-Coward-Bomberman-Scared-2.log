@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Bomberman Scared
+                 InputAnalyzer: Dd,Sc,N,Sb,N,Dc,P,N,Dd
+                        Coward: Sc,N,Sc,N,Dd,Da,Dd,Dc,Da
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sa,N,Sa,N,Sa
+Final Health:
+                 InputAnalyzer: -5
+                        Coward: -2
+                     Bomberman: -1
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Coward Bomberman
+Coward: Scared InputAnalyzer Bomberman
+Bomberman: Scared InputAnalyzer Coward
+Scared: Bomberman InputAnalyzer Coward
+Generated: 2014/08/12 06:39:07.807041134 UTC

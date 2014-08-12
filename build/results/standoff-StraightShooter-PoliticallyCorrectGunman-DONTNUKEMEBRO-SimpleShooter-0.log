@@ -1,16 +1,16 @@
 Standoff between: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter
-               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc
-      PoliticallyCorrectGunman: Sc,N,N,Da,Da,Dd,Sd,N,Sb
-                 DONTNUKEMEBRO: Da,P,Da,N,N,N,N,N,N
-                 SimpleShooter: Sc,N,Sc,N,Sc,N,Sc,N,N
+               StraightShooter: Sc,N,Sc,N,N
+      PoliticallyCorrectGunman: Sa,N,Dd,Sc,N
+                 DONTNUKEMEBRO: Db,Db,P,N,N
+                 SimpleShooter: Sc,N,Sb,N,Sb
 Final Health:
-               StraightShooter: 2
-      PoliticallyCorrectGunman: -2
+               StraightShooter: 0
+      PoliticallyCorrectGunman: 0
                  DONTNUKEMEBRO: -7
-                 SimpleShooter: 0
+                 SimpleShooter: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 StraightShooter: PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter
 PoliticallyCorrectGunman: StraightShooter DONTNUKEMEBRO SimpleShooter
 DONTNUKEMEBRO: StraightShooter PoliticallyCorrectGunman SimpleShooter
 SimpleShooter: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO
-Generated: 2014/08/11 00:58:43.609642652 UTC
+Generated: 2014/08/12 06:27:31.340912334 UTC

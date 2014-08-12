@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+                     Richochet: Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,N,N,N,N,N,Sd,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Dc,Db,Db,Dc,Sc,N,Sb,N,Sb,N,Dc,Sc
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: CourageTheDog TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: CourageTheDog Richochet Sniper
+Sniper: CourageTheDog Richochet TwentyFourthsAndAHalfCentury
+CourageTheDog: Sniper Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:22:58.038480634 UTC

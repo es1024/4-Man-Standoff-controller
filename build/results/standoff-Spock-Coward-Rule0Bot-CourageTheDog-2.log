@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Rule0Bot CourageTheDog
+                         Spock: Sd,N,Sc,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Dd,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Da,Sb,N,Db,Sb,N,Db,Sb
+Final Health:
+                         Spock: -1
+                        Coward: -1
+                      Rule0Bot: -3
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Coward Rule0Bot
+Coward: CourageTheDog Spock Rule0Bot
+Rule0Bot: CourageTheDog Spock Coward
+CourageTheDog: Rule0Bot Spock Coward
+Generated: 2014/08/12 08:16:13.065172729 UTC

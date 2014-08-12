@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Rule0Bot Scared
+                 InputAnalyzer: Db,Sd,N,P,Sc,N
+                     Richochet: Sd,N,Sd,N,Sc,N
+                      Rule0Bot: N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                     Richochet: 0
+                      Rule0Bot: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Rule0Bot Scared
+Richochet: InputAnalyzer Rule0Bot Scared
+Rule0Bot: InputAnalyzer Richochet Scared
+Scared: InputAnalyzer Richochet Rule0Bot
+Generated: 2014/08/12 10:33:13.501210192 UTC

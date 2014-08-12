@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock SimpleShooter Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,Sd,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sa,N,Sd
+                        Sniper: Sa,N,Sc,N,Sb,N,N,Sa,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                 SimpleShooter: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Spock SimpleShooter
+Spock: Sniper Pacifist SimpleShooter
+SimpleShooter: Sniper Pacifist Spock
+Sniper: SimpleShooter Pacifist Spock
+Generated: 2014/08/12 06:21:08.058716624 UTC

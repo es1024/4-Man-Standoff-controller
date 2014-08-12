@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock Richochet
+                 InputAnalyzer: Dd,Dc,Da,Db,Dc,P,Dd,Dc
+      PoliticallyCorrectGunman: Dc,Sd,N,Dc,Sc,N,Sa,N
+                         Spock: Sd,N,Sd,N,Sd,N,N,N
+                     Richochet: Sc,N,Sc,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: 2
+                         Spock: -1
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: Richochet InputAnalyzer Spock
+Spock: Richochet InputAnalyzer PoliticallyCorrectGunman
+Richochet: Spock InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 07:32:38.991048110 UTC

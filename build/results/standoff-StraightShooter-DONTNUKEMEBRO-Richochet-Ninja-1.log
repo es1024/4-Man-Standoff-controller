@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Richochet Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 DONTNUKEMEBRO: Dd,Dc,Sc,N,Sc,N,Da,Da,Da,Da,Da,N,N
+                     Richochet: Sb,N,Sb,N,Sd,N,Sa,N,Sa,N,Sb,N,Sa
+                         Ninja: Dc,Dd,Dd,Db,Db,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                     Richochet: 1
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Ninja DONTNUKEMEBRO
+DONTNUKEMEBRO: Richochet Ninja StraightShooter
+Richochet: DONTNUKEMEBRO Ninja StraightShooter
+Ninja: DONTNUKEMEBRO Richochet StraightShooter
+Generated: 2014/08/12 07:05:03.335868258 UTC

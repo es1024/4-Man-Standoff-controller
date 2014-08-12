@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor TwentyFourthsAndAHalfCentury EmoCowboy
+                        Coward: Sc,N
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: Db,Db
+                     EmoCowboy: Sd,N
+Final Health:
+                        Coward: -3
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: EmoCowboy Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Coward Aggressor
+EmoCowboy: TwentyFourthsAndAHalfCentury Coward Aggressor
+Generated: 2014/08/12 05:52:27.446691493 UTC

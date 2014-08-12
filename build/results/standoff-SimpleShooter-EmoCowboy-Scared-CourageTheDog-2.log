@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter EmoCowboy Scared CourageTheDog
+                 SimpleShooter: Sc,N,Sd,N,Sd,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N
+                        Scared: Sa,N,Sd,N,Sd,N,N
+                 CourageTheDog: Sb,N,Dc,Sc,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                     EmoCowboy: -4
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog EmoCowboy Scared
+EmoCowboy: CourageTheDog SimpleShooter Scared
+Scared: CourageTheDog SimpleShooter EmoCowboy
+CourageTheDog: Scared SimpleShooter EmoCowboy
+Generated: 2014/08/12 08:22:32.408904678 UTC

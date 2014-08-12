@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,Sc,N,P,Sc,N
+                      Zaenille: Sc,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Db,Da,N,Da,N,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille TwentyFourthsAndAHalfCentury InputAnalyzer
+InputAnalyzer: Zaenille TwentyFourthsAndAHalfCentury StraightShooter
+Zaenille: InputAnalyzer TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: InputAnalyzer Zaenille StraightShooter
+Generated: 2014/08/12 09:37:09.647468935 UTC

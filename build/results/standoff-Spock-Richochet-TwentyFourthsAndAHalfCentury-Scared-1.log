@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet TwentyFourthsAndAHalfCentury Scared
+                         Spock: Sc,N,Sc,N,Sc,N,Sb,N
+                     Richochet: Sa,N,Sa,N,Sc,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Db,N,Dd,N,N,N
+                        Scared: Sc,N,Sb,N,Sb,N,N,Sa
+Final Health:
+                         Spock: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -3
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: TwentyFourthsAndAHalfCentury Scared Richochet
+Richochet: TwentyFourthsAndAHalfCentury Scared Spock
+TwentyFourthsAndAHalfCentury: Richochet Scared Spock
+Scared: Richochet TwentyFourthsAndAHalfCentury Spock
+Generated: 2014/08/12 07:00:57.470274203 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Zaenille Scared
+               StraightShooter: Sc,N,Sc,N,Sc
+                       HanSolo: Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                        Scared: Sb,N,Sb,N,Sb
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                      Zaenille: -4
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Zaenille Scared
+HanSolo: StraightShooter Zaenille Scared
+Zaenille: StraightShooter HanSolo Scared
+Scared: StraightShooter HanSolo Zaenille
+Generated: 2014/08/12 07:40:54.635269736 UTC

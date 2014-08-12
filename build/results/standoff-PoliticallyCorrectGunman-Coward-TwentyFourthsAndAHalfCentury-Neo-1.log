@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury Neo
+      PoliticallyCorrectGunman: Db,Sc,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,Dd,Dd,Dd,Db,Dd,Dd,Dd,Db,Sb,N,Sb
+                           Neo: N,N,N,N,N,Da,N,Dc,Dc,Dc,Dc,Dc,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Neo Coward
+Coward: TwentyFourthsAndAHalfCentury Neo PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Coward Neo PoliticallyCorrectGunman
+Neo: Coward TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 10:49:12.634183156 UTC

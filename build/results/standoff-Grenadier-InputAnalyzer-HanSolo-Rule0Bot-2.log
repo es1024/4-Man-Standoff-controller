@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer HanSolo Rule0Bot
+                     Grenadier: N,N,P,N,N
+                 InputAnalyzer: Dd,P,Dd,N,N
+                       HanSolo: Sd,N,Sd,N,Sa
+                      Rule0Bot: N,N,Sb,N,N
+Final Health:
+                     Grenadier: -6
+                 InputAnalyzer: -1
+                       HanSolo: -1
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot InputAnalyzer HanSolo
+InputAnalyzer: Rule0Bot Grenadier HanSolo
+HanSolo: Rule0Bot Grenadier InputAnalyzer
+Rule0Bot: HanSolo Grenadier InputAnalyzer
+Generated: 2014/08/12 06:51:07.985489991 UTC

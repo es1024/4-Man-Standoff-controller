@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Neo CourageTheDog
+                         Spock: Sc,N,Sc,N,N,Sc,N,N,N,N,Sb,N,Sc,N,Sc,N,Sc,N,N,N,Sc
+                        Monkey: N,N,Db,Sc,N,N,N,N,N,Db,Db,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Da,Dc,Sb,N,Db,Sb,N,Da,Da,Da,Da,Da,Da,Sa,N,Da,Sa
+Final Health:
+                         Spock: -1
+                        Monkey: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Neo CourageTheDog Monkey
+Monkey: Neo CourageTheDog Spock
+Neo: Monkey CourageTheDog Spock
+CourageTheDog: Monkey Neo Spock
+Generated: 2014/08/12 06:44:27.342872265 UTC

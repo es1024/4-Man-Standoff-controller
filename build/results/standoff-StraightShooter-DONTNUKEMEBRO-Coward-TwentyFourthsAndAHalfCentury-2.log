@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Coward TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N
+                 DONTNUKEMEBRO: Dc,Dc,P,N,N,N
+                        Coward: Sb,N,Sb,N,Sa,N
+  TwentyFourthsAndAHalfCentury: N,Db,Db,N,Dc,Sc
+Final Health:
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -7
+                        Coward: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO Coward
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury StraightShooter Coward
+Coward: TwentyFourthsAndAHalfCentury StraightShooter DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: Coward StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 07:48:13.258255480 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Da,Db,Sb,N,Sb,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,Da,Db,Da,Da
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -2
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+StraightShooter: Grenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: Grenadier StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Grenadier StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 09:07:51.001350404 UTC

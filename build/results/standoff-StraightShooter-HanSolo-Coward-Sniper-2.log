@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Coward Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sa,N,Sa,N,Sd
+                        Sniper: Sc,N,Sb,N,N,N,N,Sa,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -5
+                        Coward: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper HanSolo Coward
+HanSolo: Sniper StraightShooter Coward
+Coward: Sniper StraightShooter HanSolo
+Sniper: Coward StraightShooter HanSolo
+Generated: 2014/08/12 07:25:50.785380590 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury EmoCowboy
+      PoliticallyCorrectGunman: Sa,N
+                     Aggressor: P,Tc
+  TwentyFourthsAndAHalfCentury: Db,Sb
+                     EmoCowboy: Sd,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury EmoCowboy Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury EmoCowboy PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Aggressor EmoCowboy PoliticallyCorrectGunman
+EmoCowboy: Aggressor TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 07:05:43.398903193 UTC

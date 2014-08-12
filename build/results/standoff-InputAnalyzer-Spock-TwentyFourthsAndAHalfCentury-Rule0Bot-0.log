@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock TwentyFourthsAndAHalfCentury Rule0Bot
+                 InputAnalyzer: Db,Dd,P,Da,N,N,N
+                         Spock: N,N,N,Sa,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Sa,N,Sb,N,Sd
+                      Rule0Bot: N,N,N,Sa,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                         Spock: 0
+  TwentyFourthsAndAHalfCentury: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock TwentyFourthsAndAHalfCentury Rule0Bot
+Spock: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: InputAnalyzer Spock Rule0Bot
+Rule0Bot: InputAnalyzer Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:33:36.428284666 UTC

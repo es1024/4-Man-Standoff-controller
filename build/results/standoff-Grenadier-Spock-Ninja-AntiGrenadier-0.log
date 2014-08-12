@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Ninja AntiGrenadier
+                     Grenadier: N,P,Tb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Dd,Dc,Db,Da,Dc,Da,Dd,Db,Da,Da,Db,Da,Db,Dd,Db,Da,Da,Dd,Db,Db,Dd,Dc,Dd,Da,Db,Da,Da,Dc,Dd,Db,Db,Dd,Dc,Dd,Db,Dd,Db,Da,Dc,Dd,Dc,Da,Db,Dd,Dc,Da,Dd,Dc
+                 AntiGrenadier: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                         Spock: -3
+                         Ninja: -18
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Ninja AntiGrenadier
+Spock: Grenadier Ninja AntiGrenadier
+Ninja: Grenadier Spock AntiGrenadier
+AntiGrenadier: Grenadier Spock Ninja
+Generated: 2014/08/12 09:39:33.301126268 UTC

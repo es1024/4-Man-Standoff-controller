@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Zaenille TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sa,N,Sa,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Da,Da,Da,Da,Sb,N,Sb,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille TwentyFourthsAndAHalfCentury Richochet
+Richochet: Zaenille TwentyFourthsAndAHalfCentury Pacifist
+Zaenille: Richochet TwentyFourthsAndAHalfCentury Pacifist
+TwentyFourthsAndAHalfCentury: Richochet Zaenille Pacifist
+Generated: 2014/08/12 09:32:54.837423267 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Bomberman Sniper
+                 InputAnalyzer: Dc,Db,Da,Db,P,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                      Zaenille: -2
+                     Bomberman: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Sniper Zaenille
+Zaenille: Bomberman Sniper InputAnalyzer
+Bomberman: Zaenille Sniper InputAnalyzer
+Sniper: Zaenille Bomberman InputAnalyzer
+Generated: 2014/08/12 10:23:18.829210502 UTC

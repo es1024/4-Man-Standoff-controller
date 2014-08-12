@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Monkey AntiGrenadier
+                     Richochet: Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -4
+                        Monkey: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: AntiGrenadier Zaenille Monkey
+Zaenille: AntiGrenadier Richochet Monkey
+Monkey: AntiGrenadier Richochet Zaenille
+AntiGrenadier: Monkey Richochet Zaenille
+Generated: 2014/08/12 07:15:51.824631232 UTC

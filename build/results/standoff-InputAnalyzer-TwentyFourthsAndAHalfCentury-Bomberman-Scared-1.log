@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Bomberman Scared
+                 InputAnalyzer: Dc,Db,P,Sc,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 0
+                     Bomberman: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Scared InputAnalyzer
+Bomberman: TwentyFourthsAndAHalfCentury Scared InputAnalyzer
+Scared: TwentyFourthsAndAHalfCentury Bomberman InputAnalyzer
+Generated: 2014/08/12 10:04:10.636004627 UTC

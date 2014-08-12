@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Bomberman Ninja
+      PoliticallyCorrectGunman: Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sc,N,Sc,N,Sa,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dc,Da,Db,Da,Db,Da,Dc,Dd,Dc,Dd,Dc,Dd,Da,Db,Db,Da,Db,Db,Da,Dc,Da
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 5
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Richochet Bomberman
+Richochet: Ninja PoliticallyCorrectGunman Bomberman
+Bomberman: Ninja PoliticallyCorrectGunman Richochet
+Ninja: Bomberman PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 08:06:15.135211593 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Ninja AntiGrenadier
+                     Aggressor: P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,Sa,N,N,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+                         Ninja: Da,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+Final Health:
+                     Aggressor: 0
+                        Monkey: -18
+                         Ninja: -3
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Ninja AntiGrenadier Monkey
+Monkey: Ninja AntiGrenadier Aggressor
+Ninja: Monkey AntiGrenadier Aggressor
+AntiGrenadier: Monkey Ninja Aggressor
+Generated: 2014/08/12 08:07:50.521131490 UTC

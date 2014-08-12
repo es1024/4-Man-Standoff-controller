@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Richochet EmoCowboy
+                       HanSolo: Sd,N,N
+                     Aggressor: P,Ta,Sc
+                     Richochet: Sd,N,Sb
+                     EmoCowboy: N,N,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 0
+                     Richochet: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Aggressor Richochet
+Aggressor: EmoCowboy HanSolo Richochet
+Richochet: EmoCowboy HanSolo Aggressor
+EmoCowboy: Richochet HanSolo Aggressor
+Generated: 2014/08/12 10:18:23.959220599 UTC

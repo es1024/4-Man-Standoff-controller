@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+                     Grenadier: P,Tc
+                     Richochet: Sd,N
+  TwentyFourthsAndAHalfCentury: Db,Da
+                 CourageTheDog: Sb,N
+Final Health:
+                     Grenadier: 2
+                     Richochet: 0
+  TwentyFourthsAndAHalfCentury: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+Richochet: Grenadier TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: Grenadier Richochet CourageTheDog
+CourageTheDog: Grenadier Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:07:42.041230229 UTC

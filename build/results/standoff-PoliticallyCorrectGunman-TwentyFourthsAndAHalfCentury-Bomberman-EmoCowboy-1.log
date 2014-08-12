@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman EmoCowboy
+      PoliticallyCorrectGunman: N,N,Sc,N,Sd,N,N,N,N,N,N,N,N,N,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Da,Sc,N,Sa,N,Sc,N,N,N,N,N,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman EmoCowboy TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman EmoCowboy PoliticallyCorrectGunman
+Bomberman: TwentyFourthsAndAHalfCentury EmoCowboy PoliticallyCorrectGunman
+EmoCowboy: TwentyFourthsAndAHalfCentury Bomberman PoliticallyCorrectGunman
+Generated: 2014/08/12 08:13:00.580876788 UTC

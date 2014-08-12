@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot Scared
+                 InputAnalyzer: Dc,Db,P,N,Db
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,Dc,Da
+                      Rule0Bot: N,N,N,Sa,N
+                        Scared: Sb,N,Sc,N,Sa
+Final Health:
+                 InputAnalyzer: -5
+  TwentyFourthsAndAHalfCentury: 0
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Scared InputAnalyzer
+Rule0Bot: TwentyFourthsAndAHalfCentury Scared InputAnalyzer
+Scared: TwentyFourthsAndAHalfCentury Rule0Bot InputAnalyzer
+Generated: 2014/08/12 08:39:44.330126011 UTC

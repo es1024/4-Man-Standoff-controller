@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Zaenille Bomberman
+                 InputAnalyzer: Db,Dd,Sa,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                     Richochet: 5
+                      Zaenille: -4
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Zaenille Bomberman
+Richochet: InputAnalyzer Zaenille Bomberman
+Zaenille: InputAnalyzer Richochet Bomberman
+Bomberman: InputAnalyzer Richochet Zaenille
+Generated: 2014/08/12 08:17:42.292551425 UTC

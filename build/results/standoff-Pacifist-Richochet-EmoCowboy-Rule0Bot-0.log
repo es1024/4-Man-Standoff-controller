@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet EmoCowboy Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sd,N,Sc,N,Sa,N,Sa,N,Sd
+                     EmoCowboy: N,N,N,N,N,N,N,N,Sc,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet EmoCowboy Rule0Bot
+Richochet: Pacifist EmoCowboy Rule0Bot
+EmoCowboy: Pacifist Richochet Rule0Bot
+Rule0Bot: Pacifist Richochet EmoCowboy
+Generated: 2014/08/12 10:20:12.402202421 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey Rule0Bot Scared
+                        Coward: Sd,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb
+                        Monkey: N,N,N,Sd,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                        Monkey: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey Rule0Bot Scared
+Monkey: Coward Rule0Bot Scared
+Rule0Bot: Coward Monkey Scared
+Scared: Coward Monkey Rule0Bot
+Generated: 2014/08/12 06:16:45.493411709 UTC

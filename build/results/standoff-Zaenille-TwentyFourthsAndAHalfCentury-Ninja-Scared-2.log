@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Ninja Scared
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dc,Dc,Dc,Dc,Dd,Dc,Dc,Dc,Dd,N,N,N,N,N
+                         Ninja: Db,Dc,Dc,Dd,Db,Da,Dd,Dd,Da,Db,Db,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,N,N,N,Sb
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Scared TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Scared Zaenille Ninja
+Ninja: Scared Zaenille TwentyFourthsAndAHalfCentury
+Scared: Ninja Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:03:30.363512355 UTC

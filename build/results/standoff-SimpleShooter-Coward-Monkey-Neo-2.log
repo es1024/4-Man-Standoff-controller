@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Monkey Neo
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N
+                        Coward: Sc,N,Sc,N,Sa,N,Sa,N
+                        Monkey: N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Db,Sa,N,Sb
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+                        Monkey: -1
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Coward Monkey
+Coward: Neo SimpleShooter Monkey
+Monkey: Neo SimpleShooter Coward
+Neo: Monkey SimpleShooter Coward
+Generated: 2014/08/12 06:38:08.608084939 UTC

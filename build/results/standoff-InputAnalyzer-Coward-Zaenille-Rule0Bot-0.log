@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Zaenille Rule0Bot
+                 InputAnalyzer: Db,Sd,N,Dd,P,Da,Dd
+                        Coward: Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                        Coward: 2
+                      Zaenille: -2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Zaenille Rule0Bot
+Coward: InputAnalyzer Zaenille Rule0Bot
+Zaenille: InputAnalyzer Coward Rule0Bot
+Rule0Bot: InputAnalyzer Coward Zaenille
+Generated: 2014/08/12 10:05:16.457119200 UTC

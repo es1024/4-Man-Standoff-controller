@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Zaenille TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Richochet: Sc,N,Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille TwentyFourthsAndAHalfCentury Richochet
+Richochet: Zaenille TwentyFourthsAndAHalfCentury StraightShooter
+Zaenille: Richochet TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: Richochet Zaenille StraightShooter
+Generated: 2014/08/12 10:16:18.263430959 UTC

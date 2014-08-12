@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Ninja Scared
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,N,N,N,N,N,N,Sa,N,N,N,N,Sa
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -2
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille Ninja Scared
+Zaenille: StraightShooter Ninja Scared
+Ninja: StraightShooter Zaenille Scared
+Scared: StraightShooter Zaenille Ninja
+Generated: 2014/08/12 09:55:49.622077800 UTC

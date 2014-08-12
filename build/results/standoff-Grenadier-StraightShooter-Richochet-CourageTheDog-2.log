@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Richochet CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 CourageTheDog: Sa,N,Sb,N,Db,Dc,Sc,N,Dc,Dc,Dc,Sc,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -1
+                     Richochet: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog StraightShooter Richochet
+StraightShooter: CourageTheDog Grenadier Richochet
+Richochet: CourageTheDog Grenadier StraightShooter
+CourageTheDog: Richochet Grenadier StraightShooter
+Generated: 2014/08/12 06:06:55.048959439 UTC

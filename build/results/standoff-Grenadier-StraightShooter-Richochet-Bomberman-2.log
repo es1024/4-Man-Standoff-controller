@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Richochet Bomberman
+                     Grenadier: P,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa
+                     Richochet: Sa,N,Sa,N,Sd,N,Sb
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -9
+               StraightShooter: 0
+                     Richochet: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman StraightShooter Richochet
+StraightShooter: Bomberman Grenadier Richochet
+Richochet: Bomberman Grenadier StraightShooter
+Bomberman: Richochet Grenadier StraightShooter
+Generated: 2014/08/12 06:12:14.526023986 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Rule0Bot Neo
+      PoliticallyCorrectGunman: N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,Dc,Dc,N,N,Dc,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                        Coward: 5
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Neo Coward
+Coward: Rule0Bot Neo PoliticallyCorrectGunman
+Rule0Bot: Coward Neo PoliticallyCorrectGunman
+Neo: Coward Rule0Bot PoliticallyCorrectGunman
+Generated: 2014/08/12 06:51:42.802653659 UTC

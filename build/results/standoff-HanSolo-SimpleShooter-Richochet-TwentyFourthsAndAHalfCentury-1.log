@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Richochet TwentyFourthsAndAHalfCentury
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sb
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sa
+                     Richochet: Sb,N,Sd,N,Sd,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Da,N,Db,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet TwentyFourthsAndAHalfCentury SimpleShooter
+SimpleShooter: Richochet TwentyFourthsAndAHalfCentury HanSolo
+Richochet: SimpleShooter TwentyFourthsAndAHalfCentury HanSolo
+TwentyFourthsAndAHalfCentury: SimpleShooter Richochet HanSolo
+Generated: 2014/08/12 07:39:56.831565133 UTC

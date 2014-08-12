@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Zaenille Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                        Monkey: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Monkey PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Zaenille Monkey Pacifist
+Zaenille: PoliticallyCorrectGunman Monkey Pacifist
+Monkey: PoliticallyCorrectGunman Zaenille Pacifist
+Generated: 2014/08/12 08:15:45.385031934 UTC

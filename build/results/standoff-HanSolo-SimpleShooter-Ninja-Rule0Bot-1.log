@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Ninja Rule0Bot
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,Sc,N,Sa
+                         Ninja: Da,Db,Dd,Da,Da,Dd,Da,Da,Dd,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Rule0Bot SimpleShooter
+SimpleShooter: Ninja Rule0Bot HanSolo
+Ninja: SimpleShooter Rule0Bot HanSolo
+Rule0Bot: SimpleShooter Ninja HanSolo
+Generated: 2014/08/12 07:29:54.506126267 UTC

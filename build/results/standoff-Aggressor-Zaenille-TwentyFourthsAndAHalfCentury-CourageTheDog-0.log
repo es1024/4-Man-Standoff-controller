@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+  TwentyFourthsAndAHalfCentury: Dd,Da
+                 CourageTheDog: Sa,N
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+Zaenille: Aggressor TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: Aggressor Zaenille CourageTheDog
+CourageTheDog: Aggressor Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:07:07.908153720 UTC

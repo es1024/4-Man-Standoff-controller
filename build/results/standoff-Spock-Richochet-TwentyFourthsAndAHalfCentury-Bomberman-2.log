@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet TwentyFourthsAndAHalfCentury Bomberman
+                         Spock: N,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                     Richochet: Sc,N,Sc,N,Sd,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,Dd,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman Richochet TwentyFourthsAndAHalfCentury
+Richochet: Bomberman Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Spock Richochet
+Bomberman: TwentyFourthsAndAHalfCentury Spock Richochet
+Generated: 2014/08/12 09:56:08.140547953 UTC

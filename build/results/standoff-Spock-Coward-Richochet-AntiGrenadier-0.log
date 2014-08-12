@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Richochet AntiGrenadier
+                         Spock: Sb,N,Sb,N,Sb,N,Sb
+                        Coward: Sd,N,Sd,N,Dd,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: -1
+                     Richochet: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Richochet AntiGrenadier
+Coward: Spock Richochet AntiGrenadier
+Richochet: Spock Coward AntiGrenadier
+AntiGrenadier: Spock Coward Richochet
+Generated: 2014/08/12 10:25:12.704162886 UTC

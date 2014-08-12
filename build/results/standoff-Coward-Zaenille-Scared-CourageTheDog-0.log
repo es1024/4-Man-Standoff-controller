@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Scared CourageTheDog
+                        Coward: Sd,N,Sd,N,Dc
+                      Zaenille: Sb,N,N,N,N
+                        Scared: Sa,N,Sd,N,Sd
+                 CourageTheDog: Sa,N,Dc,Dc,Sa
+Final Health:
+                        Coward: -1
+                      Zaenille: -2
+                        Scared: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille Scared CourageTheDog
+Zaenille: Coward Scared CourageTheDog
+Scared: Coward Zaenille CourageTheDog
+CourageTheDog: Coward Zaenille Scared
+Generated: 2014/08/12 06:27:54.188362835 UTC

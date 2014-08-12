@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock EmoCowboy Sniper
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                     EmoCowboy: -4
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Spock EmoCowboy
+Spock: Sniper HanSolo EmoCowboy
+EmoCowboy: Sniper HanSolo Spock
+Sniper: EmoCowboy HanSolo Spock
+Generated: 2014/08/12 09:59:53.927372061 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Aggressor Sniper
+                     Grenadier: P,Td
+                      Pacifist: N,N
+                     Aggressor: P,Td
+                        Sniper: Sa,N
+Final Health:
+                     Grenadier: -3
+                      Pacifist: -1
+                     Aggressor: -1
+                        Sniper: -11
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Pacifist Aggressor
+Pacifist: Sniper Grenadier Aggressor
+Aggressor: Sniper Grenadier Pacifist
+Sniper: Aggressor Grenadier Pacifist
+Generated: 2014/08/12 07:11:45.084362852 UTC

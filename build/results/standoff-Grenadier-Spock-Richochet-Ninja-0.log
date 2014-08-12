@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Richochet Ninja
+                     Grenadier: P,Tc
+                         Spock: Sa,N
+                     Richochet: Sb,N
+                         Ninja: Db,Dc
+Final Health:
+                     Grenadier: 0
+                         Spock: 0
+                     Richochet: -3
+                         Ninja: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Richochet Ninja
+Spock: Grenadier Richochet Ninja
+Richochet: Grenadier Spock Ninja
+Ninja: Grenadier Spock Richochet
+Generated: 2014/08/12 10:35:01.211420886 UTC

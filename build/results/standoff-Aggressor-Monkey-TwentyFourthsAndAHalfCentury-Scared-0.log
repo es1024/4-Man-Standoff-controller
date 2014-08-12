@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey TwentyFourthsAndAHalfCentury Scared
+                     Aggressor: P,Tb,N
+                        Monkey: N,N,N
+  TwentyFourthsAndAHalfCentury: N,Dd,Sd
+                        Scared: N,Sa,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: -3
+  TwentyFourthsAndAHalfCentury: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Monkey TwentyFourthsAndAHalfCentury Scared
+Monkey: Aggressor TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Aggressor Monkey Scared
+Scared: Aggressor Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:13:48.024139585 UTC

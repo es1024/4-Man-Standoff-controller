@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer DONTNUKEMEBRO Coward
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,P,Sb,N,N,N,N
+                 DONTNUKEMEBRO: Da,Da,Sb,N,Da,Da,Db
+                        Coward: Sb,N,Sb,N,Sa,N,Sc
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -12
+                 DONTNUKEMEBRO: 0
+                        Coward: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: Coward Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: Coward Pacifist InputAnalyzer
+Coward: DONTNUKEMEBRO Pacifist InputAnalyzer
+Generated: 2014/08/12 06:34:51.298961904 UTC

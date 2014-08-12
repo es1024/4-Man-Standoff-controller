@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury AntiGrenadier Sniper
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury AntiGrenadier Sniper
+TwentyFourthsAndAHalfCentury: Coward AntiGrenadier Sniper
+AntiGrenadier: Coward TwentyFourthsAndAHalfCentury Sniper
+Sniper: Coward TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 08:26:28.678336062 UTC

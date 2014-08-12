@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot Scared
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dd,Dc,Dc,Dc,Da,N,Da,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sa,N,Sc,N,Sb,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Rule0Bot Scared
+TwentyFourthsAndAHalfCentury: SimpleShooter Rule0Bot Scared
+Rule0Bot: SimpleShooter TwentyFourthsAndAHalfCentury Scared
+Scared: SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot
+Generated: 2014/08/12 08:19:06.375361312 UTC

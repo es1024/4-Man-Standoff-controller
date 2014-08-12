@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman Rule0Bot Neo
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -1
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo Bomberman Rule0Bot
+Bomberman: Neo HanSolo Rule0Bot
+Rule0Bot: Neo HanSolo Bomberman
+Neo: Rule0Bot HanSolo Bomberman
+Generated: 2014/08/12 08:09:29.681354480 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet AntiGrenadier Scared
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb
+                     Richochet: Sc,N,Sc,N,Sd,N,Sc,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sa,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+                 AntiGrenadier: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Richochet AntiGrenadier
+Richochet: Scared HanSolo AntiGrenadier
+AntiGrenadier: Scared HanSolo Richochet
+Scared: AntiGrenadier HanSolo Richochet
+Generated: 2014/08/12 08:48:22.819508134 UTC

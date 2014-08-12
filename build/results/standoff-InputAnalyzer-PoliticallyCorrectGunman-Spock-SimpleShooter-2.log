@@ -1,16 +1,16 @@
 Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock SimpleShooter
-                 InputAnalyzer: Dd,Da,P,N,N
-      PoliticallyCorrectGunman: Sc,N,N,Sb,N
-                         Spock: Sd,N,Sd,N,Sd
-                 SimpleShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Dc,Da,P,Db,N
+      PoliticallyCorrectGunman: Da,N,Sd,N,Da,Dc
+                         Spock: Sd,N,Sd,N,Sa,N
+                 SimpleShooter: Sb,N,Sa,N,N,N
 Final Health:
-                 InputAnalyzer: -1
-      PoliticallyCorrectGunman: -2
-                         Spock: 0
-                 SimpleShooter: -4
+                 InputAnalyzer: -5
+      PoliticallyCorrectGunman: 0
+                         Spock: 2
+                 SimpleShooter: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 InputAnalyzer: SimpleShooter PoliticallyCorrectGunman Spock
 PoliticallyCorrectGunman: SimpleShooter InputAnalyzer Spock
 Spock: SimpleShooter InputAnalyzer PoliticallyCorrectGunman
 SimpleShooter: Spock InputAnalyzer PoliticallyCorrectGunman
-Generated: 2014/08/11 00:58:39.810805840 UTC
+Generated: 2014/08/12 09:43:43.045411874 UTC

@@ -1,11 +1,11 @@
 Standoff between: StraightShooter InputAnalyzer HanSolo DONTNUKEMEBRO
-               StraightShooter: Sc,N,Sc
-                 InputAnalyzer: Da,P,Sb
-                       HanSolo: Sa,N,Sa
-                 DONTNUKEMEBRO: Dc,Dc,Sb
+               StraightShooter: Sc,N,Sc,N
+                 InputAnalyzer: Da,P,Db,N
+                       HanSolo: Sa,N,Sa,N
+                 DONTNUKEMEBRO: Da,Da,Sb,N
 Final Health:
                StraightShooter: -2
-                 InputAnalyzer: -10
+                 InputAnalyzer: -3
                        HanSolo: -2
                  DONTNUKEMEBRO: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
@@ -13,4 +13,4 @@ StraightShooter: InputAnalyzer HanSolo DONTNUKEMEBRO
 InputAnalyzer: StraightShooter HanSolo DONTNUKEMEBRO
 HanSolo: StraightShooter InputAnalyzer DONTNUKEMEBRO
 DONTNUKEMEBRO: StraightShooter InputAnalyzer HanSolo
-Generated: 2014/08/11 00:58:54.986086169 UTC
+Generated: 2014/08/12 07:33:58.069269660 UTC

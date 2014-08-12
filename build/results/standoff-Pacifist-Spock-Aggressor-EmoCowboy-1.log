@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Aggressor EmoCowboy
+                      Pacifist: N,N
+                         Spock: Sc,N
+                     Aggressor: P,Tb
+                     EmoCowboy: Sd,N
+Final Health:
+                      Pacifist: 2
+                         Spock: -3
+                     Aggressor: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor EmoCowboy Spock
+Spock: Aggressor EmoCowboy Pacifist
+Aggressor: Spock EmoCowboy Pacifist
+EmoCowboy: Spock Aggressor Pacifist
+Generated: 2014/08/12 07:12:33.055635135 UTC

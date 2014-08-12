@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock EmoCowboy Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+                         Spock: Sc,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 3
+                     EmoCowboy: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Scared Spock
+Spock: EmoCowboy Scared StraightShooter
+EmoCowboy: Spock Scared StraightShooter
+Scared: Spock EmoCowboy StraightShooter
+Generated: 2014/08/12 08:14:51.970368825 UTC

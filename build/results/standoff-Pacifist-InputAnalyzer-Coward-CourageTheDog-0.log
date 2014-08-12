@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Coward CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Sd,N,Dd,Da,Dd,Sc,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa
+                 CourageTheDog: Sb,N,Da,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -1
+                        Coward: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Coward CourageTheDog
+InputAnalyzer: Pacifist Coward CourageTheDog
+Coward: Pacifist InputAnalyzer CourageTheDog
+CourageTheDog: Pacifist InputAnalyzer Coward
+Generated: 2014/08/12 05:49:55.538392401 UTC

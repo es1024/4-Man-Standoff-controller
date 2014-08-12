@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Richochet Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Richochet: Sd,N,Sb,N,Sa,N,Sb,N,Sa,N,Sa,N,Sb
+                           Neo: N,N,Da,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                     Richochet: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Neo StraightShooter
+StraightShooter: Richochet Neo Pacifist
+Richochet: StraightShooter Neo Pacifist
+Neo: StraightShooter Richochet Pacifist
+Generated: 2014/08/12 08:46:01.879059732 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock EmoCowboy Ninja
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Spock: N,Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: N,Sc,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Dd,Da,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Spock EmoCowboy
+Spock: Ninja HanSolo EmoCowboy
+EmoCowboy: Ninja HanSolo Spock
+Ninja: EmoCowboy HanSolo Spock
+Generated: 2014/08/12 10:07:52.890724044 UTC

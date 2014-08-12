@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Richochet CourageTheDog
+               StraightShooter: Sb,N,Sb,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Sa,N,Sa,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sb,N,Sd,N,Sd
+                 CourageTheDog: Sa,N,Sc,N,Db,Sc,N,Dc,Sc
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                     Richochet: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: CourageTheDog StraightShooter Richochet
+Richochet: CourageTheDog StraightShooter DONTNUKEMEBRO
+CourageTheDog: Richochet StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 08:37:26.385500967 UTC

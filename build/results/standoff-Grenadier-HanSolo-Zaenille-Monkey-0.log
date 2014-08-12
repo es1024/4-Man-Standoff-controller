@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Zaenille Monkey
+                     Grenadier: N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                        Monkey: N,Sa,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                       HanSolo: 5
+                      Zaenille: -2
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Zaenille Monkey
+HanSolo: Grenadier Zaenille Monkey
+Zaenille: Grenadier HanSolo Monkey
+Monkey: Grenadier HanSolo Zaenille
+Generated: 2014/08/12 09:33:30.438088354 UTC

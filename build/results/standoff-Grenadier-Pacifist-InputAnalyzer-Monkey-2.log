@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist InputAnalyzer Monkey
+                     Grenadier: N,N,N,N,N,N,N,N,P,Tb
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Db,P,Sd,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -6
+                 InputAnalyzer: -1
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Pacifist InputAnalyzer
+Pacifist: Monkey Grenadier InputAnalyzer
+InputAnalyzer: Monkey Grenadier Pacifist
+Monkey: InputAnalyzer Grenadier Pacifist
+Generated: 2014/08/12 07:03:05.738572398 UTC

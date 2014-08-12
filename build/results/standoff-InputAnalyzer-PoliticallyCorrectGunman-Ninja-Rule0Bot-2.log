@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Ninja Rule0Bot
+                 InputAnalyzer: Dd,Dc,Dd,P,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Da,Db,Dc,Dd,Dd,Dd,Dc,Dd,Db,Dd,Da,Dc,Dd,Dd,Dc,Dc,Dd,Db,Db,Dc,Dd,Dc,Da,Db,Dc,Db,Dc,Db,Da,Dd,Dc,Dd,Da,Da,Db,Dc,Dc,Dd,Dc,Dc,Dd,Dd,Dc,Dc,Db,Db,Dc,Dc
+                      Rule0Bot: N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: -2
+                         Ninja: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot PoliticallyCorrectGunman Ninja
+PoliticallyCorrectGunman: Rule0Bot InputAnalyzer Ninja
+Ninja: Rule0Bot InputAnalyzer PoliticallyCorrectGunman
+Rule0Bot: Ninja InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 10:11:45.726114924 UTC

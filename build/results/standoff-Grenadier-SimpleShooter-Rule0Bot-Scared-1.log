@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Rule0Bot Scared
+                     Grenadier: N,P,N
+                 SimpleShooter: Sa,N,Sd
+                      Rule0Bot: N,N,Sa
+                        Scared: Sc,N,Sa
+Final Health:
+                     Grenadier: -7
+                 SimpleShooter: 2
+                      Rule0Bot: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Scared SimpleShooter
+SimpleShooter: Rule0Bot Scared Grenadier
+Rule0Bot: SimpleShooter Scared Grenadier
+Scared: SimpleShooter Rule0Bot Grenadier
+Generated: 2014/08/12 05:45:31.215613564 UTC

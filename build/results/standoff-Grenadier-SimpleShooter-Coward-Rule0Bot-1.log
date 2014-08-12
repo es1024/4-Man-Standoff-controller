@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Coward Rule0Bot
+                     Grenadier: P,Tc,N
+                 SimpleShooter: Sa,N,Sd
+                        Coward: Sa,N,N
+                      Rule0Bot: N,Sa,N
+Final Health:
+                     Grenadier: -4
+                 SimpleShooter: 2
+                        Coward: -3
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Rule0Bot SimpleShooter
+SimpleShooter: Coward Rule0Bot Grenadier
+Coward: SimpleShooter Rule0Bot Grenadier
+Rule0Bot: SimpleShooter Coward Grenadier
+Generated: 2014/08/12 06:27:30.971878840 UTC

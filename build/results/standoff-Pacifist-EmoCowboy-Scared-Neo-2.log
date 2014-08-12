@@ -1,0 +1,16 @@
+Standoff between: Pacifist EmoCowboy Scared Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,Sd,N,Sa,N,Sd,N,Sd
+                           Neo: N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Sc,N
+Final Health:
+                      Pacifist: -1
+                     EmoCowboy: -2
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo EmoCowboy Scared
+EmoCowboy: Neo Pacifist Scared
+Scared: Neo Pacifist EmoCowboy
+Neo: Scared Pacifist EmoCowboy
+Generated: 2014/08/12 06:22:24.032289108 UTC

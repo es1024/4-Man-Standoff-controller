@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO SimpleShooter Neo
+                     Grenadier: N,N,N,N,N,N,N,P,N
+                 DONTNUKEMEBRO: Da,Dc,Da,Da,Dd,Da,Sc,N,Sa
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,Sa,N,Sd
+                           Neo: N,N,N,N,N,N,Da,Da,Da
+Final Health:
+                     Grenadier: -7
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 0
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Neo DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Neo Grenadier
+SimpleShooter: DONTNUKEMEBRO Neo Grenadier
+Neo: DONTNUKEMEBRO SimpleShooter Grenadier
+Generated: 2014/08/12 05:54:48.296539604 UTC

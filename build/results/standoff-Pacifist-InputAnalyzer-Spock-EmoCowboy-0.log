@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Spock EmoCowboy
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Da,P,Da,Sd
+                         Spock: N,N,Sa,N
+                     EmoCowboy: Sd,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -1
+                         Spock: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Spock EmoCowboy
+InputAnalyzer: Pacifist Spock EmoCowboy
+Spock: Pacifist InputAnalyzer EmoCowboy
+EmoCowboy: Pacifist InputAnalyzer Spock
+Generated: 2014/08/12 06:13:27.092354168 UTC

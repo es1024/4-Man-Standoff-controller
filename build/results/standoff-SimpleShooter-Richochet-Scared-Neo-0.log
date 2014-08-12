@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Scared Neo
+                 SimpleShooter: Sd,N,Sc,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sc,N,Sc,N,Sd
+                        Scared: Sd,N,Sb,N,N,N,N,N,N
+                           Neo: N,N,N,Sa,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: 3
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Scared Neo
+Richochet: SimpleShooter Scared Neo
+Scared: SimpleShooter Richochet Neo
+Neo: SimpleShooter Richochet Scared
+Generated: 2014/08/12 07:47:08.866169962 UTC

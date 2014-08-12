@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter HanSolo Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sa,N,Sa
+                        Scared: Sc,N,Sa,N,Sc,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                       HanSolo: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Scared StraightShooter
+StraightShooter: HanSolo Scared Pacifist
+HanSolo: StraightShooter Scared Pacifist
+Scared: StraightShooter HanSolo Pacifist
+Generated: 2014/08/12 07:00:37.438221087 UTC

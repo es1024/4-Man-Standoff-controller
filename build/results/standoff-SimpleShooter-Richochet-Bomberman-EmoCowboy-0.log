@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Bomberman EmoCowboy
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sb,N,N
+                     Richochet: Sa,N,Sc,N,Sa,N,Sa,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: 1
+                     Bomberman: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Bomberman EmoCowboy
+Richochet: SimpleShooter Bomberman EmoCowboy
+Bomberman: SimpleShooter Richochet EmoCowboy
+EmoCowboy: SimpleShooter Richochet Bomberman
+Generated: 2014/08/12 10:32:53.360154441 UTC

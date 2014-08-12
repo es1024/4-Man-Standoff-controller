@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Aggressor Scared
+                 InputAnalyzer: Db,Dd,N
+                         Spock: Sa,N,N
+                     Aggressor: P,Ta,Sd
+                        Scared: Sb,N,Sc
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 0
+                     Aggressor: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Aggressor Scared
+Spock: InputAnalyzer Aggressor Scared
+Aggressor: InputAnalyzer Spock Scared
+Scared: InputAnalyzer Spock Aggressor
+Generated: 2014/08/12 08:00:00.623533878 UTC

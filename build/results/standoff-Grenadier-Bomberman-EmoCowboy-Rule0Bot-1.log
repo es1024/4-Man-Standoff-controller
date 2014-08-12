@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman EmoCowboy Rule0Bot
+                     Grenadier: P,Td,P,N,N
+                     Bomberman: N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                      Rule0Bot: N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                     Bomberman: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Rule0Bot Bomberman
+Bomberman: EmoCowboy Rule0Bot Grenadier
+EmoCowboy: Bomberman Rule0Bot Grenadier
+Rule0Bot: Bomberman EmoCowboy Grenadier
+Generated: 2014/08/12 09:41:54.143001385 UTC

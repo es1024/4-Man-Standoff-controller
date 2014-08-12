@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Richochet Bomberman
+                       HanSolo: Sd,N,Sb,N,Sb,N,N
+                         Spock: Sd,N,Sd,N,Sa,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sb
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                     Richochet: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Spock Richochet
+Spock: Bomberman HanSolo Richochet
+Richochet: Bomberman HanSolo Spock
+Bomberman: Richochet HanSolo Spock
+Generated: 2014/08/12 09:57:18.198889089 UTC

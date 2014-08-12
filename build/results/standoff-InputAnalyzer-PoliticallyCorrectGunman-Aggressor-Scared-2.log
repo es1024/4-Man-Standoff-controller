@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Aggressor Scared
+                 InputAnalyzer: Dd,P,Da
+      PoliticallyCorrectGunman: N,Dc,P
+                     Aggressor: P,Td,Sa
+                        Scared: Sa,N,N
+Final Health:
+                 InputAnalyzer: -9
+      PoliticallyCorrectGunman: -7
+                     Aggressor: -4
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared PoliticallyCorrectGunman Aggressor
+PoliticallyCorrectGunman: Scared InputAnalyzer Aggressor
+Aggressor: Scared InputAnalyzer PoliticallyCorrectGunman
+Scared: Aggressor InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 10:08:50.024452741 UTC

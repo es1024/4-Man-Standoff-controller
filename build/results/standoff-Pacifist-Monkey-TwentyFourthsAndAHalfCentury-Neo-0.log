@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey TwentyFourthsAndAHalfCentury Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Dc,Db,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,Sd,N,Sb,N,Sd,N,Sa,N,N,N,N,N,N,Sd,N,Sa,N,Sa,N,Sd,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,Sd
+                           Neo: N,N,N,N,N,N,N,N,Dc,Db,Dc,Db,Dc,Da,Dc,N,N,N,N,N,N,Dc,N,Dc,Da,N,N,Dc,N,N,N,N,N,N,Dc,N,N,N,Dc,Sc,N,N,N,N,N,N,N,N,N,Dc
+Final Health:
+                      Pacifist: -1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -17
+                           Neo: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey TwentyFourthsAndAHalfCentury Neo
+Monkey: Pacifist TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: Pacifist Monkey Neo
+Neo: Pacifist Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:14:19.373948132 UTC

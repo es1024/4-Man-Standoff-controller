@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Rule0Bot CourageTheDog
+               StraightShooter: Sb,N,Sb,N
+                 InputAnalyzer: Dd,P,Sb,N
+                      Rule0Bot: N,N,Sb,N
+                 CourageTheDog: Sc,N,P,Ta
+Final Health:
+               StraightShooter: -6
+                 InputAnalyzer: -12
+                      Rule0Bot: 0
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog InputAnalyzer Rule0Bot
+InputAnalyzer: CourageTheDog StraightShooter Rule0Bot
+Rule0Bot: CourageTheDog StraightShooter InputAnalyzer
+CourageTheDog: Rule0Bot StraightShooter InputAnalyzer
+Generated: 2014/08/12 07:40:50.825162772 UTC

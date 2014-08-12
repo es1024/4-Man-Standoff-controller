@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman Rule0Bot Sniper
+                     Aggressor: P,Tb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: -2
+                     Bomberman: -3
+                      Rule0Bot: -18
+                        Sniper: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman Rule0Bot Sniper
+Bomberman: Aggressor Rule0Bot Sniper
+Rule0Bot: Aggressor Bomberman Sniper
+Sniper: Aggressor Bomberman Rule0Bot
+Generated: 2014/08/12 10:01:08.159238405 UTC

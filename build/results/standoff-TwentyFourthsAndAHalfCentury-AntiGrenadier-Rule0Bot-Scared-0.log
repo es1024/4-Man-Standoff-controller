@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury AntiGrenadier Rule0Bot Scared
+  TwentyFourthsAndAHalfCentury: Dd,Db,N,N,N,N,N,N,N,N,N,Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sb,N,Sa,N,Sb,N,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: AntiGrenadier Rule0Bot Scared
+AntiGrenadier: TwentyFourthsAndAHalfCentury Rule0Bot Scared
+Rule0Bot: TwentyFourthsAndAHalfCentury AntiGrenadier Scared
+Scared: TwentyFourthsAndAHalfCentury AntiGrenadier Rule0Bot
+Generated: 2014/08/12 08:22:25.047458968 UTC

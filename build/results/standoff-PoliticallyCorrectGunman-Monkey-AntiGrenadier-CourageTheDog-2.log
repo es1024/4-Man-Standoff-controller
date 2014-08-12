@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey AntiGrenadier CourageTheDog
+      PoliticallyCorrectGunman: N,Db,N,N,Sc,N,Dd,Dd,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Da,Da,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Da,Da,Da,Dc,Da,Sb,N,Dc,Dc,Dc,Db,Dc,N,Sb,N,Sc,N,Dc,Dc,Sc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                        Monkey: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Monkey AntiGrenadier
+Monkey: CourageTheDog PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: CourageTheDog PoliticallyCorrectGunman Monkey
+CourageTheDog: AntiGrenadier PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 07:08:06.862865700 UTC

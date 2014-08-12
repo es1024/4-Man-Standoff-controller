@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Monkey CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sb,N,Db,Da,Db,Sa,N,Sb,N,Da,Sa,N,Da,Sa
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                        Monkey: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey CourageTheDog HanSolo
+HanSolo: Monkey CourageTheDog Pacifist
+Monkey: HanSolo CourageTheDog Pacifist
+CourageTheDog: HanSolo Monkey Pacifist
+Generated: 2014/08/12 06:31:50.785613746 UTC

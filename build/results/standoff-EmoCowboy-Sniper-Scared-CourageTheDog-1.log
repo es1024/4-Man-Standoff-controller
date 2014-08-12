@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy Sniper Scared CourageTheDog
+                     EmoCowboy: Sa,N,N,N,N,N,N
+                        Sniper: Sd,N,N,N,N,N,N
+                        Scared: Sb,N,Sb,N,Sd,N,Sd
+                 CourageTheDog: Sc,N,Dc,Sb,N,Sc,N
+Final Health:
+                     EmoCowboy: -2
+                        Sniper: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: Scared CourageTheDog Sniper
+Sniper: Scared CourageTheDog EmoCowboy
+Scared: Sniper CourageTheDog EmoCowboy
+CourageTheDog: Sniper Scared EmoCowboy
+Generated: 2014/08/12 07:12:43.556435254 UTC

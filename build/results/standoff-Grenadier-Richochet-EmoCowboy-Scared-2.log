@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet EmoCowboy Scared
+                     Grenadier: P,Td
+                     Richochet: Sc,N
+                     EmoCowboy: Sc,N
+                        Scared: Sb,N
+Final Health:
+                     Grenadier: 2
+                     Richochet: 0
+                     EmoCowboy: -4
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Richochet EmoCowboy
+Richochet: Scared Grenadier EmoCowboy
+EmoCowboy: Scared Grenadier Richochet
+Scared: EmoCowboy Grenadier Richochet
+Generated: 2014/08/12 07:34:14.238928156 UTC

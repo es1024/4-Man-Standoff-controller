@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock TwentyFourthsAndAHalfCentury Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,Dd,Db,Dd,Db,Da,Db,Dd,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,N,N
+Final Health:
+                      Pacifist: 2
+                         Spock: 0
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Bomberman Spock
+Spock: TwentyFourthsAndAHalfCentury Bomberman Pacifist
+TwentyFourthsAndAHalfCentury: Spock Bomberman Pacifist
+Bomberman: Spock TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 07:21:22.936575808 UTC

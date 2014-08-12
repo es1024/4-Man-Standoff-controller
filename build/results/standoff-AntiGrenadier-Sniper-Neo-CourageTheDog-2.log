@@ -1,0 +1,16 @@
+Standoff between: AntiGrenadier Sniper Neo CourageTheDog
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sd,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,N,Dc,Db,Da,Sb,N,Db,Dc,Dc,Dc,Db,Sc,N,Sc,N,Sb,N,Sb
+Final Health:
+                 AntiGrenadier: -1
+                        Sniper: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+AntiGrenadier: CourageTheDog Sniper Neo
+Sniper: CourageTheDog AntiGrenadier Neo
+Neo: CourageTheDog AntiGrenadier Sniper
+CourageTheDog: Neo AntiGrenadier Sniper
+Generated: 2014/08/12 07:06:33.026191371 UTC

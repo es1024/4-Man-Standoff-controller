@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Scared Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Scared: N,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Da,N,N,Db,Da,N,N,Db,N,N,N,N,N,N,N,N,N,N,Da,Db,Da,N,Da,Db,N,N,N,N,N,N,N,N,N,N,N,Db,N,Db,Da,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -17
+               StraightShooter: -17
+                        Scared: -1
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Scared Neo
+StraightShooter: Pacifist Scared Neo
+Scared: Pacifist StraightShooter Neo
+Neo: Pacifist StraightShooter Scared
+Generated: 2014/08/12 06:45:48.939959818 UTC

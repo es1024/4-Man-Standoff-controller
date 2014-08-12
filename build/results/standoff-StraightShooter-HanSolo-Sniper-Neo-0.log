@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Sniper Neo
+               StraightShooter: Sc,N,Sc,N,Sc
+                       HanSolo: Sa,N,Sa,N,N
+                        Sniper: Sb,N,Sb,N,Sa
+                           Neo: N,Sb,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                        Sniper: -1
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Sniper Neo
+HanSolo: StraightShooter Sniper Neo
+Sniper: StraightShooter HanSolo Neo
+Neo: StraightShooter HanSolo Sniper
+Generated: 2014/08/12 08:57:28.944726515 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Rule0Bot Sniper
+                     Grenadier: N,P,Td
+                 InputAnalyzer: Dd,Da,Db
+                      Rule0Bot: N,N,Sa
+                        Sniper: Sc,N,Sb
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: 0
+                      Rule0Bot: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper InputAnalyzer Rule0Bot
+InputAnalyzer: Sniper Grenadier Rule0Bot
+Rule0Bot: Sniper Grenadier InputAnalyzer
+Sniper: Rule0Bot Grenadier InputAnalyzer
+Generated: 2014/08/12 09:24:45.740963413 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman Ninja CourageTheDog
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Dd,Da,Dd,Da,Da,Dd,Da,Db,Dc,Dd,Dd,Da,Dd,Db,Da,Db,Dd,Dc,Dc,Dd,Dc,Dc,Dd,Db,Dc,Dd,Dc,Dd,Da,Dd,Da,Dd,Dc,Db,Da,Da,Dd,Db,Dc,Dc,Db,Da,Dc,Db,Da,Dc,Dc,Dc
+                 CourageTheDog: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 0
+                     Bomberman: -18
+                         Ninja: -18
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Bomberman Ninja
+Bomberman: CourageTheDog Aggressor Ninja
+Ninja: CourageTheDog Aggressor Bomberman
+CourageTheDog: Ninja Aggressor Bomberman
+Generated: 2014/08/12 08:58:32.878857423 UTC

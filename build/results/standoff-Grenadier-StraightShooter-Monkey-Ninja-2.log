@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Monkey Ninja
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,Db,N,Db,Da,Dd,Db,N,Sa,N,Sa,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,Dd,Sa,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Da,Da,Dc,Da,Dd,Db,Da,Db,Dd,Db,Da,Dd,Db,Dc,Dc,Da,Dc,Da,Db,Dd,Db,Da,Dc,Dd,Db,Dd,Db,Dd,Da,Dc,Dd,Dc,Dc,Dd,Dc,Dd,Db,Dc,Da,Dd,Dd,Dc,Da,Dc,Dd,Dc,Da,Db
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -15
+                        Monkey: -15
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja StraightShooter Monkey
+StraightShooter: Ninja Grenadier Monkey
+Monkey: Ninja Grenadier StraightShooter
+Ninja: Monkey Grenadier StraightShooter
+Generated: 2014/08/12 09:20:07.791666858 UTC

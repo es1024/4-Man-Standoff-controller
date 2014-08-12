@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor EmoCowboy Rule0Bot
+               StraightShooter: Sd,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sc,N
+                      Rule0Bot: N,N
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 2
+                     EmoCowboy: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Rule0Bot Aggressor
+Aggressor: EmoCowboy Rule0Bot StraightShooter
+EmoCowboy: Aggressor Rule0Bot StraightShooter
+Rule0Bot: Aggressor EmoCowboy StraightShooter
+Generated: 2014/08/12 08:55:03.154635722 UTC

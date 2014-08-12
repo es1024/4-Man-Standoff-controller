@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Richochet Sniper
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+                 InputAnalyzer: Da,Db,Db,Dd,Sd,N,N
+                     Richochet: Sa,N,Sd,N,Sa,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,Sa
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -1
+                     Richochet: -1
+                        Sniper: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer Richochet Sniper
+InputAnalyzer: StraightShooter Richochet Sniper
+Richochet: StraightShooter InputAnalyzer Sniper
+Sniper: StraightShooter InputAnalyzer Richochet
+Generated: 2014/08/12 07:04:49.758861181 UTC

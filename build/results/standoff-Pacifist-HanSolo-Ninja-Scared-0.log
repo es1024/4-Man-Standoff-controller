@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Ninja Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sd
+                         Ninja: Db,Dd,Dd,Da,Dc,Dd,Da,Db,Db,N,N
+                        Scared: Sb,N,Sc,N,Sc,N,Sb,N,Sc,N,Sb
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                         Ninja: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Ninja Scared
+HanSolo: Pacifist Ninja Scared
+Ninja: Pacifist HanSolo Scared
+Scared: Pacifist HanSolo Ninja
+Generated: 2014/08/12 06:25:05.668687106 UTC

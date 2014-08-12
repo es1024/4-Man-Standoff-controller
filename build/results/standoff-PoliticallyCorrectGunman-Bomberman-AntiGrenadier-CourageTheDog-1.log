@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman AntiGrenadier CourageTheDog
+      PoliticallyCorrectGunman: Sd,N,N,Sd,N,N,N,N,N,N,N,N,Dc,N,Sa,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Sb,N,N,Da,N,Sb,N,Da,Dc,Da,Sb,N,Dc,Sc,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier CourageTheDog Bomberman
+Bomberman: AntiGrenadier CourageTheDog PoliticallyCorrectGunman
+AntiGrenadier: Bomberman CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Bomberman AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 07:38:20.955033288 UTC

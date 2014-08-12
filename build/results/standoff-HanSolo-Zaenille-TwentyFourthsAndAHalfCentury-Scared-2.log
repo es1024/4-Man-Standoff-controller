@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille TwentyFourthsAndAHalfCentury Scared
+                       HanSolo: Sd,N,Sd,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,Dd,N,Da,Sa
+                        Scared: Sc,N,Sa,N,Sa,N
+Final Health:
+                       HanSolo: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 3
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Scared HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared HanSolo Zaenille
+Scared: TwentyFourthsAndAHalfCentury HanSolo Zaenille
+Generated: 2014/08/12 06:41:31.521990291 UTC

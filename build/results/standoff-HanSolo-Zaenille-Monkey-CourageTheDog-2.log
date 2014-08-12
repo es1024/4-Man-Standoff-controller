@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Monkey CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Sd,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Da,Dc,Sc,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                      Zaenille: -4
+                        Monkey: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Zaenille Monkey
+Zaenille: CourageTheDog HanSolo Monkey
+Monkey: CourageTheDog HanSolo Zaenille
+CourageTheDog: Monkey HanSolo Zaenille
+Generated: 2014/08/12 09:13:20.925867283 UTC

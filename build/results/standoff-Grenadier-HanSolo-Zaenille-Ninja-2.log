@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Zaenille Ninja
+                     Grenadier: N,N,N,N,P,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+                         Ninja: Db,Da,Da,Dc,Da,Da,Dc
+Final Health:
+                     Grenadier: -1
+                       HanSolo: 2
+                      Zaenille: -2
+                         Ninja: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja HanSolo Zaenille
+HanSolo: Ninja Grenadier Zaenille
+Zaenille: Ninja Grenadier HanSolo
+Ninja: Zaenille Grenadier HanSolo
+Generated: 2014/08/12 07:07:27.483863214 UTC

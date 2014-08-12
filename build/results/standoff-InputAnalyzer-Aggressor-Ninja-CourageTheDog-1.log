@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Ninja CourageTheDog
+                 InputAnalyzer: Dc,Db,Sc,N
+                     Aggressor: P,Tc,N,N
+                         Ninja: Dd,Dd,N,N
+                 CourageTheDog: Sb,N,Da,Sa
+Final Health:
+                 InputAnalyzer: 0
+                     Aggressor: 0
+                         Ninja: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja CourageTheDog Aggressor
+Aggressor: Ninja CourageTheDog InputAnalyzer
+Ninja: Aggressor CourageTheDog InputAnalyzer
+CourageTheDog: Aggressor Ninja InputAnalyzer
+Generated: 2014/08/12 08:23:03.878375704 UTC

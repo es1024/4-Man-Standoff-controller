@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter EmoCowboy AntiGrenadier
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter EmoCowboy AntiGrenadier
+SimpleShooter: StraightShooter EmoCowboy AntiGrenadier
+EmoCowboy: StraightShooter SimpleShooter AntiGrenadier
+AntiGrenadier: StraightShooter SimpleShooter EmoCowboy
+Generated: 2014/08/12 08:14:43.661831272 UTC

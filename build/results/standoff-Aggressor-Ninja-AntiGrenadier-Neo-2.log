@@ -1,0 +1,16 @@
+Standoff between: Aggressor Ninja AntiGrenadier Neo
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Db,Dd,Dd,Dc,Da,Da,Db,Db,Db,Dc,Dc,Da,Da,Da,Dd,Dc,Dc,Da,Da,Dd,Dc,Dc,Db,Da,Db,Dc,Dc,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Dc,Dc,Dc,Dc,Dc,Dd,Dd,Dd,Dd,Dd
+                 AntiGrenadier: N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 0
+                         Ninja: -18
+                 AntiGrenadier: -18
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo Ninja AntiGrenadier
+Ninja: Neo Aggressor AntiGrenadier
+AntiGrenadier: Neo Aggressor Ninja
+Neo: AntiGrenadier Aggressor Ninja
+Generated: 2014/08/12 10:50:21.125737595 UTC

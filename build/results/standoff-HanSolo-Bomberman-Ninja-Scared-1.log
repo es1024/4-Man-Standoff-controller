@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman Ninja Scared
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Da,Dc,Db,Dd,Db,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Scared Bomberman
+Bomberman: Ninja Scared HanSolo
+Ninja: Bomberman Scared HanSolo
+Scared: Bomberman Ninja HanSolo
+Generated: 2014/08/12 09:50:38.517723655 UTC

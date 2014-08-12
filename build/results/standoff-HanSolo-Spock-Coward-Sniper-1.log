@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Coward Sniper
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Spock: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                         Spock: -1
+                        Coward: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Sniper Spock
+Spock: Coward Sniper HanSolo
+Coward: Spock Sniper HanSolo
+Sniper: Spock Coward HanSolo
+Generated: 2014/08/12 06:15:07.896042097 UTC

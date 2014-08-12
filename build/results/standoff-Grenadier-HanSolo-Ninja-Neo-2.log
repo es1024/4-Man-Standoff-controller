@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Ninja Neo
+                     Grenadier: N,N,N,N,N,N,N,P,Tb
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                         Ninja: Db,Db,Da,Db,Da,Dc,Db,Dc,Db
+                           Neo: N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -2
+                       HanSolo: -3
+                         Ninja: 2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo HanSolo Ninja
+HanSolo: Neo Grenadier Ninja
+Ninja: Neo Grenadier HanSolo
+Neo: Ninja Grenadier HanSolo
+Generated: 2014/08/12 09:56:01.265971380 UTC

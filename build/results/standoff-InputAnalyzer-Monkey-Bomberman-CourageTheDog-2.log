@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Bomberman CourageTheDog
+                 InputAnalyzer: Dd,Db,Dd,Sc,N,Sc,N,P,Sc,N
+                        Monkey: N,N,N,N,Sc,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Db,Sb,N,Da,Db,P,Tb
+Final Health:
+                 InputAnalyzer: -4
+                        Monkey: -8
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Monkey Bomberman
+Monkey: CourageTheDog InputAnalyzer Bomberman
+Bomberman: CourageTheDog InputAnalyzer Monkey
+CourageTheDog: Bomberman InputAnalyzer Monkey
+Generated: 2014/08/12 08:04:42.868301640 UTC

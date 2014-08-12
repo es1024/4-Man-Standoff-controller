@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Sniper Scared
+      PoliticallyCorrectGunman: Sd,N,Sc,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,N
+                        Sniper: Sa,N,Sa,N,N,Sb,N
+                        Scared: Sc,N,Sb,N,Sb,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -3
+                        Coward: -1
+                        Sniper: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper Scared Coward
+Coward: Sniper Scared PoliticallyCorrectGunman
+Sniper: Coward Scared PoliticallyCorrectGunman
+Scared: Coward Sniper PoliticallyCorrectGunman
+Generated: 2014/08/12 05:46:50.388642734 UTC

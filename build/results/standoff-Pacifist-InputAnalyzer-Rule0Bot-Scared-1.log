@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N
+                 InputAnalyzer: Dc,Dd,Dc,P,Sd,N
+                      Rule0Bot: N,N,N,N,Sb,N
+                        Scared: Sa,N,Sc,N,Sb,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -5
+                      Rule0Bot: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Scared InputAnalyzer
+InputAnalyzer: Rule0Bot Scared Pacifist
+Rule0Bot: InputAnalyzer Scared Pacifist
+Scared: InputAnalyzer Rule0Bot Pacifist
+Generated: 2014/08/12 10:30:18.290650006 UTC

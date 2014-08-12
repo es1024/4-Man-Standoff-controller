@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Aggressor Rule0Bot
+                       HanSolo: Sd,N
+                        Coward: Sc,N
+                     Aggressor: P,Ta
+                      Rule0Bot: N,Sc
+Final Health:
+                       HanSolo: -3
+                        Coward: 2
+                     Aggressor: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Coward Aggressor
+Coward: Rule0Bot HanSolo Aggressor
+Aggressor: Rule0Bot HanSolo Coward
+Rule0Bot: Aggressor HanSolo Coward
+Generated: 2014/08/12 07:14:33.504486017 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Spock Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,N,Sd,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,Sd,N,Sd,N,Sd,N,Sd,N,N,Sd,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                       HanSolo: -3
+                         Spock: -15
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper HanSolo Spock
+HanSolo: Sniper StraightShooter Spock
+Spock: Sniper StraightShooter HanSolo
+Sniper: Spock StraightShooter HanSolo
+Generated: 2014/08/12 09:28:46.805380882 UTC

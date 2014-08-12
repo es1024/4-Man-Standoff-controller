@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Db,N,Da,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury SimpleShooter Zaenille
+SimpleShooter: TwentyFourthsAndAHalfCentury StraightShooter Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury StraightShooter SimpleShooter
+TwentyFourthsAndAHalfCentury: Zaenille StraightShooter SimpleShooter
+Generated: 2014/08/12 09:28:20.560135178 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo DONTNUKEMEBRO Bomberman
+                 InputAnalyzer: Db,Sd,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Da,Dd,Da,Db,Dd,Dd,Db,Db,Dd,Sb,N,Sb,N,Da,Dd,Dd,Da,Dd,Db,Da,Dd,Dd,Db,Db,Dd,Dd,Db,Dd,Da,Db,Db,Da,Da,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: -1
+                 DONTNUKEMEBRO: 3
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo DONTNUKEMEBRO Bomberman
+HanSolo: InputAnalyzer DONTNUKEMEBRO Bomberman
+DONTNUKEMEBRO: InputAnalyzer HanSolo Bomberman
+Bomberman: InputAnalyzer HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 07:16:03.308000397 UTC

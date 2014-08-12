@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Zaenille Rule0Bot
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sb
+                     Richochet: Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                     Richochet: -1
+                      Zaenille: -6
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Richochet Zaenille
+Richochet: Rule0Bot SimpleShooter Zaenille
+Zaenille: Rule0Bot SimpleShooter Richochet
+Rule0Bot: Zaenille SimpleShooter Richochet
+Generated: 2014/08/12 06:27:27.824726700 UTC

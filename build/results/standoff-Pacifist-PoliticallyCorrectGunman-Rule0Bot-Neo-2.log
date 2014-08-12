@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Rule0Bot Neo
+                      Pacifist: N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sa,N,Sa,N,Da,P,Sc,N
+                      Rule0Bot: N,N,N,N,N,N,Sb,N
+                           Neo: N,Da,Db,Da,Db,N,Db,Da
+Final Health:
+                      Pacifist: -2
+      PoliticallyCorrectGunman: -3
+                      Rule0Bot: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo PoliticallyCorrectGunman Rule0Bot
+PoliticallyCorrectGunman: Neo Pacifist Rule0Bot
+Rule0Bot: Neo Pacifist PoliticallyCorrectGunman
+Neo: Rule0Bot Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 08:01:59.294863145 UTC

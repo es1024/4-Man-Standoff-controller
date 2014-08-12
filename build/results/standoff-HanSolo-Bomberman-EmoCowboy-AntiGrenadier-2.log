@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman EmoCowboy AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,Sc,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Bomberman EmoCowboy
+Bomberman: AntiGrenadier HanSolo EmoCowboy
+EmoCowboy: AntiGrenadier HanSolo Bomberman
+AntiGrenadier: EmoCowboy HanSolo Bomberman
+Generated: 2014/08/12 07:25:38.992234365 UTC

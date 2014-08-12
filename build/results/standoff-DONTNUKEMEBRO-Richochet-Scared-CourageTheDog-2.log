@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Richochet Scared CourageTheDog
+                 DONTNUKEMEBRO: Dd,Dd,Dd,Dc,P
+                     Richochet: Sc,N,Sa,N,Sa
+                        Scared: Sb,N,Sa,N,Sd
+                 CourageTheDog: Sc,N,Da,Da,Db
+Final Health:
+                 DONTNUKEMEBRO: -7
+                     Richochet: 0
+                        Scared: -2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog Richochet Scared
+Richochet: CourageTheDog DONTNUKEMEBRO Scared
+Scared: CourageTheDog DONTNUKEMEBRO Richochet
+CourageTheDog: Scared DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 05:44:09.189142149 UTC

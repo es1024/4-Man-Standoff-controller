@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman Ninja AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Db,Db,Dc,Dd,Da,Db,Dc,Dc,Da,Dd,Dc,Db,Dd,Dd,Db,Dd,Dc,Da,Dd,Db,Db,Dd,Da,Db,Dc,Da,Db,Da,Dd,Dd,Db,Db,Dd,Db,Da,Dd,Dd,Db,Da,Dd,Dd,Da,Dc,Dc,Da,Dd,Dc,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+                     Bomberman: -15
+                         Ninja: -15
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja AntiGrenadier Bomberman
+Bomberman: Ninja AntiGrenadier Pacifist
+Ninja: Bomberman AntiGrenadier Pacifist
+AntiGrenadier: Bomberman Ninja Pacifist
+Generated: 2014/08/12 06:14:55.116247722 UTC

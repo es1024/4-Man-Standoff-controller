@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Spock Scared
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Db,Dc,P,Sd,N
+                         Spock: Sd,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -1
+                         Spock: 2
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared InputAnalyzer Spock
+InputAnalyzer: Scared Pacifist Spock
+Spock: Scared Pacifist InputAnalyzer
+Scared: Spock Pacifist InputAnalyzer
+Generated: 2014/08/12 06:26:20.176680967 UTC

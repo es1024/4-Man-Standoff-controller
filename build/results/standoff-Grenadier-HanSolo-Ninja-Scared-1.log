@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Ninja Scared
+                     Grenadier: N,N,N,N,N,N,N,P,Td
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd
+                         Ninja: Da,Dc,Da,Db,Dd,N,N,N,N
+                        Scared: N,N,N,Sb,N,Sa,N,Sa,N
+Final Health:
+                     Grenadier: -2
+                       HanSolo: 0
+                         Ninja: -1
+                        Scared: -7
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Scared HanSolo
+HanSolo: Ninja Scared Grenadier
+Ninja: HanSolo Scared Grenadier
+Scared: HanSolo Ninja Grenadier
+Generated: 2014/08/12 07:01:32.304586186 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Zaenille Ninja
+                 InputAnalyzer: Db,Dd,P,Dc,Da,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Da,Dc,Dd,Dd,Db,Db,Db,Dc,Da
+Final Health:
+                 InputAnalyzer: -5
+                       HanSolo: 2
+                      Zaenille: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Zaenille Ninja
+HanSolo: InputAnalyzer Zaenille Ninja
+Zaenille: InputAnalyzer HanSolo Ninja
+Ninja: InputAnalyzer HanSolo Zaenille
+Generated: 2014/08/12 09:50:48.102431117 UTC

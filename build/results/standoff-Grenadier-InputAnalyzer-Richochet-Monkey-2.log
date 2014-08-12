@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Richochet Monkey
+                     Grenadier: P,N,N
+                 InputAnalyzer: Dd,Sa,N
+                     Richochet: Sd,N,Sa
+                        Monkey: N,P,N
+Final Health:
+                     Grenadier: -8
+                 InputAnalyzer: -1
+                     Richochet: -1
+                        Monkey: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey InputAnalyzer Richochet
+InputAnalyzer: Monkey Grenadier Richochet
+Richochet: Monkey Grenadier InputAnalyzer
+Monkey: Richochet Grenadier InputAnalyzer
+Generated: 2014/08/12 09:45:03.409187480 UTC

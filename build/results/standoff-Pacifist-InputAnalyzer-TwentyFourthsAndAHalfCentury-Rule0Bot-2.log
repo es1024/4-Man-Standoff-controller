@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Sd,N,Da,Dd,Sb,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Sa,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -2
+  TwentyFourthsAndAHalfCentury: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot InputAnalyzer TwentyFourthsAndAHalfCentury
+InputAnalyzer: Rule0Bot Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Pacifist InputAnalyzer
+Rule0Bot: TwentyFourthsAndAHalfCentury Pacifist InputAnalyzer
+Generated: 2014/08/12 08:58:58.795401431 UTC

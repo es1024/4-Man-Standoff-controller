@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman AntiGrenadier Rule0Bot Scared
+      PoliticallyCorrectGunman: Db,N,Sc,N,Sd,N,N,Db,Sd,N,N,N,N,N,N,N,N,N,N,N,P
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,Sa,N,Sb,N,Sa,N,N,N,Sc,N,N,N,N,N,Sb,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -7
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared AntiGrenadier Rule0Bot
+AntiGrenadier: Scared PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Scared PoliticallyCorrectGunman AntiGrenadier
+Scared: Rule0Bot PoliticallyCorrectGunman AntiGrenadier
+Generated: 2014/08/12 07:08:09.643447841 UTC

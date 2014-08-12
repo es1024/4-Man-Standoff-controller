@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Bomberman AntiGrenadier
+                     Grenadier: N,N,P,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd
+                     Bomberman: N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N,N,N
+Final Health:
+                     Grenadier: -7
+                       HanSolo: 2
+                     Bomberman: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Bomberman AntiGrenadier
+HanSolo: Grenadier Bomberman AntiGrenadier
+Bomberman: Grenadier HanSolo AntiGrenadier
+AntiGrenadier: Grenadier HanSolo Bomberman
+Generated: 2014/08/12 09:31:39.138103578 UTC

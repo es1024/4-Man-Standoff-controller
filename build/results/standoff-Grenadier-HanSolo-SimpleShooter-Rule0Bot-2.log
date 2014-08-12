@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo SimpleShooter Rule0Bot
+                     Grenadier: P,N,N
+                       HanSolo: Sd,N,Sd
+                 SimpleShooter: Sb,N,Sb
+                      Rule0Bot: N,Sa,N
+Final Health:
+                     Grenadier: -3
+                       HanSolo: -2
+                 SimpleShooter: 2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot HanSolo SimpleShooter
+HanSolo: Rule0Bot Grenadier SimpleShooter
+SimpleShooter: Rule0Bot Grenadier HanSolo
+Rule0Bot: SimpleShooter Grenadier HanSolo
+Generated: 2014/08/12 08:37:19.312673380 UTC

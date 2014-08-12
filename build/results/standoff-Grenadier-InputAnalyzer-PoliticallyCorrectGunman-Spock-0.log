@@ -1,16 +1,16 @@
 Standoff between: Grenadier InputAnalyzer PoliticallyCorrectGunman Spock
-                     Grenadier: P,Tb,N
-                 InputAnalyzer: Da,Dd,N
-      PoliticallyCorrectGunman: Da,N,N
-                         Spock: Sa,N,Sc
+                     Grenadier: N,P,N,N
+                 InputAnalyzer: Da,Sd,N,Sc
+      PoliticallyCorrectGunman: Db,Sa,N,N
+                         Spock: Sa,N,Sa,N
 Final Health:
-                     Grenadier: 0
-                 InputAnalyzer: -3
+                     Grenadier: -7
+                 InputAnalyzer: 2
       PoliticallyCorrectGunman: 0
-                         Spock: 2
+                         Spock: 0
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: InputAnalyzer PoliticallyCorrectGunman Spock
 InputAnalyzer: Grenadier PoliticallyCorrectGunman Spock
 PoliticallyCorrectGunman: Grenadier InputAnalyzer Spock
 Spock: Grenadier InputAnalyzer PoliticallyCorrectGunman
-Generated: 2014/08/11 00:59:50.284833194 UTC
+Generated: 2014/08/12 09:12:23.197183282 UTC

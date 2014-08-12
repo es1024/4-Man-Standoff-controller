@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+TwentyFourthsAndAHalfCentury: HanSolo Bomberman Rule0Bot
+Bomberman: HanSolo TwentyFourthsAndAHalfCentury Rule0Bot
+Rule0Bot: HanSolo TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 09:21:48.754550612 UTC

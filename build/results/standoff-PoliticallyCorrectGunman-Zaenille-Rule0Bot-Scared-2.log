@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Rule0Bot Scared
+      PoliticallyCorrectGunman: Sd,N,N,Sa,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sc,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                      Rule0Bot: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared Zaenille Rule0Bot
+Zaenille: Scared PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Scared PoliticallyCorrectGunman Zaenille
+Scared: Rule0Bot PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 09:29:12.782752277 UTC

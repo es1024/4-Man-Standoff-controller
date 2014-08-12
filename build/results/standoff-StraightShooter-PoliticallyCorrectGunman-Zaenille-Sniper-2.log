@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Zaenille Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+      PoliticallyCorrectGunman: P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -18
+      PoliticallyCorrectGunman: -8
+                      Zaenille: -4
+                        Sniper: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper PoliticallyCorrectGunman Zaenille
+PoliticallyCorrectGunman: Sniper StraightShooter Zaenille
+Zaenille: Sniper StraightShooter PoliticallyCorrectGunman
+Sniper: Zaenille StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 08:01:53.368217501 UTC

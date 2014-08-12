@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Rule0Bot Scared
+                 InputAnalyzer: Dc,Db,Da,Dd,Dc,Sb,N,Dc,P
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sc,N,Sa,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                      Zaenille: -2
+                      Rule0Bot: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Scared Zaenille
+Zaenille: Rule0Bot Scared InputAnalyzer
+Rule0Bot: Zaenille Scared InputAnalyzer
+Scared: Zaenille Rule0Bot InputAnalyzer
+Generated: 2014/08/12 09:47:19.564297651 UTC

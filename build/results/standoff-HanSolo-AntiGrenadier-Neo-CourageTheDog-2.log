@@ -1,0 +1,16 @@
+Standoff between: HanSolo AntiGrenadier Neo CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Db,N,Db,N,N,N,N,N,N,N,Sa,N,Sa
+                 CourageTheDog: Sb,N,Da,Sa,N,Da,Db,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 AntiGrenadier: -1
+                           Neo: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog AntiGrenadier Neo
+AntiGrenadier: CourageTheDog HanSolo Neo
+Neo: CourageTheDog HanSolo AntiGrenadier
+CourageTheDog: Neo HanSolo AntiGrenadier
+Generated: 2014/08/12 10:46:51.577521694 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Ninja AntiGrenadier
+                     Grenadier: N,N,P,Tc,N
+                     Richochet: Sa,N,Sa,N,Sd
+                         Ninja: Dc,Da,Da,Dd,N
+                 AntiGrenadier: N,N,N,Sa,N
+Final Health:
+                     Grenadier: -4
+                     Richochet: 2
+                         Ninja: -3
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja AntiGrenadier Richochet
+Richochet: Ninja AntiGrenadier Grenadier
+Ninja: Richochet AntiGrenadier Grenadier
+AntiGrenadier: Richochet Ninja Grenadier
+Generated: 2014/08/12 09:51:38.940709632 UTC

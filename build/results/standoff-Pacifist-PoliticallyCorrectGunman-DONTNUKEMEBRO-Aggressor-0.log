@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO Aggressor
+                      Pacifist: N,N,N,N
+      PoliticallyCorrectGunman: Da,Da,N,Sc
+                 DONTNUKEMEBRO: Db,Sd,N,Da
+                     Aggressor: P,Ta,N,N
+Final Health:
+                      Pacifist: -3
+      PoliticallyCorrectGunman: 2
+                 DONTNUKEMEBRO: 0
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman DONTNUKEMEBRO Aggressor
+PoliticallyCorrectGunman: Pacifist DONTNUKEMEBRO Aggressor
+DONTNUKEMEBRO: Pacifist PoliticallyCorrectGunman Aggressor
+Aggressor: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 06:36:42.485604346 UTC

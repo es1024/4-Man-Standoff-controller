@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille EmoCowboy Rule0Bot
+                        Coward: Sb,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                      Zaenille: -4
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy Rule0Bot Zaenille
+Zaenille: EmoCowboy Rule0Bot Coward
+EmoCowboy: Zaenille Rule0Bot Coward
+Rule0Bot: Zaenille EmoCowboy Coward
+Generated: 2014/08/12 06:36:34.007256492 UTC

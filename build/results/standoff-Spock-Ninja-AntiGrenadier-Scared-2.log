@@ -1,0 +1,16 @@
+Standoff between: Spock Ninja AntiGrenadier Scared
+                         Spock: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sd,N,Sd,N,N,N,Sd,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,Sd,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N
+                         Ninja: Dc,Dd,Db,Dc,Dc,Db,Db,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -15
+                         Ninja: -1
+                 AntiGrenadier: -15
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared Ninja AntiGrenadier
+Ninja: Scared Spock AntiGrenadier
+AntiGrenadier: Scared Spock Ninja
+Scared: AntiGrenadier Spock Ninja
+Generated: 2014/08/12 05:58:30.466517903 UTC

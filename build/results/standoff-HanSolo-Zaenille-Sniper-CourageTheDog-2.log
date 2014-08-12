@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Sniper CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                      Zaenille: -2
+                        Sniper: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Zaenille Sniper
+Zaenille: CourageTheDog HanSolo Sniper
+Sniper: CourageTheDog HanSolo Zaenille
+CourageTheDog: Sniper HanSolo Zaenille
+Generated: 2014/08/12 09:57:34.697125096 UTC

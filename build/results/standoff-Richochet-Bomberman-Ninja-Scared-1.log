@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman Ninja Scared
+                     Richochet: Sc,N,Sd,N,Sc,N,Sc,N,Sb,N,Sd,N,Sc,N,Sd,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dd,Dc,Dd,Da,Dd,Da,Dc,Da,Dd,Da,Db,N,N,N,N
+                        Scared: N,N,N,N,N,Sb,N,N,N,N,N,Sa,N,Sa,N,N,N
+Final Health:
+                     Richochet: 1
+                     Bomberman: -1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Scared Bomberman
+Bomberman: Ninja Scared Richochet
+Ninja: Bomberman Scared Richochet
+Scared: Bomberman Ninja Richochet
+Generated: 2014/08/12 10:17:40.327751193 UTC

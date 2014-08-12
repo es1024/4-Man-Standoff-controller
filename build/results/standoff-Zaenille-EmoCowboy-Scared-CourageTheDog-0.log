@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy Scared CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                      Zaenille: -2
+                     EmoCowboy: -4
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: EmoCowboy Scared CourageTheDog
+EmoCowboy: Zaenille Scared CourageTheDog
+Scared: Zaenille EmoCowboy CourageTheDog
+CourageTheDog: Zaenille EmoCowboy Scared
+Generated: 2014/08/12 09:48:23.674899751 UTC

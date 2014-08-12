@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter AntiGrenadier Sniper Scared
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sd,N,Sd,N,N
+                        Scared: Sc,N,Sc,N,Sb,N,N
+Final Health:
+                 SimpleShooter: 3
+                 AntiGrenadier: -1
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Scared AntiGrenadier
+AntiGrenadier: Sniper Scared SimpleShooter
+Sniper: AntiGrenadier Scared SimpleShooter
+Scared: AntiGrenadier Sniper SimpleShooter
+Generated: 2014/08/12 09:29:24.465325627 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Zaenille Bomberman
+                     Aggressor: P,Td
+                     Richochet: Sa,N
+                      Zaenille: Sc,N
+                     Bomberman: N,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+                      Zaenille: -2
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Zaenille Bomberman Richochet
+Richochet: Zaenille Bomberman Aggressor
+Zaenille: Richochet Bomberman Aggressor
+Bomberman: Richochet Zaenille Aggressor
+Generated: 2014/08/12 07:05:35.921840922 UTC

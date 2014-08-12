@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Monkey Rule0Bot
+                     Grenadier: P,Tc,N
+                 SimpleShooter: Sa,N,Sd
+                        Monkey: N,N,N
+                      Rule0Bot: N,Sa,N
+Final Health:
+                     Grenadier: -2
+                 SimpleShooter: 2
+                        Monkey: -3
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Rule0Bot SimpleShooter
+SimpleShooter: Monkey Rule0Bot Grenadier
+Monkey: SimpleShooter Rule0Bot Grenadier
+Rule0Bot: SimpleShooter Monkey Grenadier
+Generated: 2014/08/12 07:49:14.683751348 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Zaenille Ninja
+      PoliticallyCorrectGunman: Sb,N,Dc,Sc,N,Sd,N,N,Sd
+                     Richochet: Sa,N,Sa,N,Sd,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Db,Dc,Db,Dd,Dc,Dd,Dc
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 3
+                      Zaenille: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Ninja Richochet
+Richochet: Zaenille Ninja PoliticallyCorrectGunman
+Zaenille: Richochet Ninja PoliticallyCorrectGunman
+Ninja: Richochet Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 09:34:03.273531183 UTC

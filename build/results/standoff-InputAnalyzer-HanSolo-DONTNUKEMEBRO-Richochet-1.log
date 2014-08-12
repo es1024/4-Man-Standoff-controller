@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo DONTNUKEMEBRO Richochet
+                 InputAnalyzer: Dc,P,Sa
+                       HanSolo: Sc,N,N
+                 DONTNUKEMEBRO: Da,Db,Sa
+                     Richochet: Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -12
+                       HanSolo: 0
+                 DONTNUKEMEBRO: 0
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Richochet HanSolo
+HanSolo: DONTNUKEMEBRO Richochet InputAnalyzer
+DONTNUKEMEBRO: HanSolo Richochet InputAnalyzer
+Richochet: HanSolo DONTNUKEMEBRO InputAnalyzer
+Generated: 2014/08/12 06:30:37.026466965 UTC

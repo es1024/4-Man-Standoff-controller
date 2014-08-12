@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman AntiGrenadier Neo
+      PoliticallyCorrectGunman: Dc,P,Dc,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dc,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,Dc,N,N,N,N,N,N,Dc,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Bomberman: -18
+                 AntiGrenadier: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman AntiGrenadier Neo
+Bomberman: PoliticallyCorrectGunman AntiGrenadier Neo
+AntiGrenadier: PoliticallyCorrectGunman Bomberman Neo
+Neo: PoliticallyCorrectGunman Bomberman AntiGrenadier
+Generated: 2014/08/12 07:07:56.112176464 UTC

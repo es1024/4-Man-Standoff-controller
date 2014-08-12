@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Monkey TwentyFourthsAndAHalfCentury
+                     Grenadier: P,N,N,N,N,N,N,N
+                         Spock: Sc,N,N,N,N,N,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,Sb
+Final Health:
+                     Grenadier: -1
+                         Spock: 0
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey TwentyFourthsAndAHalfCentury Spock
+Spock: Monkey TwentyFourthsAndAHalfCentury Grenadier
+Monkey: Spock TwentyFourthsAndAHalfCentury Grenadier
+TwentyFourthsAndAHalfCentury: Spock Monkey Grenadier
+Generated: 2014/08/12 07:30:09.498634670 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist EmoCowboy Scared
+                     Grenadier: P,Tb
+                      Pacifist: N,N
+                     EmoCowboy: Sc,N
+                        Scared: Sa,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -3
+                     EmoCowboy: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist EmoCowboy Scared
+Pacifist: Grenadier EmoCowboy Scared
+EmoCowboy: Grenadier Pacifist Scared
+Scared: Grenadier Pacifist EmoCowboy
+Generated: 2014/08/12 07:54:38.202168696 UTC

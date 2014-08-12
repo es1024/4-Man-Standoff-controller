@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Monkey Ninja
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Da,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Dd,Da,Dd,Dd,Dc,Dc,Dd,Da,Db
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -2
+                        Monkey: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Zaenille Monkey
+Zaenille: Ninja SimpleShooter Monkey
+Monkey: Ninja SimpleShooter Zaenille
+Ninja: Monkey SimpleShooter Zaenille
+Generated: 2014/08/12 09:19:56.097421061 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Monkey AntiGrenadier
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Td
+                        Monkey: N,N
+                 AntiGrenadier: N,Sb
+Final Health:
+                 SimpleShooter: 2
+                     Aggressor: 0
+                        Monkey: 0
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: AntiGrenadier Aggressor Monkey
+Aggressor: AntiGrenadier SimpleShooter Monkey
+Monkey: AntiGrenadier SimpleShooter Aggressor
+AntiGrenadier: Monkey SimpleShooter Aggressor
+Generated: 2014/08/12 08:29:58.808576631 UTC

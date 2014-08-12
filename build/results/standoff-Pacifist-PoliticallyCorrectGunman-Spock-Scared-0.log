@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Spock Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,Dc,Dd,Da,Dc,N,Sd,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,Sa,N,N,Sa,N,Sa,N,Sa,N,Sb,N,Sb,N,N,N,Sd,N,N,Sd
+                        Scared: N,Sa,N,N,N,N,Sc,N,Sb,N,Sb,N,Sc,N,Sb,N,N,N,N,N,N,Sc
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -3
+                         Spock: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Spock Scared
+PoliticallyCorrectGunman: Pacifist Spock Scared
+Spock: Pacifist PoliticallyCorrectGunman Scared
+Scared: Pacifist PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 10:24:11.730802481 UTC

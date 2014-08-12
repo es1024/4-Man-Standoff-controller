@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock AntiGrenadier CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,Sa,N,N,N,N,Sa,N,Sa,N,Sc,N,Sc,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Da,Dc,N,Dc,Db,Sb,N,Dc,Sc,N,Dc,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock AntiGrenadier CourageTheDog
+Spock: Pacifist AntiGrenadier CourageTheDog
+AntiGrenadier: Pacifist Spock CourageTheDog
+CourageTheDog: Pacifist Spock AntiGrenadier
+Generated: 2014/08/12 10:31:57.162757033 UTC

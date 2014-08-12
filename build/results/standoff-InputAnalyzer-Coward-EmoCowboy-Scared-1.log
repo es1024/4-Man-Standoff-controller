@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward EmoCowboy Scared
+                 InputAnalyzer: Dc,Sa,N,N,N,N
+                        Coward: Sa,N,Sd,N,Dd,Sd
+                     EmoCowboy: Sc,N,N,N,N,N
+                        Scared: Sb,N,Sb,N,N,Sb
+Final Health:
+                 InputAnalyzer: -2
+                        Coward: -1
+                     EmoCowboy: -2
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Scared Coward
+Coward: EmoCowboy Scared InputAnalyzer
+EmoCowboy: Coward Scared InputAnalyzer
+Scared: Coward EmoCowboy InputAnalyzer
+Generated: 2014/08/12 07:18:11.466529123 UTC

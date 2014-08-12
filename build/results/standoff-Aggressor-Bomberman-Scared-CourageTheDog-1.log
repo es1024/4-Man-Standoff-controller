@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman Scared CourageTheDog
+                     Aggressor: P,Tc,Sd,N
+                     Bomberman: N,N,N,N
+                        Scared: N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sa
+Final Health:
+                     Aggressor: 0
+                     Bomberman: 0
+                        Scared: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Scared CourageTheDog Bomberman
+Bomberman: Scared CourageTheDog Aggressor
+Scared: Bomberman CourageTheDog Aggressor
+CourageTheDog: Bomberman Scared Aggressor
+Generated: 2014/08/12 06:23:49.213037111 UTC

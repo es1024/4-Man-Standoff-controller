@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury Bomberman
+                 InputAnalyzer: Db,P,Sb,N,N
+                       HanSolo: Sa,N,Sa,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dd,Sd
+                     Bomberman: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo TwentyFourthsAndAHalfCentury Bomberman
+HanSolo: InputAnalyzer TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: InputAnalyzer HanSolo Bomberman
+Bomberman: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:57:29.212907099 UTC

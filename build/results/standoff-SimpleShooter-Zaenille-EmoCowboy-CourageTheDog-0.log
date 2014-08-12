@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille EmoCowboy CourageTheDog
+                 SimpleShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Da,Sa,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                      Zaenille: -2
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille EmoCowboy CourageTheDog
+Zaenille: SimpleShooter EmoCowboy CourageTheDog
+EmoCowboy: SimpleShooter Zaenille CourageTheDog
+CourageTheDog: SimpleShooter Zaenille EmoCowboy
+Generated: 2014/08/12 08:34:57.285642306 UTC

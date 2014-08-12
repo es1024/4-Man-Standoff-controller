@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey TwentyFourthsAndAHalfCentury Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,Sa,N,Dd,Db,Sd,N,Sd,N,N,N,Sd,N,N,Db,Da,Da,N,N,N,N,N,N,Sd,N,Da,Db,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,Db,Sd,N,Sd,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Dd,Db,Dd,Db,Da,N,Da,Db,Db,Db,Da,Db,Da,Db,Db,Db,Db,N,N,N,N,Db,Da,Db,Db,Db,Da,Db,Da,Db,N,N,N,N,N,N,N,N,Db,Db,Db,Db,Da,N,Da,Db,Db,Db
+                        Scared: Sa,N,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -19
+                        Monkey: -17
+  TwentyFourthsAndAHalfCentury: -15
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Scared Monkey
+Monkey: TwentyFourthsAndAHalfCentury Scared StraightShooter
+TwentyFourthsAndAHalfCentury: Monkey Scared StraightShooter
+Scared: Monkey TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 05:54:14.995988113 UTC

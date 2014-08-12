@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet TwentyFourthsAndAHalfCentury Scared
+                     Grenadier: P,N,N
+                     Richochet: Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Da,N
+                        Scared: Sc,N,N
+Final Health:
+                     Grenadier: -3
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet TwentyFourthsAndAHalfCentury Scared
+Richochet: Grenadier TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Grenadier Richochet Scared
+Scared: Grenadier Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:30:37.471608622 UTC

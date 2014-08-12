@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy Rule0Bot Sniper
+                        Coward: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot Sniper EmoCowboy
+EmoCowboy: Rule0Bot Sniper Coward
+Rule0Bot: EmoCowboy Sniper Coward
+Sniper: EmoCowboy Rule0Bot Coward
+Generated: 2014/08/12 05:50:41.211997091 UTC

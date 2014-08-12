@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter EmoCowboy Rule0Bot
+                 InputAnalyzer: Dd,Sc,N,Sc,N,Sd,N,Dc,Sb,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                 SimpleShooter: 3
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot SimpleShooter EmoCowboy
+SimpleShooter: Rule0Bot InputAnalyzer EmoCowboy
+EmoCowboy: Rule0Bot InputAnalyzer SimpleShooter
+Rule0Bot: EmoCowboy InputAnalyzer SimpleShooter
+Generated: 2014/08/12 08:42:17.692275348 UTC

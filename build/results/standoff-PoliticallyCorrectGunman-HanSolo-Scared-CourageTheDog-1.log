@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Scared CourageTheDog
+      PoliticallyCorrectGunman: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                        Scared: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb,N,Db,Db,Db,Db,Db,Db,N,Db,Db,Db,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared CourageTheDog HanSolo
+HanSolo: Scared CourageTheDog PoliticallyCorrectGunman
+Scared: HanSolo CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: HanSolo Scared PoliticallyCorrectGunman
+Generated: 2014/08/12 10:05:55.093743523 UTC

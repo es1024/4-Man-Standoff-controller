@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Monkey EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                        Monkey: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Monkey EmoCowboy
+Richochet: Pacifist Monkey EmoCowboy
+Monkey: Pacifist Richochet EmoCowboy
+EmoCowboy: Pacifist Richochet Monkey
+Generated: 2014/08/12 09:52:03.385297057 UTC

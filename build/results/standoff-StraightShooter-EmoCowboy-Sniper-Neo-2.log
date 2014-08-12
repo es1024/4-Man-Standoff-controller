@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Sniper Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     EmoCowboy: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Da,Dc,Da,N,N,N,Da,Dc,Da,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,Da,Dc,Da,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                     EmoCowboy: -2
+                        Sniper: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo EmoCowboy Sniper
+EmoCowboy: Neo StraightShooter Sniper
+Sniper: Neo StraightShooter EmoCowboy
+Neo: Sniper StraightShooter EmoCowboy
+Generated: 2014/08/12 10:04:08.568413612 UTC

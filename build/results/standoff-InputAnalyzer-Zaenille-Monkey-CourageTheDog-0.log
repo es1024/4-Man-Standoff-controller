@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Monkey CourageTheDog
+                 InputAnalyzer: Db,P,Sa,N
+                      Zaenille: Sb,N,N,N
+                        Monkey: N,Sb,N,N
+                 CourageTheDog: Sa,N,P,Tc
+Final Health:
+                 InputAnalyzer: -8
+                      Zaenille: -2
+                        Monkey: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Monkey CourageTheDog
+Zaenille: InputAnalyzer Monkey CourageTheDog
+Monkey: InputAnalyzer Zaenille CourageTheDog
+CourageTheDog: InputAnalyzer Zaenille Monkey
+Generated: 2014/08/12 10:12:20.850911085 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor EmoCowboy Ninja
+                       HanSolo: Sb,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sc,N
+                         Ninja: Da,Db
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 0
+                     EmoCowboy: -2
+                         Ninja: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor EmoCowboy Ninja
+Aggressor: HanSolo EmoCowboy Ninja
+EmoCowboy: HanSolo Aggressor Ninja
+Ninja: HanSolo Aggressor EmoCowboy
+Generated: 2014/08/12 06:29:32.195429339 UTC

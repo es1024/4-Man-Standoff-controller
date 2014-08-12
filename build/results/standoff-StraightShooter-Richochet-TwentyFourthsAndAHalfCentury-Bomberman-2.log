@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet TwentyFourthsAndAHalfCentury Bomberman
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Richochet: Sa,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Dd,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,Da,Dd,Da,Dd,Da,Dd,Dd,Dd,Da,Dd,Dd,N,N,N,N,N,N,N,N,N,Dd,Dd,Da,Dd,Dd,Dd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -19
+                     Bomberman: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Richochet TwentyFourthsAndAHalfCentury
+Richochet: Bomberman StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman StraightShooter Richochet
+Bomberman: TwentyFourthsAndAHalfCentury StraightShooter Richochet
+Generated: 2014/08/12 07:43:27.328551452 UTC

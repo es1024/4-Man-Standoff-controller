@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Rule0Bot Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Dd,Da,Dd,Da,Dd,Dc,Dd,Dd,Sc,N,Sc,N,Sd,N,N,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 5
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Rule0Bot Sniper
+TwentyFourthsAndAHalfCentury: Pacifist Rule0Bot Sniper
+Rule0Bot: Pacifist TwentyFourthsAndAHalfCentury Sniper
+Sniper: Pacifist TwentyFourthsAndAHalfCentury Rule0Bot
+Generated: 2014/08/12 09:17:57.622708065 UTC

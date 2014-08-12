@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Bomberman Neo
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Sc,N,Sc,N,Sc
+                     Richochet: Sa,N,Sd,N,Sd,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,Da,N,Da,Dc,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                     Richochet: -1
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Bomberman Neo Richochet
+Richochet: Bomberman Neo Coward
+Bomberman: Richochet Neo Coward
+Neo: Richochet Bomberman Coward
+Generated: 2014/08/12 07:56:41.088601883 UTC

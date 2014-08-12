@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Ninja Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,Dc,Dd,Dc,Dd,Dc,Sc,N,Sc,N,Sd,N,Sd,N,Sc,N,Sd
+                         Ninja: Dc,Dd,Da,Db,Da,Dc,Dd,Db,Db,Db,Dc,Dd,Db,Da,Dd,Dd,Dc,Db,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Sniper Pacifist
+Ninja: TwentyFourthsAndAHalfCentury Sniper Pacifist
+Sniper: TwentyFourthsAndAHalfCentury Ninja Pacifist
+Generated: 2014/08/12 06:14:37.655801100 UTC

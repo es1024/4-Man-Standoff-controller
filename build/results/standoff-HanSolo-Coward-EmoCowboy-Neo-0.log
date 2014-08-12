@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward EmoCowboy Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,N
+                     EmoCowboy: N,N,N,N,N,N,Sc
+                           Neo: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Coward: -1
+                     EmoCowboy: -4
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward EmoCowboy Neo
+Coward: HanSolo EmoCowboy Neo
+EmoCowboy: HanSolo Coward Neo
+Neo: HanSolo Coward EmoCowboy
+Generated: 2014/08/12 08:49:27.973532539 UTC

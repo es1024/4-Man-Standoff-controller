@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter EmoCowboy Rule0Bot
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sb
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 3
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Rule0Bot SimpleShooter
+SimpleShooter: EmoCowboy Rule0Bot HanSolo
+EmoCowboy: SimpleShooter Rule0Bot HanSolo
+Rule0Bot: SimpleShooter EmoCowboy HanSolo
+Generated: 2014/08/12 07:40:58.645243376 UTC

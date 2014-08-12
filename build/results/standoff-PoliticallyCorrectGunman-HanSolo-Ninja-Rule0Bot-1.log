@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Ninja Rule0Bot
+      PoliticallyCorrectGunman: Dc,N,N,Sb,N,P,Sa
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc
+                         Ninja: Dd,Dc,Db,Da,Dd,Dd,Db
+                      Rule0Bot: N,N,N,N,N,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -10
+                       HanSolo: 0
+                         Ninja: -2
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Rule0Bot HanSolo
+HanSolo: Ninja Rule0Bot PoliticallyCorrectGunman
+Ninja: HanSolo Rule0Bot PoliticallyCorrectGunman
+Rule0Bot: HanSolo Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 09:48:59.925975667 UTC

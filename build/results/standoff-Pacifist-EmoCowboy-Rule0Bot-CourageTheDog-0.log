@@ -1,0 +1,16 @@
+Standoff between: Pacifist EmoCowboy Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sa,N,Da,Da,Sc,N,Sc,N,Sa,N,Sc,N,Da,Da,Da,Sa
+Final Health:
+                      Pacifist: -1
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Rule0Bot CourageTheDog
+EmoCowboy: Pacifist Rule0Bot CourageTheDog
+Rule0Bot: Pacifist EmoCowboy CourageTheDog
+CourageTheDog: Pacifist EmoCowboy Rule0Bot
+Generated: 2014/08/12 10:46:16.816596770 UTC

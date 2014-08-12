@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+                     Grenadier: P,Tb
+  TwentyFourthsAndAHalfCentury: Dc,Dd
+                     EmoCowboy: Sc,N
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Grenadier: 0
+  TwentyFourthsAndAHalfCentury: -3
+                     EmoCowboy: -2
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+TwentyFourthsAndAHalfCentury: Grenadier EmoCowboy AntiGrenadier
+EmoCowboy: Grenadier TwentyFourthsAndAHalfCentury AntiGrenadier
+AntiGrenadier: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 08:45:46.826953365 UTC

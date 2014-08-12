@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Zaenille Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N
+                     Richochet: Sc,N,Sd,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                      Zaenille: -6
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Zaenille Rule0Bot
+Richochet: StraightShooter Zaenille Rule0Bot
+Zaenille: StraightShooter Richochet Rule0Bot
+Rule0Bot: StraightShooter Richochet Zaenille
+Generated: 2014/08/12 06:42:23.168173331 UTC

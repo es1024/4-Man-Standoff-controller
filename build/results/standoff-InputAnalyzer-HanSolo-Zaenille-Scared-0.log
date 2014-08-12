@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Zaenille Scared
+                 InputAnalyzer: Db,Sa,N,N,N
+                       HanSolo: Sa,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                        Scared: Sb,N,Sb,N,Sb
+Final Health:
+                 InputAnalyzer: -2
+                       HanSolo: -1
+                      Zaenille: -2
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Zaenille Scared
+HanSolo: InputAnalyzer Zaenille Scared
+Zaenille: InputAnalyzer HanSolo Scared
+Scared: InputAnalyzer HanSolo Zaenille
+Generated: 2014/08/12 06:53:20.528533049 UTC

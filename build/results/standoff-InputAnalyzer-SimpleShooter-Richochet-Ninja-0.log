@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Richochet Ninja
+                 InputAnalyzer: Db,P,Da,N
+                 SimpleShooter: Sd,N,Sc,N
+                     Richochet: Sa,N,Sb,N
+                         Ninja: Dd,Da,Da,Da
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 0
+                     Richochet: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Richochet Ninja
+SimpleShooter: InputAnalyzer Richochet Ninja
+Richochet: InputAnalyzer SimpleShooter Ninja
+Ninja: InputAnalyzer SimpleShooter Richochet
+Generated: 2014/08/12 08:36:02.137476994 UTC

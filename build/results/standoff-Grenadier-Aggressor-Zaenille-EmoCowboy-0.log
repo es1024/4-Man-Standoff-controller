@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Zaenille EmoCowboy
+                     Grenadier: N,N
+                     Aggressor: P,Ta
+                      Zaenille: Sc,N
+                     EmoCowboy: Sd,N
+Final Health:
+                     Grenadier: -3
+                     Aggressor: 2
+                      Zaenille: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Zaenille EmoCowboy
+Aggressor: Grenadier Zaenille EmoCowboy
+Zaenille: Grenadier Aggressor EmoCowboy
+EmoCowboy: Grenadier Aggressor Zaenille
+Generated: 2014/08/12 10:22:21.756673131 UTC

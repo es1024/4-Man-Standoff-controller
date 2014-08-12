@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Zaenille Bomberman
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,N
+                      Zaenille: Sc,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                 SimpleShooter: -1
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Zaenille Bomberman
+SimpleShooter: HanSolo Zaenille Bomberman
+Zaenille: HanSolo SimpleShooter Bomberman
+Bomberman: HanSolo SimpleShooter Zaenille
+Generated: 2014/08/12 08:09:58.109456785 UTC

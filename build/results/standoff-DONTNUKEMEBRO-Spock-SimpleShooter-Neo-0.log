@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock SimpleShooter Neo
+                 DONTNUKEMEBRO: Dd,Dc,Db,Dd,Db,Dd,Sc,N,Dc,Sb,N,N,N,N,N
+                         Spock: N,N,N,N,N,N,N,Sa,N,Sa,N,Sc,N,Sc,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,N
+                           Neo: N,N,N,N,N,N,Dc,Db,Dc,N,Dc,Db,Dc,Db,Sb
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: -1
+                 SimpleShooter: -1
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Spock SimpleShooter Neo
+Spock: DONTNUKEMEBRO SimpleShooter Neo
+SimpleShooter: DONTNUKEMEBRO Spock Neo
+Neo: DONTNUKEMEBRO Spock SimpleShooter
+Generated: 2014/08/12 06:40:52.758934469 UTC

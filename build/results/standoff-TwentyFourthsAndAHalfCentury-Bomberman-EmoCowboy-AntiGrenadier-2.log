@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman EmoCowboy AntiGrenadier
+  TwentyFourthsAndAHalfCentury: Dc,Db,Sb,N,Sd,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,Sd,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: AntiGrenadier Bomberman EmoCowboy
+Bomberman: AntiGrenadier TwentyFourthsAndAHalfCentury EmoCowboy
+EmoCowboy: AntiGrenadier TwentyFourthsAndAHalfCentury Bomberman
+AntiGrenadier: EmoCowboy TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 09:21:22.044762717 UTC

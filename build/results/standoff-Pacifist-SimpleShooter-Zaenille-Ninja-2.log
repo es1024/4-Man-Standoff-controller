@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Zaenille Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dc,Db,Da,Da,Dd,Db,Dc,Dc,Db,Da,Da
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja SimpleShooter Zaenille
+SimpleShooter: Ninja Pacifist Zaenille
+Zaenille: Ninja Pacifist SimpleShooter
+Ninja: Zaenille Pacifist SimpleShooter
+Generated: 2014/08/12 09:38:13.471993851 UTC

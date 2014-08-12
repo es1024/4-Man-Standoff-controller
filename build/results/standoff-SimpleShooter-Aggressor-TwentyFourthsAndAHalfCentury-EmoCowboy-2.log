@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor TwentyFourthsAndAHalfCentury EmoCowboy
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: Db,Db
+                     EmoCowboy: Sd,N
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: EmoCowboy SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy SimpleShooter Aggressor
+EmoCowboy: TwentyFourthsAndAHalfCentury SimpleShooter Aggressor
+Generated: 2014/08/12 08:17:13.748059134 UTC

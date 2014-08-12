@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Coward Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                        Coward: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Coward Bomberman
+HanSolo: Pacifist Coward Bomberman
+Coward: Pacifist HanSolo Bomberman
+Bomberman: Pacifist HanSolo Coward
+Generated: 2014/08/12 06:16:37.224350955 UTC

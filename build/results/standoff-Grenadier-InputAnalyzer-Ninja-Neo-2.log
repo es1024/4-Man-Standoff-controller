@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Ninja Neo
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Sa,N,Dd,Sc,N,P,Sb
+                         Ninja: Dd,Dc,Db,Db,Dc,Db,Da,Db,Da,Dd,Da
+                           Neo: N,N,N,Db,N,Dc,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -8
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo InputAnalyzer Ninja
+InputAnalyzer: Neo Grenadier Ninja
+Ninja: Neo Grenadier InputAnalyzer
+Neo: Ninja Grenadier InputAnalyzer
+Generated: 2014/08/12 07:53:56.333114234 UTC

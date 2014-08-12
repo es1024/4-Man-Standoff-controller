@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Richochet Neo
+                     Grenadier: P,Tb
+                       HanSolo: Sd,N
+                     Richochet: Sa,N
+                           Neo: N,N
+Final Health:
+                     Grenadier: 0
+                       HanSolo: -3
+                     Richochet: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo HanSolo Richochet
+HanSolo: Neo Grenadier Richochet
+Richochet: Neo Grenadier HanSolo
+Neo: Richochet Grenadier HanSolo
+Generated: 2014/08/12 08:44:24.855250437 UTC

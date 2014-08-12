@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Bomberman Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,Da,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,Sd,N
+Final Health:
+               StraightShooter: -15
+                      Zaenille: -4
+                     Bomberman: -15
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Zaenille Bomberman
+Zaenille: Neo StraightShooter Bomberman
+Bomberman: Neo StraightShooter Zaenille
+Neo: Bomberman StraightShooter Zaenille
+Generated: 2014/08/12 06:55:33.258176927 UTC

@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Sd,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Sb,N,Db,Sb,N
+Final Health:
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 1
+                     EmoCowboy: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+TwentyFourthsAndAHalfCentury: Zaenille EmoCowboy CourageTheDog
+EmoCowboy: Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Zaenille TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 08:04:24.872673767 UTC

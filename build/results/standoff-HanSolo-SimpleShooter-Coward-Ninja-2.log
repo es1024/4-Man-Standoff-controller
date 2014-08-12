@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Coward Ninja
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Da,Sa,N,Sa
+                         Ninja: Da,Db,Db,Dc,Da,Dd,Dd,Dd,Db,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: -1
+                        Coward: 1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja SimpleShooter Coward
+SimpleShooter: Ninja HanSolo Coward
+Coward: Ninja HanSolo SimpleShooter
+Ninja: Coward HanSolo SimpleShooter
+Generated: 2014/08/12 09:35:51.538971396 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Ninja Neo
+                 InputAnalyzer: Dc,Sb,N,P,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dc,Db,Dc,Dc,Db,Dc,Da,Dd,Db,Dd,Da,Dd,Db,Dc,Db,Dd,Da,Dd,Da,Dc,Da,Db,Dc,Dc,Dd,Da,Dd,Da,Dc,Dd,Db,Dc,Db,Dc,Da,Dd,Da,Dd,Da,Dc,Db,Da,Dd,Dd,Da,Dd,Da
+                           Neo: N,N,N,N,N,N,N,Dc,Dc,Dc,Dc,N,Dc,Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,Dc,N,Sd
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: 0
+                         Ninja: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Ninja Neo InputAnalyzer
+Ninja: PoliticallyCorrectGunman Neo InputAnalyzer
+Neo: PoliticallyCorrectGunman Ninja InputAnalyzer
+Generated: 2014/08/12 07:22:02.372606609 UTC

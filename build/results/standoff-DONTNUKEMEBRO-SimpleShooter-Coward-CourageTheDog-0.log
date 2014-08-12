@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Coward CourageTheDog
+                 DONTNUKEMEBRO: Dd,Dd,Sd,N,Db,Dc,Sb,N,Sb,N,Sc
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sa,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sb,N,Sb,N,Sa,N,Sa
+                 CourageTheDog: Sa,N,Da,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+                        Coward: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Coward CourageTheDog
+SimpleShooter: DONTNUKEMEBRO Coward CourageTheDog
+Coward: DONTNUKEMEBRO SimpleShooter CourageTheDog
+CourageTheDog: DONTNUKEMEBRO SimpleShooter Coward
+Generated: 2014/08/12 05:57:20.103101212 UTC

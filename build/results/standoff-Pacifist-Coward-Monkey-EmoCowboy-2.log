@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Monkey EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa
+                        Monkey: N,Sc,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                        Monkey: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Coward Monkey
+Coward: EmoCowboy Pacifist Monkey
+Monkey: EmoCowboy Pacifist Coward
+EmoCowboy: Monkey Pacifist Coward
+Generated: 2014/08/12 06:36:07.067711632 UTC

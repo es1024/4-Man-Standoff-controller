@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Monkey CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Dd,Dc,Da,Dc,P,Sb,N
+                        Monkey: N,N,N,N,N,Dc,Da,P
+                 CourageTheDog: Sa,N,Da,Da,Db,Da,P,Tc
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -8
+                        Monkey: -12
+                 CourageTheDog: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey CourageTheDog InputAnalyzer
+InputAnalyzer: Monkey CourageTheDog Pacifist
+Monkey: InputAnalyzer CourageTheDog Pacifist
+CourageTheDog: InputAnalyzer Monkey Pacifist
+Generated: 2014/08/12 07:37:21.032691608 UTC

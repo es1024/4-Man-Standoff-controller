@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Ninja CourageTheDog
+                 DONTNUKEMEBRO: Dd,Dc,Dc,Dd,P,Td
+                 SimpleShooter: Sd,N,Sa,N,Sd,N
+                         Ninja: Db,Dd,Da,Db,Db,Dd
+                 CourageTheDog: Sc,N,Sa,N,Dc,P
+Final Health:
+                 DONTNUKEMEBRO: -5
+                 SimpleShooter: -1
+                         Ninja: -3
+                 CourageTheDog: -13
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Ninja CourageTheDog
+SimpleShooter: DONTNUKEMEBRO Ninja CourageTheDog
+Ninja: DONTNUKEMEBRO SimpleShooter CourageTheDog
+CourageTheDog: DONTNUKEMEBRO SimpleShooter Ninja
+Generated: 2014/08/12 10:13:38.674431030 UTC

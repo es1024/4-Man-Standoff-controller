@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Monkey Neo
+                     Grenadier: P,N,N,N
+                        Coward: Sd,N,Sd,N
+                        Monkey: N,P,N,Dc
+                           Neo: N,N,Dc,N
+Final Health:
+                     Grenadier: -1
+                        Coward: -1
+                        Monkey: -4
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Monkey Neo
+Coward: Grenadier Monkey Neo
+Monkey: Grenadier Coward Neo
+Neo: Grenadier Coward Monkey
+Generated: 2014/08/12 08:20:35.796332083 UTC

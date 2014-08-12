@@ -1,0 +1,16 @@
+Standoff between: Zaenille Bomberman AntiGrenadier CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Sb,N,Sc,N,Sb,N,Dc,Sc
+Final Health:
+                      Zaenille: -2
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog Bomberman AntiGrenadier
+Bomberman: CourageTheDog Zaenille AntiGrenadier
+AntiGrenadier: CourageTheDog Zaenille Bomberman
+CourageTheDog: AntiGrenadier Zaenille Bomberman
+Generated: 2014/08/12 05:45:18.412719467 UTC

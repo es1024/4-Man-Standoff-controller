@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury AntiGrenadier
+                 InputAnalyzer: Db,Sd,N,Db,Dd,Db,Dd,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,Dd,Da,Dd,Dd,Dd,Dd,Dd,Db,Dd,Dd,Dd,Dd,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo TwentyFourthsAndAHalfCentury AntiGrenadier
+HanSolo: InputAnalyzer TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: InputAnalyzer HanSolo AntiGrenadier
+AntiGrenadier: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:08:01.509606182 UTC

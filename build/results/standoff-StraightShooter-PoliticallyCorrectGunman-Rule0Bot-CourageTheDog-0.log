@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Rule0Bot CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+      PoliticallyCorrectGunman: N,N,N,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sb,N,Sb,N,Da,Sa,N,Da,Da,Da,Da,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Rule0Bot CourageTheDog
+PoliticallyCorrectGunman: StraightShooter Rule0Bot CourageTheDog
+Rule0Bot: StraightShooter PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: StraightShooter PoliticallyCorrectGunman Rule0Bot
+Generated: 2014/08/12 09:39:48.034773987 UTC

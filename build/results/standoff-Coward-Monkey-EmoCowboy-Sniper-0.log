@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey EmoCowboy Sniper
+                        Coward: Sd,N,Sd,N,Sd,N,Sb
+                        Monkey: N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,Sc,N
+                        Sniper: Sc,N,Sb,N,Sb,N,N
+Final Health:
+                        Coward: 5
+                        Monkey: -1
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey EmoCowboy Sniper
+Monkey: Coward EmoCowboy Sniper
+EmoCowboy: Coward Monkey Sniper
+Sniper: Coward Monkey EmoCowboy
+Generated: 2014/08/12 09:17:08.400291822 UTC

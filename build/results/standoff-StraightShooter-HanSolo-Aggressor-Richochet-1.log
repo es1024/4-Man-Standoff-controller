@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Aggressor Richochet
+               StraightShooter: Sd,N
+                       HanSolo: Sc,N
+                     Aggressor: P,Tb
+                     Richochet: Sa,N
+Final Health:
+               StraightShooter: 0
+                       HanSolo: -3
+                     Aggressor: 0
+                     Richochet: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Richochet HanSolo
+HanSolo: Aggressor Richochet StraightShooter
+Aggressor: HanSolo Richochet StraightShooter
+Richochet: HanSolo Aggressor StraightShooter
+Generated: 2014/08/12 10:13:25.613319261 UTC

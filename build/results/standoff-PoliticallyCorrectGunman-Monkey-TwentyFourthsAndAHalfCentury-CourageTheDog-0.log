@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+      PoliticallyCorrectGunman: N,Dc,Sd,N,Sc,N,Dd,Dc,Db,Sd,N,N,N,N,P,N,N
+                        Monkey: N,N,Db,Db,Db,Db,Db,Dd,N,Sd,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Db,Db,Db,Da,Dd,Sb,N,Sd,N,N,N,Sb,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Dc,Db,Db,Sc,N,Da,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+Monkey: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Monkey CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:08:05.148925064 UTC

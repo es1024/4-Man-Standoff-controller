@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Ninja Sniper
+      PoliticallyCorrectGunman: P,Tb,Dc,Sc,N,Db,Sd,N,Sd,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Sa
+                       HanSolo: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Db,Da,Dc,Dd,Dd,Dc,Dc,Dc,Db,Db,Da,Dd,Dc,Da,Da,Dc,Db,Db,Dd,Da,Db,Da,Dc,Dc,Dd
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -5
+                         Ninja: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper HanSolo Ninja
+HanSolo: Sniper PoliticallyCorrectGunman Ninja
+Ninja: Sniper PoliticallyCorrectGunman HanSolo
+Sniper: Ninja PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 10:30:06.589296844 UTC

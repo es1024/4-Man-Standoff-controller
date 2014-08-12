@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer SimpleShooter Bomberman
+               StraightShooter: Sc,N,Sc,N,Sc,N
+                 InputAnalyzer: Da,Sd,N,P,Sa,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N
+                     Bomberman: N,N,N,N,N,N
+Final Health:
+               StraightShooter: -2
+                 InputAnalyzer: -3
+                 SimpleShooter: -1
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer SimpleShooter Bomberman
+InputAnalyzer: StraightShooter SimpleShooter Bomberman
+SimpleShooter: StraightShooter InputAnalyzer Bomberman
+Bomberman: StraightShooter InputAnalyzer SimpleShooter
+Generated: 2014/08/12 06:41:41.731282358 UTC

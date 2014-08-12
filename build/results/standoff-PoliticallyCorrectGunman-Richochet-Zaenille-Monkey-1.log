@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Zaenille Monkey
+      PoliticallyCorrectGunman: Db,N,N,N,Dd,P,Td
+                     Richochet: Sd,N,Sa,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Dd,P
+Final Health:
+      PoliticallyCorrectGunman: -5
+                     Richochet: -1
+                      Zaenille: -2
+                        Monkey: -13
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Monkey Richochet
+Richochet: Zaenille Monkey PoliticallyCorrectGunman
+Zaenille: Richochet Monkey PoliticallyCorrectGunman
+Monkey: Richochet Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 08:31:49.599769904 UTC

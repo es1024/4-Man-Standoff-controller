@@ -1,0 +1,16 @@
+Standoff between: Grenadier Rule0Bot Sniper Neo
+                     Grenadier: N,P,Tb
+                      Rule0Bot: N,N,Sa
+                        Sniper: Sd,N,Sd
+                           Neo: N,Db,N
+Final Health:
+                     Grenadier: 0
+                      Rule0Bot: -3
+                        Sniper: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Rule0Bot Sniper
+Rule0Bot: Neo Grenadier Sniper
+Sniper: Neo Grenadier Rule0Bot
+Neo: Sniper Grenadier Rule0Bot
+Generated: 2014/08/12 05:57:32.024981593 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Richochet: Sd,N,Sd,N,Sc,N,Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,N,Db,N,Da,N,Da,N,N
+                 CourageTheDog: Sc,N,Da,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Richochet TwentyFourthsAndAHalfCentury
+Richochet: CourageTheDog HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog HanSolo Richochet
+CourageTheDog: TwentyFourthsAndAHalfCentury HanSolo Richochet
+Generated: 2014/08/12 09:16:43.537956856 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Ninja Scared
+                         Spock: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sa,N,Sd,N,Sd,N,Sc,N,Sd
+                         Ninja: Dd,Da,Dd,Db,Dc,Db,Dd,Da,Dd,Db,Dc,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,Sb,N,Sb
+Final Health:
+                         Spock: -1
+                     Richochet: -1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja Scared Richochet
+Richochet: Ninja Scared Spock
+Ninja: Richochet Scared Spock
+Scared: Richochet Ninja Spock
+Generated: 2014/08/12 07:20:09.072061967 UTC

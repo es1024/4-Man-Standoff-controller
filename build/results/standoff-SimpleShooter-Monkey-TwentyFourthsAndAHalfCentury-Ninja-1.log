@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey TwentyFourthsAndAHalfCentury Ninja
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sb,N,Sd,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,Dd,Dd,Da,Da,Db,Dc,Sc,N,Sc,N,N,Db,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Dd,Dd,Dd,Dd,Da,Dd,Da,Dd,Da,Db,Da,Db,Dd,Db,Da,Dd,N,N,N
+                         Ninja: Dd,Da,Dc,Db,Dd,Db,Dd,Dc,Da,Db,Dc,Db,Db,Dc,Db,Da,Dc,Dc,Db,Dd,Dd,Da,Dc,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Ninja Monkey
+Monkey: TwentyFourthsAndAHalfCentury Ninja SimpleShooter
+TwentyFourthsAndAHalfCentury: Monkey Ninja SimpleShooter
+Ninja: Monkey TwentyFourthsAndAHalfCentury SimpleShooter
+Generated: 2014/08/12 07:22:32.665792817 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey TwentyFourthsAndAHalfCentury Neo
+                     Grenadier: N,P,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,N,N,N,N,Sb,N,Sd
+                           Neo: N,Db,N,N,N,Db,N,Db,N
+Final Health:
+                     Grenadier: -1
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Monkey TwentyFourthsAndAHalfCentury
+Monkey: Neo Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo Grenadier Monkey
+Neo: TwentyFourthsAndAHalfCentury Grenadier Monkey
+Generated: 2014/08/12 07:20:11.088879768 UTC

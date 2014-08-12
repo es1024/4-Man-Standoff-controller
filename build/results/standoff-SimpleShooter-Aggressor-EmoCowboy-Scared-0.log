@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor EmoCowboy Scared
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sc,N
+                        Scared: Sc,N
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 2
+                     EmoCowboy: -4
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor EmoCowboy Scared
+Aggressor: SimpleShooter EmoCowboy Scared
+EmoCowboy: SimpleShooter Aggressor Scared
+Scared: SimpleShooter Aggressor EmoCowboy
+Generated: 2014/08/12 07:16:14.678284796 UTC

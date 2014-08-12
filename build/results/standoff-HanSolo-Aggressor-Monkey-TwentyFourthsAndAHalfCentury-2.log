@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Monkey TwentyFourthsAndAHalfCentury
+                       HanSolo: N,Sd,N,N,N
+                     Aggressor: P,Td,Sa,N,Sc
+                        Monkey: N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Db,N,N,N
+Final Health:
+                       HanSolo: 0
+                     Aggressor: 2
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury Aggressor Monkey
+Aggressor: TwentyFourthsAndAHalfCentury HanSolo Monkey
+Monkey: TwentyFourthsAndAHalfCentury HanSolo Aggressor
+TwentyFourthsAndAHalfCentury: Monkey HanSolo Aggressor
+Generated: 2014/08/12 08:29:14.646606100 UTC

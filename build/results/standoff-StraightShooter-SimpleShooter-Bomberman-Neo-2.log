@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Bomberman Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,N,Db,N,Da,N,N,N,Da,N,Da,N,N,Dc,N,Dc,N,Dc,Da,Dc,N,N,Da,N,N,Dc,Da,N,Da,N,N,Dc,Da,N,Da,Dc,N,Dc,Da,N,N,Dc,Da,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                 SimpleShooter: -1
+                     Bomberman: -17
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo SimpleShooter Bomberman
+SimpleShooter: Neo StraightShooter Bomberman
+Bomberman: Neo StraightShooter SimpleShooter
+Neo: Bomberman StraightShooter SimpleShooter
+Generated: 2014/08/12 10:47:37.601038956 UTC

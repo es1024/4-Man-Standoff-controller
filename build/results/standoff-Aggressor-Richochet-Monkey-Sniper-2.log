@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Monkey Sniper
+                     Aggressor: P,Td
+                     Richochet: Sc,N
+                        Monkey: N,N
+                        Sniper: Sb,N
+Final Health:
+                     Aggressor: 2
+                     Richochet: 0
+                        Monkey: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper Richochet Monkey
+Richochet: Sniper Aggressor Monkey
+Monkey: Sniper Aggressor Richochet
+Sniper: Monkey Aggressor Richochet
+Generated: 2014/08/12 06:03:25.368537154 UTC

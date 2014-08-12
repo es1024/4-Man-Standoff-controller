@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Zaenille Bomberman
+                     Grenadier: N,N,N
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+                     Bomberman: N,N,N
+Final Health:
+                     Grenadier: 0
+                     Aggressor: 2
+                      Zaenille: -2
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Bomberman Aggressor
+Aggressor: Zaenille Bomberman Grenadier
+Zaenille: Aggressor Bomberman Grenadier
+Bomberman: Aggressor Zaenille Grenadier
+Generated: 2014/08/12 09:46:51.026264573 UTC

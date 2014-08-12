@@ -1,0 +1,16 @@
+Standoff between: Bomberman AntiGrenadier Scared Neo
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sd,N,Sb,N,N,N,N,N,N,N,N,Sa,N,Sb,N,Sd,N,Sa,N,N,N,N,N,N,N,N,Sd,N,Sb
+                           Neo: N,N,Db,N,Db,N,N,N,N,N,N,N,N,N,Db,N,N,Db,Db,Db,Db,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: Neo AntiGrenadier Scared
+AntiGrenadier: Neo Bomberman Scared
+Scared: Neo Bomberman AntiGrenadier
+Neo: Scared Bomberman AntiGrenadier
+Generated: 2014/08/12 06:23:58.989603034 UTC

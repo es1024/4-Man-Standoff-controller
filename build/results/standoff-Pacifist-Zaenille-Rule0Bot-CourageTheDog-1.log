@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Dc,Dc,Da,Sa,N,Sc,N,N,Dc,N,Da,Dc,Sc,N,Sa,N,Da,Da,Da,Da,Da,Da,Sa
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot CourageTheDog Zaenille
+Zaenille: Rule0Bot CourageTheDog Pacifist
+Rule0Bot: Zaenille CourageTheDog Pacifist
+CourageTheDog: Zaenille Rule0Bot Pacifist
+Generated: 2014/08/12 07:59:21.458522469 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Ninja Sniper
+                 InputAnalyzer: Dc,Sb,N,Dd,Sd,N,Da,P,Sc,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N
+                         Ninja: Da,Da,Da,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 0
+                         Ninja: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Sniper Spock
+Spock: Ninja Sniper InputAnalyzer
+Ninja: Spock Sniper InputAnalyzer
+Sniper: Spock Ninja InputAnalyzer
+Generated: 2014/08/12 05:50:59.372789760 UTC

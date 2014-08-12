@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Ninja Rule0Bot CourageTheDog
+                 InputAnalyzer: Dd,P,Da,N
+                         Ninja: Dd,Dd,Da,Da
+                      Rule0Bot: N,N,Sa,N
+                 CourageTheDog: Sc,N,P,Tb
+Final Health:
+                 InputAnalyzer: -6
+                         Ninja: -6
+                      Rule0Bot: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Ninja Rule0Bot
+Ninja: CourageTheDog InputAnalyzer Rule0Bot
+Rule0Bot: CourageTheDog InputAnalyzer Ninja
+CourageTheDog: Rule0Bot InputAnalyzer Ninja
+Generated: 2014/08/12 07:41:44.041380472 UTC

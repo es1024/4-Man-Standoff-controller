@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Ninja Rule0Bot
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Da,Dc,Dc,Da,Dd,Da,Dd,Dc,Dd,Dc,Db,Dd,Db,Da,Dd,Da,Da,Dc,Da,Db,Dc,Dd,Db,Dd,Dc,Da,Dc,Db,Db,Dc,Da,Dd,Dc,Da,Dc,Dc,Da,Dd,Db,Dd,Da,Db,Dd,Da,Da,Dd,Dc,Db
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+                         Ninja: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Rule0Bot Zaenille
+Zaenille: Ninja Rule0Bot Grenadier
+Ninja: Zaenille Rule0Bot Grenadier
+Rule0Bot: Zaenille Ninja Grenadier
+Generated: 2014/08/12 06:16:21.930807872 UTC

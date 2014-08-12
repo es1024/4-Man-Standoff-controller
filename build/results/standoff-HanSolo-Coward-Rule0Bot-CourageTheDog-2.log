@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Rule0Bot CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd
+                        Coward: Sc,N,Sc,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sc,N,Sb,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 3
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Coward Rule0Bot
+Coward: CourageTheDog HanSolo Rule0Bot
+Rule0Bot: CourageTheDog HanSolo Coward
+CourageTheDog: Rule0Bot HanSolo Coward
+Generated: 2014/08/12 07:12:36.358811248 UTC

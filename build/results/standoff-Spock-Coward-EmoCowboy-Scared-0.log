@@ -1,0 +1,16 @@
+Standoff between: Spock Coward EmoCowboy Scared
+                         Spock: Sb,N,Sb,N,Sb
+                        Coward: Sd,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sa
+Final Health:
+                         Spock: -3
+                        Coward: -1
+                     EmoCowboy: -4
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward EmoCowboy Scared
+Coward: Spock EmoCowboy Scared
+EmoCowboy: Spock Coward Scared
+Scared: Spock Coward EmoCowboy
+Generated: 2014/08/12 09:11:28.047957491 UTC

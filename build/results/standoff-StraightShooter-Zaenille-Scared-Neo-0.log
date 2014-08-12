@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Scared Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N
+                           Neo: N,Sa,N,N,Dc,N,N,Sa,N,N,N,N,Da,Sa
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -4
+                        Scared: -1
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille Scared Neo
+Zaenille: StraightShooter Scared Neo
+Scared: StraightShooter Zaenille Neo
+Neo: StraightShooter Zaenille Scared
+Generated: 2014/08/12 09:43:04.160698905 UTC

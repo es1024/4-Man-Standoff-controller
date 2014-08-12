@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman Sniper Neo
+                     Grenadier: N,P,Tb,P,N
+                     Bomberman: N,N,N,N,N
+                        Sniper: Sd,N,Sb,N,Sa
+                           Neo: N,N,N,N,N
+Final Health:
+                     Grenadier: -6
+                     Bomberman: -5
+                        Sniper: -1
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Sniper Neo
+Bomberman: Grenadier Sniper Neo
+Sniper: Grenadier Bomberman Neo
+Neo: Grenadier Bomberman Sniper
+Generated: 2014/08/12 09:31:27.768384013 UTC

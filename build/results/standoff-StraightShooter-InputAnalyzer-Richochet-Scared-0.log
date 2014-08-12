@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Richochet Scared
+               StraightShooter: Sc,N,Sc
+                 InputAnalyzer: Da,P,Sb
+                     Richochet: Sb,N,Sa
+                        Scared: Sc,N,Sb
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -10
+                     Richochet: -4
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer Richochet Scared
+InputAnalyzer: StraightShooter Richochet Scared
+Richochet: StraightShooter InputAnalyzer Scared
+Scared: StraightShooter InputAnalyzer Richochet
+Generated: 2014/08/12 09:00:04.728561919 UTC

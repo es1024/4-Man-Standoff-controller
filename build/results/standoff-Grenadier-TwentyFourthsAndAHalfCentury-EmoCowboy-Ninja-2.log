@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+                     Grenadier: P,Td,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dd,N,Sa
+                     EmoCowboy: Sc,N,N,N
+                         Ninja: Db,Da,N,N
+Final Health:
+                     Grenadier: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Ninja Grenadier EmoCowboy
+EmoCowboy: Ninja Grenadier TwentyFourthsAndAHalfCentury
+Ninja: EmoCowboy Grenadier TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:03:57.179787885 UTC

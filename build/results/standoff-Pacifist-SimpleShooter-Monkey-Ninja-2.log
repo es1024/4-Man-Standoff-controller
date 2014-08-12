@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Monkey Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd,N,Sa,N,Sd
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Db,Dc,Da,Dd,Dc,Db,Db,Dd,Da,Da,Db,Dc,Da
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                        Monkey: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja SimpleShooter Monkey
+SimpleShooter: Ninja Pacifist Monkey
+Monkey: Ninja Pacifist SimpleShooter
+Ninja: Monkey Pacifist SimpleShooter
+Generated: 2014/08/12 07:56:22.570835783 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Richochet Zaenille
+                       HanSolo: Sd,N,Sb,N,Sc,N,Sc,N,Sc
+                         Spock: N,N,N,N,N,N,N,N,N
+                     Richochet: Sb,N,Sb,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sd,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                     Richochet: -1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Spock Richochet
+Spock: Zaenille HanSolo Richochet
+Richochet: Zaenille HanSolo Spock
+Zaenille: Richochet HanSolo Spock
+Generated: 2014/08/12 08:19:21.427669707 UTC

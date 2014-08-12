@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Spock Aggressor
+                     Grenadier: N,N,N,N,N
+                      Pacifist: N,N,N,N,N
+                         Spock: N,N,N,N,N
+                     Aggressor: P,Tb,Sc,N,Sa
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -3
+                         Spock: 0
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Aggressor Pacifist
+Pacifist: Spock Aggressor Grenadier
+Spock: Pacifist Aggressor Grenadier
+Aggressor: Pacifist Spock Grenadier
+Generated: 2014/08/12 09:56:34.618732039 UTC

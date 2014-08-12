@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Rule0Bot Sniper Scared
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,N,N,N,N,N,Db,Sc,N,Sb,N,Sc,N,Sc,N,Sb,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 3
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Scared Rule0Bot Sniper
+Rule0Bot: Scared TwentyFourthsAndAHalfCentury Sniper
+Sniper: Scared TwentyFourthsAndAHalfCentury Rule0Bot
+Scared: Sniper TwentyFourthsAndAHalfCentury Rule0Bot
+Generated: 2014/08/12 07:36:50.276519684 UTC

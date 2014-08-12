@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Richochet Zaenille
+                 InputAnalyzer: Dd,Dc,Dd,Db,Dc,Dd,P,Da
+                 DONTNUKEMEBRO: Dd,Dd,Sc,N,Da,Da,Da,Sa
+                     Richochet: Sb,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sd,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 0
+                     Richochet: 0
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: Zaenille InputAnalyzer Richochet
+Richochet: Zaenille InputAnalyzer DONTNUKEMEBRO
+Zaenille: Richochet InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 10:11:50.275303447 UTC

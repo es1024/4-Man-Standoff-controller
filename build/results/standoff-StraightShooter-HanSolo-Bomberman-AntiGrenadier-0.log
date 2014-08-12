@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Bomberman AntiGrenadier
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Bomberman AntiGrenadier
+HanSolo: StraightShooter Bomberman AntiGrenadier
+Bomberman: StraightShooter HanSolo AntiGrenadier
+AntiGrenadier: StraightShooter HanSolo Bomberman
+Generated: 2014/08/12 08:17:55.641991662 UTC

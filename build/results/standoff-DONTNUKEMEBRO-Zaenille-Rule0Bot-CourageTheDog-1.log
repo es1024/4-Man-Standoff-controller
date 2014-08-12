@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Zaenille Rule0Bot CourageTheDog
+                 DONTNUKEMEBRO: Db,Dc,Dc,Db,Db,Sd,N,Dd,Db,Dd,Db,Dd,Dc,Dd,Sd,N,Db,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Sa,N,Dc,Dc,Da,Dc,Da,Sc,N,Sa,N,Dc,Da,Sa,N,Dc,Dc,Sc
+Final Health:
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -2
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Rule0Bot CourageTheDog Zaenille
+Zaenille: Rule0Bot CourageTheDog DONTNUKEMEBRO
+Rule0Bot: Zaenille CourageTheDog DONTNUKEMEBRO
+CourageTheDog: Zaenille Rule0Bot DONTNUKEMEBRO
+Generated: 2014/08/12 10:16:54.037590909 UTC

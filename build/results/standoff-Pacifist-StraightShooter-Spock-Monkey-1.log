@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Spock Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,Sb,N
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+               StraightShooter: -1
+                         Spock: -15
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Monkey StraightShooter
+StraightShooter: Spock Monkey Pacifist
+Spock: StraightShooter Monkey Pacifist
+Monkey: StraightShooter Spock Pacifist
+Generated: 2014/08/12 06:23:02.422156211 UTC

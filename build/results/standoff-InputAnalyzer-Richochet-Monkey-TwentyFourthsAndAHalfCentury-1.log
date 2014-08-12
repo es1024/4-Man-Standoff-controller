@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Monkey TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dc,P,Sc,N
+                     Richochet: Sd,N,Sa,N
+                        Monkey: N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Richochet: 2
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey TwentyFourthsAndAHalfCentury Richochet
+Richochet: Monkey TwentyFourthsAndAHalfCentury InputAnalyzer
+Monkey: Richochet TwentyFourthsAndAHalfCentury InputAnalyzer
+TwentyFourthsAndAHalfCentury: Richochet Monkey InputAnalyzer
+Generated: 2014/08/12 08:41:39.945459043 UTC

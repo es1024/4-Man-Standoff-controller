@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Ninja CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Dd,Dd,Db,Db,Dc,Dc,Dc,Dc,Dd,Dd,Dd,Db,Dc,Da,Dc,Dc,Db,Db
+                 CourageTheDog: Sc,N,Sc,N,Da,Da,Da,Da,Da,Sa,N,Sa,N,Sa,N,Sc,N,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Zaenille Ninja
+Zaenille: CourageTheDog Pacifist Ninja
+Ninja: CourageTheDog Pacifist Zaenille
+CourageTheDog: Ninja Pacifist Zaenille
+Generated: 2014/08/12 06:32:39.897390055 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Richochet CourageTheDog
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sd,N,Sd
+                        Coward: Sc,N,Sa,N,Sa,N,Da,Dc,N
+                     Richochet: Sd,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Da,Da,Da,Db,Sb,N
+Final Health:
+                 SimpleShooter: 1
+                        Coward: -1
+                     Richochet: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog Coward Richochet
+Coward: CourageTheDog SimpleShooter Richochet
+Richochet: CourageTheDog SimpleShooter Coward
+CourageTheDog: Richochet SimpleShooter Coward
+Generated: 2014/08/12 07:35:34.529417518 UTC

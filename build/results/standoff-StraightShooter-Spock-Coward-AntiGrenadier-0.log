@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Coward AntiGrenadier
+               StraightShooter: Sc,N,Sc,N,Sc
+                         Spock: Sa,N,Sa,N,Sa
+                        Coward: Sd,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 5
+                        Coward: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Coward AntiGrenadier
+Spock: StraightShooter Coward AntiGrenadier
+Coward: StraightShooter Spock AntiGrenadier
+AntiGrenadier: StraightShooter Spock Coward
+Generated: 2014/08/12 05:46:21.527842379 UTC

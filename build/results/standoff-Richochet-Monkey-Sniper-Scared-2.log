@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Sniper Scared
+                     Richochet: Sb,N,Sd,N,Sc,N,Sb,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sb,N,Sd,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared Monkey Sniper
+Monkey: Scared Richochet Sniper
+Sniper: Scared Richochet Monkey
+Scared: Sniper Richochet Monkey
+Generated: 2014/08/12 06:23:52.840268518 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Bomberman Rule0Bot
+                         Spock: Sb,N,Sb,N,Sb,N,Sc,N,N,N,N,N,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 3
+                 SimpleShooter: -1
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Bomberman Rule0Bot
+SimpleShooter: Spock Bomberman Rule0Bot
+Bomberman: Spock SimpleShooter Rule0Bot
+Rule0Bot: Spock SimpleShooter Bomberman
+Generated: 2014/08/12 06:53:26.111507207 UTC

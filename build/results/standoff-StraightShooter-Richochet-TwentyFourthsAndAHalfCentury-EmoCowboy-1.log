@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet TwentyFourthsAndAHalfCentury EmoCowboy
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sa,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,N,Db,N,Da,N,Db,N,Db,N,Da,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury EmoCowboy Richochet
+Richochet: TwentyFourthsAndAHalfCentury EmoCowboy StraightShooter
+TwentyFourthsAndAHalfCentury: Richochet EmoCowboy StraightShooter
+EmoCowboy: Richochet TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 06:05:35.517126706 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Monkey AntiGrenadier
+                        Coward: Sb,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Sd,N,Sd,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                      Zaenille: -4
+                        Monkey: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey AntiGrenadier Zaenille
+Zaenille: Monkey AntiGrenadier Coward
+Monkey: Zaenille AntiGrenadier Coward
+AntiGrenadier: Zaenille Monkey Coward
+Generated: 2014/08/12 07:17:17.330228112 UTC

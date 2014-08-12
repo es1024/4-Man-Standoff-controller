@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Neo CourageTheDog
+                     Grenadier: N,N,N,N,N,N,P,N,N
+                         Spock: N,N,N,N,N,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,Dd,N,Dd
+                 CourageTheDog: Sb,N,N,N,Sa,N,Da,P,Tb
+Final Health:
+                     Grenadier: -10
+                         Spock: -8
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Neo CourageTheDog
+Spock: Grenadier Neo CourageTheDog
+Neo: Grenadier Spock CourageTheDog
+CourageTheDog: Grenadier Spock Neo
+Generated: 2014/08/12 07:30:18.344997878 UTC

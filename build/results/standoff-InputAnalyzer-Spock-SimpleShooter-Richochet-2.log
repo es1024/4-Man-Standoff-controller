@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter Richochet
+                 InputAnalyzer: Dd,Da,Da,Sc,N,Db,Dc,P,N
+                         Spock: Sd,N,Sd,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sa,N,Sa,N,N
+                     Richochet: Sb,N,Sb,N,Sc,N,Sc,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                         Spock: -1
+                 SimpleShooter: -1
+                     Richochet: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Spock SimpleShooter
+Spock: Richochet InputAnalyzer SimpleShooter
+SimpleShooter: Richochet InputAnalyzer Spock
+Richochet: SimpleShooter InputAnalyzer Spock
+Generated: 2014/08/12 05:52:06.302094682 UTC

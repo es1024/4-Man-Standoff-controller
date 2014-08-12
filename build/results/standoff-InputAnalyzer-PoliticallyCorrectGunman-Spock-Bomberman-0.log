@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock Bomberman
+                 InputAnalyzer: Db,P,Sa,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sd,N,Dc,Sd,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -10
+      PoliticallyCorrectGunman: 0
+                         Spock: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Spock Bomberman
+PoliticallyCorrectGunman: InputAnalyzer Spock Bomberman
+Spock: InputAnalyzer PoliticallyCorrectGunman Bomberman
+Bomberman: InputAnalyzer PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 09:13:45.077693138 UTC

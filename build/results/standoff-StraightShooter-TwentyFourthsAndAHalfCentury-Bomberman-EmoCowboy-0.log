@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Bomberman EmoCowboy
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dc,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Bomberman EmoCowboy
+TwentyFourthsAndAHalfCentury: StraightShooter Bomberman EmoCowboy
+Bomberman: StraightShooter TwentyFourthsAndAHalfCentury EmoCowboy
+EmoCowboy: StraightShooter TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 08:21:17.345456737 UTC

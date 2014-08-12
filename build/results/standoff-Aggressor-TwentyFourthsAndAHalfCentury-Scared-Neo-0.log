@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Scared Neo
+                     Aggressor: P,Tb,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dd,N
+                        Scared: Sd,N,Sa
+                           Neo: N,N,N
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                        Scared: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury Scared Neo
+TwentyFourthsAndAHalfCentury: Aggressor Scared Neo
+Scared: Aggressor TwentyFourthsAndAHalfCentury Neo
+Neo: Aggressor TwentyFourthsAndAHalfCentury Scared
+Generated: 2014/08/12 09:42:26.896230360 UTC

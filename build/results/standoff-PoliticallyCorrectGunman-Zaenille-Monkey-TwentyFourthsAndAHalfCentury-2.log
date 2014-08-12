@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Monkey TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: N,Dc,N,N,N,N,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -2
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Zaenille Monkey
+Zaenille: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Monkey
+Monkey: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Zaenille
+TwentyFourthsAndAHalfCentury: Monkey PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 10:31:28.237715841 UTC

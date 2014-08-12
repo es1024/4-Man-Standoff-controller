@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey TwentyFourthsAndAHalfCentury Rule0Bot
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Db,N,N,N,N,N,N,N,N,N,N,Sd,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,N,N,N,Sb,N,Sd,N,Sd,N,Sb,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Rule0Bot Monkey TwentyFourthsAndAHalfCentury
+Monkey: Rule0Bot Zaenille TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Zaenille Monkey
+Rule0Bot: TwentyFourthsAndAHalfCentury Zaenille Monkey
+Generated: 2014/08/12 06:06:05.881857475 UTC

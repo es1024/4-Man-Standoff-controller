@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Richochet AntiGrenadier
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Dc,Dd,Dc,Dd,Sc
+                     Richochet: Sa,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: -1
+                     Richochet: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward Richochet AntiGrenadier
+Coward: PoliticallyCorrectGunman Richochet AntiGrenadier
+Richochet: PoliticallyCorrectGunman Coward AntiGrenadier
+AntiGrenadier: PoliticallyCorrectGunman Coward Richochet
+Generated: 2014/08/12 09:50:42.769160980 UTC

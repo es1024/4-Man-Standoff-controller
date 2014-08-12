@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Coward Ninja
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sc,N,Sc
+                        Coward: Sa,N,Sd,N,Sd,N,Sb,N,Sb
+                         Ninja: Db,Db,Da,Dc,Dd,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -6
+                 SimpleShooter: 1
+                        Coward: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward Ninja SimpleShooter
+SimpleShooter: Coward Ninja PoliticallyCorrectGunman
+Coward: SimpleShooter Ninja PoliticallyCorrectGunman
+Ninja: SimpleShooter Coward PoliticallyCorrectGunman
+Generated: 2014/08/12 08:51:13.385358429 UTC

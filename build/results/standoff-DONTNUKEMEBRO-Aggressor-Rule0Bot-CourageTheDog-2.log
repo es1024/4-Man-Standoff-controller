@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Aggressor Rule0Bot CourageTheDog
+                 DONTNUKEMEBRO: Db,Sb
+                     Aggressor: P,Td
+                      Rule0Bot: N,Sb
+                 CourageTheDog: Sc,N
+Final Health:
+                 DONTNUKEMEBRO: 2
+                     Aggressor: -2
+                      Rule0Bot: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog Aggressor Rule0Bot
+Aggressor: CourageTheDog DONTNUKEMEBRO Rule0Bot
+Rule0Bot: CourageTheDog DONTNUKEMEBRO Aggressor
+CourageTheDog: Rule0Bot DONTNUKEMEBRO Aggressor
+Generated: 2014/08/12 08:21:32.358354197 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Richochet Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sc,N,Sc,N,Dc,Da,Dc,Sc,N,Sa
+                     Richochet: Sb,N,Sd,N,Sa,N,Sb,N,Sb,N,Sa,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 1
+                     Richochet: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Richochet Rule0Bot
+Coward: Pacifist Richochet Rule0Bot
+Richochet: Pacifist Coward Rule0Bot
+Rule0Bot: Pacifist Coward Richochet
+Generated: 2014/08/12 07:58:47.642893664 UTC

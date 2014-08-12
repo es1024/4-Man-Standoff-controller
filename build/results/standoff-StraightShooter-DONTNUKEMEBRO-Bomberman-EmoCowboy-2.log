@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Bomberman EmoCowboy
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Da,Dc,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                     Bomberman: 5
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy DONTNUKEMEBRO Bomberman
+DONTNUKEMEBRO: EmoCowboy StraightShooter Bomberman
+Bomberman: EmoCowboy StraightShooter DONTNUKEMEBRO
+EmoCowboy: Bomberman StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 06:50:18.496953613 UTC

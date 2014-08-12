@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter TwentyFourthsAndAHalfCentury Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Da,N,N,N,Da,Db,Da,Da,Da,Da,Da,Db,Da,Da,Da,Da,Da,Da,N,N,N,N,N,N,N,N,N,Db,Da,Db,Da,Db,Da,Db,Da,Db,Da,Db,Da,Da,Da,Db,Da,Db,Da,Db,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -15
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Rule0Bot StraightShooter
+StraightShooter: TwentyFourthsAndAHalfCentury Rule0Bot Pacifist
+TwentyFourthsAndAHalfCentury: StraightShooter Rule0Bot Pacifist
+Rule0Bot: StraightShooter TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 10:25:27.394115333 UTC

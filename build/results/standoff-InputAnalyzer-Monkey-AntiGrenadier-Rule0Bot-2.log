@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey AntiGrenadier Rule0Bot
+                 InputAnalyzer: Dd,Dc,P,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                        Monkey: -18
+                 AntiGrenadier: -18
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Monkey AntiGrenadier
+Monkey: Rule0Bot InputAnalyzer AntiGrenadier
+AntiGrenadier: Rule0Bot InputAnalyzer Monkey
+Rule0Bot: AntiGrenadier InputAnalyzer Monkey
+Generated: 2014/08/12 07:19:04.305325825 UTC

@@ -1,16 +1,16 @@
 Standoff between: StraightShooter DONTNUKEMEBRO Spock SimpleShooter
-               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
-                 DONTNUKEMEBRO: Dc,P,Dc,N,N,N,N
-                         Spock: Sd,N,Sb,N,Sd,N,Sa
-                 SimpleShooter: Sb,N,Sb,N,N,N,N
+               StraightShooter: Sb,N,Sb,N
+                 DONTNUKEMEBRO: Da,Dc,P,Tc
+                         Spock: Sd,N,Sd,N
+                 SimpleShooter: Sb,N,Sa,N
 Final Health:
                StraightShooter: 0
-                 DONTNUKEMEBRO: -9
-                         Spock: 2
-                 SimpleShooter: 0
+                 DONTNUKEMEBRO: -2
+                         Spock: -3
+                 SimpleShooter: -2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 StraightShooter: SimpleShooter DONTNUKEMEBRO Spock
 DONTNUKEMEBRO: SimpleShooter StraightShooter Spock
 Spock: SimpleShooter StraightShooter DONTNUKEMEBRO
 SimpleShooter: Spock StraightShooter DONTNUKEMEBRO
-Generated: 2014/08/11 00:58:47.074766441 UTC
+Generated: 2014/08/12 07:56:06.839144570 UTC

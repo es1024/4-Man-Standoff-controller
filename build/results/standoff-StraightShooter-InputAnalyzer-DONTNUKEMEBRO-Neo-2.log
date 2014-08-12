@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 InputAnalyzer: Dd,Sc,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Db,Dd,Sb,N,Da,Da,Db,Da,Db,Dd,Db,Dd,Dd,Dd,Da,Db,Da,Db,Dd,Da,Da,Dd,Dd,Da,Dd,Dd,Dd,Db,Dd,Dd,Dd,Db,Dd,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                           Neo: N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Da,Dc,Da,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sc,N,N,N,Sa
+Final Health:
+               StraightShooter: -19
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: -19
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: Neo StraightShooter DONTNUKEMEBRO
+DONTNUKEMEBRO: Neo StraightShooter InputAnalyzer
+Neo: DONTNUKEMEBRO StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:46:22.432286907 UTC

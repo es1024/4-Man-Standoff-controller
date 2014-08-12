@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Ninja AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: N,Dd,Da,Dc,Da,Dc,Dc,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,N,N,Dc,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Dd,Da,Dc,Dc,Db,Db,Dc,Dc,Da,Dd,Dc,Da,Dc,Db,Dd,Da,Dc,Db,Dc,Db,Dd,Dc,Dd,Dc,Dd,Dc,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: AntiGrenadier HanSolo Ninja
+Ninja: AntiGrenadier HanSolo TwentyFourthsAndAHalfCentury
+AntiGrenadier: Ninja HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:20:01.552333530 UTC

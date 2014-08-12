@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward TwentyFourthsAndAHalfCentury CourageTheDog
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sd,N,Sb
+                        Coward: Sc,N,Sc,N,Sa,N,Da,Dc,Sa
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,N,N,Db,Sa,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog Coward TwentyFourthsAndAHalfCentury
+Coward: CourageTheDog SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog SimpleShooter Coward
+CourageTheDog: TwentyFourthsAndAHalfCentury SimpleShooter Coward
+Generated: 2014/08/12 07:13:07.131633987 UTC

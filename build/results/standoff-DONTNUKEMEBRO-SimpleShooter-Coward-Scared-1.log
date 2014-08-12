@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Coward Scared
+                 DONTNUKEMEBRO: Dd,Dd,P
+                 SimpleShooter: Sa,N,Sd
+                        Coward: Sa,N,Sa
+                        Scared: Sa,N,Sc
+Final Health:
+                 DONTNUKEMEBRO: -7
+                 SimpleShooter: 2
+                        Coward: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Coward Scared SimpleShooter
+SimpleShooter: Coward Scared DONTNUKEMEBRO
+Coward: SimpleShooter Scared DONTNUKEMEBRO
+Scared: SimpleShooter Coward DONTNUKEMEBRO
+Generated: 2014/08/12 05:43:41.148583318 UTC

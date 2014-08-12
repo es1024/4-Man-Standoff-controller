@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Richochet Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sc,N,Sc
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa,N,Sb
+                         Ninja: Da,Db,Db,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 3
+                     Richochet: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Richochet Ninja
+SimpleShooter: Pacifist Richochet Ninja
+Richochet: Pacifist SimpleShooter Ninja
+Ninja: Pacifist SimpleShooter Richochet
+Generated: 2014/08/12 10:18:40.940804367 UTC

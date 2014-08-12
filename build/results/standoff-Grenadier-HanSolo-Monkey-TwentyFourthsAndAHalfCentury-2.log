@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Monkey TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,P,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sc
+                        Monkey: N,Sd,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                       HanSolo: 2
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury HanSolo Monkey
+HanSolo: TwentyFourthsAndAHalfCentury Grenadier Monkey
+Monkey: TwentyFourthsAndAHalfCentury Grenadier HanSolo
+TwentyFourthsAndAHalfCentury: Monkey Grenadier HanSolo
+Generated: 2014/08/12 06:41:12.666319286 UTC

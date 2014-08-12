@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Scared Neo
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sc,N,Sb,N,Sd,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,N,Dd,Da,Dd,Dc,Dd,Dc,Dd,Dc,N,N
+                        Scared: N,N,Sb,N,Sa,N,Sb,N,Sa,N,Sa,N,Sb
+                           Neo: N,N,N,Db,Dc,Db,Dc,N,Dc,Db,Dc,N,N
+Final Health:
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Scared Neo
+TwentyFourthsAndAHalfCentury: SimpleShooter Scared Neo
+Scared: SimpleShooter TwentyFourthsAndAHalfCentury Neo
+Neo: SimpleShooter TwentyFourthsAndAHalfCentury Scared
+Generated: 2014/08/12 09:41:57.101616649 UTC

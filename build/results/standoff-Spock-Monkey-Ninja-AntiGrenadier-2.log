@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Ninja AntiGrenadier
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,Sd,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,Sd,N,N,N,N,N,N,P,N
+                        Monkey: N,Da,N,N,N,N,N,N,N,Da,N,Db,N,Sd,N,N,N,N,N,N,Dc,N,N,N,N,Dd,Da,Sd,N,N,Db,Db,N,Dd,Db,Sd,N,N,N,Dc,N,N,Db,N,N,N,N,Dc,N,P
+                         Ninja: Da,Db,Dd,Dc,Dc,Dd,Db,Dc,Da,Db,Db,Da,Db,Db,Dd,Dc,Da,Dc,Dd,Dc,Dd,Dd,Db,Dc,Dd,Da,Db,Dd,Da,Db,Dd,Dc,Dd,Db,Dc,Dc,Dd,Dd,Dc,Dc,Da,Db,Da,Dd,Da,Db,Dc,Dd,Dd,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -15
+                        Monkey: -15
+                         Ninja: -15
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Monkey Ninja
+Monkey: AntiGrenadier Spock Ninja
+Ninja: AntiGrenadier Spock Monkey
+AntiGrenadier: Ninja Spock Monkey
+Generated: 2014/08/12 05:54:44.395642128 UTC

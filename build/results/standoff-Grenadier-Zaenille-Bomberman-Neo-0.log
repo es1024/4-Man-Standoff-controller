@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Bomberman Neo
+                     Grenadier: P,Tc,N,P,N,N
+                      Zaenille: Sb,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N
+                           Neo: N,Dc,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                      Zaenille: -2
+                     Bomberman: -3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Bomberman Neo
+Zaenille: Grenadier Bomberman Neo
+Bomberman: Grenadier Zaenille Neo
+Neo: Grenadier Zaenille Bomberman
+Generated: 2014/08/12 07:18:20.366144647 UTC

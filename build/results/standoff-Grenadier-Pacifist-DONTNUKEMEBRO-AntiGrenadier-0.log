@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist DONTNUKEMEBRO AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Db,Da,Db,Dd,Db,Db,Dd,Dd,Dd,Da,Dd,Db,Dd,Db,Db,Da,Db,Db,Sa,N,Da,Dd,Dd,Da,Db,Db,Da,Da,Db,Da,Db,Db,Dd,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -2
+                      Pacifist: -3
+                 DONTNUKEMEBRO: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist DONTNUKEMEBRO AntiGrenadier
+Pacifist: Grenadier DONTNUKEMEBRO AntiGrenadier
+DONTNUKEMEBRO: Grenadier Pacifist AntiGrenadier
+AntiGrenadier: Grenadier Pacifist DONTNUKEMEBRO
+Generated: 2014/08/12 10:03:50.379600092 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet EmoCowboy CourageTheDog
+                 InputAnalyzer: Dd,Da,Sa,N,N,N,N,N,N
+                     Richochet: Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Db,Db,Sb,N,Db,Sb
+Final Health:
+                 InputAnalyzer: -2
+                     Richochet: -1
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Richochet EmoCowboy
+Richochet: CourageTheDog InputAnalyzer EmoCowboy
+EmoCowboy: CourageTheDog InputAnalyzer Richochet
+CourageTheDog: EmoCowboy InputAnalyzer Richochet
+Generated: 2014/08/12 08:37:53.183884065 UTC

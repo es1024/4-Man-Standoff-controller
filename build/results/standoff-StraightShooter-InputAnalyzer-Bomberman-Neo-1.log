@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Bomberman Neo
+               StraightShooter: Sd,N,Sd,N
+                 InputAnalyzer: Dc,P,Sc,N
+                     Bomberman: N,N,N,N
+                           Neo: N,N,N,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -1
+                     Bomberman: 0
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Neo InputAnalyzer
+InputAnalyzer: Bomberman Neo StraightShooter
+Bomberman: InputAnalyzer Neo StraightShooter
+Neo: InputAnalyzer Bomberman StraightShooter
+Generated: 2014/08/12 07:58:49.956181625 UTC

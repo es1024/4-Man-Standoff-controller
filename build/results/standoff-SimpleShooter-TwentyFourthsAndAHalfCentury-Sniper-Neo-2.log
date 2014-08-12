@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Sniper Neo
+                 SimpleShooter: Sc,N,Sb,N,Sc,N,Sb,N,Sc,N,Sb
+  TwentyFourthsAndAHalfCentury: N,N,Dc,Dd,Dd,Dd,Dd,N,Dc,Sa,N
+                        Sniper: Sa,N,Sd,N,Sd,N,Sd,N,N,N,N
+                           Neo: N,N,N,N,Db,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: Neo SimpleShooter Sniper
+Sniper: Neo SimpleShooter TwentyFourthsAndAHalfCentury
+Neo: Sniper SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:29:30.683775774 UTC

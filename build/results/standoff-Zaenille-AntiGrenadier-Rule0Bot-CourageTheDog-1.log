@@ -1,0 +1,16 @@
+Standoff between: Zaenille AntiGrenadier Rule0Bot CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Dc,Dc,Dc,N,Db,Sb,N,Dc,Dc,Db,Dc,Db,Sc,N,Db,Db,Sb,N,Db,Sb
+Final Health:
+                      Zaenille: -2
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Rule0Bot CourageTheDog AntiGrenadier
+AntiGrenadier: Rule0Bot CourageTheDog Zaenille
+Rule0Bot: AntiGrenadier CourageTheDog Zaenille
+CourageTheDog: AntiGrenadier Rule0Bot Zaenille
+Generated: 2014/08/12 10:36:33.426827870 UTC

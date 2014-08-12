@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock Zaenille CourageTheDog
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Dd,Db,Sd,N,Dc,Db,Db,Db,Dc,Dd,Db,Db,Dd,Dc,Db,Sd,N,Dc,Sb,N,Db,Db
+                         Spock: N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,Sa,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sa,N,Da,Db,Sb,N,Da,Db,Da,Da,Da,Da,Da,Sa,N,Da,Da,Da,Sb,N,Da,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: -3
+                      Zaenille: -2
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Zaenille CourageTheDog Spock
+Spock: Zaenille CourageTheDog DONTNUKEMEBRO
+Zaenille: Spock CourageTheDog DONTNUKEMEBRO
+CourageTheDog: Spock Zaenille DONTNUKEMEBRO
+Generated: 2014/08/12 06:17:45.130093264 UTC

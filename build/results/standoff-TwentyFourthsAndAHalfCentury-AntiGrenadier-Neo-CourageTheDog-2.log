@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury AntiGrenadier Neo CourageTheDog
+  TwentyFourthsAndAHalfCentury: Db,Db,Dc,Db,Sb,N,Sc,N,N,Sd,N,Sc,N,Sd,N,Sb,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Db,Da,Dc,Db,Dc,Dc,Db,Da,Sc,N,Db,Da,Sa,N,Da,Sa,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 1
+                 AntiGrenadier: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: CourageTheDog AntiGrenadier Neo
+AntiGrenadier: CourageTheDog TwentyFourthsAndAHalfCentury Neo
+Neo: CourageTheDog TwentyFourthsAndAHalfCentury AntiGrenadier
+CourageTheDog: Neo TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 10:49:37.062307705 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Scared Neo
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd
+                        Monkey: N,Sb,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sd,N,Sa
+                           Neo: N,N,N,Sa,N,Sc,N
+Final Health:
+                 SimpleShooter: -1
+                        Monkey: -2
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Neo Monkey
+Monkey: Scared Neo SimpleShooter
+Scared: Monkey Neo SimpleShooter
+Neo: Monkey Scared SimpleShooter
+Generated: 2014/08/12 10:08:02.893461630 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Ninja AntiGrenadier
+                 InputAnalyzer: Dd,Dc,P,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dc,Da,Dd,Db,Dc,Da,Db,Dd,Da,Da,Dd,Dd,Dc,Dc,Db,Dd,Da,Db,Dc,Dc,Dd,Dc,Da,Dd,Da,Dc,Dd,Da,Db,Dd,Dc,Da,Dd,Dd,Dc,Da,Db,Dd,Dc,Da,Db,Dd,Dc,Dc,Db,Dd,Da,Dc
+                 AntiGrenadier: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                     Bomberman: -18
+                         Ninja: -18
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Bomberman Ninja
+Bomberman: AntiGrenadier InputAnalyzer Ninja
+Ninja: AntiGrenadier InputAnalyzer Bomberman
+AntiGrenadier: Ninja InputAnalyzer Bomberman
+Generated: 2014/08/12 07:29:33.875070617 UTC

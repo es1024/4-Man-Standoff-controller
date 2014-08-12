@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Monkey EmoCowboy
+                 SimpleShooter: Sb,N,Sb,N,Sb
+                     Richochet: Sc,N,Sa,N,Sa
+                        Monkey: N,Sc,N,N,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                     Richochet: -1
+                        Monkey: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey EmoCowboy Richochet
+Richochet: Monkey EmoCowboy SimpleShooter
+Monkey: Richochet EmoCowboy SimpleShooter
+EmoCowboy: Richochet Monkey SimpleShooter
+Generated: 2014/08/12 06:44:45.645416511 UTC

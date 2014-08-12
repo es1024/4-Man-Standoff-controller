@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Aggressor Zaenille
+                      Pacifist: N,N
+                        Coward: Sa,N
+                     Aggressor: P,Tb
+                      Zaenille: Sd,N
+Final Health:
+                      Pacifist: 0
+                        Coward: -3
+                     Aggressor: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Zaenille Coward
+Coward: Aggressor Zaenille Pacifist
+Aggressor: Coward Zaenille Pacifist
+Zaenille: Coward Aggressor Pacifist
+Generated: 2014/08/12 06:47:41.818174319 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Zaenille Sniper
+      PoliticallyCorrectGunman: Dc,Sd,N,Sd
+                        Coward: Sd,N,Sa,N
+                      Zaenille: Sc,N,N,N
+                        Sniper: Sa,N,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: 5
+                      Zaenille: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward Zaenille Sniper
+Coward: PoliticallyCorrectGunman Zaenille Sniper
+Zaenille: PoliticallyCorrectGunman Coward Sniper
+Sniper: PoliticallyCorrectGunman Coward Zaenille
+Generated: 2014/08/12 09:10:27.015850112 UTC

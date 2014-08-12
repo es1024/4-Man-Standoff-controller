@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor AntiGrenadier Neo
+                         Spock: Sc,N
+                     Aggressor: P,Td
+                 AntiGrenadier: N,Sb
+                           Neo: N,Dc
+Final Health:
+                         Spock: 2
+                     Aggressor: 0
+                 AntiGrenadier: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Neo Aggressor
+Aggressor: AntiGrenadier Neo Spock
+AntiGrenadier: Aggressor Neo Spock
+Neo: Aggressor AntiGrenadier Spock
+Generated: 2014/08/12 07:57:51.079088714 UTC

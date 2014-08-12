@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Bomberman Neo
+                     Grenadier: N,N,N,N,N,N,N,N,P,N,N
+      PoliticallyCorrectGunman: Sd,N,N,N,N,N,N,Dd,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Dc,N,N,Dc
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: 2
+                     Bomberman: -2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Bomberman Neo
+PoliticallyCorrectGunman: Grenadier Bomberman Neo
+Bomberman: Grenadier PoliticallyCorrectGunman Neo
+Neo: Grenadier PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 09:47:20.219463227 UTC

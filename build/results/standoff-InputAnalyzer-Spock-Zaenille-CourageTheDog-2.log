@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Zaenille CourageTheDog
+                 InputAnalyzer: Dd,Dc,Da,Dc,Dd,Sc,N,P,Sd
+                         Spock: N,N,N,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,N,Sb,N,Db,Da,Db,P
+Final Health:
+                 InputAnalyzer: 2
+                         Spock: 0
+                      Zaenille: -2
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Spock Zaenille
+Spock: CourageTheDog InputAnalyzer Zaenille
+Zaenille: CourageTheDog InputAnalyzer Spock
+CourageTheDog: Zaenille InputAnalyzer Spock
+Generated: 2014/08/12 10:16:40.257478787 UTC

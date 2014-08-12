@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy AntiGrenadier Rule0Bot Scared
+                     EmoCowboy: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,Sc,N,Sb,N,Sb,N,Sc
+Final Health:
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: Scared AntiGrenadier Rule0Bot
+AntiGrenadier: Scared EmoCowboy Rule0Bot
+Rule0Bot: Scared EmoCowboy AntiGrenadier
+Scared: Rule0Bot EmoCowboy AntiGrenadier
+Generated: 2014/08/12 05:48:00.254547520 UTC

@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Richochet Sniper
+                 DONTNUKEMEBRO: Db,Db,Sb,N,Sb,N,N
+                 SimpleShooter: Sa,N,Sa,N,Sa,N,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sd
+                        Sniper: Sb,N,Sc,N,Sb,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -3
+                     Richochet: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Richochet Sniper SimpleShooter
+SimpleShooter: Richochet Sniper DONTNUKEMEBRO
+Richochet: SimpleShooter Sniper DONTNUKEMEBRO
+Sniper: SimpleShooter Richochet DONTNUKEMEBRO
+Generated: 2014/08/12 10:07:56.679109114 UTC

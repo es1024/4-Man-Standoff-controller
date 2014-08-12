@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Coward Bomberman
+                     Grenadier: P,N,N,N,N
+                         Spock: Sc,N,Sa,N,Sd
+                        Coward: Sa,N,Sa,N,N
+                     Bomberman: N,N,N,N,N
+Final Health:
+                     Grenadier: -7
+                         Spock: 2
+                        Coward: 0
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Bomberman Spock
+Spock: Coward Bomberman Grenadier
+Coward: Spock Bomberman Grenadier
+Bomberman: Spock Coward Grenadier
+Generated: 2014/08/12 09:15:00.677867377 UTC

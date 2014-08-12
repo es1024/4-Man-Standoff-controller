@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Richochet Monkey
+                 InputAnalyzer: Dd,P,Da,N,N
+      PoliticallyCorrectGunman: N,Sb,N,N,N
+                     Richochet: Sb,N,Sa,N,Sd
+                        Monkey: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: -2
+                     Richochet: 2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey PoliticallyCorrectGunman Richochet
+PoliticallyCorrectGunman: Monkey InputAnalyzer Richochet
+Richochet: Monkey InputAnalyzer PoliticallyCorrectGunman
+Monkey: Richochet InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 09:19:29.042804226 UTC

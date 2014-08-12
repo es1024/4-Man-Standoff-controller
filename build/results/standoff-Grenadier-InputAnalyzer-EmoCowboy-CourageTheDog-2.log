@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer EmoCowboy CourageTheDog
+                     Grenadier: N,P,Td
+                 InputAnalyzer: Dd,Dc,Dc
+                     EmoCowboy: Sc,N,N
+                 CourageTheDog: Sa,N,P
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -1
+                     EmoCowboy: -2
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog InputAnalyzer EmoCowboy
+InputAnalyzer: CourageTheDog Grenadier EmoCowboy
+EmoCowboy: CourageTheDog Grenadier InputAnalyzer
+CourageTheDog: EmoCowboy Grenadier InputAnalyzer
+Generated: 2014/08/12 07:06:42.922211778 UTC

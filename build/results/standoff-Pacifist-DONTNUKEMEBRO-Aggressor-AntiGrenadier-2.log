@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO Aggressor AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Sc,N,Dd,Dd,Dd,Da,Da,Da,Dd,Dd,Da,Da,Da,Da,Da,Dd,Dd,Dd,Dc,Dc,Dc,Dd,Dd,Da,Da,Dc,Dc,Dc,Dd,Dd,Dd,Dd,Dd,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -18
+                 DONTNUKEMEBRO: -18
+                     Aggressor: -2
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier DONTNUKEMEBRO Aggressor
+DONTNUKEMEBRO: AntiGrenadier Pacifist Aggressor
+Aggressor: AntiGrenadier Pacifist DONTNUKEMEBRO
+AntiGrenadier: Aggressor Pacifist DONTNUKEMEBRO
+Generated: 2014/08/12 08:24:14.959626152 UTC

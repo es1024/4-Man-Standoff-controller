@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille TwentyFourthsAndAHalfCentury Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Sd,N,Sa,N,Sd,N,Sa,N,Sa,N,Sd
+                         Ninja: Dd,Dc,Db,Db,Db,Dc,Dd,Dd,Da,Da,Dd,Dd,Da
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Ninja Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Ninja Pacifist
+TwentyFourthsAndAHalfCentury: Zaenille Ninja Pacifist
+Ninja: Zaenille TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 06:54:23.282666060 UTC

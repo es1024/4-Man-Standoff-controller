@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Zaenille CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Da,Da,Sa,N,Da,Da,Da,Da,Da,Da,Sa
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -2
+                      Zaenille: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille CourageTheDog InputAnalyzer
+InputAnalyzer: Zaenille CourageTheDog StraightShooter
+Zaenille: InputAnalyzer CourageTheDog StraightShooter
+CourageTheDog: InputAnalyzer Zaenille StraightShooter
+Generated: 2014/08/12 08:09:03.168611623 UTC

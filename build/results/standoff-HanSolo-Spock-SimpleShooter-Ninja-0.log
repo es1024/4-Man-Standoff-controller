@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock SimpleShooter Ninja
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd
+                         Spock: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sd,N,Sd,N,Sa,N,N
+                         Ninja: Dd,Da,Db,Db,Dc,Dd,Dc,Da,Db,Dc,Dc,Dd,Dd
+Final Health:
+                       HanSolo: 1
+                         Spock: -1
+                 SimpleShooter: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock SimpleShooter Ninja
+Spock: HanSolo SimpleShooter Ninja
+SimpleShooter: HanSolo Spock Ninja
+Ninja: HanSolo Spock SimpleShooter
+Generated: 2014/08/12 06:20:15.398641592 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: P,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Sb,N,Db,Dd,Dd,Db,Db,Dd,Da,Dd,Da,Da,Da,Db,Da,Db,Da,Da,Db,Db,Db,Da,Da,Db,Dd,Db,Da,Da,Da,Da,Dd,Da,Dd,Sa
+                 AntiGrenadier: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+      PoliticallyCorrectGunman: -5
+                 DONTNUKEMEBRO: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO AntiGrenadier PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO AntiGrenadier Pacifist
+DONTNUKEMEBRO: PoliticallyCorrectGunman AntiGrenadier Pacifist
+AntiGrenadier: PoliticallyCorrectGunman DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 05:55:45.426052058 UTC

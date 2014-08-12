@@ -1,0 +1,16 @@
+Standoff between: Pacifist AntiGrenadier Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,Dd,Dd,Dd,N,N,Dd,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Sa,N,Sc,N,Dc,Dc,Sa,N,Da,Dc,Dc,Dc,Dc,Db,Dc,Db,Da,Sc,N,Db,Sc,N,N,Sa,N,Db,Db,Db,Sb,N,Db,Sb
+Final Health:
+                      Pacifist: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Neo CourageTheDog
+AntiGrenadier: Pacifist Neo CourageTheDog
+Neo: Pacifist AntiGrenadier CourageTheDog
+CourageTheDog: Pacifist AntiGrenadier Neo
+Generated: 2014/08/12 08:09:29.798274448 UTC

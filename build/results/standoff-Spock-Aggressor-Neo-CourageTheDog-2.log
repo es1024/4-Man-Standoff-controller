@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Neo CourageTheDog
+                         Spock: N,Sd,N
+                     Aggressor: P,Td,Sc
+                           Neo: N,N,N
+                 CourageTheDog: Sa,N,N
+Final Health:
+                         Spock: 0
+                     Aggressor: 2
+                           Neo: 0
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Aggressor Neo
+Aggressor: CourageTheDog Spock Neo
+Neo: CourageTheDog Spock Aggressor
+CourageTheDog: Neo Spock Aggressor
+Generated: 2014/08/12 08:17:45.331761146 UTC

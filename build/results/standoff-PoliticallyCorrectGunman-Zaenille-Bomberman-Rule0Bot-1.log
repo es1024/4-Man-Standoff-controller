@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Bomberman Rule0Bot
+      PoliticallyCorrectGunman: N,N,N,N,N,Sb,N,N,Sb,N,Sc,N,N,Sb,N,Db,N,N,Dc,Sb,N,Sb,N,N,N,N,Sb,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                     Bomberman: -17
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman Rule0Bot Zaenille
+Zaenille: Bomberman Rule0Bot PoliticallyCorrectGunman
+Bomberman: Zaenille Rule0Bot PoliticallyCorrectGunman
+Rule0Bot: Zaenille Bomberman PoliticallyCorrectGunman
+Generated: 2014/08/12 07:05:50.606328800 UTC

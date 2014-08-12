@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Aggressor TwentyFourthsAndAHalfCentury
+                 SimpleShooter: Sb,N
+                        Coward: Sa,N
+                     Aggressor: P,Td
+  TwentyFourthsAndAHalfCentury: Db,Dc
+Final Health:
+                 SimpleShooter: 0
+                        Coward: 0
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor TwentyFourthsAndAHalfCentury Coward
+Coward: Aggressor TwentyFourthsAndAHalfCentury SimpleShooter
+Aggressor: Coward TwentyFourthsAndAHalfCentury SimpleShooter
+TwentyFourthsAndAHalfCentury: Coward Aggressor SimpleShooter
+Generated: 2014/08/12 07:18:27.592032574 UTC

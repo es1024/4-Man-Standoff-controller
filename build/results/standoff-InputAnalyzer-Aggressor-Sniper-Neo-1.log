@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Sniper Neo
+                 InputAnalyzer: Dc,Dd,Dc,Db,P,Sc,N
+                     Aggressor: P,Tc,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                     Aggressor: 0
+                        Sniper: -3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Neo Aggressor
+Aggressor: Sniper Neo InputAnalyzer
+Sniper: Aggressor Neo InputAnalyzer
+Neo: Aggressor Sniper InputAnalyzer
+Generated: 2014/08/12 08:20:12.337778098 UTC

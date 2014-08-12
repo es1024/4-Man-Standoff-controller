@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Richochet Sniper
+                 InputAnalyzer: Dd,P,Da,Dd
+                 DONTNUKEMEBRO: Dc,Dc,P,N
+                     Richochet: Sb,N,Sb,N
+                        Sniper: Sb,N,Sb,N
+Final Health:
+                 InputAnalyzer: -4
+                 DONTNUKEMEBRO: -7
+                     Richochet: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: Sniper InputAnalyzer Richochet
+Richochet: Sniper InputAnalyzer DONTNUKEMEBRO
+Sniper: Richochet InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 10:13:56.091375281 UTC

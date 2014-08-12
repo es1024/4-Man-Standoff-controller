@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Sniper Neo
+                 InputAnalyzer: Db,Dc,Db,Dd,Sc,N,Da,P,Sb,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sb,N,Sb,N,N,N
+                           Neo: N,N,N,N,N,N,N,Da,Dc,Dc
+Final Health:
+                 InputAnalyzer: -3
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Sniper Neo
+TwentyFourthsAndAHalfCentury: InputAnalyzer Sniper Neo
+Sniper: InputAnalyzer TwentyFourthsAndAHalfCentury Neo
+Neo: InputAnalyzer TwentyFourthsAndAHalfCentury Sniper
+Generated: 2014/08/12 08:04:16.987671029 UTC

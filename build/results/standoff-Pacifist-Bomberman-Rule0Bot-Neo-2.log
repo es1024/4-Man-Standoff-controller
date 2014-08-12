@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman Rule0Bot Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Db,N,N,N,N,Db,Db,Db,Db,N,N,N,N,N,N,N,N,Db,N,Db,Db,Db,N,Db,Db,Db,N,N,N,N,N,N,N,N,N,Db,N,Db,N,Db,Db,N,Db,N,N
+Final Health:
+                      Pacifist: -15
+                     Bomberman: -15
+                      Rule0Bot: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo Bomberman Rule0Bot
+Bomberman: Neo Pacifist Rule0Bot
+Rule0Bot: Neo Pacifist Bomberman
+Neo: Rule0Bot Pacifist Bomberman
+Generated: 2014/08/12 06:25:19.089901605 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman AntiGrenadier Neo
+                     Richochet: Sb,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo Bomberman AntiGrenadier
+Bomberman: Neo Richochet AntiGrenadier
+AntiGrenadier: Neo Richochet Bomberman
+Neo: AntiGrenadier Richochet Bomberman
+Generated: 2014/08/12 05:49:39.899242182 UTC

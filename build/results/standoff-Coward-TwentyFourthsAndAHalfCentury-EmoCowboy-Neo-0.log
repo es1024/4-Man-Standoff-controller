@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury EmoCowboy Neo
+                        Coward: Sd,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Dd,Dd,Sb,N,Dd,Dd,Sb,N,Sb,N,Dd,Sb,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,N,N,N,N,N,N,N,N,Sa,N,N,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,Da,Sa
+Final Health:
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury EmoCowboy Neo
+TwentyFourthsAndAHalfCentury: Coward EmoCowboy Neo
+EmoCowboy: Coward TwentyFourthsAndAHalfCentury Neo
+Neo: Coward TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 10:20:16.186895842 UTC

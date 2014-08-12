@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+                     Aggressor: P,Tc,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Sd
+                     Bomberman: N,N,N
+                      Rule0Bot: N,Sa,N
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: -3
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Rule0Bot Aggressor
+Bomberman: TwentyFourthsAndAHalfCentury Rule0Bot Aggressor
+Rule0Bot: TwentyFourthsAndAHalfCentury Bomberman Aggressor
+Generated: 2014/08/12 06:34:55.191965827 UTC

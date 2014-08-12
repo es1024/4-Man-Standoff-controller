@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Sa,N,N,N,Sd,N,Sd,N,Sd,N,Sa,N,Sd,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Db,Dd,Da,Dd,Dd,Da,Db,Dd,Dd,Dd,Dd,Db,Dc,N,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Ninja Pacifist EmoCowboy
+EmoCowboy: Ninja Pacifist TwentyFourthsAndAHalfCentury
+Ninja: EmoCowboy Pacifist TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:24:54.203240186 UTC

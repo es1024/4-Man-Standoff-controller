@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Ninja Scared CourageTheDog
+                 InputAnalyzer: Dc,Db,P,N,N
+                         Ninja: Dd,Db,Da,Dc,Dd
+                        Scared: Sa,N,Sb,N,Sa
+                 CourageTheDog: Sa,N,Dc,P,Tc
+Final Health:
+                 InputAnalyzer: -8
+                         Ninja: -3
+                        Scared: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared CourageTheDog Ninja
+Ninja: Scared CourageTheDog InputAnalyzer
+Scared: Ninja CourageTheDog InputAnalyzer
+CourageTheDog: Ninja Scared InputAnalyzer
+Generated: 2014/08/12 08:07:07.754680612 UTC

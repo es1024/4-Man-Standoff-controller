@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Aggressor TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Tb,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+                      Pacifist: 0
+                       HanSolo: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor TwentyFourthsAndAHalfCentury HanSolo
+HanSolo: Aggressor TwentyFourthsAndAHalfCentury Pacifist
+Aggressor: HanSolo TwentyFourthsAndAHalfCentury Pacifist
+TwentyFourthsAndAHalfCentury: HanSolo Aggressor Pacifist
+Generated: 2014/08/12 06:32:20.798870665 UTC

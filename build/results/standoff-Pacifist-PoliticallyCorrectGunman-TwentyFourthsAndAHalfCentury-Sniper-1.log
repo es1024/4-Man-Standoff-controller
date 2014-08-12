@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Dd,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+  TwentyFourthsAndAHalfCentury: 5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Sniper PoliticallyCorrectGunman
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Sniper Pacifist
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Sniper Pacifist
+Sniper: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 07:51:46.891933984 UTC

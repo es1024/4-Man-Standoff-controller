@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Rule0Bot CourageTheDog
+                     Grenadier: N,N,P,N,N
+                         Spock: Sc,N,Sc,N,Sa
+                      Rule0Bot: N,N,N,Sa,N
+                 CourageTheDog: Sa,N,Db,P,Tc
+Final Health:
+                     Grenadier: -10
+                         Spock: -1
+                      Rule0Bot: -10
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot CourageTheDog Spock
+Spock: Rule0Bot CourageTheDog Grenadier
+Rule0Bot: Spock CourageTheDog Grenadier
+CourageTheDog: Spock Rule0Bot Grenadier
+Generated: 2014/08/12 10:24:26.754101316 UTC

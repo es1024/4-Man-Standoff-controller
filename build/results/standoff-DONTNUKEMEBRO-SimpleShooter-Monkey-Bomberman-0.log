@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Monkey Bomberman
+                 DONTNUKEMEBRO: Dd,Dc,Db,Db,Dd,Db,Sb,N,Dd,Dd,Dd,Db,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sd,N,Sc
+                        Monkey: N,N,Dc,Dc,N,N,Db,N,N,Dd,Dd,Sa,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 3
+                        Monkey: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Monkey Bomberman
+SimpleShooter: DONTNUKEMEBRO Monkey Bomberman
+Monkey: DONTNUKEMEBRO SimpleShooter Bomberman
+Bomberman: DONTNUKEMEBRO SimpleShooter Monkey
+Generated: 2014/08/12 10:27:51.916203056 UTC

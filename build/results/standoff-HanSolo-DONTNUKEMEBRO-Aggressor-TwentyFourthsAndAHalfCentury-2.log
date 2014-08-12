@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Aggressor TwentyFourthsAndAHalfCentury
+                       HanSolo: Sd,N
+                 DONTNUKEMEBRO: Dd,Sc
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: N,N
+Final Health:
+                       HanSolo: -3
+                 DONTNUKEMEBRO: 2
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO Aggressor
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury HanSolo Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury HanSolo DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: Aggressor HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 08:34:12.986708133 UTC

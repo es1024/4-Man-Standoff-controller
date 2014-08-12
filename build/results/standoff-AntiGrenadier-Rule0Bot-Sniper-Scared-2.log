@@ -1,0 +1,16 @@
+Standoff between: AntiGrenadier Rule0Bot Sniper Scared
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sb,N,Sb,N,N,Sa,N,N,N
+                        Scared: Sc,N,Sb,N,Sa,N,Sa,N,Sc,N,Sc
+Final Health:
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+AntiGrenadier: Scared Rule0Bot Sniper
+Rule0Bot: Scared AntiGrenadier Sniper
+Sniper: Scared AntiGrenadier Rule0Bot
+Scared: Sniper AntiGrenadier Rule0Bot
+Generated: 2014/08/12 08:34:34.897892886 UTC

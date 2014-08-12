@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Monkey Scared
+               StraightShooter: Sd,N,Sd,N
+                 InputAnalyzer: Dc,P,Sc,N
+                        Monkey: N,N,N,N
+                        Scared: N,N,N,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -1
+                        Monkey: 0
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Scared InputAnalyzer
+InputAnalyzer: Monkey Scared StraightShooter
+Monkey: InputAnalyzer Scared StraightShooter
+Scared: InputAnalyzer Monkey StraightShooter
+Generated: 2014/08/12 10:18:24.122112958 UTC

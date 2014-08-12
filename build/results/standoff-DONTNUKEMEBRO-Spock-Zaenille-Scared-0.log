@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock Zaenille Scared
+                 DONTNUKEMEBRO: Db,Dc,Sb,N,Db,Dd,Db,Dc,Db,Dd,Sd,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,Sa,N,Sb,N,Sb
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: -1
+                      Zaenille: -2
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Spock Zaenille Scared
+Spock: DONTNUKEMEBRO Zaenille Scared
+Zaenille: DONTNUKEMEBRO Spock Scared
+Scared: DONTNUKEMEBRO Spock Zaenille
+Generated: 2014/08/12 06:26:35.530975498 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Sniper Neo CourageTheDog
+                     Aggressor: P,Tb
+                        Sniper: Sd,N
+                           Neo: N,N
+                 CourageTheDog: Sc,N
+Final Health:
+                     Aggressor: 2
+                        Sniper: -3
+                           Neo: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper Neo CourageTheDog
+Sniper: Aggressor Neo CourageTheDog
+Neo: Aggressor Sniper CourageTheDog
+CourageTheDog: Aggressor Sniper Neo
+Generated: 2014/08/12 09:17:16.310505705 UTC

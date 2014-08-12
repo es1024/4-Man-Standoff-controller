@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,P,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Dc,Dc,N,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Dc,Da,Dc,Dc,Dc,Da,Dc,Da,Dc,Da,Dc,Dc,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Dc,Dc,Dc,Dc,Dc,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -15
+  TwentyFourthsAndAHalfCentury: -15
+                     Bomberman: -17
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: AntiGrenadier Spock Bomberman
+Bomberman: AntiGrenadier Spock TwentyFourthsAndAHalfCentury
+AntiGrenadier: Bomberman Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:49:52.731398849 UTC

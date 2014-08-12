@@ -1,0 +1,16 @@
+Standoff between: Richochet Sniper Neo CourageTheDog
+                     Richochet: Sb,N,Sd,N,Sd,N,Sb,N,Sc,N,Sc,N,Sc
+                        Sniper: Sd,N,Sc,N,Sd,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dd,N,Dd,N,Db,N,N,N,Da,N,N
+                 CourageTheDog: Sa,N,Sb,N,Db,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                        Sniper: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Sniper Neo CourageTheDog
+Sniper: Richochet Neo CourageTheDog
+Neo: Richochet Sniper CourageTheDog
+CourageTheDog: Richochet Sniper Neo
+Generated: 2014/08/12 08:02:06.502173415 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Aggressor Scared
+                     Grenadier: P,Tc
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Td
+                        Scared: Sb,N
+Final Health:
+                     Grenadier: -3
+                 SimpleShooter: -3
+                     Aggressor: -6
+                        Scared: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Scared SimpleShooter
+SimpleShooter: Aggressor Scared Grenadier
+Aggressor: SimpleShooter Scared Grenadier
+Scared: SimpleShooter Aggressor Grenadier
+Generated: 2014/08/12 07:24:51.078075256 UTC

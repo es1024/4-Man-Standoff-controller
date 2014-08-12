@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Dc,Dd,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa
+                     EmoCowboy: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy AntiGrenadier StraightShooter
+EmoCowboy: TwentyFourthsAndAHalfCentury AntiGrenadier StraightShooter
+AntiGrenadier: TwentyFourthsAndAHalfCentury EmoCowboy StraightShooter
+Generated: 2014/08/12 10:03:23.563144807 UTC

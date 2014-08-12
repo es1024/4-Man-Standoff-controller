@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Aggressor Richochet
+               StraightShooter: Sc,N
+      PoliticallyCorrectGunman: Sa,N
+                     Aggressor: P,Td
+                     Richochet: Sb,N
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 0
+                     Richochet: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Aggressor Richochet
+PoliticallyCorrectGunman: StraightShooter Aggressor Richochet
+Aggressor: StraightShooter PoliticallyCorrectGunman Richochet
+Richochet: StraightShooter PoliticallyCorrectGunman Aggressor
+Generated: 2014/08/12 06:29:32.592779989 UTC

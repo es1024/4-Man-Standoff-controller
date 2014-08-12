@@ -1,0 +1,16 @@
+Standoff between: HanSolo Ninja Scared Neo
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sb
+                         Ninja: Db,Dc,Da,Db,Dc,Db,Dc,Dd,Da,Db,Db,Dc,Db,Dd,Dc,Db,Da,Db,Db,Dd,Db
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,Db,Da,Db,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Ninja: -1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Neo Ninja
+Ninja: Scared Neo HanSolo
+Scared: Ninja Neo HanSolo
+Neo: Ninja Scared HanSolo
+Generated: 2014/08/12 07:29:35.368163107 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Aggressor Sniper
+                     Grenadier: N,N,N
+      PoliticallyCorrectGunman: P,N,N
+                     Aggressor: P,Td,N
+                        Sniper: Sc,N,N
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: -4
+                     Aggressor: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper PoliticallyCorrectGunman Aggressor
+PoliticallyCorrectGunman: Sniper Grenadier Aggressor
+Aggressor: Sniper Grenadier PoliticallyCorrectGunman
+Sniper: Aggressor Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 07:29:41.286793326 UTC

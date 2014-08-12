@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Bomberman Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Dc,Da,Dc,Da,Dd,N,N,N,N,N,N,Sc,N,Sc,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,N,Sb,N,Sa,N,N,N,N,N,Sb,N,Sa,N,Sa,N,Sb
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Scared Pacifist
+Bomberman: TwentyFourthsAndAHalfCentury Scared Pacifist
+Scared: TwentyFourthsAndAHalfCentury Bomberman Pacifist
+Generated: 2014/08/12 06:31:03.523057937 UTC

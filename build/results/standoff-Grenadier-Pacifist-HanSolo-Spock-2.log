@@ -1,16 +1,16 @@
 Standoff between: Grenadier Pacifist HanSolo Spock
-                     Grenadier: P,Tb
-                      Pacifist: N,N
-                       HanSolo: Sd,N
-                         Spock: Sc,N
+                     Grenadier: N,P,N,N
+                      Pacifist: N,N,N,N
+                       HanSolo: Sd,N,Sd,N
+                         Spock: Sc,N,N,N
 Final Health:
-                     Grenadier: 2
-                      Pacifist: -3
+                     Grenadier: -1
+                      Pacifist: 2
                        HanSolo: 0
-                         Spock: 0
+                         Spock: -2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: Spock Pacifist HanSolo
 Pacifist: Spock Grenadier HanSolo
 HanSolo: Spock Grenadier Pacifist
 Spock: HanSolo Grenadier Pacifist
-Generated: 2014/08/11 01:00:04.212399873 UTC
+Generated: 2014/08/12 09:19:00.805552040 UTC

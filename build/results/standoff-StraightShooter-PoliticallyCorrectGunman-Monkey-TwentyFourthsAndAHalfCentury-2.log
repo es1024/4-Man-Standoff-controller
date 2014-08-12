@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sa,N,Da,N,N,N,N,N,N,N,Dc,Dc,Dc,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,Sb,N,Sb,N,Da,Dc,N,Dc,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Da,N,N,N,N,N,Dc,Dc,Dc,Dc,Dc,Dc,Da,Dc,Dc,Dc,Da,Dc,N,N,N,N,N,Dc,Dc,Dc,Dc,Dc,Da,Dc,Da,Dc,Da,N,N,Dc,N,N,Dc,Dc,Da,Dc,Da,Dc,Da,Dc,Da,N
+Final Health:
+               StraightShooter: -19
+      PoliticallyCorrectGunman: -1
+                        Monkey: -15
+  TwentyFourthsAndAHalfCentury: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Monkey
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury StraightShooter Monkey
+Monkey: TwentyFourthsAndAHalfCentury StraightShooter PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Monkey StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 06:33:29.161399901 UTC

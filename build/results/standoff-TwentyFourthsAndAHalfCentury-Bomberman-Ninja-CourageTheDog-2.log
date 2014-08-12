@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman Ninja CourageTheDog
+  TwentyFourthsAndAHalfCentury: Dd,Dc,N,Dc,Sb,N,Sd,N,Sb,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dc,Db,Dc,Da,Dd,Dc,Dd,Dc,Dc,Dd,Da,Da,Db,Da,Db,Da,Db,Dd,Db,Da,Dc,Dd,Dc
+                 CourageTheDog: Sb,N,Da,N,Db,Dc,Sa,N,Db,Sc,N,Sa,N,Sa,N,Dc,Dc,Dc,Dc,Sc,N,N,Dc,Dc,Sc
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                         Ninja: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: CourageTheDog Bomberman Ninja
+Bomberman: CourageTheDog TwentyFourthsAndAHalfCentury Ninja
+Ninja: CourageTheDog TwentyFourthsAndAHalfCentury Bomberman
+CourageTheDog: Ninja TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 09:42:09.517134938 UTC

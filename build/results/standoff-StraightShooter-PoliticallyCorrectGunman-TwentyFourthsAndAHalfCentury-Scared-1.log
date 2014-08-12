@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,N,Dd,Sa,N,N,N,N,N,N,N,N,N,N,Sa
+                        Scared: Sa,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: 3
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Scared StraightShooter
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Scared StraightShooter
+Scared: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 10:07:43.444508429 UTC

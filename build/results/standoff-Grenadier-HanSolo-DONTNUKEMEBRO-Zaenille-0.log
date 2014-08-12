@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo DONTNUKEMEBRO Zaenille
+                     Grenadier: P,Tb
+                       HanSolo: Sa,N
+                 DONTNUKEMEBRO: Db,Sa
+                      Zaenille: Sd,N
+Final Health:
+                     Grenadier: -2
+                       HanSolo: -3
+                 DONTNUKEMEBRO: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo DONTNUKEMEBRO Zaenille
+HanSolo: Grenadier DONTNUKEMEBRO Zaenille
+DONTNUKEMEBRO: Grenadier HanSolo Zaenille
+Zaenille: Grenadier HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 10:14:59.370208631 UTC

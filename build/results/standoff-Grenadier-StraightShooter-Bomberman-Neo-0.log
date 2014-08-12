@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Bomberman Neo
+                     Grenadier: N,P,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Db,Sb
+Final Health:
+                     Grenadier: -1
+               StraightShooter: 0
+                     Bomberman: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Bomberman Neo
+StraightShooter: Grenadier Bomberman Neo
+Bomberman: Grenadier StraightShooter Neo
+Neo: Grenadier StraightShooter Bomberman
+Generated: 2014/08/12 06:15:18.896890849 UTC

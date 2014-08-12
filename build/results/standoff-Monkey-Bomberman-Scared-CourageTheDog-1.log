@@ -1,0 +1,16 @@
+Standoff between: Monkey Bomberman Scared CourageTheDog
+                        Monkey: N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,Sd,N,Sa,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Sb,N,Da,Sc,N,Sc,N,Sb,N,Da,Sa
+Final Health:
+                        Monkey: -1
+                     Bomberman: -1
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Scared CourageTheDog Bomberman
+Bomberman: Scared CourageTheDog Monkey
+Scared: Bomberman CourageTheDog Monkey
+CourageTheDog: Bomberman Scared Monkey
+Generated: 2014/08/12 07:14:28.859316711 UTC

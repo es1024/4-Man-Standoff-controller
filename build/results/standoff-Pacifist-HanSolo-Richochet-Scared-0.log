@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Richochet Scared
+                      Pacifist: N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd,N
+                     Richochet: Sa,N,Sb,N,Sd,N,N,N
+                        Scared: N,Sb,N,Sc,N,Sc,N,Sb
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                     Richochet: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Richochet Scared
+HanSolo: Pacifist Richochet Scared
+Richochet: Pacifist HanSolo Scared
+Scared: Pacifist HanSolo Richochet
+Generated: 2014/08/12 06:06:49.095848218 UTC

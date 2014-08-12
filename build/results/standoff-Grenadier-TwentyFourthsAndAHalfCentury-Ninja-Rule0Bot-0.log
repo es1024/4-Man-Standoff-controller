@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+                     Grenadier: N,N,N,P,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Sc,N,Sd,N,Sc,N,Sc
+                         Ninja: Dc,Dd,Db,Da,Dc,Da,Db,Da,Dc
+                      Rule0Bot: N,N,N,N,Sa,N,N,N,N
+Final Health:
+                     Grenadier: -3
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+TwentyFourthsAndAHalfCentury: Grenadier Ninja Rule0Bot
+Ninja: Grenadier TwentyFourthsAndAHalfCentury Rule0Bot
+Rule0Bot: Grenadier TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 09:00:49.361148922 UTC

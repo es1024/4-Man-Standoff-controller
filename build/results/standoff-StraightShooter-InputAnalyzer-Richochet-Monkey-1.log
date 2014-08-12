@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Richochet Monkey
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,Sb,N,N,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                        Monkey: N,N,Da,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -2
+                     Richochet: 5
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Monkey InputAnalyzer
+InputAnalyzer: Richochet Monkey StraightShooter
+Richochet: InputAnalyzer Monkey StraightShooter
+Monkey: InputAnalyzer Richochet StraightShooter
+Generated: 2014/08/12 06:54:24.145408808 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury Scared
+      PoliticallyCorrectGunman: N,Sb,N,N,Sd,N,N,Dd,Db,N,N,Dc,N,N,N,N,N
+                        Monkey: N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Db,Da,Dd,N,Da,Da,Da,Da,N,N,N,N,Sa,N,Sd
+                        Scared: Sc,N,Sa,N,Sc,N,Sa,N,Sc,N,N,N,N,N,Sa,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -3
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared Monkey TwentyFourthsAndAHalfCentury
+Monkey: Scared PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared PoliticallyCorrectGunman Monkey
+Scared: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 05:50:36.978463973 UTC

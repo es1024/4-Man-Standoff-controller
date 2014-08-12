@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Zaenille EmoCowboy
+                       HanSolo: Sb,N,Sb,N,Sb
+                 SimpleShooter: Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 SimpleShooter: -1
+                      Zaenille: -2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Zaenille EmoCowboy
+SimpleShooter: HanSolo Zaenille EmoCowboy
+Zaenille: HanSolo SimpleShooter EmoCowboy
+EmoCowboy: HanSolo SimpleShooter Zaenille
+Generated: 2014/08/12 10:45:53.477399957 UTC

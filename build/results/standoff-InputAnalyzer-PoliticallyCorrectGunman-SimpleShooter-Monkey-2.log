@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman SimpleShooter Monkey
+                 InputAnalyzer: Dd,Sc,N,P,N,N
+      PoliticallyCorrectGunman: Da,Sc,N,N,Sa,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N
+                        Monkey: N,Sb,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: -2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey PoliticallyCorrectGunman SimpleShooter
+PoliticallyCorrectGunman: Monkey InputAnalyzer SimpleShooter
+SimpleShooter: Monkey InputAnalyzer PoliticallyCorrectGunman
+Monkey: SimpleShooter InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 08:03:44.817922101 UTC

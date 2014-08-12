@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd
+                        Monkey: N,Sc,N,N,N,Da,Da,N,Sc,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Da,Db,Da,Dd,Db,Dd,Da,Dd,Db,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Da,Sa,N,Sc,N,Db,Sc,N,Da,Da,Sa
+Final Health:
+                 SimpleShooter: 1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury CourageTheDog Monkey
+Monkey: TwentyFourthsAndAHalfCentury CourageTheDog SimpleShooter
+TwentyFourthsAndAHalfCentury: Monkey CourageTheDog SimpleShooter
+CourageTheDog: Monkey TwentyFourthsAndAHalfCentury SimpleShooter
+Generated: 2014/08/12 07:18:14.848065342 UTC

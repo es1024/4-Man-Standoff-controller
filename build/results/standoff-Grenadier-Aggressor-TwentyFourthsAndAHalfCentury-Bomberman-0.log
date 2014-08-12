@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor TwentyFourthsAndAHalfCentury Bomberman
+                     Grenadier: P,Tb
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: Db,Db
+                     Bomberman: N,N
+Final Health:
+                     Grenadier: -6
+                     Aggressor: -6
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor TwentyFourthsAndAHalfCentury Bomberman
+Aggressor: Grenadier TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Grenadier Aggressor Bomberman
+Bomberman: Grenadier Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:47:18.040767475 UTC

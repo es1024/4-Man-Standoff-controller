@@ -1,11 +1,11 @@
 Standoff between: Pacifist PoliticallyCorrectGunman HanSolo SimpleShooter
-                      Pacifist: N,N,N,N,N,N
-      PoliticallyCorrectGunman: Sd,N,N,N,N,Sb
-                       HanSolo: Sa,N,Sa,N,Sa,N
-                 SimpleShooter: Sc,N,Sc,N,Sc,N
+                      Pacifist: N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dc,Dc,Sa,N,Sb,N,N
+                       HanSolo: Sa,N,Sa,N,Sb,N,Sd
+                 SimpleShooter: Sc,N,Sb,N,Sc,N,Sc
 Final Health:
                       Pacifist: -1
-      PoliticallyCorrectGunman: -2
+      PoliticallyCorrectGunman: -4
                        HanSolo: -1
                  SimpleShooter: 3
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
@@ -13,4 +13,4 @@ Pacifist: PoliticallyCorrectGunman HanSolo SimpleShooter
 PoliticallyCorrectGunman: Pacifist HanSolo SimpleShooter
 HanSolo: Pacifist PoliticallyCorrectGunman SimpleShooter
 SimpleShooter: Pacifist PoliticallyCorrectGunman HanSolo
-Generated: 2014/08/11 00:59:10.300145193 UTC
+Generated: 2014/08/12 09:33:33.733605679 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock SimpleShooter Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,Sa
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sa,N,Sb
+                        Monkey: N,Sd,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                 SimpleShooter: 5
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock SimpleShooter Monkey
+Spock: Pacifist SimpleShooter Monkey
+SimpleShooter: Pacifist Spock Monkey
+Monkey: Pacifist Spock SimpleShooter
+Generated: 2014/08/12 10:22:36.160729515 UTC

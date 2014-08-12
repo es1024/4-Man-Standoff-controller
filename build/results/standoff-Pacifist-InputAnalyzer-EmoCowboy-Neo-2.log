@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer EmoCowboy Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Dd,Dc,P,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,Db,Da,N,Da,N,N,N,N,N,N,N,N,N,N,Da,N,Da,Da,N,N,Da,Da,N,Da,N,N,N,N,N,N,N,N,Da,Da,N,Da,N,N,Da,N,Da,N,N,N,N
+Final Health:
+                      Pacifist: -18
+                 InputAnalyzer: -1
+                     EmoCowboy: -2
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo InputAnalyzer EmoCowboy
+InputAnalyzer: Neo Pacifist EmoCowboy
+EmoCowboy: Neo Pacifist InputAnalyzer
+Neo: EmoCowboy Pacifist InputAnalyzer
+Generated: 2014/08/12 07:48:39.433653016 UTC

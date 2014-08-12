@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Monkey Sniper
+                       HanSolo: Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                         Spock: Sd,N,Sa,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                         Spock: -1
+                        Monkey: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Spock Monkey
+Spock: Sniper HanSolo Monkey
+Monkey: Sniper HanSolo Spock
+Sniper: Monkey HanSolo Spock
+Generated: 2014/08/12 10:06:40.702323633 UTC

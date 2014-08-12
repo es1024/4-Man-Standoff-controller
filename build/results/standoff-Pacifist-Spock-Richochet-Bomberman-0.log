@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Richochet Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N
+                     Richochet: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                     Richochet: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Richochet Bomberman
+Spock: Pacifist Richochet Bomberman
+Richochet: Pacifist Spock Bomberman
+Bomberman: Pacifist Spock Richochet
+Generated: 2014/08/12 06:04:41.018165706 UTC

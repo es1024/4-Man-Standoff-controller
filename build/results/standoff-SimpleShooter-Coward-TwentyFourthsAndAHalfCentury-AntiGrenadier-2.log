@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward TwentyFourthsAndAHalfCentury AntiGrenadier
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,Sd,N,N,N
+                        Coward: Sc,N,Sc,N,Sa,N,Sa,N,Da,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: 1
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: AntiGrenadier Coward TwentyFourthsAndAHalfCentury
+Coward: AntiGrenadier SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier SimpleShooter Coward
+AntiGrenadier: TwentyFourthsAndAHalfCentury SimpleShooter Coward
+Generated: 2014/08/12 08:32:02.580674871 UTC

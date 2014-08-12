@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Aggressor Sniper
+               StraightShooter: Sd,N
+                 InputAnalyzer: Dc,Da
+                     Aggressor: P,Ta
+                        Sniper: Sb,N
+Final Health:
+               StraightShooter: -3
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Sniper InputAnalyzer
+InputAnalyzer: Aggressor Sniper StraightShooter
+Aggressor: InputAnalyzer Sniper StraightShooter
+Sniper: InputAnalyzer Aggressor StraightShooter
+Generated: 2014/08/12 05:45:23.887890466 UTC

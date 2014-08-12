@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Aggressor Rule0Bot
+                 InputAnalyzer: Dd,Db,P
+                 SimpleShooter: Sc,N,Sa
+                     Aggressor: P,Td,N
+                      Rule0Bot: N,Sc,N
+Final Health:
+                 InputAnalyzer: -6
+                 SimpleShooter: -1
+                     Aggressor: -2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot SimpleShooter Aggressor
+SimpleShooter: Rule0Bot InputAnalyzer Aggressor
+Aggressor: Rule0Bot InputAnalyzer SimpleShooter
+Rule0Bot: Aggressor InputAnalyzer SimpleShooter
+Generated: 2014/08/12 05:49:36.052091457 UTC

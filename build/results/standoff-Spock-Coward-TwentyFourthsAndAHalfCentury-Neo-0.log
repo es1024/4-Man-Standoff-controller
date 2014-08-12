@@ -1,0 +1,16 @@
+Standoff between: Spock Coward TwentyFourthsAndAHalfCentury Neo
+                         Spock: Sb,N,Sb,N,N,N,N,N,N,N,N,Sb,N,Sb,N
+                        Coward: Sd,N,Sd,N,Sd,N,Dc,Sc,N,Dc,Dc,Da,Sc,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Db,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa
+                           Neo: N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward TwentyFourthsAndAHalfCentury Neo
+Coward: Spock TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: Spock Coward Neo
+Neo: Spock Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:21:14.065525855 UTC

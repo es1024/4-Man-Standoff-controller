@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Rule0Bot Sniper
+                      Pacifist: N,N,N,N,N,N
+                 InputAnalyzer: Dc,Dd,Dc,Da,P,Sb
+                      Rule0Bot: N,N,N,N,N,Sb
+                        Sniper: Sa,N,Sb,N,Sc,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -10
+                      Rule0Bot: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Sniper InputAnalyzer
+InputAnalyzer: Rule0Bot Sniper Pacifist
+Rule0Bot: InputAnalyzer Sniper Pacifist
+Sniper: InputAnalyzer Rule0Bot Pacifist
+Generated: 2014/08/12 10:04:23.997024360 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock SimpleShooter AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sa,N,Sd
+                 SimpleShooter: Sb,N,Sa,N,Sb,N,Sa,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                 SimpleShooter: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Spock SimpleShooter
+Spock: AntiGrenadier Pacifist SimpleShooter
+SimpleShooter: AntiGrenadier Pacifist Spock
+AntiGrenadier: SimpleShooter Pacifist Spock
+Generated: 2014/08/12 05:55:38.592713567 UTC

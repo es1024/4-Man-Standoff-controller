@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Coward Rule0Bot
+                 InputAnalyzer: Dd,P,Sa
+                         Spock: Sd,N,Sd
+                        Coward: Sb,N,Sb
+                      Rule0Bot: N,N,Sa
+Final Health:
+                 InputAnalyzer: -10
+                         Spock: -2
+                        Coward: 2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Spock Coward
+Spock: Rule0Bot InputAnalyzer Coward
+Coward: Rule0Bot InputAnalyzer Spock
+Rule0Bot: Coward InputAnalyzer Spock
+Generated: 2014/08/12 05:51:28.688493298 UTC

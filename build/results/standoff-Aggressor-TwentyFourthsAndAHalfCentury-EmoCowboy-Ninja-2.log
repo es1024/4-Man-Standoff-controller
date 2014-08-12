@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+                     Aggressor: P,Td,Sb
+  TwentyFourthsAndAHalfCentury: Da,Da,Sa
+                     EmoCowboy: Sc,N,N
+                         Ninja: Dc,Dc,N
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Ninja TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Ninja Aggressor EmoCowboy
+EmoCowboy: Ninja Aggressor TwentyFourthsAndAHalfCentury
+Ninja: EmoCowboy Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:39:19.016350508 UTC

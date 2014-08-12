@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Richochet Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Dc,Db,Da,Sc,N,N,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sd,N,Sa,N,Sa
+                           Neo: N,N,N,Db,N,Sc,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -1
+                     Richochet: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo InputAnalyzer Richochet
+InputAnalyzer: Neo StraightShooter Richochet
+Richochet: Neo StraightShooter InputAnalyzer
+Neo: Richochet StraightShooter InputAnalyzer
+Generated: 2014/08/12 09:38:55.828949048 UTC

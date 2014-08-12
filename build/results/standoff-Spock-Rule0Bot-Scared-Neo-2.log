@@ -1,0 +1,16 @@
+Standoff between: Spock Rule0Bot Scared Neo
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N,Sb,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sa,N,N,N,N,N,N,Sb,N,Sa
+                           Neo: N,Db,Db,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                      Rule0Bot: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Neo Rule0Bot Scared
+Rule0Bot: Neo Spock Scared
+Scared: Neo Spock Rule0Bot
+Neo: Scared Spock Rule0Bot
+Generated: 2014/08/12 06:17:59.286008340 UTC

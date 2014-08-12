@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Monkey AntiGrenadier
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+                        Monkey: N,P
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Aggressor: -3
+                      Zaenille: -2
+                        Monkey: -9
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Monkey AntiGrenadier Zaenille
+Zaenille: Monkey AntiGrenadier Aggressor
+Monkey: Zaenille AntiGrenadier Aggressor
+AntiGrenadier: Zaenille Monkey Aggressor
+Generated: 2014/08/12 06:26:35.531682990 UTC

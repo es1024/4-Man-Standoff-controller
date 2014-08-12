@@ -1,0 +1,16 @@
+Standoff between: Aggressor Rule0Bot Sniper CourageTheDog
+                     Aggressor: P,Td
+                      Rule0Bot: N,Sa
+                        Sniper: Sb,N
+                 CourageTheDog: Sa,N
+Final Health:
+                     Aggressor: -2
+                      Rule0Bot: 0
+                        Sniper: 2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Rule0Bot Sniper
+Rule0Bot: CourageTheDog Aggressor Sniper
+Sniper: CourageTheDog Aggressor Rule0Bot
+CourageTheDog: Sniper Aggressor Rule0Bot
+Generated: 2014/08/12 10:17:38.649951066 UTC

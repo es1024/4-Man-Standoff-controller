@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Zaenille Monkey
+                 InputAnalyzer: Dd,Sc,N,Sc,N,Dd,P,Sb,N
+                     Richochet: Sc,N,Sa,N,Sa,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                     Richochet: 0
+                      Zaenille: -4
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Richochet Zaenille
+Richochet: Monkey InputAnalyzer Zaenille
+Zaenille: Monkey InputAnalyzer Richochet
+Monkey: Zaenille InputAnalyzer Richochet
+Generated: 2014/08/12 07:19:53.956683611 UTC

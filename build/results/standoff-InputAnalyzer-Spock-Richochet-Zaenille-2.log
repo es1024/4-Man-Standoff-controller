@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Richochet Zaenille
+                 InputAnalyzer: Dd,P,N,Da
+                         Spock: N,N,N,N
+                     Richochet: Sa,N,Sb,N
+                      Zaenille: Sd,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 0
+                     Richochet: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Spock Richochet
+Spock: Zaenille InputAnalyzer Richochet
+Richochet: Zaenille InputAnalyzer Spock
+Zaenille: Richochet InputAnalyzer Spock
+Generated: 2014/08/12 08:22:47.902226809 UTC

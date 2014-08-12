@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Rule0Bot Sniper
+                     Aggressor: P,Td
+                      Zaenille: Sb,N
+                      Rule0Bot: N,N
+                        Sniper: Sc,N
+Final Health:
+                     Aggressor: 2
+                      Zaenille: -2
+                      Rule0Bot: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Zaenille Rule0Bot Sniper
+Zaenille: Aggressor Rule0Bot Sniper
+Rule0Bot: Aggressor Zaenille Sniper
+Sniper: Aggressor Zaenille Rule0Bot
+Generated: 2014/08/12 10:45:09.127202615 UTC

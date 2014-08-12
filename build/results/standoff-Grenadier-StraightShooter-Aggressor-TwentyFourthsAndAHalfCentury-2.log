@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Aggressor TwentyFourthsAndAHalfCentury
+                     Grenadier: P,Td
+               StraightShooter: Sa,N
+                     Aggressor: P,Td
+  TwentyFourthsAndAHalfCentury: Db,Da
+Final Health:
+                     Grenadier: -3
+               StraightShooter: -1
+                     Aggressor: -1
+  TwentyFourthsAndAHalfCentury: -11
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury StraightShooter Aggressor
+StraightShooter: TwentyFourthsAndAHalfCentury Grenadier Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury Grenadier StraightShooter
+TwentyFourthsAndAHalfCentury: Aggressor Grenadier StraightShooter
+Generated: 2014/08/12 09:07:12.259022180 UTC

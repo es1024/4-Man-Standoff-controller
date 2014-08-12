@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Monkey Scared
+                         Spock: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Da,Dc,Dc,Dc,Dc,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,Sd,N,N,N,N,Dc,Dc
+                        Scared: Sc,N,N,N,N,Sb,N,N,N,Sb,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 1
+                        Monkey: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey Scared Coward
+Coward: Monkey Scared Spock
+Monkey: Coward Scared Spock
+Scared: Coward Monkey Spock
+Generated: 2014/08/12 09:51:42.418393502 UTC

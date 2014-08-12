@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Aggressor Bomberman
+                       HanSolo: Sc,N,Sd
+                         Spock: Sc,N,N
+                     Aggressor: P,Tb,N
+                     Bomberman: N,N,N
+Final Health:
+                       HanSolo: 2
+                         Spock: -3
+                     Aggressor: -2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Bomberman Spock
+Spock: Aggressor Bomberman HanSolo
+Aggressor: Spock Bomberman HanSolo
+Bomberman: Spock Aggressor HanSolo
+Generated: 2014/08/12 06:36:35.832318692 UTC

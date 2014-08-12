@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury Neo
+                 InputAnalyzer: Dd,Dc,Da,Db,Dd,Dc,P,Da,Dc,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,N,N,N,Sb
+                           Neo: N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                       HanSolo: 0
+  TwentyFourthsAndAHalfCentury: 2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo HanSolo TwentyFourthsAndAHalfCentury
+HanSolo: Neo InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo InputAnalyzer HanSolo
+Neo: TwentyFourthsAndAHalfCentury InputAnalyzer HanSolo
+Generated: 2014/08/12 06:37:16.381957356 UTC

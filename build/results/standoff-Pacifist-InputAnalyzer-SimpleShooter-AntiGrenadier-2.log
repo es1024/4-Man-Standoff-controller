@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer SimpleShooter AntiGrenadier
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dd,P,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd
+                 AntiGrenadier: N,N,Sb,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -5
+                 SimpleShooter: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier InputAnalyzer SimpleShooter
+InputAnalyzer: AntiGrenadier Pacifist SimpleShooter
+SimpleShooter: AntiGrenadier Pacifist InputAnalyzer
+AntiGrenadier: SimpleShooter Pacifist InputAnalyzer
+Generated: 2014/08/12 09:02:12.112608945 UTC

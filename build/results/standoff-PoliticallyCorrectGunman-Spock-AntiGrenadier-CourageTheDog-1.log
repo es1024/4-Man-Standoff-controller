@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock AntiGrenadier CourageTheDog
+      PoliticallyCorrectGunman: N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,Db,Sb,N,Db,Db,Sb,N,Db,Db,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier CourageTheDog Spock
+Spock: AntiGrenadier CourageTheDog PoliticallyCorrectGunman
+AntiGrenadier: Spock CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Spock AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 05:49:57.694569517 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Bomberman AntiGrenadier Rule0Bot
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 2
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Rule0Bot Bomberman
+Bomberman: AntiGrenadier Rule0Bot Spock
+AntiGrenadier: Bomberman Rule0Bot Spock
+Rule0Bot: Bomberman AntiGrenadier Spock
+Generated: 2014/08/12 07:37:30.797853579 UTC

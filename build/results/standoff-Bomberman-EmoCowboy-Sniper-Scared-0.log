@@ -1,0 +1,16 @@
+Standoff between: Bomberman EmoCowboy Sniper Scared
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N
+                        Scared: Sa,N,Sc,N,N,N,N,N,N,N,Sa,N,Sc,N,Sc
+Final Health:
+                     Bomberman: -1
+                     EmoCowboy: -4
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: EmoCowboy Sniper Scared
+EmoCowboy: Bomberman Sniper Scared
+Sniper: Bomberman EmoCowboy Scared
+Scared: Bomberman EmoCowboy Sniper
+Generated: 2014/08/12 07:11:45.175518889 UTC

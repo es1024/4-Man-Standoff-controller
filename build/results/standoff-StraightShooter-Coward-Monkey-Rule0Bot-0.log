@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Monkey Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: 5
+                        Monkey: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Monkey Rule0Bot
+Coward: StraightShooter Monkey Rule0Bot
+Monkey: StraightShooter Coward Rule0Bot
+Rule0Bot: StraightShooter Coward Monkey
+Generated: 2014/08/12 09:10:29.821174931 UTC

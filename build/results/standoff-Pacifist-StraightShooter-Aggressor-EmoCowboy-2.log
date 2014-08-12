@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Aggressor EmoCowboy
+                      Pacifist: N,N
+               StraightShooter: Sa,N
+                     Aggressor: P,Tb
+                     EmoCowboy: Sd,N
+Final Health:
+                      Pacifist: 0
+               StraightShooter: -3
+                     Aggressor: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy StraightShooter Aggressor
+StraightShooter: EmoCowboy Pacifist Aggressor
+Aggressor: EmoCowboy Pacifist StraightShooter
+EmoCowboy: Aggressor Pacifist StraightShooter
+Generated: 2014/08/12 07:11:58.958932865 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman SimpleShooter Monkey
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb
+      PoliticallyCorrectGunman: N,Dd,N,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N,Sa,N,Sa
+                        Monkey: N,Sb,N,N,N,Sd,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: 5
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey PoliticallyCorrectGunman SimpleShooter
+PoliticallyCorrectGunman: Monkey StraightShooter SimpleShooter
+SimpleShooter: Monkey StraightShooter PoliticallyCorrectGunman
+Monkey: SimpleShooter StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 06:50:03.462055389 UTC

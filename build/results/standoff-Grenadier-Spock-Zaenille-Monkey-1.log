@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Zaenille Monkey
+                     Grenadier: N,P,Td,N,P
+                         Spock: Sc,N,Sc,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                        Monkey: N,Sc,N,N,N
+Final Health:
+                     Grenadier: -6
+                         Spock: -1
+                      Zaenille: -4
+                        Monkey: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Monkey Spock
+Spock: Zaenille Monkey Grenadier
+Zaenille: Spock Monkey Grenadier
+Monkey: Spock Zaenille Grenadier
+Generated: 2014/08/12 07:57:16.296588884 UTC

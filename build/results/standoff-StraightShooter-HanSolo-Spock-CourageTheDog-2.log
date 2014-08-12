@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Spock CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                       HanSolo: Sd,N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,Sa
+                 CourageTheDog: Sa,N,Db,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -3
+                         Spock: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog HanSolo Spock
+HanSolo: CourageTheDog StraightShooter Spock
+Spock: CourageTheDog StraightShooter HanSolo
+CourageTheDog: Spock StraightShooter HanSolo
+Generated: 2014/08/12 09:55:54.311337939 UTC

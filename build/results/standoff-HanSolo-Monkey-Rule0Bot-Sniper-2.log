@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey Rule0Bot Sniper
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sc,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Monkey: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Monkey Rule0Bot
+Monkey: Sniper HanSolo Rule0Bot
+Rule0Bot: Sniper HanSolo Monkey
+Sniper: Rule0Bot HanSolo Monkey
+Generated: 2014/08/12 07:43:58.915305507 UTC

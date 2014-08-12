@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Sniper Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                        Sniper: Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,Dc,Db,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Db,Dc,N,Dc,Db,N,Db,N,N,N,N,N,N,N,N,N,N,N,Db,Dc,Db,Dc,Db,Dc,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -15
+                        Sniper: -15
+                           Neo: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo StraightShooter Sniper
+StraightShooter: Neo Grenadier Sniper
+Sniper: Neo Grenadier StraightShooter
+Neo: Sniper Grenadier StraightShooter
+Generated: 2014/08/12 09:55:30.628532900 UTC

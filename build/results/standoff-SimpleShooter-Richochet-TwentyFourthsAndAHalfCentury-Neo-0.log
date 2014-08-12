@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet TwentyFourthsAndAHalfCentury Neo
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sc,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sa,N,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,N,N,Sb,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet TwentyFourthsAndAHalfCentury Neo
+Richochet: SimpleShooter TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: SimpleShooter Richochet Neo
+Neo: SimpleShooter Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:06:21.561353988 UTC

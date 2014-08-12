@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Monkey Neo
+               StraightShooter: Sc,N,N,N,N,N
+                     Aggressor: P,Ta,Sd,N,Sd,N
+                        Monkey: N,Sc,N,N,N,N
+                           Neo: N,Dc,Db,N,Db,Sb
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 0
+                        Monkey: -5
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Monkey Neo
+Aggressor: StraightShooter Monkey Neo
+Monkey: StraightShooter Aggressor Neo
+Neo: StraightShooter Aggressor Monkey
+Generated: 2014/08/12 08:34:32.351412447 UTC

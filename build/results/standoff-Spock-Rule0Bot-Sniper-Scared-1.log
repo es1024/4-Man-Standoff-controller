@@ -1,0 +1,16 @@
+Standoff between: Spock Rule0Bot Sniper Scared
+                         Spock: Sc,N,Sc,N,Sb,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sb,N,Sa
+Final Health:
+                         Spock: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper Scared Rule0Bot
+Rule0Bot: Sniper Scared Spock
+Sniper: Rule0Bot Scared Spock
+Scared: Rule0Bot Sniper Spock
+Generated: 2014/08/12 07:37:30.212530772 UTC

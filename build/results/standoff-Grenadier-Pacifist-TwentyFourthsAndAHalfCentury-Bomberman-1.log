@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist TwentyFourthsAndAHalfCentury Bomberman
+                     Grenadier: P,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,Sd,N,N,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Bomberman Pacifist
+Pacifist: TwentyFourthsAndAHalfCentury Bomberman Grenadier
+TwentyFourthsAndAHalfCentury: Pacifist Bomberman Grenadier
+Bomberman: Pacifist TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 10:31:49.395917507 UTC

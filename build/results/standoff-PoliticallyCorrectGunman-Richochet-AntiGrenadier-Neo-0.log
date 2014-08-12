@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet AntiGrenadier Neo
+      PoliticallyCorrectGunman: N,Sc,N,N,N,N,Dd,Sb,N,Dd,Sc,N,Db,Sb,N
+                     Richochet: Sa,N,Sc,N,Sa,N,Sc,N,Sd,N,Sd,N,Sa,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Dc,Dc,Da,Db,Da,N,Sb,N,Da,Sa
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: -1
+                 AntiGrenadier: -1
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet AntiGrenadier Neo
+Richochet: PoliticallyCorrectGunman AntiGrenadier Neo
+AntiGrenadier: PoliticallyCorrectGunman Richochet Neo
+Neo: PoliticallyCorrectGunman Richochet AntiGrenadier
+Generated: 2014/08/12 07:54:36.476967174 UTC

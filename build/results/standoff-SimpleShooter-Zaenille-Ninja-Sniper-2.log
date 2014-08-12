@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Ninja Sniper
+                 SimpleShooter: Sc,N,Sc,N,Sd,N,Sc,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Dc,Dc,Dc,Dc,Dc,Dc,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,Sc,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                      Zaenille: -2
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Zaenille Ninja
+Zaenille: Sniper SimpleShooter Ninja
+Ninja: Sniper SimpleShooter Zaenille
+Sniper: Ninja SimpleShooter Zaenille
+Generated: 2014/08/12 08:01:48.228504402 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury EmoCowboy Rule0Bot
+                 InputAnalyzer: Db,Dd,P,Da,Dd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Sd
+                     EmoCowboy: N,N,Sc,N,N,N
+                      Rule0Bot: N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury EmoCowboy Rule0Bot
+TwentyFourthsAndAHalfCentury: InputAnalyzer EmoCowboy Rule0Bot
+EmoCowboy: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot
+Rule0Bot: InputAnalyzer TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 06:26:30.837503105 UTC

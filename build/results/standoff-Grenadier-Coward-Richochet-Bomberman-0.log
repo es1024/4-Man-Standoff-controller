@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Richochet Bomberman
+                     Grenadier: P,Tb,N
+                        Coward: Sd,N,N
+                     Richochet: Sd,N,Sa
+                     Bomberman: N,N,N
+Final Health:
+                     Grenadier: 0
+                        Coward: -3
+                     Richochet: 2
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Richochet Bomberman
+Coward: Grenadier Richochet Bomberman
+Richochet: Grenadier Coward Bomberman
+Bomberman: Grenadier Coward Richochet
+Generated: 2014/08/12 07:36:00.148931613 UTC

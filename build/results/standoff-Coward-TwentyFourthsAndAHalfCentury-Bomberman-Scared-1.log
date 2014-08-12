@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Bomberman Scared
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,Sa,N,Sc,N,Sa,N,N
+Final Health:
+                        Coward: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Bomberman Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Scared Coward
+Bomberman: TwentyFourthsAndAHalfCentury Scared Coward
+Scared: TwentyFourthsAndAHalfCentury Bomberman Coward
+Generated: 2014/08/12 06:01:17.516821365 UTC

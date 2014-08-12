@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Ninja AntiGrenadier
+      PoliticallyCorrectGunman: Db,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                         Ninja: Dd,Da,Db,Db,Dd,Db,Da,Da,Db,Dd,Dc,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                       HanSolo: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Ninja AntiGrenadier
+HanSolo: PoliticallyCorrectGunman Ninja AntiGrenadier
+Ninja: PoliticallyCorrectGunman HanSolo AntiGrenadier
+AntiGrenadier: PoliticallyCorrectGunman HanSolo Ninja
+Generated: 2014/08/12 08:30:52.926130961 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Monkey TwentyFourthsAndAHalfCentury
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,N,N,N,N,N,N,Db,Db,Sb,N,Sb,N,Sb
+Final Health:
+               StraightShooter: -1
+                         Spock: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Monkey TwentyFourthsAndAHalfCentury
+Spock: StraightShooter Monkey TwentyFourthsAndAHalfCentury
+Monkey: StraightShooter Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: StraightShooter Spock Monkey
+Generated: 2014/08/12 06:02:01.519740838 UTC

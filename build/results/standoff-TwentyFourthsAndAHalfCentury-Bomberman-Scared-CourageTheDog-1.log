@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman Scared CourageTheDog
+  TwentyFourthsAndAHalfCentury: Dd,Db,Db,Dd,Dc,Db,Dd,N,Dc,N,Dc,N,Dc,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sa,N,Sb,N,Sd,N,Sa,N,Sa,N,Sd,N
+                 CourageTheDog: Sb,N,Da,Db,Sa,N,Sb,N,Sc,N,Sc,N,Da,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 1
+                     Bomberman: -1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Scared CourageTheDog Bomberman
+Bomberman: Scared CourageTheDog TwentyFourthsAndAHalfCentury
+Scared: Bomberman CourageTheDog TwentyFourthsAndAHalfCentury
+CourageTheDog: Bomberman Scared TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:45:27.875838195 UTC

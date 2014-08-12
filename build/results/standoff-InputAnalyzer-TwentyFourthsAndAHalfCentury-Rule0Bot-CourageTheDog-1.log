@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+                 InputAnalyzer: Dc,Dd,Dc,Db,Sc,N,Dc,Sd,N,Dd,Sb,N,Da,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dc,Da,Dd,Sd,N,Sa,N,Sa,N,Sa,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sc,N,Db,Db,Db,Da,Db,Sb,N,Db,Sb
+Final Health:
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot CourageTheDog InputAnalyzer
+Rule0Bot: TwentyFourthsAndAHalfCentury CourageTheDog InputAnalyzer
+CourageTheDog: TwentyFourthsAndAHalfCentury Rule0Bot InputAnalyzer
+Generated: 2014/08/12 07:23:13.167845178 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Spock TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Sc,N,N,N,N,N,N,N,N,Dc,Dd,N,Sd,N,Dd,N,N,Db,N,N,N,N,N,N,N,N,Db,P,Sd,N
+                 DONTNUKEMEBRO: Dc,Dc,Dd,Dc,Da,Da,Dd,Dc,Dc,Dd,Dd,Da,Dc,Da,Dc,Da,Dc,Dc,Dc,Dd,Dc,Dc,Dd,Dd,Dc,Da,Da,Dc,Sa,N
+                         Spock: Sd,N,Sd,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+                 DONTNUKEMEBRO: 2
+                         Spock: 0
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Spock
+Spock: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: Spock PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 07:24:45.002333391 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Zaenille EmoCowboy
+                 InputAnalyzer: Db,Da,Sa
+                 SimpleShooter: Sd,N,Sa
+                      Zaenille: Sc,N,N
+                     EmoCowboy: Sd,N,N
+Final Health:
+                 InputAnalyzer: -4
+                 SimpleShooter: 5
+                      Zaenille: -2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Zaenille EmoCowboy
+SimpleShooter: InputAnalyzer Zaenille EmoCowboy
+Zaenille: InputAnalyzer SimpleShooter EmoCowboy
+EmoCowboy: InputAnalyzer SimpleShooter Zaenille
+Generated: 2014/08/12 06:23:54.686177891 UTC

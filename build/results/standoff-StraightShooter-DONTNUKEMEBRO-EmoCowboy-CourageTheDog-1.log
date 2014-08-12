@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO EmoCowboy CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 DONTNUKEMEBRO: Dc,Dd,Dc,Da,Dd,Dd,Sd,N,Dc,Dd,Dc,Dd,Dc,Dd,Dd,Da,Dc,Dd,Dc,Dd,Dc,Dc,Dc,Da,Da,Dc,Da,Da,Dd,Da,Dc,Da,Dd,Da,Sa,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Sb,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: 5
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: EmoCowboy CourageTheDog StraightShooter
+EmoCowboy: DONTNUKEMEBRO CourageTheDog StraightShooter
+CourageTheDog: DONTNUKEMEBRO EmoCowboy StraightShooter
+Generated: 2014/08/12 10:11:26.094408055 UTC

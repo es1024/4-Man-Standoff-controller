@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO Rule0Bot
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+      PoliticallyCorrectGunman: N,N,N,N,Da,N,N,N,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Dd,Db,Dd,Db,Db,Da,Db,Da,Da,Da,Dd,Dd,Da,Db,Db,Db,Dd,Dd,Db,Da,Db,Dd,Dd,Dd,Da,Db,Db,Db,Da,Da,Dd,Dd,Db,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Rule0Bot PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO Rule0Bot StraightShooter
+DONTNUKEMEBRO: PoliticallyCorrectGunman Rule0Bot StraightShooter
+Rule0Bot: PoliticallyCorrectGunman DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/12 10:49:19.517648043 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Rule0Bot Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Rule0Bot Neo
+Coward: Pacifist Rule0Bot Neo
+Rule0Bot: Pacifist Coward Neo
+Neo: Pacifist Coward Rule0Bot
+Generated: 2014/08/12 10:04:59.561521881 UTC

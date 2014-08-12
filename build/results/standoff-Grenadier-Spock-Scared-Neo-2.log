@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Scared Neo
+                     Grenadier: P,N,N
+                         Spock: Sd,N,N
+                        Scared: Sb,N,N
+                           Neo: N,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: 0
+                        Scared: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Spock Scared
+Spock: Neo Grenadier Scared
+Scared: Neo Grenadier Spock
+Neo: Scared Grenadier Spock
+Generated: 2014/08/12 07:05:08.663696571 UTC

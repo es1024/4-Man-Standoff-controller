@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Zaenille AntiGrenadier
+                 InputAnalyzer: Dd,Sc,N,Sc,N,Sd,N,Dc,Sb,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                 SimpleShooter: 3
+                      Zaenille: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier SimpleShooter Zaenille
+SimpleShooter: AntiGrenadier InputAnalyzer Zaenille
+Zaenille: AntiGrenadier InputAnalyzer SimpleShooter
+AntiGrenadier: Zaenille InputAnalyzer SimpleShooter
+Generated: 2014/08/12 10:46:39.065847287 UTC

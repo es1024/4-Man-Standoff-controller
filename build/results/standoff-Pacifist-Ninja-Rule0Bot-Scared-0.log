@@ -1,0 +1,16 @@
+Standoff between: Pacifist Ninja Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Db,Dd,Dd,Db,Dd,Db,Db,Db,Da,Dc,Db,Dd,Da,Dd,Dc,Db,Da,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,N,N,N,N,N,N,Sa,N,Sc,N,Sa,N,Sb,N,Sb,N,Sc,N,Sa
+Final Health:
+                      Pacifist: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Rule0Bot Scared
+Ninja: Pacifist Rule0Bot Scared
+Rule0Bot: Pacifist Ninja Scared
+Scared: Pacifist Ninja Rule0Bot
+Generated: 2014/08/12 08:38:48.634034302 UTC

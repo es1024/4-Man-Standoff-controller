@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Monkey TwentyFourthsAndAHalfCentury
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dc,Da,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -2
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille Monkey TwentyFourthsAndAHalfCentury
+Zaenille: StraightShooter Monkey TwentyFourthsAndAHalfCentury
+Monkey: StraightShooter Zaenille TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: StraightShooter Zaenille Monkey
+Generated: 2014/08/12 08:20:16.774828650 UTC

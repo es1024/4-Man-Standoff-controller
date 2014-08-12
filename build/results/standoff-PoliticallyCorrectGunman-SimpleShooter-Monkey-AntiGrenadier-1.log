@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Monkey AntiGrenadier
+      PoliticallyCorrectGunman: N,N,Sa,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey AntiGrenadier SimpleShooter
+SimpleShooter: Monkey AntiGrenadier PoliticallyCorrectGunman
+Monkey: SimpleShooter AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: SimpleShooter Monkey PoliticallyCorrectGunman
+Generated: 2014/08/12 10:12:40.753314413 UTC

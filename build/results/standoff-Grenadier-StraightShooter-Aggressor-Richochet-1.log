@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Aggressor Richochet
+                     Grenadier: P,N
+               StraightShooter: Sd,N
+                     Aggressor: P,Tb
+                     Richochet: Sc,N
+Final Health:
+                     Grenadier: 2
+               StraightShooter: -3
+                     Aggressor: 0
+                     Richochet: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Richochet StraightShooter
+StraightShooter: Aggressor Richochet Grenadier
+Aggressor: StraightShooter Richochet Grenadier
+Richochet: StraightShooter Aggressor Grenadier
+Generated: 2014/08/12 10:27:54.170535307 UTC

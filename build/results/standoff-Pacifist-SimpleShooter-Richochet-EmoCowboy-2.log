@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Richochet EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sc
+                     Richochet: Sb,N,Sa,N,Sa,N,Sb
+                     EmoCowboy: N,N,N,Sd,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 1
+                     Richochet: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy SimpleShooter Richochet
+SimpleShooter: EmoCowboy Pacifist Richochet
+Richochet: EmoCowboy Pacifist SimpleShooter
+EmoCowboy: Richochet Pacifist SimpleShooter
+Generated: 2014/08/12 09:01:22.250933308 UTC

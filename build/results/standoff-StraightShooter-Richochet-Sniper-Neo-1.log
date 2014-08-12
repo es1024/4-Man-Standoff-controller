@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Sniper Neo
+               StraightShooter: Sd,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sc,N,Sc,N,Sc
+                        Sniper: Sa,N,N,Sd,N,Sd,N,Sd,N
+                           Neo: N,Sa,N,Dc,Db,Dc,Db,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper Neo Richochet
+Richochet: Sniper Neo StraightShooter
+Sniper: Richochet Neo StraightShooter
+Neo: Richochet Sniper StraightShooter
+Generated: 2014/08/12 09:28:33.618521319 UTC

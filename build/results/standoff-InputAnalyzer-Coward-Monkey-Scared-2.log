@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Monkey Scared
+                 InputAnalyzer: Dd,Dc,P,N,N
+                        Coward: Sc,N,Sc,N,Sa
+                        Monkey: N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -5
+                        Coward: 0
+                        Monkey: -1
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Coward Monkey
+Coward: Scared InputAnalyzer Monkey
+Monkey: Scared InputAnalyzer Coward
+Scared: Monkey InputAnalyzer Coward
+Generated: 2014/08/12 06:58:05.188371463 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey TwentyFourthsAndAHalfCentury Ninja
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Monkey: N,Dd,Da,Da,Db,Db,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Da,Db,Db,Dd,Db,Dd,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Dd,Dd,Dd,Dd,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Dd,Da,Dd,Dd,Dd
+                         Ninja: Dc,Da,Dd,Dc,Db,Da,Dd,Db,Da,Dc,Dd,Dc,Da,Db,Dd,Da,Dd,Da,Dc,Dd,Da,Db,Dd,Dd,Db,Dc,Dd,Da,Dc,Db,Da,Da,Dc,Dd,Db,Dd,Db,Dd,Db,Dd,Dc,Dd,Dc,Da,Da,Dc,Dc,Da,Da,Db
+Final Health:
+               StraightShooter: -15
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -15
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Monkey TwentyFourthsAndAHalfCentury
+Monkey: Ninja StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja StraightShooter Monkey
+Ninja: TwentyFourthsAndAHalfCentury StraightShooter Monkey
+Generated: 2014/08/12 06:24:01.609181669 UTC

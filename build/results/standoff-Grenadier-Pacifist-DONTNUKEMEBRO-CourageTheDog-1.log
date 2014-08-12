@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist DONTNUKEMEBRO CourageTheDog
+                     Grenadier: P,Td
+                      Pacifist: N,N
+                 DONTNUKEMEBRO: Da,Sa
+                 CourageTheDog: Sc,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: 2
+                 DONTNUKEMEBRO: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO CourageTheDog Pacifist
+Pacifist: DONTNUKEMEBRO CourageTheDog Grenadier
+DONTNUKEMEBRO: Pacifist CourageTheDog Grenadier
+CourageTheDog: Pacifist DONTNUKEMEBRO Grenadier
+Generated: 2014/08/12 07:14:13.004065552 UTC

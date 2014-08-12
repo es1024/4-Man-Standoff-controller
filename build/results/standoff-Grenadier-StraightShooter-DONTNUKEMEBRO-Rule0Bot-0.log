@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter DONTNUKEMEBRO Rule0Bot
+                     Grenadier: N,N,P,Td
+               StraightShooter: Sc,N,Sc,N
+                 DONTNUKEMEBRO: Db,Dd,Sb,N
+                      Rule0Bot: N,N,N,Sa
+Final Health:
+                     Grenadier: 0
+               StraightShooter: 0
+                 DONTNUKEMEBRO: 0
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter DONTNUKEMEBRO Rule0Bot
+StraightShooter: Grenadier DONTNUKEMEBRO Rule0Bot
+DONTNUKEMEBRO: Grenadier StraightShooter Rule0Bot
+Rule0Bot: Grenadier StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 08:12:09.582064734 UTC

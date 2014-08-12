@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman EmoCowboy Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Da,Sd,N,Dc,Dd,N,N,N,N,N,N,N,N,N,Dd,N,Dc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Dd,Da,Db,Dd,Da,Dc,Db,Dc,Db,Dd,Db,Dd,Dd,Db,Da,Dc,Da,Db,Dc,Dc,Db,Dd,Dc,Db,Db,Dc,Dd,Da,Db,Dd,Da,Dc,Da,Dc,Db,Dd,Db,Dc,Da,Dc,Da,Dd,Dc,Da,Da,Dc,Db,Db
+Final Health:
+                      Pacifist: -15
+      PoliticallyCorrectGunman: -2
+                     EmoCowboy: -2
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Ninja PoliticallyCorrectGunman
+PoliticallyCorrectGunman: EmoCowboy Ninja Pacifist
+EmoCowboy: PoliticallyCorrectGunman Ninja Pacifist
+Ninja: PoliticallyCorrectGunman EmoCowboy Pacifist
+Generated: 2014/08/12 08:25:47.171003331 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman EmoCowboy AntiGrenadier
+                 InputAnalyzer: Dd,Sb,N,Db,Dd,P,Sc
+      PoliticallyCorrectGunman: P,Sb,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                 AntiGrenadier: N,Sb,N,N,N,N,Sa
+Final Health:
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -12
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier PoliticallyCorrectGunman EmoCowboy
+PoliticallyCorrectGunman: AntiGrenadier InputAnalyzer EmoCowboy
+EmoCowboy: AntiGrenadier InputAnalyzer PoliticallyCorrectGunman
+AntiGrenadier: EmoCowboy InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 10:48:22.144152070 UTC

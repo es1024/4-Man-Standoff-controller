@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey Bomberman CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,Db,Db,Db,Db,N,N,N,Db,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Dc,Dc,Db,Dc,Dc,Sc,N,Db,Db,Db,Sc,N,Db,Db,Db,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,N,Db,Db,Sb,N,N,Sb
+Final Health:
+                      Zaenille: -2
+                        Monkey: -1
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Bomberman CourageTheDog Monkey
+Monkey: Bomberman CourageTheDog Zaenille
+Bomberman: Monkey CourageTheDog Zaenille
+CourageTheDog: Monkey Bomberman Zaenille
+Generated: 2014/08/12 06:11:41.992961840 UTC

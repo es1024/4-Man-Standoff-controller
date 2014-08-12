@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Rule0Bot CourageTheDog
+                     Aggressor: P,Td
+                        Monkey: N,N
+                      Rule0Bot: N,Sa
+                 CourageTheDog: Sb,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: 0
+                      Rule0Bot: 2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Monkey Rule0Bot
+Monkey: CourageTheDog Aggressor Rule0Bot
+Rule0Bot: CourageTheDog Aggressor Monkey
+CourageTheDog: Rule0Bot Aggressor Monkey
+Generated: 2014/08/12 10:46:23.211238942 UTC

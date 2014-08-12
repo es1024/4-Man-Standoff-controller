@@ -1,0 +1,16 @@
+Standoff between: Ninja Rule0Bot Sniper Scared
+                         Ninja: Dd,Dc,Db,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sa,N,Sa,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc
+Final Health:
+                         Ninja: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Ninja: Sniper Scared Rule0Bot
+Rule0Bot: Sniper Scared Ninja
+Sniper: Rule0Bot Scared Ninja
+Scared: Rule0Bot Sniper Ninja
+Generated: 2014/08/12 09:58:42.391575665 UTC

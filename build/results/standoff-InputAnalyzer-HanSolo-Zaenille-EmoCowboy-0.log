@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Zaenille EmoCowboy
+                 InputAnalyzer: Db,Sa
+                       HanSolo: Sa,N
+                      Zaenille: Sc,N
+                     EmoCowboy: Sd,N
+Final Health:
+                 InputAnalyzer: -2
+                       HanSolo: 5
+                      Zaenille: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Zaenille EmoCowboy
+HanSolo: InputAnalyzer Zaenille EmoCowboy
+Zaenille: InputAnalyzer HanSolo EmoCowboy
+EmoCowboy: InputAnalyzer HanSolo Zaenille
+Generated: 2014/08/12 05:54:42.412456979 UTC

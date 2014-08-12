@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Zaenille Ninja
+                 InputAnalyzer: Dc,Db,Dc,Db,P,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Da,Da,Sd,N,Sd,N,Da,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Dd,Dd,Dc,Dc,Dd,Dd,Db,Db,Db,Db,Db,Dc
+Final Health:
+                 InputAnalyzer: -7
+                        Coward: 2
+                      Zaenille: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Ninja Coward
+Coward: Zaenille Ninja InputAnalyzer
+Zaenille: Coward Ninja InputAnalyzer
+Ninja: Coward Zaenille InputAnalyzer
+Generated: 2014/08/12 08:03:33.191832423 UTC

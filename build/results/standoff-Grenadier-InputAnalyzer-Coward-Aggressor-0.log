@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Coward Aggressor
+                     Grenadier: N,N,N,N
+                 InputAnalyzer: Da,Dc,Da,P
+                        Coward: Sd,N,Dd,Sb
+                     Aggressor: P,Ta,N,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -6
+                        Coward: -1
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Coward Aggressor
+InputAnalyzer: Grenadier Coward Aggressor
+Coward: Grenadier InputAnalyzer Aggressor
+Aggressor: Grenadier InputAnalyzer Coward
+Generated: 2014/08/12 09:53:02.505191339 UTC

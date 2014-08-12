@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Neo CourageTheDog
+      PoliticallyCorrectGunman: N,N,N,N,Sb,N,Sb,N,N,Dc,N,N,N,N,N,N,Sc,N,Sd,N,Dd
+  TwentyFourthsAndAHalfCentury: N,N,N,Da,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,Sc,N,Sd,N,Sa
+                           Neo: N,N,N,Db,N,N,N,Dd,Db,N,N,N,N,N,N,Db,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Dc,Db,Dc,Da,Sa,N,Sc,N,Da,Dc,Db,Db,Db,Db,Sa,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+  TwentyFourthsAndAHalfCentury: 1
+                           Neo: -3
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: CourageTheDog PoliticallyCorrectGunman Neo
+Neo: CourageTheDog PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+CourageTheDog: Neo PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:52:04.826159986 UTC

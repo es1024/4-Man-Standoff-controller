@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Scared Neo
+                        Coward: Sb,N,Sd,N
+                     Aggressor: P,Tc,N,N
+                        Scared: Sb,N,N,N
+                           Neo: N,N,Da,Sa
+Final Health:
+                        Coward: 0
+                     Aggressor: -2
+                        Scared: -3
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared Neo Aggressor
+Aggressor: Scared Neo Coward
+Scared: Aggressor Neo Coward
+Neo: Aggressor Scared Coward
+Generated: 2014/08/12 10:34:01.332868499 UTC

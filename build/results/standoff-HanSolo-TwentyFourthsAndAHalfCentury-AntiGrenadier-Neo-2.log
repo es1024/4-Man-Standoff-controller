@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury AntiGrenadier Neo
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dc,Dd,Dd,Dd,Dc,Dc,Da,Dc,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Neo HanSolo AntiGrenadier
+AntiGrenadier: Neo HanSolo TwentyFourthsAndAHalfCentury
+Neo: AntiGrenadier HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:55:11.384308828 UTC

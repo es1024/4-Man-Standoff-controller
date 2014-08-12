@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Monkey Sniper
+                     Grenadier: N,N,N,N,P,Tb
+                       HanSolo: Sc,N,Sc,N,Sd,N
+                        Monkey: N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N
+Final Health:
+                     Grenadier: 2
+                       HanSolo: -3
+                        Monkey: -3
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Sniper HanSolo
+HanSolo: Monkey Sniper Grenadier
+Monkey: HanSolo Sniper Grenadier
+Sniper: HanSolo Monkey Grenadier
+Generated: 2014/08/12 06:10:24.873512759 UTC

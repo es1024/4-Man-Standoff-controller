@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Sniper CourageTheDog
+                      Pacifist: N,N
+                     Aggressor: P,Td
+                        Sniper: Sa,N
+                 CourageTheDog: Sb,N
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 0
+                        Sniper: 2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Aggressor Sniper
+Aggressor: CourageTheDog Pacifist Sniper
+Sniper: CourageTheDog Pacifist Aggressor
+CourageTheDog: Sniper Pacifist Aggressor
+Generated: 2014/08/12 09:39:38.631137418 UTC

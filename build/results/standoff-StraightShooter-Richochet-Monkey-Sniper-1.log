@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Monkey Sniper
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Richochet: Sc,N,Sa,N,Sd,N,Sa,N,Sa
+                        Monkey: N,Sc,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                        Monkey: -2
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Sniper Richochet
+Richochet: Monkey Sniper StraightShooter
+Monkey: Richochet Sniper StraightShooter
+Sniper: Richochet Monkey StraightShooter
+Generated: 2014/08/12 07:03:09.591621805 UTC

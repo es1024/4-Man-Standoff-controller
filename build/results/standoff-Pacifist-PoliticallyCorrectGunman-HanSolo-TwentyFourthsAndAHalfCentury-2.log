@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,Da,Dc,Da,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman HanSolo
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Pacifist HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury Pacifist PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: HanSolo Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 10:21:46.506901217 UTC

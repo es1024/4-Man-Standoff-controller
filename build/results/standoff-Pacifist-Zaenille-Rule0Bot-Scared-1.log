@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sc
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Scared Zaenille
+Zaenille: Rule0Bot Scared Pacifist
+Rule0Bot: Zaenille Scared Pacifist
+Scared: Zaenille Rule0Bot Pacifist
+Generated: 2014/08/12 09:50:40.467023710 UTC

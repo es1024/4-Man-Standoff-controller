@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Sd,N,Sd,N,N,N,N,N,N,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: AntiGrenadier TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: AntiGrenadier Zaenille EmoCowboy
+EmoCowboy: AntiGrenadier Zaenille TwentyFourthsAndAHalfCentury
+AntiGrenadier: EmoCowboy Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:11:10.481669901 UTC

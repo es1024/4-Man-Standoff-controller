@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey TwentyFourthsAndAHalfCentury Scared
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Sc,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Dd,Db,Dd,N,Sb,N,N,N,N,Sb,N
+                        Scared: Sb,N,Sc,N,N,N,Sc,N,N,N,Sc,N,Sc
+Final Health:
+                      Zaenille: -2
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: TwentyFourthsAndAHalfCentury Scared Monkey
+Monkey: TwentyFourthsAndAHalfCentury Scared Zaenille
+TwentyFourthsAndAHalfCentury: Monkey Scared Zaenille
+Scared: Monkey TwentyFourthsAndAHalfCentury Zaenille
+Generated: 2014/08/12 08:35:09.320892407 UTC

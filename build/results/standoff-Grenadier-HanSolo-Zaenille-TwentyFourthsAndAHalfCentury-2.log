@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Zaenille TwentyFourthsAndAHalfCentury
+                     Grenadier: N,P,Tb
+                       HanSolo: Sd,N,Sd
+                      Zaenille: Sc,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da
+Final Health:
+                     Grenadier: 2
+                       HanSolo: -3
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury HanSolo Zaenille
+HanSolo: TwentyFourthsAndAHalfCentury Grenadier Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Grenadier HanSolo
+TwentyFourthsAndAHalfCentury: Zaenille Grenadier HanSolo
+Generated: 2014/08/12 06:16:39.260590526 UTC

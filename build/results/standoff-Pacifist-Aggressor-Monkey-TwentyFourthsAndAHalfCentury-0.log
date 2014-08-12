@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Monkey TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N
+                     Aggressor: P,Ta,Sc
+                        Monkey: N,P,N
+  TwentyFourthsAndAHalfCentury: Db,Dc,N
+Final Health:
+                      Pacifist: -3
+                     Aggressor: -1
+                        Monkey: -6
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Monkey TwentyFourthsAndAHalfCentury
+Aggressor: Pacifist Monkey TwentyFourthsAndAHalfCentury
+Monkey: Pacifist Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist Aggressor Monkey
+Generated: 2014/08/12 09:08:21.218345930 UTC

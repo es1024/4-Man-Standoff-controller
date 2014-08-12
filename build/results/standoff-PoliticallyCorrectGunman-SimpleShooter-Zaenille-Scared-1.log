@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Zaenille Scared
+      PoliticallyCorrectGunman: Sd,N,Sc,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: -1
+                      Zaenille: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Scared SimpleShooter
+SimpleShooter: Zaenille Scared PoliticallyCorrectGunman
+Zaenille: SimpleShooter Scared PoliticallyCorrectGunman
+Scared: SimpleShooter Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 09:00:05.792062513 UTC

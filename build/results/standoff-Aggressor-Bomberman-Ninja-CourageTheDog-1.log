@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman Ninja CourageTheDog
+                     Aggressor: P,Tc,N
+                     Bomberman: N,N,N
+                         Ninja: Dc,Db,N
+                 CourageTheDog: Sa,N,Sb
+Final Health:
+                     Aggressor: 0
+                     Bomberman: 0
+                         Ninja: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Ninja CourageTheDog Bomberman
+Bomberman: Ninja CourageTheDog Aggressor
+Ninja: Bomberman CourageTheDog Aggressor
+CourageTheDog: Bomberman Ninja Aggressor
+Generated: 2014/08/12 08:56:46.170724409 UTC

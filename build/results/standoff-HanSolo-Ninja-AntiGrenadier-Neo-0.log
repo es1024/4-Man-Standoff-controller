@@ -1,0 +1,16 @@
+Standoff between: HanSolo Ninja AntiGrenadier Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                         Ninja: Db,Da,Da,Db,Dc,Dd,Db,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Dc,N,N,N,N,N,Dc,Dc,N,Sa,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                         Ninja: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja AntiGrenadier Neo
+Ninja: HanSolo AntiGrenadier Neo
+AntiGrenadier: HanSolo Ninja Neo
+Neo: HanSolo Ninja AntiGrenadier
+Generated: 2014/08/12 09:20:02.164903511 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Rule0Bot Neo
+                 InputAnalyzer: Db,Dd,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Sa,N,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,Dc,N,Dc,Dc,N,Dc,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                         Spock: 0
+                      Rule0Bot: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Rule0Bot Neo
+Spock: InputAnalyzer Rule0Bot Neo
+Rule0Bot: InputAnalyzer Spock Neo
+Neo: InputAnalyzer Spock Rule0Bot
+Generated: 2014/08/12 06:40:10.460019233 UTC

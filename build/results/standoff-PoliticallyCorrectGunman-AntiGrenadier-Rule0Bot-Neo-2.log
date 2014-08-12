@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman AntiGrenadier Rule0Bot Neo
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,Db,Db,Db,N,Db,N,Db,N,N,N,N,N,N,N,N,N,N,N,Db,N,Db,Db,N,N,Db,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 AntiGrenadier: -15
+                      Rule0Bot: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo AntiGrenadier Rule0Bot
+AntiGrenadier: Neo PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Neo PoliticallyCorrectGunman AntiGrenadier
+Neo: Rule0Bot PoliticallyCorrectGunman AntiGrenadier
+Generated: 2014/08/12 10:08:22.037776172 UTC

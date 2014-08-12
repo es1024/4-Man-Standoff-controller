@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Bomberman EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman EmoCowboy TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman EmoCowboy Pacifist
+Bomberman: TwentyFourthsAndAHalfCentury EmoCowboy Pacifist
+EmoCowboy: TwentyFourthsAndAHalfCentury Bomberman Pacifist
+Generated: 2014/08/12 08:00:57.585137760 UTC

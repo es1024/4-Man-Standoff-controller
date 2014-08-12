@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Scared Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sc,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,Sd
+                           Neo: N,N,Db,N,Db,Sa,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: -1
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Richochet Scared
+Richochet: Neo StraightShooter Scared
+Scared: Neo StraightShooter Richochet
+Neo: Scared StraightShooter Richochet
+Generated: 2014/08/12 10:25:00.473997197 UTC

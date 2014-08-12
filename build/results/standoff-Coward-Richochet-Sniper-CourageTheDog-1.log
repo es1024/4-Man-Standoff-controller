@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Sniper CourageTheDog
+                        Coward: Sb,N,Sb,N,Sc
+                     Richochet: Sd,N,Sc,N,Sa
+                        Sniper: Sd,N,Sd,N,Sb
+                 CourageTheDog: Sc,N,Db,N,N
+Final Health:
+                        Coward: 3
+                     Richochet: -1
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Sniper CourageTheDog Richochet
+Richochet: Sniper CourageTheDog Coward
+Sniper: Richochet CourageTheDog Coward
+CourageTheDog: Richochet Sniper Coward
+Generated: 2014/08/12 09:49:50.177561912 UTC

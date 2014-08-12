@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Scared Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sd,N,Sa,N,N,N,N,N,N,N,Sd,N,Sa,N,Sd
+                           Neo: N,Db,Db,N,Da,N,Da,N,N,N,N,N,N,Dc,Da,N,N,Sc,N
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Neo StraightShooter Scared
+Scared: Neo StraightShooter TwentyFourthsAndAHalfCentury
+Neo: Scared StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:31:09.332143798 UTC

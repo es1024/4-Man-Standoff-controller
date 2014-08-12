@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy AntiGrenadier Rule0Bot
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy AntiGrenadier Rule0Bot
+EmoCowboy: Coward AntiGrenadier Rule0Bot
+AntiGrenadier: Coward EmoCowboy Rule0Bot
+Rule0Bot: Coward EmoCowboy AntiGrenadier
+Generated: 2014/08/12 10:01:22.678579129 UTC

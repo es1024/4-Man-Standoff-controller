@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward TwentyFourthsAndAHalfCentury Bomberman
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb
+                        Coward: Sc,N,Sc,N,Sa,N,Sa,N,Da,Dd,Sa
+  TwentyFourthsAndAHalfCentury: N,Dd,Dd,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Coward TwentyFourthsAndAHalfCentury
+Coward: Bomberman SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman SimpleShooter Coward
+Bomberman: TwentyFourthsAndAHalfCentury SimpleShooter Coward
+Generated: 2014/08/12 09:30:02.354281943 UTC

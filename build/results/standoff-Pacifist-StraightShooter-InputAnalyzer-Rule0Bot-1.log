@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer Rule0Bot
+                      Pacifist: N,N,N,N
+               StraightShooter: Sd,N,Sd,N
+                 InputAnalyzer: Db,P,Sb,N
+                      Rule0Bot: N,N,Sc,N
+Final Health:
+                      Pacifist: 2
+               StraightShooter: 0
+                 InputAnalyzer: -3
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Rule0Bot StraightShooter
+StraightShooter: InputAnalyzer Rule0Bot Pacifist
+InputAnalyzer: StraightShooter Rule0Bot Pacifist
+Rule0Bot: StraightShooter InputAnalyzer Pacifist
+Generated: 2014/08/12 06:34:36.641043027 UTC

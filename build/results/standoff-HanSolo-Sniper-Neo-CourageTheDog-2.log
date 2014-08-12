@@ -1,0 +1,16 @@
+Standoff between: HanSolo Sniper Neo CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,Db,N,N,Da,N,Da,N,Da,Sa,N,Sa,N
+                 CourageTheDog: Sc,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                        Sniper: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Sniper Neo
+Sniper: CourageTheDog HanSolo Neo
+Neo: CourageTheDog HanSolo Sniper
+CourageTheDog: Neo HanSolo Sniper
+Generated: 2014/08/12 10:45:26.063557332 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman Ninja AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Db,Dc,Db,Dc,Db,Dd,Db,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+Final Health:
+                     Grenadier: 0
+                     Bomberman: -18
+                         Ninja: -3
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja AntiGrenadier Bomberman
+Bomberman: Ninja AntiGrenadier Grenadier
+Ninja: Bomberman AntiGrenadier Grenadier
+AntiGrenadier: Bomberman Ninja Grenadier
+Generated: 2014/08/12 08:28:30.204112329 UTC

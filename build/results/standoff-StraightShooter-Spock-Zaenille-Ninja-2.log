@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Zaenille Ninja
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                         Spock: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dd,Db,Da,Dd,Dc,Dd,Dd,Dc,Db,Da,Da,Da,Db,Dc,Dc,Dc,Da,Da,Dd,Dc,Db,Db,Da,Dd,Dd,Db,Dd,Dd,Da,Da,Dc,Dd,Dc,Da,Db,Db,Dc,Da,Da,Dc,Dc,Dc,Da,Dd,Da,Db,Db,Da
+Final Health:
+               StraightShooter: -15
+                         Spock: -1
+                      Zaenille: -2
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Spock Zaenille
+Spock: Ninja StraightShooter Zaenille
+Zaenille: Ninja StraightShooter Spock
+Ninja: Zaenille StraightShooter Spock
+Generated: 2014/08/12 09:22:23.055932190 UTC

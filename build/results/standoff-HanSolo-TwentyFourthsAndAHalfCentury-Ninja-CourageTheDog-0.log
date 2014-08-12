@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Dc,Dd,Dc,Dd,Da,Dc,Dd,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Sa,N,N,Dc,Sc,N,Da,Da,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+TwentyFourthsAndAHalfCentury: HanSolo Ninja CourageTheDog
+Ninja: HanSolo TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: HanSolo TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 06:06:03.237420078 UTC

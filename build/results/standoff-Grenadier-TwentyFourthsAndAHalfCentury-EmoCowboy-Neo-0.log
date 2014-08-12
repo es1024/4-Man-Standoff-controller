@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy Neo
+                     Grenadier: P,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Sd
+                     EmoCowboy: Sc,N,N,N
+                           Neo: N,Db,N,N
+Final Health:
+                     Grenadier: -1
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury EmoCowboy Neo
+TwentyFourthsAndAHalfCentury: Grenadier EmoCowboy Neo
+EmoCowboy: Grenadier TwentyFourthsAndAHalfCentury Neo
+Neo: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 09:32:06.222674847 UTC

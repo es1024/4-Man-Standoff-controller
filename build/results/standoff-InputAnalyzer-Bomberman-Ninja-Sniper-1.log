@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Ninja Sniper
+                 InputAnalyzer: Dc,Db,Dc,Db,Sc,N,Db,Dc,Db,Dc,Sb,N,P,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Db,Da,Dd,Dc,Da,Db,Dc,Dd,Dd,Da,Dd,Dc
+                        Sniper: Sa,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                     Bomberman: -1
+                         Ninja: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Sniper Bomberman
+Bomberman: Ninja Sniper InputAnalyzer
+Ninja: Bomberman Sniper InputAnalyzer
+Sniper: Bomberman Ninja InputAnalyzer
+Generated: 2014/08/12 07:33:23.163273837 UTC

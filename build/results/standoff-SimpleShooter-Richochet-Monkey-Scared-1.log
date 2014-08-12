@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Monkey Scared
+                 SimpleShooter: Sb,N,Sd,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sd
+                        Monkey: N,Sc,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sb,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: 1
+                        Monkey: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey Scared Richochet
+Richochet: Monkey Scared SimpleShooter
+Monkey: Richochet Scared SimpleShooter
+Scared: Richochet Monkey SimpleShooter
+Generated: 2014/08/12 08:23:18.064916921 UTC

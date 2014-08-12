@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sc,N,Sd,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Da,Dc,Sb,N,Db,Sb,N,Dc,Dc,Sc,N,Dc,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                     Richochet: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot CourageTheDog Richochet
+Richochet: Rule0Bot CourageTheDog Pacifist
+Rule0Bot: Richochet CourageTheDog Pacifist
+CourageTheDog: Richochet Rule0Bot Pacifist
+Generated: 2014/08/12 10:00:47.810522918 UTC

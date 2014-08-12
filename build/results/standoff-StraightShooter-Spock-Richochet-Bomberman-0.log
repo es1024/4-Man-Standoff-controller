@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Richochet Bomberman
+               StraightShooter: Sc,N,Sc,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sc,N,N,N,Sd,N,N,Sd
+                     Richochet: Sa,N,Sd,N,Sb,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,Dc,Sa,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 3
+                     Richochet: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Richochet Bomberman
+Spock: StraightShooter Richochet Bomberman
+Richochet: StraightShooter Spock Bomberman
+Bomberman: StraightShooter Spock Richochet
+Generated: 2014/08/12 08:30:03.358045562 UTC

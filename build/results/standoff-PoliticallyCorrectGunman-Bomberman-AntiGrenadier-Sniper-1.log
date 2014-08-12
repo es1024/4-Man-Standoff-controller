@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman AntiGrenadier Sniper
+      PoliticallyCorrectGunman: N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -15
+                 AntiGrenadier: -1
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Sniper Bomberman
+Bomberman: AntiGrenadier Sniper PoliticallyCorrectGunman
+AntiGrenadier: Bomberman Sniper PoliticallyCorrectGunman
+Sniper: Bomberman AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 06:05:05.208538077 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury EmoCowboy Scared
+                 InputAnalyzer: Dd,P,Da,Db,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,Sb
+Final Health:
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -4
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Scared InputAnalyzer EmoCowboy
+EmoCowboy: Scared InputAnalyzer TwentyFourthsAndAHalfCentury
+Scared: EmoCowboy InputAnalyzer TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:59:53.951078442 UTC

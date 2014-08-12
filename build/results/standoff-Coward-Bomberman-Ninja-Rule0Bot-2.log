@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman Ninja Rule0Bot
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dc,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                     Bomberman: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot Bomberman Ninja
+Bomberman: Rule0Bot Coward Ninja
+Ninja: Rule0Bot Coward Bomberman
+Rule0Bot: Ninja Coward Bomberman
+Generated: 2014/08/12 06:26:15.754749202 UTC

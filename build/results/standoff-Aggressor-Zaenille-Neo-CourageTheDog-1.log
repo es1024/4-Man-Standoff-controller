@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Neo CourageTheDog
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+                           Neo: N,N
+                 CourageTheDog: Sa,N
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+                           Neo: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo CourageTheDog Zaenille
+Zaenille: Neo CourageTheDog Aggressor
+Neo: Zaenille CourageTheDog Aggressor
+CourageTheDog: Zaenille Neo Aggressor
+Generated: 2014/08/12 09:16:46.689625511 UTC

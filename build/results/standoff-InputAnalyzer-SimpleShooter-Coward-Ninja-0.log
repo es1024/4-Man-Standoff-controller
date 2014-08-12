@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Coward Ninja
+                 InputAnalyzer: Db,Dd,Db,Sd,N,P,Sb,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sc,N
+                        Coward: Sd,N,Sd,N,Sb,N,Sb,N
+                         Ninja: Db,Db,Dd,Dd,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: -1
+                        Coward: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Coward Ninja
+SimpleShooter: InputAnalyzer Coward Ninja
+Coward: InputAnalyzer SimpleShooter Ninja
+Ninja: InputAnalyzer SimpleShooter Coward
+Generated: 2014/08/12 06:19:55.917824325 UTC

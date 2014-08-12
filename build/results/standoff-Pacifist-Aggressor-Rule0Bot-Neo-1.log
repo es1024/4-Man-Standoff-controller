@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Rule0Bot Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,Da,N,N,N,Da,Da,N,N,N,N,N,N,N,Da,Da,N,Da,Da,Da,Da,Da,Da,N,N,Da,N,N,N,N,Da,Da,Da,Da,N,N,Da,N,N,N,N,N,N,N,N,Da,Da,N,Da
+Final Health:
+                      Pacifist: -18
+                     Aggressor: 0
+                      Rule0Bot: -3
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Neo Aggressor
+Aggressor: Rule0Bot Neo Pacifist
+Rule0Bot: Aggressor Neo Pacifist
+Neo: Aggressor Rule0Bot Pacifist
+Generated: 2014/08/12 09:45:27.662114301 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille TwentyFourthsAndAHalfCentury EmoCowboy
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+  TwentyFourthsAndAHalfCentury: Db,Sa
+                     EmoCowboy: Sd,N
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: EmoCowboy Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Aggressor Zaenille
+EmoCowboy: TwentyFourthsAndAHalfCentury Aggressor Zaenille
+Generated: 2014/08/12 08:05:07.567801962 UTC

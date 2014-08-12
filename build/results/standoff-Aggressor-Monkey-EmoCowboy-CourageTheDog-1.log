@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey EmoCowboy CourageTheDog
+                     Aggressor: P,Td,Sb
+                        Monkey: N,N,N
+                     EmoCowboy: N,N,N
+                 CourageTheDog: Sc,N,N
+Final Health:
+                     Aggressor: 2
+                        Monkey: 0
+                     EmoCowboy: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy CourageTheDog Monkey
+Monkey: EmoCowboy CourageTheDog Aggressor
+EmoCowboy: Monkey CourageTheDog Aggressor
+CourageTheDog: Monkey EmoCowboy Aggressor
+Generated: 2014/08/12 08:07:34.535432386 UTC

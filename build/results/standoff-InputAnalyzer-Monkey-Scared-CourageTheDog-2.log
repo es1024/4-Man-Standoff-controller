@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Scared CourageTheDog
+                 InputAnalyzer: Dd,P,Sd,N
+                        Monkey: N,N,N,N
+                        Scared: N,N,N,Sa
+                 CourageTheDog: Sa,N,P,Tb
+Final Health:
+                 InputAnalyzer: -6
+                        Monkey: -6
+                        Scared: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Monkey Scared
+Monkey: CourageTheDog InputAnalyzer Scared
+Scared: CourageTheDog InputAnalyzer Monkey
+CourageTheDog: Scared InputAnalyzer Monkey
+Generated: 2014/08/12 08:20:14.721760264 UTC

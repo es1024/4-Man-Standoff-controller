@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Richochet Monkey
+                      Pacifist: N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,Dd,N,Sb,N,N
+                     Richochet: Sa,N,Sd,N,Sa,N,Sa
+                        Monkey: N,N,N,Sd,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                     Richochet: 5
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Monkey PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Richochet Monkey Pacifist
+Richochet: PoliticallyCorrectGunman Monkey Pacifist
+Monkey: PoliticallyCorrectGunman Richochet Pacifist
+Generated: 2014/08/12 09:40:38.191613262 UTC

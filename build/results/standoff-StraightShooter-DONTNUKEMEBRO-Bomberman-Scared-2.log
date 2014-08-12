@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Bomberman Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N
+                 DONTNUKEMEBRO: Da,Dd,P,Tc,N,N
+                     Bomberman: N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,N,Sa
+Final Health:
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -2
+                     Bomberman: -5
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared DONTNUKEMEBRO Bomberman
+DONTNUKEMEBRO: Scared StraightShooter Bomberman
+Bomberman: Scared StraightShooter DONTNUKEMEBRO
+Scared: Bomberman StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 08:30:29.254125732 UTC

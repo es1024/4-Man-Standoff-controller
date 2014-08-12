@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury AntiGrenadier Sniper Neo
+  TwentyFourthsAndAHalfCentury: Dd,Db,Dc,Db,Db,N,N,N,N,N,N,Sb,N,N,Sb,N,Sc,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sb,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Neo AntiGrenadier Sniper
+AntiGrenadier: Neo TwentyFourthsAndAHalfCentury Sniper
+Sniper: Neo TwentyFourthsAndAHalfCentury AntiGrenadier
+Neo: Sniper TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 08:56:49.744947212 UTC

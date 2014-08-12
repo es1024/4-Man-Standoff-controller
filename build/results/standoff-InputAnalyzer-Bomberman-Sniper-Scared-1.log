@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Sniper Scared
+                 InputAnalyzer: Dc,Db,Sa,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sd,N,N,N,N,N,N,N,Sb,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,N,N,Sb,N,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -2
+                     Bomberman: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Scared Bomberman
+Bomberman: Sniper Scared InputAnalyzer
+Sniper: Bomberman Scared InputAnalyzer
+Scared: Bomberman Sniper InputAnalyzer
+Generated: 2014/08/12 08:49:36.244705551 UTC

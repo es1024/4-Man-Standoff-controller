@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey Rule0Bot CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,N,Sb,N,Dc,Db,Dc,Sb,N,Sc,N,Db,Sc,N,Sb,N,Dc,Sc
+Final Health:
+                      Zaenille: -4
+                        Monkey: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog Monkey Rule0Bot
+Monkey: CourageTheDog Zaenille Rule0Bot
+Rule0Bot: CourageTheDog Zaenille Monkey
+CourageTheDog: Rule0Bot Zaenille Monkey
+Generated: 2014/08/12 10:02:35.820532366 UTC

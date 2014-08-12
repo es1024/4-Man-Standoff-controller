@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter EmoCowboy Sniper
+               StraightShooter: Sd,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sa
+                     EmoCowboy: Sc,N,N,N,N
+                        Sniper: Sa,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Sniper SimpleShooter
+SimpleShooter: EmoCowboy Sniper StraightShooter
+EmoCowboy: SimpleShooter Sniper StraightShooter
+Sniper: SimpleShooter EmoCowboy StraightShooter
+Generated: 2014/08/12 08:09:35.609097843 UTC

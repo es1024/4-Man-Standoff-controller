@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Rule0Bot Sniper
+                 InputAnalyzer: Dd,Sc,N,P,Sd,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N
+                      Rule0Bot: N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 2
+                      Rule0Bot: -1
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper SimpleShooter Rule0Bot
+SimpleShooter: Sniper InputAnalyzer Rule0Bot
+Rule0Bot: Sniper InputAnalyzer SimpleShooter
+Sniper: Rule0Bot InputAnalyzer SimpleShooter
+Generated: 2014/08/12 09:13:21.605761843 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Monkey Neo
+                 InputAnalyzer: Db,Dc,N,N,N
+                     Aggressor: P,Ta,Sc,N,Sd
+                        Monkey: N,N,N,N,N
+                           Neo: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 2
+                        Monkey: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Monkey Neo
+Aggressor: InputAnalyzer Monkey Neo
+Monkey: InputAnalyzer Aggressor Neo
+Neo: InputAnalyzer Aggressor Monkey
+Generated: 2014/08/12 07:09:53.977881808 UTC

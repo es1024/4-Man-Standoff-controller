@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Richochet Scared
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dd,P,Db,N,N
+                     Richochet: Sb,N,Sa,N,Sd
+                        Scared: N,Sa,N,Sb,N
+Final Health:
+                      Pacifist: -2
+                 InputAnalyzer: -5
+                     Richochet: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared InputAnalyzer Richochet
+InputAnalyzer: Scared Pacifist Richochet
+Richochet: Scared Pacifist InputAnalyzer
+Scared: Richochet Pacifist InputAnalyzer
+Generated: 2014/08/12 10:31:33.134673793 UTC

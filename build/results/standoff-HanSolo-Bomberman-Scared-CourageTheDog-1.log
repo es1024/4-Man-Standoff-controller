@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman Scared CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,N,Dc,Db,Da,N,Da,Sb,N,Db,N,N
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared CourageTheDog Bomberman
+Bomberman: Scared CourageTheDog HanSolo
+Scared: Bomberman CourageTheDog HanSolo
+CourageTheDog: Bomberman Scared HanSolo
+Generated: 2014/08/12 10:34:38.762191370 UTC

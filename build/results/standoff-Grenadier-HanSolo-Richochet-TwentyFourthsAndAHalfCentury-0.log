@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Richochet TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sc,N,Sc,N
+                     Richochet: Sa,N,Sa,N,Sb,N,Sb,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Dc,N,Db,Sb
+Final Health:
+                     Grenadier: -3
+                       HanSolo: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Richochet TwentyFourthsAndAHalfCentury
+HanSolo: Grenadier Richochet TwentyFourthsAndAHalfCentury
+Richochet: Grenadier HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Grenadier HanSolo Richochet
+Generated: 2014/08/12 08:00:55.388889110 UTC

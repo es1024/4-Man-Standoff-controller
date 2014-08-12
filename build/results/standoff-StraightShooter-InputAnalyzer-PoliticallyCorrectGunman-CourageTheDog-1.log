@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,P,Dd,Dd
+      PoliticallyCorrectGunman: N,Dd,Sc,N,N
+                 CourageTheDog: Sb,N,Sa,N,Sb
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: -2
+                 CourageTheDog: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman CourageTheDog InputAnalyzer
+InputAnalyzer: PoliticallyCorrectGunman CourageTheDog StraightShooter
+PoliticallyCorrectGunman: InputAnalyzer CourageTheDog StraightShooter
+CourageTheDog: InputAnalyzer PoliticallyCorrectGunman StraightShooter
+Generated: 2014/08/12 06:47:08.190356651 UTC

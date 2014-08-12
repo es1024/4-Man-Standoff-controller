@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Richochet Ninja
+                         Spock: N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc
+                     Richochet: Sa,N,Sd,N,Sa,N,Sb,N,Sd,N,Sb
+                         Ninja: Da,Dc,Dd,Da,Dd,Da,Da,Dd,Dc,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 1
+                     Richochet: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Ninja SimpleShooter
+SimpleShooter: Richochet Ninja Spock
+Richochet: SimpleShooter Ninja Spock
+Ninja: SimpleShooter Richochet Spock
+Generated: 2014/08/12 06:17:43.243551413 UTC

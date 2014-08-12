@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Ninja AntiGrenadier
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Da,Db,Db,Db,Dc,Dc,Dd,Dd,Db,Dc,Da,Db,Db,Dd,Da,Dc,Da,Db,Dd,Dc,Dc,Db,Dd,Da,Db,Dc,Db,Da,Dc,Dc,Db,Dc,Db,Da,Dc,Db,Db,Da,Dd,Dc,Da,Dd,Dc,Da,Dd,Da,Da,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+      PoliticallyCorrectGunman: -1
+                         Ninja: -15
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: AntiGrenadier PoliticallyCorrectGunman Ninja
+PoliticallyCorrectGunman: AntiGrenadier StraightShooter Ninja
+Ninja: AntiGrenadier StraightShooter PoliticallyCorrectGunman
+AntiGrenadier: Ninja StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 06:59:12.760798475 UTC

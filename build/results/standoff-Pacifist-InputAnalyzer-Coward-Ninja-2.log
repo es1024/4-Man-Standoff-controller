@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Coward Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Sc,N,Da,Dc,Dd,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sb,N,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Sa,N,Da,Da,Da,Sa,N,Sa,N,Sd,N,Sd,N,Db,Db,Sd,N,Db,Db,Sd,N,Sd
+                         Ninja: Db,Dc,Dc,Db,Db,Db,Da,Da,Dd,Dd,Da,Da,Db,Db,Db,Dc,Dc,Db,Db,Da,Da,Da,Da,Da,Dc,Dc,Dc,Dc,Dc,Dc,Dd,Da,Dd,Db,Db,Da,Da,Dd,Db,Db
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -1
+                        Coward: 1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja InputAnalyzer Coward
+InputAnalyzer: Ninja Pacifist Coward
+Coward: Ninja Pacifist InputAnalyzer
+Ninja: Coward Pacifist InputAnalyzer
+Generated: 2014/08/12 06:30:34.064354264 UTC

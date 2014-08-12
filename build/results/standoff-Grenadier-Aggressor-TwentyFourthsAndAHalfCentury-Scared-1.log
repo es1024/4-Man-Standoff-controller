@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor TwentyFourthsAndAHalfCentury Scared
+                     Grenadier: N,P
+                     Aggressor: P,Tc
+  TwentyFourthsAndAHalfCentury: Dd,Da
+                        Scared: Sa,N
+Final Health:
+                     Grenadier: -6
+                     Aggressor: -1
+  TwentyFourthsAndAHalfCentury: -6
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Scared Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury Scared Grenadier
+TwentyFourthsAndAHalfCentury: Aggressor Scared Grenadier
+Scared: Aggressor TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 09:22:19.757363088 UTC

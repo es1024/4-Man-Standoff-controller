@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Monkey Rule0Bot
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,Sd,N,N
+                        Coward: Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: 1
+                        Monkey: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Coward Monkey
+Coward: Rule0Bot SimpleShooter Monkey
+Monkey: Rule0Bot SimpleShooter Coward
+Rule0Bot: Monkey SimpleShooter Coward
+Generated: 2014/08/12 07:12:34.818671272 UTC

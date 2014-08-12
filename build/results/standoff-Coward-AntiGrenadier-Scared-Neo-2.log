@@ -1,0 +1,16 @@
+Standoff between: Coward AntiGrenadier Scared Neo
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Dc,Sd,N,Dd,Dd,Dd,Dd,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,Db,N,Db,Db,Sa,N,Sa,N,Da,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                 AntiGrenadier: -1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Neo AntiGrenadier Scared
+AntiGrenadier: Neo Coward Scared
+Scared: Neo Coward AntiGrenadier
+Neo: Scared Coward AntiGrenadier
+Generated: 2014/08/12 08:17:36.250122485 UTC

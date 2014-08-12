@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Monkey EmoCowboy
+                     Grenadier: N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -18
+                        Monkey: -18
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey EmoCowboy StraightShooter
+StraightShooter: Monkey EmoCowboy Grenadier
+Monkey: StraightShooter EmoCowboy Grenadier
+EmoCowboy: StraightShooter Monkey Grenadier
+Generated: 2014/08/12 06:54:40.946050251 UTC

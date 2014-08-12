@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Richochet Neo
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N
+                        Coward: Sa,N,Sd,N,Sd,N,Sc
+                     Richochet: Sa,N,Sd,N,Sd,N,Sb
+                           Neo: N,Sc,N,Sc,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -6
+                        Coward: 3
+                     Richochet: -1
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Neo Coward
+Coward: Richochet Neo PoliticallyCorrectGunman
+Richochet: Coward Neo PoliticallyCorrectGunman
+Neo: Coward Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 09:44:46.465710005 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Monkey Rule0Bot
+      PoliticallyCorrectGunman: Db,Sc,N,N,Sd,N,N,N,N,N,N,N,P,Dd,Sd
+                 DONTNUKEMEBRO: Dd,Dd,Dc,Da,Da,Dc,Da,Dd,Dc,Da,Dc,Da,Dc,Sa,N
+                        Monkey: N,Dd,N,N,N,N,N,N,N,N,N,N,N,P,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+Final Health:
+      PoliticallyCorrectGunman: -6
+                 DONTNUKEMEBRO: -1
+                        Monkey: -6
+                      Rule0Bot: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot DONTNUKEMEBRO Monkey
+DONTNUKEMEBRO: Rule0Bot PoliticallyCorrectGunman Monkey
+Monkey: Rule0Bot PoliticallyCorrectGunman DONTNUKEMEBRO
+Rule0Bot: Monkey PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 06:01:52.375532101 UTC

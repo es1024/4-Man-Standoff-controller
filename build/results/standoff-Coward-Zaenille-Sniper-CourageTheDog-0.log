@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Sniper CourageTheDog
+                        Coward: Sd,N,Sd,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,Sa,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,N,Dc,Dc,Sc,N,Sc
+Final Health:
+                        Coward: -1
+                      Zaenille: -2
+                        Sniper: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille Sniper CourageTheDog
+Zaenille: Coward Sniper CourageTheDog
+Sniper: Coward Zaenille CourageTheDog
+CourageTheDog: Coward Zaenille Sniper
+Generated: 2014/08/12 08:16:51.751574633 UTC

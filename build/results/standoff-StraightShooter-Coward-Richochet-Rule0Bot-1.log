@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Richochet Rule0Bot
+               StraightShooter: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sc,N,Sc,N,Dc,Da,Sc
+                     Richochet: Sa,N,Sa,N,Sd,N,Sb,N,Sb,N,Sb,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -3
+                        Coward: -1
+                     Richochet: -1
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Rule0Bot Coward
+Coward: Richochet Rule0Bot StraightShooter
+Richochet: Coward Rule0Bot StraightShooter
+Rule0Bot: Coward Richochet StraightShooter
+Generated: 2014/08/12 06:21:33.354846074 UTC

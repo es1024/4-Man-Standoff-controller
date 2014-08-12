@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet AntiGrenadier Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sd,N,Sa,N,Sd,N,Sa,N,Sc,N,Sa,N,Sd,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Da,Dc,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Neo Richochet
+Richochet: AntiGrenadier Neo Pacifist
+AntiGrenadier: Richochet Neo Pacifist
+Neo: Richochet AntiGrenadier Pacifist
+Generated: 2014/08/12 06:54:15.081501442 UTC

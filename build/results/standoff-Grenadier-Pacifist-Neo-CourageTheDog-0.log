@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Neo CourageTheDog
+                     Grenadier: N,N,N,P,N,N
+                      Pacifist: N,N,N,N,N,N
+                           Neo: N,N,Dd,Dd,Dd,Dd
+                 CourageTheDog: Sb,N,Dc,Db,P,Tb
+Final Health:
+                     Grenadier: -4
+                      Pacifist: -8
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist Neo CourageTheDog
+Pacifist: Grenadier Neo CourageTheDog
+Neo: Grenadier Pacifist CourageTheDog
+CourageTheDog: Grenadier Pacifist Neo
+Generated: 2014/08/12 06:07:44.861989690 UTC

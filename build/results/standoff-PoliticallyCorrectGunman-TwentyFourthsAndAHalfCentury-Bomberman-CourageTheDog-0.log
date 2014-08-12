@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+      PoliticallyCorrectGunman: Dc,N,N,Sd,N,N,N,N,N,N,Db,Sa,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,Dc,N,N,N,N,N,N,Sa,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,N,Sc,N,N,Db,Sc,N,Da,Dc,Db,Sc,N,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: 1
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Bomberman CourageTheDog
+Bomberman: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 07:35:03.527924344 UTC

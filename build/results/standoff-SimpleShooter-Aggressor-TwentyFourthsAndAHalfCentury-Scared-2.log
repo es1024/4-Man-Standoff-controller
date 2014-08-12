@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor TwentyFourthsAndAHalfCentury Scared
+                 SimpleShooter: Sc,N,Sb
+                     Aggressor: P,Td,Sa
+  TwentyFourthsAndAHalfCentury: Db,Db,N
+                        Scared: Sc,N,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Scared SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared SimpleShooter Aggressor
+Scared: TwentyFourthsAndAHalfCentury SimpleShooter Aggressor
+Generated: 2014/08/12 08:53:03.572205156 UTC

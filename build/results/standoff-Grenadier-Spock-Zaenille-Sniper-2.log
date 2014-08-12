@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Zaenille Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: 5
+                      Zaenille: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Spock Zaenille
+Spock: Sniper Grenadier Zaenille
+Zaenille: Sniper Grenadier Spock
+Sniper: Zaenille Grenadier Spock
+Generated: 2014/08/12 06:53:32.515691384 UTC

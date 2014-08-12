@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward EmoCowboy AntiGrenadier
+      PoliticallyCorrectGunman: N,Sc,N,N,N,N,Sb,N,Sa
+                        Coward: Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: N,N,N,N,N,Sc,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                        Coward: 3
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward EmoCowboy AntiGrenadier
+Coward: PoliticallyCorrectGunman EmoCowboy AntiGrenadier
+EmoCowboy: PoliticallyCorrectGunman Coward AntiGrenadier
+AntiGrenadier: PoliticallyCorrectGunman Coward EmoCowboy
+Generated: 2014/08/12 05:55:32.468481183 UTC

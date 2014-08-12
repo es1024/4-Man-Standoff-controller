@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Monkey Scared
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Td
+                        Monkey: N,P
+                        Scared: Sb,N
+Final Health:
+                 SimpleShooter: -1
+                     Aggressor: -3
+                        Monkey: -6
+                        Scared: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Aggressor Monkey
+Aggressor: Scared SimpleShooter Monkey
+Monkey: Scared SimpleShooter Aggressor
+Scared: Monkey SimpleShooter Aggressor
+Generated: 2014/08/12 10:09:00.275050084 UTC

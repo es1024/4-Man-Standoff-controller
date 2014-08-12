@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer TwentyFourthsAndAHalfCentury CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,Sc,N,Dc,Da,Sc,N,Sd,N,P,Db,Dd
+  TwentyFourthsAndAHalfCentury: Da,Db,Dd,Dd,Db,Db,Da,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Sb,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -3
+  TwentyFourthsAndAHalfCentury: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury CourageTheDog InputAnalyzer
+InputAnalyzer: TwentyFourthsAndAHalfCentury CourageTheDog StraightShooter
+TwentyFourthsAndAHalfCentury: InputAnalyzer CourageTheDog StraightShooter
+CourageTheDog: InputAnalyzer TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 07:43:50.803027100 UTC

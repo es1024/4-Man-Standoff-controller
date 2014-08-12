@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Richochet Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                        Coward: Sa,N,Sa,N,Sc,N,Da,N,N
+                     Richochet: Sb,N,Sd,N,Sb,N,Sb,N,Sa
+                         Ninja: Db,Dd,Dd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: -1
+                     Richochet: 3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Ninja Coward
+Coward: Richochet Ninja StraightShooter
+Richochet: Coward Ninja StraightShooter
+Ninja: Coward Richochet StraightShooter
+Generated: 2014/08/12 08:33:37.754571575 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Zaenille AntiGrenadier
+                       HanSolo: Sb,N
+                     Aggressor: P,Ta
+                      Zaenille: Sc,N
+                 AntiGrenadier: N,Sb
+Final Health:
+                       HanSolo: -3
+                     Aggressor: -2
+                      Zaenille: -2
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Zaenille AntiGrenadier
+Aggressor: HanSolo Zaenille AntiGrenadier
+Zaenille: HanSolo Aggressor AntiGrenadier
+AntiGrenadier: HanSolo Aggressor Zaenille
+Generated: 2014/08/12 09:51:11.305305676 UTC

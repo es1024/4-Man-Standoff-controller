@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Aggressor CourageTheDog
+                      Pacifist: N,N
+      PoliticallyCorrectGunman: Sa,N
+                     Aggressor: P,Tb
+                 CourageTheDog: Sc,N
+Final Health:
+                      Pacifist: 0
+      PoliticallyCorrectGunman: -3
+                     Aggressor: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor CourageTheDog PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Aggressor CourageTheDog Pacifist
+Aggressor: PoliticallyCorrectGunman CourageTheDog Pacifist
+CourageTheDog: PoliticallyCorrectGunman Aggressor Pacifist
+Generated: 2014/08/12 10:16:00.534591395 UTC

@@ -1,0 +1,16 @@
+Standoff between: Bomberman Ninja Rule0Bot Scared
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dd,Db,Da,Db,Da,Dc,Dc,Da,Db,Da,Dc,Db,Da,Db,Da,Dc,Dd,Db,Da,Db,Db,Da,Dc,Dd,Dc,Da,Da,Dc,Dd,Db,Dd,Dd,Dc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,Sb,N,Sc,N,Sa,N,Sb,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sb,N,Sb,N,Sb
+Final Health:
+                     Bomberman: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: Ninja Rule0Bot Scared
+Ninja: Bomberman Rule0Bot Scared
+Rule0Bot: Bomberman Ninja Scared
+Scared: Bomberman Ninja Rule0Bot
+Generated: 2014/08/12 06:27:44.229225553 UTC

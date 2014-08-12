@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter Rule0Bot
+               StraightShooter: Sb,N,Sb,N,N
+                 DONTNUKEMEBRO: Dd,Dc,P,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd
+                      Rule0Bot: N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -7
+                 SimpleShooter: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Rule0Bot StraightShooter SimpleShooter
+SimpleShooter: Rule0Bot StraightShooter DONTNUKEMEBRO
+Rule0Bot: SimpleShooter StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 09:53:58.921895504 UTC

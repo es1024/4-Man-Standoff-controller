@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Scared CourageTheDog
+                     Richochet: Sb,N,Sd,N,Sb,N,Sd,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,Dd,Dd,Dc,Dd,Da,Sc,N
+                        Scared: Sb,N,Sd,N,Sa,N,Sd,N,Sb
+                 CourageTheDog: Sa,N,Dc,Sb,N,Db,Sa,N,N
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared CourageTheDog Richochet
+Scared: TwentyFourthsAndAHalfCentury CourageTheDog Richochet
+CourageTheDog: TwentyFourthsAndAHalfCentury Scared Richochet
+Generated: 2014/08/12 08:05:18.385268870 UTC

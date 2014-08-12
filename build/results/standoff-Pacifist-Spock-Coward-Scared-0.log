@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Coward Scared
+                      Pacifist: N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,Sb
+                        Scared: Sc,N,Sb,N,Sb,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                        Coward: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Coward Scared
+Spock: Pacifist Coward Scared
+Coward: Pacifist Spock Scared
+Scared: Pacifist Spock Coward
+Generated: 2014/08/12 07:53:40.415248164 UTC

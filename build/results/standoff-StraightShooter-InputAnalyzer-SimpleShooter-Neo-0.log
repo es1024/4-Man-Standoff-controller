@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer SimpleShooter Neo
+               StraightShooter: Sc,N,Sc,N,Sc
+                 InputAnalyzer: Da,Sd,N,P,Sb
+                 SimpleShooter: Sd,N,Sb,N,Sa
+                           Neo: N,Db,N,Db,Dc
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -8
+                 SimpleShooter: -4
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer SimpleShooter Neo
+InputAnalyzer: StraightShooter SimpleShooter Neo
+SimpleShooter: StraightShooter InputAnalyzer Neo
+Neo: StraightShooter InputAnalyzer SimpleShooter
+Generated: 2014/08/12 09:37:39.050676025 UTC

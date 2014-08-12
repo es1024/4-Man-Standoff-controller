@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Zaenille Monkey CourageTheDog
+                 DONTNUKEMEBRO: Db,Dc,Dd,Db,Dd,Sd,N,Dc,Dc,Dd,Dc,Dc,Dc,Dd,Dd,Dc,Dc,Sd,N,Db,Dc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,Sd,N,N,Da,Dd,Dd,Sc,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sa,N,Dc,Sc,N,Da,Da,Dc,Sc,N,Da,Da,Sa,N,Da,Da,Da,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -4
+                        Monkey: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog Zaenille Monkey
+Zaenille: CourageTheDog DONTNUKEMEBRO Monkey
+Monkey: CourageTheDog DONTNUKEMEBRO Zaenille
+CourageTheDog: Monkey DONTNUKEMEBRO Zaenille
+Generated: 2014/08/12 09:32:24.454716008 UTC

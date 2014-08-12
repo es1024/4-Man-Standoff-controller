@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter AntiGrenadier Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sd,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dc,N,Dc,Sa,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter AntiGrenadier Neo
+SimpleShooter: StraightShooter AntiGrenadier Neo
+AntiGrenadier: StraightShooter SimpleShooter Neo
+Neo: StraightShooter SimpleShooter AntiGrenadier
+Generated: 2014/08/12 08:31:13.847692108 UTC

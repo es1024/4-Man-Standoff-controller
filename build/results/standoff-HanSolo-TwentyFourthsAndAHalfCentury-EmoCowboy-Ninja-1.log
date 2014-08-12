@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Sa,N,N,N,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Db,Db,Dc,Db,Da,Dd,Db,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Ninja TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Ninja HanSolo
+EmoCowboy: TwentyFourthsAndAHalfCentury Ninja HanSolo
+Ninja: TwentyFourthsAndAHalfCentury EmoCowboy HanSolo
+Generated: 2014/08/12 08:42:35.588698848 UTC

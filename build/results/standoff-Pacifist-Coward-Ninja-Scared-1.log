@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Ninja Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                         Ninja: Da,Db,Dc,Db,Db,Dc,Db,Da,Da,Dd,Dc,Dc,Db,Db,Dc,Dc,Dd
+                        Scared: N,N,N,Sb,N,N,N,Sc,N,Sc,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 3
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Scared Coward
+Coward: Ninja Scared Pacifist
+Ninja: Coward Scared Pacifist
+Scared: Coward Ninja Pacifist
+Generated: 2014/08/12 09:19:32.451285310 UTC

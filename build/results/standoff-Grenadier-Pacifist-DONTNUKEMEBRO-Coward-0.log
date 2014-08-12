@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist DONTNUKEMEBRO Coward
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Db,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Db,Sb,N,Db,Sb,N,Sb,N,Da,Sa,N,Da,Sa,N,Da,Sa
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -1
+                 DONTNUKEMEBRO: -1
+                        Coward: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist DONTNUKEMEBRO Coward
+Pacifist: Grenadier DONTNUKEMEBRO Coward
+DONTNUKEMEBRO: Grenadier Pacifist Coward
+Coward: Grenadier Pacifist DONTNUKEMEBRO
+Generated: 2014/08/12 08:50:12.425340587 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer HanSolo AntiGrenadier
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Dd,P,Dd,Sc
+                       HanSolo: Sd,N,Sd,N
+                 AntiGrenadier: N,N,Sb,N
+Final Health:
+                      Pacifist: 2
+                 InputAnalyzer: -1
+                       HanSolo: 0
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier InputAnalyzer HanSolo
+InputAnalyzer: AntiGrenadier Pacifist HanSolo
+HanSolo: AntiGrenadier Pacifist InputAnalyzer
+AntiGrenadier: HanSolo Pacifist InputAnalyzer
+Generated: 2014/08/12 09:54:18.542032348 UTC

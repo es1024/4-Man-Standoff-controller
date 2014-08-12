@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Richochet Ninja
+                 InputAnalyzer: Dc,Sb,N,Sc,N,Sc,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Sd,N,Dc,N,Sd,N,Da
+                     Richochet: Sd,N,Sa,N,Sa,N,Sa,N,Sd,N,Sb,N,Sb
+                         Ninja: Da,Dd,Dc,Db,Dd,Dd,Da,Da,Da,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -1
+                     Richochet: 1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Ninja PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Richochet Ninja InputAnalyzer
+Richochet: PoliticallyCorrectGunman Ninja InputAnalyzer
+Ninja: PoliticallyCorrectGunman Richochet InputAnalyzer
+Generated: 2014/08/12 06:11:56.013466303 UTC

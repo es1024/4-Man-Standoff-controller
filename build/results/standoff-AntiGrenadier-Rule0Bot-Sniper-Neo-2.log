@@ -1,0 +1,16 @@
+Standoff between: AntiGrenadier Rule0Bot Sniper Neo
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,Db,Db,N,Db,N,N,N,N,N,N,N,N,N,N,N,Db,Db,N,Db,Db,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,Db,N,Db,N,Db,Db,Db,Sd,N
+Final Health:
+                 AntiGrenadier: -1
+                      Rule0Bot: -15
+                        Sniper: -15
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+AntiGrenadier: Neo Rule0Bot Sniper
+Rule0Bot: Neo AntiGrenadier Sniper
+Sniper: Neo AntiGrenadier Rule0Bot
+Neo: Sniper AntiGrenadier Rule0Bot
+Generated: 2014/08/12 09:05:42.320379253 UTC

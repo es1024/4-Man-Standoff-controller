@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo DONTNUKEMEBRO Rule0Bot
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Dd,Sc,N,Dd,Db,Sc,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Dd,Dd,Dd,Dd,Db,Db,Db,Sa,N,Da,Da,Sa,N,Db,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 3
+                 DONTNUKEMEBRO: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot HanSolo DONTNUKEMEBRO
+HanSolo: Rule0Bot InputAnalyzer DONTNUKEMEBRO
+DONTNUKEMEBRO: Rule0Bot InputAnalyzer HanSolo
+Rule0Bot: DONTNUKEMEBRO InputAnalyzer HanSolo
+Generated: 2014/08/12 10:02:38.695508689 UTC

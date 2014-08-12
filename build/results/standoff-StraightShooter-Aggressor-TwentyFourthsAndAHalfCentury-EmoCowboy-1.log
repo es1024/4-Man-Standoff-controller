@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor TwentyFourthsAndAHalfCentury EmoCowboy
+               StraightShooter: Sd,N,Sd
+                     Aggressor: P,Tc,Sa
+  TwentyFourthsAndAHalfCentury: Da,Db,N
+                     EmoCowboy: Sd,N,N
+Final Health:
+               StraightShooter: 0
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: -3
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury EmoCowboy Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury EmoCowboy StraightShooter
+TwentyFourthsAndAHalfCentury: Aggressor EmoCowboy StraightShooter
+EmoCowboy: Aggressor TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 07:48:14.597134995 UTC

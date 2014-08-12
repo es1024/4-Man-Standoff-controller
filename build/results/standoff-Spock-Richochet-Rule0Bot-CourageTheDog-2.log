@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Rule0Bot CourageTheDog
+                         Spock: Sd,N,Sd,N,N,N,Sc,N,Sd
+                     Richochet: Sd,N,Sa,N,Sc,N,Sc,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Richochet Rule0Bot
+Richochet: CourageTheDog Spock Rule0Bot
+Rule0Bot: CourageTheDog Spock Richochet
+CourageTheDog: Rule0Bot Spock Richochet
+Generated: 2014/08/12 10:15:43.627157501 UTC

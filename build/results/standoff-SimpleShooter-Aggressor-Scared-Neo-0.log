@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Scared Neo
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Ta
+                        Scared: Sb,N
+                           Neo: N,Db
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 0
+                        Scared: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor Scared Neo
+Aggressor: SimpleShooter Scared Neo
+Scared: SimpleShooter Aggressor Neo
+Neo: SimpleShooter Aggressor Scared
+Generated: 2014/08/12 07:01:22.775438357 UTC

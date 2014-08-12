@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N
+                 InputAnalyzer: Dc,Sa,N,P,N,N
+      PoliticallyCorrectGunman: Sa,N,N,Db,Sd,N
+                        Scared: N,N,Sb,N,Sb,N
+Final Health:
+               StraightShooter: -2
+                 InputAnalyzer: -5
+      PoliticallyCorrectGunman: 2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Scared InputAnalyzer
+InputAnalyzer: PoliticallyCorrectGunman Scared StraightShooter
+PoliticallyCorrectGunman: InputAnalyzer Scared StraightShooter
+Scared: InputAnalyzer PoliticallyCorrectGunman StraightShooter
+Generated: 2014/08/12 08:49:31.733298930 UTC

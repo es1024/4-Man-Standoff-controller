@@ -1,0 +1,16 @@
+Standoff between: Zaenille Sniper Scared CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N
+                        Scared: N,Sb,N,Sd,N,Sd,N,Sd
+                 CourageTheDog: Sa,N,Dc,Sb,N,Sb,N,Sc
+Final Health:
+                      Zaenille: -6
+                        Sniper: -1
+                        Scared: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog Sniper Scared
+Sniper: CourageTheDog Zaenille Scared
+Scared: CourageTheDog Zaenille Sniper
+CourageTheDog: Scared Zaenille Sniper
+Generated: 2014/08/12 07:03:08.918831245 UTC

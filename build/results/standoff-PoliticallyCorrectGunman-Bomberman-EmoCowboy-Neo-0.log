@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman EmoCowboy Neo
+      PoliticallyCorrectGunman: Sd,N,Dc,Dc,Dc,N,N,N,N,N,N,N,Db,N,N,N,Sd,N,N,Sd,N,N,N,N,N,N,N,N,Sb,N,N,Dd,Sb,N,N,Sd,N,N,N,N,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Db,N,N,N,N,N,Db,N,N,Db,Db,N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Bomberman: 1
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman EmoCowboy Neo
+Bomberman: PoliticallyCorrectGunman EmoCowboy Neo
+EmoCowboy: PoliticallyCorrectGunman Bomberman Neo
+Neo: PoliticallyCorrectGunman Bomberman EmoCowboy
+Generated: 2014/08/12 10:31:49.343414310 UTC

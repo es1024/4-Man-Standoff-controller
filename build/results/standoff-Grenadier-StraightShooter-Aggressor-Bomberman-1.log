@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Aggressor Bomberman
+                     Grenadier: P,N,N
+               StraightShooter: Sd,N,N
+                     Aggressor: P,Tb,Sa
+                     Bomberman: N,N,N
+Final Health:
+                     Grenadier: -6
+               StraightShooter: -3
+                     Aggressor: -1
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Bomberman StraightShooter
+StraightShooter: Aggressor Bomberman Grenadier
+Aggressor: StraightShooter Bomberman Grenadier
+Bomberman: StraightShooter Aggressor Grenadier
+Generated: 2014/08/12 06:01:28.981899548 UTC

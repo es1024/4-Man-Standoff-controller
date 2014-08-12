@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet Monkey
+      PoliticallyCorrectGunman: N,Dd,N,N,N,N,N,Dd,Dd,N,N,N,N
+                         Spock: N,N,N,N,N,Sd,N,Sa,N,Sd,N,Sd,N
+                     Richochet: Sb,N,Sa,N,Sd,N,Sd,N,Sa,N,Sb,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                     Richochet: 5
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey Spock Richochet
+Spock: Monkey PoliticallyCorrectGunman Richochet
+Richochet: Monkey PoliticallyCorrectGunman Spock
+Monkey: Richochet PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 10:32:50.273573509 UTC

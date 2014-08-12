@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter CourageTheDog
+                 InputAnalyzer: Db,Da,Da,P,N,Da
+                         Spock: Sa,N,Sc,N,Sc,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N
+                 CourageTheDog: Sc,N,Da,Dc,P,Ta
+Final Health:
+                 InputAnalyzer: -11
+                         Spock: -3
+                 SimpleShooter: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock SimpleShooter CourageTheDog
+Spock: InputAnalyzer SimpleShooter CourageTheDog
+SimpleShooter: InputAnalyzer Spock CourageTheDog
+CourageTheDog: InputAnalyzer Spock SimpleShooter
+Generated: 2014/08/12 09:35:53.406762011 UTC

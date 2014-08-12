@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter TwentyFourthsAndAHalfCentury Ninja
+                         Spock: Sb,N,Sb,N,Sb,N,Sd,N,N,N,N,N,Sd,N,N,N,N,Sb,N,Sb,N,Sb
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Db,Dd,Db,Dd,Da,N,N,Da,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa
+                         Ninja: Da,Dd,Db,Dc,Db,Dd,Dc,Dd,Da,Db,Da,Dd,Dc,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter TwentyFourthsAndAHalfCentury Ninja
+SimpleShooter: Spock TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Spock SimpleShooter Ninja
+Ninja: Spock SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:07:49.894641564 UTC

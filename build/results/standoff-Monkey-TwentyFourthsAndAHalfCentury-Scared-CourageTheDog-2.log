@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Scared CourageTheDog
+                        Monkey: N,Da,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Dc,Da,Dc,Dd,Dc,Dd,N,N,Sd,N,N,N,N,Sd,N,Sc,N
+                        Scared: Sa,N,Sd,N,Sb,N,Sb,N,N,N,Sb,N,N,N,Sb,N,Sd,N,Sd
+                 CourageTheDog: Sa,N,Db,Sa,N,Db,Dc,Dc,Dc,Db,Dc,Sc,N,N,Db,Db,Dc,Db,Sb
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: CourageTheDog TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: CourageTheDog Monkey Scared
+Scared: CourageTheDog Monkey TwentyFourthsAndAHalfCentury
+CourageTheDog: Scared Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:11:39.577162141 UTC

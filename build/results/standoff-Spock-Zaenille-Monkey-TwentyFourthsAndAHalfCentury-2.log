@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille Monkey TwentyFourthsAndAHalfCentury
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Db,N,Da,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dc,Da,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -15
+                      Zaenille: -2
+                        Monkey: -15
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: TwentyFourthsAndAHalfCentury Zaenille Monkey
+Zaenille: TwentyFourthsAndAHalfCentury Spock Monkey
+Monkey: TwentyFourthsAndAHalfCentury Spock Zaenille
+TwentyFourthsAndAHalfCentury: Monkey Spock Zaenille
+Generated: 2014/08/12 08:19:24.488517882 UTC

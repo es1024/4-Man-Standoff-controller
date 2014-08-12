@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Rule0Bot Sniper
+                 InputAnalyzer: Dd,P,Sa,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sc
+                      Rule0Bot: N,N,Sa,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N
+Final Health:
+                 InputAnalyzer: -12
+                         Spock: 2
+                      Rule0Bot: 0
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Spock Rule0Bot
+Spock: Sniper InputAnalyzer Rule0Bot
+Rule0Bot: Sniper InputAnalyzer Spock
+Sniper: Rule0Bot InputAnalyzer Spock
+Generated: 2014/08/12 07:15:14.676202138 UTC

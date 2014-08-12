@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Coward Monkey
+      PoliticallyCorrectGunman: Dc,P,Sa
+                         Spock: Sd,N,Sd
+                        Coward: Sb,N,Sb
+                        Monkey: N,Sd,N
+Final Health:
+      PoliticallyCorrectGunman: -8
+                         Spock: -2
+                        Coward: 2
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey Spock Coward
+Spock: Monkey PoliticallyCorrectGunman Coward
+Coward: Monkey PoliticallyCorrectGunman Spock
+Monkey: Coward PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 05:46:23.179704690 UTC

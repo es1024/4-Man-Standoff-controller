@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Coward Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sc,N,Sc
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 3
+                        Coward: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Rule0Bot SimpleShooter
+SimpleShooter: Coward Rule0Bot Pacifist
+Coward: SimpleShooter Rule0Bot Pacifist
+Rule0Bot: SimpleShooter Coward Pacifist
+Generated: 2014/08/12 08:01:00.448593138 UTC

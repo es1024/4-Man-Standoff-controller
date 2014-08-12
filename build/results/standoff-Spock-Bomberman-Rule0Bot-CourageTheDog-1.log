@@ -1,0 +1,16 @@
+Standoff between: Spock Bomberman Rule0Bot CourageTheDog
+                         Spock: Sc,N,Sc,N,Sc,N,Sb,N,Sc,N,N,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Sb,N,Sa,N,Da,Da,Sa,N,Da,Sa
+Final Health:
+                         Spock: -1
+                     Bomberman: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot CourageTheDog Bomberman
+Bomberman: Rule0Bot CourageTheDog Spock
+Rule0Bot: Bomberman CourageTheDog Spock
+CourageTheDog: Bomberman Rule0Bot Spock
+Generated: 2014/08/12 09:23:42.633778120 UTC

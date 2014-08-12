@@ -1,0 +1,16 @@
+Standoff between: Richochet AntiGrenadier Rule0Bot Scared
+                     Richochet: Sb,N,Sd,N,Sb,N,Sd,N,Sc,N,Sc,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: AntiGrenadier Rule0Bot Scared
+AntiGrenadier: Richochet Rule0Bot Scared
+Rule0Bot: Richochet AntiGrenadier Scared
+Scared: Richochet AntiGrenadier Rule0Bot
+Generated: 2014/08/12 06:25:34.335449338 UTC

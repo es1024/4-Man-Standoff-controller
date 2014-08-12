@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter TwentyFourthsAndAHalfCentury CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Db,Dd,Dd,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Dc,Sb,N,Sc,N,Db,N,Db,Da,Db,Da,Sb,N,Da,Sb,N,Sa,N,Da,Da,Da,Sa,N,Da,Sa
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: -3
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter TwentyFourthsAndAHalfCentury CourageTheDog
+StraightShooter: Pacifist TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: Pacifist StraightShooter CourageTheDog
+CourageTheDog: Pacifist StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:35:10.930832848 UTC

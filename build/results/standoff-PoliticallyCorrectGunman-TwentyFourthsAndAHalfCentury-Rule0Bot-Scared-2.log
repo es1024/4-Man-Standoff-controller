@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Rule0Bot Scared
+      PoliticallyCorrectGunman: Sb,N,Sc,N,N,N,N,N,N,N,N,Sa,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Da,N,N,N,N,N,N,N,Sa,N,Sd,N,Sd,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,N,N,N,N,N,N,N,Sb,N,Sc,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: Scared PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Scared PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Scared: Rule0Bot PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:55:20.328928247 UTC

@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury EmoCowboy Scared
+                      Zaenille: Sa,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Sd,N,Sd,N,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sb,N,N
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 1
+                     EmoCowboy: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: TwentyFourthsAndAHalfCentury EmoCowboy Scared
+TwentyFourthsAndAHalfCentury: Zaenille EmoCowboy Scared
+EmoCowboy: Zaenille TwentyFourthsAndAHalfCentury Scared
+Scared: Zaenille TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 09:25:12.335668379 UTC

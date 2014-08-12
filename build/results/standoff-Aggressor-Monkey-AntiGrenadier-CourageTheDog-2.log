@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey AntiGrenadier CourageTheDog
+                     Aggressor: P,Td
+                        Monkey: N,N
+                 AntiGrenadier: N,Sa
+                 CourageTheDog: Sc,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: 2
+                 AntiGrenadier: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Monkey AntiGrenadier
+Monkey: CourageTheDog Aggressor AntiGrenadier
+AntiGrenadier: CourageTheDog Aggressor Monkey
+CourageTheDog: AntiGrenadier Aggressor Monkey
+Generated: 2014/08/12 10:23:39.924220847 UTC

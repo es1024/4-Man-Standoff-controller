@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Coward Sniper
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,Sb
+                        Sniper: Sb,N,Sb,N,Sa,N,N
+Final Health:
+                      Pacifist: -3
+                       HanSolo: -1
+                        Coward: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Coward Sniper
+HanSolo: Pacifist Coward Sniper
+Coward: Pacifist HanSolo Sniper
+Sniper: Pacifist HanSolo Coward
+Generated: 2014/08/12 06:52:58.790020006 UTC

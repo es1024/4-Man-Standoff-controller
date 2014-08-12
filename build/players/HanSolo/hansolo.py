@@ -1,15 +1,15 @@
 import sys
 
-def IsAlive(x):
-  return int(x.split(",")[0]) > 0
+def is_alive(player):
+  return int(player.split(",")[0]) > 0
 
-closestLivingTarget = 1;
+closest_living_target = 1;
 
 for player in sys.argv[2].split()[1:]:
-  if IsAlive(player):
-    action = "S" + str(closestLivingTarget)
+  if is_alive(player):
+    action = "S" + str(closest_living_target)
     break
 
-  closestLivingTarget = closestLivingTarget + 1
+  closest_living_target = closest_living_target + 1
 
 print action

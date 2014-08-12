@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Aggressor Monkey
+                 InputAnalyzer: Db,Dc,N
+                 SimpleShooter: Sd,N,Sc
+                     Aggressor: P,Ta,Sb
+                        Monkey: N,Db,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 0
+                     Aggressor: 0
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Aggressor Monkey
+SimpleShooter: InputAnalyzer Aggressor Monkey
+Aggressor: InputAnalyzer SimpleShooter Monkey
+Monkey: InputAnalyzer SimpleShooter Aggressor
+Generated: 2014/08/12 07:13:38.461671976 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Sniper Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Dd,Dc,Sa,N,Dd,Dc,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Dc,Dc,N,Dc,Dc,N,N,N,Dc,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,Dc,N,Dc,Dc,N,Dc,Dc,Sd
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -2
+                        Sniper: 5
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Neo InputAnalyzer
+InputAnalyzer: Sniper Neo Pacifist
+Sniper: InputAnalyzer Neo Pacifist
+Neo: InputAnalyzer Sniper Pacifist
+Generated: 2014/08/12 06:32:40.922111616 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Ninja Sniper
+      PoliticallyCorrectGunman: N,N,Sc,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sc,N,Sd
+                         Ninja: Dc,Dd,Db,Db,Da,Dc,Dc,Da,N
+                        Sniper: Sa,N,Sa,N,N,N,N,Sc,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: 5
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Sniper SimpleShooter
+SimpleShooter: Ninja Sniper PoliticallyCorrectGunman
+Ninja: SimpleShooter Sniper PoliticallyCorrectGunman
+Sniper: SimpleShooter Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 08:15:49.315016134 UTC

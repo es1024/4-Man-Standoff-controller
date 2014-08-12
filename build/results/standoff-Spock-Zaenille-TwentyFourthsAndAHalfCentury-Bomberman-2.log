@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille TwentyFourthsAndAHalfCentury Bomberman
+                         Spock: Sd,N,Sd,N,N,Sd,N,Sd,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,N,N,N,Dd,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Bomberman Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Spock Zaenille
+Bomberman: TwentyFourthsAndAHalfCentury Spock Zaenille
+Generated: 2014/08/12 08:38:49.278379084 UTC

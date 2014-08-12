@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Zaenille CourageTheDog
+                 InputAnalyzer: Db,Sa,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Sb,N,Db,Db,Db,Db,N,Db,Db,Sb
+Final Health:
+                 InputAnalyzer: -2
+                       HanSolo: -1
+                      Zaenille: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Zaenille CourageTheDog
+HanSolo: InputAnalyzer Zaenille CourageTheDog
+Zaenille: InputAnalyzer HanSolo CourageTheDog
+CourageTheDog: InputAnalyzer HanSolo Zaenille
+Generated: 2014/08/12 07:07:12.208054067 UTC

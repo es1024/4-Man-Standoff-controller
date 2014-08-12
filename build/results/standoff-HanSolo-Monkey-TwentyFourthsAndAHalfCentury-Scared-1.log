@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey TwentyFourthsAndAHalfCentury Scared
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N
+                        Monkey: N,Dd,N,Db,N,Sb,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Db,Db,Da,Db,Dd,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sb,N,Sa,N,N,N,N,Sa
+Final Health:
+                       HanSolo: -1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury Scared Monkey
+Monkey: TwentyFourthsAndAHalfCentury Scared HanSolo
+TwentyFourthsAndAHalfCentury: Monkey Scared HanSolo
+Scared: Monkey TwentyFourthsAndAHalfCentury HanSolo
+Generated: 2014/08/12 08:27:20.044174057 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey AntiGrenadier Neo
+                     Richochet: Sb,N,Sc,N,Sc,N,Sd,N,Sc,N,Sd,N,Sd
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,N,N,N,N,N,N,N,Sa,N
+Final Health:
+                     Richochet: 3
+                        Monkey: -2
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: AntiGrenadier Neo Monkey
+Monkey: AntiGrenadier Neo Richochet
+AntiGrenadier: Monkey Neo Richochet
+Neo: Monkey AntiGrenadier Richochet
+Generated: 2014/08/12 07:00:25.742300356 UTC

@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Sc,N,N,N,N,N,N,N,N,N,Sc,N,Sd,N,Sd,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: AntiGrenadier TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: AntiGrenadier Zaenille Bomberman
+Bomberman: AntiGrenadier Zaenille TwentyFourthsAndAHalfCentury
+AntiGrenadier: Bomberman Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:46:36.929987529 UTC

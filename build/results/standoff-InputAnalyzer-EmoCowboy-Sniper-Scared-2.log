@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer EmoCowboy Sniper Scared
+                 InputAnalyzer: Dd,Sa,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N
+                        Sniper: Sd,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -2
+                     EmoCowboy: -4
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared EmoCowboy Sniper
+EmoCowboy: Scared InputAnalyzer Sniper
+Sniper: Scared InputAnalyzer EmoCowboy
+Scared: Sniper InputAnalyzer EmoCowboy
+Generated: 2014/08/12 09:43:13.257105478 UTC

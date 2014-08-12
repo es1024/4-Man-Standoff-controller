@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Spock Neo
+                     Grenadier: P,N,N
+                 InputAnalyzer: Dc,P,N
+                         Spock: Sb,N,Sb
+                           Neo: N,N,N
+Final Health:
+                     Grenadier: -4
+                 InputAnalyzer: -6
+                         Spock: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Neo InputAnalyzer
+InputAnalyzer: Spock Neo Grenadier
+Spock: InputAnalyzer Neo Grenadier
+Neo: InputAnalyzer Spock Grenadier
+Generated: 2014/08/12 06:16:23.219681116 UTC

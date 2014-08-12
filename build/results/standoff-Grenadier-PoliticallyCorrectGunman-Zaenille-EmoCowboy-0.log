@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Zaenille EmoCowboy
+                     Grenadier: N,N,N,N,P,N,N
+      PoliticallyCorrectGunman: Sa,N,Sc,N,N,Dd,N
+                      Zaenille: Sc,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+      PoliticallyCorrectGunman: 2
+                      Zaenille: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Zaenille EmoCowboy
+PoliticallyCorrectGunman: Grenadier Zaenille EmoCowboy
+Zaenille: Grenadier PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: Grenadier PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 10:32:07.701722326 UTC

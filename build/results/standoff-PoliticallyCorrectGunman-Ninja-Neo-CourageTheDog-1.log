@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Ninja Neo CourageTheDog
+      PoliticallyCorrectGunman: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Dd,Dd,Dc,Dc,Db,Da,Dd,Dc,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Dd,Db,Dd,Dd,Dd,Sd,N,N,Sd,N,N,Dd,N,N,Sd
+                 CourageTheDog: Sb,N,Dc,Dc,Db,Sb,N,Db,Db,Sb,N,Dc,Sc,N,Dc,Dc,Sc,N,Sc,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Ninja: -1
+                           Neo: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo CourageTheDog Ninja
+Ninja: Neo CourageTheDog PoliticallyCorrectGunman
+Neo: Ninja CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Ninja Neo PoliticallyCorrectGunman
+Generated: 2014/08/12 09:41:25.941528092 UTC

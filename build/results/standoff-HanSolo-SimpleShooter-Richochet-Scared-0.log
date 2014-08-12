@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Richochet Scared
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,N
+                     Richochet: Sa,N,Sd,N,Sd,N,Sa
+                        Scared: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 SimpleShooter: -1
+                     Richochet: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Richochet Scared
+SimpleShooter: HanSolo Richochet Scared
+Richochet: HanSolo SimpleShooter Scared
+Scared: HanSolo SimpleShooter Richochet
+Generated: 2014/08/12 07:30:47.239367423 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Monkey Ninja
+      PoliticallyCorrectGunman: Sd,N,Sc,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sc,N,Sc,N,Sa,N,Sa
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 5
+                        Monkey: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Richochet Monkey
+Richochet: Ninja PoliticallyCorrectGunman Monkey
+Monkey: Ninja PoliticallyCorrectGunman Richochet
+Ninja: Monkey PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 10:06:29.128491327 UTC

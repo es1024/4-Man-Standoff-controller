@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet TwentyFourthsAndAHalfCentury Sniper
+                     Grenadier: P,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N
+                        Sniper: Sc,N,Sa,N,N
+Final Health:
+                     Grenadier: -5
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Richochet TwentyFourthsAndAHalfCentury
+Richochet: Sniper Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Grenadier Richochet
+Sniper: TwentyFourthsAndAHalfCentury Grenadier Richochet
+Generated: 2014/08/12 10:05:31.844421015 UTC

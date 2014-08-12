@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Aggressor Zaenille
+                 InputAnalyzer: Dd,Dc,N,N,N
+      PoliticallyCorrectGunman: Da,N,Dc,N,Dd
+                     Aggressor: P,Ta,Sb,N,Sb
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille PoliticallyCorrectGunman Aggressor
+PoliticallyCorrectGunman: Zaenille InputAnalyzer Aggressor
+Aggressor: Zaenille InputAnalyzer PoliticallyCorrectGunman
+Zaenille: Aggressor InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 09:17:22.366626048 UTC

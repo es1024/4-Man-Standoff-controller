@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO SimpleShooter Aggressor
+                       HanSolo: Sd,N
+                 DONTNUKEMEBRO: Da,Sd
+                 SimpleShooter: Sb,N
+                     Aggressor: P,Tc
+Final Health:
+                       HanSolo: 2
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -3
+                     Aggressor: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Aggressor HanSolo SimpleShooter
+SimpleShooter: Aggressor HanSolo DONTNUKEMEBRO
+Aggressor: SimpleShooter HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 08:36:24.988481197 UTC

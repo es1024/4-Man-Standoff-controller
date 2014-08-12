@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille TwentyFourthsAndAHalfCentury Bomberman
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Dd,Dd,Dd,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Bomberman Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Bomberman StraightShooter
+TwentyFourthsAndAHalfCentury: Zaenille Bomberman StraightShooter
+Bomberman: Zaenille TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 06:06:10.305924635 UTC

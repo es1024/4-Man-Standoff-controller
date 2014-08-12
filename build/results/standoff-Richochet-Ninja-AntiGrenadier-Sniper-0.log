@@ -1,0 +1,16 @@
+Standoff between: Richochet Ninja AntiGrenadier Sniper
+                     Richochet: Sc,N,Sd,N,Sd,N,Sc,N,Sc,N,Sd
+                         Ninja: Da,Da,Da,Da,Da,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja AntiGrenadier Sniper
+Ninja: Richochet AntiGrenadier Sniper
+AntiGrenadier: Richochet Ninja Sniper
+Sniper: Richochet Ninja AntiGrenadier
+Generated: 2014/08/12 06:57:08.335105218 UTC

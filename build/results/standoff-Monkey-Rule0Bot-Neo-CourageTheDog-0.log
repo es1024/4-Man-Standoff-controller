@@ -1,0 +1,16 @@
+Standoff between: Monkey Rule0Bot Neo CourageTheDog
+                        Monkey: N,N,N,Dc,Dc,Dc,Dc,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dd,Dd,N,N,Db,N,N,Db,Dd,N,Db,N,Db,Dd,N,N,N,N,N,N,Dd,Dd,Dd,Dd,N,Db,Dd,N,Dd,Sd,N,Dd,Sd,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Da,Sa,N,Da,Sc,N,Da,Sa,N,Sa,N,Db,Dc,Dc,Dc,Dc,Dc,Dc,Db,Dc,Db,Db,Sb,N,Sb,N,Sc,N,Dc,Sc,N,Dc,N,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                        Monkey: -1
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Rule0Bot Neo CourageTheDog
+Rule0Bot: Monkey Neo CourageTheDog
+Neo: Monkey Rule0Bot CourageTheDog
+CourageTheDog: Monkey Rule0Bot Neo
+Generated: 2014/08/12 10:47:50.940712678 UTC

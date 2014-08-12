@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman EmoCowboy Neo
+                     Aggressor: P,Tb,Sd,N
+                     Bomberman: N,N,N,N
+                     EmoCowboy: Sc,N,N,N
+                           Neo: N,N,Da,Sa
+Final Health:
+                     Aggressor: 0
+                     Bomberman: -3
+                     EmoCowboy: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman EmoCowboy Neo
+Bomberman: Aggressor EmoCowboy Neo
+EmoCowboy: Aggressor Bomberman Neo
+Neo: Aggressor Bomberman EmoCowboy
+Generated: 2014/08/12 08:08:51.291298218 UTC

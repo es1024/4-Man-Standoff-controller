@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet EmoCowboy CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Sa,N,Db,Db,Db,Db,Db,Db,Sb,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+                      Pacifist: -3
+                     Richochet: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy CourageTheDog Richochet
+Richochet: EmoCowboy CourageTheDog Pacifist
+EmoCowboy: Richochet CourageTheDog Pacifist
+CourageTheDog: Richochet EmoCowboy Pacifist
+Generated: 2014/08/12 06:46:42.212335581 UTC

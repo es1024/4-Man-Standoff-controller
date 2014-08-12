@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Coward Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sb,N,Sa,N,Sb,N,Sa,N,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                        Coward: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Coward Scared
+StraightShooter: Pacifist Coward Scared
+Coward: Pacifist StraightShooter Scared
+Scared: Pacifist StraightShooter Coward
+Generated: 2014/08/12 08:54:31.435453691 UTC

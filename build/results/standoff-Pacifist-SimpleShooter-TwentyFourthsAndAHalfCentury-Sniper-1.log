@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter TwentyFourthsAndAHalfCentury Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,Dd,Da,Db,N,Db,Dd,Db,Dd,Db,Dd,Db,Dd,Db,Dd,Db,Dd,Db,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Sniper SimpleShooter
+SimpleShooter: TwentyFourthsAndAHalfCentury Sniper Pacifist
+TwentyFourthsAndAHalfCentury: SimpleShooter Sniper Pacifist
+Sniper: SimpleShooter TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 10:36:57.070256844 UTC

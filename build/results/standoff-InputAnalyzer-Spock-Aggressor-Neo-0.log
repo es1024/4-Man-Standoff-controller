@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Aggressor Neo
+                 InputAnalyzer: Db,Sc,N
+                         Spock: Sa,N,Sd
+                     Aggressor: P,Ta,N
+                           Neo: N,Dc,Dc
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 2
+                     Aggressor: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Aggressor Neo
+Spock: InputAnalyzer Aggressor Neo
+Aggressor: InputAnalyzer Spock Neo
+Neo: InputAnalyzer Spock Aggressor
+Generated: 2014/08/12 06:57:15.965205221 UTC

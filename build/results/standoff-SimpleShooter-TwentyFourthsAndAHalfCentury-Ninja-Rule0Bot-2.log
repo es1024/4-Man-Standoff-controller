@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,Dc,Dd,Dc,Da,N,Dc,Dd,Da,Dc,Dd,Dc,N,Dc,Dc,Dd,Dd,Dd,Da,Dd,Da,Dd,Dd,N,N
+                         Ninja: Dc,Dd,Dc,Dc,Dd,Dd,Da,Da,Dc,Db,Dd,Da,Dc,Da,Dd,Dc,Da,Dd,Dd,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Rule0Bot SimpleShooter Ninja
+Ninja: Rule0Bot SimpleShooter TwentyFourthsAndAHalfCentury
+Rule0Bot: Ninja SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:25:08.150656377 UTC

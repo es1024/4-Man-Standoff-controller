@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Coward CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sa,N,Sc,N,Sc
+                        Coward: Sa,N,Sa,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Sb,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                        Coward: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward CourageTheDog Spock
+Spock: Coward CourageTheDog Pacifist
+Coward: Spock CourageTheDog Pacifist
+CourageTheDog: Spock Coward Pacifist
+Generated: 2014/08/12 09:23:23.108287642 UTC

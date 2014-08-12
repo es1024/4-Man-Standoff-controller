@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer DONTNUKEMEBRO EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dd,Sa,N,P,Dc,Sb
+                 DONTNUKEMEBRO: Dd,Da,Da,Da,Da,Sb,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -8
+                 DONTNUKEMEBRO: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer DONTNUKEMEBRO EmoCowboy
+InputAnalyzer: Pacifist DONTNUKEMEBRO EmoCowboy
+DONTNUKEMEBRO: Pacifist InputAnalyzer EmoCowboy
+EmoCowboy: Pacifist InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 10:33:52.084099591 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Rule0Bot CourageTheDog
+                 InputAnalyzer: Dc,P,Da,Dd
+                      Zaenille: Sb,N,N,N
+                      Rule0Bot: N,N,N,N
+                 CourageTheDog: Sc,N,P,Tc
+Final Health:
+                 InputAnalyzer: -4
+                      Zaenille: -2
+                      Rule0Bot: -8
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot CourageTheDog Zaenille
+Zaenille: Rule0Bot CourageTheDog InputAnalyzer
+Rule0Bot: Zaenille CourageTheDog InputAnalyzer
+CourageTheDog: Zaenille Rule0Bot InputAnalyzer
+Generated: 2014/08/12 06:29:24.815311565 UTC

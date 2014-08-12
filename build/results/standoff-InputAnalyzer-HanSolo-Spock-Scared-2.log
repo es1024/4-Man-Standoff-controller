@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Spock Scared
+                 InputAnalyzer: Dd,Da,Sa,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,N,N,N,N,N
+                        Scared: Sa,N,Sa,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                       HanSolo: 5
+                         Spock: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared HanSolo Spock
+HanSolo: Scared InputAnalyzer Spock
+Spock: Scared InputAnalyzer HanSolo
+Scared: Spock InputAnalyzer HanSolo
+Generated: 2014/08/12 06:31:25.462618891 UTC

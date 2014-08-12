@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter EmoCowboy CourageTheDog
+                 InputAnalyzer: Dd,Da,Sa,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Db,Db,Db,Sb,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+                 InputAnalyzer: -4
+                 SimpleShooter: -1
+                     EmoCowboy: -4
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog SimpleShooter EmoCowboy
+SimpleShooter: CourageTheDog InputAnalyzer EmoCowboy
+EmoCowboy: CourageTheDog InputAnalyzer SimpleShooter
+CourageTheDog: EmoCowboy InputAnalyzer SimpleShooter
+Generated: 2014/08/12 08:08:18.655801767 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Zaenille Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Bomberman Richochet
+Richochet: Zaenille Bomberman Pacifist
+Zaenille: Richochet Bomberman Pacifist
+Bomberman: Richochet Zaenille Pacifist
+Generated: 2014/08/12 05:58:34.855781754 UTC

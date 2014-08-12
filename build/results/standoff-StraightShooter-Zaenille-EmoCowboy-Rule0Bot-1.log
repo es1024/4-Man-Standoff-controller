@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille EmoCowboy Rule0Bot
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 5
+                      Zaenille: -2
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Rule0Bot Zaenille
+Zaenille: EmoCowboy Rule0Bot StraightShooter
+EmoCowboy: Zaenille Rule0Bot StraightShooter
+Rule0Bot: Zaenille EmoCowboy StraightShooter
+Generated: 2014/08/12 09:58:39.967652000 UTC

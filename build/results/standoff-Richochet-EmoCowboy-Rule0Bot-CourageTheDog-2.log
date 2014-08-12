@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy Rule0Bot CourageTheDog
+                     Richochet: Sd,N,Sd,N,Sc,N,Sd,N,Sc
+                     EmoCowboy: N,N,Sb,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Da,Dc,Sc,N,N,N
+Final Health:
+                     Richochet: 5
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: CourageTheDog EmoCowboy Rule0Bot
+EmoCowboy: CourageTheDog Richochet Rule0Bot
+Rule0Bot: CourageTheDog Richochet EmoCowboy
+CourageTheDog: Rule0Bot Richochet EmoCowboy
+Generated: 2014/08/12 10:32:39.607950825 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer HanSolo Scared
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Da,P,Db,Dc,N
+                       HanSolo: Sa,N,Sa,N,Sd
+                        Scared: Sa,N,Sb,N,Sc
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -3
+                       HanSolo: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer HanSolo Scared
+InputAnalyzer: Pacifist HanSolo Scared
+HanSolo: Pacifist InputAnalyzer Scared
+Scared: Pacifist InputAnalyzer HanSolo
+Generated: 2014/08/12 08:32:42.046071549 UTC

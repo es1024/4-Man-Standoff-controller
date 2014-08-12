@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Monkey Neo
+                 SimpleShooter: Sd,N,N
+                     Aggressor: P,Ta,Sc
+                        Monkey: N,N,N
+                           Neo: N,Dc,N
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 2
+                        Monkey: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor Monkey Neo
+Aggressor: SimpleShooter Monkey Neo
+Monkey: SimpleShooter Aggressor Neo
+Neo: SimpleShooter Aggressor Monkey
+Generated: 2014/08/12 07:04:52.145099459 UTC

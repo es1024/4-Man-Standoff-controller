@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Richochet Zaenille
+                         Spock: Sd,N,Sc,N,Sd
+                        Coward: Sc,N,Sc,N,Sa
+                     Richochet: Sa,N,Sa,N,N
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 5
+                     Richochet: -1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Zaenille Coward Richochet
+Coward: Zaenille Spock Richochet
+Richochet: Zaenille Spock Coward
+Zaenille: Richochet Spock Coward
+Generated: 2014/08/12 08:04:30.046229117 UTC

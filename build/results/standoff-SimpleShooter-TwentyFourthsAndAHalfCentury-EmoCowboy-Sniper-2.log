@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy Sniper
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,Dd,Dd,Dd,Dd,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -6
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Sniper SimpleShooter EmoCowboy
+EmoCowboy: Sniper SimpleShooter TwentyFourthsAndAHalfCentury
+Sniper: EmoCowboy SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:47:34.182531022 UTC

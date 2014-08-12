@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,Dc,Sd,N,N,N,N,N,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Dc,Db,Sc,N,Sb,N,Dc,N,Dc,Sb,N,Sb,N,Dc,Sc,N,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Bomberman CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman CourageTheDog Zaenille
+Bomberman: TwentyFourthsAndAHalfCentury CourageTheDog Zaenille
+CourageTheDog: TwentyFourthsAndAHalfCentury Bomberman Zaenille
+Generated: 2014/08/12 07:22:24.949202129 UTC

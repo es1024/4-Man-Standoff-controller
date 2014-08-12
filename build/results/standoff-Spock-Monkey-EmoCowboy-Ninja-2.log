@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey EmoCowboy Ninja
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,Sd,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,Sd,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,Sd,N,N,N,N,Sd,N
+                        Monkey: N,N,N,Sd,N,Db,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Db,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -15
+                        Monkey: -15
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja Monkey EmoCowboy
+Monkey: Ninja Spock EmoCowboy
+EmoCowboy: Ninja Spock Monkey
+Ninja: EmoCowboy Spock Monkey
+Generated: 2014/08/12 10:13:13.651018276 UTC

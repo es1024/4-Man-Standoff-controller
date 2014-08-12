@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Monkey Rule0Bot
+                        Coward: Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                     Richochet: Sc,N,Sd,N,Sa,N,Sa,N,N,N,N
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+                        Monkey: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot Richochet Monkey
+Richochet: Rule0Bot Coward Monkey
+Monkey: Rule0Bot Coward Richochet
+Rule0Bot: Monkey Coward Richochet
+Generated: 2014/08/12 10:36:55.707724917 UTC

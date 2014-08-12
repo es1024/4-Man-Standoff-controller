@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Ninja Sniper
+                     Grenadier: P,N,N,N
+                        Monkey: N,Sb,N,N
+                         Ninja: Da,Dd,Da,Db
+                        Sniper: Sb,N,N,Sc
+Final Health:
+                     Grenadier: -1
+                        Monkey: -2
+                         Ninja: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Monkey Ninja
+Monkey: Sniper Grenadier Ninja
+Ninja: Sniper Grenadier Monkey
+Sniper: Ninja Grenadier Monkey
+Generated: 2014/08/12 09:17:32.751597027 UTC

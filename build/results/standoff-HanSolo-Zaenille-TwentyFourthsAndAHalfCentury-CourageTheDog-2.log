@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dd,Da,Sa,N,Sa
+                 CourageTheDog: Sc,N,Dc,Sa,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: CourageTheDog HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog HanSolo Zaenille
+CourageTheDog: TwentyFourthsAndAHalfCentury HanSolo Zaenille
+Generated: 2014/08/12 08:20:19.644953869 UTC

@@ -1,0 +1,16 @@
+Standoff between: Monkey EmoCowboy AntiGrenadier CourageTheDog
+                        Monkey: N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,Da,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Dc,Sa,N,Dc,Dc,Da,Dc,Sc,N,Dc,Sc,N,Da,Sc,N,Da,Da,Da,Da,Da,Da,Sa
+Final Health:
+                        Monkey: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: CourageTheDog EmoCowboy AntiGrenadier
+EmoCowboy: CourageTheDog Monkey AntiGrenadier
+AntiGrenadier: CourageTheDog Monkey EmoCowboy
+CourageTheDog: AntiGrenadier Monkey EmoCowboy
+Generated: 2014/08/12 06:56:25.412171171 UTC

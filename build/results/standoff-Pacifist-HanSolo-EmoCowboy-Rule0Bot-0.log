@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo EmoCowboy Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: N,N,Sc,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo EmoCowboy Rule0Bot
+HanSolo: Pacifist EmoCowboy Rule0Bot
+EmoCowboy: Pacifist HanSolo Rule0Bot
+Rule0Bot: Pacifist HanSolo EmoCowboy
+Generated: 2014/08/12 10:28:34.124473030 UTC

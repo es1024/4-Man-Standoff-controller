@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock EmoCowboy AntiGrenadier
+                       HanSolo: Sb,N,Sb,N,Sb
+                         Spock: Sa,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock EmoCowboy AntiGrenadier
+Spock: HanSolo EmoCowboy AntiGrenadier
+EmoCowboy: HanSolo Spock AntiGrenadier
+AntiGrenadier: HanSolo Spock EmoCowboy
+Generated: 2014/08/12 06:35:53.115446270 UTC

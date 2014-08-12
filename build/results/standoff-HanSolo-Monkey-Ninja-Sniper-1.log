@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey Ninja Sniper
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N
+                        Monkey: N,Dd,Dd,Sa,N,N,N,N,N,N,N,N,N,Sb
+                         Ninja: Dd,Da,Db,Db,Dc,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                        Monkey: -2
+                         Ninja: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Sniper Monkey
+Monkey: Ninja Sniper HanSolo
+Ninja: Monkey Sniper HanSolo
+Sniper: Monkey Ninja HanSolo
+Generated: 2014/08/12 07:02:07.525614176 UTC

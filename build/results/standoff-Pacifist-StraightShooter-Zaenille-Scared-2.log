@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Zaenille Scared
+                      Pacifist: N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sb,N,N,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                      Zaenille: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared StraightShooter Zaenille
+StraightShooter: Scared Pacifist Zaenille
+Zaenille: Scared Pacifist StraightShooter
+Scared: Zaenille Pacifist StraightShooter
+Generated: 2014/08/12 09:34:02.198802747 UTC

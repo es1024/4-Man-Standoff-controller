@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Bomberman Sniper
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: Da,N,N,N,N,N,N,N,N,N,Dd,Sc,N,P,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -8
+                     Bomberman: -3
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Bomberman Sniper
+PoliticallyCorrectGunman: StraightShooter Bomberman Sniper
+Bomberman: StraightShooter PoliticallyCorrectGunman Sniper
+Sniper: StraightShooter PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 06:29:28.100019105 UTC

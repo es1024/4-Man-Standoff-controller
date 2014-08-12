@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy Neo
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb,N,Sb,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Da,Dd,N,N,N,N,N,N,Dd,Dd,Da,Dd,Dd,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,N,N,Db,N,N,N,N,N,N,Db,Db,Db,Db,Db,N,Da,N,N
+Final Health:
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Neo SimpleShooter EmoCowboy
+EmoCowboy: Neo SimpleShooter TwentyFourthsAndAHalfCentury
+Neo: EmoCowboy SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:34:19.682551061 UTC

@@ -1,0 +1,16 @@
+Standoff between: Bomberman EmoCowboy Scared Neo
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,Sd,N,Sa,N,Sa,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sd,N,Sd
+                           Neo: N,N,N,N,N,Dc,N,N,Da,N,Da,Dc,Da,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,Sc,N
+Final Health:
+                     Bomberman: -1
+                     EmoCowboy: -2
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: EmoCowboy Scared Neo
+EmoCowboy: Bomberman Scared Neo
+Scared: Bomberman EmoCowboy Neo
+Neo: Bomberman EmoCowboy Scared
+Generated: 2014/08/12 09:58:05.990946646 UTC

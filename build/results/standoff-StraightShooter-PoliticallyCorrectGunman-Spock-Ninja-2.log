@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Spock Ninja
+               StraightShooter: Sb,N,Sb,N
+      PoliticallyCorrectGunman: Da,P,Sa,N
+                         Spock: Sd,N,Sd,N
+                         Ninja: Db,Dc,Da,Dd
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -3
+                         Spock: 2
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: Ninja StraightShooter Spock
+Spock: Ninja StraightShooter PoliticallyCorrectGunman
+Ninja: Spock StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 10:21:51.190933228 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Monkey Bomberman
+      PoliticallyCorrectGunman: N,N,Dd,Db,P,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N
+                        Monkey: N,N,N,N,Db,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -2
+                        Monkey: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman Zaenille Monkey
+Zaenille: Bomberman PoliticallyCorrectGunman Monkey
+Monkey: Bomberman PoliticallyCorrectGunman Zaenille
+Bomberman: Monkey PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 07:35:47.708292150 UTC

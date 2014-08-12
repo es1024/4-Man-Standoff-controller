@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Neo CourageTheDog
+                        Coward: Sb,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                           Neo: N,N,Da,Sa,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Sc,N,Sa
+Final Health:
+                        Coward: 1
+                      Zaenille: -4
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Neo CourageTheDog Zaenille
+Zaenille: Neo CourageTheDog Coward
+Neo: Zaenille CourageTheDog Coward
+CourageTheDog: Zaenille Neo Coward
+Generated: 2014/08/12 06:22:18.712289698 UTC

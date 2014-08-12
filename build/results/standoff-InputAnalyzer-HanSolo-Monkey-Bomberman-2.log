@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Monkey Bomberman
+                 InputAnalyzer: Dd,Db,Dd,Sc,N,Dd,Sa,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,Sa,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                       HanSolo: 5
+                        Monkey: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman HanSolo Monkey
+HanSolo: Bomberman InputAnalyzer Monkey
+Monkey: Bomberman InputAnalyzer HanSolo
+Bomberman: Monkey InputAnalyzer HanSolo
+Generated: 2014/08/12 06:20:20.951801786 UTC

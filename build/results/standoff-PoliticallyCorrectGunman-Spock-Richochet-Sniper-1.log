@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet Sniper
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N
+                         Spock: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sb,N,Sb,N,Sa,N,Sd,N,Sa,N,Sa,N,Sd
+                        Sniper: Sb,N,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -3
+                     Richochet: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Sniper Spock
+Spock: Richochet Sniper PoliticallyCorrectGunman
+Richochet: Spock Sniper PoliticallyCorrectGunman
+Sniper: Spock Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 08:33:37.436243437 UTC

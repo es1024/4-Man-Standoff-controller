@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Richochet Neo
+                         Spock: Sb,N,Sb,N,Sc,N,N
+                 SimpleShooter: Sd,N,Sa,N,N,N,N
+                     Richochet: Sb,N,Sa,N,Sd,N,Sd
+                           Neo: N,Sc,N,N,N,Sa,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+                     Richochet: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Richochet Neo
+SimpleShooter: Spock Richochet Neo
+Richochet: Spock SimpleShooter Neo
+Neo: Spock SimpleShooter Richochet
+Generated: 2014/08/12 09:29:19.184422801 UTC

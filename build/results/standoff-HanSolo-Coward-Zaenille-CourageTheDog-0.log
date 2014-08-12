@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Zaenille CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sb,N,N,N,N,N,N
+                        Coward: Sd,N,Sa,N,Da,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Db,N,N,Db,N,Db,Sb
+Final Health:
+                       HanSolo: -1
+                        Coward: -1
+                      Zaenille: -2
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Zaenille CourageTheDog
+Coward: HanSolo Zaenille CourageTheDog
+Zaenille: HanSolo Coward CourageTheDog
+CourageTheDog: HanSolo Coward Zaenille
+Generated: 2014/08/12 06:28:15.405157918 UTC

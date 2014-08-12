@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet EmoCowboy AntiGrenadier
+                     Aggressor: P,Tb
+                     Richochet: Sc,N
+                     EmoCowboy: Sc,N
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Aggressor: 0
+                     Richochet: -3
+                     EmoCowboy: -4
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet EmoCowboy AntiGrenadier
+Richochet: Aggressor EmoCowboy AntiGrenadier
+EmoCowboy: Aggressor Richochet AntiGrenadier
+AntiGrenadier: Aggressor Richochet EmoCowboy
+Generated: 2014/08/12 06:21:20.474989600 UTC

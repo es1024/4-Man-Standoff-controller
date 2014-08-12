@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Bomberman CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Sc,N,Da,Da,Da,Db,Da,Sb,N,Da,Da,Sa
+Final Health:
+                 SimpleShooter: -1
+                        Monkey: -1
+                     Bomberman: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman CourageTheDog Monkey
+Monkey: Bomberman CourageTheDog SimpleShooter
+Bomberman: Monkey CourageTheDog SimpleShooter
+CourageTheDog: Monkey Bomberman SimpleShooter
+Generated: 2014/08/12 05:55:38.392741934 UTC

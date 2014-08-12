@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille AntiGrenadier Sniper
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+                 AntiGrenadier: N,Sa
+                        Sniper: Sa,N
+Final Health:
+                     Aggressor: -2
+                      Zaenille: -2
+                 AntiGrenadier: -3
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Zaenille AntiGrenadier Sniper
+Zaenille: Aggressor AntiGrenadier Sniper
+AntiGrenadier: Aggressor Zaenille Sniper
+Sniper: Aggressor Zaenille AntiGrenadier
+Generated: 2014/08/12 06:02:35.740688410 UTC

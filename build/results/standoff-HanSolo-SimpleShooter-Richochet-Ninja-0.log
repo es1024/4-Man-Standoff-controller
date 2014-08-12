@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Richochet Ninja
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sd,N,N,N,N,N,N
+                     Richochet: Sb,N,Sd,N,Sa,N,Sd,N,Sa
+                         Ninja: Db,Da,Da,Db,Dd,Dc,Db,N,N
+Final Health:
+                       HanSolo: 1
+                 SimpleShooter: -1
+                     Richochet: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Richochet Ninja
+SimpleShooter: HanSolo Richochet Ninja
+Richochet: HanSolo SimpleShooter Ninja
+Ninja: HanSolo SimpleShooter Richochet
+Generated: 2014/08/12 09:39:17.712436180 UTC

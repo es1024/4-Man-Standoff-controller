@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Bomberman Sniper
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N,N,N,N,Dd,Dc,Sc,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,Sa,N,Sa,N,N,N,N,Sc,N,N,N,N,N
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Bomberman Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Sniper Monkey
+Bomberman: TwentyFourthsAndAHalfCentury Sniper Monkey
+Sniper: TwentyFourthsAndAHalfCentury Bomberman Monkey
+Generated: 2014/08/12 07:35:05.618974803 UTC

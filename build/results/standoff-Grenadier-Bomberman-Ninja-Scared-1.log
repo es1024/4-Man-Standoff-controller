@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman Ninja Scared
+                     Grenadier: N,N,N,P,N,N
+                     Bomberman: N,N,N,N,N,N
+                         Ninja: Db,Dc,Db,Db,Dd,Db
+                        Scared: Sc,N,Sb,N,Sa,N
+Final Health:
+                     Grenadier: -3
+                     Bomberman: 0
+                         Ninja: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Scared Bomberman
+Bomberman: Ninja Scared Grenadier
+Ninja: Bomberman Scared Grenadier
+Scared: Bomberman Ninja Grenadier
+Generated: 2014/08/12 05:50:45.298475570 UTC

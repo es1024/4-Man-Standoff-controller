@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Bomberman EmoCowboy
+                      Pacifist: N,N,N
+                     Aggressor: P,Tc,Sa
+                     Bomberman: N,N,N
+                     EmoCowboy: Sd,N,N
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 2
+                     Bomberman: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman EmoCowboy Aggressor
+Aggressor: Bomberman EmoCowboy Pacifist
+Bomberman: Aggressor EmoCowboy Pacifist
+EmoCowboy: Aggressor Bomberman Pacifist
+Generated: 2014/08/12 10:00:39.641216686 UTC

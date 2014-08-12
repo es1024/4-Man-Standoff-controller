@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey AntiGrenadier Neo
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,Sd,N,Sc,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Da,Db,N,N,N,Sa,N
+Final Health:
+                 SimpleShooter: 3
+                        Monkey: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Monkey AntiGrenadier
+Monkey: Neo SimpleShooter AntiGrenadier
+AntiGrenadier: Neo SimpleShooter Monkey
+Neo: AntiGrenadier SimpleShooter Monkey
+Generated: 2014/08/12 08:27:40.070771438 UTC

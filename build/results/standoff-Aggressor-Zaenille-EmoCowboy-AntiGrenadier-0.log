@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille EmoCowboy AntiGrenadier
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+                     EmoCowboy: N,N
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+                     EmoCowboy: -3
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Zaenille EmoCowboy AntiGrenadier
+Zaenille: Aggressor EmoCowboy AntiGrenadier
+EmoCowboy: Aggressor Zaenille AntiGrenadier
+AntiGrenadier: Aggressor Zaenille EmoCowboy
+Generated: 2014/08/12 06:20:37.527073973 UTC

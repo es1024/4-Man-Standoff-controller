@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Rule0Bot Sniper Neo
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,N,Da,N,Da,N,Dc,N,N,N,N,Dc,N,N,N,N,N,N,Dc,Dc,Dc,N,N,Dc,Dc,N,Dc,Dc,N,Dc,Dc,N,Dc,Dc,Dc,N,N,N,N,N,N,Dc,N,N,Dc,Dc,Sd
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Rule0Bot: -1
+                        Sniper: 5
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Rule0Bot Sniper
+Rule0Bot: Neo PoliticallyCorrectGunman Sniper
+Sniper: Neo PoliticallyCorrectGunman Rule0Bot
+Neo: Sniper PoliticallyCorrectGunman Rule0Bot
+Generated: 2014/08/12 05:48:52.536091982 UTC

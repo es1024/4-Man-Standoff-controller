@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman AntiGrenadier Sniper
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Sniper Bomberman
+Bomberman: AntiGrenadier Sniper HanSolo
+AntiGrenadier: Bomberman Sniper HanSolo
+Sniper: Bomberman AntiGrenadier HanSolo
+Generated: 2014/08/12 10:19:14.157234571 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Aggressor Scared
+                 InputAnalyzer: Db,P
+                 DONTNUKEMEBRO: Da,Sc
+                     Aggressor: P,Ta
+                        Scared: Sc,N
+Final Health:
+                 InputAnalyzer: -9
+                 DONTNUKEMEBRO: -1
+                     Aggressor: -5
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Aggressor Scared
+DONTNUKEMEBRO: InputAnalyzer Aggressor Scared
+Aggressor: InputAnalyzer DONTNUKEMEBRO Scared
+Scared: InputAnalyzer DONTNUKEMEBRO Aggressor
+Generated: 2014/08/12 06:34:15.756122292 UTC

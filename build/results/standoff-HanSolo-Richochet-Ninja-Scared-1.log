@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Ninja Scared
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sb,N,Sb
+                     Richochet: Sc,N,Sc,N,Sa,N,Sd,N,Sa,N,Sa
+                         Ninja: Da,Dc,Dd,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Scared Richochet
+Richochet: Ninja Scared HanSolo
+Ninja: Richochet Scared HanSolo
+Scared: Richochet Ninja HanSolo
+Generated: 2014/08/12 08:21:57.622188514 UTC

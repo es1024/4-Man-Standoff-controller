@@ -1,16 +1,16 @@
 Standoff between: HanSolo DONTNUKEMEBRO Spock SimpleShooter
-                       HanSolo: Sc,N,Sc,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 DONTNUKEMEBRO: Da,Sc,N,Sc,N,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Da,Da,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd
-                         Spock: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 SimpleShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd
+                 DONTNUKEMEBRO: Da,Dd,Da,Dc,Sd,N,Sd
+                         Spock: N,Sa,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sb,N,Sb,N,Sa
 Final Health:
                        HanSolo: -1
-                 DONTNUKEMEBRO: -19
+                 DONTNUKEMEBRO: 1
                          Spock: -1
-                 SimpleShooter: -17
+                 SimpleShooter: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 HanSolo: Spock SimpleShooter DONTNUKEMEBRO
 DONTNUKEMEBRO: Spock SimpleShooter HanSolo
 Spock: DONTNUKEMEBRO SimpleShooter HanSolo
 SimpleShooter: DONTNUKEMEBRO Spock HanSolo
-Generated: 2014/08/11 00:58:41.804416629 UTC
+Generated: 2014/08/12 06:49:17.913766336 UTC

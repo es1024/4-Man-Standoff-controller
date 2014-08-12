@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter EmoCowboy Ninja
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Db,Db,Dd,Dd,Dc,Da,Da,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                     EmoCowboy: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter EmoCowboy Ninja
+SimpleShooter: StraightShooter EmoCowboy Ninja
+EmoCowboy: StraightShooter SimpleShooter Ninja
+Ninja: StraightShooter SimpleShooter EmoCowboy
+Generated: 2014/08/12 05:44:05.088935369 UTC

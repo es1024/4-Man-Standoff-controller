@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Richochet EmoCowboy
+               StraightShooter: Sc,N
+                     Aggressor: P,Ta
+                     Richochet: Sb,N
+                     EmoCowboy: Sd,N
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 0
+                     Richochet: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Richochet EmoCowboy
+Aggressor: StraightShooter Richochet EmoCowboy
+Richochet: StraightShooter Aggressor EmoCowboy
+EmoCowboy: StraightShooter Aggressor Richochet
+Generated: 2014/08/12 05:58:59.088243090 UTC

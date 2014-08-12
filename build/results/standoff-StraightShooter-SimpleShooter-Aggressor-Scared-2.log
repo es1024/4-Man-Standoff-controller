@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Aggressor Scared
+               StraightShooter: Sb,N
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Td
+                        Scared: N,N
+Final Health:
+               StraightShooter: 2
+                 SimpleShooter: 0
+                     Aggressor: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared SimpleShooter Aggressor
+SimpleShooter: Scared StraightShooter Aggressor
+Aggressor: Scared StraightShooter SimpleShooter
+Scared: Aggressor StraightShooter SimpleShooter
+Generated: 2014/08/12 06:04:09.923405616 UTC

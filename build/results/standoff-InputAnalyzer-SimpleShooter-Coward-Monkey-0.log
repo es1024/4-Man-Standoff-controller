@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Coward Monkey
+                 InputAnalyzer: Db,Dd,P,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa
+                        Coward: Sd,N,Sd,N,Sb
+                        Monkey: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 0
+                        Coward: 0
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Coward Monkey
+SimpleShooter: InputAnalyzer Coward Monkey
+Coward: InputAnalyzer SimpleShooter Monkey
+Monkey: InputAnalyzer SimpleShooter Coward
+Generated: 2014/08/12 08:52:31.807315048 UTC

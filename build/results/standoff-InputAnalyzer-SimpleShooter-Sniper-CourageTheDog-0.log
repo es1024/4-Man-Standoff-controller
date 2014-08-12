@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Sniper CourageTheDog
+                 InputAnalyzer: Db,P,Sa
+                 SimpleShooter: Sd,N,Sa
+                        Sniper: Sd,N,Sd
+                 CourageTheDog: Sc,N,P
+Final Health:
+                 InputAnalyzer: -13
+                 SimpleShooter: -1
+                        Sniper: -3
+                 CourageTheDog: -10
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Sniper CourageTheDog
+SimpleShooter: InputAnalyzer Sniper CourageTheDog
+Sniper: InputAnalyzer SimpleShooter CourageTheDog
+CourageTheDog: InputAnalyzer SimpleShooter Sniper
+Generated: 2014/08/12 09:03:59.464451313 UTC

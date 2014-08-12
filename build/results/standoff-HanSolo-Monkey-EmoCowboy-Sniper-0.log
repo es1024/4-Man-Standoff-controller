@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey EmoCowboy Sniper
+                       HanSolo: Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Monkey: -3
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey EmoCowboy Sniper
+Monkey: HanSolo EmoCowboy Sniper
+EmoCowboy: HanSolo Monkey Sniper
+Sniper: HanSolo Monkey EmoCowboy
+Generated: 2014/08/12 09:10:27.493978464 UTC

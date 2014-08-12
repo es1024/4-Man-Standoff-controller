@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Spock Ninja
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,Dd,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dd,Da,Db,Dc,Db,Dc,Da,Db,Dc,Dc,Db,Dc,Da,Db,Db,Dc,Db,Dd,Dc,Dd,Da,Dd,Dc,Db,Dc,Db,Da,Dd,Dd,Dc,Db,Db,Dc,Dc,Dd,Dd,Dc,Da,Dd,Db,Dc,Da,Db,Da,Db,Dc,Dd,Da
+Final Health:
+               StraightShooter: -17
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Spock Ninja
+PoliticallyCorrectGunman: StraightShooter Spock Ninja
+Spock: StraightShooter PoliticallyCorrectGunman Ninja
+Ninja: StraightShooter PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 10:19:52.005884870 UTC

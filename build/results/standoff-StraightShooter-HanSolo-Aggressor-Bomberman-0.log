@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Aggressor Bomberman
+               StraightShooter: Sc,N
+                       HanSolo: Sa,N
+                     Aggressor: P,Tb
+                     Bomberman: N,N
+Final Health:
+               StraightShooter: 0
+                       HanSolo: -3
+                     Aggressor: 0
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Aggressor Bomberman
+HanSolo: StraightShooter Aggressor Bomberman
+Aggressor: StraightShooter HanSolo Bomberman
+Bomberman: StraightShooter HanSolo Aggressor
+Generated: 2014/08/12 08:41:08.968739889 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Monkey Ninja
+                 InputAnalyzer: Dd,P,Sa,N,N,N
+                        Coward: Sc,N,Sa,N,Dc,Sd
+                        Monkey: N,Sc,N,N,N,N
+                         Ninja: Dd,Dc,Dc,Dc,Da,Da
+Final Health:
+                 InputAnalyzer: -10
+                        Coward: 2
+                        Monkey: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Coward Monkey
+Coward: Ninja InputAnalyzer Monkey
+Monkey: Ninja InputAnalyzer Coward
+Ninja: Monkey InputAnalyzer Coward
+Generated: 2014/08/12 07:12:01.519940334 UTC

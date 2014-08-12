@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot Sniper
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,Dc,Dc,N,Dd,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sb,N,Sc,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: Sniper SimpleShooter Rule0Bot
+Rule0Bot: Sniper SimpleShooter TwentyFourthsAndAHalfCentury
+Sniper: Rule0Bot SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:15:58.538084775 UTC

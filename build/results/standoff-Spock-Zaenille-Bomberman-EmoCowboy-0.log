@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille Bomberman EmoCowboy
+                         Spock: N,Sb,N,Sb,N,Sb
+                      Zaenille: Sb,N,N,N,N,N
+                     Bomberman: N,N,N,P,N,N
+                     EmoCowboy: Sd,N,N,N,N,N
+Final Health:
+                         Spock: 2
+                      Zaenille: -2
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Zaenille Bomberman EmoCowboy
+Zaenille: Spock Bomberman EmoCowboy
+Bomberman: Spock Zaenille EmoCowboy
+EmoCowboy: Spock Zaenille Bomberman
+Generated: 2014/08/12 08:42:49.154694826 UTC

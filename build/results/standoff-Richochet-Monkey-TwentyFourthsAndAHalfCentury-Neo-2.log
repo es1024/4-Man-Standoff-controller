@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey TwentyFourthsAndAHalfCentury Neo
+                     Richochet: Sd,N,Sb,N,Sc,N,Sc,N,Sb,N,Sc,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dd,Da,Dd,Da,Db,Db,N,N,N,N,N,N,N,Dd,Dd,Dd,Dd,Da,Dd,Dd,Dd,Dd,N,N
+                           Neo: N,N,N,N,Db,Db,Db,N,N,N,N,N,N,Dc,Da,Dc,N,N,Da,Dc,Da,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo Monkey TwentyFourthsAndAHalfCentury
+Monkey: Neo Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo Richochet Monkey
+Neo: TwentyFourthsAndAHalfCentury Richochet Monkey
+Generated: 2014/08/12 08:42:19.663417662 UTC

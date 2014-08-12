@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Coward Zaenille
+                      Pacifist: N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sc,N,Sa
+                        Coward: Sa,N,Sb,N,Sb,N,Sb
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: -1
+                        Coward: 1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Zaenille SimpleShooter
+SimpleShooter: Coward Zaenille Pacifist
+Coward: SimpleShooter Zaenille Pacifist
+Zaenille: SimpleShooter Coward Pacifist
+Generated: 2014/08/12 10:07:45.227254199 UTC

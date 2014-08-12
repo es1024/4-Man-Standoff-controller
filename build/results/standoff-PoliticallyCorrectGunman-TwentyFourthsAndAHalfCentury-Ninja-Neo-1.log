@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja Neo
+      PoliticallyCorrectGunman: Dd,Dc,Db,Sd,N,Sc,N,N,N,N,N,N,N,N,P,Sb,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Sd,N,Sd,N,N,N,N,N,N,N,N,Sa,N,Sd,N
+                         Ninja: Dd,Db,Dd,Da,Dd,Da,Da,Dc,Dd,Da,Dc,Db,Da,Dd,Db,Dc,Db
+                           Neo: N,Da,Da,Da,Dc,Da,N,N,N,N,N,N,N,Da,Da,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: 2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Neo PoliticallyCorrectGunman
+Ninja: TwentyFourthsAndAHalfCentury Neo PoliticallyCorrectGunman
+Neo: TwentyFourthsAndAHalfCentury Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 07:24:44.113054238 UTC

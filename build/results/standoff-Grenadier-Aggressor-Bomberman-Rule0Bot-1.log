@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Bomberman Rule0Bot
+                     Grenadier: N,N,P,Td
+                     Aggressor: P,Tc,N,N
+                     Bomberman: N,N,N,N
+                      Rule0Bot: N,Sb,N,N
+Final Health:
+                     Grenadier: -1
+                     Aggressor: 0
+                     Bomberman: -3
+                      Rule0Bot: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Rule0Bot Aggressor
+Aggressor: Bomberman Rule0Bot Grenadier
+Bomberman: Aggressor Rule0Bot Grenadier
+Rule0Bot: Aggressor Bomberman Grenadier
+Generated: 2014/08/12 09:53:41.995826650 UTC

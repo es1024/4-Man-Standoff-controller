@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Aggressor AntiGrenadier
+                      Pacifist: N,N
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                 AntiGrenadier: N,Sc
+Final Health:
+                      Pacifist: -3
+                        Coward: 2
+                     Aggressor: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Aggressor AntiGrenadier
+Coward: Pacifist Aggressor AntiGrenadier
+Aggressor: Pacifist Coward AntiGrenadier
+AntiGrenadier: Pacifist Coward Aggressor
+Generated: 2014/08/12 06:52:48.244900389 UTC

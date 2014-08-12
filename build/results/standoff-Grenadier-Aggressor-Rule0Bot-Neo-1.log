@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Rule0Bot Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,P,Td
+                     Aggressor: P,Tc,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,N,N,N,N,N,N,N,N,Da,Da,N
+Final Health:
+                     Grenadier: -1
+                     Aggressor: 0
+                      Rule0Bot: -3
+                           Neo: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Neo Aggressor
+Aggressor: Rule0Bot Neo Grenadier
+Rule0Bot: Aggressor Neo Grenadier
+Neo: Aggressor Rule0Bot Grenadier
+Generated: 2014/08/12 07:41:42.655240736 UTC

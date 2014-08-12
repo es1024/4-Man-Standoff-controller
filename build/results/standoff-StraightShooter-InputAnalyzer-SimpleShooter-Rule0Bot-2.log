@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer SimpleShooter Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N
+                 InputAnalyzer: Dd,Dc,Sb,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -4
+                 SimpleShooter: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot InputAnalyzer SimpleShooter
+InputAnalyzer: Rule0Bot StraightShooter SimpleShooter
+SimpleShooter: Rule0Bot StraightShooter InputAnalyzer
+Rule0Bot: SimpleShooter StraightShooter InputAnalyzer
+Generated: 2014/08/12 09:10:29.798378334 UTC

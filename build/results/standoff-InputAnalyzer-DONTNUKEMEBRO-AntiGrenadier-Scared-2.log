@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO AntiGrenadier Scared
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Dd,Db,Dc,Sd,N,Sc,N,P,Sb
+                 DONTNUKEMEBRO: Da,Dc,Da,Dd,Sd,N,Dd,Da,Dc,Da,Sd,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,Sa
+                        Scared: Sc,N,Sb,N,Sa,N,Sa,N,Sb,N,Sa,N,N
+Final Health:
+                 InputAnalyzer: -9
+                 DONTNUKEMEBRO: -4
+                 AntiGrenadier: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared DONTNUKEMEBRO AntiGrenadier
+DONTNUKEMEBRO: Scared InputAnalyzer AntiGrenadier
+AntiGrenadier: Scared InputAnalyzer DONTNUKEMEBRO
+Scared: AntiGrenadier InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 09:44:28.881404454 UTC

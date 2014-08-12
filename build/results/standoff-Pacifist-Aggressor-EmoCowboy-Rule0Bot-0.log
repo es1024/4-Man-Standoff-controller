@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor EmoCowboy Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Ta,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,Sc
+                      Rule0Bot: N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -3
+                     Aggressor: 0
+                     EmoCowboy: -2
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor EmoCowboy Rule0Bot
+Aggressor: Pacifist EmoCowboy Rule0Bot
+EmoCowboy: Pacifist Aggressor Rule0Bot
+Rule0Bot: Pacifist Aggressor EmoCowboy
+Generated: 2014/08/12 09:50:30.795594043 UTC

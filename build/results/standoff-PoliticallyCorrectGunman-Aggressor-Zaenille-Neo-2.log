@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Zaenille Neo
+      PoliticallyCorrectGunman: N,N,N
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+                           Neo: N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 2
+                      Zaenille: -2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Aggressor Zaenille
+Aggressor: Neo PoliticallyCorrectGunman Zaenille
+Zaenille: Neo PoliticallyCorrectGunman Aggressor
+Neo: Zaenille PoliticallyCorrectGunman Aggressor
+Generated: 2014/08/12 06:31:08.643313455 UTC

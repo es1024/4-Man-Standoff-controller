@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Zaenille AntiGrenadier
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                      Zaenille: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Zaenille AntiGrenadier
+Richochet: StraightShooter Zaenille AntiGrenadier
+Zaenille: StraightShooter Richochet AntiGrenadier
+AntiGrenadier: StraightShooter Richochet Zaenille
+Generated: 2014/08/12 10:21:38.564904141 UTC

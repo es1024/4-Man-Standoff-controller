@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Sniper CourageTheDog
+                 InputAnalyzer: Db,P,Sa
+                        Monkey: N,N,N
+                        Sniper: Sb,N,Sb
+                 CourageTheDog: Sc,N,P
+Final Health:
+                 InputAnalyzer: -8
+                        Monkey: -2
+                        Sniper: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Sniper CourageTheDog
+Monkey: InputAnalyzer Sniper CourageTheDog
+Sniper: InputAnalyzer Monkey CourageTheDog
+CourageTheDog: InputAnalyzer Monkey Sniper
+Generated: 2014/08/12 07:47:57.116062640 UTC

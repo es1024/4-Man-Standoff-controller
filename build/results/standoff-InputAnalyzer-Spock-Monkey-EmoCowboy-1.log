@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Monkey EmoCowboy
+                 InputAnalyzer: Dc,P,Dc,Db
+                         Spock: Sc,N,N,Sc
+                        Monkey: N,N,N,Sd
+                     EmoCowboy: N,N,Sd,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 2
+                        Monkey: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey EmoCowboy Spock
+Spock: Monkey EmoCowboy InputAnalyzer
+Monkey: Spock EmoCowboy InputAnalyzer
+EmoCowboy: Spock Monkey InputAnalyzer
+Generated: 2014/08/12 10:22:38.759670603 UTC

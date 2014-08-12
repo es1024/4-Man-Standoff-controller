@@ -1,16 +1,16 @@
 Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo DONTNUKEMEBRO
-                 InputAnalyzer: Db,Sd,N,P,N
-      PoliticallyCorrectGunman: N,Sd,N,N,Sd
-                       HanSolo: Sa,N,Sa,N,Sa
-                 DONTNUKEMEBRO: Db,Dc,P,Dc,Sa
+                 InputAnalyzer: Db,P,Sa,N,N
+      PoliticallyCorrectGunman: Sd,N,N,N,Sa
+                       HanSolo: Sa,N,Sa,N,Sb
+                 DONTNUKEMEBRO: Dc,Dc,Sa,N,N
 Final Health:
                  InputAnalyzer: -12
-      PoliticallyCorrectGunman: -1
-                       HanSolo: -1
-                 DONTNUKEMEBRO: -10
+      PoliticallyCorrectGunman: 0
+                       HanSolo: 2
+                 DONTNUKEMEBRO: 0
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 InputAnalyzer: PoliticallyCorrectGunman HanSolo DONTNUKEMEBRO
 PoliticallyCorrectGunman: InputAnalyzer HanSolo DONTNUKEMEBRO
 HanSolo: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO
 DONTNUKEMEBRO: InputAnalyzer PoliticallyCorrectGunman HanSolo
-Generated: 2014/08/11 00:58:40.482145045 UTC
+Generated: 2014/08/12 09:34:08.710654915 UTC

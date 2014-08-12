@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Monkey Scared
+                        Coward: Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N
+                        Monkey: N,N,Sa,N,Sc
+                        Scared: N,Sa,N,Sc,N
+Final Health:
+                        Coward: 1
+                      Zaenille: -2
+                        Monkey: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille Monkey Scared
+Zaenille: Coward Monkey Scared
+Monkey: Coward Zaenille Scared
+Scared: Coward Zaenille Monkey
+Generated: 2014/08/12 08:36:58.890845317 UTC

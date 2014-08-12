@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Rule0Bot Sniper
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb
+                        Coward: Sc,N,Sc,N,Sc,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sc,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 3
+                      Rule0Bot: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Coward Rule0Bot
+Coward: Sniper HanSolo Rule0Bot
+Rule0Bot: Sniper HanSolo Coward
+Sniper: Rule0Bot HanSolo Coward
+Generated: 2014/08/12 08:01:04.237838708 UTC

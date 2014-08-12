@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Bomberman Ninja
+                 InputAnalyzer: Dd,P,Da,Db,N
+                        Monkey: N,N,P,Db,Dc
+                     Bomberman: N,N,N,N,N
+                         Ninja: Dc,Dd,Db,Dc,Da
+Final Health:
+                 InputAnalyzer: -1
+                        Monkey: -4
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Monkey Bomberman
+Monkey: Ninja InputAnalyzer Bomberman
+Bomberman: Ninja InputAnalyzer Monkey
+Ninja: Bomberman InputAnalyzer Monkey
+Generated: 2014/08/12 07:01:39.668774766 UTC

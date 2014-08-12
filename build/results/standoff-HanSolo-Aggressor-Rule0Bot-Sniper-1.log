@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Rule0Bot Sniper
+                       HanSolo: Sc,N
+                     Aggressor: P,Td
+                      Rule0Bot: N,Sb
+                        Sniper: Sa,N
+Final Health:
+                       HanSolo: 0
+                     Aggressor: 0
+                      Rule0Bot: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Sniper Aggressor
+Aggressor: Rule0Bot Sniper HanSolo
+Rule0Bot: Aggressor Sniper HanSolo
+Sniper: Aggressor Rule0Bot HanSolo
+Generated: 2014/08/12 09:26:07.598867824 UTC

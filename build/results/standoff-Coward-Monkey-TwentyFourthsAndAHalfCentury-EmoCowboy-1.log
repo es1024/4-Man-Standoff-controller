@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+                        Coward: Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Da,Db,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -15
+                        Monkey: -17
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury EmoCowboy Monkey
+Monkey: TwentyFourthsAndAHalfCentury EmoCowboy Coward
+TwentyFourthsAndAHalfCentury: Monkey EmoCowboy Coward
+EmoCowboy: Monkey TwentyFourthsAndAHalfCentury Coward
+Generated: 2014/08/12 09:13:03.221203593 UTC

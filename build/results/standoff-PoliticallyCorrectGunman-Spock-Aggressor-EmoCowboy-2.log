@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Aggressor EmoCowboy
+      PoliticallyCorrectGunman: P,Dd
+                         Spock: Sd,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sd,N
+Final Health:
+      PoliticallyCorrectGunman: -9
+                         Spock: -1
+                     Aggressor: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy Spock Aggressor
+Spock: EmoCowboy PoliticallyCorrectGunman Aggressor
+Aggressor: EmoCowboy PoliticallyCorrectGunman Spock
+EmoCowboy: Aggressor PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 08:47:13.954844427 UTC

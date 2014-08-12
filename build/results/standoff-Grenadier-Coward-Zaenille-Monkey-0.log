@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Zaenille Monkey
+                     Grenadier: P,Tb
+                        Coward: Sd,N
+                      Zaenille: Sc,N
+                        Monkey: N,N
+Final Health:
+                     Grenadier: 2
+                        Coward: -3
+                      Zaenille: -2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Zaenille Monkey
+Coward: Grenadier Zaenille Monkey
+Zaenille: Grenadier Coward Monkey
+Monkey: Grenadier Coward Zaenille
+Generated: 2014/08/12 07:20:24.143364609 UTC

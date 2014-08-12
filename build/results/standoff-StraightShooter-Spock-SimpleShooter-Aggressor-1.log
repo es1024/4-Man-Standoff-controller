@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock SimpleShooter Aggressor
+               StraightShooter: Sd,N
+                         Spock: Sc,N
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+Final Health:
+               StraightShooter: 0
+                         Spock: -3
+                 SimpleShooter: 0
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Aggressor Spock
+Spock: SimpleShooter Aggressor StraightShooter
+SimpleShooter: Spock Aggressor StraightShooter
+Aggressor: Spock SimpleShooter StraightShooter
+Generated: 2014/08/12 08:29:29.518094929 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Spock Monkey
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -5
+               StraightShooter: -18
+                         Spock: -2
+                        Monkey: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Spock Monkey
+StraightShooter: Grenadier Spock Monkey
+Spock: Grenadier StraightShooter Monkey
+Monkey: Grenadier StraightShooter Spock
+Generated: 2014/08/12 09:59:42.487807106 UTC

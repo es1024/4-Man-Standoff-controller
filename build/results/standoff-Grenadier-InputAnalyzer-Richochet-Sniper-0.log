@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Richochet Sniper
+                     Grenadier: N,N,N,N,N,N
+                 InputAnalyzer: Da,Sd,N,P,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N
+                        Sniper: Sa,N,Sb,N,Sa,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -3
+                     Richochet: 2
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Richochet Sniper
+InputAnalyzer: Grenadier Richochet Sniper
+Richochet: Grenadier InputAnalyzer Sniper
+Sniper: Grenadier InputAnalyzer Richochet
+Generated: 2014/08/12 08:28:04.552785015 UTC

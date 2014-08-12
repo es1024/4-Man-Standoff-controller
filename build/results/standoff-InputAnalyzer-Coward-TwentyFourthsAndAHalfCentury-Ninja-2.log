@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward TwentyFourthsAndAHalfCentury Ninja
+                 InputAnalyzer: Dd,Dc,Dd,Dc,P,N,Dc,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sa,N,Dc,Dc,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dc,Da,Dc,Dc,Da,Dd,Db,Db,Dd
+Final Health:
+                 InputAnalyzer: -3
+                        Coward: 2
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Coward TwentyFourthsAndAHalfCentury
+Coward: Ninja InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja InputAnalyzer Coward
+Ninja: TwentyFourthsAndAHalfCentury InputAnalyzer Coward
+Generated: 2014/08/12 08:02:36.254696179 UTC

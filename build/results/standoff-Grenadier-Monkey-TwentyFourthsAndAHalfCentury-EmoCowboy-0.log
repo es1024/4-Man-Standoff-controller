@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+                     Grenadier: N,N,N,N,N,N,P,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Sb,N,Sb,N,Sb,N
+                     EmoCowboy: N,N,N,Sd,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+Monkey: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Grenadier Monkey EmoCowboy
+EmoCowboy: Grenadier Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:25:51.315462948 UTC

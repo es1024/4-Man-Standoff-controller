@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Zaenille CourageTheDog
+                 InputAnalyzer: Dd,P,Da,Dd
+                     Richochet: Sa,N,Sd,N
+                      Zaenille: Sc,N,N,N
+                 CourageTheDog: Sb,N,P,Tb
+Final Health:
+                 InputAnalyzer: -6
+                     Richochet: -8
+                      Zaenille: -2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Richochet Zaenille
+Richochet: CourageTheDog InputAnalyzer Zaenille
+Zaenille: CourageTheDog InputAnalyzer Richochet
+CourageTheDog: Zaenille InputAnalyzer Richochet
+Generated: 2014/08/12 06:31:47.398339972 UTC

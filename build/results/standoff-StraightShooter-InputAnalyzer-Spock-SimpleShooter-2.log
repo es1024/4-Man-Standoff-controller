@@ -1,11 +1,11 @@
 Standoff between: StraightShooter InputAnalyzer Spock SimpleShooter
-               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
-                 InputAnalyzer: Dd,P,Db,N,N,N,N
-                         Spock: Sd,N,Sd,N,Sd,N,Sa
-                 SimpleShooter: Sb,N,Sb,N,N,N,N
+               StraightShooter: Sb,N,Sb,N
+                 InputAnalyzer: Dd,P,Db,N
+                         Spock: Sd,N,Sd,N
+                 SimpleShooter: Sb,N,Sa,N
 Final Health:
                StraightShooter: 0
-                 InputAnalyzer: -7
+                 InputAnalyzer: -5
                          Spock: 2
                  SimpleShooter: -2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
@@ -13,4 +13,4 @@ StraightShooter: SimpleShooter InputAnalyzer Spock
 InputAnalyzer: SimpleShooter StraightShooter Spock
 Spock: SimpleShooter StraightShooter InputAnalyzer
 SimpleShooter: Spock StraightShooter InputAnalyzer
-Generated: 2014/08/11 00:58:57.291021537 UTC
+Generated: 2014/08/12 06:30:00.383336527 UTC

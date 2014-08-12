@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Scared CourageTheDog
+                     Aggressor: P,Td
+                      Zaenille: Sb,N
+                        Scared: Sb,N
+                 CourageTheDog: Sa,N
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -4
+                        Scared: 2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Zaenille Scared
+Zaenille: CourageTheDog Aggressor Scared
+Scared: CourageTheDog Aggressor Zaenille
+CourageTheDog: Scared Aggressor Zaenille
+Generated: 2014/08/12 08:43:31.394123796 UTC

@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Aggressor Richochet TwentyFourthsAndAHalfCentury
+                 DONTNUKEMEBRO: Db,Sb,N
+                     Aggressor: P,Td,N
+                     Richochet: Sb,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,Da,N
+Final Health:
+                 DONTNUKEMEBRO: 0
+                     Aggressor: -2
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury Aggressor Richochet
+Aggressor: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO Richochet
+Richochet: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO Aggressor
+TwentyFourthsAndAHalfCentury: Richochet DONTNUKEMEBRO Aggressor
+Generated: 2014/08/12 10:24:32.068114876 UTC

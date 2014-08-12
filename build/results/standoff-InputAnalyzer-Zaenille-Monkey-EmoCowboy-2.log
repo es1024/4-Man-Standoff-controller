@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Monkey EmoCowboy
+                 InputAnalyzer: Dd,P,Sa
+                      Zaenille: Sb,N,N
+                        Monkey: N,Dd,P
+                     EmoCowboy: Sd,N,N
+Final Health:
+                 InputAnalyzer: -8
+                      Zaenille: -2
+                        Monkey: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Zaenille Monkey
+Zaenille: EmoCowboy InputAnalyzer Monkey
+Monkey: EmoCowboy InputAnalyzer Zaenille
+EmoCowboy: Monkey InputAnalyzer Zaenille
+Generated: 2014/08/12 10:07:00.545475870 UTC

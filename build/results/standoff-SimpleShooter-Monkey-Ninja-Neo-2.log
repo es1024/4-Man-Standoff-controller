@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Ninja Neo
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,N,N,Db,Dd,N,N,N,Da,Dd,N,N,N
+                         Ninja: Dd,Da,Dd,Da,Dd,Dc,Dc,Dd,Dc,Dd,Db,Da,Dd,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,N,N,N,Db,N,Db,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -1
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Monkey Ninja
+Monkey: Neo SimpleShooter Ninja
+Ninja: Neo SimpleShooter Monkey
+Neo: Ninja SimpleShooter Monkey
+Generated: 2014/08/12 10:06:15.071086352 UTC

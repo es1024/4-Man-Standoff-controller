@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Richochet Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,Sd,N,N,Da,P
+                     Richochet: Sd,N,Sb,N,Sb,N,Sa,N,Sd,N,Sa,N,Sa,N,Sb
+                        Scared: N,N,N,N,N,N,N,N,Sc,N,Sc,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -7
+                     Richochet: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Richochet Scared
+PoliticallyCorrectGunman: Pacifist Richochet Scared
+Richochet: Pacifist PoliticallyCorrectGunman Scared
+Scared: Pacifist PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 10:31:04.024405403 UTC

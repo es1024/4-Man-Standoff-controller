@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille AntiGrenadier Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,Td
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,Da,Da,N
+Final Health:
+                     Grenadier: 0
+                      Zaenille: -2
+                 AntiGrenadier: 2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Zaenille AntiGrenadier
+Zaenille: Neo Grenadier AntiGrenadier
+AntiGrenadier: Neo Grenadier Zaenille
+Neo: AntiGrenadier Grenadier Zaenille
+Generated: 2014/08/12 09:35:55.481904776 UTC

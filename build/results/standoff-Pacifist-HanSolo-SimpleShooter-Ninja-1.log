@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo SimpleShooter Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Dd,Dd,Dd,Db,Db,Db,Db,Dd,Dd,Dc,Dd,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 3
+                 SimpleShooter: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Ninja HanSolo
+HanSolo: SimpleShooter Ninja Pacifist
+SimpleShooter: HanSolo Ninja Pacifist
+Ninja: HanSolo SimpleShooter Pacifist
+Generated: 2014/08/12 08:55:58.461027610 UTC

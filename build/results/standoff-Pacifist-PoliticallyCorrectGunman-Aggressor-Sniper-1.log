@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Aggressor Sniper
+                      Pacifist: N,N
+      PoliticallyCorrectGunman: N,Sa
+                     Aggressor: P,Tb
+                        Sniper: Sc,N
+Final Health:
+                      Pacifist: 0
+      PoliticallyCorrectGunman: -3
+                     Aggressor: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Sniper PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Aggressor Sniper Pacifist
+Aggressor: PoliticallyCorrectGunman Sniper Pacifist
+Sniper: PoliticallyCorrectGunman Aggressor Pacifist
+Generated: 2014/08/12 10:14:01.987027602 UTC

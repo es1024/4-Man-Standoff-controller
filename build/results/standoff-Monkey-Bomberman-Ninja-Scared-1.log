@@ -1,0 +1,16 @@
+Standoff between: Monkey Bomberman Ninja Scared
+                        Monkey: N,N,N,Dc,N,N,Db,N,N,N,N,N,N,Db,Db,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Dc,Da,Dc,Db,Dc,Db,Dc,Dc,Da,Dc,Db,Dc,Db,Dd,Db,Dc,Da,Db,Dc,Db,Db,Dc,Da
+                        Scared: Sa,N,Sc,N,Sb,N,Sa,N,N,N,N,Sb,N,Sc,N,Sa,N,N,N,N,N,N,Sb,N,Sc
+Final Health:
+                        Monkey: -1
+                     Bomberman: -1
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Ninja Scared Bomberman
+Bomberman: Ninja Scared Monkey
+Ninja: Bomberman Scared Monkey
+Scared: Bomberman Ninja Monkey
+Generated: 2014/08/12 05:58:09.313337700 UTC

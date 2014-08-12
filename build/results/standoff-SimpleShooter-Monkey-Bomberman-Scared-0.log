@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Bomberman Scared
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sd,N,Sd,N,Sc,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,Sd,N,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,Sc,N,Sb,N,Sa,N,Sa,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                        Monkey: -1
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey Bomberman Scared
+Monkey: SimpleShooter Bomberman Scared
+Bomberman: SimpleShooter Monkey Scared
+Scared: SimpleShooter Monkey Bomberman
+Generated: 2014/08/12 05:52:12.439554800 UTC

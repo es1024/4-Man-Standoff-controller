@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Monkey Bomberman
+                 InputAnalyzer: Dd,Sb,N,P,Sb
+                     Richochet: Sa,N,Sc,N,Sa
+                        Monkey: N,Sa,N,N,N
+                     Bomberman: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                     Richochet: -2
+                        Monkey: 0
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Richochet Monkey
+Richochet: Bomberman InputAnalyzer Monkey
+Monkey: Bomberman InputAnalyzer Richochet
+Bomberman: Monkey InputAnalyzer Richochet
+Generated: 2014/08/12 09:36:39.958129075 UTC

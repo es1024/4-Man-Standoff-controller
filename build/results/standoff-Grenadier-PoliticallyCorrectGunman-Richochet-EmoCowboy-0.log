@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Richochet EmoCowboy
+                     Grenadier: P,Tb
+      PoliticallyCorrectGunman: Sc,N
+                     Richochet: Sb,N
+                     EmoCowboy: Sd,N
+Final Health:
+                     Grenadier: 2
+      PoliticallyCorrectGunman: -5
+                     Richochet: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Richochet EmoCowboy
+PoliticallyCorrectGunman: Grenadier Richochet EmoCowboy
+Richochet: Grenadier PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: Grenadier PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 09:49:50.657543678 UTC

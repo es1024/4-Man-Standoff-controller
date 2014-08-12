@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Monkey TwentyFourthsAndAHalfCentury
+                         Spock: N,Sd,N,N,N
+                     Aggressor: P,Td,Sa,N,Sc
+                        Monkey: N,N,Sd,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dc,N,N,N
+Final Health:
+                         Spock: 0
+                     Aggressor: 2
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: TwentyFourthsAndAHalfCentury Aggressor Monkey
+Aggressor: TwentyFourthsAndAHalfCentury Spock Monkey
+Monkey: TwentyFourthsAndAHalfCentury Spock Aggressor
+TwentyFourthsAndAHalfCentury: Monkey Spock Aggressor
+Generated: 2014/08/12 09:15:35.531407045 UTC

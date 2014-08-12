@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Ninja Scared
+                 InputAnalyzer: Dc,P,Dd,Sa,N
+                 DONTNUKEMEBRO: Dd,Dc,Sa,N,Da
+                         Ninja: Db,Dc,Dd,Dd,N
+                        Scared: Sc,N,Sa,N,Sb
+Final Health:
+                 InputAnalyzer: -8
+                 DONTNUKEMEBRO: 0
+                         Ninja: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Scared DONTNUKEMEBRO
+DONTNUKEMEBRO: Ninja Scared InputAnalyzer
+Ninja: DONTNUKEMEBRO Scared InputAnalyzer
+Scared: DONTNUKEMEBRO Ninja InputAnalyzer
+Generated: 2014/08/12 09:02:23.652124978 UTC

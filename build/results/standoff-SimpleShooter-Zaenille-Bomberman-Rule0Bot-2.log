@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Bomberman Rule0Bot
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -2
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Zaenille Bomberman
+Zaenille: Rule0Bot SimpleShooter Bomberman
+Bomberman: Rule0Bot SimpleShooter Zaenille
+Rule0Bot: Bomberman SimpleShooter Zaenille
+Generated: 2014/08/12 08:04:14.048683566 UTC

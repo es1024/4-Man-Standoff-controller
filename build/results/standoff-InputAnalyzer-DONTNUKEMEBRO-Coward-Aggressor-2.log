@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Coward Aggressor
+                 InputAnalyzer: Dd,P
+                 DONTNUKEMEBRO: Da,Sd
+                        Coward: Sb,N
+                     Aggressor: P,Tc
+Final Health:
+                 InputAnalyzer: 2
+                 DONTNUKEMEBRO: 0
+                        Coward: -3
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor DONTNUKEMEBRO Coward
+DONTNUKEMEBRO: Aggressor InputAnalyzer Coward
+Coward: Aggressor InputAnalyzer DONTNUKEMEBRO
+Aggressor: Coward InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 05:46:47.382509440 UTC

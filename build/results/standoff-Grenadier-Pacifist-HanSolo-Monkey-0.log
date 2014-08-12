@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist HanSolo Monkey
+                     Grenadier: P,Tb,N
+                      Pacifist: N,N,N
+                       HanSolo: Sa,N,Sd
+                        Monkey: N,N,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -3
+                       HanSolo: 2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist HanSolo Monkey
+Pacifist: Grenadier HanSolo Monkey
+HanSolo: Grenadier Pacifist Monkey
+Monkey: Grenadier Pacifist HanSolo
+Generated: 2014/08/12 05:54:57.311720959 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Ninja Sniper CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Dd,Dd,Db,Db,Db,Da,Db,Dc,Db,Da,Da,Db,Dc,Da,Da,Dc,Db,Dc,Dd,Dd,Dd,Dc,Db
+                        Sniper: Sd,N,Sb,N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Sa,N,Sc,N,Dc,Dc,Dc,Sc,N,Db,Dc,Db,Sb,N,Dc,N,Sc,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                         Ninja: -1
+                        Sniper: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Sniper CourageTheDog
+Ninja: Pacifist Sniper CourageTheDog
+Sniper: Pacifist Ninja CourageTheDog
+CourageTheDog: Pacifist Ninja Sniper
+Generated: 2014/08/12 09:27:13.346056033 UTC

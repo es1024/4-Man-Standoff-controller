@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Coward Richochet
+                 InputAnalyzer: Db,P,Da,Sd
+                 SimpleShooter: Sd,N,Sc,N
+                        Coward: Sd,N,Sd,N
+                     Richochet: Sb,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 0
+                        Coward: 0
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Coward Richochet
+SimpleShooter: InputAnalyzer Coward Richochet
+Coward: InputAnalyzer SimpleShooter Richochet
+Richochet: InputAnalyzer SimpleShooter Coward
+Generated: 2014/08/12 06:39:46.022356849 UTC

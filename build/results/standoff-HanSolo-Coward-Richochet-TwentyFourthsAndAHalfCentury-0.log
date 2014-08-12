@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Richochet TwentyFourthsAndAHalfCentury
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,N,N,N,N,N
+                     Richochet: Sb,N,Sd,N,Sa,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                        Coward: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Richochet TwentyFourthsAndAHalfCentury
+Coward: HanSolo Richochet TwentyFourthsAndAHalfCentury
+Richochet: HanSolo Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: HanSolo Coward Richochet
+Generated: 2014/08/12 10:26:45.214697187 UTC

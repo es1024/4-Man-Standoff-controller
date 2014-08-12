@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet Bomberman
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Sa,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,N,Sa,N,Sa,N
+                     Richochet: Sd,N,Sa,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                         Spock: -1
+                     Richochet: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Richochet Bomberman
+Spock: PoliticallyCorrectGunman Richochet Bomberman
+Richochet: PoliticallyCorrectGunman Spock Bomberman
+Bomberman: PoliticallyCorrectGunman Spock Richochet
+Generated: 2014/08/12 08:14:43.902936292 UTC

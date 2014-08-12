@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman EmoCowboy Scared Neo
+      PoliticallyCorrectGunman: Sd,N,N,N,N,N,N,N,N,P,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,N,N,Sa,N,N,N,Sd,N,Sa
+                           Neo: N,Sa,N,N,N,N,N,N,Dc,Da,N
+Final Health:
+      PoliticallyCorrectGunman: -7
+                     EmoCowboy: -2
+                        Scared: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy Scared Neo
+EmoCowboy: PoliticallyCorrectGunman Scared Neo
+Scared: PoliticallyCorrectGunman EmoCowboy Neo
+Neo: PoliticallyCorrectGunman EmoCowboy Scared
+Generated: 2014/08/12 07:22:04.934635433 UTC

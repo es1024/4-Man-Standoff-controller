@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Zaenille CourageTheDog
+      PoliticallyCorrectGunman: Dc,Db,N,N,Db,Sc,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sb,N,Db,Sa,N,Db,Db,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: -1
+                      Zaenille: -4
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille CourageTheDog Richochet
+Richochet: Zaenille CourageTheDog PoliticallyCorrectGunman
+Zaenille: Richochet CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Richochet Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 07:32:03.741351242 UTC

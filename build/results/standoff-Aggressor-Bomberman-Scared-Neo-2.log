@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman Scared Neo
+                     Aggressor: P,Tb,Sc
+                     Bomberman: N,N,N
+                        Scared: Sd,N,N
+                           Neo: N,N,N
+Final Health:
+                     Aggressor: 2
+                     Bomberman: -3
+                        Scared: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo Bomberman Scared
+Bomberman: Neo Aggressor Scared
+Scared: Neo Aggressor Bomberman
+Neo: Scared Aggressor Bomberman
+Generated: 2014/08/12 08:59:18.202572207 UTC

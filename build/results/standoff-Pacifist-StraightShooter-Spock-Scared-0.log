@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Spock Scared
+                      Pacifist: N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc
+                         Spock: Sa,N,Sa,N,Sb
+                        Scared: Sa,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                         Spock: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Spock Scared
+StraightShooter: Pacifist Spock Scared
+Spock: Pacifist StraightShooter Scared
+Scared: Pacifist StraightShooter Spock
+Generated: 2014/08/12 08:20:31.945938421 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Aggressor Sniper
+                      Pacifist: N,N
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                        Sniper: Sc,N
+Final Health:
+                      Pacifist: -3
+                        Coward: 2
+                     Aggressor: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Aggressor Sniper
+Coward: Pacifist Aggressor Sniper
+Aggressor: Pacifist Coward Sniper
+Sniper: Pacifist Coward Aggressor
+Generated: 2014/08/12 06:00:22.032594827 UTC

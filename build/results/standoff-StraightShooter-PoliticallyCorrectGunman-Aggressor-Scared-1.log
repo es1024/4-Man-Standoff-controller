@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Aggressor Scared
+               StraightShooter: Sd,N
+      PoliticallyCorrectGunman: Sb,N
+                     Aggressor: P,Ta
+                        Scared: Sb,N
+Final Health:
+               StraightShooter: -3
+      PoliticallyCorrectGunman: -4
+                     Aggressor: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Aggressor Scared StraightShooter
+Aggressor: PoliticallyCorrectGunman Scared StraightShooter
+Scared: PoliticallyCorrectGunman Aggressor StraightShooter
+Generated: 2014/08/12 07:47:33.855239189 UTC

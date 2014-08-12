@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock TwentyFourthsAndAHalfCentury AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N
+                         Spock: N,N,N,N,N,N,N,Sd,N,Sd,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,Db,Da,Db,Da,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Spock TwentyFourthsAndAHalfCentury
+Spock: AntiGrenadier HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier HanSolo Spock
+AntiGrenadier: TwentyFourthsAndAHalfCentury HanSolo Spock
+Generated: 2014/08/12 06:17:19.880268746 UTC

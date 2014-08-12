@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Da,Dd,Da,Dd,Dd,Dd,Da,Dd,Da,Dd,Da,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot
+SimpleShooter: HanSolo TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: HanSolo SimpleShooter Rule0Bot
+Rule0Bot: HanSolo SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:46:05.667723378 UTC

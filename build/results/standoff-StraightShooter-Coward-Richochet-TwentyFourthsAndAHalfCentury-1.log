@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Richochet TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sc,N,Sc
+                     Richochet: Sa,N,Sa,N,Sb,N,Sd,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Da,N,Dc,N,Dc,N,Dc,N,N,N,N
+Final Health:
+               StraightShooter: -3
+                        Coward: -1
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet TwentyFourthsAndAHalfCentury Coward
+Coward: Richochet TwentyFourthsAndAHalfCentury StraightShooter
+Richochet: Coward TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: Coward Richochet StraightShooter
+Generated: 2014/08/12 07:27:37.734534027 UTC

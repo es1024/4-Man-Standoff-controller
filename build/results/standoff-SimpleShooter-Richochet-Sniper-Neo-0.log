@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Sniper Neo
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sb
+                     Richochet: Sa,N,Sc,N,Sc,N,Sa
+                        Sniper: Sd,N,Sd,N,N,N,N
+                           Neo: N,Sb,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                     Richochet: -1
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Sniper Neo
+Richochet: SimpleShooter Sniper Neo
+Sniper: SimpleShooter Richochet Neo
+Neo: SimpleShooter Richochet Sniper
+Generated: 2014/08/12 09:23:11.323681486 UTC

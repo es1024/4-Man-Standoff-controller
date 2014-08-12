@@ -1,16 +1,16 @@
 Standoff between: Grenadier InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO
-                     Grenadier: P,Tb
-                 InputAnalyzer: Da,Dd
-      PoliticallyCorrectGunman: P,Da
-                 DONTNUKEMEBRO: Db,Sc
+                     Grenadier: P,N,N
+                 InputAnalyzer: Da,P,Sb
+      PoliticallyCorrectGunman: Da,Sa,N
+                 DONTNUKEMEBRO: Da,Sa,N
 Final Health:
-                     Grenadier: -1
-                 InputAnalyzer: -6
-      PoliticallyCorrectGunman: -6
+                     Grenadier: -8
+                 InputAnalyzer: -11
+      PoliticallyCorrectGunman: -1
                  DONTNUKEMEBRO: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO
 InputAnalyzer: Grenadier PoliticallyCorrectGunman DONTNUKEMEBRO
 PoliticallyCorrectGunman: Grenadier InputAnalyzer DONTNUKEMEBRO
 DONTNUKEMEBRO: Grenadier InputAnalyzer PoliticallyCorrectGunman
-Generated: 2014/08/11 00:59:49.765696111 UTC
+Generated: 2014/08/12 08:39:35.824401093 UTC

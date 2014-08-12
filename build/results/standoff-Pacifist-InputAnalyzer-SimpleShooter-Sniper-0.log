@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer SimpleShooter Sniper
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Sd,N,Dd,Sa,N,N
+                 SimpleShooter: Sd,N,Sa,N,Sa,N,Sd
+                        Sniper: Sb,N,Sb,N,Sb,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -1
+                 SimpleShooter: 5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer SimpleShooter Sniper
+InputAnalyzer: Pacifist SimpleShooter Sniper
+SimpleShooter: Pacifist InputAnalyzer Sniper
+Sniper: Pacifist InputAnalyzer SimpleShooter
+Generated: 2014/08/12 06:50:59.572314808 UTC

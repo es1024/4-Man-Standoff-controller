@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Bomberman AntiGrenadier
+                 InputAnalyzer: Dd,Dc,P,Sd,N,N
+                        Monkey: N,N,N,P,Sd,N
+                     Bomberman: N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N,N
+Final Health:
+                 InputAnalyzer: -3
+                        Monkey: -4
+                     Bomberman: -1
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Monkey Bomberman
+Monkey: AntiGrenadier InputAnalyzer Bomberman
+Bomberman: AntiGrenadier InputAnalyzer Monkey
+AntiGrenadier: Bomberman InputAnalyzer Monkey
+Generated: 2014/08/12 09:56:49.847167780 UTC

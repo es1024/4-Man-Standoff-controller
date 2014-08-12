@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sd,N,P,N,N
+                           Neo: N,Da,Da,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sa,N,Db
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                           Neo: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo CourageTheDog InputAnalyzer
+InputAnalyzer: Neo CourageTheDog Pacifist
+Neo: InputAnalyzer CourageTheDog Pacifist
+CourageTheDog: InputAnalyzer Neo Pacifist
+Generated: 2014/08/12 10:08:09.549033510 UTC

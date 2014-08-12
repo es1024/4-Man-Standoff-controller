@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Aggressor Zaenille
+                 InputAnalyzer: Dd,Dc,N
+                       HanSolo: Sd,N,Sc
+                     Aggressor: P,Ta,Sb
+                      Zaenille: Sd,N,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 0
+                     Aggressor: 0
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille HanSolo Aggressor
+HanSolo: Zaenille InputAnalyzer Aggressor
+Aggressor: Zaenille InputAnalyzer HanSolo
+Zaenille: Aggressor InputAnalyzer HanSolo
+Generated: 2014/08/12 08:42:03.578338807 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Bomberman Scared
+                         Spock: N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,Sb,N,Sa,N,Sa,N,N,N,N,N,N,Sa
+Final Health:
+                         Spock: -1
+                        Monkey: -2
+                     Bomberman: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman Scared Monkey
+Monkey: Bomberman Scared Spock
+Bomberman: Monkey Scared Spock
+Scared: Monkey Bomberman Spock
+Generated: 2014/08/12 09:15:25.088751732 UTC

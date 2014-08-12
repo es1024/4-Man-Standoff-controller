@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock Zaenille
+                 InputAnalyzer: Dd,Db,Dd,Sa
+      PoliticallyCorrectGunman: N,N,N,Sb
+                         Spock: N,N,N,Sd
+                      Zaenille: Sd,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -2
+                         Spock: 5
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: Zaenille InputAnalyzer Spock
+Spock: Zaenille InputAnalyzer PoliticallyCorrectGunman
+Zaenille: Spock InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 06:37:15.319062425 UTC

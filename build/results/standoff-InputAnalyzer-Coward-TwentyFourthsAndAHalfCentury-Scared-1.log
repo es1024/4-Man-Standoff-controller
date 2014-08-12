@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward TwentyFourthsAndAHalfCentury Scared
+                 InputAnalyzer: Dc,P,N,Dc,N,N,N,N
+                        Coward: Sa,N,Sa,N,Dd,Dd,Da,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Dd,Sb,N
+                        Scared: N,N,N,N,N,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -5
+                        Coward: 0
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Scared Coward
+Coward: TwentyFourthsAndAHalfCentury Scared InputAnalyzer
+TwentyFourthsAndAHalfCentury: Coward Scared InputAnalyzer
+Scared: Coward TwentyFourthsAndAHalfCentury InputAnalyzer
+Generated: 2014/08/12 06:47:37.032149479 UTC

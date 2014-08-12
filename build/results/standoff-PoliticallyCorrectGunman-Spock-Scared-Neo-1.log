@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Scared Neo
+      PoliticallyCorrectGunman: Db,N,Dd,Db,P,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sa
+                        Scared: Sd,N,Sa,N,Sb,N,N
+                           Neo: N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+                         Spock: 0
+                        Scared: -1
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared Neo Spock
+Spock: Scared Neo PoliticallyCorrectGunman
+Scared: Spock Neo PoliticallyCorrectGunman
+Neo: Spock Scared PoliticallyCorrectGunman
+Generated: 2014/08/12 08:47:32.103496800 UTC

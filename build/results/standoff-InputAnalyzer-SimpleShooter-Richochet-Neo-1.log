@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Richochet Neo
+                 InputAnalyzer: Dc,Db,P,Dd,Da
+                 SimpleShooter: Sa,N,Sd,N,Sc
+                     Richochet: Sa,N,Sb,N,Sb
+                           Neo: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: -2
+                     Richochet: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Neo SimpleShooter
+SimpleShooter: Richochet Neo InputAnalyzer
+Richochet: SimpleShooter Neo InputAnalyzer
+Neo: SimpleShooter Richochet InputAnalyzer
+Generated: 2014/08/12 08:02:10.855837748 UTC

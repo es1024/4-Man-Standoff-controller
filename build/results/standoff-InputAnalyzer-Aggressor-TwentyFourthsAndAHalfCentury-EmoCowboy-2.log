@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury EmoCowboy
+                 InputAnalyzer: Dd,Dc,N
+                     Aggressor: P,Ta,Sc
+  TwentyFourthsAndAHalfCentury: Da,Da,Sb
+                     EmoCowboy: Sd,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: EmoCowboy InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy InputAnalyzer Aggressor
+EmoCowboy: TwentyFourthsAndAHalfCentury InputAnalyzer Aggressor
+Generated: 2014/08/12 09:30:43.336769395 UTC

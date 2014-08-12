@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo EmoCowboy Sniper
+                 InputAnalyzer: Dc,Da,P,Dd,Da
+                       HanSolo: Sc,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N
+                        Sniper: Sa,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 2
+                     EmoCowboy: -4
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Sniper HanSolo
+HanSolo: EmoCowboy Sniper InputAnalyzer
+EmoCowboy: HanSolo Sniper InputAnalyzer
+Sniper: HanSolo EmoCowboy InputAnalyzer
+Generated: 2014/08/12 08:32:23.809058449 UTC

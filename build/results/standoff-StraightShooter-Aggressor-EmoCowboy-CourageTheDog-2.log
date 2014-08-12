@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor EmoCowboy CourageTheDog
+               StraightShooter: Sb,N
+                     Aggressor: P,Td
+                     EmoCowboy: Sc,N
+                 CourageTheDog: Sa,N
+Final Health:
+               StraightShooter: 0
+                     Aggressor: 0
+                     EmoCowboy: -2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Aggressor EmoCowboy
+Aggressor: CourageTheDog StraightShooter EmoCowboy
+EmoCowboy: CourageTheDog StraightShooter Aggressor
+CourageTheDog: EmoCowboy StraightShooter Aggressor
+Generated: 2014/08/12 07:19:21.818188580 UTC

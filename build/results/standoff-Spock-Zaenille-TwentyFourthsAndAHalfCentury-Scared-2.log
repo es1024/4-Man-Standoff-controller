@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille TwentyFourthsAndAHalfCentury Scared
+                         Spock: Sd,N,Sd,N,Sd,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Dd,N,Da,Sa,N,Sa
+                        Scared: Sb,N,Sa,N,Sc,N,N,N
+Final Health:
+                         Spock: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Scared Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Spock Zaenille
+Scared: TwentyFourthsAndAHalfCentury Spock Zaenille
+Generated: 2014/08/12 10:30:23.927629402 UTC

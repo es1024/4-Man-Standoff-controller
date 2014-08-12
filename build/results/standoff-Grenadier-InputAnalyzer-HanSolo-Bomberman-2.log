@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer HanSolo Bomberman
+                     Grenadier: N,N,N,N,P
+                 InputAnalyzer: Dd,P,Dd,Db,N
+                       HanSolo: Sd,N,Sd,N,Sa
+                     Bomberman: N,N,N,N,N
+Final Health:
+                     Grenadier: -6
+                 InputAnalyzer: -1
+                       HanSolo: -1
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman InputAnalyzer HanSolo
+InputAnalyzer: Bomberman Grenadier HanSolo
+HanSolo: Bomberman Grenadier InputAnalyzer
+Bomberman: HanSolo Grenadier InputAnalyzer
+Generated: 2014/08/12 05:55:30.665247449 UTC

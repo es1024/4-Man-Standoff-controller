@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Sniper Scared
+      PoliticallyCorrectGunman: N,N,Sb,N,N,Dc,Dd,N,N,Dd,Sb,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sc,N,Sa,N,Sa,N,Sc,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -4
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper Scared Zaenille
+Zaenille: Sniper Scared PoliticallyCorrectGunman
+Sniper: Zaenille Scared PoliticallyCorrectGunman
+Scared: Zaenille Sniper PoliticallyCorrectGunman
+Generated: 2014/08/12 10:47:07.253666987 UTC

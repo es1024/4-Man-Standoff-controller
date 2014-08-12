@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Aggressor Bomberman
+               StraightShooter: Sb,N
+                 DONTNUKEMEBRO: Dc,Sc
+                     Aggressor: P,Td
+                     Bomberman: N,N
+Final Health:
+               StraightShooter: 2
+                 DONTNUKEMEBRO: 0
+                     Aggressor: 0
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman DONTNUKEMEBRO Aggressor
+DONTNUKEMEBRO: Bomberman StraightShooter Aggressor
+Aggressor: Bomberman StraightShooter DONTNUKEMEBRO
+Bomberman: Aggressor StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 06:47:43.691367773 UTC

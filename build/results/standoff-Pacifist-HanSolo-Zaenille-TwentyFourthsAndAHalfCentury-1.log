@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Zaenille TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Da,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille TwentyFourthsAndAHalfCentury HanSolo
+HanSolo: Zaenille TwentyFourthsAndAHalfCentury Pacifist
+Zaenille: HanSolo TwentyFourthsAndAHalfCentury Pacifist
+TwentyFourthsAndAHalfCentury: HanSolo Zaenille Pacifist
+Generated: 2014/08/12 07:30:02.919753575 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Aggressor TwentyFourthsAndAHalfCentury
+                         Spock: Sb,N
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: Dc,Dc
+Final Health:
+                         Spock: -3
+                 SimpleShooter: 0
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Aggressor TwentyFourthsAndAHalfCentury
+SimpleShooter: Spock Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Spock SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Spock SimpleShooter Aggressor
+Generated: 2014/08/12 07:52:27.621759107 UTC

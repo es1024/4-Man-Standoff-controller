@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Bomberman Scared CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,N
+                     Bomberman: N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sb,N,Sb
+                 CourageTheDog: Sa,N,Sc,N,Sa,N,N
+Final Health:
+               StraightShooter: -1
+                     Bomberman: -1
+                        Scared: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared CourageTheDog Bomberman
+Bomberman: Scared CourageTheDog StraightShooter
+Scared: Bomberman CourageTheDog StraightShooter
+CourageTheDog: Bomberman Scared StraightShooter
+Generated: 2014/08/12 08:08:01.614299126 UTC

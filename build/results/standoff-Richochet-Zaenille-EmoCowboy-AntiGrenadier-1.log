@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille EmoCowboy AntiGrenadier
+                     Richochet: Sb,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -4
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy AntiGrenadier Zaenille
+Zaenille: EmoCowboy AntiGrenadier Richochet
+EmoCowboy: Zaenille AntiGrenadier Richochet
+AntiGrenadier: Zaenille EmoCowboy Richochet
+Generated: 2014/08/12 10:14:07.844112307 UTC

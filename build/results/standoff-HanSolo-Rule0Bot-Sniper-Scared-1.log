@@ -1,0 +1,16 @@
+Standoff between: HanSolo Rule0Bot Sniper Scared
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Scared Rule0Bot
+Rule0Bot: Sniper Scared HanSolo
+Sniper: Rule0Bot Scared HanSolo
+Scared: Rule0Bot Sniper HanSolo
+Generated: 2014/08/12 06:36:42.183753270 UTC

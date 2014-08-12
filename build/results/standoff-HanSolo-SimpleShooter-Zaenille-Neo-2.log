@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Zaenille Neo
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb
+                 SimpleShooter: Sc,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                           Neo: N,N,Db,N,Db,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 3
+                      Zaenille: -4
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo SimpleShooter Zaenille
+SimpleShooter: Neo HanSolo Zaenille
+Zaenille: Neo HanSolo SimpleShooter
+Neo: Zaenille HanSolo SimpleShooter
+Generated: 2014/08/12 06:02:41.772589934 UTC

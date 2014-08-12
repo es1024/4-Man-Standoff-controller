@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter AntiGrenadier Sniper
+                     Grenadier: N,P,Tb
+                 SimpleShooter: Sd,N,Sc
+                 AntiGrenadier: N,N,Sa
+                        Sniper: Sa,N,Sa
+Final Health:
+                     Grenadier: -4
+                 SimpleShooter: -3
+                 AntiGrenadier: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter AntiGrenadier Sniper
+SimpleShooter: Grenadier AntiGrenadier Sniper
+AntiGrenadier: Grenadier SimpleShooter Sniper
+Sniper: Grenadier SimpleShooter AntiGrenadier
+Generated: 2014/08/12 05:52:42.962956718 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Ninja AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                         Ninja: Dc,Da,Db,Db,Dc,Da,Da,Db,Dd,Da,Dc,Db,Db,Da,Dc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                         Ninja: -1
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Spock Ninja
+Spock: AntiGrenadier HanSolo Ninja
+Ninja: AntiGrenadier HanSolo Spock
+AntiGrenadier: Ninja HanSolo Spock
+Generated: 2014/08/12 07:26:51.794278568 UTC

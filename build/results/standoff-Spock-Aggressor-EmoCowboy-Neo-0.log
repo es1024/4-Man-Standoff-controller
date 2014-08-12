@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor EmoCowboy Neo
+                         Spock: Sb,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sc,N
+                           Neo: N,Db
+Final Health:
+                         Spock: -3
+                     Aggressor: 0
+                     EmoCowboy: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Aggressor EmoCowboy Neo
+Aggressor: Spock EmoCowboy Neo
+EmoCowboy: Spock Aggressor Neo
+Neo: Spock Aggressor EmoCowboy
+Generated: 2014/08/12 06:35:08.279552841 UTC

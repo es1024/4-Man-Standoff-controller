@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Ninja AntiGrenadier
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dc,Dc,Dd,Da,Dd,Da,Dd,N,N,Dd,Dd,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Db,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: AntiGrenadier Coward Ninja
+Ninja: AntiGrenadier Coward TwentyFourthsAndAHalfCentury
+AntiGrenadier: Ninja Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:29:01.457290537 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock EmoCowboy Neo
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Spock: N,N,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: N,N,N,Sc,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo Spock EmoCowboy
+Spock: Neo HanSolo EmoCowboy
+EmoCowboy: Neo HanSolo Spock
+Neo: EmoCowboy HanSolo Spock
+Generated: 2014/08/12 08:41:08.756083596 UTC

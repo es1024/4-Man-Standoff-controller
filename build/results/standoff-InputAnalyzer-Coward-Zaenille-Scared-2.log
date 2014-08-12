@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Zaenille Scared
+                 InputAnalyzer: Dd,Sc,N,Db,Dd,Dc,Sb,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N
+                        Scared: N,Sb,N,N,N,N,N,Sb
+Final Health:
+                 InputAnalyzer: -1
+                        Coward: -1
+                      Zaenille: -4
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Coward Zaenille
+Coward: Scared InputAnalyzer Zaenille
+Zaenille: Scared InputAnalyzer Coward
+Scared: Zaenille InputAnalyzer Coward
+Generated: 2014/08/12 07:31:39.343388389 UTC

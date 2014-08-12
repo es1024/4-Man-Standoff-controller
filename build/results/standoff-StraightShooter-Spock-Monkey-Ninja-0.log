@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Monkey Ninja
+               StraightShooter: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,Sc,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N
+                        Monkey: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Dc,Db,Dc,Dd,Db,Dd,Da,Db,Dd,Da,Dc,Db,Dd,Dc,Da,Db,Db,Da,Dd,Dd,Da,Da,Dd,Db,Da,Db,Dd,Dc,Dc,Db,Dd,Dc,Dd,Dc,Dc,Db,Da,Dd,Da,Db,Dc,Dd,Dc,Dc,Db,Da,Dd,Da
+Final Health:
+               StraightShooter: -1
+                         Spock: -15
+                        Monkey: -1
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Monkey Ninja
+Spock: StraightShooter Monkey Ninja
+Monkey: StraightShooter Spock Ninja
+Ninja: StraightShooter Spock Monkey
+Generated: 2014/08/12 05:48:49.331964832 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Sniper Neo
+                 InputAnalyzer: Dc,Db,P,Dc,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,N
+                        Sniper: Sa,N,Sb,N,Sa,N,Sd
+                           Neo: N,N,Da,N,N,Sb,N
+Final Health:
+                 InputAnalyzer: -9
+                        Coward: 0
+                        Sniper: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Neo Coward
+Coward: Sniper Neo InputAnalyzer
+Sniper: Coward Neo InputAnalyzer
+Neo: Coward Sniper InputAnalyzer
+Generated: 2014/08/12 07:51:59.386026769 UTC

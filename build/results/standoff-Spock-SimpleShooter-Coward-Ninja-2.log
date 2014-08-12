@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Coward Ninja
+                         Spock: Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Da,Sa,N
+                         Ninja: Dd,Dd,Dc,Db,Dc,N,N,N,N
+Final Health:
+                         Spock: 1
+                 SimpleShooter: -1
+                        Coward: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja SimpleShooter Coward
+SimpleShooter: Ninja Spock Coward
+Coward: Ninja Spock SimpleShooter
+Ninja: Coward Spock SimpleShooter
+Generated: 2014/08/12 08:41:56.782468359 UTC

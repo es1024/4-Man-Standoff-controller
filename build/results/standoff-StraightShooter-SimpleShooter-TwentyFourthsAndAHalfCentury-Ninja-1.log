@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter TwentyFourthsAndAHalfCentury Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,Sc,N,Sa,N,Sc
+  TwentyFourthsAndAHalfCentury: N,Dd,Da,Dd,Db,Dd,Dd,N,Da,Sb,N
+                         Ninja: Dd,Db,Da,Da,Dd,Dd,Db,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Ninja SimpleShooter
+SimpleShooter: TwentyFourthsAndAHalfCentury Ninja StraightShooter
+TwentyFourthsAndAHalfCentury: SimpleShooter Ninja StraightShooter
+Ninja: SimpleShooter TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 08:55:04.481663746 UTC

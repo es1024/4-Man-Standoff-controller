@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Bomberman Rule0Bot
+      PoliticallyCorrectGunman: Dd,Sa,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Richochet: 5
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Richochet Bomberman
+Richochet: Rule0Bot PoliticallyCorrectGunman Bomberman
+Bomberman: Rule0Bot PoliticallyCorrectGunman Richochet
+Rule0Bot: Bomberman PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 09:53:41.191250812 UTC

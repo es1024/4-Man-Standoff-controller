@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo TwentyFourthsAndAHalfCentury EmoCowboy
+               StraightShooter: Sc,N,Sc,N,Sc,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo TwentyFourthsAndAHalfCentury EmoCowboy
+HanSolo: StraightShooter TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: StraightShooter HanSolo EmoCowboy
+EmoCowboy: StraightShooter HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:57:47.042722438 UTC

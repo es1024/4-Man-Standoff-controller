@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo DONTNUKEMEBRO Coward
+                 InputAnalyzer: Db,P,Da,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sd,N
+                 DONTNUKEMEBRO: Db,Dd,Sa,N,N,N
+                        Coward: Sc,N,Sc,N,Db,Sb
+Final Health:
+                 InputAnalyzer: -5
+                       HanSolo: 0
+                 DONTNUKEMEBRO: -2
+                        Coward: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo DONTNUKEMEBRO Coward
+HanSolo: InputAnalyzer DONTNUKEMEBRO Coward
+DONTNUKEMEBRO: InputAnalyzer HanSolo Coward
+Coward: InputAnalyzer HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 07:20:28.023834347 UTC

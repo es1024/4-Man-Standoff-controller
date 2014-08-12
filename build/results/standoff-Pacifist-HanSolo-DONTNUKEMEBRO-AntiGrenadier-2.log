@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo DONTNUKEMEBRO AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Dd,Db,Db,Dd,Da,Da,Db,Dd,Dd,Db,Dd,Dd,Dd,Dd,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier HanSolo DONTNUKEMEBRO
+HanSolo: AntiGrenadier Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: AntiGrenadier Pacifist HanSolo
+AntiGrenadier: DONTNUKEMEBRO Pacifist HanSolo
+Generated: 2014/08/12 06:11:50.845535705 UTC

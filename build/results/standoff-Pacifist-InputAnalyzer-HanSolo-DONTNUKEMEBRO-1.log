@@ -1,16 +1,16 @@
 Standoff between: Pacifist InputAnalyzer HanSolo DONTNUKEMEBRO
-                      Pacifist: N,N,N,N,N,N,N,N,N
-                 InputAnalyzer: Dc,Da,Dc,P,Db,Dc,N,N,N
-                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sa
-                 DONTNUKEMEBRO: Da,Da,Da,Da,Sb,N,Da,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,Dc,Sa,N,Dc,Da,Dc,P,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Dc,Dc,Da,Db,Db,Db,Da,Dc,Dc,Sc
 Final Health:
                       Pacifist: 0
-                 InputAnalyzer: -5
-                       HanSolo: 2
+                 InputAnalyzer: -7
+                       HanSolo: 0
                  DONTNUKEMEBRO: 0
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: HanSolo DONTNUKEMEBRO InputAnalyzer
 InputAnalyzer: HanSolo DONTNUKEMEBRO Pacifist
 HanSolo: InputAnalyzer DONTNUKEMEBRO Pacifist
 DONTNUKEMEBRO: InputAnalyzer HanSolo Pacifist
-Generated: 2014/08/11 00:59:21.743522381 UTC
+Generated: 2014/08/12 09:13:14.601565458 UTC

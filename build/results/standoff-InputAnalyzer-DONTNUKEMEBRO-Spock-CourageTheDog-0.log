@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock CourageTheDog
+                 InputAnalyzer: Db,Dd,Db,Da,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dd,Dc,Da,Dc,Dc,Da,Dd,Da,Dd,Da,Da,Da,Dc,Dd,Dd,Sd,N,Da,Sd,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,Sb,N,Sd,N,Sd
+                 CourageTheDog: Sc,N,Db,Da,Da,Db,Db,Db,Db,Db,Dc,Db,Dc,Db,Sb,N,Dc,Sb,N,Sb,N,Dc,Dc,Sc,N
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: -1
+                         Spock: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Spock CourageTheDog
+DONTNUKEMEBRO: InputAnalyzer Spock CourageTheDog
+Spock: InputAnalyzer DONTNUKEMEBRO CourageTheDog
+CourageTheDog: InputAnalyzer DONTNUKEMEBRO Spock
+Generated: 2014/08/12 09:05:21.528255195 UTC

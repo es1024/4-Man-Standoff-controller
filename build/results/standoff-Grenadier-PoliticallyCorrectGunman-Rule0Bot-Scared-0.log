@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Rule0Bot Scared
+                     Grenadier: P,Tb
+      PoliticallyCorrectGunman: N,Dc
+                      Rule0Bot: N,Sa
+                        Scared: Sc,N
+Final Health:
+                     Grenadier: 0
+      PoliticallyCorrectGunman: -3
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Rule0Bot Scared
+PoliticallyCorrectGunman: Grenadier Rule0Bot Scared
+Rule0Bot: Grenadier PoliticallyCorrectGunman Scared
+Scared: Grenadier PoliticallyCorrectGunman Rule0Bot
+Generated: 2014/08/12 09:58:54.084879247 UTC

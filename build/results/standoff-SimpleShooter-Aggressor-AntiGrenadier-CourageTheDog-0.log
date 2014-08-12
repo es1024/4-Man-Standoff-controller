@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor AntiGrenadier CourageTheDog
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Tc
+                 AntiGrenadier: N,Sb
+                 CourageTheDog: Sa,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 0
+                 AntiGrenadier: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor AntiGrenadier CourageTheDog
+Aggressor: SimpleShooter AntiGrenadier CourageTheDog
+AntiGrenadier: SimpleShooter Aggressor CourageTheDog
+CourageTheDog: SimpleShooter Aggressor AntiGrenadier
+Generated: 2014/08/12 08:29:32.386419138 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman HanSolo Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+      PoliticallyCorrectGunman: N,Da,Da,Da,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                         Ninja: Da,Dc,Dd,Db,Da,Dc,Dc,Db,Dc,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Ninja PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo Ninja StraightShooter
+HanSolo: PoliticallyCorrectGunman Ninja StraightShooter
+Ninja: PoliticallyCorrectGunman HanSolo StraightShooter
+Generated: 2014/08/12 08:03:20.319873075 UTC

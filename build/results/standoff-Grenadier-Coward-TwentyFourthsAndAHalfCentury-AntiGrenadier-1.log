@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Grenadier: P,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Db,Dd,Dd,Sb
+                 AntiGrenadier: N,Sa,N,N,N,N
+Final Health:
+                     Grenadier: -7
+                        Coward: 0
+  TwentyFourthsAndAHalfCentury: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury AntiGrenadier Coward
+Coward: TwentyFourthsAndAHalfCentury AntiGrenadier Grenadier
+TwentyFourthsAndAHalfCentury: Coward AntiGrenadier Grenadier
+AntiGrenadier: Coward TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 08:48:13.627825405 UTC

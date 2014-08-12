@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Monkey Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: Sc,N,Sa,N,Sc,N,Dc,P,N,N
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -1
+                        Monkey: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Monkey Neo
+PoliticallyCorrectGunman: StraightShooter Monkey Neo
+Monkey: StraightShooter PoliticallyCorrectGunman Neo
+Neo: StraightShooter PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 09:15:12.648105045 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo DONTNUKEMEBRO Bomberman
+               StraightShooter: Sc,N,Sc,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd,N,Sd,N,Sd
+                 DONTNUKEMEBRO: Dd,Db,Sa,N,Sa,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+                 DONTNUKEMEBRO: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo DONTNUKEMEBRO Bomberman
+HanSolo: StraightShooter DONTNUKEMEBRO Bomberman
+DONTNUKEMEBRO: StraightShooter HanSolo Bomberman
+Bomberman: StraightShooter HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 07:34:33.381202723 UTC

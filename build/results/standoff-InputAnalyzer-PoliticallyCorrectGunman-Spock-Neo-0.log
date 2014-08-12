@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock Neo
+                 InputAnalyzer: Db,Sc,N,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Sa,N,Dc,Dd,Sd,N,Dd,N,N,N,N,N,N,N,N,Sc,N,Sc
+                         Spock: Sa,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,N,N,N,N,N,Sd,N,Sa,N
+                           Neo: N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: 5
+                         Spock: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Spock Neo
+PoliticallyCorrectGunman: InputAnalyzer Spock Neo
+Spock: InputAnalyzer PoliticallyCorrectGunman Neo
+Neo: InputAnalyzer PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 06:36:34.322003599 UTC

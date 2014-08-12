@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Monkey Scared
+                     Grenadier: P,Tb
+                         Spock: Sd,N
+                        Monkey: N,Sd
+                        Scared: N,Sa
+Final Health:
+                     Grenadier: 0
+                         Spock: -3
+                        Monkey: 2
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Spock Monkey
+Spock: Scared Grenadier Monkey
+Monkey: Scared Grenadier Spock
+Scared: Monkey Grenadier Spock
+Generated: 2014/08/12 08:31:11.324745202 UTC

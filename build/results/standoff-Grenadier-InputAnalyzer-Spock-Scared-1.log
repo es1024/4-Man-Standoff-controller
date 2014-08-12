@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Spock Scared
+                     Grenadier: N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,P,Da,Dc,N
+                         Spock: N,N,Sb,N,Sb,N
+                        Scared: N,Sc,N,Sb,N,Sa
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: -5
+                         Spock: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Scared InputAnalyzer
+InputAnalyzer: Spock Scared Grenadier
+Spock: InputAnalyzer Scared Grenadier
+Scared: InputAnalyzer Spock Grenadier
+Generated: 2014/08/12 06:59:36.058335003 UTC

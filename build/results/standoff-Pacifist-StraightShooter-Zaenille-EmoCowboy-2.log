@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Zaenille EmoCowboy
+                      Pacifist: N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: 5
+                      Zaenille: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy StraightShooter Zaenille
+StraightShooter: EmoCowboy Pacifist Zaenille
+Zaenille: EmoCowboy Pacifist StraightShooter
+EmoCowboy: Zaenille Pacifist StraightShooter
+Generated: 2014/08/12 06:12:58.092495708 UTC

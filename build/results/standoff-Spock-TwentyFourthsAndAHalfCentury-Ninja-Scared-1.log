@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury Ninja Scared
+                         Spock: N,N,N,Sc,N,Sd,N,Sd,N,Sb,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N,Sd,N,Sa,N,Sd,N,Sc,N,N
+                         Ninja: Dc,Db,Db,Da,Dc,Db,Db,Dd,Da,Dc,Da,Dc
+                        Scared: N,N,N,Sb,N,Sc,N,Sb,N,N,N,N
+Final Health:
+                         Spock: 3
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Scared Spock
+Ninja: TwentyFourthsAndAHalfCentury Scared Spock
+Scared: TwentyFourthsAndAHalfCentury Ninja Spock
+Generated: 2014/08/12 09:19:42.117829693 UTC

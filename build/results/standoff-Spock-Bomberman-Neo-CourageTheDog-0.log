@@ -1,0 +1,16 @@
+Standoff between: Spock Bomberman Neo CourageTheDog
+                         Spock: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Dd,Dd,Dd,Sd,N,Dd,N,Sa
+                 CourageTheDog: Sa,N,Dc,Da,Sa,N,Dc,Da,Dc,N
+Final Health:
+                         Spock: -1
+                     Bomberman: -1
+                           Neo: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman Neo CourageTheDog
+Bomberman: Spock Neo CourageTheDog
+Neo: Spock Bomberman CourageTheDog
+CourageTheDog: Spock Bomberman Neo
+Generated: 2014/08/12 09:27:44.310672575 UTC

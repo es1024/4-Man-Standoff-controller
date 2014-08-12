@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet TwentyFourthsAndAHalfCentury Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sc,N,Sd,N,Sd,N,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: Db,Da,Da,Da,Dd,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,Sa,N,Sb,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared Richochet TwentyFourthsAndAHalfCentury
+Richochet: Scared Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Pacifist Richochet
+Scared: TwentyFourthsAndAHalfCentury Pacifist Richochet
+Generated: 2014/08/12 06:53:51.709229060 UTC

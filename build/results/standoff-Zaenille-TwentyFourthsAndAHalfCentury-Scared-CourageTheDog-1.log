@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Scared CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Sc,N,Db,Db,Sb,N,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Scared CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared CourageTheDog Zaenille
+Scared: TwentyFourthsAndAHalfCentury CourageTheDog Zaenille
+CourageTheDog: TwentyFourthsAndAHalfCentury Scared Zaenille
+Generated: 2014/08/12 07:23:14.901954907 UTC

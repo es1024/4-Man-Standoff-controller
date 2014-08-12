@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Bomberman Scared
+                     Grenadier: N,N,P,Td
+                     Richochet: Sc,N,Sc,N
+                     Bomberman: N,N,N,N
+                        Scared: N,Sb,N,Sa
+Final Health:
+                     Grenadier: 0
+                     Richochet: 0
+                     Bomberman: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Scared Richochet
+Richochet: Bomberman Scared Grenadier
+Bomberman: Richochet Scared Grenadier
+Scared: Richochet Bomberman Grenadier
+Generated: 2014/08/12 08:41:49.811861071 UTC

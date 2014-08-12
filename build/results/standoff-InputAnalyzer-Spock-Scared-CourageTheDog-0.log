@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Scared CourageTheDog
+                 InputAnalyzer: Db,Da,Da,Dc,Dd,P,Sb,N
+                         Spock: Sa,N,Sc,N,Sc,N,Sa,N
+                        Scared: Sb,N,Sa,N,Sd,N,N,N
+                 CourageTheDog: Sc,N,Dc,Db,Sc,N,P,Tb
+Final Health:
+                 InputAnalyzer: -8
+                         Spock: -10
+                        Scared: -3
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Scared CourageTheDog
+Spock: InputAnalyzer Scared CourageTheDog
+Scared: InputAnalyzer Spock CourageTheDog
+CourageTheDog: InputAnalyzer Spock Scared
+Generated: 2014/08/12 06:18:08.812226255 UTC

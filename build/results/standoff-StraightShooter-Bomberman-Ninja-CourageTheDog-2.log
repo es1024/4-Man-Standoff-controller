@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Bomberman Ninja CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Db,Dc,Dc,Db,Da,Da,Db,Dc,Dc,Dd,Dc,Da,Db,Db,Dc,Da,Da,Da,Db,Db,Dd,Da
+                 CourageTheDog: Sa,N,Da,Da,Da,Da,Da,N,Da,N,Da,Dc,Sc,N,Dc,Sc,N,Sa,N,Dc,Dc,Sa,N,Sc
+Final Health:
+               StraightShooter: -1
+                     Bomberman: -1
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Bomberman Ninja
+Bomberman: CourageTheDog StraightShooter Ninja
+Ninja: CourageTheDog StraightShooter Bomberman
+CourageTheDog: Ninja StraightShooter Bomberman
+Generated: 2014/08/12 10:07:49.280154135 UTC

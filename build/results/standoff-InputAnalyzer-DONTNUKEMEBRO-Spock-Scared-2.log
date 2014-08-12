@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock Scared
+                 InputAnalyzer: Dd,Dc,P,Db,Sc
+                 DONTNUKEMEBRO: Dc,Dc,Dd,Sa,N
+                         Spock: Sd,N,N,N,N
+                        Scared: Sc,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: 2
+                         Spock: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Scared InputAnalyzer Spock
+Spock: Scared InputAnalyzer DONTNUKEMEBRO
+Scared: Spock InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 06:27:04.086406234 UTC

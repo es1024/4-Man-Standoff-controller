@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Ninja Neo
+                 InputAnalyzer: Dd,Dc,Db,Sb,N,P,N,Dd
+                        Monkey: N,N,Dc,Db,N,N,P,N
+                         Ninja: Dd,Da,Dd,Da,Da,Dc,Da,Dd
+                           Neo: N,Db,Db,Db,N,Db,N,N
+Final Health:
+                 InputAnalyzer: -4
+                        Monkey: -6
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Monkey Ninja
+Monkey: Neo InputAnalyzer Ninja
+Ninja: Neo InputAnalyzer Monkey
+Neo: Ninja InputAnalyzer Monkey
+Generated: 2014/08/12 09:45:11.286010979 UTC

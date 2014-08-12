@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Bomberman Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 InputAnalyzer: Dd,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Da,N,N,Dc,N,Dc,N,N,N,N,Da,N,N,N,N,Dc,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                 InputAnalyzer: -2
+                     Bomberman: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo InputAnalyzer Bomberman
+InputAnalyzer: Neo StraightShooter Bomberman
+Bomberman: Neo StraightShooter InputAnalyzer
+Neo: Bomberman StraightShooter InputAnalyzer
+Generated: 2014/08/12 08:01:09.432591055 UTC

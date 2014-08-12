@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sc,N,Sb,N,Sc,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Rule0Bot Scared
+SimpleShooter: Pacifist Rule0Bot Scared
+Rule0Bot: Pacifist SimpleShooter Scared
+Scared: Pacifist SimpleShooter Rule0Bot
+Generated: 2014/08/12 09:36:58.764427791 UTC

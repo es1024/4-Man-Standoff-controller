@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Spock TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dc,Sb,N,Db,Dc,P,N,Sa
+                       HanSolo: Sc,N,Sc,N,N,N,N,N
+                         Spock: Sb,N,Sb,N,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Da,Da,Da
+Final Health:
+                 InputAnalyzer: -8
+                       HanSolo: -1
+                         Spock: -2
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock TwentyFourthsAndAHalfCentury HanSolo
+HanSolo: Spock TwentyFourthsAndAHalfCentury InputAnalyzer
+Spock: HanSolo TwentyFourthsAndAHalfCentury InputAnalyzer
+TwentyFourthsAndAHalfCentury: HanSolo Spock InputAnalyzer
+Generated: 2014/08/12 09:53:27.354247224 UTC

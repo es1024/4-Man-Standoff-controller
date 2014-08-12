@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Db,Db,Dd,Sa,N,Sa,N,Sd,N,Sb,N,N,N,N,N,N,Sd,N,Sd,N
+                 CourageTheDog: Sb,N,Dc,Sc,N,Db,Dc,Db,Db,Db,Dc,Sb,N,Dc,N,Dc,Dc,Dc,N,Dc,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury CourageTheDog Monkey
+Monkey: TwentyFourthsAndAHalfCentury CourageTheDog Pacifist
+TwentyFourthsAndAHalfCentury: Monkey CourageTheDog Pacifist
+CourageTheDog: Monkey TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 07:57:45.175789223 UTC

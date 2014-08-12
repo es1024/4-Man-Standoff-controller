@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Bomberman Ninja
+                         Spock: Sd,N,N,N,N,N,N,N,N,N,Sc,N,Sd,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sa,N,Sd,N,Sd,N,Sa,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Db,Da,Dc,Da,Db,Dd,Db,Da,Dd,Db,Da,Db,Dc
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja SimpleShooter Bomberman
+SimpleShooter: Ninja Spock Bomberman
+Bomberman: Ninja Spock SimpleShooter
+Ninja: Bomberman Spock SimpleShooter
+Generated: 2014/08/12 08:46:29.637937131 UTC

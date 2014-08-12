@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Bomberman Ninja
+                     Richochet: Sb,N,Sb,N,Sb,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Db,Dd,Dc,Da,Dc,Dd,Dc,Dd,Da,Dc,Dd,Dc,Db,Da,Dc
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Monkey Bomberman
+Monkey: Ninja Richochet Bomberman
+Bomberman: Ninja Richochet Monkey
+Ninja: Bomberman Richochet Monkey
+Generated: 2014/08/12 06:14:36.578079906 UTC

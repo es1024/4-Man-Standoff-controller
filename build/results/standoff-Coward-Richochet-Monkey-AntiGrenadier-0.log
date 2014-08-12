@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Monkey AntiGrenadier
+                        Coward: Sd,N,Sd,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sc,N,Sc,N,Sc
+                        Monkey: N,Sa,N,Sa,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet Monkey AntiGrenadier
+Richochet: Coward Monkey AntiGrenadier
+Monkey: Coward Richochet AntiGrenadier
+AntiGrenadier: Coward Richochet Monkey
+Generated: 2014/08/12 07:39:30.255576519 UTC

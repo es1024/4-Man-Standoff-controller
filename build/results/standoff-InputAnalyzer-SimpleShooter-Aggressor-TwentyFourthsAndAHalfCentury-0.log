@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Aggressor TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,Dd,N
+                 SimpleShooter: Sd,N,Sc
+                     Aggressor: P,Ta,Sb
+  TwentyFourthsAndAHalfCentury: Da,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Aggressor TwentyFourthsAndAHalfCentury
+SimpleShooter: InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer SimpleShooter Aggressor
+Generated: 2014/08/12 06:23:24.836695184 UTC

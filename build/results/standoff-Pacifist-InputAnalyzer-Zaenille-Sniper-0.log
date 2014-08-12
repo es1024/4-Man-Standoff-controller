@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Zaenille Sniper
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dd,Db,Dd,P,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,Sa
+Final Health:
+                      Pacifist: -4
+                 InputAnalyzer: -1
+                      Zaenille: -2
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Zaenille Sniper
+InputAnalyzer: Pacifist Zaenille Sniper
+Zaenille: Pacifist InputAnalyzer Sniper
+Sniper: Pacifist InputAnalyzer Zaenille
+Generated: 2014/08/12 06:40:54.202350598 UTC

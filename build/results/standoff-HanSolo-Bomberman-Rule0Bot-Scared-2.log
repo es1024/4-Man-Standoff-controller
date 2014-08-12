@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman Rule0Bot Scared
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                     Bomberman: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Bomberman Rule0Bot
+Bomberman: Scared HanSolo Rule0Bot
+Rule0Bot: Scared HanSolo Bomberman
+Scared: Rule0Bot HanSolo Bomberman
+Generated: 2014/08/12 10:01:42.040423554 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Da,Sc,N,Da,Dc,Dc,Sc,N,Da,Da,Da,N,Dc,Da,Da,Dc,Da,N,Sa,N,Dc,Da,Da,Dc,Da,Dc,Dc,Sc,N,Da,Da,Da,Da,Da,Sa,N,Sa
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -4
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Rule0Bot CourageTheDog
+Zaenille: Pacifist Rule0Bot CourageTheDog
+Rule0Bot: Pacifist Zaenille CourageTheDog
+CourageTheDog: Pacifist Zaenille Rule0Bot
+Generated: 2014/08/12 07:58:40.402582128 UTC

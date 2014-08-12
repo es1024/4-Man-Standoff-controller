@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Aggressor Richochet
+                     Grenadier: N,N
+                        Coward: Sa,N
+                     Aggressor: P,Tb
+                     Richochet: Sc,N
+Final Health:
+                     Grenadier: 0
+                        Coward: -3
+                     Aggressor: 0
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Richochet Coward
+Coward: Aggressor Richochet Grenadier
+Aggressor: Coward Richochet Grenadier
+Richochet: Coward Aggressor Grenadier
+Generated: 2014/08/12 08:01:51.692580418 UTC

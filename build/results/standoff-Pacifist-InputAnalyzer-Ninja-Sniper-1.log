@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Ninja Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,Dc,Da,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Db,Db,Db,Db,Db,Db,Dd,Dd,Dd,Dd,Dd,Db,Db,Da,Da,Db,Db,Dd,Dd,Dc,Dc,Dd,Dd,Da,Da,Da,Da,Db,Db,Dd,Dc
+                        Sniper: Sb,N,Sc,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -17
+                 InputAnalyzer: -1
+                         Ninja: -17
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Sniper InputAnalyzer
+InputAnalyzer: Ninja Sniper Pacifist
+Ninja: InputAnalyzer Sniper Pacifist
+Sniper: InputAnalyzer Ninja Pacifist
+Generated: 2014/08/12 06:04:36.920384494 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Monkey Scared
+                       HanSolo: Sb,N,Sc,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+                      Zaenille: -4
+                        Monkey: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Monkey Scared
+Zaenille: HanSolo Monkey Scared
+Monkey: HanSolo Zaenille Scared
+Scared: HanSolo Zaenille Monkey
+Generated: 2014/08/12 06:26:55.255997534 UTC

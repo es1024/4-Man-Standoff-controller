@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Sniper Scared
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sc,N,Sd,N,Sd,N,Sc
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 3
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Sniper Scared
+Richochet: PoliticallyCorrectGunman Sniper Scared
+Sniper: PoliticallyCorrectGunman Richochet Scared
+Scared: PoliticallyCorrectGunman Richochet Sniper
+Generated: 2014/08/12 08:21:44.435030244 UTC

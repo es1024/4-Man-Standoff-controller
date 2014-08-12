@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Ninja Rule0Bot
+                 InputAnalyzer: Dc,Db,Sc,N,Dc,Sb,N,Da,P,Da,Dc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dc,Da,Dd,Da,Dc,Db,Dc,Dc,Da
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                     Bomberman: 0
+                         Ninja: 0
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Rule0Bot Bomberman
+Bomberman: Ninja Rule0Bot InputAnalyzer
+Ninja: Bomberman Rule0Bot InputAnalyzer
+Rule0Bot: Bomberman Ninja InputAnalyzer
+Generated: 2014/08/12 08:16:52.550903187 UTC

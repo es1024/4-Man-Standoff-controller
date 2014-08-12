@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Rule0Bot CourageTheDog
+                     Grenadier: P,N,N,N
+      PoliticallyCorrectGunman: Dd,N,Dd,Sd
+                      Rule0Bot: N,Sa,N,N
+                 CourageTheDog: Sb,N,Dc,Sc
+Final Health:
+                     Grenadier: -3
+      PoliticallyCorrectGunman: 2
+                      Rule0Bot: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Rule0Bot CourageTheDog
+PoliticallyCorrectGunman: Grenadier Rule0Bot CourageTheDog
+Rule0Bot: Grenadier PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: Grenadier PoliticallyCorrectGunman Rule0Bot
+Generated: 2014/08/12 08:12:18.561478612 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo EmoCowboy Rule0Bot
+                     Grenadier: P,Td,P
+                       HanSolo: Sc,N,Sa
+                     EmoCowboy: Sc,N,N
+                      Rule0Bot: N,N,N
+Final Health:
+                     Grenadier: -6
+                       HanSolo: -1
+                     EmoCowboy: -4
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Rule0Bot HanSolo
+HanSolo: EmoCowboy Rule0Bot Grenadier
+EmoCowboy: HanSolo Rule0Bot Grenadier
+Rule0Bot: HanSolo EmoCowboy Grenadier
+Generated: 2014/08/12 09:30:02.369626698 UTC

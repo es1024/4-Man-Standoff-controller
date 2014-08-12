@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Coward Zaenille
+                       HanSolo: Sd,N,Sb,N,Sc,N,Sc,N
+                 SimpleShooter: Sc,N,Sa,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sa,N,Da,Sa
+                      Zaenille: Sd,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: -1
+                        Coward: 1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille SimpleShooter Coward
+SimpleShooter: Zaenille HanSolo Coward
+Coward: Zaenille HanSolo SimpleShooter
+Zaenille: Coward HanSolo SimpleShooter
+Generated: 2014/08/12 07:41:47.834693996 UTC

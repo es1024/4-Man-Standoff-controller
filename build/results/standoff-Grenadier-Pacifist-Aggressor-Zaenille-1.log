@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Aggressor Zaenille
+                     Grenadier: N,N,N
+                      Pacifist: N,N,N
+                     Aggressor: P,Tb,Sa
+                      Zaenille: Sd,N,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -3
+                     Aggressor: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Zaenille Pacifist
+Pacifist: Aggressor Zaenille Grenadier
+Aggressor: Pacifist Zaenille Grenadier
+Zaenille: Pacifist Aggressor Grenadier
+Generated: 2014/08/12 08:04:53.019099499 UTC

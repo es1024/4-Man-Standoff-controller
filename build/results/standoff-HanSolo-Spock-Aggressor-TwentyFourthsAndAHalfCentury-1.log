@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Aggressor TwentyFourthsAndAHalfCentury
+                       HanSolo: Sc,N,Sd
+                         Spock: N,Sc,N
+                     Aggressor: P,Tb,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Sa
+Final Health:
+                       HanSolo: 0
+                         Spock: -3
+                     Aggressor: -2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor TwentyFourthsAndAHalfCentury Spock
+Spock: Aggressor TwentyFourthsAndAHalfCentury HanSolo
+Aggressor: Spock TwentyFourthsAndAHalfCentury HanSolo
+TwentyFourthsAndAHalfCentury: Spock Aggressor HanSolo
+Generated: 2014/08/12 07:02:59.521878479 UTC

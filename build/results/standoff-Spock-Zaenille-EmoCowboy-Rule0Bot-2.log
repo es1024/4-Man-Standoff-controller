@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille EmoCowboy Rule0Bot
+                         Spock: Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                      Rule0Bot: N,N,N,N,N
+Final Health:
+                         Spock: 5
+                      Zaenille: -2
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot Zaenille EmoCowboy
+Zaenille: Rule0Bot Spock EmoCowboy
+EmoCowboy: Rule0Bot Spock Zaenille
+Rule0Bot: EmoCowboy Spock Zaenille
+Generated: 2014/08/12 09:27:17.771752132 UTC

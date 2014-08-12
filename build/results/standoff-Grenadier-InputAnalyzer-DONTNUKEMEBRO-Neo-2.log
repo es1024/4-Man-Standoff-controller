@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer DONTNUKEMEBRO Neo
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Sa,N,Da,Db,Da,Dd,Da,Db,Dd,Db,Db,Dd,Db,Dd,Da,Dd,Dd,Db,Db,Da,Dd,Da,Dd,Da,Dd,Db,Dd,Db,Dd,Dd,Da,Db,Dd,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                           Neo: N,N,Db,Dc,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,Dc,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,Dc,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,Sc
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: Neo Grenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: Neo Grenadier InputAnalyzer
+Neo: DONTNUKEMEBRO Grenadier InputAnalyzer
+Generated: 2014/08/12 07:44:50.638262315 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Bomberman Rule0Bot
+      PoliticallyCorrectGunman: Dc,N,Sa,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: 5
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot HanSolo Bomberman
+HanSolo: Rule0Bot PoliticallyCorrectGunman Bomberman
+Bomberman: Rule0Bot PoliticallyCorrectGunman HanSolo
+Rule0Bot: Bomberman PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 07:32:46.624043684 UTC

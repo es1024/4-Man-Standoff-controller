@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey TwentyFourthsAndAHalfCentury Sniper
+                         Spock: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,Sb
+  TwentyFourthsAndAHalfCentury: Db,Db,Dd,Db,N,N,N,N,N,N,N,Sb,N,Sb,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper Monkey TwentyFourthsAndAHalfCentury
+Monkey: Sniper Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Spock Monkey
+Sniper: TwentyFourthsAndAHalfCentury Spock Monkey
+Generated: 2014/08/12 09:01:29.764289888 UTC

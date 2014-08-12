@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet AntiGrenadier Neo
+                     Grenadier: N,N,N,N,N,N,N,P,Tb
+                     Richochet: Sa,N,Sa,N,Sd,N,Sd,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,Sa
+                           Neo: N,N,N,N,N,N,Db,Da,N
+Final Health:
+                     Grenadier: -4
+                     Richochet: -3
+                 AntiGrenadier: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Richochet AntiGrenadier
+Richochet: Neo Grenadier AntiGrenadier
+AntiGrenadier: Neo Grenadier Richochet
+Neo: AntiGrenadier Grenadier Richochet
+Generated: 2014/08/12 05:50:36.277760535 UTC

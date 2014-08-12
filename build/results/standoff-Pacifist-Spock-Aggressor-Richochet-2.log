@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Aggressor Richochet
+                      Pacifist: N,N
+                         Spock: Sd,N
+                     Aggressor: P,Tb
+                     Richochet: Sa,N
+Final Health:
+                      Pacifist: 0
+                         Spock: -3
+                     Aggressor: 2
+                     Richochet: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Spock Aggressor
+Spock: Richochet Pacifist Aggressor
+Aggressor: Richochet Pacifist Spock
+Richochet: Aggressor Pacifist Spock
+Generated: 2014/08/12 09:30:44.569149225 UTC

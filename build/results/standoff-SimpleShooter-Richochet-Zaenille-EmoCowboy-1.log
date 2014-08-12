@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Zaenille EmoCowboy
+                 SimpleShooter: Sb,N,Sb,N,Sb
+                     Richochet: Sc,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                     Richochet: -1
+                      Zaenille: -4
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille EmoCowboy Richochet
+Richochet: Zaenille EmoCowboy SimpleShooter
+Zaenille: Richochet EmoCowboy SimpleShooter
+EmoCowboy: Richochet Zaenille SimpleShooter
+Generated: 2014/08/12 09:39:31.065409032 UTC

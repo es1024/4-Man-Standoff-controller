@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer EmoCowboy Neo
+                     Grenadier: P,Td,P,N,N
+                 InputAnalyzer: Dc,Dd,Db,Dd,Db
+                     EmoCowboy: Sc,N,N,N,N
+                           Neo: N,Da,N,N,N
+Final Health:
+                     Grenadier: -4
+                 InputAnalyzer: -1
+                     EmoCowboy: -2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Neo InputAnalyzer
+InputAnalyzer: EmoCowboy Neo Grenadier
+EmoCowboy: InputAnalyzer Neo Grenadier
+Neo: InputAnalyzer EmoCowboy Grenadier
+Generated: 2014/08/12 08:20:33.785710921 UTC

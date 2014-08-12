@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Coward Bomberman
+      PoliticallyCorrectGunman: Sb,N,Db,P,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N
+                        Coward: Sd,N,Sd,N,Sb,N
+                     Bomberman: N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                 SimpleShooter: -2
+                        Coward: 0
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Coward Bomberman
+SimpleShooter: PoliticallyCorrectGunman Coward Bomberman
+Coward: PoliticallyCorrectGunman SimpleShooter Bomberman
+Bomberman: PoliticallyCorrectGunman SimpleShooter Coward
+Generated: 2014/08/12 10:30:30.260527026 UTC

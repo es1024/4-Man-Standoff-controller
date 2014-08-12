@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Sniper CourageTheDog
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+                        Sniper: Sa,N
+                 CourageTheDog: Sb,N
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -4
+                        Sniper: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper CourageTheDog Zaenille
+Zaenille: Sniper CourageTheDog Aggressor
+Sniper: Zaenille CourageTheDog Aggressor
+CourageTheDog: Zaenille Sniper Aggressor
+Generated: 2014/08/12 10:02:41.617708453 UTC

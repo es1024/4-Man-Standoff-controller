@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Richochet TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N
+                     Aggressor: P,Td,N
+                     Richochet: Sb,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 0
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Aggressor Richochet
+Aggressor: TwentyFourthsAndAHalfCentury Pacifist Richochet
+Richochet: TwentyFourthsAndAHalfCentury Pacifist Aggressor
+TwentyFourthsAndAHalfCentury: Richochet Pacifist Aggressor
+Generated: 2014/08/12 08:56:32.795022779 UTC

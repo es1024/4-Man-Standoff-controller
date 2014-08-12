@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Aggressor Zaenille
+               StraightShooter: Sb,N
+      PoliticallyCorrectGunman: N,N
+                     Aggressor: P,Ta
+                      Zaenille: Sd,N
+Final Health:
+               StraightShooter: -3
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille PoliticallyCorrectGunman Aggressor
+PoliticallyCorrectGunman: Zaenille StraightShooter Aggressor
+Aggressor: Zaenille StraightShooter PoliticallyCorrectGunman
+Zaenille: Aggressor StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 06:42:45.380080405 UTC

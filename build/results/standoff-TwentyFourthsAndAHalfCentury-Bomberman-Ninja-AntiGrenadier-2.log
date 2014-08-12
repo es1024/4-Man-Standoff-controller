@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman Ninja AntiGrenadier
+  TwentyFourthsAndAHalfCentury: Dc,Db,Sd,N,Sd,N,Sc,N,Sd,N,N,N,N,N,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dc,Dd,Dc,Dc,Db,Da,Db,Da,Dd,Dd,Dc,Db,Da,Db,Db,Dc,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: AntiGrenadier Bomberman Ninja
+Bomberman: AntiGrenadier TwentyFourthsAndAHalfCentury Ninja
+Ninja: AntiGrenadier TwentyFourthsAndAHalfCentury Bomberman
+AntiGrenadier: Ninja TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 06:33:23.364842037 UTC

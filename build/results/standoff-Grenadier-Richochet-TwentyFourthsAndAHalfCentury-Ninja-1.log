@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet TwentyFourthsAndAHalfCentury Ninja
+                     Grenadier: P,N,N
+                     Richochet: Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Da,Dd
+                         Ninja: Dd,Da,Dc
+Final Health:
+                     Grenadier: -1
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Ninja Richochet
+Richochet: TwentyFourthsAndAHalfCentury Ninja Grenadier
+TwentyFourthsAndAHalfCentury: Richochet Ninja Grenadier
+Ninja: Richochet TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 05:46:22.972029496 UTC

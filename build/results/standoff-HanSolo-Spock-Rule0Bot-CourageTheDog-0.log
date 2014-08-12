@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Rule0Bot CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Dc,Sc,N,Dc,Da,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock Rule0Bot CourageTheDog
+Spock: HanSolo Rule0Bot CourageTheDog
+Rule0Bot: HanSolo Spock CourageTheDog
+CourageTheDog: HanSolo Spock Rule0Bot
+Generated: 2014/08/12 09:21:05.082724377 UTC

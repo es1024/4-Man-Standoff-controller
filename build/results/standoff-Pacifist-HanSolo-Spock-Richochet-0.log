@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Spock Richochet
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd
+                         Spock: Sa,N,Sa,N,Sb,N,N
+                     Richochet: Sb,N,Sc,N,Sc,N,Sb
+Final Health:
+                      Pacifist: -3
+                       HanSolo: -1
+                         Spock: -1
+                     Richochet: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Spock Richochet
+HanSolo: Pacifist Spock Richochet
+Spock: Pacifist HanSolo Richochet
+Richochet: Pacifist HanSolo Spock
+Generated: 2014/08/12 10:34:45.010106305 UTC

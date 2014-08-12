@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Monkey CourageTheDog
+      PoliticallyCorrectGunman: Sd,N,N,N,N,N,N,Dd,Sb,N,Dc,Sb,N,Sc,N
+                         Spock: Sc,N,N,N,N,N,Sc,N,Sd,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,Da,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Sc,N,Da,Sb,N,Db,Sa,N,Sa,N,Da,Sa
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                        Monkey: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey CourageTheDog Spock
+Spock: Monkey CourageTheDog PoliticallyCorrectGunman
+Monkey: Spock CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Spock Monkey PoliticallyCorrectGunman
+Generated: 2014/08/12 07:49:17.750213116 UTC

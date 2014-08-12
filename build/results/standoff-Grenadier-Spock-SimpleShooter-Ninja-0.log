@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock SimpleShooter Ninja
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sb,N,Sa,N,Sd,N,Sb
+                         Ninja: Da,Dd,Da,Dd,Da,Dd,Dc,Dd,Da,Db,Da,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: -1
+                 SimpleShooter: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock SimpleShooter Ninja
+Spock: Grenadier SimpleShooter Ninja
+SimpleShooter: Grenadier Spock Ninja
+Ninja: Grenadier Spock SimpleShooter
+Generated: 2014/08/12 08:22:57.431216147 UTC

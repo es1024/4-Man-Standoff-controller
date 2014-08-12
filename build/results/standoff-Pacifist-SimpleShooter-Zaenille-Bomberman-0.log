@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Zaenille Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Zaenille Bomberman
+SimpleShooter: Pacifist Zaenille Bomberman
+Zaenille: Pacifist SimpleShooter Bomberman
+Bomberman: Pacifist SimpleShooter Zaenille
+Generated: 2014/08/12 07:38:35.516655150 UTC

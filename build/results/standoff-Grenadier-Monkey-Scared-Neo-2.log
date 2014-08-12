@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Scared Neo
+                     Grenadier: N,N,N,P,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,Sa,N,N,N,N,N,N,N
+                        Scared: N,Sb,N,Sa,N,Sa,N,N,N,N,N,Sd
+                           Neo: N,N,N,Db,Db,Da,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -7
+                        Monkey: 0
+                        Scared: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Monkey Scared
+Monkey: Neo Grenadier Scared
+Scared: Neo Grenadier Monkey
+Neo: Scared Grenadier Monkey
+Generated: 2014/08/12 08:44:56.430754314 UTC

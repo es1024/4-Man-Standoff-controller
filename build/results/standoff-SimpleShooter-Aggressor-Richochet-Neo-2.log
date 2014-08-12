@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Richochet Neo
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Td
+                     Richochet: Sa,N
+                           Neo: N,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 2
+                     Richochet: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Aggressor Richochet
+Aggressor: Neo SimpleShooter Richochet
+Richochet: Neo SimpleShooter Aggressor
+Neo: Richochet SimpleShooter Aggressor
+Generated: 2014/08/12 07:21:18.787782766 UTC

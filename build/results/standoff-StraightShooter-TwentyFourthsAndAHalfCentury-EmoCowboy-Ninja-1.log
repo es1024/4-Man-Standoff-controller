@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Da,Dd,Da,Dd,Dd,Sa,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Da,Dd,Db,Da,Dc,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Ninja TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Ninja StraightShooter
+EmoCowboy: TwentyFourthsAndAHalfCentury Ninja StraightShooter
+Ninja: TwentyFourthsAndAHalfCentury EmoCowboy StraightShooter
+Generated: 2014/08/12 08:42:02.628189621 UTC

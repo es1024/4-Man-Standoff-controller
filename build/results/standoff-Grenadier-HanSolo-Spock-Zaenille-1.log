@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Spock Zaenille
+                     Grenadier: P,Tc
+                       HanSolo: Sc,N
+                         Spock: Sb,N
+                      Zaenille: Sd,N
+Final Health:
+                     Grenadier: 2
+                       HanSolo: 0
+                         Spock: -5
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Zaenille HanSolo
+HanSolo: Spock Zaenille Grenadier
+Spock: HanSolo Zaenille Grenadier
+Zaenille: HanSolo Spock Grenadier
+Generated: 2014/08/12 07:35:44.038107049 UTC

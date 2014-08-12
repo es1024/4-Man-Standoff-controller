@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Ninja Neo
+                     Richochet: Sb,N,Sd,N,Sc,N,Sc,N,Sd,N,Sd,N,Sb,N,Sc,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: N,N,Da,Dc,Dc,Dd,Da,Dd,Dc,Dd,Da,Dc,Da,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dc,Dd,Db,Dc,Db,Da,Dc,Dd,Da,Db,Da,Da,Dd,N,N,N,N
+                           Neo: N,N,Db,N,Db,N,N,Db,N,Db,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Neo Richochet Ninja
+Ninja: Neo Richochet TwentyFourthsAndAHalfCentury
+Neo: Ninja Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:48:01.623067781 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter PoliticallyCorrectGunman Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Da,N,N,Db,N,N,Da,N,Da,Db,N,N,N,N,N,N,N,N,N,N,N,Db,N,N,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,Da,N,N
+Final Health:
+                      Pacifist: -15
+               StraightShooter: -15
+      PoliticallyCorrectGunman: -1
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter PoliticallyCorrectGunman Neo
+StraightShooter: Pacifist PoliticallyCorrectGunman Neo
+PoliticallyCorrectGunman: Pacifist StraightShooter Neo
+Neo: Pacifist StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 10:19:28.333912585 UTC

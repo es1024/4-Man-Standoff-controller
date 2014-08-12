@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock TwentyFourthsAndAHalfCentury AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,N,Sd,N,Sd,N,N,N,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,Da,Dd,Da,N,N,N,N,N,N,N,N,N,N,Sb,N,Sa,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Spock TwentyFourthsAndAHalfCentury
+Spock: AntiGrenadier Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier Pacifist Spock
+AntiGrenadier: TwentyFourthsAndAHalfCentury Pacifist Spock
+Generated: 2014/08/12 10:10:43.270858255 UTC

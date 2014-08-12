@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock SimpleShooter TwentyFourthsAndAHalfCentury
+               StraightShooter: Sc,N,Sc,N,Sc,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sd
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Dc,N,Da,Sb,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock SimpleShooter TwentyFourthsAndAHalfCentury
+Spock: StraightShooter SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: StraightShooter Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: StraightShooter Spock SimpleShooter
+Generated: 2014/08/12 05:49:10.308503977 UTC

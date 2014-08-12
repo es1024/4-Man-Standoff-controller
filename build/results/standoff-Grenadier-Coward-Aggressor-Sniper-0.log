@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Aggressor Sniper
+                     Grenadier: N,P
+                        Coward: Sd,N
+                     Aggressor: P,Tb
+                        Sniper: Sa,N
+Final Health:
+                     Grenadier: -6
+                        Coward: -6
+                     Aggressor: -1
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Aggressor Sniper
+Coward: Grenadier Aggressor Sniper
+Aggressor: Grenadier Coward Sniper
+Sniper: Grenadier Coward Aggressor
+Generated: 2014/08/12 10:21:57.926187031 UTC

@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Aggressor AntiGrenadier Rule0Bot
+                 DONTNUKEMEBRO: Dd,Sb,N,Dc,Dc,Dd,Db,Dd,Dd,Dc,Db,Dd,Db,Dc,Dc,Dc,Dc,Dd,Dd,Dd,Dd,Db,Db,Dc,Dc,Dc,Dc,Dc,Dd,Db,Db,Db,Dc,Dc,Sc
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: 2
+                     Aggressor: -4
+                 AntiGrenadier: 0
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Rule0Bot Aggressor AntiGrenadier
+Aggressor: Rule0Bot DONTNUKEMEBRO AntiGrenadier
+AntiGrenadier: Rule0Bot DONTNUKEMEBRO Aggressor
+Rule0Bot: AntiGrenadier DONTNUKEMEBRO Aggressor
+Generated: 2014/08/12 10:14:08.163065349 UTC

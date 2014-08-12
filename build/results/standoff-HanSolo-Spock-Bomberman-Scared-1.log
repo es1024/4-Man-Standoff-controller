@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Bomberman Scared
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,N,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                         Spock: -1
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Scared Spock
+Spock: Bomberman Scared HanSolo
+Bomberman: Spock Scared HanSolo
+Scared: Spock Bomberman HanSolo
+Generated: 2014/08/12 08:36:06.454673953 UTC

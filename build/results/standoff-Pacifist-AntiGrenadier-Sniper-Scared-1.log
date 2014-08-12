@@ -1,0 +1,16 @@
+Standoff between: Pacifist AntiGrenadier Sniper Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sa,N,Sa,N,N,N,N,Sb,N
+                        Scared: Sc,N,Sa,N,Sb,N,Sc,N,Sb,N,Sc
+Final Health:
+                      Pacifist: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Scared AntiGrenadier
+AntiGrenadier: Sniper Scared Pacifist
+Sniper: AntiGrenadier Scared Pacifist
+Scared: AntiGrenadier Sniper Pacifist
+Generated: 2014/08/12 08:35:16.227205229 UTC

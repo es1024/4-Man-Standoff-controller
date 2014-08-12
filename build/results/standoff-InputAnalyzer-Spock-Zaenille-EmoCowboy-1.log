@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Zaenille EmoCowboy
+                 InputAnalyzer: Dc,Da,Sa
+                         Spock: Sc,N,N
+                      Zaenille: Sc,N,N
+                     EmoCowboy: Sd,N,N
+Final Health:
+                 InputAnalyzer: -2
+                         Spock: 5
+                      Zaenille: -4
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille EmoCowboy Spock
+Spock: Zaenille EmoCowboy InputAnalyzer
+Zaenille: Spock EmoCowboy InputAnalyzer
+EmoCowboy: Spock Zaenille InputAnalyzer
+Generated: 2014/08/12 05:59:12.599442716 UTC

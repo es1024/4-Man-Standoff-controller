@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Richochet Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Dc,N
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sa,N,Sc,N,Sa
+                     Richochet: Sd,N,Sd,N,Sb,N,Sd,N,Sb,N,N
+                           Neo: N,N,N,N,N,Da,Db,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: 1
+                     Richochet: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo SimpleShooter Richochet
+SimpleShooter: Neo PoliticallyCorrectGunman Richochet
+Richochet: Neo PoliticallyCorrectGunman SimpleShooter
+Neo: Richochet PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 10:48:01.643777274 UTC

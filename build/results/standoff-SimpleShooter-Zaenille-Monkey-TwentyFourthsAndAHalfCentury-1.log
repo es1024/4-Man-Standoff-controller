@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Monkey TwentyFourthsAndAHalfCentury
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N,N,Dc,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dc,Da,Dc,Dc,Dc,Dc,Dc,Dc,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -4
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey TwentyFourthsAndAHalfCentury Zaenille
+Zaenille: Monkey TwentyFourthsAndAHalfCentury SimpleShooter
+Monkey: Zaenille TwentyFourthsAndAHalfCentury SimpleShooter
+TwentyFourthsAndAHalfCentury: Zaenille Monkey SimpleShooter
+Generated: 2014/08/12 07:00:14.167510561 UTC

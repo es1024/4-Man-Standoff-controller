@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor TwentyFourthsAndAHalfCentury Scared
+                       HanSolo: Sb,N,N
+                     Aggressor: P,Ta,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Sd
+                        Scared: Sb,N,Sc
+Final Health:
+                       HanSolo: -3
+                     Aggressor: -2
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor TwentyFourthsAndAHalfCentury Scared
+Aggressor: HanSolo TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: HanSolo Aggressor Scared
+Scared: HanSolo Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:43:39.175515615 UTC

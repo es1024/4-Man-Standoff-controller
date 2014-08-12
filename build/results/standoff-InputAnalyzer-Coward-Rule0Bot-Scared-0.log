@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Rule0Bot Scared
+                 InputAnalyzer: Db,Sd,N,Sd,N,Sa,N
+                        Coward: Sd,N,Sd,N,Sc,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                        Coward: 3
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Rule0Bot Scared
+Coward: InputAnalyzer Rule0Bot Scared
+Rule0Bot: InputAnalyzer Coward Scared
+Scared: InputAnalyzer Coward Rule0Bot
+Generated: 2014/08/12 08:34:34.344940159 UTC

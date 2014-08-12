@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist InputAnalyzer Rule0Bot
+                     Grenadier: N,P,N,N,N
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Db,Da,P,Sa,N
+                      Rule0Bot: N,N,Sa,N,N
+Final Health:
+                     Grenadier: -5
+                      Pacifist: -1
+                 InputAnalyzer: -4
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Rule0Bot Pacifist
+Pacifist: InputAnalyzer Rule0Bot Grenadier
+InputAnalyzer: Pacifist Rule0Bot Grenadier
+Rule0Bot: Pacifist InputAnalyzer Grenadier
+Generated: 2014/08/12 07:32:38.311873862 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman AntiGrenadier Rule0Bot
+                     Richochet: Sc,N,Sc,N,Sd,N,Sc,N,Sd,N,Sb,N,Sb,N,Sd,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman AntiGrenadier Rule0Bot
+Bomberman: Richochet AntiGrenadier Rule0Bot
+AntiGrenadier: Richochet Bomberman Rule0Bot
+Rule0Bot: Richochet Bomberman AntiGrenadier
+Generated: 2014/08/12 08:04:48.582109650 UTC

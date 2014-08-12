@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Aggressor AntiGrenadier
+                 SimpleShooter: Sb,N
+                        Coward: Sa,N
+                     Aggressor: P,Td
+                 AntiGrenadier: N,Sc
+Final Health:
+                 SimpleShooter: 0
+                        Coward: 0
+                     Aggressor: 0
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor AntiGrenadier Coward
+Coward: Aggressor AntiGrenadier SimpleShooter
+Aggressor: Coward AntiGrenadier SimpleShooter
+AntiGrenadier: Coward Aggressor SimpleShooter
+Generated: 2014/08/12 07:28:52.563321361 UTC

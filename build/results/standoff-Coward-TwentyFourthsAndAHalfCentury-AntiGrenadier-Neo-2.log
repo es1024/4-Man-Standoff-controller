@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury AntiGrenadier Neo
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,Dd,Da,Dd,Da,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Db,Db,N,Db,N,N,N,N,N,N,N,N,N,N,N,Da,Sa,N
+Final Health:
+                        Coward: 3
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Neo TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Neo Coward AntiGrenadier
+AntiGrenadier: Neo Coward TwentyFourthsAndAHalfCentury
+Neo: AntiGrenadier Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:18:32.103647841 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Bomberman Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,Td
+                 DONTNUKEMEBRO: Dc,Dd,Da,Dc,Da,Dd,Sd,N,Dc,Dc,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,Sb,N,Sc,N,Sc,N,N
+Final Health:
+                     Grenadier: -2
+                 DONTNUKEMEBRO: 0
+                     Bomberman: -1
+                        Sniper: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper DONTNUKEMEBRO Bomberman
+DONTNUKEMEBRO: Sniper Grenadier Bomberman
+Bomberman: Sniper Grenadier DONTNUKEMEBRO
+Sniper: Bomberman Grenadier DONTNUKEMEBRO
+Generated: 2014/08/12 08:11:12.174328458 UTC

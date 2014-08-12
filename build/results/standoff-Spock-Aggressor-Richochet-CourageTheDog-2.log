@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Richochet CourageTheDog
+                         Spock: Sd,N
+                     Aggressor: P,Ta
+                     Richochet: Sd,N
+                 CourageTheDog: Sb,N
+Final Health:
+                         Spock: -3
+                     Aggressor: 0
+                     Richochet: 2
+                 CourageTheDog: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Aggressor Richochet
+Aggressor: CourageTheDog Spock Richochet
+Richochet: CourageTheDog Spock Aggressor
+CourageTheDog: Richochet Spock Aggressor
+Generated: 2014/08/12 10:24:16.668233239 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Ninja CourageTheDog
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Dd,Db,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Dc,Db,Da,Dc,Dd,Da,Dd,Dd,Dc,Da,Db
+                 CourageTheDog: Sb,N,Sb,N,Dc,Dc,Dc,Dc,Dc,N,N,Dc,Sc
+Final Health:
+                     Grenadier: -1
+                        Monkey: -2
+                         Ninja: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Ninja CourageTheDog
+Monkey: Grenadier Ninja CourageTheDog
+Ninja: Grenadier Monkey CourageTheDog
+CourageTheDog: Grenadier Monkey Ninja
+Generated: 2014/08/12 06:43:45.518507150 UTC

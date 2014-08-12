@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor TwentyFourthsAndAHalfCentury Sniper
+                         Spock: Sc,N,N
+                     Aggressor: P,Tc,Sd
+  TwentyFourthsAndAHalfCentury: Da,Db,N
+                        Sniper: Sa,N,Sb
+Final Health:
+                         Spock: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: TwentyFourthsAndAHalfCentury Sniper Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury Sniper Spock
+TwentyFourthsAndAHalfCentury: Aggressor Sniper Spock
+Sniper: Aggressor TwentyFourthsAndAHalfCentury Spock
+Generated: 2014/08/12 09:15:55.160945270 UTC

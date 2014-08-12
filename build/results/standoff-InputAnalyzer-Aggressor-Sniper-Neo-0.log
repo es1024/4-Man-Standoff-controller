@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Sniper Neo
+                 InputAnalyzer: Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Ta,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Dc,Dc,Dc,N,N,N,N,Dc,Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,N,Dc,Dc,N,Dc,N,Dc,Dc,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 0
+                        Sniper: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Sniper Neo
+Aggressor: InputAnalyzer Sniper Neo
+Sniper: InputAnalyzer Aggressor Neo
+Neo: InputAnalyzer Aggressor Sniper
+Generated: 2014/08/12 08:19:59.125279520 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Zaenille TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sa,N,Sa,N,Sa,N,Sa,N,Dd,Sa,N,Sa,N,Dd,Dd,Dd,Dd,Sa,N,Dd,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da,Da,Da,Da,Db,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+                      Pacifist: -1
+                        Coward: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Zaenille TwentyFourthsAndAHalfCentury
+Coward: Pacifist Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Pacifist Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist Coward Zaenille
+Generated: 2014/08/12 06:37:14.568973200 UTC

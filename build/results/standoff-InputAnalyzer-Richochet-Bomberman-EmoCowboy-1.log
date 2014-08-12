@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Bomberman EmoCowboy
+                 InputAnalyzer: Dc,P,Dc,Da,N
+                     Richochet: Sc,N,Sc,N,Sd
+                     Bomberman: N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                     Richochet: 2
+                     Bomberman: -2
+                     EmoCowboy: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman EmoCowboy Richochet
+Richochet: Bomberman EmoCowboy InputAnalyzer
+Bomberman: Richochet EmoCowboy InputAnalyzer
+EmoCowboy: Richochet Bomberman InputAnalyzer
+Generated: 2014/08/12 07:34:36.342683111 UTC

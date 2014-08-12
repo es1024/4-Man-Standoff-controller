@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Monkey Sniper
+                     Grenadier: P,Tc
+                 InputAnalyzer: Dc,Sd
+                        Monkey: N,Sb
+                        Sniper: Sb,N
+Final Health:
+                     Grenadier: 2
+                 InputAnalyzer: -2
+                        Monkey: -3
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Sniper InputAnalyzer
+InputAnalyzer: Monkey Sniper Grenadier
+Monkey: InputAnalyzer Sniper Grenadier
+Sniper: InputAnalyzer Monkey Grenadier
+Generated: 2014/08/12 05:44:16.545377318 UTC

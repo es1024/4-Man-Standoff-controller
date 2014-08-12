@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman EmoCowboy Sniper
+      PoliticallyCorrectGunman: N,N,N,N,N,P,N,Dd
+                     Bomberman: N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,Sc,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Bomberman: -1
+                     EmoCowboy: -2
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman EmoCowboy Sniper
+Bomberman: PoliticallyCorrectGunman EmoCowboy Sniper
+EmoCowboy: PoliticallyCorrectGunman Bomberman Sniper
+Sniper: PoliticallyCorrectGunman Bomberman EmoCowboy
+Generated: 2014/08/12 09:21:21.152972318 UTC

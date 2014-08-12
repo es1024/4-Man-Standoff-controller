@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+                 InputAnalyzer: Db,P,Db,Dd
+                        Monkey: N,N,N,P
+  TwentyFourthsAndAHalfCentury: N,N,Dd,Db
+                 CourageTheDog: Sb,N,P,Ta
+Final Health:
+                 InputAnalyzer: -12
+                        Monkey: -9
+  TwentyFourthsAndAHalfCentury: -4
+                 CourageTheDog: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+Monkey: InputAnalyzer TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: InputAnalyzer Monkey CourageTheDog
+CourageTheDog: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:19:17.661614906 UTC

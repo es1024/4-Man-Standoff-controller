@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Monkey TwentyFourthsAndAHalfCentury
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,N,N,N,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -18
+                        Monkey: -18
+  TwentyFourthsAndAHalfCentury: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey TwentyFourthsAndAHalfCentury StraightShooter
+StraightShooter: Monkey TwentyFourthsAndAHalfCentury Grenadier
+Monkey: StraightShooter TwentyFourthsAndAHalfCentury Grenadier
+TwentyFourthsAndAHalfCentury: StraightShooter Monkey Grenadier
+Generated: 2014/08/12 06:47:43.171613824 UTC

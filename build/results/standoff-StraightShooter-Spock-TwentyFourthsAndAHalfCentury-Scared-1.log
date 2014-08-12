@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock TwentyFourthsAndAHalfCentury Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                         Spock: Sc,N,Sc,N,Sd,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,N,Dd,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sb,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 3
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Scared Spock
+Spock: TwentyFourthsAndAHalfCentury Scared StraightShooter
+TwentyFourthsAndAHalfCentury: Spock Scared StraightShooter
+Scared: Spock TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 08:52:08.960843125 UTC

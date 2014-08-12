@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Rule0Bot Scared
+                     Grenadier: N,N
+                     Aggressor: P,Tc
+                      Rule0Bot: N,Sb
+                        Scared: Sa,N
+Final Health:
+                     Grenadier: 0
+                     Aggressor: 0
+                      Rule0Bot: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Rule0Bot Scared
+Aggressor: Grenadier Rule0Bot Scared
+Rule0Bot: Grenadier Aggressor Scared
+Scared: Grenadier Aggressor Rule0Bot
+Generated: 2014/08/12 09:37:17.245612881 UTC

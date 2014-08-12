@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Rule0Bot CourageTheDog
+                 InputAnalyzer: Dc,Dd,Dc,Db,P,Sa
+                     Bomberman: N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,Sa
+                 CourageTheDog: Sc,N,Dc,Sb,N,P
+Final Health:
+                 InputAnalyzer: -10
+                     Bomberman: 0
+                      Rule0Bot: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot CourageTheDog Bomberman
+Bomberman: Rule0Bot CourageTheDog InputAnalyzer
+Rule0Bot: Bomberman CourageTheDog InputAnalyzer
+CourageTheDog: Bomberman Rule0Bot InputAnalyzer
+Generated: 2014/08/12 08:12:53.498416262 UTC

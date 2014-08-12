@@ -1,10 +1,10 @@
 Standoff between: Grenadier Pacifist StraightShooter DONTNUKEMEBRO
-                     Grenadier: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Grenadier: N,P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
                       Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
                StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
-                 DONTNUKEMEBRO: Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
 Final Health:
-                     Grenadier: -2
+                     Grenadier: -4
                       Pacifist: -18
                StraightShooter: -18
                  DONTNUKEMEBRO: -3
@@ -13,4 +13,4 @@ Grenadier: DONTNUKEMEBRO Pacifist StraightShooter
 Pacifist: DONTNUKEMEBRO Grenadier StraightShooter
 StraightShooter: DONTNUKEMEBRO Grenadier Pacifist
 DONTNUKEMEBRO: StraightShooter Grenadier Pacifist
-Generated: 2014/08/11 01:00:23.811251229 UTC
+Generated: 2014/08/12 08:53:24.386414274 UTC

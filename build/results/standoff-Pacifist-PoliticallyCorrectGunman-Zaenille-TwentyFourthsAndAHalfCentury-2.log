@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Zaenille TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Sa,N,Sa,N,Sa
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Zaenille
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Pacifist Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Pacifist PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Zaenille Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 08:58:23.023446572 UTC

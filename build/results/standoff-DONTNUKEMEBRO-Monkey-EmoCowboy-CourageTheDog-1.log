@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Monkey EmoCowboy CourageTheDog
+                 DONTNUKEMEBRO: Dd,Dd,Sd,N,Db,Sd,N,Db,Dc,Dd,Db,Dd,Db,Dc,Dd,Dc,Db,Dd,Dc,Db,Dd,Dd,Dc,Dd,Dc,Dd,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,Dd,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sa,N,Db,Da,Db,Db,Db,Db,Db,Db,Da,Db,Sb,N,Db,Db,Sb,N,Da,Sb,N,Sa,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                        Monkey: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: EmoCowboy CourageTheDog Monkey
+Monkey: EmoCowboy CourageTheDog DONTNUKEMEBRO
+EmoCowboy: Monkey CourageTheDog DONTNUKEMEBRO
+CourageTheDog: Monkey EmoCowboy DONTNUKEMEBRO
+Generated: 2014/08/12 09:00:49.374895039 UTC

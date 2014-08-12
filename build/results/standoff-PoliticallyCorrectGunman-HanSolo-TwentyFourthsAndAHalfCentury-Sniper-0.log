@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury Sniper
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,Da,Da,N,Dd,Dd,Dd,Dd,Dd,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 3
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo TwentyFourthsAndAHalfCentury Sniper
+HanSolo: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman HanSolo Sniper
+Sniper: PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:00:45.969943852 UTC

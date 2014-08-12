@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman HanSolo Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot PoliticallyCorrectGunman HanSolo
+PoliticallyCorrectGunman: Rule0Bot StraightShooter HanSolo
+HanSolo: Rule0Bot StraightShooter PoliticallyCorrectGunman
+Rule0Bot: HanSolo StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 08:21:05.744977892 UTC

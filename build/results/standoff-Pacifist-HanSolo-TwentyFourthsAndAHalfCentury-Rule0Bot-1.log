@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo TwentyFourthsAndAHalfCentury Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: N,Dd,Da,Da,Db,Da,Db,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Rule0Bot HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury Rule0Bot Pacifist
+TwentyFourthsAndAHalfCentury: HanSolo Rule0Bot Pacifist
+Rule0Bot: HanSolo TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 06:56:46.590936188 UTC

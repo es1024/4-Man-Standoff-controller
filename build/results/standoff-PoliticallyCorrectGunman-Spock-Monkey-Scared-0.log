@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Monkey Scared
+      PoliticallyCorrectGunman: N,Sb,N,N,N,N,N,Sb,N,N
+                         Spock: Sa,N,N,N,N,N,N,Sa,N,Sa
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,Sa,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                        Monkey: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Monkey Scared
+Spock: PoliticallyCorrectGunman Monkey Scared
+Monkey: PoliticallyCorrectGunman Spock Scared
+Scared: PoliticallyCorrectGunman Spock Monkey
+Generated: 2014/08/12 06:01:53.992588061 UTC

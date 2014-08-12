@@ -1,0 +1,16 @@
+Standoff between: Spock Rule0Bot Neo CourageTheDog
+                         Spock: N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sb,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Da,Dd,N,Db,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sa,N,Sa,N,Dc,Sb,N,Da,Da,Da,Da,Sa,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+                         Spock: -1
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Neo CourageTheDog Rule0Bot
+Rule0Bot: Neo CourageTheDog Spock
+Neo: Rule0Bot CourageTheDog Spock
+CourageTheDog: Rule0Bot Neo Spock
+Generated: 2014/08/12 08:11:10.748408856 UTC

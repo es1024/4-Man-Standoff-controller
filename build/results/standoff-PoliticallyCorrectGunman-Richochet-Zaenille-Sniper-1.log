@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Zaenille Sniper
+      PoliticallyCorrectGunman: Sc,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 5
+                      Zaenille: -6
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Sniper Richochet
+Richochet: Zaenille Sniper PoliticallyCorrectGunman
+Zaenille: Richochet Sniper PoliticallyCorrectGunman
+Sniper: Richochet Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 08:44:47.791837774 UTC

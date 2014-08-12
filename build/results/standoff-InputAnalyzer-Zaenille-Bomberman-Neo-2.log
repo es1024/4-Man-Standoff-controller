@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Bomberman Neo
+                 InputAnalyzer: Dd,P,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,Dc,N,N,N,N,Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,Dc,N,Dc,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N,Dc,N,Dc,Dc,N,Dc
+Final Health:
+                 InputAnalyzer: -1
+                      Zaenille: -2
+                     Bomberman: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Zaenille Bomberman
+Zaenille: Neo InputAnalyzer Bomberman
+Bomberman: Neo InputAnalyzer Zaenille
+Neo: Bomberman InputAnalyzer Zaenille
+Generated: 2014/08/12 08:40:30.904581039 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier AntiGrenadier Sniper Scared
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sd,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,Sc,N,Sb,N,Sc,N,Sb,N,Sc
+Final Health:
+                     Grenadier: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared AntiGrenadier Sniper
+AntiGrenadier: Scared Grenadier Sniper
+Sniper: Scared Grenadier AntiGrenadier
+Scared: Sniper Grenadier AntiGrenadier
+Generated: 2014/08/12 08:56:51.320742899 UTC

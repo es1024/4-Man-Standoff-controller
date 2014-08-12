@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Coward Scared
+                     Grenadier: P,Tc,N
+                      Pacifist: N,N,N
+                        Coward: Sa,N,N
+                        Scared: Sa,N,Sb
+Final Health:
+                     Grenadier: -2
+                      Pacifist: 0
+                        Coward: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Scared Pacifist
+Pacifist: Coward Scared Grenadier
+Coward: Pacifist Scared Grenadier
+Scared: Pacifist Coward Grenadier
+Generated: 2014/08/12 10:28:43.447213551 UTC

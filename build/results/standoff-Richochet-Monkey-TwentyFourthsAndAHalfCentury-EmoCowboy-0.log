@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+                     Richochet: Sc,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Da,Db,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+Monkey: Richochet TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Richochet Monkey EmoCowboy
+EmoCowboy: Richochet Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:53:14.672585365 UTC

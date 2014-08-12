@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock Richochet AntiGrenadier
+                 DONTNUKEMEBRO: Dd,Dd,Sc,N,Sc,N,Dc,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sa,N,Sc
+                     Richochet: Sa,N,Sa,N,Sd,N,Sa,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: 3
+                     Richochet: -1
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: AntiGrenadier Spock Richochet
+Spock: AntiGrenadier DONTNUKEMEBRO Richochet
+Richochet: AntiGrenadier DONTNUKEMEBRO Spock
+AntiGrenadier: Richochet DONTNUKEMEBRO Spock
+Generated: 2014/08/12 06:32:30.965212476 UTC

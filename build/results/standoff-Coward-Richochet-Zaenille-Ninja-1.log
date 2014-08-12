@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Zaenille Ninja
+                        Coward: Sb,N,Sb,N,Db,Sb,N,Sd,N,Sd
+                     Richochet: Sa,N,Sa,N,Sd,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dd,Dd,Dc,Dc,Dc,Dd,Dd,Dd
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+                      Zaenille: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille Ninja Richochet
+Richochet: Zaenille Ninja Coward
+Zaenille: Richochet Ninja Coward
+Ninja: Richochet Zaenille Coward
+Generated: 2014/08/12 05:43:37.613077314 UTC

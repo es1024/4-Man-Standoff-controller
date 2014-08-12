@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor TwentyFourthsAndAHalfCentury Sniper
+                      Pacifist: N,N,N
+                     Aggressor: P,Td,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N
+                        Sniper: Sc,N,N
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Sniper Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Pacifist Aggressor
+Sniper: TwentyFourthsAndAHalfCentury Pacifist Aggressor
+Generated: 2014/08/12 10:23:21.417111238 UTC

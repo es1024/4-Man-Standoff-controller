@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Monkey CourageTheDog
+                        Coward: Sd,N,Sd,N,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,Sa,N,Dc,Dc,N,N,Dc,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Dc,Sa,N,Dc,Dc,Dc,Sc,N,Dc,Dc,Sc,N,Dc,Sc
+Final Health:
+                        Coward: -1
+                      Zaenille: -4
+                        Monkey: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille Monkey CourageTheDog
+Zaenille: Coward Monkey CourageTheDog
+Monkey: Coward Zaenille CourageTheDog
+CourageTheDog: Coward Zaenille Monkey
+Generated: 2014/08/12 10:27:39.086827758 UTC

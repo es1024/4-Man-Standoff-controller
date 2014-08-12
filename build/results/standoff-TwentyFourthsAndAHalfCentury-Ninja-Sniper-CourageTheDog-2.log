@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Ninja Sniper CourageTheDog
+  TwentyFourthsAndAHalfCentury: Db,Db,Db,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dc,Dc,Db,Da,Dd,Dd,Db,Dd,Db,Dc,Dc,Da,Dc,Dc,Db,Db,Dc,Dd,Da,Db,Da,Dc,Dc,Db,Da,Dc,Da
+                        Sniper: Sa,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sa,N,Dc,Sc,N,Db,N,Sc,N,Sb,N,Db,Db,Db,Db,Db,Sb,N,Db,Db,Db,Db,Db,Sb,N,Sb
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: CourageTheDog Ninja Sniper
+Ninja: CourageTheDog TwentyFourthsAndAHalfCentury Sniper
+Sniper: CourageTheDog TwentyFourthsAndAHalfCentury Ninja
+CourageTheDog: Sniper TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 05:59:48.055356276 UTC

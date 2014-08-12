@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Monkey CourageTheDog
+                 DONTNUKEMEBRO: Dd,Db,P,Tb
+                 SimpleShooter: Sa,N,Sd,N
+                        Monkey: N,N,N,N
+                 CourageTheDog: Sa,N,N,P
+Final Health:
+                 DONTNUKEMEBRO: -3
+                 SimpleShooter: -6
+                        Monkey: -1
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Monkey CourageTheDog SimpleShooter
+SimpleShooter: Monkey CourageTheDog DONTNUKEMEBRO
+Monkey: SimpleShooter CourageTheDog DONTNUKEMEBRO
+CourageTheDog: SimpleShooter Monkey DONTNUKEMEBRO
+Generated: 2014/08/12 10:10:09.534780356 UTC

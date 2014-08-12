@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey AntiGrenadier Neo
+                 InputAnalyzer: Db,Dd,P,Dd,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,Dd,Dc,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,Dc,N,Db,N,Dc,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,Dc,Dc,Dc,Dc,N,N,N,N,N,Dc,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                        Monkey: -18
+                 AntiGrenadier: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey AntiGrenadier Neo
+Monkey: InputAnalyzer AntiGrenadier Neo
+AntiGrenadier: InputAnalyzer Monkey Neo
+Neo: InputAnalyzer Monkey AntiGrenadier
+Generated: 2014/08/12 10:15:29.224975762 UTC

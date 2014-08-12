@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Coward Neo
+                         Spock: N,N,N,N,N,N,N,Sb,N,Sc
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sc,N,N,N
+                        Coward: Sd,N,Sd,N,Sb,N,Sb,N,Sa,N
+                           Neo: N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 1
+                 SimpleShooter: -1
+                        Coward: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Coward Neo
+SimpleShooter: Spock Coward Neo
+Coward: Spock SimpleShooter Neo
+Neo: Spock SimpleShooter Coward
+Generated: 2014/08/12 07:53:20.221782989 UTC

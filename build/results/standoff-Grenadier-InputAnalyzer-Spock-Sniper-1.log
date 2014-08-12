@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Spock Sniper
+                     Grenadier: N,N,N,N,N,P,N,N
+                 InputAnalyzer: Dc,Sd,N,Sb,N,N,N,N
+                         Spock: N,N,N,N,Sd,N,Sd,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -2
+                         Spock: 2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Sniper InputAnalyzer
+InputAnalyzer: Spock Sniper Grenadier
+Spock: InputAnalyzer Sniper Grenadier
+Sniper: InputAnalyzer Spock Grenadier
+Generated: 2014/08/12 08:13:44.655857277 UTC

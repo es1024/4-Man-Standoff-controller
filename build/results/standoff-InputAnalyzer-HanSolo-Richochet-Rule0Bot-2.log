@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Richochet Rule0Bot
+                 InputAnalyzer: Dd,P,N,N
+                       HanSolo: Sd,N,Sd,N
+                     Richochet: Sa,N,Sb,N
+                      Rule0Bot: N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -5
+                       HanSolo: 0
+                     Richochet: 2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot HanSolo Richochet
+HanSolo: Rule0Bot InputAnalyzer Richochet
+Richochet: Rule0Bot InputAnalyzer HanSolo
+Rule0Bot: Richochet InputAnalyzer HanSolo
+Generated: 2014/08/12 06:01:53.231735046 UTC

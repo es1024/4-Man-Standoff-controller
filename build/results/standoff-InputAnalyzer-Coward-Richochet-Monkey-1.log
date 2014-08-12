@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Richochet Monkey
+                 InputAnalyzer: Dc,Db,P,N,N
+                        Coward: Sa,N,Sa,N,Sa
+                     Richochet: Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,P,N
+Final Health:
+                 InputAnalyzer: -10
+                        Coward: -1
+                     Richochet: -1
+                        Monkey: -10
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Monkey Coward
+Coward: Richochet Monkey InputAnalyzer
+Richochet: Coward Monkey InputAnalyzer
+Monkey: Coward Richochet InputAnalyzer
+Generated: 2014/08/12 08:16:53.031670467 UTC

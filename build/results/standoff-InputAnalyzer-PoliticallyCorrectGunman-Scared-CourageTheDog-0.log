@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Scared CourageTheDog
+                 InputAnalyzer: Db,Dd,P,Da,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,Sa,N,Sc,N,N
+                        Scared: N,N,N,Sa,N,N,N,N
+                 CourageTheDog: N,Da,Sa,N,Sc,N,Db,Sb
+Final Health:
+                 InputAnalyzer: -7
+      PoliticallyCorrectGunman: 0
+                        Scared: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Scared CourageTheDog
+PoliticallyCorrectGunman: InputAnalyzer Scared CourageTheDog
+Scared: InputAnalyzer PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: InputAnalyzer PoliticallyCorrectGunman Scared
+Generated: 2014/08/12 08:02:43.331837230 UTC

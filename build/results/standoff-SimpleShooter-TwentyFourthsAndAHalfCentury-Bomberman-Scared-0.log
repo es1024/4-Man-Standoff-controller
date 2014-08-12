@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Bomberman Scared
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,N,Da,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Bomberman Scared
+TwentyFourthsAndAHalfCentury: SimpleShooter Bomberman Scared
+Bomberman: SimpleShooter TwentyFourthsAndAHalfCentury Scared
+Scared: SimpleShooter TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 08:00:51.778154014 UTC

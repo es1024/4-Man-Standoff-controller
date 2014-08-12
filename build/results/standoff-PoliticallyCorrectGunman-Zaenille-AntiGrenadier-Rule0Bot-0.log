@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille AntiGrenadier Rule0Bot
+      PoliticallyCorrectGunman: N,P,Sc,N
+                      Zaenille: Sb,N,N,N
+                 AntiGrenadier: N,N,Sa,N
+                      Rule0Bot: N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                      Zaenille: -2
+                 AntiGrenadier: 0
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille AntiGrenadier Rule0Bot
+Zaenille: PoliticallyCorrectGunman AntiGrenadier Rule0Bot
+AntiGrenadier: PoliticallyCorrectGunman Zaenille Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman Zaenille AntiGrenadier
+Generated: 2014/08/12 07:56:07.599991804 UTC

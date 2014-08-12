@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock TwentyFourthsAndAHalfCentury Bomberman
+                     Grenadier: N,P,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dd,Da,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: 2
+  TwentyFourthsAndAHalfCentury: -2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Bomberman Spock
+Spock: TwentyFourthsAndAHalfCentury Bomberman Grenadier
+TwentyFourthsAndAHalfCentury: Spock Bomberman Grenadier
+Bomberman: Spock TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 09:28:02.311117638 UTC

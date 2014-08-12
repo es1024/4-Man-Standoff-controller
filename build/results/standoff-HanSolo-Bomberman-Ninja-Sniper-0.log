@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman Ninja Sniper
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Dc,Da,Dc,Dd,Da,Da,Da,Db,Dd,Db,Db,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -3
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Ninja Sniper
+Bomberman: HanSolo Ninja Sniper
+Ninja: HanSolo Bomberman Sniper
+Sniper: HanSolo Bomberman Ninja
+Generated: 2014/08/12 09:16:37.510842064 UTC

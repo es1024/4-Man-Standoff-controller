@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter InputAnalyzer Rule0Bot
+                     Grenadier: N,P,N,N
+               StraightShooter: Sc,N,Sc,N
+                 InputAnalyzer: Da,Sb,N,Dd
+                      Rule0Bot: N,N,Sa,N
+Final Health:
+                     Grenadier: -3
+               StraightShooter: 0
+                 InputAnalyzer: -2
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter InputAnalyzer Rule0Bot
+StraightShooter: Grenadier InputAnalyzer Rule0Bot
+InputAnalyzer: Grenadier StraightShooter Rule0Bot
+Rule0Bot: Grenadier StraightShooter InputAnalyzer
+Generated: 2014/08/12 07:39:15.331135528 UTC

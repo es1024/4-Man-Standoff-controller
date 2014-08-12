@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter EmoCowboy Ninja Rule0Bot
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Dc,Dd,Db,Dd,Dc,Dc,Dd,Db,Dc,Da,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                     EmoCowboy: -4
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Rule0Bot EmoCowboy
+EmoCowboy: Ninja Rule0Bot SimpleShooter
+Ninja: EmoCowboy Rule0Bot SimpleShooter
+Rule0Bot: EmoCowboy Ninja SimpleShooter
+Generated: 2014/08/12 09:23:29.190091773 UTC

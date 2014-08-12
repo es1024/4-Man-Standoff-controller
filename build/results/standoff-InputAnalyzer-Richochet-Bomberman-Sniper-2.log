@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Bomberman Sniper
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sc,N,Sd
+                     Bomberman: N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,N,Sc,N
+Final Health:
+                 InputAnalyzer: -4
+                     Richochet: 5
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Richochet Bomberman
+Richochet: Sniper InputAnalyzer Bomberman
+Bomberman: Sniper InputAnalyzer Richochet
+Sniper: Bomberman InputAnalyzer Richochet
+Generated: 2014/08/12 10:06:56.882638599 UTC

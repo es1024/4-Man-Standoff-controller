@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Monkey Bomberman
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,Sd,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: 5
+                        Monkey: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey Bomberman Coward
+Coward: Monkey Bomberman PoliticallyCorrectGunman
+Monkey: Coward Bomberman PoliticallyCorrectGunman
+Bomberman: Coward Monkey PoliticallyCorrectGunman
+Generated: 2014/08/12 08:36:35.241867395 UTC

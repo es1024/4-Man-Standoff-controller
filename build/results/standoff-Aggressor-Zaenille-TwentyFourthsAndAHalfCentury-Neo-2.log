@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille TwentyFourthsAndAHalfCentury Neo
+                     Aggressor: P,Td,Sc
+                      Zaenille: Sb,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Sa
+                           Neo: N,N,N
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Neo Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo Aggressor Zaenille
+Neo: TwentyFourthsAndAHalfCentury Aggressor Zaenille
+Generated: 2014/08/12 06:29:13.761849102 UTC

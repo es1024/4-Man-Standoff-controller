@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Bomberman CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Dc,Sa,N,Dc,Dc,Sc,N,Dc,Dc,N,Sc,N,Dc,Dc,Dc,Sc
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -4
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Zaenille Bomberman
+Zaenille: CourageTheDog StraightShooter Bomberman
+Bomberman: CourageTheDog StraightShooter Zaenille
+CourageTheDog: Bomberman StraightShooter Zaenille
+Generated: 2014/08/12 08:18:28.087312728 UTC

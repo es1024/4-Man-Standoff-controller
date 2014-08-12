@@ -1,0 +1,16 @@
+Standoff between: Spock Coward TwentyFourthsAndAHalfCentury Sniper
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,N,Da,N,Da,N,N,N,N
+                        Sniper: Sc,N,Sa,N,Sc,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper Coward TwentyFourthsAndAHalfCentury
+Coward: Sniper Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Spock Coward
+Sniper: TwentyFourthsAndAHalfCentury Spock Coward
+Generated: 2014/08/12 05:49:17.437651242 UTC

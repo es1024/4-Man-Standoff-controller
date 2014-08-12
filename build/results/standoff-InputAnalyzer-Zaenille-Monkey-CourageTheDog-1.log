@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Monkey CourageTheDog
+                 InputAnalyzer: Dc,Sb,N,Sb,N,Da,Dd,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,Da,Dd,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Da,Dc,Da,Sa,N,Sc,N,Dc,N,Dc,Dc,Dc,Dc,Dc,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -2
+                      Zaenille: -4
+                        Monkey: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey CourageTheDog Zaenille
+Zaenille: Monkey CourageTheDog InputAnalyzer
+Monkey: Zaenille CourageTheDog InputAnalyzer
+CourageTheDog: Zaenille Monkey InputAnalyzer
+Generated: 2014/08/12 10:13:08.514348602 UTC

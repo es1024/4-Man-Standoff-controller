@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Scared Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,N,N,N
+                        Scared: N,N,N,N,Sa,N,Sd,N,Sa
+                           Neo: N,N,N,N,Dc,N,N,N,Dc
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: -1
+                        Scared: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Scared Neo
+SimpleShooter: HanSolo Scared Neo
+Scared: HanSolo SimpleShooter Neo
+Neo: HanSolo SimpleShooter Scared
+Generated: 2014/08/12 10:36:28.791238165 UTC

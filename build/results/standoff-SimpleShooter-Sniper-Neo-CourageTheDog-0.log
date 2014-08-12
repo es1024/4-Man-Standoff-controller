@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Sniper Neo CourageTheDog
+                 SimpleShooter: Sd,N,Sb,N,Sc,N,Sc,N,Sb
+                        Sniper: Sa,N,Sd,N,Sd,N,Sc,N,N
+                           Neo: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,N,Sb,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                        Sniper: -1
+                           Neo: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Neo CourageTheDog
+Sniper: SimpleShooter Neo CourageTheDog
+Neo: SimpleShooter Sniper CourageTheDog
+CourageTheDog: SimpleShooter Sniper Neo
+Generated: 2014/08/12 07:44:48.151517740 UTC

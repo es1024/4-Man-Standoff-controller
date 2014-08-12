@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury EmoCowboy Scared
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,N,Da,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sb,N,Sa,N,N,N
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: 1
+                     EmoCowboy: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Scared HanSolo EmoCowboy
+EmoCowboy: Scared HanSolo TwentyFourthsAndAHalfCentury
+Scared: EmoCowboy HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:49:15.707034736 UTC

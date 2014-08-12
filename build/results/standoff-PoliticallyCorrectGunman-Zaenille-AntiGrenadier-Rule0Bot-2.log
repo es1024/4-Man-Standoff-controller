@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille AntiGrenadier Rule0Bot
+      PoliticallyCorrectGunman: N,Dd,N,P,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -8
+                      Zaenille: -2
+                 AntiGrenadier: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Zaenille AntiGrenadier
+Zaenille: Rule0Bot PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: Rule0Bot PoliticallyCorrectGunman Zaenille
+Rule0Bot: AntiGrenadier PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 07:58:57.029361497 UTC

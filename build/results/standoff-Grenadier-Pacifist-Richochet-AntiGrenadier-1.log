@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Richochet AntiGrenadier
+                     Grenadier: P,Tc
+                      Pacifist: N,N
+                     Richochet: Sd,N
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Grenadier: 0
+                      Pacifist: 2
+                     Richochet: -3
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet AntiGrenadier Pacifist
+Pacifist: Richochet AntiGrenadier Grenadier
+Richochet: Pacifist AntiGrenadier Grenadier
+AntiGrenadier: Pacifist Richochet Grenadier
+Generated: 2014/08/12 10:22:55.460339718 UTC

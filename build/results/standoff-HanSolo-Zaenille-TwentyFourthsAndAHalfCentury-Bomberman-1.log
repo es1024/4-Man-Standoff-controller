@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille TwentyFourthsAndAHalfCentury Bomberman
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Dd,Dd,Dd,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury Bomberman Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Bomberman HanSolo
+TwentyFourthsAndAHalfCentury: Zaenille Bomberman HanSolo
+Bomberman: Zaenille TwentyFourthsAndAHalfCentury HanSolo
+Generated: 2014/08/12 09:26:16.155250962 UTC

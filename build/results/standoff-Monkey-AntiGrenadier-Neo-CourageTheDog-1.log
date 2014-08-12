@@ -1,0 +1,16 @@
+Standoff between: Monkey AntiGrenadier Neo CourageTheDog
+                        Monkey: N,N,N,N,Db,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Da,Da,N,N,N,Da,N,N,N,N,N,N,N,N,N,Da,Da,Da,Sd,N,N,N,N,N,N,N,N,N,N,Dd,Sd,N,N
+                 CourageTheDog: Sa,N,N,Db,Da,Da,Sb,N,Sb,N,Da,Sa,N,Dc,Dc,Sc,N,Dc,Da,Da,Sa,N,Dc,Dc,Dc,Dc,N,N,Dc,Sc,N,Dc,Sc,N,Dc,Sc
+Final Health:
+                        Monkey: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Neo CourageTheDog AntiGrenadier
+AntiGrenadier: Neo CourageTheDog Monkey
+Neo: AntiGrenadier CourageTheDog Monkey
+CourageTheDog: AntiGrenadier Neo Monkey
+Generated: 2014/08/12 06:52:37.622201101 UTC

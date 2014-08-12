@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Richochet Zaenille
+      PoliticallyCorrectGunman: N,N,N
+                     Aggressor: P,Tc,Sa
+                     Richochet: Sd,N,N
+                      Zaenille: Sd,N,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 2
+                     Richochet: -3
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Zaenille Aggressor
+Aggressor: Richochet Zaenille PoliticallyCorrectGunman
+Richochet: Aggressor Zaenille PoliticallyCorrectGunman
+Zaenille: Aggressor Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 06:27:12.782960605 UTC

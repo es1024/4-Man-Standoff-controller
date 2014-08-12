@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Monkey EmoCowboy
+                        Coward: Sb,N,Sd,N,Sc,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,Sc
+                     EmoCowboy: N,N,Sd,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                      Zaenille: -4
+                        Monkey: -2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey EmoCowboy Zaenille
+Zaenille: Monkey EmoCowboy Coward
+Monkey: Zaenille EmoCowboy Coward
+EmoCowboy: Zaenille Monkey Coward
+Generated: 2014/08/12 10:36:22.481250535 UTC

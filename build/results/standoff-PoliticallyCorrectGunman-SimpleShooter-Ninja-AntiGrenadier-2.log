@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Ninja AntiGrenadier
+      PoliticallyCorrectGunman: Dd,Sc,N,N,P,Sb,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sd
+                         Ninja: Dd,Db,Db,Dc,Dc,Db,Db
+                 AntiGrenadier: N,N,N,N,N,Sa,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+                 SimpleShooter: 0
+                         Ninja: -2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier SimpleShooter Ninja
+SimpleShooter: AntiGrenadier PoliticallyCorrectGunman Ninja
+Ninja: AntiGrenadier PoliticallyCorrectGunman SimpleShooter
+AntiGrenadier: Ninja PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 09:19:39.945969143 UTC

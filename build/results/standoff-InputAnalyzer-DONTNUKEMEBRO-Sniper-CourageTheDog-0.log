@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Sniper CourageTheDog
+                 InputAnalyzer: Db,Dd,Sb,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Dc,Dc,Dd,Sa,N,Dc,Sd,N,Dd,Dd,Dd,Dd,Da,Da,Da,N,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Sc,N,Sb,N,Dc,Db,Db,Dc,Dc,Dc,Dc,Dc,Sb,N,Sc
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: -1
+                        Sniper: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Sniper CourageTheDog
+DONTNUKEMEBRO: InputAnalyzer Sniper CourageTheDog
+Sniper: InputAnalyzer DONTNUKEMEBRO CourageTheDog
+CourageTheDog: InputAnalyzer DONTNUKEMEBRO Sniper
+Generated: 2014/08/12 08:01:48.832104244 UTC

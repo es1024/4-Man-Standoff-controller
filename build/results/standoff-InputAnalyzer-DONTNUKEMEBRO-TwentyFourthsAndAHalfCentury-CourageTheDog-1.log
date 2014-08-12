@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury CourageTheDog
+                 InputAnalyzer: Dc,Da,Sb,N,Sb,N,P,N,Sd
+                 DONTNUKEMEBRO: Dc,Dd,Sd,N,Sa,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,Dd,Sa,N,Sd,N,N
+                 CourageTheDog: Sb,N,Dc,Da,Db,Da,Dc,P,Tc
+Final Health:
+                 InputAnalyzer: -8
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: -6
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury CourageTheDog InputAnalyzer
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO CourageTheDog InputAnalyzer
+CourageTheDog: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury InputAnalyzer
+Generated: 2014/08/12 06:28:55.892674303 UTC

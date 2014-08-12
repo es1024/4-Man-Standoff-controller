@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter EmoCowboy AntiGrenadier
+                     Grenadier: P,N,N
+               StraightShooter: Sd,N,Sd
+                     EmoCowboy: Sc,N,N
+                 AntiGrenadier: N,Sa,N
+Final Health:
+                     Grenadier: -3
+               StraightShooter: 2
+                     EmoCowboy: -2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy AntiGrenadier StraightShooter
+StraightShooter: EmoCowboy AntiGrenadier Grenadier
+EmoCowboy: StraightShooter AntiGrenadier Grenadier
+AntiGrenadier: StraightShooter EmoCowboy Grenadier
+Generated: 2014/08/12 06:33:27.906261863 UTC

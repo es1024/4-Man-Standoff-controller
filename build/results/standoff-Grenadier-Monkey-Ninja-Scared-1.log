@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Ninja Scared
+                     Grenadier: N,N,N,P,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,Dc,N
+                         Ninja: Da,Da,Db,Db,Da,Da,Dc,N,N
+                        Scared: N,N,N,N,Sa,N,Sc,N,Sb
+Final Health:
+                     Grenadier: -3
+                        Monkey: 0
+                         Ninja: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Scared Monkey
+Monkey: Ninja Scared Grenadier
+Ninja: Monkey Scared Grenadier
+Scared: Monkey Ninja Grenadier
+Generated: 2014/08/12 09:23:10.617952218 UTC

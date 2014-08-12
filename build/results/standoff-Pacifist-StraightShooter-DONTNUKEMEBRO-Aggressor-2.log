@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter DONTNUKEMEBRO Aggressor
+                      Pacifist: N,N
+               StraightShooter: Sa,N
+                 DONTNUKEMEBRO: Da,Sd
+                     Aggressor: P,Tc
+Final Health:
+                      Pacifist: 0
+               StraightShooter: 2
+                 DONTNUKEMEBRO: -3
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor StraightShooter DONTNUKEMEBRO
+StraightShooter: Aggressor Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor Pacifist StraightShooter
+Aggressor: DONTNUKEMEBRO Pacifist StraightShooter
+Generated: 2014/08/12 06:04:20.735585619 UTC

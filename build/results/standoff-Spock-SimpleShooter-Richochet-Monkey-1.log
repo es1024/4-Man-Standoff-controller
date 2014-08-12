@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Richochet Monkey
+                         Spock: N,N,N,N,Sc,N,N,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,Sd,N,Sc
+                     Richochet: Sd,N,Sb,N,Sa,N,Sb,N,Sb
+                        Monkey: N,N,N,N,N,N,N,Sd,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+                     Richochet: -1
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Monkey SimpleShooter
+SimpleShooter: Richochet Monkey Spock
+Richochet: SimpleShooter Monkey Spock
+Monkey: SimpleShooter Richochet Spock
+Generated: 2014/08/12 09:49:36.144995413 UTC

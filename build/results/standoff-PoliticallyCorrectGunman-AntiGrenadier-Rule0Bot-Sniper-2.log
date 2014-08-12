@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman AntiGrenadier Rule0Bot Sniper
+      PoliticallyCorrectGunman: N,Db,Sb,N,Sb,N,Db,N,N,N,N,N,N,N,N,Dc,N,P,Dc,Dc,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper AntiGrenadier Rule0Bot
+AntiGrenadier: Sniper PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Sniper PoliticallyCorrectGunman AntiGrenadier
+Sniper: Rule0Bot PoliticallyCorrectGunman AntiGrenadier
+Generated: 2014/08/12 08:51:06.841667626 UTC

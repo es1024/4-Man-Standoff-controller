@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Bomberman EmoCowboy
+                     Aggressor: P,Tc,Sb
+                        Monkey: N,P,N
+                     Bomberman: N,N,N
+                     EmoCowboy: Sd,N,N
+Final Health:
+                     Aggressor: -1
+                        Monkey: -6
+                     Bomberman: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman EmoCowboy Monkey
+Monkey: Bomberman EmoCowboy Aggressor
+Bomberman: Monkey EmoCowboy Aggressor
+EmoCowboy: Monkey Bomberman Aggressor
+Generated: 2014/08/12 09:11:15.347276823 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Monkey Sniper
+               StraightShooter: Sb,N,Sb,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sd
+                        Monkey: N,Sa,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,Sc,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 1
+                        Monkey: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper SimpleShooter Monkey
+SimpleShooter: Sniper StraightShooter Monkey
+Monkey: Sniper StraightShooter SimpleShooter
+Sniper: Monkey StraightShooter SimpleShooter
+Generated: 2014/08/12 06:08:09.073223636 UTC

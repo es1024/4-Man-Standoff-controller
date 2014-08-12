@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Richochet Zaenille
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Ta
+                     Richochet: Sb,N
+                      Zaenille: Sd,N
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 0
+                     Richochet: 0
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille Aggressor Richochet
+Aggressor: Zaenille SimpleShooter Richochet
+Richochet: Zaenille SimpleShooter Aggressor
+Zaenille: Richochet SimpleShooter Aggressor
+Generated: 2014/08/12 08:51:12.950844922 UTC

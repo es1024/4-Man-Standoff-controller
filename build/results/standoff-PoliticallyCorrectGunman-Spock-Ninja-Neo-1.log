@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Ninja Neo
+      PoliticallyCorrectGunman: N,N,N,Db,Sc,N,N,Sb,N,Sd,N,Sb,N,Sa
+                         Spock: Sc,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,N
+                         Ninja: Dd,Dd,Dd,Da,Dc,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,Da,Da,Db,Da,Da,Sb,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                         Ninja: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Neo Spock
+Spock: Ninja Neo PoliticallyCorrectGunman
+Ninja: Spock Neo PoliticallyCorrectGunman
+Neo: Spock Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 09:23:43.619520972 UTC

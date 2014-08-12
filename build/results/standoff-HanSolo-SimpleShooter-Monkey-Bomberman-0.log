@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Monkey Bomberman
+                       HanSolo: Sb,N,Sb,N,Sd,N,Sd
+                 SimpleShooter: Sd,N,Sc,N,N,N,N
+                        Monkey: N,Sb,N,Sc,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                 SimpleShooter: -1
+                        Monkey: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Monkey Bomberman
+SimpleShooter: HanSolo Monkey Bomberman
+Monkey: HanSolo SimpleShooter Bomberman
+Bomberman: HanSolo SimpleShooter Monkey
+Generated: 2014/08/12 09:00:00.243926695 UTC

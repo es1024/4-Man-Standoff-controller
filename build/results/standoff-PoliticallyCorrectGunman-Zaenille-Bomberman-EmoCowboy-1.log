@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Bomberman EmoCowboy
+      PoliticallyCorrectGunman: Sa
+                      Zaenille: Sb
+                     Bomberman: N
+                     EmoCowboy: Sd
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                     Bomberman: 5
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman EmoCowboy Zaenille
+Zaenille: Bomberman EmoCowboy PoliticallyCorrectGunman
+Bomberman: Zaenille EmoCowboy PoliticallyCorrectGunman
+EmoCowboy: Zaenille Bomberman PoliticallyCorrectGunman
+Generated: 2014/08/12 08:18:39.883567444 UTC

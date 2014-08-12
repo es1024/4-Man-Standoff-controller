@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Scared Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sd
+                        Scared: N,N,N,N,N,N,Sb,N,Sb,N,Sa,N,Sb
+                           Neo: N,N,N,N,N,N,N,N,Dc,Da,Dc,N,Dc
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: -1
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Scared Neo
+SimpleShooter: Pacifist Scared Neo
+Scared: Pacifist SimpleShooter Neo
+Neo: Pacifist SimpleShooter Scared
+Generated: 2014/08/12 07:41:51.839487320 UTC

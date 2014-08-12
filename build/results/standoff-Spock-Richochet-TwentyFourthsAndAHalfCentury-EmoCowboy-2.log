@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet TwentyFourthsAndAHalfCentury EmoCowboy
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,Sd
+                     Richochet: Sd,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,N,Da,N,Da,N,Db,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: EmoCowboy Richochet TwentyFourthsAndAHalfCentury
+Richochet: EmoCowboy Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Spock Richochet
+EmoCowboy: TwentyFourthsAndAHalfCentury Spock Richochet
+Generated: 2014/08/12 10:21:45.440928275 UTC

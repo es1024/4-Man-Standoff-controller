@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury Scared
+                      Pacifist: N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Dc,P,Sb
+  TwentyFourthsAndAHalfCentury: Da,Db,Da,Db,Da,Da
+                        Scared: Sa,N,Sc,N,Sb,N
+Final Health:
+                      Pacifist: -2
+                 InputAnalyzer: -8
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Scared InputAnalyzer
+InputAnalyzer: TwentyFourthsAndAHalfCentury Scared Pacifist
+TwentyFourthsAndAHalfCentury: InputAnalyzer Scared Pacifist
+Scared: InputAnalyzer TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 08:07:00.905234513 UTC

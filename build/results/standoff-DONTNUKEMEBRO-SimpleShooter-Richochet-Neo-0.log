@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Richochet Neo
+                 DONTNUKEMEBRO: Dd,Dc,Dc,Db,Dc,Dc,Sb,N,Dc,Dd,Sc
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sc,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sb,N,Sb,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: 1
+                 SimpleShooter: -1
+                     Richochet: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Richochet Neo
+SimpleShooter: DONTNUKEMEBRO Richochet Neo
+Richochet: DONTNUKEMEBRO SimpleShooter Neo
+Neo: DONTNUKEMEBRO SimpleShooter Richochet
+Generated: 2014/08/12 08:54:08.584724620 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock Aggressor
+                 InputAnalyzer: Dc,Db
+                 DONTNUKEMEBRO: Dd,Sd
+                         Spock: Sb,N
+                     Aggressor: P,Tc
+Final Health:
+                 InputAnalyzer: 2
+                 DONTNUKEMEBRO: 0
+                         Spock: -3
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Aggressor DONTNUKEMEBRO
+DONTNUKEMEBRO: Spock Aggressor InputAnalyzer
+Spock: DONTNUKEMEBRO Aggressor InputAnalyzer
+Aggressor: DONTNUKEMEBRO Spock InputAnalyzer
+Generated: 2014/08/12 10:26:00.403860676 UTC

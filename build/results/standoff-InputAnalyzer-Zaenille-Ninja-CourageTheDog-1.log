@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Ninja CourageTheDog
+                 InputAnalyzer: Dc,Db,Dc,Da,P,Da,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                         Ninja: Db,Da,Da,Dd,Dc,Dc,Dc
+                 CourageTheDog: Sb,N,Dc,Dc,Sc,N,Sa
+Final Health:
+                 InputAnalyzer: -3
+                      Zaenille: -4
+                         Ninja: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja CourageTheDog Zaenille
+Zaenille: Ninja CourageTheDog InputAnalyzer
+Ninja: Zaenille CourageTheDog InputAnalyzer
+CourageTheDog: Zaenille Ninja InputAnalyzer
+Generated: 2014/08/12 06:07:48.238388900 UTC

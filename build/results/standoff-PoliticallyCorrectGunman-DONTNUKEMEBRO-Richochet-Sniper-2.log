@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Richochet Sniper
+      PoliticallyCorrectGunman: Sd,N,Dc,Dd,P,N,N
+                 DONTNUKEMEBRO: Dc,Da,Da,Da,Sd,N,Da
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa
+                        Sniper: Sa,N,Sb,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -7
+                 DONTNUKEMEBRO: 0
+                     Richochet: 2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: Sniper PoliticallyCorrectGunman Richochet
+Richochet: Sniper PoliticallyCorrectGunman DONTNUKEMEBRO
+Sniper: Richochet PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 09:10:48.228504702 UTC

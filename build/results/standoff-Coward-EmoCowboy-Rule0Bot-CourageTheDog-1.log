@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy Rule0Bot CourageTheDog
+                        Coward: Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Sc,N,Sa,N,Da,Da,Sc,N
+Final Health:
+                        Coward: 3
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot CourageTheDog EmoCowboy
+EmoCowboy: Rule0Bot CourageTheDog Coward
+Rule0Bot: EmoCowboy CourageTheDog Coward
+CourageTheDog: EmoCowboy Rule0Bot Coward
+Generated: 2014/08/12 06:48:27.238259440 UTC

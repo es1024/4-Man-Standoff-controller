@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Zaenille Scared
+                         Spock: Sb,N,Sb,N,Sb
+                        Coward: Sd,N,Sa,N,Dd
+                      Zaenille: Sc,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                        Coward: -1
+                      Zaenille: -4
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Zaenille Scared
+Coward: Spock Zaenille Scared
+Zaenille: Spock Coward Scared
+Scared: Spock Coward Zaenille
+Generated: 2014/08/12 07:10:08.355489621 UTC

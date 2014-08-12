@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor AntiGrenadier CourageTheDog
+                 InputAnalyzer: Dd,Sb,N,Sc
+                     Aggressor: P,Td,N,N
+                 AntiGrenadier: N,Sb,N,N
+                 CourageTheDog: Sb,N,N,N
+Final Health:
+                 InputAnalyzer: 2
+                     Aggressor: -4
+                 AntiGrenadier: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Aggressor AntiGrenadier
+Aggressor: CourageTheDog InputAnalyzer AntiGrenadier
+AntiGrenadier: CourageTheDog InputAnalyzer Aggressor
+CourageTheDog: AntiGrenadier InputAnalyzer Aggressor
+Generated: 2014/08/12 08:40:31.634860834 UTC

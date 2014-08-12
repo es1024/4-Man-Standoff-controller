@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Richochet Scared
+                     Grenadier: N,P,N,N
+      PoliticallyCorrectGunman: Dd,Sb,N,N
+                     Richochet: Sb,N,Sd,N
+                        Scared: Sc,N,N,N
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: -2
+                     Richochet: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Richochet Scared Grenadier
+Richochet: PoliticallyCorrectGunman Scared Grenadier
+Scared: PoliticallyCorrectGunman Richochet Grenadier
+Generated: 2014/08/12 07:14:31.066374741 UTC

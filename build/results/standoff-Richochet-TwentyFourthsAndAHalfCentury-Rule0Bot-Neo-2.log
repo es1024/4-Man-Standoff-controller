@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Rule0Bot Neo
+                     Richochet: Sd,N,Sd,N,Sb,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,Dc,Dd,Dc,Dc,Da,Dc,Da,Dc,N,N,Dc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: Neo Richochet Rule0Bot
+Rule0Bot: Neo Richochet TwentyFourthsAndAHalfCentury
+Neo: Rule0Bot Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:15:23.643090449 UTC

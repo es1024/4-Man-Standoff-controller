@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Ninja Rule0Bot
+                 InputAnalyzer: Dc,Db,P,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Db,Dc,Dc,Dc,Da,Da,Dc,Dc,Dd,Dd,Dd,Db,Db,Dd,Da,Db,Dc,Da,Dc,Da,Db,Dd,Da,Db,Dd,Dd,Dc,Dc,Dd,Db,Da,Da,Db,Dd,Dc,Db,Db,Da,Da,Da,Dc,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                      Zaenille: -2
+                         Ninja: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Rule0Bot Zaenille
+Zaenille: Ninja Rule0Bot InputAnalyzer
+Ninja: Zaenille Rule0Bot InputAnalyzer
+Rule0Bot: Zaenille Ninja InputAnalyzer
+Generated: 2014/08/12 09:37:38.111189303 UTC

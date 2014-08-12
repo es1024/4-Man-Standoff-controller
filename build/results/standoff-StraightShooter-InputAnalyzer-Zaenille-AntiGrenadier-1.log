@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Zaenille AntiGrenadier
+               StraightShooter: Sd,N,Sd
+                 InputAnalyzer: Dc,P,Sb
+                      Zaenille: Sc,N,N
+                 AntiGrenadier: N,N,Sb
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -10
+                      Zaenille: -2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille AntiGrenadier InputAnalyzer
+InputAnalyzer: Zaenille AntiGrenadier StraightShooter
+Zaenille: InputAnalyzer AntiGrenadier StraightShooter
+AntiGrenadier: InputAnalyzer Zaenille StraightShooter
+Generated: 2014/08/12 09:09:28.128895505 UTC

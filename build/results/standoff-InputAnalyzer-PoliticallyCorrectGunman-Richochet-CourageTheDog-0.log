@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Richochet CourageTheDog
+                 InputAnalyzer: Db,Dd,Da,Dc,Da,Dc,Da,P,N,N
+      PoliticallyCorrectGunman: Dd,Sd,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sb,N,Sa,N,Sb,N
+                 CourageTheDog: Sb,N,Dc,Dc,Dc,Dc,Da,Dc,P,Tc
+Final Health:
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -5
+                     Richochet: -6
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Richochet CourageTheDog
+PoliticallyCorrectGunman: InputAnalyzer Richochet CourageTheDog
+Richochet: InputAnalyzer PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: InputAnalyzer PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 06:33:05.328912627 UTC

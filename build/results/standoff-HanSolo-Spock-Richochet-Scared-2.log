@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Richochet Scared
+                       HanSolo: Sd,N,Sb,N,Sb
+                         Spock: Sd,N,Sa,N,Sa
+                     Richochet: Sd,N,Sb,N,Sa
+                        Scared: Sa,N,N,N,N
+Final Health:
+                       HanSolo: -3
+                         Spock: -1
+                     Richochet: 5
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Spock Richochet
+Spock: Scared HanSolo Richochet
+Richochet: Scared HanSolo Spock
+Scared: Richochet HanSolo Spock
+Generated: 2014/08/12 06:37:25.461494958 UTC

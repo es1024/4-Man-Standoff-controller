@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Bomberman Sniper
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Da,Dc,Dc,N,Da,Dd,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Sniper SimpleShooter Bomberman
+Bomberman: Sniper SimpleShooter TwentyFourthsAndAHalfCentury
+Sniper: Bomberman SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:56:29.404997712 UTC

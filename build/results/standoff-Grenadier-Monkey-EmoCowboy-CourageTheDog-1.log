@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey EmoCowboy CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,P,N,N
+                        Monkey: N,N,N,N,N,N,Db,N,N,N,N,N,P,N
+                     EmoCowboy: N,N,N,N,Sc,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,N,N,Db,Sa,N,Sb,N,Db,Db,P,Ta
+Final Health:
+                     Grenadier: -14
+                        Monkey: -9
+                     EmoCowboy: -2
+                 CourageTheDog: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy CourageTheDog Monkey
+Monkey: EmoCowboy CourageTheDog Grenadier
+EmoCowboy: Monkey CourageTheDog Grenadier
+CourageTheDog: Monkey EmoCowboy Grenadier
+Generated: 2014/08/12 08:56:12.954669465 UTC

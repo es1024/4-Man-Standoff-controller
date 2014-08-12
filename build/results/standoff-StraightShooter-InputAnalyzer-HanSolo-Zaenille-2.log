@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer HanSolo Zaenille
+               StraightShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Db,P,Sa,N
+                       HanSolo: Sd,N,Sa,N,Sa
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+               StraightShooter: -4
+                 InputAnalyzer: -7
+                       HanSolo: 2
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille InputAnalyzer HanSolo
+InputAnalyzer: Zaenille StraightShooter HanSolo
+HanSolo: Zaenille StraightShooter InputAnalyzer
+Zaenille: HanSolo StraightShooter InputAnalyzer
+Generated: 2014/08/12 10:32:36.557627547 UTC

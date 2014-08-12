@@ -1,16 +1,16 @@
 Standoff between: Pacifist PoliticallyCorrectGunman Spock SimpleShooter
-                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-      PoliticallyCorrectGunman: N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                         Spock: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
-                 SimpleShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                      Pacifist: N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sd,N,Da,N,Dd,N,N,N,N
+                         Spock: Sb,N,Sb,N,Sb,N,Sa,N,Sd
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,Sc,N,Sc
 Final Health:
                       Pacifist: -1
       PoliticallyCorrectGunman: -1
-                         Spock: -15
-                 SimpleShooter: -15
+                         Spock: -1
+                 SimpleShooter: 1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: Spock SimpleShooter PoliticallyCorrectGunman
 PoliticallyCorrectGunman: Spock SimpleShooter Pacifist
 Spock: PoliticallyCorrectGunman SimpleShooter Pacifist
 SimpleShooter: PoliticallyCorrectGunman Spock Pacifist
-Generated: 2014/08/11 00:59:14.192607160 UTC
+Generated: 2014/08/12 06:34:13.872976542 UTC

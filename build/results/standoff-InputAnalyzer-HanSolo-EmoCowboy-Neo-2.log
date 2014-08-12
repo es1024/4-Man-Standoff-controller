@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo EmoCowboy Neo
+                 InputAnalyzer: Dd,P,Dc,Sd
+                       HanSolo: Sd,N,Sd,N
+                     EmoCowboy: Sc,N,N,N
+                           Neo: N,Da,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 2
+                     EmoCowboy: -2
+                           Neo: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo HanSolo EmoCowboy
+HanSolo: Neo InputAnalyzer EmoCowboy
+EmoCowboy: Neo InputAnalyzer HanSolo
+Neo: EmoCowboy InputAnalyzer HanSolo
+Generated: 2014/08/12 06:55:36.398018392 UTC

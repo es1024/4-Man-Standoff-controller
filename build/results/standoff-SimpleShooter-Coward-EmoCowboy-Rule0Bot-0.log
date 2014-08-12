@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward EmoCowboy Rule0Bot
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sd
+                        Coward: Sd,N,Sa,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: 1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Coward EmoCowboy Rule0Bot
+Coward: SimpleShooter EmoCowboy Rule0Bot
+EmoCowboy: SimpleShooter Coward Rule0Bot
+Rule0Bot: SimpleShooter Coward EmoCowboy
+Generated: 2014/08/12 09:49:06.653111871 UTC

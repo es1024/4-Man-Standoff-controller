@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Spock Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Dc,Sa,N,Sa,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,Sa,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd
+                           Neo: N,N,N,Dc,N,N,N,N,N,N,N,Dc,Sc,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                         Spock: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Neo StraightShooter Spock
+Spock: Neo StraightShooter DONTNUKEMEBRO
+Neo: Spock StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 08:47:32.664977744 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Rule0Bot Neo
+                     Richochet: Sd,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,Da,N,N,Sa,N,N,N
+Final Health:
+                     Richochet: 3
+                      Zaenille: -2
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo Zaenille Rule0Bot
+Zaenille: Neo Richochet Rule0Bot
+Rule0Bot: Neo Richochet Zaenille
+Neo: Rule0Bot Richochet Zaenille
+Generated: 2014/08/12 08:47:36.485054286 UTC

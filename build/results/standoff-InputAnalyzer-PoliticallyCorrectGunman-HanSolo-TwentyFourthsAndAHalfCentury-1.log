@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dc,Db,Dc,Da,Sd,N,Db,Da,Dd,P,Sb,N
+      PoliticallyCorrectGunman: N,N,Dd,N,Sa,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Db,Db,Da,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo TwentyFourthsAndAHalfCentury InputAnalyzer
+HanSolo: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury InputAnalyzer
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman HanSolo InputAnalyzer
+Generated: 2014/08/12 10:06:29.577643606 UTC

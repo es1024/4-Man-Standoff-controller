@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey AntiGrenadier CourageTheDog
+                 InputAnalyzer: Db,P,Da,N
+                        Monkey: N,Sc,N,Sa
+                 AntiGrenadier: N,N,Sa,N
+                 CourageTheDog: Sc,N,P,Tb
+Final Health:
+                 InputAnalyzer: -8
+                        Monkey: -6
+                 AntiGrenadier: -5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey AntiGrenadier CourageTheDog
+Monkey: InputAnalyzer AntiGrenadier CourageTheDog
+AntiGrenadier: InputAnalyzer Monkey CourageTheDog
+CourageTheDog: InputAnalyzer Monkey AntiGrenadier
+Generated: 2014/08/12 05:45:10.404097753 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Sniper
+      PoliticallyCorrectGunman: P,N,Sd
+                 DONTNUKEMEBRO: Da,Sa,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Dd
+                        Sniper: Sb,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -5
+                 DONTNUKEMEBRO: 0
+  TwentyFourthsAndAHalfCentury: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: Sniper PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper PoliticallyCorrectGunman DONTNUKEMEBRO
+Sniper: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 06:24:04.283876651 UTC

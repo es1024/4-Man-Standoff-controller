@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Zaenille Rule0Bot
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,P,Tb
+                         Spock: N,N,N,N,N,N,N,N,N,Sd,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 2
+                         Spock: -3
+                      Zaenille: -2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Spock Zaenille
+Spock: Rule0Bot Grenadier Zaenille
+Zaenille: Rule0Bot Grenadier Spock
+Rule0Bot: Zaenille Grenadier Spock
+Generated: 2014/08/12 10:26:04.087095875 UTC

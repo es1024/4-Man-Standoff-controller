@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury Neo
+      PoliticallyCorrectGunman: Sb,N,P,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,N,N,N,Sd
+                           Neo: N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Neo Monkey
+Monkey: TwentyFourthsAndAHalfCentury Neo PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Monkey Neo PoliticallyCorrectGunman
+Neo: Monkey TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 07:55:57.841242582 UTC

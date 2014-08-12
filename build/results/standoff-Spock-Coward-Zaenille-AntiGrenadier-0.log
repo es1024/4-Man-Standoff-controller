@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Zaenille AntiGrenadier
+                         Spock: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,Sd,N,N,N,N,N,Sd
+                        Coward: Sd,N,Sa,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 3
+                        Coward: -1
+                      Zaenille: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Zaenille AntiGrenadier
+Coward: Spock Zaenille AntiGrenadier
+Zaenille: Spock Coward AntiGrenadier
+AntiGrenadier: Spock Coward Zaenille
+Generated: 2014/08/12 07:54:12.587921783 UTC

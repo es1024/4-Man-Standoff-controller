@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy Ninja CourageTheDog
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Sd,N,Sd,N,Sc,N,Sc,N,Sd,N
+                     EmoCowboy: N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Da,Dd,Da,Dc,Dd,Dc,Da,Db,Da,Db,N,N,N
+                 CourageTheDog: Sb,N,Da,Dc,Da,Dc,Sa,N,Sa,N,Dc,Sc,N,Da,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: CourageTheDog EmoCowboy Ninja
+EmoCowboy: CourageTheDog TwentyFourthsAndAHalfCentury Ninja
+Ninja: CourageTheDog TwentyFourthsAndAHalfCentury EmoCowboy
+CourageTheDog: Ninja TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 05:56:33.101844780 UTC

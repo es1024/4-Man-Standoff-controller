@@ -1,0 +1,16 @@
+Standoff between: Monkey Ninja AntiGrenadier Scared
+                        Monkey: N,N,N,N,Dc,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,N,Dd,Sb,N,N,N
+                         Ninja: Dd,Dd,Dc,Dc,Dd,Db,Da,Db,Dd,Dc,Db,Da,Db,Dc,Db,Dc,Dc,Dc,Dd,Db,Dc,Dd,Db,Da,Dd,Db,Dc,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sb,N,Sa,N,Sc
+Final Health:
+                        Monkey: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: AntiGrenadier Scared Ninja
+Ninja: AntiGrenadier Scared Monkey
+AntiGrenadier: Ninja Scared Monkey
+Scared: Ninja AntiGrenadier Monkey
+Generated: 2014/08/12 06:16:27.144160871 UTC

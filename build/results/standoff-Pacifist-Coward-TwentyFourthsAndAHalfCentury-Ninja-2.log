@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward TwentyFourthsAndAHalfCentury Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Da,Db,Dd,Db,Da,Db,Dd,Da,Da,Dd,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dc,Db,Db,Da,Dd,Dd,Dc,Dc,Da,Dd,Da,Dc,Dc,Dc,Dd,Da,Dd,Dc,Da,Dd,Dc
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Coward TwentyFourthsAndAHalfCentury
+Coward: Ninja Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Pacifist Coward
+Ninja: TwentyFourthsAndAHalfCentury Pacifist Coward
+Generated: 2014/08/12 08:02:05.624490231 UTC

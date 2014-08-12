@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,Db,N,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Db,Sd,N,Sd,N,Sd,N,Sb
+                 CourageTheDog: Sb,N,Db,Db,Sb,N,Dc,Db,Dc,Sc,N,Dc,N
+Final Health:
+                      Zaenille: -2
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+Monkey: Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: Zaenille Monkey CourageTheDog
+CourageTheDog: Zaenille Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:28:29.162445853 UTC

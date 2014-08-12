@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Ninja Neo
+                     Aggressor: P,Tb,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N
+                         Ninja: Db,Dd,Db,N,N
+                           Neo: N,N,N,N,N
+Final Health:
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: -3
+                         Ninja: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury Ninja Neo
+TwentyFourthsAndAHalfCentury: Aggressor Ninja Neo
+Ninja: Aggressor TwentyFourthsAndAHalfCentury Neo
+Neo: Aggressor TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 10:25:52.027013010 UTC

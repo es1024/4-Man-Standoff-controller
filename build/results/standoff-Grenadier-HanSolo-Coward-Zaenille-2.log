@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Coward Zaenille
+                     Grenadier: P,Tc
+                       HanSolo: Sd,N
+                        Coward: Sb,N
+                      Zaenille: Sd,N
+Final Health:
+                     Grenadier: 2
+                       HanSolo: 0
+                        Coward: -3
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille HanSolo Coward
+HanSolo: Zaenille Grenadier Coward
+Coward: Zaenille Grenadier HanSolo
+Zaenille: Coward Grenadier HanSolo
+Generated: 2014/08/12 08:23:48.964249814 UTC

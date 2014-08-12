@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO TwentyFourthsAndAHalfCentury AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Dd,Dd,Dc,Da,Dc,Dd,Dd,Dd,Dc,Dc,Dd,Dc,Dd,Dc,Dc,Dd,Dd,Dc,Dc,Dd,Dc,Dc,Dd,Dc,Dd,Da,Dc,Dd,Dd,Dd,Da,Dc,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Dd,Db,Dd,Db,Db,Db,Da,Db,Da,Db,Da,Db,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Db,N,Db,N,Db,Sb,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury AntiGrenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury AntiGrenadier StraightShooter
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO AntiGrenadier StraightShooter
+AntiGrenadier: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 08:02:44.211848347 UTC

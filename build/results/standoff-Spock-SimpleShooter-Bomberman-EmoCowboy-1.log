@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Bomberman EmoCowboy
+                         Spock: Sc,N,Sc,N,Sc
+                 SimpleShooter: Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman EmoCowboy SimpleShooter
+SimpleShooter: Bomberman EmoCowboy Spock
+Bomberman: SimpleShooter EmoCowboy Spock
+EmoCowboy: SimpleShooter Bomberman Spock
+Generated: 2014/08/12 07:51:55.941642822 UTC

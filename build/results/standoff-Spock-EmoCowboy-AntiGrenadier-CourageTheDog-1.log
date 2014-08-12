@@ -1,0 +1,16 @@
+Standoff between: Spock EmoCowboy AntiGrenadier CourageTheDog
+                         Spock: Sc,N,Sc,N,Sc,N,N,N,Sc,N,N,Sc,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Da,Sa,N,Da,Da,Sa,N,Da,Sa
+Final Health:
+                         Spock: -1
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier CourageTheDog EmoCowboy
+EmoCowboy: AntiGrenadier CourageTheDog Spock
+AntiGrenadier: EmoCowboy CourageTheDog Spock
+CourageTheDog: EmoCowboy AntiGrenadier Spock
+Generated: 2014/08/12 07:13:20.919810744 UTC

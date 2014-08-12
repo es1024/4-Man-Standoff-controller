@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Richochet Rule0Bot
+                         Spock: Sd,N,Sd,N,Sd,N,Sd
+                        Coward: Sc,N,Sc,N,Sc,N,Sa
+                     Richochet: Sa,N,Sa,N,Sd,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 5
+                     Richochet: -1
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot Coward Richochet
+Coward: Rule0Bot Spock Richochet
+Richochet: Rule0Bot Spock Coward
+Rule0Bot: Richochet Spock Coward
+Generated: 2014/08/12 09:35:22.536364074 UTC

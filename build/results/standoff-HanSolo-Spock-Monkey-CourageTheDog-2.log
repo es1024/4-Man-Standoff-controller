@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Monkey CourageTheDog
+                       HanSolo: Sd,N,Sb,N,Sb,N,Sb
+                         Spock: Sd,N,Sc,N,Sd,N,Sd
+                        Monkey: N,Sd,N,Sc,N,N,N
+                 CourageTheDog: Sc,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                        Monkey: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Spock Monkey
+Spock: CourageTheDog HanSolo Monkey
+Monkey: CourageTheDog HanSolo Spock
+CourageTheDog: Monkey HanSolo Spock
+Generated: 2014/08/12 10:22:56.680994440 UTC

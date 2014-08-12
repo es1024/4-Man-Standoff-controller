@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Ninja Rule0Bot
+      PoliticallyCorrectGunman: Db,Sb,N,N,N,N,N,N,N,N,N,N,Dc,Sc,N,P,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Da,Dd,Dd,Dc,Dd,Dc,Dd,Da,Db,Db,Da,Dd,Dc,Dd,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -10
+                     Bomberman: 0
+                         Ninja: 0
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Bomberman Ninja
+Bomberman: Rule0Bot PoliticallyCorrectGunman Ninja
+Ninja: Rule0Bot PoliticallyCorrectGunman Bomberman
+Rule0Bot: Ninja PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 06:55:17.878244554 UTC

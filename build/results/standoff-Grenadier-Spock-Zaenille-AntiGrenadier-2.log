@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Zaenille AntiGrenadier
+                     Grenadier: N,P,Tb
+                         Spock: Sd,N,Sd
+                      Zaenille: Sc,N,N
+                 AntiGrenadier: N,N,Sa
+Final Health:
+                     Grenadier: 0
+                         Spock: -3
+                      Zaenille: -2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Spock Zaenille
+Spock: AntiGrenadier Grenadier Zaenille
+Zaenille: AntiGrenadier Grenadier Spock
+AntiGrenadier: Zaenille Grenadier Spock
+Generated: 2014/08/12 09:59:57.218768342 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet AntiGrenadier Sniper Neo
+                     Richochet: Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,Db,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                 AntiGrenadier: -1
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Sniper Neo AntiGrenadier
+AntiGrenadier: Sniper Neo Richochet
+Sniper: AntiGrenadier Neo Richochet
+Neo: AntiGrenadier Sniper Richochet
+Generated: 2014/08/12 10:47:35.041189597 UTC

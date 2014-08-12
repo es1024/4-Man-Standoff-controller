@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Richochet Sniper
+                     Grenadier: N,N,N,P,N,N
+                         Spock: Sc,N,Sc,N,Sd,N
+                     Richochet: Sd,N,Sd,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: 2
+                     Richochet: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Sniper Spock
+Spock: Richochet Sniper Grenadier
+Richochet: Spock Sniper Grenadier
+Sniper: Spock Richochet Grenadier
+Generated: 2014/08/12 08:43:35.138238898 UTC

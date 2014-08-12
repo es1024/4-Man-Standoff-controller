@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Scared
+                 InputAnalyzer: Dd,Da,Sb,N,Db,P,Sd
+                 DONTNUKEMEBRO: Dd,Dc,Dc,Dd,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,N,Dd,Db,Db,Da,Dd
+                        Scared: Sa,N,Sa,N,Sc,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 0
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: Scared InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared InputAnalyzer DONTNUKEMEBRO
+Scared: TwentyFourthsAndAHalfCentury InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 09:29:05.437171868 UTC

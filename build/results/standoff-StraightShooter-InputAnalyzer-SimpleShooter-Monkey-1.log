@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer SimpleShooter Monkey
+               StraightShooter: Sd,N,Sd,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Da,Sb,N,N
+                 SimpleShooter: Sa,N,Sb,N,Sb,N,Sd
+                        Monkey: N,N,Sa,N,Da,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -4
+                 SimpleShooter: 5
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Monkey InputAnalyzer
+InputAnalyzer: SimpleShooter Monkey StraightShooter
+SimpleShooter: InputAnalyzer Monkey StraightShooter
+Monkey: InputAnalyzer SimpleShooter StraightShooter
+Generated: 2014/08/12 07:17:56.154310126 UTC

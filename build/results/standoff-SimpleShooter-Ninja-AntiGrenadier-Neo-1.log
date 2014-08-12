@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Ninja AntiGrenadier Neo
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc
+                         Ninja: Dc,Dc,Db,Dd,Da,Dd,Db,Da,Da,Dd,Da,Dd,Dd,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: AntiGrenadier Neo Ninja
+Ninja: AntiGrenadier Neo SimpleShooter
+AntiGrenadier: Ninja Neo SimpleShooter
+Neo: Ninja AntiGrenadier SimpleShooter
+Generated: 2014/08/12 10:28:24.644240124 UTC

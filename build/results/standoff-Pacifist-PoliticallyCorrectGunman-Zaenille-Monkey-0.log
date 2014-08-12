@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Zaenille Monkey
+                      Pacifist: N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sa,N,Dd,Sd,N,Sb
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Sd,N
+Final Health:
+                      Pacifist: 3
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Zaenille Monkey
+PoliticallyCorrectGunman: Pacifist Zaenille Monkey
+Zaenille: Pacifist PoliticallyCorrectGunman Monkey
+Monkey: Pacifist PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 08:13:58.464837750 UTC

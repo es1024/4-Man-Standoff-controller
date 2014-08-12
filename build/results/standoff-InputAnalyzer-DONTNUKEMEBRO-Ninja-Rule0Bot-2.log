@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Ninja Rule0Bot
+                 InputAnalyzer: Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Dc,Dc,Dd,Dd,Da,Dc,Dd,Dd,Dd,Dc,Dc,Da,Da,Dc,Dd,Dd,Dd,Da,Dd,Dd,Da,Dc,Dd,Dd,Dc,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                         Ninja: Dd,Dd,Dc,Dc,Dc,Dc,Dc,Db,Db,Db,Db,Dd,Dc,Da,Db,Dd,Dc,Dc,Db,Dc,Da,Dd,Db,Dd,Dc,Dd,Dd,Dd,Dc,Dd,Db,Dd,Dd,Da,Da,Da,Da,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                 DONTNUKEMEBRO: -15
+                         Ninja: -1
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot DONTNUKEMEBRO Ninja
+DONTNUKEMEBRO: Rule0Bot InputAnalyzer Ninja
+Ninja: Rule0Bot InputAnalyzer DONTNUKEMEBRO
+Rule0Bot: Ninja InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:23:52.389009044 UTC

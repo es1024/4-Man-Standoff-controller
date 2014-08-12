@@ -1,0 +1,16 @@
+Standoff between: HanSolo Sniper Scared CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sd
+                        Sniper: Sc,N,Sd,N,N,N,N
+                        Scared: Sb,N,Sd,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Da,Sc,N
+Final Health:
+                       HanSolo: 3
+                        Sniper: -1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Scared CourageTheDog
+Sniper: HanSolo Scared CourageTheDog
+Scared: HanSolo Sniper CourageTheDog
+CourageTheDog: HanSolo Sniper Scared
+Generated: 2014/08/12 07:37:00.725708123 UTC

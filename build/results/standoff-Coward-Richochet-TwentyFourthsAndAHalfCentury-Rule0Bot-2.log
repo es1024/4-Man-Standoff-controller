@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet TwentyFourthsAndAHalfCentury Rule0Bot
+                        Coward: Sc,N,Sc,N,Sc,N,Sc,N,Sb,N,N,N,N,N,N
+                     Richochet: Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dd,Db,Dd,Da,Dd,Dd,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot Richochet TwentyFourthsAndAHalfCentury
+Richochet: Rule0Bot Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Coward Richochet
+Rule0Bot: TwentyFourthsAndAHalfCentury Coward Richochet
+Generated: 2014/08/12 09:45:51.035531958 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Richochet EmoCowboy
+                 InputAnalyzer: Db,Dc,N
+                     Aggressor: P,Ta,Sc
+                     Richochet: Sd,N,Sb
+                     EmoCowboy: N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 0
+                     Richochet: 0
+                     EmoCowboy: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Richochet EmoCowboy
+Aggressor: InputAnalyzer Richochet EmoCowboy
+Richochet: InputAnalyzer Aggressor EmoCowboy
+EmoCowboy: InputAnalyzer Aggressor Richochet
+Generated: 2014/08/12 08:48:27.629352605 UTC

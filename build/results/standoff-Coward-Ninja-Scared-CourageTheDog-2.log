@@ -1,0 +1,16 @@
+Standoff between: Coward Ninja Scared CourageTheDog
+                        Coward: Sc,N,Sc,N,Sb,N,Sd,N,Dc,Dd,Sd,N
+                         Ninja: Dc,Db,Dd,Dc,Db,Db,N,N,N,N,N,N
+                        Scared: N,N,Sb,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,Db,Sb,N,Sa,N,Sa,N,Sa
+Final Health:
+                        Coward: -1
+                         Ninja: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Ninja Scared
+Ninja: CourageTheDog Coward Scared
+Scared: CourageTheDog Coward Ninja
+CourageTheDog: Scared Coward Ninja
+Generated: 2014/08/12 07:15:03.649235072 UTC

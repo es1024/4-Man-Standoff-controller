@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Scared Neo
+      PoliticallyCorrectGunman: N,Sa,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc
+                        Scared: N,Sa,N,Sb,N,Sd,N,Sb,N,N,N
+                           Neo: N,Da,Db,Dc,Db,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                     Richochet: 1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared Neo Richochet
+Richochet: Scared Neo PoliticallyCorrectGunman
+Scared: Richochet Neo PoliticallyCorrectGunman
+Neo: Richochet Scared PoliticallyCorrectGunman
+Generated: 2014/08/12 08:46:06.446990948 UTC

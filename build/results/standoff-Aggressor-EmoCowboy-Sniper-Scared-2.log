@@ -1,0 +1,16 @@
+Standoff between: Aggressor EmoCowboy Sniper Scared
+                     Aggressor: P,Td
+                     EmoCowboy: Sb,N
+                        Sniper: Sb,N
+                        Scared: Sa,N
+Final Health:
+                     Aggressor: 0
+                     EmoCowboy: -4
+                        Sniper: 2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Scared EmoCowboy Sniper
+EmoCowboy: Scared Aggressor Sniper
+Sniper: Scared Aggressor EmoCowboy
+Scared: Sniper Aggressor EmoCowboy
+Generated: 2014/08/12 07:50:03.547906042 UTC

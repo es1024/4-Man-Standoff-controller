@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Zaenille EmoCowboy
+                       HanSolo: Sb,N,Sb,N,Sb
+                         Spock: Sa,N,N,N,N
+                      Zaenille: Sc,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                         Spock: -1
+                      Zaenille: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock Zaenille EmoCowboy
+Spock: HanSolo Zaenille EmoCowboy
+Zaenille: HanSolo Spock EmoCowboy
+EmoCowboy: HanSolo Spock Zaenille
+Generated: 2014/08/12 10:09:10.244765553 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Zaenille Monkey
+               StraightShooter: Sb,N
+                     Aggressor: P,Td
+                      Zaenille: Sc,N
+                        Monkey: N,P
+Final Health:
+               StraightShooter: -1
+                     Aggressor: -3
+                      Zaenille: -2
+                        Monkey: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Aggressor Zaenille
+Aggressor: Monkey StraightShooter Zaenille
+Zaenille: Monkey StraightShooter Aggressor
+Monkey: Zaenille StraightShooter Aggressor
+Generated: 2014/08/12 05:45:32.358878490 UTC

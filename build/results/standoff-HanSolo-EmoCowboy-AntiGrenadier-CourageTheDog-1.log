@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy AntiGrenadier CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Sa,N,Da,Da,Sa,N,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier CourageTheDog EmoCowboy
+EmoCowboy: AntiGrenadier CourageTheDog HanSolo
+AntiGrenadier: EmoCowboy CourageTheDog HanSolo
+CourageTheDog: EmoCowboy AntiGrenadier HanSolo
+Generated: 2014/08/12 09:31:28.496046858 UTC

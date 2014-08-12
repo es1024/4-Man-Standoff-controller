@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey TwentyFourthsAndAHalfCentury Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Monkey: N,Sc,N,Da,Dc,Sc,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Da,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,Db,Db,Db,Da,Db,Db,Db,Db,N,N,N,N,N,N,N,N,N,Db,N,Db,N,Db,N,Da,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                        Monkey: -15
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey TwentyFourthsAndAHalfCentury Neo
+Monkey: StraightShooter TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: StraightShooter Monkey Neo
+Neo: StraightShooter Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:24:54.707531486 UTC

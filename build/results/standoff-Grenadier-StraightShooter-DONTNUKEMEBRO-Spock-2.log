@@ -1,16 +1,16 @@
 Standoff between: Grenadier StraightShooter DONTNUKEMEBRO Spock
-                     Grenadier: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
-                 DONTNUKEMEBRO: Dd,Sa,N,Dd,Dd,Db,Db,Db,Db,Db,Db,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Da,Db,Db,Dd,Dd,Da,Da,Da,Da,Da,Da,Da,Da,Db,Db,Db,Db,Dd,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Db,Db
-                         Spock: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Grenadier: P,Td
+               StraightShooter: Sa,N
+                 DONTNUKEMEBRO: Da,Sa
+                         Spock: Sc,N
 Final Health:
                      Grenadier: -2
-               StraightShooter: -18
-                 DONTNUKEMEBRO: -18
+               StraightShooter: 2
+                 DONTNUKEMEBRO: 0
                          Spock: -3
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: Spock StraightShooter DONTNUKEMEBRO
 StraightShooter: Spock Grenadier DONTNUKEMEBRO
 DONTNUKEMEBRO: Spock Grenadier StraightShooter
 Spock: DONTNUKEMEBRO Grenadier StraightShooter
-Generated: 2014/08/11 01:00:12.512921139 UTC
+Generated: 2014/08/12 09:30:47.631362475 UTC

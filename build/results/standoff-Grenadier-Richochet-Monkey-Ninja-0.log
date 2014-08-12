@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Monkey Ninja
+                     Grenadier: N,P,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sc,N,Sd,N,Sd
+                        Monkey: N,N,Db,Db,N,N,N,N,N
+                         Ninja: Da,Db,Db,Dd,Dd,Da,Db,Da,Dd
+Final Health:
+                     Grenadier: -3
+                     Richochet: 2
+                        Monkey: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Monkey Ninja
+Richochet: Grenadier Monkey Ninja
+Monkey: Grenadier Richochet Ninja
+Ninja: Grenadier Richochet Monkey
+Generated: 2014/08/12 07:17:23.335046235 UTC

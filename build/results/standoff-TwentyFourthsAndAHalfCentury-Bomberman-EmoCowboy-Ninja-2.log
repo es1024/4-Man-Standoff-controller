@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman EmoCowboy Ninja
+  TwentyFourthsAndAHalfCentury: Dc,Db,Sd,N,N,N,N,N,N,N,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb,N,N,N,N,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Da,Dc,Dc,Dd,Dc,Dc,Db,Da,Dc,Dd,Db,Da,Dc,Dd,Db,Dc,Da,Db,Dc,Dd,Dc,Db,Dd,Dd,Db,Dc
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Ninja Bomberman EmoCowboy
+Bomberman: Ninja TwentyFourthsAndAHalfCentury EmoCowboy
+EmoCowboy: Ninja TwentyFourthsAndAHalfCentury Bomberman
+Ninja: EmoCowboy TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 07:28:16.970480825 UTC

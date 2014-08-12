@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Richochet Zaenille
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sa
+                     Richochet: Sa,N,Sb,N,N,N,N
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 3
+                     Richochet: -1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Richochet Zaenille
+SimpleShooter: StraightShooter Richochet Zaenille
+Richochet: StraightShooter SimpleShooter Zaenille
+Zaenille: StraightShooter SimpleShooter Richochet
+Generated: 2014/08/12 07:33:13.978641592 UTC

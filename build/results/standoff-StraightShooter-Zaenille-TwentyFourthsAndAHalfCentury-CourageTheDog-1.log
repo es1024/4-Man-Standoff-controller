@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Dd,Dd,Da,Sa,N,Sa,N,N,N,N,N,N,N,N,Sa
+                 CourageTheDog: Sb,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury CourageTheDog Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury CourageTheDog StraightShooter
+TwentyFourthsAndAHalfCentury: Zaenille CourageTheDog StraightShooter
+CourageTheDog: Zaenille TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 08:38:34.109416207 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N
+                 InputAnalyzer: Da,Sd,N,P,Db,Dc
+      PoliticallyCorrectGunman: Sb,N,Sd,N,N,Sc
+  TwentyFourthsAndAHalfCentury: Db,Db,Da,Db,Db,Da
+Final Health:
+                      Pacifist: 2
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: -5
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+InputAnalyzer: Pacifist PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+PoliticallyCorrectGunman: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 05:57:03.107524258 UTC

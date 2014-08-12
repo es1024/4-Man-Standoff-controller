@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Aggressor CourageTheDog
+                 InputAnalyzer: Db,Dd,N,N
+                       HanSolo: Sa,N,Sd,N
+                     Aggressor: P,Ta,N,N
+                 CourageTheDog: Sc,N,Db,Sb
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 0
+                     Aggressor: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Aggressor CourageTheDog
+HanSolo: InputAnalyzer Aggressor CourageTheDog
+Aggressor: InputAnalyzer HanSolo CourageTheDog
+CourageTheDog: InputAnalyzer HanSolo Aggressor
+Generated: 2014/08/12 05:49:25.410442119 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Sniper Scared
+                 InputAnalyzer: Dd,Da,Sa,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                       HanSolo: 3
+                        Sniper: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared HanSolo Sniper
+HanSolo: Scared InputAnalyzer Sniper
+Sniper: Scared InputAnalyzer HanSolo
+Scared: Sniper InputAnalyzer HanSolo
+Generated: 2014/08/12 10:22:01.745513762 UTC

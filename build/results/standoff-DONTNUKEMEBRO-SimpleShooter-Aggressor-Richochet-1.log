@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Aggressor Richochet
+                 DONTNUKEMEBRO: Dc,Sc
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Td
+                     Richochet: Sb,N
+Final Health:
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 0
+                     Aggressor: 0
+                     Richochet: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Aggressor Richochet SimpleShooter
+SimpleShooter: Aggressor Richochet DONTNUKEMEBRO
+Aggressor: SimpleShooter Richochet DONTNUKEMEBRO
+Richochet: SimpleShooter Aggressor DONTNUKEMEBRO
+Generated: 2014/08/12 10:07:06.460246922 UTC

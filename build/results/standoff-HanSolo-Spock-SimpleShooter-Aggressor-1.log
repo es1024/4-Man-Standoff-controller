@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock SimpleShooter Aggressor
+                       HanSolo: Sc,N
+                         Spock: N,N
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+Final Health:
+                       HanSolo: 0
+                         Spock: -3
+                 SimpleShooter: 0
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Aggressor Spock
+Spock: SimpleShooter Aggressor HanSolo
+SimpleShooter: Spock Aggressor HanSolo
+Aggressor: Spock SimpleShooter HanSolo
+Generated: 2014/08/12 08:47:43.179878741 UTC

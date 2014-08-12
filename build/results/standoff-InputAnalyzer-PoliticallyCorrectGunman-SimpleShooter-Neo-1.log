@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman SimpleShooter Neo
+                 InputAnalyzer: Dc,P,N,Dd
+      PoliticallyCorrectGunman: N,P,N,Tc
+                 SimpleShooter: Sa,N,Sa,N
+                           Neo: N,Da,N,Da
+Final Health:
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: -6
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: SimpleShooter Neo InputAnalyzer
+SimpleShooter: PoliticallyCorrectGunman Neo InputAnalyzer
+Neo: PoliticallyCorrectGunman SimpleShooter InputAnalyzer
+Generated: 2014/08/12 07:24:39.418820116 UTC

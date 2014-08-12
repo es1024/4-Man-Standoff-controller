@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Monkey CourageTheDog
+                 InputAnalyzer: Dc,Dd,P,Dd,Da
+                         Spock: N,Sc,N,Sc,N
+                        Monkey: N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,P,Tb
+Final Health:
+                 InputAnalyzer: -4
+                         Spock: -6
+                        Monkey: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey CourageTheDog Spock
+Spock: Monkey CourageTheDog InputAnalyzer
+Monkey: Spock CourageTheDog InputAnalyzer
+CourageTheDog: Spock Monkey InputAnalyzer
+Generated: 2014/08/12 07:00:29.562641655 UTC

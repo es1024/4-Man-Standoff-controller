@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Zaenille Neo
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+                      Zaenille: -2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo Richochet Zaenille
+Richochet: Neo HanSolo Zaenille
+Zaenille: Neo HanSolo Richochet
+Neo: Zaenille HanSolo Richochet
+Generated: 2014/08/12 07:27:32.618317949 UTC

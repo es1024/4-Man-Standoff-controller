@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Monkey TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,Dd,P,Dc,Dd
+                 SimpleShooter: Sd,N,Sc,N,Sa
+                        Monkey: N,N,N,P,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,N,N
+Final Health:
+                 InputAnalyzer: -6
+                 SimpleShooter: -1
+                        Monkey: -6
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Monkey TwentyFourthsAndAHalfCentury
+SimpleShooter: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury
+Monkey: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer SimpleShooter Monkey
+Generated: 2014/08/12 05:58:26.296677210 UTC

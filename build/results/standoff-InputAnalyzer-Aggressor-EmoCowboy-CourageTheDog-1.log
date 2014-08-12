@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor EmoCowboy CourageTheDog
+                 InputAnalyzer: Dc,Sb
+                     Aggressor: P,Td
+                     EmoCowboy: Sc,N
+                 CourageTheDog: Sa,N
+Final Health:
+                 InputAnalyzer: 0
+                     Aggressor: 0
+                     EmoCowboy: -2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy CourageTheDog Aggressor
+Aggressor: EmoCowboy CourageTheDog InputAnalyzer
+EmoCowboy: Aggressor CourageTheDog InputAnalyzer
+CourageTheDog: Aggressor EmoCowboy InputAnalyzer
+Generated: 2014/08/12 10:45:47.987899349 UTC

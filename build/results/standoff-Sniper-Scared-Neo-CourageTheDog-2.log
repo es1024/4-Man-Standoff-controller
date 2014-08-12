@@ -1,0 +1,16 @@
+Standoff between: Sniper Scared Neo CourageTheDog
+                        Sniper: Sb,N,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,Dd,N,Dd,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Dc,Sb,N,Da,Dc,Sa,N,Da,Sa,N,Dc,Dc,Dc,Dc,Dc,N,Sc,N,Sc
+Final Health:
+                        Sniper: -1
+                        Scared: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Sniper: CourageTheDog Scared Neo
+Scared: CourageTheDog Sniper Neo
+Neo: CourageTheDog Sniper Scared
+CourageTheDog: Neo Sniper Scared
+Generated: 2014/08/12 08:15:09.989441012 UTC

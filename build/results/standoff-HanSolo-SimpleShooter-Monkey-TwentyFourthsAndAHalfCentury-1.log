@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Monkey TwentyFourthsAndAHalfCentury
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                        Monkey: N,Sc,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dc,Da,N,Da,N,Da,N,Db
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 5
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey TwentyFourthsAndAHalfCentury SimpleShooter
+SimpleShooter: Monkey TwentyFourthsAndAHalfCentury HanSolo
+Monkey: SimpleShooter TwentyFourthsAndAHalfCentury HanSolo
+TwentyFourthsAndAHalfCentury: SimpleShooter Monkey HanSolo
+Generated: 2014/08/12 09:37:05.550593374 UTC

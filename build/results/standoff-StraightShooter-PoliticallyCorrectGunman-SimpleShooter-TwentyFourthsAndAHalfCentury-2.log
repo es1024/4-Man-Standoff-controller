@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman SimpleShooter TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd,N,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,Da,N,Da,N,Da,N,Dc,N,Da,N,Da,Sc,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman SimpleShooter
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury StraightShooter SimpleShooter
+SimpleShooter: TwentyFourthsAndAHalfCentury StraightShooter PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: SimpleShooter StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 09:16:45.891269924 UTC

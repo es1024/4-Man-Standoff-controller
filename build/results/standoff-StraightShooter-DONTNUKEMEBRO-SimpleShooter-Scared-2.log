@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter Scared
+               StraightShooter: Sb,N,Sb,N
+                 DONTNUKEMEBRO: Da,Dd,P,Tc
+                 SimpleShooter: Sb,N,Sa,N
+                        Scared: N,N,N,Sb
+Final Health:
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -4
+                 SimpleShooter: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Scared StraightShooter SimpleShooter
+SimpleShooter: Scared StraightShooter DONTNUKEMEBRO
+Scared: SimpleShooter StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 08:23:39.939737850 UTC

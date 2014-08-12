@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Bomberman Scared
+                     Aggressor: P,Tc,Sd
+                      Zaenille: Sb,N,N
+                     Bomberman: N,N,N
+                        Scared: N,N,Sa
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -2
+                     Bomberman: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman Scared Zaenille
+Zaenille: Bomberman Scared Aggressor
+Bomberman: Zaenille Scared Aggressor
+Scared: Zaenille Bomberman Aggressor
+Generated: 2014/08/12 06:47:33.552682391 UTC

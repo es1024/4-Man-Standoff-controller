@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Monkey Neo
+                     Grenadier: N,P,N,N,N,N,N,N
+                         Spock: Sc,N,N,N,Sc,N,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: 2
+                        Monkey: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Neo Spock
+Spock: Monkey Neo Grenadier
+Monkey: Spock Neo Grenadier
+Neo: Spock Monkey Grenadier
+Generated: 2014/08/12 07:15:53.127186516 UTC

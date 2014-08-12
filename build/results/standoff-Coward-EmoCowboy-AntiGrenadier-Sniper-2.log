@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy AntiGrenadier Sniper
+                        Coward: Sc,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N
+Final Health:
+                        Coward: 5
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Sniper EmoCowboy AntiGrenadier
+EmoCowboy: Sniper Coward AntiGrenadier
+AntiGrenadier: Sniper Coward EmoCowboy
+Sniper: AntiGrenadier Coward EmoCowboy
+Generated: 2014/08/12 07:24:00.625135673 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy AntiGrenadier Neo
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Sd,N
+Final Health:
+                       HanSolo: -15
+                     EmoCowboy: -2
+                 AntiGrenadier: -15
+                           Neo: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo EmoCowboy AntiGrenadier
+EmoCowboy: Neo HanSolo AntiGrenadier
+AntiGrenadier: Neo HanSolo EmoCowboy
+Neo: AntiGrenadier HanSolo EmoCowboy
+Generated: 2014/08/12 10:50:18.846078687 UTC

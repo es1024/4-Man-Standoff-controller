@@ -1,0 +1,16 @@
+Standoff between: Aggressor Ninja AntiGrenadier Sniper
+                     Aggressor: P,Td
+                         Ninja: Dd,Dc
+                 AntiGrenadier: N,Sa
+                        Sniper: Sc,N
+Final Health:
+                     Aggressor: 0
+                         Ninja: 2
+                 AntiGrenadier: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper Ninja AntiGrenadier
+Ninja: Sniper Aggressor AntiGrenadier
+AntiGrenadier: Sniper Aggressor Ninja
+Sniper: AntiGrenadier Aggressor Ninja
+Generated: 2014/08/12 10:20:32.635874680 UTC

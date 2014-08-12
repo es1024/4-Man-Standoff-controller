@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Zaenille CourageTheDog
+                     Grenadier: P,N,N
+                         Spock: Sd,N,N
+                      Zaenille: Sc,N,N
+                 CourageTheDog: Sa,N,Sa
+Final Health:
+                     Grenadier: -5
+                         Spock: 2
+                      Zaenille: -2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Spock Zaenille
+Spock: CourageTheDog Grenadier Zaenille
+Zaenille: CourageTheDog Grenadier Spock
+CourageTheDog: Zaenille Grenadier Spock
+Generated: 2014/08/12 06:16:46.576540220 UTC

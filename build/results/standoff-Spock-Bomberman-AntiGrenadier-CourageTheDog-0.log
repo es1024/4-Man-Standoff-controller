@@ -1,0 +1,16 @@
+Standoff between: Spock Bomberman AntiGrenadier CourageTheDog
+                         Spock: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Dc,Sb,N,Sa,N,Sc,N,Sa,N,Sc,N,Sc
+Final Health:
+                         Spock: -1
+                     Bomberman: -3
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman AntiGrenadier CourageTheDog
+Bomberman: Spock AntiGrenadier CourageTheDog
+AntiGrenadier: Spock Bomberman CourageTheDog
+CourageTheDog: Spock Bomberman AntiGrenadier
+Generated: 2014/08/12 07:30:00.354843476 UTC

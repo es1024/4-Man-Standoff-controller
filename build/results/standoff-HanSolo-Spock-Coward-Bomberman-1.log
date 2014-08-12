@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Coward Bomberman
+                       HanSolo: Sc,N,Sc,N,Sd,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sa,N,N,N,N,N,N,Sd,N,Sd
+                        Coward: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: 5
+                        Coward: -3
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Bomberman Spock
+Spock: Coward Bomberman HanSolo
+Coward: Spock Bomberman HanSolo
+Bomberman: Spock Coward HanSolo
+Generated: 2014/08/12 07:28:18.911672930 UTC

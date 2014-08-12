@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Zaenille EmoCowboy
+                         Spock: Sb,N,Sb,N,N,N,N
+                 SimpleShooter: Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 1
+                      Zaenille: -2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Zaenille EmoCowboy
+SimpleShooter: Spock Zaenille EmoCowboy
+Zaenille: Spock SimpleShooter EmoCowboy
+EmoCowboy: Spock SimpleShooter Zaenille
+Generated: 2014/08/12 08:26:16.355456091 UTC

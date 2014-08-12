@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Ninja CourageTheDog
+                       HanSolo: Sc,N,Sc,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                         Ninja: Db,Dc,Dd,Da,Da,Da,Db,Dd,Db
+                 CourageTheDog: Sa,N,Db,Db,Dc,Db,Sb,N,Sc
+Final Health:
+                       HanSolo: -1
+                        Coward: 3
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja CourageTheDog Coward
+Coward: Ninja CourageTheDog HanSolo
+Ninja: Coward CourageTheDog HanSolo
+CourageTheDog: Coward Ninja HanSolo
+Generated: 2014/08/12 07:24:59.419590257 UTC

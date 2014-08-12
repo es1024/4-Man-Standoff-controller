@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey Ninja CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Db,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Da,Dd,Da,Db,Da,Dc,Db,Da,Dc,Dd,Dd,Dc,Da,Db,Db,Da,Dc,Dd,Db,Da,Dd,Da,Dd,Db,Da
+                 CourageTheDog: Sb,N,Sb,N,Dc,Dc,Sc,N,Db,Dc,Db,Db,Sb,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Sc
+Final Health:
+                      Zaenille: -2
+                        Monkey: -1
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog Monkey Ninja
+Monkey: CourageTheDog Zaenille Ninja
+Ninja: CourageTheDog Zaenille Monkey
+CourageTheDog: Ninja Zaenille Monkey
+Generated: 2014/08/12 05:56:44.786367405 UTC

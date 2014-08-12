@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor TwentyFourthsAndAHalfCentury Bomberman
+                      Pacifist: N,N,N,N
+                     Aggressor: P,Td,Sa,N
+  TwentyFourthsAndAHalfCentury: N,Db,Da,Sb
+                     Bomberman: N,N,N,N
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Bomberman Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Pacifist Aggressor
+Bomberman: TwentyFourthsAndAHalfCentury Pacifist Aggressor
+Generated: 2014/08/12 06:33:10.764894206 UTC

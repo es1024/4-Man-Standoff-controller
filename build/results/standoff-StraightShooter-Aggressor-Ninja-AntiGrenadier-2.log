@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Ninja AntiGrenadier
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Da,Da,Db,Db,Dd,Dd,Dd,Db,Db,Db,Da,Da,Da,Dc,Dc,Da,Da,Da,Dd,Db,Dd,Dd,Da,Da,Db,Db,Dc,Dc,Dd,Dd,Dc,Dc,Dc,Db,Dd,Db,Dc,Da,Dd,Dd,Db,Db,Dc,Dc,Dc,Dc,Dc,Dc
+                 AntiGrenadier: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -18
+                     Aggressor: -2
+                         Ninja: -18
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: AntiGrenadier Aggressor Ninja
+Aggressor: AntiGrenadier StraightShooter Ninja
+Ninja: AntiGrenadier StraightShooter Aggressor
+AntiGrenadier: Ninja StraightShooter Aggressor
+Generated: 2014/08/12 06:07:36.061778452 UTC

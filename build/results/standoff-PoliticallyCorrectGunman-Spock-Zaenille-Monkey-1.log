@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Zaenille Monkey
+      PoliticallyCorrectGunman: P,Sa,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,N,N,N,N,N,N,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -8
+                         Spock: 2
+                      Zaenille: -4
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Monkey Spock
+Spock: Zaenille Monkey PoliticallyCorrectGunman
+Zaenille: Spock Monkey PoliticallyCorrectGunman
+Monkey: Spock Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 06:17:51.546847991 UTC

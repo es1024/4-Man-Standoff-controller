@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Monkey Scared
+                     Grenadier: N,N,N,N,P,Tc
+                      Pacifist: N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N
+                        Scared: N,N,N,Sb,N,Sa
+Final Health:
+                     Grenadier: 0
+                      Pacifist: 0
+                        Monkey: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist Monkey Scared
+Pacifist: Grenadier Monkey Scared
+Monkey: Grenadier Pacifist Scared
+Scared: Grenadier Pacifist Monkey
+Generated: 2014/08/12 07:23:01.521791878 UTC

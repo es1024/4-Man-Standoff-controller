@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+                        Coward: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,Dd,N,N,N,N,N,N,N,N,Sa
+                 CourageTheDog: Sc,N,Dc,Dc,Sa,N,Dc,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury CourageTheDog Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury CourageTheDog Coward
+TwentyFourthsAndAHalfCentury: Zaenille CourageTheDog Coward
+CourageTheDog: Zaenille TwentyFourthsAndAHalfCentury Coward
+Generated: 2014/08/12 07:05:27.581788731 UTC

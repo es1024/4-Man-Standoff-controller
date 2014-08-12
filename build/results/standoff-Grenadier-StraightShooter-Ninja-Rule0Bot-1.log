@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Ninja Rule0Bot
+                     Grenadier: N,N,N,N,N,P,Tc,N,P,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                         Ninja: Dc,Db,Dc,Db,Dc,Db,Db,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+               StraightShooter: -1
+                         Ninja: -3
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Rule0Bot StraightShooter
+StraightShooter: Ninja Rule0Bot Grenadier
+Ninja: StraightShooter Rule0Bot Grenadier
+Rule0Bot: StraightShooter Ninja Grenadier
+Generated: 2014/08/12 10:25:10.980180057 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Coward AntiGrenadier
+      PoliticallyCorrectGunman: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Dc,Sa,N,Dc,Da,Dd,Dc,Da,Da,Dc,Sc,N,Sc
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 DONTNUKEMEBRO: -1
+                        Coward: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward AntiGrenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: Coward AntiGrenadier PoliticallyCorrectGunman
+Coward: DONTNUKEMEBRO AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: DONTNUKEMEBRO Coward PoliticallyCorrectGunman
+Generated: 2014/08/12 07:51:03.948023364 UTC

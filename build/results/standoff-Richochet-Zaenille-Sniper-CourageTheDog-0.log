@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Sniper CourageTheDog
+                     Richochet: Sd,N,Sd,N,Sc,N,Sd,N,Sd,N,Sd,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Dc,Da,Da,Da,Dc,Da,Sc,N,N
+Final Health:
+                     Richochet: 3
+                      Zaenille: -4
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Zaenille Sniper CourageTheDog
+Zaenille: Richochet Sniper CourageTheDog
+Sniper: Richochet Zaenille CourageTheDog
+CourageTheDog: Richochet Zaenille Sniper
+Generated: 2014/08/12 08:29:23.835082214 UTC

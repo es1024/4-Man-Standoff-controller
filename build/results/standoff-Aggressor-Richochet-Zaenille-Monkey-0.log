@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Zaenille Monkey
+                     Aggressor: P,Tb
+                     Richochet: Sa,N
+                      Zaenille: Sc,N
+                        Monkey: N,Sc
+Final Health:
+                     Aggressor: 0
+                     Richochet: -3
+                      Zaenille: -2
+                        Monkey: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet Zaenille Monkey
+Richochet: Aggressor Zaenille Monkey
+Zaenille: Aggressor Richochet Monkey
+Monkey: Aggressor Richochet Zaenille
+Generated: 2014/08/12 07:09:21.701571995 UTC

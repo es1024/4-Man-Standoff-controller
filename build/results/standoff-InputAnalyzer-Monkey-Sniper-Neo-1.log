@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Sniper Neo
+                 InputAnalyzer: Dc,P,Dc,Sd,N
+                        Monkey: N,Sd,N,N,N
+                        Sniper: Sd,N,Sd,N,Sb
+                           Neo: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                        Monkey: 0
+                        Sniper: 2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Neo Monkey
+Monkey: Sniper Neo InputAnalyzer
+Sniper: Monkey Neo InputAnalyzer
+Neo: Monkey Sniper InputAnalyzer
+Generated: 2014/08/12 09:26:09.485888173 UTC

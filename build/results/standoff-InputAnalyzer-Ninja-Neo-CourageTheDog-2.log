@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Ninja Neo CourageTheDog
+                 InputAnalyzer: Dd,Dc,Dd,Sc,N,P,Dc,N
+                         Ninja: Db,Dd,Da,Dd,Da,Dc,Da,Dd
+                           Neo: N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,Sb,N,Db,P,Tc
+Final Health:
+                 InputAnalyzer: -4
+                         Ninja: -1
+                           Neo: -10
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Ninja Neo
+Ninja: CourageTheDog InputAnalyzer Neo
+Neo: CourageTheDog InputAnalyzer Ninja
+CourageTheDog: Neo InputAnalyzer Ninja
+Generated: 2014/08/12 05:49:37.646482695 UTC

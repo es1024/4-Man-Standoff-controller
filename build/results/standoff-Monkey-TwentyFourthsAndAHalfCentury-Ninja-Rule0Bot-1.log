@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+                        Monkey: N,Dd,Dc,Dc,N,N,N,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Sc,N,Sd,N,Sc,N,Sd,N,N,N,Sc,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sd,N,Sc,N,Sc
+                         Ninja: Dd,Dc,Db,Dd,Dc,Db,Dd,Dd,Da,Dd,Db,Dd,Da,Dc,Db,Db,Dc,Db,Dd,Dd,Dc,Da,Db,Dd,Da,Da,Dc,Db,Dc,Dc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Ninja Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Rule0Bot Monkey
+Ninja: TwentyFourthsAndAHalfCentury Rule0Bot Monkey
+Rule0Bot: TwentyFourthsAndAHalfCentury Ninja Monkey
+Generated: 2014/08/12 09:16:45.460850139 UTC

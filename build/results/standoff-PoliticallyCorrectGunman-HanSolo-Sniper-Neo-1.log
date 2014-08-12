@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Sniper Neo
+      PoliticallyCorrectGunman: Sd,N,N,N,N,N,N,Sd,N,Db,N,Db,Sc,N,N,N,N,N,N,Dc,Sa
+                       HanSolo: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,N,N,Da,Da,N,N,N,N,N,N,N,N,N,N,Da,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -1
+                        Sniper: -1
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper Neo HanSolo
+HanSolo: Sniper Neo PoliticallyCorrectGunman
+Sniper: HanSolo Neo PoliticallyCorrectGunman
+Neo: HanSolo Sniper PoliticallyCorrectGunman
+Generated: 2014/08/12 06:46:46.842023131 UTC

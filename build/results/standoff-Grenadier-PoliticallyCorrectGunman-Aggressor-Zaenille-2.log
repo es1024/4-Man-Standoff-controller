@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Aggressor Zaenille
+                     Grenadier: N,P
+      PoliticallyCorrectGunman: Dc,N
+                     Aggressor: P,Ta
+                      Zaenille: Sd,N
+Final Health:
+                     Grenadier: -9
+      PoliticallyCorrectGunman: -1
+                     Aggressor: -1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille PoliticallyCorrectGunman Aggressor
+PoliticallyCorrectGunman: Zaenille Grenadier Aggressor
+Aggressor: Zaenille Grenadier PoliticallyCorrectGunman
+Zaenille: Aggressor Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 06:57:22.481851583 UTC

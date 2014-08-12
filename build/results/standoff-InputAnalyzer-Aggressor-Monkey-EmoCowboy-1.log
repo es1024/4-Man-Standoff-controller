@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Monkey EmoCowboy
+                 InputAnalyzer: Dc,Db,P,Sa
+                     Aggressor: P,Tc,Sd,N
+                        Monkey: N,N,N,N
+                     EmoCowboy: N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                     Aggressor: -1
+                        Monkey: -3
+                     EmoCowboy: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey EmoCowboy Aggressor
+Aggressor: Monkey EmoCowboy InputAnalyzer
+Monkey: Aggressor EmoCowboy InputAnalyzer
+EmoCowboy: Aggressor Monkey InputAnalyzer
+Generated: 2014/08/12 10:30:38.102088623 UTC

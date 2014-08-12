@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Monkey TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Sc,N,Sb,N,Dd,Sd,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Dd,Sd
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dc,Da,N,Db,Da,Db,Sb,N,N,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: -1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Coward Monkey
+Coward: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Monkey
+Monkey: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Coward
+TwentyFourthsAndAHalfCentury: Monkey PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 07:03:31.570731412 UTC

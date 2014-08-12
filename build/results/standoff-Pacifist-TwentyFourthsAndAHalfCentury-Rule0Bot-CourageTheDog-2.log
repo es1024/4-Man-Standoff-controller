@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Da,Dd,Dc,Dc,Sc,N,Sa,N,Sa,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Sc,N,Da,Dc,Sc,N,Sb,N,Db,Da,Sb,N,Da,Sa
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: CourageTheDog Pacifist Rule0Bot
+Rule0Bot: CourageTheDog Pacifist TwentyFourthsAndAHalfCentury
+CourageTheDog: Rule0Bot Pacifist TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:49:21.047779882 UTC

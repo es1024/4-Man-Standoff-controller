@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Ninja Neo
+                     Grenadier: N,N,N,N,N,N,P,Tb,P,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Db,Dd,Dc,Da,Dc,Da,Da,Dc,Dd
+                           Neo: N,N,N,N,N,N,Dc,Dc,Dc,Dc,N
+Final Health:
+                     Grenadier: -4
+                      Pacifist: -3
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist Ninja Neo
+Pacifist: Grenadier Ninja Neo
+Ninja: Grenadier Pacifist Neo
+Neo: Grenadier Pacifist Ninja
+Generated: 2014/08/12 07:35:49.394956924 UTC

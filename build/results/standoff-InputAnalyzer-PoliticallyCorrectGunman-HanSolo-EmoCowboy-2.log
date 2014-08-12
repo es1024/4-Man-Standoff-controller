@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo EmoCowboy
+                 InputAnalyzer: Dd,P,Da,Sb
+      PoliticallyCorrectGunman: N,Sd,N,Sa
+                       HanSolo: Sd,N,Sa,N
+                     EmoCowboy: Sd,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+      PoliticallyCorrectGunman: 0
+                       HanSolo: 2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy PoliticallyCorrectGunman HanSolo
+PoliticallyCorrectGunman: EmoCowboy InputAnalyzer HanSolo
+HanSolo: EmoCowboy InputAnalyzer PoliticallyCorrectGunman
+EmoCowboy: HanSolo InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 07:38:59.734897282 UTC

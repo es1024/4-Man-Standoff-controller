@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Spock CourageTheDog
+                     Grenadier: P,Tb
+                 InputAnalyzer: Dd,Dc
+                         Spock: Sd,N
+                 CourageTheDog: Sa,N
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: -3
+                         Spock: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog InputAnalyzer Spock
+InputAnalyzer: CourageTheDog Grenadier Spock
+Spock: CourageTheDog Grenadier InputAnalyzer
+CourageTheDog: Spock Grenadier InputAnalyzer
+Generated: 2014/08/12 07:13:35.064920155 UTC

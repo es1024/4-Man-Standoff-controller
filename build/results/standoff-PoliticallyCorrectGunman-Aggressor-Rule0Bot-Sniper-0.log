@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Rule0Bot Sniper
+      PoliticallyCorrectGunman: N,N
+                     Aggressor: P,Tc
+                      Rule0Bot: N,Sb
+                        Sniper: Sa,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 0
+                      Rule0Bot: -3
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Rule0Bot Sniper
+Aggressor: PoliticallyCorrectGunman Rule0Bot Sniper
+Rule0Bot: PoliticallyCorrectGunman Aggressor Sniper
+Sniper: PoliticallyCorrectGunman Aggressor Rule0Bot
+Generated: 2014/08/12 07:51:37.544233580 UTC

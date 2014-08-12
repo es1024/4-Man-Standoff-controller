@@ -1,0 +1,16 @@
+Standoff between: Aggressor Scared Neo CourageTheDog
+                     Aggressor: P,Tb
+                        Scared: Sd,N
+                           Neo: N,N
+                 CourageTheDog: Sa,N
+Final Health:
+                     Aggressor: 0
+                        Scared: -3
+                           Neo: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Scared Neo
+Scared: CourageTheDog Aggressor Neo
+Neo: CourageTheDog Aggressor Scared
+CourageTheDog: Neo Aggressor Scared
+Generated: 2014/08/12 06:16:31.659177295 UTC

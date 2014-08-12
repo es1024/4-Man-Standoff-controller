@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille TwentyFourthsAndAHalfCentury Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Da,Dd,Da,Dd,Da,Dd,N,N,N,N,Sa,N,N,Sd,N,Sd
+                        Scared: Sa,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,Sa,N,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Scared Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Pacifist Zaenille
+Scared: TwentyFourthsAndAHalfCentury Pacifist Zaenille
+Generated: 2014/08/12 08:53:24.804630224 UTC

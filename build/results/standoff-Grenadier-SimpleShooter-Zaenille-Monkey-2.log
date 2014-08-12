@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Zaenille Monkey
+                     Grenadier: N,N,P,Td
+                 SimpleShooter: Sc,N,Sa,N
+                      Zaenille: Sc,N,N,N
+                        Monkey: N,N,N,N
+Final Health:
+                     Grenadier: 0
+                 SimpleShooter: 2
+                      Zaenille: -4
+                        Monkey: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey SimpleShooter Zaenille
+SimpleShooter: Monkey Grenadier Zaenille
+Zaenille: Monkey Grenadier SimpleShooter
+Monkey: Zaenille Grenadier SimpleShooter
+Generated: 2014/08/12 10:13:17.471172074 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman HanSolo AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+      PoliticallyCorrectGunman: Da,Sd,N,P,Dc,Dd,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -5
+                       HanSolo: 2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo AntiGrenadier PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo AntiGrenadier StraightShooter
+HanSolo: PoliticallyCorrectGunman AntiGrenadier StraightShooter
+AntiGrenadier: PoliticallyCorrectGunman HanSolo StraightShooter
+Generated: 2014/08/12 07:48:32.973383243 UTC

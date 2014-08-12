@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Scared Neo
+                 InputAnalyzer: Db,Dd,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,Da,Dd,Dc,Dd,Dd,Dd,Dd,Dc,Sd,N,N,Sd,N,Sc
+                        Scared: Sd,N,Sb,N,Sa,N,Sd,N,N,N,N,N,N,Sb,N,Sb
+                           Neo: N,Db,Dc,N,N,N,Dc,N,Dc,N,N,N,N,Dc,N,N
+Final Health:
+                 InputAnalyzer: -4
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Scared Neo
+TwentyFourthsAndAHalfCentury: InputAnalyzer Scared Neo
+Scared: InputAnalyzer TwentyFourthsAndAHalfCentury Neo
+Neo: InputAnalyzer TwentyFourthsAndAHalfCentury Scared
+Generated: 2014/08/12 08:30:57.624208130 UTC

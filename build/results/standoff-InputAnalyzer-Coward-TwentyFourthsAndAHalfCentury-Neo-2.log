@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward TwentyFourthsAndAHalfCentury Neo
+                 InputAnalyzer: Dd,Dc,Sb,N,Sd,N,Sd,N,Sd,N,P,Db,Dc
+                        Coward: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,Da,Dd,Dd,Da,Dd,Db,Dd,Dd,N,N,N,N
+                           Neo: N,Da,Db,N,Db,Dc,Db,Dc,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                        Coward: 0
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Coward TwentyFourthsAndAHalfCentury
+Coward: Neo InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo InputAnalyzer Coward
+Neo: TwentyFourthsAndAHalfCentury InputAnalyzer Coward
+Generated: 2014/08/12 05:44:47.195063079 UTC

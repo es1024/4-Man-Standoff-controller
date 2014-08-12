@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Ninja Rule0Bot Scared
+                 InputAnalyzer: Dc,Db,Sc,N,P,N,N
+                         Ninja: Dc,Db,Dc,Da,Db,Db,Dc
+                      Rule0Bot: N,N,N,N,N,Sa,N
+                        Scared: N,Sa,N,Sb,N,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                         Ninja: 0
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Scared Ninja
+Ninja: Rule0Bot Scared InputAnalyzer
+Rule0Bot: Ninja Scared InputAnalyzer
+Scared: Ninja Rule0Bot InputAnalyzer
+Generated: 2014/08/12 10:33:40.902741317 UTC

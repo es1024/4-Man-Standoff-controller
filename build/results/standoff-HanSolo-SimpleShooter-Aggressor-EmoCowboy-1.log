@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Aggressor EmoCowboy
+                       HanSolo: Sc,N
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+                     EmoCowboy: Sd,N
+Final Health:
+                       HanSolo: 0
+                 SimpleShooter: -3
+                     Aggressor: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor EmoCowboy SimpleShooter
+SimpleShooter: Aggressor EmoCowboy HanSolo
+Aggressor: SimpleShooter EmoCowboy HanSolo
+EmoCowboy: SimpleShooter Aggressor HanSolo
+Generated: 2014/08/12 09:46:19.686594582 UTC

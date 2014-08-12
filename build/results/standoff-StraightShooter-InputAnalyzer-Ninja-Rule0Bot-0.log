@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Ninja Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Sd,N,Sa,N,Sa,N,Sa,N,Db,Dd,P,Sa,N
+                         Ninja: Db,Dc,Da,Da,Dc,Db,Db,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -1
+                         Ninja: -1
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer Ninja Rule0Bot
+InputAnalyzer: StraightShooter Ninja Rule0Bot
+Ninja: StraightShooter InputAnalyzer Rule0Bot
+Rule0Bot: StraightShooter InputAnalyzer Ninja
+Generated: 2014/08/12 07:03:51.098214834 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Ninja Scared
+                     Grenadier: N,N,P,Tb
+                 SimpleShooter: Sd,N,Sc,N
+                         Ninja: Dd,Dc,Da,Dc
+                        Scared: N,Sa,N,Sa
+Final Health:
+                     Grenadier: -2
+                 SimpleShooter: -3
+                         Ninja: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Ninja Scared
+SimpleShooter: Grenadier Ninja Scared
+Ninja: Grenadier SimpleShooter Scared
+Scared: Grenadier SimpleShooter Ninja
+Generated: 2014/08/12 09:55:10.144426477 UTC

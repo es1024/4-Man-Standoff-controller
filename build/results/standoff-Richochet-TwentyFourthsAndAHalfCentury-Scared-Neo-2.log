@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Scared Neo
+                     Richochet: Sd,N,Sc,N,Sb,N,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,Dd,Dd,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sb,N,Sd,N,Sa
+                           Neo: N,N,Db,N,N,Sa,N,N,N
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Neo Richochet Scared
+Scared: Neo Richochet TwentyFourthsAndAHalfCentury
+Neo: Scared Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:46:40.539710195 UTC

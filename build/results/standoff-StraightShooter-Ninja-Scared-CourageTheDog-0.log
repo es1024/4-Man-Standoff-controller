@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Ninja Scared CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                         Ninja: Da,Dc,Da,Db,Da,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Sb,N,Sb,N,Da,Sa,N,Da,Sa,N,Da,Da,Da,Da,Da,Sa
+Final Health:
+               StraightShooter: -1
+                         Ninja: -1
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Scared CourageTheDog
+Ninja: StraightShooter Scared CourageTheDog
+Scared: StraightShooter Ninja CourageTheDog
+CourageTheDog: StraightShooter Ninja Scared
+Generated: 2014/08/12 07:34:52.822427726 UTC

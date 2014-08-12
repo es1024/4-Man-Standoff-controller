@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet EmoCowboy AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Richochet EmoCowboy
+Richochet: AntiGrenadier Pacifist EmoCowboy
+EmoCowboy: AntiGrenadier Pacifist Richochet
+AntiGrenadier: EmoCowboy Pacifist Richochet
+Generated: 2014/08/12 07:59:22.538196379 UTC

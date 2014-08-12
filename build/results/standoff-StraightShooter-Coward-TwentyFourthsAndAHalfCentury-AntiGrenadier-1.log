@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward TwentyFourthsAndAHalfCentury AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,Dd,Da,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury AntiGrenadier Coward
+Coward: TwentyFourthsAndAHalfCentury AntiGrenadier StraightShooter
+TwentyFourthsAndAHalfCentury: Coward AntiGrenadier StraightShooter
+AntiGrenadier: Coward TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 07:20:44.145578119 UTC

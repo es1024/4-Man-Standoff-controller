@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Aggressor EmoCowboy
+               StraightShooter: Sc,N
+                 DONTNUKEMEBRO: Da,Sc
+                     Aggressor: P,Ta
+                     EmoCowboy: Sd,N
+Final Health:
+               StraightShooter: -3
+                 DONTNUKEMEBRO: 2
+                     Aggressor: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Aggressor EmoCowboy
+DONTNUKEMEBRO: StraightShooter Aggressor EmoCowboy
+Aggressor: StraightShooter DONTNUKEMEBRO EmoCowboy
+EmoCowboy: StraightShooter DONTNUKEMEBRO Aggressor
+Generated: 2014/08/12 05:52:31.995735503 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Sniper CourageTheDog
+               StraightShooter: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                        Sniper: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Sc,N,Db,Db,Db,Sb,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+               StraightShooter: -5
+                       HanSolo: -1
+                        Sniper: -3
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Sniper CourageTheDog
+HanSolo: StraightShooter Sniper CourageTheDog
+Sniper: StraightShooter HanSolo CourageTheDog
+CourageTheDog: StraightShooter HanSolo Sniper
+Generated: 2014/08/12 07:15:12.158925089 UTC

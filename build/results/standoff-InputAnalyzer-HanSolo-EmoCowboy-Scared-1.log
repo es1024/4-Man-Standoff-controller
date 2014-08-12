@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo EmoCowboy Scared
+                 InputAnalyzer: Dc,P,Da,Dd
+                       HanSolo: Sc,N,Sd,N
+                     EmoCowboy: Sc,N,N,N
+                        Scared: Sc,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 2
+                     EmoCowboy: -6
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Scared HanSolo
+HanSolo: EmoCowboy Scared InputAnalyzer
+EmoCowboy: HanSolo Scared InputAnalyzer
+Scared: HanSolo EmoCowboy InputAnalyzer
+Generated: 2014/08/12 06:51:51.337234278 UTC

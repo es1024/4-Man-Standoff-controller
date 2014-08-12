@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Ninja Scared
+                 InputAnalyzer: Dd,P,Sd,N
+                        Monkey: N,Da,N,N
+                         Ninja: Da,Dc,Dd,Dc
+                        Scared: Sb,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                        Monkey: 0
+                         Ninja: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Monkey Ninja
+Monkey: Scared InputAnalyzer Ninja
+Ninja: Scared InputAnalyzer Monkey
+Scared: Ninja InputAnalyzer Monkey
+Generated: 2014/08/12 07:21:12.106907015 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey EmoCowboy Neo
+                     Grenadier: N,N,N,N,N,N,P,Tb
+                        Monkey: N,Sc,N,N,N,N,N,P
+                     EmoCowboy: Sc,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Db,Db,N
+Final Health:
+                     Grenadier: -1
+                        Monkey: -9
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey EmoCowboy Neo
+Monkey: Grenadier EmoCowboy Neo
+EmoCowboy: Grenadier Monkey Neo
+Neo: Grenadier Monkey EmoCowboy
+Generated: 2014/08/12 06:04:21.562697471 UTC

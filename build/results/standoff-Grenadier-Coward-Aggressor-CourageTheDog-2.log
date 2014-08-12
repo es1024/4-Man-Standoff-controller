@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Aggressor CourageTheDog
+                     Grenadier: P,Td
+                        Coward: Sc,N
+                     Aggressor: P,Td
+                 CourageTheDog: Sc,N
+Final Health:
+                     Grenadier: -1
+                        Coward: -1
+                     Aggressor: -5
+                 CourageTheDog: -11
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Coward Aggressor
+Coward: CourageTheDog Grenadier Aggressor
+Aggressor: CourageTheDog Grenadier Coward
+CourageTheDog: Aggressor Grenadier Coward
+Generated: 2014/08/12 06:51:07.575596339 UTC

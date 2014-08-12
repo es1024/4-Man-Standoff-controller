@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Bomberman AntiGrenadier
+      PoliticallyCorrectGunman: Db,N,Db,Dc,N,Sb,N,Sa,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: 3
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier HanSolo Bomberman
+HanSolo: AntiGrenadier PoliticallyCorrectGunman Bomberman
+Bomberman: AntiGrenadier PoliticallyCorrectGunman HanSolo
+AntiGrenadier: Bomberman PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 09:41:19.943813914 UTC

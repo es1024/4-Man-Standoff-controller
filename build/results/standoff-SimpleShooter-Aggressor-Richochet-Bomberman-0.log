@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Richochet Bomberman
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Tc
+                     Richochet: Sa,N
+                     Bomberman: N,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 2
+                     Richochet: -3
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor Richochet Bomberman
+Aggressor: SimpleShooter Richochet Bomberman
+Richochet: SimpleShooter Aggressor Bomberman
+Bomberman: SimpleShooter Aggressor Richochet
+Generated: 2014/08/12 10:46:46.016900330 UTC

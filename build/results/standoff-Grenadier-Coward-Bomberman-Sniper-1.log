@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Bomberman Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                        Coward: 5
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Sniper Coward
+Coward: Bomberman Sniper Grenadier
+Bomberman: Coward Sniper Grenadier
+Sniper: Coward Bomberman Grenadier
+Generated: 2014/08/12 07:12:39.753607178 UTC

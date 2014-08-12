@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury Bomberman
+                 InputAnalyzer: Dd,Dc,Dd,N
+                     Aggressor: P,Td,Sa,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Da,Sb
+                     Bomberman: N,N,N,N
+Final Health:
+                 InputAnalyzer: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Bomberman InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman InputAnalyzer Aggressor
+Bomberman: TwentyFourthsAndAHalfCentury InputAnalyzer Aggressor
+Generated: 2014/08/12 10:17:57.053935723 UTC

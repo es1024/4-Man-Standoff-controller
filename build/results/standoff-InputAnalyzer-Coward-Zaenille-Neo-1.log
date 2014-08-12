@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Zaenille Neo
+                 InputAnalyzer: Dc,P,N,Da,N,N
+                        Coward: Sa,N,Sa,N,Dd,Sd
+                      Zaenille: Sc,N,N,N,N,N
+                           Neo: N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                        Coward: 2
+                      Zaenille: -2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Neo Coward
+Coward: Zaenille Neo InputAnalyzer
+Zaenille: Coward Neo InputAnalyzer
+Neo: Coward Zaenille InputAnalyzer
+Generated: 2014/08/12 09:49:27.541871308 UTC

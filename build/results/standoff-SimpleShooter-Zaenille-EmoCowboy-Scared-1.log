@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille EmoCowboy Scared
+                 SimpleShooter: Sb,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                        Scared: Sa,N,Sa,N,Sa
+Final Health:
+                 SimpleShooter: -1
+                      Zaenille: -4
+                     EmoCowboy: -2
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Scared Zaenille
+Zaenille: EmoCowboy Scared SimpleShooter
+EmoCowboy: Zaenille Scared SimpleShooter
+Scared: Zaenille EmoCowboy SimpleShooter
+Generated: 2014/08/12 07:26:40.690706937 UTC

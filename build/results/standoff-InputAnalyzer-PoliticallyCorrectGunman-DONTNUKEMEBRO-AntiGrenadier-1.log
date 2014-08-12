@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO AntiGrenadier
+                 InputAnalyzer: Dc,Da,Dd,Da,Sb,N,Dc,Db,P,Dd,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Da,N,N,Dd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Da,Dd,Db,Dd,Dd,Da,Da,Db,Sa,N,Db,Db,Dd,Dd,Dd,Dd,Db,Db,Db,Da,Db,Db,Da,Db,Db,Da,Db,Db,Dd,Db,Db,Dd,Dd,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -18
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO AntiGrenadier PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO AntiGrenadier InputAnalyzer
+DONTNUKEMEBRO: PoliticallyCorrectGunman AntiGrenadier InputAnalyzer
+AntiGrenadier: PoliticallyCorrectGunman DONTNUKEMEBRO InputAnalyzer
+Generated: 2014/08/12 08:23:10.524512213 UTC

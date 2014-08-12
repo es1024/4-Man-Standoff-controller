@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Monkey Ninja
+                     Grenadier: P,Tc,N
+                 SimpleShooter: Sa,N,Sd
+                        Monkey: N,Dd,N
+                         Ninja: Dd,Dd,Da
+Final Health:
+                     Grenadier: 0
+                 SimpleShooter: 2
+                        Monkey: -3
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Ninja SimpleShooter
+SimpleShooter: Monkey Ninja Grenadier
+Monkey: SimpleShooter Ninja Grenadier
+Ninja: SimpleShooter Monkey Grenadier
+Generated: 2014/08/12 08:05:10.145329845 UTC

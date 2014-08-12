@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Monkey Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Da,Sa,N,N,Sa,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -19
+      PoliticallyCorrectGunman: -2
+                        Monkey: -15
+                     Bomberman: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman PoliticallyCorrectGunman Monkey
+PoliticallyCorrectGunman: Bomberman Pacifist Monkey
+Monkey: Bomberman Pacifist PoliticallyCorrectGunman
+Bomberman: Monkey Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 05:57:51.536875312 UTC

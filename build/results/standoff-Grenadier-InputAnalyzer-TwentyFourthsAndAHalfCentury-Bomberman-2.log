@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer TwentyFourthsAndAHalfCentury Bomberman
+                     Grenadier: P,Td,N,P,N,N
+                 InputAnalyzer: Dd,Dc,Dd,Dc,P,Sa
+  TwentyFourthsAndAHalfCentury: Da,Dd,Da,Da,Db,Da
+                     Bomberman: N,N,N,N,N,N
+Final Health:
+                     Grenadier: -9
+                 InputAnalyzer: -7
+  TwentyFourthsAndAHalfCentury: -4
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman InputAnalyzer TwentyFourthsAndAHalfCentury
+InputAnalyzer: Bomberman Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Grenadier InputAnalyzer
+Bomberman: TwentyFourthsAndAHalfCentury Grenadier InputAnalyzer
+Generated: 2014/08/12 07:36:48.848001683 UTC

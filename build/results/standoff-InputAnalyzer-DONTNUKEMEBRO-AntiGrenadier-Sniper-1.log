@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO AntiGrenadier Sniper
+                 InputAnalyzer: Dc,Db,Dc,Db,Sc,N,Db,Dc,Sb,N,P
+                 DONTNUKEMEBRO: Dc,Dd,Dd,Dd,Da,Da,Da,Dd,Dd,Dc,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,Sa,N,Sc,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 0
+                 AntiGrenadier: -1
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Sniper DONTNUKEMEBRO
+DONTNUKEMEBRO: AntiGrenadier Sniper InputAnalyzer
+AntiGrenadier: DONTNUKEMEBRO Sniper InputAnalyzer
+Sniper: DONTNUKEMEBRO AntiGrenadier InputAnalyzer
+Generated: 2014/08/12 08:53:21.688097435 UTC

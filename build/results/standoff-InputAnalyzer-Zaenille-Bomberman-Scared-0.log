@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Bomberman Scared
+                 InputAnalyzer: Db,Dc,Db,Sa,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,Sa,N,Sc,N,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -4
+                      Zaenille: -2
+                     Bomberman: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Bomberman Scared
+Zaenille: InputAnalyzer Bomberman Scared
+Bomberman: InputAnalyzer Zaenille Scared
+Scared: InputAnalyzer Zaenille Bomberman
+Generated: 2014/08/12 08:00:07.735511897 UTC

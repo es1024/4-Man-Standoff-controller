@@ -1,0 +1,16 @@
+Standoff between: Zaenille Bomberman EmoCowboy Scared
+                      Zaenille: Sa,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N
+                        Scared: N,Sb,N,Sb,N,Sb
+Final Health:
+                      Zaenille: -2
+                     Bomberman: -1
+                     EmoCowboy: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Bomberman EmoCowboy Scared
+Bomberman: Zaenille EmoCowboy Scared
+EmoCowboy: Zaenille Bomberman Scared
+Scared: Zaenille Bomberman EmoCowboy
+Generated: 2014/08/12 10:22:42.280936586 UTC

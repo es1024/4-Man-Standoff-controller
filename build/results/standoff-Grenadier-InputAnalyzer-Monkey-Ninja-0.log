@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Monkey Ninja
+                     Grenadier: N,N,N,P,Tb
+                 InputAnalyzer: Da,Dd,Da,P,N
+                        Monkey: N,N,N,Dc,Dc
+                         Ninja: Da,Db,Dc,Dd,Dc
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -9
+                        Monkey: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Monkey Ninja
+InputAnalyzer: Grenadier Monkey Ninja
+Monkey: Grenadier InputAnalyzer Ninja
+Ninja: Grenadier InputAnalyzer Monkey
+Generated: 2014/08/12 08:01:37.771309722 UTC

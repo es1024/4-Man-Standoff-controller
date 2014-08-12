@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Ninja AntiGrenadier
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Dd,Da,Dd,Da,Dd,Dd,Dd,Da,Dd,Dd,Dd,Da,Dd,Dd,Dd,Da,Dd,Da,Dd,N,N,N,N,N,N,Dd,N,N,N,N,N
+                         Ninja: Db,Da,Dd,Dc,Da,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -15
+                         Ninja: -1
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Ninja AntiGrenadier
+TwentyFourthsAndAHalfCentury: StraightShooter Ninja AntiGrenadier
+Ninja: StraightShooter TwentyFourthsAndAHalfCentury AntiGrenadier
+AntiGrenadier: StraightShooter TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 07:09:48.256080160 UTC

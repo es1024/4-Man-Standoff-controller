@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Bomberman Neo CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,N,N
+                           Neo: N,Db,Da,Dd,N,N,N,N,N,N,N,Db,N,N,N,Db,N,Db,N,N,N,N,N,N,N,N,Da,Db,Da,N,N,Db,N,Db,N,N,N,N,N,N,N,N,Da,N
+                 CourageTheDog: Sc,N,Da,Db,Db,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                     Bomberman: -1
+                           Neo: 0
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo CourageTheDog Bomberman
+Bomberman: Neo CourageTheDog StraightShooter
+Neo: Bomberman CourageTheDog StraightShooter
+CourageTheDog: Bomberman Neo StraightShooter
+Generated: 2014/08/12 08:39:33.871079058 UTC

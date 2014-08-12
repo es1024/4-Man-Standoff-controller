@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Neo CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,P,Tc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Dc,Da,Dc,Da,Sa,N
+Final Health:
+                     Grenadier: -2
+                      Zaenille: -2
+                           Neo: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo CourageTheDog Zaenille
+Zaenille: Neo CourageTheDog Grenadier
+Neo: Zaenille CourageTheDog Grenadier
+CourageTheDog: Zaenille Neo Grenadier
+Generated: 2014/08/12 06:17:10.591738200 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Monkey Sniper
+                 InputAnalyzer: Dd,Sc,N,Dc,Sb,N,Dd,P,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                      Zaenille: -2
+                        Monkey: -1
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Zaenille Monkey
+Zaenille: Sniper InputAnalyzer Monkey
+Monkey: Sniper InputAnalyzer Zaenille
+Sniper: Monkey InputAnalyzer Zaenille
+Generated: 2014/08/12 05:51:28.440148098 UTC

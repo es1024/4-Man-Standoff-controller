@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Coward Scared
+                 InputAnalyzer: Dd,Sa,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sc,N,Sc
+                        Coward: Sb,N,Sd,N,Db,Sd,N
+                        Scared: Sc,N,Sc,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                         Spock: 3
+                        Coward: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Spock Coward
+Spock: Scared InputAnalyzer Coward
+Coward: Scared InputAnalyzer Spock
+Scared: Coward InputAnalyzer Spock
+Generated: 2014/08/12 08:14:47.111018694 UTC

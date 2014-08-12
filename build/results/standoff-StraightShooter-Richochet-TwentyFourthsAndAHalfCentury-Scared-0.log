@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet TwentyFourthsAndAHalfCentury Scared
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     Richochet: Sa,N,Sc,N,Sd,N,Sd,N,Sa,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,Sb,N,Sa,N,Sb,N,Sb
+Final Health:
+               StraightShooter: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet TwentyFourthsAndAHalfCentury Scared
+Richochet: StraightShooter TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: StraightShooter Richochet Scared
+Scared: StraightShooter Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:17:52.421600343 UTC

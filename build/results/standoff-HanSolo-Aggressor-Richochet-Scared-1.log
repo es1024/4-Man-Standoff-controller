@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Richochet Scared
+                       HanSolo: Sc,N
+                     Aggressor: P,Td
+                     Richochet: Sb,N
+                        Scared: Sa,N
+Final Health:
+                       HanSolo: 0
+                     Aggressor: 0
+                     Richochet: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Scared Aggressor
+Aggressor: Richochet Scared HanSolo
+Richochet: Aggressor Scared HanSolo
+Scared: Aggressor Richochet HanSolo
+Generated: 2014/08/12 06:08:40.169455272 UTC

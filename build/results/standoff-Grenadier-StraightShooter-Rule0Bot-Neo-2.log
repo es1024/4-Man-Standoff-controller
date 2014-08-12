@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Rule0Bot Neo
+                     Grenadier: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -2
+               StraightShooter: -18
+                      Rule0Bot: -18
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo StraightShooter Rule0Bot
+StraightShooter: Neo Grenadier Rule0Bot
+Rule0Bot: Neo Grenadier StraightShooter
+Neo: Rule0Bot Grenadier StraightShooter
+Generated: 2014/08/12 08:14:02.155004584 UTC

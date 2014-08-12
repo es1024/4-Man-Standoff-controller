@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Zaenille Monkey
+                 SimpleShooter: Sb,N,Sd,N,Sb
+                     Richochet: Sd,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                        Monkey: N,Sb,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                     Richochet: -1
+                      Zaenille: -2
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille Monkey Richochet
+Richochet: Zaenille Monkey SimpleShooter
+Zaenille: Richochet Monkey SimpleShooter
+Monkey: Richochet Zaenille SimpleShooter
+Generated: 2014/08/12 09:03:02.706940175 UTC

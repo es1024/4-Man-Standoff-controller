@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Bomberman Rule0Bot
+                 InputAnalyzer: Dd,Db,Dd,Sc,N,Dd,Sa,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                       HanSolo: 5
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot HanSolo Bomberman
+HanSolo: Rule0Bot InputAnalyzer Bomberman
+Bomberman: Rule0Bot InputAnalyzer HanSolo
+Rule0Bot: Bomberman InputAnalyzer HanSolo
+Generated: 2014/08/12 09:00:23.275123108 UTC

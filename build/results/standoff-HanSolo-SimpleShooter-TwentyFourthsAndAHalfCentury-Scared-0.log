@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter TwentyFourthsAndAHalfCentury Scared
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,N,N,N,N,N
+                        Scared: N,N,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter TwentyFourthsAndAHalfCentury Scared
+SimpleShooter: HanSolo TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: HanSolo SimpleShooter Scared
+Scared: HanSolo SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:56:30.790597054 UTC

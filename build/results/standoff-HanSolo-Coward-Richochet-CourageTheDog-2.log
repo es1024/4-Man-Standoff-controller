@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Richochet CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb
+                        Coward: Sc,N,Sc,N,Sc,N,Sa
+                     Richochet: Sa,N,Sb,N,Sd,N,N
+                 CourageTheDog: N,Sb,N,Dc,Sa,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: -1
+                     Richochet: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Coward Richochet
+Coward: CourageTheDog HanSolo Richochet
+Richochet: CourageTheDog HanSolo Coward
+CourageTheDog: Richochet HanSolo Coward
+Generated: 2014/08/12 06:24:42.003395705 UTC

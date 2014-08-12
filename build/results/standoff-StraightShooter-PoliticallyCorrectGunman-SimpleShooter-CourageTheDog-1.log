@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman SimpleShooter CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,N
+      PoliticallyCorrectGunman: N,N,N,Dc,N,Da,N,Sd,N
+                 SimpleShooter: Sa,N,Sb,N,Sb,N,Sa,N,Sb
+                 CourageTheDog: Sa,N,Db,N,Dc,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter CourageTheDog PoliticallyCorrectGunman
+PoliticallyCorrectGunman: SimpleShooter CourageTheDog StraightShooter
+SimpleShooter: PoliticallyCorrectGunman CourageTheDog StraightShooter
+CourageTheDog: PoliticallyCorrectGunman SimpleShooter StraightShooter
+Generated: 2014/08/12 10:22:37.976969021 UTC

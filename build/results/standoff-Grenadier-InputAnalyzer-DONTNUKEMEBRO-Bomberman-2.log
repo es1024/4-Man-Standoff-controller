@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer DONTNUKEMEBRO Bomberman
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Sa,N,Da,Da,Dd,Da,Db,Db,Db,Db,Dd,Da,Db,Da,Dd,Da,Da,Db,Db,Db,Da,Db,Dd,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Db,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: -18
+                     Bomberman: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: Bomberman Grenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: Bomberman Grenadier InputAnalyzer
+Bomberman: DONTNUKEMEBRO Grenadier InputAnalyzer
+Generated: 2014/08/12 07:29:12.024857043 UTC

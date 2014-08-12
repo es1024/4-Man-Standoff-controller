@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Zaenille Monkey
+                         Spock: Sd,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Monkey: N,Sd,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey SimpleShooter Zaenille
+SimpleShooter: Monkey Spock Zaenille
+Zaenille: Monkey Spock SimpleShooter
+Monkey: Zaenille Spock SimpleShooter
+Generated: 2014/08/12 09:59:15.835456183 UTC

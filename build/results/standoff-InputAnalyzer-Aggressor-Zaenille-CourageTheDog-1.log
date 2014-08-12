@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Zaenille CourageTheDog
+                 InputAnalyzer: Dc,Db,Da
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+                 CourageTheDog: Sc,N,N
+Final Health:
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                      Zaenille: -4
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille CourageTheDog Aggressor
+Aggressor: Zaenille CourageTheDog InputAnalyzer
+Zaenille: Aggressor CourageTheDog InputAnalyzer
+CourageTheDog: Aggressor Zaenille InputAnalyzer
+Generated: 2014/08/12 07:29:34.902204616 UTC

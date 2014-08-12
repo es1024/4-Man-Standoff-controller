@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer EmoCowboy Scared Neo
+                 InputAnalyzer: Db,Dd,P,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,Sd,N
+                           Neo: N,Da,N,N,N,N,N,N,Dc,Sc
+Final Health:
+                 InputAnalyzer: -1
+                     EmoCowboy: -4
+                        Scared: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Scared Neo
+EmoCowboy: InputAnalyzer Scared Neo
+Scared: InputAnalyzer EmoCowboy Neo
+Neo: InputAnalyzer EmoCowboy Scared
+Generated: 2014/08/12 06:08:25.965890651 UTC

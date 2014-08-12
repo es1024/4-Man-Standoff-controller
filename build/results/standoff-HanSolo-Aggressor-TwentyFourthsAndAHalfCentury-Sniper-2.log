@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor TwentyFourthsAndAHalfCentury Sniper
+                       HanSolo: Sd,N
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: Da,Db
+                        Sniper: Sc,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Sniper HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper HanSolo Aggressor
+Sniper: TwentyFourthsAndAHalfCentury HanSolo Aggressor
+Generated: 2014/08/12 08:19:32.430899032 UTC

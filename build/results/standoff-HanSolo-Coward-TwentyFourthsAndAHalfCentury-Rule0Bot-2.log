@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward TwentyFourthsAndAHalfCentury Rule0Bot
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc
+                        Coward: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Dc,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dd,Dd,Dd,Da,N,Db,N,Db,N,Da,Sa,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Coward TwentyFourthsAndAHalfCentury
+Coward: Rule0Bot HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot HanSolo Coward
+Rule0Bot: TwentyFourthsAndAHalfCentury HanSolo Coward
+Generated: 2014/08/12 10:46:49.530273346 UTC

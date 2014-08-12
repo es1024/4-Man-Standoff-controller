@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Bomberman Neo
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dc,Dc,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: 5
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Bomberman Neo
+SimpleShooter: PoliticallyCorrectGunman Bomberman Neo
+Bomberman: PoliticallyCorrectGunman SimpleShooter Neo
+Neo: PoliticallyCorrectGunman SimpleShooter Bomberman
+Generated: 2014/08/12 08:16:57.779558685 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Monkey CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,P,Td
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,P
+                 CourageTheDog: Sb,N,Sa,N,N,Sc,N,Sb,N,P
+Final Health:
+                     Grenadier: -6
+                      Pacifist: -1
+                        Monkey: -9
+                 CourageTheDog: -12
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist Monkey CourageTheDog
+Pacifist: Grenadier Monkey CourageTheDog
+Monkey: Grenadier Pacifist CourageTheDog
+CourageTheDog: Grenadier Pacifist Monkey
+Generated: 2014/08/12 09:51:33.272026019 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Neo CourageTheDog
+                 InputAnalyzer: Db,Dd,Dc,P,Db,Dc
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Dc,Sc,N
+                           Neo: N,Db,Dd,Dd,N,N
+                 CourageTheDog: Sa,N,Dc,Da,P,Ta
+Final Health:
+                 InputAnalyzer: -11
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Neo CourageTheDog
+TwentyFourthsAndAHalfCentury: InputAnalyzer Neo CourageTheDog
+Neo: InputAnalyzer TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: InputAnalyzer TwentyFourthsAndAHalfCentury Neo
+Generated: 2014/08/12 06:59:50.165183365 UTC

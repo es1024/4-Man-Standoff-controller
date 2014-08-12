@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dc,Dc,Da,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,Da,Da,Da,Da,Da,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,Sd
+                 CourageTheDog: Sa,N,Sb,N,Sb,N,Sb,N,Da,Da,N,Da,Sc,N,Dc,Dc,Da,Dc,Dc,Sa,N,Da,Da,Sa,N
+Final Health:
+                      Pacifist: -1
+                 DONTNUKEMEBRO: -1
+                           Neo: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Neo CourageTheDog Pacifist
+Neo: DONTNUKEMEBRO CourageTheDog Pacifist
+CourageTheDog: DONTNUKEMEBRO Neo Pacifist
+Generated: 2014/08/12 08:41:52.458079165 UTC

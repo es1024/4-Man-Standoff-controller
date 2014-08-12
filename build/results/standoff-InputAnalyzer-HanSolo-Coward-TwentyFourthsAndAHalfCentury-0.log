@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Coward TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,Sd,N,Sc,N,Db,P
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa
+                        Coward: Sd,N,Sd,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Da,N,Db,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                       HanSolo: -2
+                        Coward: 0
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Coward TwentyFourthsAndAHalfCentury
+HanSolo: InputAnalyzer Coward TwentyFourthsAndAHalfCentury
+Coward: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer HanSolo Coward
+Generated: 2014/08/12 10:01:14.222598750 UTC

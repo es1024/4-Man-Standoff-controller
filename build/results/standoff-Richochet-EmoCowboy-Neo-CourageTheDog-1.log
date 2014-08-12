@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy Neo CourageTheDog
+                     Richochet: Sb,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Dc,Da,Da,Da,Da,Da,Sa,N,Da,N,Sa
+Final Health:
+                     Richochet: -1
+                     EmoCowboy: -4
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo CourageTheDog EmoCowboy
+EmoCowboy: Neo CourageTheDog Richochet
+Neo: EmoCowboy CourageTheDog Richochet
+CourageTheDog: EmoCowboy Neo Richochet
+Generated: 2014/08/12 10:31:39.551449791 UTC

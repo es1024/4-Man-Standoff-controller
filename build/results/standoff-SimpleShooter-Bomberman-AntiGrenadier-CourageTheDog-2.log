@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman AntiGrenadier CourageTheDog
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Da,Da,Da,Sa,N,Db,Dc,Dc,Sb,N
+Final Health:
+                 SimpleShooter: 3
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog Bomberman AntiGrenadier
+Bomberman: CourageTheDog SimpleShooter AntiGrenadier
+AntiGrenadier: CourageTheDog SimpleShooter Bomberman
+CourageTheDog: AntiGrenadier SimpleShooter Bomberman
+Generated: 2014/08/12 09:38:16.602287352 UTC

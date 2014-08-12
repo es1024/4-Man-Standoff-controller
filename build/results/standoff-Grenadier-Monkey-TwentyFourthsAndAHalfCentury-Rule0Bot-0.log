@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey TwentyFourthsAndAHalfCentury Rule0Bot
+                     Grenadier: P,Tb,N
+                        Monkey: N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Sd
+                      Rule0Bot: N,Sa,N
+Final Health:
+                     Grenadier: 0
+                        Monkey: -3
+  TwentyFourthsAndAHalfCentury: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey TwentyFourthsAndAHalfCentury Rule0Bot
+Monkey: Grenadier TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: Grenadier Monkey Rule0Bot
+Rule0Bot: Grenadier Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:07:12.239005504 UTC

@@ -1,8 +1,8 @@
 Standoff between: Pacifist StraightShooter InputAnalyzer DONTNUKEMEBRO
-                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
-               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
-                 InputAnalyzer: Db,Sa,N,Dd,Dc,Dd,Db,Da,Sd,N,P,Dd,Db
-                 DONTNUKEMEBRO: Dc,Sb,N,Sb,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N
+                 InputAnalyzer: Db,Da,Db,Dd,Da,P,Sa,N
+                 DONTNUKEMEBRO: Da,Da,Sb,N,Sb,N,N,N
 Final Health:
                       Pacifist: 0
                StraightShooter: -2
@@ -13,4 +13,4 @@ Pacifist: InputAnalyzer DONTNUKEMEBRO StraightShooter
 StraightShooter: InputAnalyzer DONTNUKEMEBRO Pacifist
 InputAnalyzer: StraightShooter DONTNUKEMEBRO Pacifist
 DONTNUKEMEBRO: StraightShooter InputAnalyzer Pacifist
-Generated: 2014/08/11 00:59:39.348160754 UTC
+Generated: 2014/08/12 06:11:52.845098233 UTC

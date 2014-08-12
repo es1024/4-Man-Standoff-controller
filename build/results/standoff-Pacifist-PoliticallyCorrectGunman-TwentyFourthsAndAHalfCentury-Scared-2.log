@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: P,Td,N,N,N,N,N,N,Sb,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,N,N,N,N,N,N,Sb,N,Sa
+                        Scared: Sc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+      PoliticallyCorrectGunman: -4
+  TwentyFourthsAndAHalfCentury: 2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+PoliticallyCorrectGunman: Scared Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Pacifist PoliticallyCorrectGunman
+Scared: TwentyFourthsAndAHalfCentury Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 08:58:57.079499447 UTC

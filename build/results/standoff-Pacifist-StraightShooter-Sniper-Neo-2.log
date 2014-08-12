@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Sniper Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                        Sniper: Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,N,Db,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,Dc,N,Dc,Db,N,Db,N,N,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,Sd,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -15
+                        Sniper: -15
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo StraightShooter Sniper
+StraightShooter: Neo Pacifist Sniper
+Sniper: Neo Pacifist StraightShooter
+Neo: Sniper Pacifist StraightShooter
+Generated: 2014/08/12 07:03:52.695710238 UTC

@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman EmoCowboy Neo
+  TwentyFourthsAndAHalfCentury: Dd,Db,Sd,N,Sb,N,N,Sb,N,N,N,N,N,Sb,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,Db,N,N,N,N,N,N,N,N,N,Db,N,Da,Sa,N,Sa,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 1
+                     Bomberman: -1
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Bomberman EmoCowboy Neo
+Bomberman: TwentyFourthsAndAHalfCentury EmoCowboy Neo
+EmoCowboy: TwentyFourthsAndAHalfCentury Bomberman Neo
+Neo: TwentyFourthsAndAHalfCentury Bomberman EmoCowboy
+Generated: 2014/08/12 10:09:55.544008386 UTC

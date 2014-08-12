@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Ninja CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                         Ninja: Dc,Db,Dd,Dc,Db,Db,Dc,Dc,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Da,Da,Db,Sb,N,Da,Sc,N,Da,Sa,N,Da,Da,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 3
+                         Ninja: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja CourageTheDog HanSolo
+HanSolo: Ninja CourageTheDog Pacifist
+Ninja: HanSolo CourageTheDog Pacifist
+CourageTheDog: HanSolo Ninja Pacifist
+Generated: 2014/08/12 09:45:42.724475883 UTC

@@ -1,0 +1,16 @@
+Standoff between: Monkey Bomberman Scared Neo
+                        Monkey: N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sd,N,N,N,N,Sb,N,Sb,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd
+                           Neo: N,Da,N,N,N,N,N,N,Da,Da,Da,N,N,N,N,N,N,Dc,N,N
+Final Health:
+                        Monkey: -1
+                     Bomberman: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Scared Neo Bomberman
+Bomberman: Scared Neo Monkey
+Scared: Bomberman Neo Monkey
+Neo: Bomberman Scared Monkey
+Generated: 2014/08/12 06:51:03.868432281 UTC

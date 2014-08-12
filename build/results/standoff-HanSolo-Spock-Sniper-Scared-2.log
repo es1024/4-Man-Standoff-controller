@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Sniper Scared
+                       HanSolo: Sd,N,Sd,N,Sb,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sa,N,Sc,N,Sc
+                        Sniper: Sa,N,Sd,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: 3
+                        Sniper: -1
+                        Scared: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Spock Sniper
+Spock: Scared HanSolo Sniper
+Sniper: Scared HanSolo Spock
+Scared: Sniper HanSolo Spock
+Generated: 2014/08/12 07:14:25.794594949 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock EmoCowboy CourageTheDog
+      PoliticallyCorrectGunman: N,N,N,N,N,P,Sa
+                         Spock: N,N,Sc,N,N,Sc,N
+                     EmoCowboy: N,N,N,N,N,Sc,N
+                 CourageTheDog: Sb,N,Da,Sc,N,Db,P
+Final Health:
+      PoliticallyCorrectGunman: -8
+                         Spock: 0
+                     EmoCowboy: -4
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy CourageTheDog Spock
+Spock: EmoCowboy CourageTheDog PoliticallyCorrectGunman
+EmoCowboy: Spock CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Spock EmoCowboy PoliticallyCorrectGunman
+Generated: 2014/08/12 05:48:41.359267138 UTC

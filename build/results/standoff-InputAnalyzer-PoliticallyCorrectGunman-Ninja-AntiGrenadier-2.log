@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Ninja AntiGrenadier
+                 InputAnalyzer: Dd,P,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Da,Da,Dd,Db,Db,Dc,Dc,Da,Db,Db,Dc,Da,Da,Db,Db,Dd,Da,Dd,Da,Dc,Dd,Dd,Dc,Db,Db,Dc,Db,Dc,Dc,Db,Dc,Dc,Dc,Db,Db,Dc,Da,Da,Dd,Dd,Db,Da,Da,Dc,Db,Dd,Dc,Da
+                 AntiGrenadier: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -10
+      PoliticallyCorrectGunman: -2
+                         Ninja: -18
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier PoliticallyCorrectGunman Ninja
+PoliticallyCorrectGunman: AntiGrenadier InputAnalyzer Ninja
+Ninja: AntiGrenadier InputAnalyzer PoliticallyCorrectGunman
+AntiGrenadier: Ninja InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 06:12:05.257826851 UTC

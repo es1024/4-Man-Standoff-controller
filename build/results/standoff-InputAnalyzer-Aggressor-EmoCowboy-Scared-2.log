@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor EmoCowboy Scared
+                 InputAnalyzer: Dd,Dc
+                     Aggressor: P,Td
+                     EmoCowboy: Sc,N
+                        Scared: Sb,N
+Final Health:
+                 InputAnalyzer: 2
+                     Aggressor: 0
+                     EmoCowboy: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Aggressor EmoCowboy
+Aggressor: Scared InputAnalyzer EmoCowboy
+EmoCowboy: Scared InputAnalyzer Aggressor
+Scared: EmoCowboy InputAnalyzer Aggressor
+Generated: 2014/08/12 10:20:13.724453491 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman Ninja CourageTheDog
+                     Richochet: Sb,N,Sb,N,Sc,N,Sd,N,Sd,N,Sb,N,Sd,N,Sc,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Dc,Dc,Da,Dc,Dd,Db,Dc,Dd,Dc,Dc,Dd,Dc,Db,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Sc,N,Sc,N,Db,Da,Da,Sb,N,Da,Da,Dc,Da,Da,Da,Sa,N,N
+Final Health:
+                     Richochet: 3
+                     Bomberman: -3
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman Ninja CourageTheDog
+Bomberman: Richochet Ninja CourageTheDog
+Ninja: Richochet Bomberman CourageTheDog
+CourageTheDog: Richochet Bomberman Ninja
+Generated: 2014/08/12 09:02:33.239449393 UTC

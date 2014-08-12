@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Monkey CourageTheDog
+                     Grenadier: P,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N
+                        Monkey: N,Sa,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Db,N,Sb
+Final Health:
+                     Grenadier: -7
+                         Spock: 0
+                        Monkey: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Monkey CourageTheDog
+Spock: Grenadier Monkey CourageTheDog
+Monkey: Grenadier Spock CourageTheDog
+CourageTheDog: Grenadier Spock Monkey
+Generated: 2014/08/12 06:06:27.354790167 UTC

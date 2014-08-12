@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo SimpleShooter CourageTheDog
+                 InputAnalyzer: Dd,Da,Da,P,N,Da
+                       HanSolo: Sd,N,Sd,N,Sd,N
+                 SimpleShooter: Sb,N,Sa,N,Sa,N
+                 CourageTheDog: Sb,N,Db,Db,P,Tc
+Final Health:
+                 InputAnalyzer: -8
+                       HanSolo: -5
+                 SimpleShooter: -6
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog HanSolo SimpleShooter
+HanSolo: CourageTheDog InputAnalyzer SimpleShooter
+SimpleShooter: CourageTheDog InputAnalyzer HanSolo
+CourageTheDog: SimpleShooter InputAnalyzer HanSolo
+Generated: 2014/08/12 05:44:06.742666959 UTC

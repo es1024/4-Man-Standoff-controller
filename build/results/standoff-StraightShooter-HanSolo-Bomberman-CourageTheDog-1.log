@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Bomberman CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Dc,Da,Db,Db,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 3
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman CourageTheDog HanSolo
+HanSolo: Bomberman CourageTheDog StraightShooter
+Bomberman: HanSolo CourageTheDog StraightShooter
+CourageTheDog: HanSolo Bomberman StraightShooter
+Generated: 2014/08/12 06:34:32.828074564 UTC

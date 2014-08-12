@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury CourageTheDog
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,N,Db,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Db,Sc,N,Db,N,Db,Sb,N,Db,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -4
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury CourageTheDog HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury CourageTheDog PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: HanSolo CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: HanSolo TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 06:20:54.203576692 UTC

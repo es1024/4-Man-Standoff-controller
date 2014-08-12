@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Monkey AntiGrenadier
+                         Spock: N,Sc
+                     Aggressor: P,Tc
+                        Monkey: N,P
+                 AntiGrenadier: N,Sb
+Final Health:
+                         Spock: -1
+                     Aggressor: -3
+                        Monkey: -11
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey AntiGrenadier Aggressor
+Aggressor: Monkey AntiGrenadier Spock
+Monkey: Aggressor AntiGrenadier Spock
+AntiGrenadier: Aggressor Monkey Spock
+Generated: 2014/08/12 10:26:48.854058813 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Ninja AntiGrenadier
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Db,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,Sc,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,Sc,N
+                         Ninja: Dc,Db,Dd,Db,Dd,Da,Dc,Db,Da,Dc,Dc,Db,Da,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: -15
+                         Ninja: -1
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja AntiGrenadier Spock
+Spock: Ninja AntiGrenadier PoliticallyCorrectGunman
+Ninja: Spock AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: Spock Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 07:40:11.775865112 UTC

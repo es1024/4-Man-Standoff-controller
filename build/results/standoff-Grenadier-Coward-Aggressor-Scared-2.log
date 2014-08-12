@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Aggressor Scared
+                     Grenadier: N,P,N
+                        Coward: Sc,N,Sa
+                     Aggressor: P,Td,N
+                        Scared: N,Sc,N
+Final Health:
+                     Grenadier: -6
+                        Coward: -1
+                     Aggressor: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Coward Aggressor
+Coward: Scared Grenadier Aggressor
+Aggressor: Scared Grenadier Coward
+Scared: Aggressor Grenadier Coward
+Generated: 2014/08/12 05:58:07.265549394 UTC

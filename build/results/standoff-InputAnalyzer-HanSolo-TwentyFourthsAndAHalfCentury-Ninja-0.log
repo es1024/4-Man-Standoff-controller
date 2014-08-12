@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury Ninja
+                 InputAnalyzer: Db,Da,Sd,N,Dd,P,Da,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Db,Dd,Da,Dd,Dd,Sb
+                         Ninja: Da,Db,Db,Dd,Dc,Dd,Db,N
+Final Health:
+                 InputAnalyzer: -7
+                       HanSolo: 0
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo TwentyFourthsAndAHalfCentury Ninja
+HanSolo: InputAnalyzer TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: InputAnalyzer HanSolo Ninja
+Ninja: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:52:46.166267933 UTC

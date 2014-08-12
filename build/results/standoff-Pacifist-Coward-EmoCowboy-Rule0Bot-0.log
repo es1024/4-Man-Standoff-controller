@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward EmoCowboy Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: -15
+                     EmoCowboy: -2
+                      Rule0Bot: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward EmoCowboy Rule0Bot
+Coward: Pacifist EmoCowboy Rule0Bot
+EmoCowboy: Pacifist Coward Rule0Bot
+Rule0Bot: Pacifist Coward EmoCowboy
+Generated: 2014/08/12 06:16:34.499116446 UTC

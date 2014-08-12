@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N
+                 InputAnalyzer: Dd,Sb,N,Db,Dc,Da,Sb,N,Db,P,Dc,Db
+                 CourageTheDog: Sb,N,Dc,Db,Dc,Db,Dc,Sc,N,Sc,N,Dc
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                 InputAnalyzer: -5
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog StraightShooter InputAnalyzer
+StraightShooter: CourageTheDog Pacifist InputAnalyzer
+InputAnalyzer: CourageTheDog Pacifist StraightShooter
+CourageTheDog: InputAnalyzer Pacifist StraightShooter
+Generated: 2014/08/12 08:26:48.436007026 UTC

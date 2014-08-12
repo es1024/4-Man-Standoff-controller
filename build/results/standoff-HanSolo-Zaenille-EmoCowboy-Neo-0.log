@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille EmoCowboy Neo
+                       HanSolo: Sb,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Da,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                      Zaenille: -4
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille EmoCowboy Neo
+Zaenille: HanSolo EmoCowboy Neo
+EmoCowboy: HanSolo Zaenille Neo
+Neo: HanSolo Zaenille EmoCowboy
+Generated: 2014/08/12 07:03:55.687754892 UTC

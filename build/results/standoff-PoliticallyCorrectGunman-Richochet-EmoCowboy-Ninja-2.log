@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet EmoCowboy Ninja
+      PoliticallyCorrectGunman: N,Sb,N,N,Db,N,N,N,N,N,Sb,N,Sa,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Da,Dc,Db,Db,Dc,Dd,Db,Db,Dd,Dc,Db,Da,Da,Db,Da
+Final Health:
+      PoliticallyCorrectGunman: -4
+                     Richochet: 1
+                     EmoCowboy: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Richochet EmoCowboy
+Richochet: Ninja PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: Ninja PoliticallyCorrectGunman Richochet
+Ninja: EmoCowboy PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 08:00:06.204361353 UTC

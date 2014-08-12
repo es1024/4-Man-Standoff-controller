@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Aggressor Bomberman
+                 InputAnalyzer: Db,Dc,N
+                        Coward: Sd,N,Dd
+                     Aggressor: P,Ta,Sb
+                     Bomberman: N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                        Coward: 0
+                     Aggressor: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Aggressor Bomberman
+Coward: InputAnalyzer Aggressor Bomberman
+Aggressor: InputAnalyzer Coward Bomberman
+Bomberman: InputAnalyzer Coward Aggressor
+Generated: 2014/08/12 08:54:47.045119777 UTC

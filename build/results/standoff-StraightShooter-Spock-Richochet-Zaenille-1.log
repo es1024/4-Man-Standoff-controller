@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Richochet Zaenille
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+                         Spock: Sc,N,Sc,N,Sc,N,Sa
+                     Richochet: Sd,N,Sa,N,Sa,N,N
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 5
+                     Richochet: -1
+                      Zaenille: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Zaenille Spock
+Spock: Richochet Zaenille StraightShooter
+Richochet: Spock Zaenille StraightShooter
+Zaenille: Spock Richochet StraightShooter
+Generated: 2014/08/12 07:55:24.622540621 UTC

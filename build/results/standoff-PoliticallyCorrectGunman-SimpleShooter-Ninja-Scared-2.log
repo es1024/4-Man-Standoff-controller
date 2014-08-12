@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Ninja Scared
+      PoliticallyCorrectGunman: Dd,N,Dc,P,N
+                 SimpleShooter: Sc,N,Sa,N,Sd
+                         Ninja: Dd,Db,Dc,Db,Dc
+                        Scared: Sc,N,Sa,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -7
+                 SimpleShooter: 2
+                         Ninja: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared SimpleShooter Ninja
+SimpleShooter: Scared PoliticallyCorrectGunman Ninja
+Ninja: Scared PoliticallyCorrectGunman SimpleShooter
+Scared: Ninja PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 09:00:02.054893481 UTC

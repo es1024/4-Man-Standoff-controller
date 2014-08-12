@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Rule0Bot Neo CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sc,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Da,N,N,Sa,N,Dd,N
+                 CourageTheDog: Sb,N,Sc,N,Sb,N,Dc,Dc,Sc
+Final Health:
+                 SimpleShooter: 3
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo CourageTheDog Rule0Bot
+Rule0Bot: Neo CourageTheDog SimpleShooter
+Neo: Rule0Bot CourageTheDog SimpleShooter
+CourageTheDog: Rule0Bot Neo SimpleShooter
+Generated: 2014/08/12 10:26:11.591166535 UTC

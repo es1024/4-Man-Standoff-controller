@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Monkey CourageTheDog
+                         Spock: Sb,N,Sd,N,N,Sd,N,Sb,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,Sd,N,Da,N,N,Sb,N,N,N,N,N,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -17
+                        Coward: -1
+                        Monkey: -15
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Monkey CourageTheDog
+Coward: Spock Monkey CourageTheDog
+Monkey: Spock Coward CourageTheDog
+CourageTheDog: Spock Coward Monkey
+Generated: 2014/08/12 09:32:37.008038488 UTC

@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier Scared
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dd,N,N,N,N,N,N,Sc,N,Sd,N,Sd,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,N,Sa,N,Sa,N,Sc,N,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: AntiGrenadier Scared EmoCowboy
+EmoCowboy: AntiGrenadier Scared TwentyFourthsAndAHalfCentury
+AntiGrenadier: EmoCowboy Scared TwentyFourthsAndAHalfCentury
+Scared: EmoCowboy AntiGrenadier TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:03:57.214665415 UTC

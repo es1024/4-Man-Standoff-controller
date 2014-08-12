@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Richochet CourageTheDog
+                 InputAnalyzer: Dd,P,N,N
+                        Coward: Sc,N,Sc,N
+                     Richochet: Sa,N,Sa,N
+                 CourageTheDog: Sc,N,P,Ta
+Final Health:
+                 InputAnalyzer: -13
+                        Coward: -1
+                     Richochet: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Coward Richochet
+Coward: CourageTheDog InputAnalyzer Richochet
+Richochet: CourageTheDog InputAnalyzer Coward
+CourageTheDog: Richochet InputAnalyzer Coward
+Generated: 2014/08/12 08:50:35.787973462 UTC

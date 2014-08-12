@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Rule0Bot Scared
+                 InputAnalyzer: Dc,Dd,Dc,Db
+      PoliticallyCorrectGunman: N,N,P,Tc
+                      Rule0Bot: N,N,N,Sb
+                        Scared: Sc,N,Sa,N
+Final Health:
+                 InputAnalyzer: 0
+      PoliticallyCorrectGunman: 0
+                      Rule0Bot: -5
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Rule0Bot Scared InputAnalyzer
+Rule0Bot: PoliticallyCorrectGunman Scared InputAnalyzer
+Scared: PoliticallyCorrectGunman Rule0Bot InputAnalyzer
+Generated: 2014/08/12 05:50:01.092532176 UTC

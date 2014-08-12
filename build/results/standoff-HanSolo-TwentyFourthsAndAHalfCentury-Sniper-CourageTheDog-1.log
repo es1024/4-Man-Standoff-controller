@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,N,Da,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Dc,Da,Sa,N,Sa,N,Da,Da,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper CourageTheDog HanSolo
+Sniper: TwentyFourthsAndAHalfCentury CourageTheDog HanSolo
+CourageTheDog: TwentyFourthsAndAHalfCentury Sniper HanSolo
+Generated: 2014/08/12 10:47:51.193460870 UTC

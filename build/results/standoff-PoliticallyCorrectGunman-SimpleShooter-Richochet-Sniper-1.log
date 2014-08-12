@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Richochet Sniper
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sd,N,N
+                     Richochet: Sd,N,Sb,N,Sb,N,Sd
+                        Sniper: Sa,N,Sa,N,N,Sb,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: -1
+                     Richochet: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Sniper SimpleShooter
+SimpleShooter: Richochet Sniper PoliticallyCorrectGunman
+Richochet: SimpleShooter Sniper PoliticallyCorrectGunman
+Sniper: SimpleShooter Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 10:34:25.962011904 UTC

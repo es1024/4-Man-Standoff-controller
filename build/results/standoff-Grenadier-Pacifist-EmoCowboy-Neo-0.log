@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist EmoCowboy Neo
+                     Grenadier: P,Tb,N,N,N,P,N,N
+                      Pacifist: N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                      Pacifist: -3
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist EmoCowboy Neo
+Pacifist: Grenadier EmoCowboy Neo
+EmoCowboy: Grenadier Pacifist Neo
+Neo: Grenadier Pacifist EmoCowboy
+Generated: 2014/08/12 09:18:08.462361602 UTC

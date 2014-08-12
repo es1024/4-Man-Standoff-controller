@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Zaenille EmoCowboy CourageTheDog
+                 DONTNUKEMEBRO: Dd,Db,Sd,N,Sd,N,Db,Sd,N,Db,Db,Db,Dc,Db,Dd,Dc,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Da,Sa,N,Da,Da,Da,Da,Da,N,Da,Sa,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -2
+                     EmoCowboy: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: EmoCowboy CourageTheDog Zaenille
+Zaenille: EmoCowboy CourageTheDog DONTNUKEMEBRO
+EmoCowboy: Zaenille CourageTheDog DONTNUKEMEBRO
+CourageTheDog: Zaenille EmoCowboy DONTNUKEMEBRO
+Generated: 2014/08/12 08:16:46.013783049 UTC

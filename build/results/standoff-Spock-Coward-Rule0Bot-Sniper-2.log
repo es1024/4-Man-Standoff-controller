@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Rule0Bot Sniper
+                         Spock: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sa,N,Da,Dc,Da,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,Sc,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 1
+                      Rule0Bot: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper Coward Rule0Bot
+Coward: Sniper Spock Rule0Bot
+Rule0Bot: Sniper Spock Coward
+Sniper: Rule0Bot Spock Coward
+Generated: 2014/08/12 07:18:55.436139433 UTC

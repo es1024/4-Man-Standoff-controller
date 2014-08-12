@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Spock EmoCowboy
+               StraightShooter: Sb,N,Sb,N,Sb,N
+                 DONTNUKEMEBRO: Dc,Dc,Sa,N,Sa,N
+                         Spock: Sd,N,N,N,N,Sa
+                     EmoCowboy: Sd,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                         Spock: 5
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: EmoCowboy StraightShooter Spock
+Spock: EmoCowboy StraightShooter DONTNUKEMEBRO
+EmoCowboy: Spock StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 06:11:29.267311826 UTC

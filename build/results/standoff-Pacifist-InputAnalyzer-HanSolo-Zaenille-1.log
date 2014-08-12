@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer HanSolo Zaenille
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,Sb,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sd,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -4
+                       HanSolo: 5
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Zaenille InputAnalyzer
+InputAnalyzer: HanSolo Zaenille Pacifist
+HanSolo: InputAnalyzer Zaenille Pacifist
+Zaenille: InputAnalyzer HanSolo Pacifist
+Generated: 2014/08/12 06:59:13.302830917 UTC

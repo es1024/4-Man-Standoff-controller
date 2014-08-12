@@ -1,0 +1,16 @@
+Standoff between: Monkey Ninja Sniper Scared
+                        Monkey: N,N,N,N,N,Dc,Dc,Sb,N,Sa,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Dc,Dd,Dc,Dc,Dd,Da,Dc,Dc,Da,Dc,Dc,Da,Da,N,N
+                        Sniper: Sb,N,Sa,N,Sb,N,Sd,N,Sa,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,Sc,N,Sb,N,Sb,N,Sb,N,Sc,N,Sb,N,Sc
+Final Health:
+                        Monkey: -2
+                         Ninja: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Ninja Sniper Scared
+Ninja: Monkey Sniper Scared
+Sniper: Monkey Ninja Scared
+Scared: Monkey Ninja Sniper
+Generated: 2014/08/12 09:38:44.210152225 UTC

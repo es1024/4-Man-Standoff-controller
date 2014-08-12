@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Bomberman Sniper
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sd,N,Sc,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                 SimpleShooter: -3
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Bomberman Sniper
+SimpleShooter: HanSolo Bomberman Sniper
+Bomberman: HanSolo SimpleShooter Sniper
+Sniper: HanSolo SimpleShooter Bomberman
+Generated: 2014/08/12 06:44:49.395726644 UTC

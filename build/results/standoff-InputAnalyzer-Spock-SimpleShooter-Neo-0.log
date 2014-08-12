@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter Neo
+                 InputAnalyzer: Db,Sd,N,Dc,Db,P,Sb,N
+                         Spock: Sa,N,Sd,N,Sa,N,N,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sb,N
+                           Neo: N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: -1
+                 SimpleShooter: 2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock SimpleShooter Neo
+Spock: InputAnalyzer SimpleShooter Neo
+SimpleShooter: InputAnalyzer Spock Neo
+Neo: InputAnalyzer Spock SimpleShooter
+Generated: 2014/08/12 05:49:08.588613201 UTC

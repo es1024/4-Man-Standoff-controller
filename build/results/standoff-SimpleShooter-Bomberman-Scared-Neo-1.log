@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman Scared Neo
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sb,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,Sa,N,Sa,N,Sd,N,Sa,N,N,N,N,N,N,N,Sd,N,Sb,N
+                           Neo: N,N,N,Dc,N,N,Da,N,N,Dc,N,N,N,N,N,N,N,Dc,Db,N,Sc
+Final Health:
+                 SimpleShooter: -1
+                     Bomberman: -1
+                        Scared: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Neo Bomberman
+Bomberman: Scared Neo SimpleShooter
+Scared: Bomberman Neo SimpleShooter
+Neo: Bomberman Scared SimpleShooter
+Generated: 2014/08/12 08:10:28.048412230 UTC

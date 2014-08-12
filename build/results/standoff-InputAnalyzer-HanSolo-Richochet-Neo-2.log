@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Richochet Neo
+                 InputAnalyzer: Dd,P,N,Dd
+                       HanSolo: Sd,N,Sd,N
+                     Richochet: Sb,N,Sd,N
+                           Neo: N,Da,Db,Da
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 0
+                     Richochet: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo HanSolo Richochet
+HanSolo: Neo InputAnalyzer Richochet
+Richochet: Neo InputAnalyzer HanSolo
+Neo: Richochet InputAnalyzer HanSolo
+Generated: 2014/08/12 07:15:15.884950886 UTC

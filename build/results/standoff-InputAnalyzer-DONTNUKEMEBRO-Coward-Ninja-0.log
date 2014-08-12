@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Coward Ninja
+                 InputAnalyzer: Db,Da,P,Db,N,N,N
+                 DONTNUKEMEBRO: Da,Da,Dc,Sa,N,Da,Da
+                        Coward: Sd,N,Sd,N,Sd,N,Sb
+                         Ninja: Dd,Dd,Db,Db,Db,N,N
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: 0
+                        Coward: 2
+                         Ninja: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Coward Ninja
+DONTNUKEMEBRO: InputAnalyzer Coward Ninja
+Coward: InputAnalyzer DONTNUKEMEBRO Ninja
+Ninja: InputAnalyzer DONTNUKEMEBRO Coward
+Generated: 2014/08/12 06:18:49.035827864 UTC

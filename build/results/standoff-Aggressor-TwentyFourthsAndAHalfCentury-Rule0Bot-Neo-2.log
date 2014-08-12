@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Rule0Bot Neo
+                     Aggressor: P,Td,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,Sc
+                      Rule0Bot: N,Sa,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                      Rule0Bot: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: Neo Aggressor Rule0Bot
+Rule0Bot: Neo Aggressor TwentyFourthsAndAHalfCentury
+Neo: Rule0Bot Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:01:01.445454946 UTC

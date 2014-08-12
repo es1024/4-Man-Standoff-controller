@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer TwentyFourthsAndAHalfCentury Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 InputAnalyzer: Dc,Da,Sc,N,Sa,N,Dc,P,Sd,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 0
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Neo InputAnalyzer
+InputAnalyzer: TwentyFourthsAndAHalfCentury Neo StraightShooter
+TwentyFourthsAndAHalfCentury: InputAnalyzer Neo StraightShooter
+Neo: InputAnalyzer TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 09:54:02.828381960 UTC

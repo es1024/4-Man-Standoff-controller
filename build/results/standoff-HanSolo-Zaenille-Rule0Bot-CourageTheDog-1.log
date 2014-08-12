@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Rule0Bot CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Da,Da,Sa,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+                      Zaenille: -4
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot CourageTheDog Zaenille
+Zaenille: Rule0Bot CourageTheDog HanSolo
+Rule0Bot: Zaenille CourageTheDog HanSolo
+CourageTheDog: Zaenille Rule0Bot HanSolo
+Generated: 2014/08/12 07:36:45.162393590 UTC

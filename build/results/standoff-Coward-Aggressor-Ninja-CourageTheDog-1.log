@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Ninja CourageTheDog
+                        Coward: Sb,N
+                     Aggressor: P,Td
+                         Ninja: Db,Dc
+                 CourageTheDog: Sc,N
+Final Health:
+                        Coward: 2
+                     Aggressor: 0
+                         Ninja: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja CourageTheDog Aggressor
+Aggressor: Ninja CourageTheDog Coward
+Ninja: Aggressor CourageTheDog Coward
+CourageTheDog: Aggressor Ninja Coward
+Generated: 2014/08/12 10:04:21.867011755 UTC

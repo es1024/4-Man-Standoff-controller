@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Bomberman Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sa,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dd,Db,Da,Da,Dd,Dd,Da,Da,Dd,Db,Dd,Dc,Dd,Db,Dc
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Bomberman Ninja
+Richochet: Pacifist Bomberman Ninja
+Bomberman: Pacifist Richochet Ninja
+Ninja: Pacifist Richochet Bomberman
+Generated: 2014/08/12 06:32:43.525467475 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Sniper Scared
+                 SimpleShooter: Sb,N,Sb,N,Sc
+                     Richochet: Sd,N,Sd,N,Sc
+                        Sniper: Sd,N,Sd,N,Sb
+                        Scared: Sc,N,Sa,N,N
+Final Health:
+                 SimpleShooter: 3
+                     Richochet: -1
+                        Sniper: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Scared Richochet
+Richochet: Sniper Scared SimpleShooter
+Sniper: Richochet Scared SimpleShooter
+Scared: Richochet Sniper SimpleShooter
+Generated: 2014/08/12 10:33:39.105187697 UTC

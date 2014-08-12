@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet TwentyFourthsAndAHalfCentury Rule0Bot
+      PoliticallyCorrectGunman: P,Dd,N
+                     Richochet: Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da
+                      Rule0Bot: N,Sa,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Richochet TwentyFourthsAndAHalfCentury
+Richochet: Rule0Bot PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot PoliticallyCorrectGunman Richochet
+Rule0Bot: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 09:32:55.658738648 UTC

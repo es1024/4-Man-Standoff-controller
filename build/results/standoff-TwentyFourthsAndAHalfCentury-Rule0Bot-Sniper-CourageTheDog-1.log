@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Rule0Bot Sniper CourageTheDog
+  TwentyFourthsAndAHalfCentury: Dd,Db,Db,Db,Dd,N,Dc,Dc,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Da,Sb,N,Sa,N,Dc,Dc,Sa,N,Sc,N,Dc,Sc,N,Dc,Dc,Dc,Sc
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Sniper CourageTheDog Rule0Bot
+Rule0Bot: Sniper CourageTheDog TwentyFourthsAndAHalfCentury
+Sniper: Rule0Bot CourageTheDog TwentyFourthsAndAHalfCentury
+CourageTheDog: Rule0Bot Sniper TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:26:56.538048835 UTC

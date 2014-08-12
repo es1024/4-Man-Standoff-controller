@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Aggressor Monkey
+                       HanSolo: Sc,N,Sd
+                         Spock: Sc,N,N
+                     Aggressor: P,Tb,N
+                        Monkey: N,Sc,N
+Final Health:
+                       HanSolo: 2
+                         Spock: -3
+                     Aggressor: -4
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Monkey Spock
+Spock: Aggressor Monkey HanSolo
+Aggressor: Spock Monkey HanSolo
+Monkey: Spock Aggressor HanSolo
+Generated: 2014/08/12 10:08:43.906120217 UTC

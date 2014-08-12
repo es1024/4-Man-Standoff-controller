@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer HanSolo Ninja
+                     Grenadier: N,N,N,P,Tb
+                 InputAnalyzer: Dd,Dc,Dd,Dc,P
+                       HanSolo: Sd,N,Sd,N,Sd
+                         Ninja: Dd,Db,Db,Dd,Db
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -9
+                       HanSolo: -1
+                         Ninja: -7
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja InputAnalyzer HanSolo
+InputAnalyzer: Ninja Grenadier HanSolo
+HanSolo: Ninja Grenadier InputAnalyzer
+Ninja: HanSolo Grenadier InputAnalyzer
+Generated: 2014/08/12 06:44:56.992563552 UTC

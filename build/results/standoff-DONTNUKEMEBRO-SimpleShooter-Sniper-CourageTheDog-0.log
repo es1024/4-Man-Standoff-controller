@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Sniper CourageTheDog
+                 DONTNUKEMEBRO: Dd,Db,Db,Dc,P,Td
+                 SimpleShooter: Sd,N,Sa,N,Sd,N
+                        Sniper: Sb,N,Sa,N,Sd,N
+                 CourageTheDog: Sc,N,N,Dc,Db,P
+Final Health:
+                 DONTNUKEMEBRO: -3
+                 SimpleShooter: -3
+                        Sniper: -3
+                 CourageTheDog: -13
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Sniper CourageTheDog
+SimpleShooter: DONTNUKEMEBRO Sniper CourageTheDog
+Sniper: DONTNUKEMEBRO SimpleShooter CourageTheDog
+CourageTheDog: DONTNUKEMEBRO SimpleShooter Sniper
+Generated: 2014/08/12 06:52:29.695594698 UTC

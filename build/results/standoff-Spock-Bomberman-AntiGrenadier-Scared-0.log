@@ -1,0 +1,16 @@
+Standoff between: Spock Bomberman AntiGrenadier Scared
+                         Spock: Sb,N,Sb,N,Sb,N,Sc,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sc,N,Sc,N,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman AntiGrenadier Scared
+Bomberman: Spock AntiGrenadier Scared
+AntiGrenadier: Spock Bomberman Scared
+Scared: Spock Bomberman AntiGrenadier
+Generated: 2014/08/12 10:15:06.574079955 UTC

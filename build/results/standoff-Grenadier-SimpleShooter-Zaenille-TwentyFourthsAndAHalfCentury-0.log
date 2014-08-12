@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,P,N,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Da,N,Db
+Final Health:
+                     Grenadier: -5
+                 SimpleShooter: 2
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+SimpleShooter: Grenadier Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Grenadier SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Grenadier SimpleShooter Zaenille
+Generated: 2014/08/12 06:51:39.075036761 UTC

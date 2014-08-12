@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter DONTNUKEMEBRO CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,Tc
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 DONTNUKEMEBRO: Dd,Db,Da,Dd,Dd,Sd,N,Da,Dd,Db,Sa
+                 CourageTheDog: N,Db,Da,Sc,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+               StraightShooter: 2
+                 DONTNUKEMEBRO: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO CourageTheDog StraightShooter
+StraightShooter: DONTNUKEMEBRO CourageTheDog Grenadier
+DONTNUKEMEBRO: StraightShooter CourageTheDog Grenadier
+CourageTheDog: StraightShooter DONTNUKEMEBRO Grenadier
+Generated: 2014/08/12 10:03:20.427508983 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet AntiGrenadier Scared Neo
+                     Richochet: Sb,N,Sb,N,Sd,N,Sb,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,Sa,N,Sd,N,Sd,N,Sa,N,Sa
+                           Neo: N,N,Da,Db,Da,Db,Da,Sc,N,N,Da
+Final Health:
+                     Richochet: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared Neo AntiGrenadier
+AntiGrenadier: Scared Neo Richochet
+Scared: AntiGrenadier Neo Richochet
+Neo: AntiGrenadier Scared Richochet
+Generated: 2014/08/12 09:22:27.380763028 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier Sniper
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sb,N,Sb,N,Sd,N,Sb
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Dd,Dc,Dc,Dc,Da,N,Dd,Dd,Da,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,Sc,N,Sc,N,N,Sb,N,N,N
+Final Health:
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury AntiGrenadier Sniper
+TwentyFourthsAndAHalfCentury: SimpleShooter AntiGrenadier Sniper
+AntiGrenadier: SimpleShooter TwentyFourthsAndAHalfCentury Sniper
+Sniper: SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 08:01:53.477732122 UTC

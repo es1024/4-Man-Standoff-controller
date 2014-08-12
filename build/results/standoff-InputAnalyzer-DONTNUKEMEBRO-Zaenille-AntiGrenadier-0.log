@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Zaenille AntiGrenadier
+                 InputAnalyzer: Db,P,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Sa,N,Dc,Da,Dc,Dd,Da,Dd,Dc,Dc,Dd,Dc,Da,Dc,Da,Dd,Dc,Dc,Da,Da,Da,Da,Da,Da,Da,Da,Dc,Dc,Dd,Dd,Dd,Dd,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -12
+                 DONTNUKEMEBRO: 2
+                      Zaenille: -2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Zaenille AntiGrenadier
+DONTNUKEMEBRO: InputAnalyzer Zaenille AntiGrenadier
+Zaenille: InputAnalyzer DONTNUKEMEBRO AntiGrenadier
+AntiGrenadier: InputAnalyzer DONTNUKEMEBRO Zaenille
+Generated: 2014/08/12 09:12:57.024403248 UTC

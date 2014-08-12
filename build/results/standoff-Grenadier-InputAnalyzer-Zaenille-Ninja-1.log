@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Zaenille Ninja
+                     Grenadier: N,P,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,Sc,N,Da,Dc,Sa,N,Db,P,Sb
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Db,Dd,Da,Db,Dd,Da,Dc,Dd,Db
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -8
+                      Zaenille: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Ninja InputAnalyzer
+InputAnalyzer: Zaenille Ninja Grenadier
+Zaenille: InputAnalyzer Ninja Grenadier
+Ninja: InputAnalyzer Zaenille Grenadier
+Generated: 2014/08/12 08:50:53.490895473 UTC

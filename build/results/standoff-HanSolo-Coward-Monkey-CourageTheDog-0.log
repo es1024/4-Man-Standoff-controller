@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Monkey CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd
+                        Coward: Sd,N,Sd,N,Da,Dc,Sd,N,N,N,N,N,N,N,N
+                        Monkey: N,Sa,N,Db,N,Da,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Da,Da,Dc,N,Da,Sc,N,Dc,Da,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+                        Coward: -1
+                        Monkey: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Monkey CourageTheDog
+Coward: HanSolo Monkey CourageTheDog
+Monkey: HanSolo Coward CourageTheDog
+CourageTheDog: HanSolo Coward Monkey
+Generated: 2014/08/12 09:47:58.537225632 UTC

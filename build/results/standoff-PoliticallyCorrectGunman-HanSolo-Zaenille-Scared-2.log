@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Zaenille Scared
+      PoliticallyCorrectGunman: Sb,N,N,Sd,N
+                       HanSolo: Sd,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                        Scared: Sa,N,Sa,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 3
+                      Zaenille: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared HanSolo Zaenille
+HanSolo: Scared PoliticallyCorrectGunman Zaenille
+Zaenille: Scared PoliticallyCorrectGunman HanSolo
+Scared: Zaenille PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 09:36:04.489953943 UTC

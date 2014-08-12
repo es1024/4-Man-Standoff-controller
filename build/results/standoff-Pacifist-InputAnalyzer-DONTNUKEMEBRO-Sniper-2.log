@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer DONTNUKEMEBRO Sniper
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,P,N,Sa,N,N,N
+                 DONTNUKEMEBRO: Db,Db,Sb,N,Dd,Dd,Sd
+                        Sniper: Sa,N,Sb,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -2
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: Sniper Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: Sniper Pacifist InputAnalyzer
+Sniper: DONTNUKEMEBRO Pacifist InputAnalyzer
+Generated: 2014/08/12 06:26:47.296005205 UTC

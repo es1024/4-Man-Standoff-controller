@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille AntiGrenadier Scared
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sc,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                      Zaenille: -4
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Zaenille AntiGrenadier
+Zaenille: Scared SimpleShooter AntiGrenadier
+AntiGrenadier: Scared SimpleShooter Zaenille
+Scared: AntiGrenadier SimpleShooter Zaenille
+Generated: 2014/08/12 06:39:16.014706721 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist PoliticallyCorrectGunman Ninja
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Db,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Db,Dd,Db,Da,Dd,Dd,Dc,Da,Dc,Dd,Dd,Db,Dc,Dd,Da,Dd,Db,Dd,Da,Da,Dc,Da,Dc,Dc,Da,Dd,Da,Dc,Da,Da,Dd,Db,Dd,Db,Dd,Dc,Da,Dd,Da,Dc,Db,Dd,Da,Dd,Db,Dc,Db,Da
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -18
+      PoliticallyCorrectGunman: -2
+                         Ninja: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Ninja Pacifist
+Pacifist: PoliticallyCorrectGunman Ninja Grenadier
+PoliticallyCorrectGunman: Pacifist Ninja Grenadier
+Ninja: Pacifist PoliticallyCorrectGunman Grenadier
+Generated: 2014/08/12 10:30:49.021796454 UTC

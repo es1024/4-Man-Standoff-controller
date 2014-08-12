@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Rule0Bot Scared
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,Tc
+                 InputAnalyzer: Dd,Dc,P,Sd,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,Sb,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -3
+                      Rule0Bot: -6
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared InputAnalyzer Rule0Bot
+InputAnalyzer: Scared Grenadier Rule0Bot
+Rule0Bot: Scared Grenadier InputAnalyzer
+Scared: Rule0Bot Grenadier InputAnalyzer
+Generated: 2014/08/12 07:39:52.743768395 UTC

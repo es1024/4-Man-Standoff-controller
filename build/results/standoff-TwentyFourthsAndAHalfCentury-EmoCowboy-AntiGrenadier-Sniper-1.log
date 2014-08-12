@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier Sniper
+  TwentyFourthsAndAHalfCentury: N,Db,N,N,N,Sd,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc
+                     EmoCowboy: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 3
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: AntiGrenadier Sniper EmoCowboy
+EmoCowboy: AntiGrenadier Sniper TwentyFourthsAndAHalfCentury
+AntiGrenadier: EmoCowboy Sniper TwentyFourthsAndAHalfCentury
+Sniper: EmoCowboy AntiGrenadier TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:32:52.011586097 UTC

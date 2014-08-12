@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury EmoCowboy Scared
+                     Richochet: Sc,N,Sb,N,Sb,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,Da,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sb,N,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Scared Richochet EmoCowboy
+EmoCowboy: Scared Richochet TwentyFourthsAndAHalfCentury
+Scared: EmoCowboy Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:54:04.175136648 UTC

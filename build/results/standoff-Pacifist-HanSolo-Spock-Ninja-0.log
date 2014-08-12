@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Spock Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dc,Db,Da,Dc,Db,Dd,Da,Dc,Db,Dd,Dc,Db,Da,Da,Dc
+Final Health:
+                      Pacifist: -3
+                       HanSolo: 5
+                         Spock: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Spock Ninja
+HanSolo: Pacifist Spock Ninja
+Spock: Pacifist HanSolo Ninja
+Ninja: Pacifist HanSolo Spock
+Generated: 2014/08/12 07:33:01.334183747 UTC

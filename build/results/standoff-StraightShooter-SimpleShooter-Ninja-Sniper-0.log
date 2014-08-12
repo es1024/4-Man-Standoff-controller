@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Ninja Sniper
+               StraightShooter: Sc,N,Sc,N,Sc,N,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sd
+                         Ninja: Da,Dd,Db,Dc,Dc,N,N
+                        Sniper: Sc,N,Sa,N,Sa,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Ninja Sniper
+SimpleShooter: StraightShooter Ninja Sniper
+Ninja: StraightShooter SimpleShooter Sniper
+Sniper: StraightShooter SimpleShooter Ninja
+Generated: 2014/08/12 10:03:10.238703534 UTC

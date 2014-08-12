@@ -1,0 +1,16 @@
+Standoff between: Bomberman EmoCowboy Neo CourageTheDog
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,Da,Da,Da,N,N,N,N,N,N,N,Da,N,Da,Da,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sc,N,Dc,Da,N,Dc,Dc,Sc,N,Dc,Da,Da,Da,Sc,N,Da,N,Sa,N,Sa,N,Da,Da,Sa
+Final Health:
+                     Bomberman: -1
+                     EmoCowboy: -4
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: CourageTheDog EmoCowboy Neo
+EmoCowboy: CourageTheDog Bomberman Neo
+Neo: CourageTheDog Bomberman EmoCowboy
+CourageTheDog: Neo Bomberman EmoCowboy
+Generated: 2014/08/12 08:37:01.407896540 UTC

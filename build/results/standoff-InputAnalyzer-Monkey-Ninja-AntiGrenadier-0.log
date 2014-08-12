@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Ninja AntiGrenadier
+                 InputAnalyzer: Db,Dd,Db,Dd,P,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Dd,Dd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,Da,Db,N,N,N,N,N,N,Da,Da,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dd,Db,Db,Dc,Dd,Dc,Dc,Dd,Dd,Dc,Dd,Dd,Dc,Da,Dd,Dd,Dc,Db,Dc,Da,Da,Dc,Db,Db,Dd,Dd,Dc,Dc,Db,Da,Da,Dc,Dc,Dc,Dd,Da,Db,Db,Db,Da,Dc,Dc,Da,Db,Dd,Dd,Dc,Dd
+                 AntiGrenadier: N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -10
+                        Monkey: -18
+                         Ninja: -18
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Ninja AntiGrenadier
+Monkey: InputAnalyzer Ninja AntiGrenadier
+Ninja: InputAnalyzer Monkey AntiGrenadier
+AntiGrenadier: InputAnalyzer Monkey Ninja
+Generated: 2014/08/12 09:53:07.518840970 UTC

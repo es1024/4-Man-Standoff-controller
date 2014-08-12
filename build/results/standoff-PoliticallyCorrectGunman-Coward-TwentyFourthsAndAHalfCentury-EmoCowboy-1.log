@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury EmoCowboy
+      PoliticallyCorrectGunman: Dd,Sb,N,N,N,N,Dd,P,Sb,N
+                        Coward: Sa,N,Sc,N,Sc,N,Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Db,Da,Da,Da,Da,Da,Db,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                        Coward: -2
+  TwentyFourthsAndAHalfCentury: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury EmoCowboy Coward
+Coward: TwentyFourthsAndAHalfCentury EmoCowboy PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Coward EmoCowboy PoliticallyCorrectGunman
+EmoCowboy: Coward TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 07:41:03.492249875 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Richochet Scared
+               StraightShooter: Sb,N,Sb,N
+                 DONTNUKEMEBRO: Dd,Dd,P,Tc
+                     Richochet: Sa,N,Sd,N
+                        Scared: Sb,N,Sc,N
+Final Health:
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -2
+                     Richochet: -5
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: Scared StraightShooter Richochet
+Richochet: Scared StraightShooter DONTNUKEMEBRO
+Scared: Richochet StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 10:05:56.102913206 UTC

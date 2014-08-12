@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Rule0Bot CourageTheDog
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Td
+                      Rule0Bot: N,Sb
+                 CourageTheDog: Sa,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 0
+                      Rule0Bot: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog Aggressor Rule0Bot
+Aggressor: CourageTheDog SimpleShooter Rule0Bot
+Rule0Bot: CourageTheDog SimpleShooter Aggressor
+CourageTheDog: Rule0Bot SimpleShooter Aggressor
+Generated: 2014/08/12 06:01:15.055439187 UTC

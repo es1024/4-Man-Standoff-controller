@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,Da,Da,Da,Da,N,N
+                     EmoCowboy: N,N,N,N,N,N,Sd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: EmoCowboy Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Pacifist SimpleShooter
+EmoCowboy: TwentyFourthsAndAHalfCentury Pacifist SimpleShooter
+Generated: 2014/08/12 08:51:09.451756970 UTC

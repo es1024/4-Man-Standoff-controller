@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet TwentyFourthsAndAHalfCentury Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sa,N,Sc,N,Sd,N,Sa,N,Sd,N,Sc,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,Dd,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Db,Dd,Db,Db,Da,Da,Db,Dd,Da,Db,Db,Da,Da,Db,Dc,Db,Dd,Dc,Dc
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Richochet TwentyFourthsAndAHalfCentury
+Richochet: Ninja Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Pacifist Richochet
+Ninja: TwentyFourthsAndAHalfCentury Pacifist Richochet
+Generated: 2014/08/12 06:18:44.212140998 UTC

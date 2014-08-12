@@ -1,16 +1,16 @@
 Standoff between: Grenadier DONTNUKEMEBRO Spock SimpleShooter
-                     Grenadier: P,Tc
-                 DONTNUKEMEBRO: Dd,Sa
-                         Spock: Sb,N
-                 SimpleShooter: Sa,N
+                     Grenadier: P,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Sa,N,Dd,Dc
+                         Spock: N,N,N,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sb
 Final Health:
-                     Grenadier: -2
+                     Grenadier: -5
                  DONTNUKEMEBRO: 0
-                         Spock: -3
+                         Spock: 0
                  SimpleShooter: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: Spock SimpleShooter DONTNUKEMEBRO
 DONTNUKEMEBRO: Spock SimpleShooter Grenadier
 Spock: DONTNUKEMEBRO SimpleShooter Grenadier
 SimpleShooter: DONTNUKEMEBRO Spock Grenadier
-Generated: 2014/08/11 00:59:39.726266204 UTC
+Generated: 2014/08/12 10:16:16.488956149 UTC

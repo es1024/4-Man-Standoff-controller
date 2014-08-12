@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Scared Neo
+                 InputAnalyzer: Db,P,N,Sb,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Sa,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,N,Sd,N
+                           Neo: N,N,Dc,N,N,N,N,N,N,N,Dc,Dc,Sc
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: -2
+                        Scared: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Scared Neo
+DONTNUKEMEBRO: InputAnalyzer Scared Neo
+Scared: InputAnalyzer DONTNUKEMEBRO Neo
+Neo: InputAnalyzer DONTNUKEMEBRO Scared
+Generated: 2014/08/12 10:12:20.470805998 UTC

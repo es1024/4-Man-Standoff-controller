@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury AntiGrenadier
+                 InputAnalyzer: Db,Dd,Db,Dd,Sb,N,Dd,Db,Dd,Sb,N,Dd,P,Sc
+                     Richochet: Sd,N,Sa,N,Sa,N,Sc,N,Sc,N,Sd,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Da,Da,Dd,Dd,Da,Dd,Db,Da,Db,Da,Dd,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                     Richochet: -2
+  TwentyFourthsAndAHalfCentury: 0
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet TwentyFourthsAndAHalfCentury AntiGrenadier
+Richochet: InputAnalyzer TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: InputAnalyzer Richochet AntiGrenadier
+AntiGrenadier: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:02:50.291948077 UTC

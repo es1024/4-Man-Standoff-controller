@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury AntiGrenadier Sniper
+                        Monkey: N,Da,Da,Da,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Dc,Dd,Da,Da,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sc,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,Sc,N
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Sniper TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Sniper Monkey AntiGrenadier
+AntiGrenadier: Sniper Monkey TwentyFourthsAndAHalfCentury
+Sniper: AntiGrenadier Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:51:35.029750126 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman EmoCowboy AntiGrenadier Neo
+      PoliticallyCorrectGunman: Sc,N,N,Dc,N,N,Dc,N,N,N,N,N,N,Dc,P,Sb,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+                           Neo: N,Dc,Da,Da,Da,N,N,N,N,N,N,N,N,N,Da,Da,Sc
+Final Health:
+      PoliticallyCorrectGunman: -3
+                     EmoCowboy: -2
+                 AntiGrenadier: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo EmoCowboy AntiGrenadier
+EmoCowboy: Neo PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: Neo PoliticallyCorrectGunman EmoCowboy
+Neo: AntiGrenadier PoliticallyCorrectGunman EmoCowboy
+Generated: 2014/08/12 10:20:18.162023868 UTC

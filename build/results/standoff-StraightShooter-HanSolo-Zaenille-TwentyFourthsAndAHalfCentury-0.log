@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Zaenille TwentyFourthsAndAHalfCentury
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,Da,N,Db,Sb,N,Sb,N,Sb
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Zaenille TwentyFourthsAndAHalfCentury
+HanSolo: StraightShooter Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: StraightShooter HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: StraightShooter HanSolo Zaenille
+Generated: 2014/08/12 07:10:08.865608966 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Zaenille TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: N,Dc,Sb
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 0
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille TwentyFourthsAndAHalfCentury Aggressor
+Aggressor: Zaenille TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Zaenille: Aggressor TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Aggressor Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 06:37:23.839692578 UTC

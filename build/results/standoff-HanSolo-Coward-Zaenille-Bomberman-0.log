@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Zaenille Bomberman
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                        Coward: Sd,N,Sa,N,Sa,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                        Coward: -1
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Zaenille Bomberman
+Coward: HanSolo Zaenille Bomberman
+Zaenille: HanSolo Coward Bomberman
+Bomberman: HanSolo Coward Zaenille
+Generated: 2014/08/12 08:03:15.012890492 UTC

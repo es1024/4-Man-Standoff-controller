@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Monkey Ninja
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Db,Dd,Dd,Dc,Dc,Db,Da,Da,Da
+Final Health:
+                 SimpleShooter: -1
+                        Coward: 1
+                        Monkey: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Coward Monkey
+Coward: Ninja SimpleShooter Monkey
+Monkey: Ninja SimpleShooter Coward
+Ninja: Monkey SimpleShooter Coward
+Generated: 2014/08/12 07:31:57.587102939 UTC

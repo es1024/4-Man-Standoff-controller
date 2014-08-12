@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Aggressor Neo
+                 InputAnalyzer: Dc,Sd
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+                           Neo: N,N
+Final Health:
+                 InputAnalyzer: 0
+                 SimpleShooter: -3
+                     Aggressor: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Neo SimpleShooter
+SimpleShooter: Aggressor Neo InputAnalyzer
+Aggressor: SimpleShooter Neo InputAnalyzer
+Neo: SimpleShooter Aggressor InputAnalyzer
+Generated: 2014/08/12 05:45:03.558157130 UTC

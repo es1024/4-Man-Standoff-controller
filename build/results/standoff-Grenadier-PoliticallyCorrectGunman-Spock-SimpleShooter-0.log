@@ -1,11 +1,11 @@
 Standoff between: Grenadier PoliticallyCorrectGunman Spock SimpleShooter
-                     Grenadier: P,Tb
-      PoliticallyCorrectGunman: N,N
-                         Spock: Sa,N
-                 SimpleShooter: Sc,N
+                     Grenadier: N,N,P,N
+      PoliticallyCorrectGunman: N,Sa,N,Sa
+                         Spock: N,Sa,N,Sa
+                 SimpleShooter: Sc,N,Sb,N
 Final Health:
-                     Grenadier: 0
-      PoliticallyCorrectGunman: -3
+                     Grenadier: -9
+      PoliticallyCorrectGunman: 0
                          Spock: 0
                  SimpleShooter: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
@@ -13,4 +13,4 @@ Grenadier: PoliticallyCorrectGunman Spock SimpleShooter
 PoliticallyCorrectGunman: Grenadier Spock SimpleShooter
 Spock: Grenadier PoliticallyCorrectGunman SimpleShooter
 SimpleShooter: Grenadier PoliticallyCorrectGunman Spock
-Generated: 2014/08/11 00:59:43.143029427 UTC
+Generated: 2014/08/12 09:21:23.194879945 UTC

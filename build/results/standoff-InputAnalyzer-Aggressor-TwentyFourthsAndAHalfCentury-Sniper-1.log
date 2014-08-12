@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury Sniper
+                 InputAnalyzer: Dc,Dd,Dc,Db,P,Sc,N
+                     Aggressor: P,Tc,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Sniper Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury Sniper InputAnalyzer
+TwentyFourthsAndAHalfCentury: Aggressor Sniper InputAnalyzer
+Sniper: Aggressor TwentyFourthsAndAHalfCentury InputAnalyzer
+Generated: 2014/08/12 06:02:37.072171479 UTC

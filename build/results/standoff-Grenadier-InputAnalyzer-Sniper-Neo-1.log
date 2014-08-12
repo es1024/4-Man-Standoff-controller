@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Sniper Neo
+                     Grenadier: N,N,N,N,N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Dd,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,N,Dc,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N,Dc,N,N,Dc,N,Dc,N,N,N,Dc,N,N,N,Dc,Dc,Dc,Dc,N,Dc,Sd
+Final Health:
+                     Grenadier: -5
+                 InputAnalyzer: -2
+                        Sniper: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Neo InputAnalyzer
+InputAnalyzer: Sniper Neo Grenadier
+Sniper: InputAnalyzer Neo Grenadier
+Neo: InputAnalyzer Sniper Grenadier
+Generated: 2014/08/12 07:13:38.609693338 UTC

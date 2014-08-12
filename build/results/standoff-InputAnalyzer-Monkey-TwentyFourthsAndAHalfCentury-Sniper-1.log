@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury Sniper
+                 InputAnalyzer: Dc,Sb,N,Db,Dc,P,Sb,N,N,N
+                        Monkey: N,Dc,Db,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Dd,Da,N,N,N,Dd,N,Sd
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Sniper Monkey
+Monkey: TwentyFourthsAndAHalfCentury Sniper InputAnalyzer
+TwentyFourthsAndAHalfCentury: Monkey Sniper InputAnalyzer
+Sniper: Monkey TwentyFourthsAndAHalfCentury InputAnalyzer
+Generated: 2014/08/12 10:35:28.242318756 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sd,N,P,N,Db
+                      Rule0Bot: N,N,N,N,Sb,N
+                 CourageTheDog: Sb,N,Da,Db,P,Ta
+Final Health:
+                      Pacifist: -6
+                 InputAnalyzer: -8
+                      Rule0Bot: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot CourageTheDog InputAnalyzer
+InputAnalyzer: Rule0Bot CourageTheDog Pacifist
+Rule0Bot: InputAnalyzer CourageTheDog Pacifist
+CourageTheDog: InputAnalyzer Rule0Bot Pacifist
+Generated: 2014/08/12 10:31:58.407685174 UTC

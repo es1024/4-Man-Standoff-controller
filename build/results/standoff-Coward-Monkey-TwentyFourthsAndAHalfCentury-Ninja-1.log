@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey TwentyFourthsAndAHalfCentury Ninja
+                        Coward: Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Da,Dd,Dd,Dd,Dd,Dd,Dd,N,N,N,Sa,N,N
+                         Ninja: Dc,Db,Dc,Dc,Da,Db,Dd,Db,Db,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury Ninja Monkey
+Monkey: TwentyFourthsAndAHalfCentury Ninja Coward
+TwentyFourthsAndAHalfCentury: Monkey Ninja Coward
+Ninja: Monkey TwentyFourthsAndAHalfCentury Coward
+Generated: 2014/08/12 09:05:14.903235178 UTC

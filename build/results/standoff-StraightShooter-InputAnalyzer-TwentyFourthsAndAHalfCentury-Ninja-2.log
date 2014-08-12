@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer TwentyFourthsAndAHalfCentury Ninja
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 InputAnalyzer: Dd,Db,P,Dd,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Da,Db,Da,Dd,Da,Dd,Dd,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,Dd,Dd,Dd,Dd,Dd,Da,Dd,Da,Dd,Dd,Dd,Da,Dd,Dd,Dd,Da,Dd,Dd,Dd,Da,Dd,Dd,Dd
+                         Ninja: Dd,Dc,Db,Dd,Dd,Da,Dc,Db,Dc,Dd,Dd,Da,Db,Dc,Dd,Db,Db,Da,Db,Db,Dd,Dc,Dc,Dd,Da,Db,Da,Da,Db,Db,Dc,Da,Da,Db,Da,Da,Da,Db,Dc,Dc,Da,Da,Db,Dc,Db,Da,Dd,Da,Db,Db
+Final Health:
+               StraightShooter: -18
+                 InputAnalyzer: -7
+  TwentyFourthsAndAHalfCentury: -18
+                         Ninja: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja InputAnalyzer TwentyFourthsAndAHalfCentury
+InputAnalyzer: Ninja StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja StraightShooter InputAnalyzer
+Ninja: TwentyFourthsAndAHalfCentury StraightShooter InputAnalyzer
+Generated: 2014/08/12 07:59:37.216305003 UTC

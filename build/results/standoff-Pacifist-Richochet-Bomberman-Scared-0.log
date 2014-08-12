@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Bomberman Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sc,N,Sc,N,Sd,N,Sc,N,Sd,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,Sb,N,Sa,N,Sb,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 1
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Bomberman Scared
+Richochet: Pacifist Bomberman Scared
+Bomberman: Pacifist Richochet Scared
+Scared: Pacifist Richochet Bomberman
+Generated: 2014/08/12 07:57:56.011528464 UTC

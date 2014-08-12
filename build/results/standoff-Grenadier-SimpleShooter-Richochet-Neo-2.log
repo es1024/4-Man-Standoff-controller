@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Richochet Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sa,N,Sc,N,Sd
+                     Richochet: Sd,N,Sb,N,Sd,N,Sa,N,Sb,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                 SimpleShooter: 1
+                     Richochet: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo SimpleShooter Richochet
+SimpleShooter: Neo Grenadier Richochet
+Richochet: Neo Grenadier SimpleShooter
+Neo: Richochet Grenadier SimpleShooter
+Generated: 2014/08/12 10:07:41.317020228 UTC

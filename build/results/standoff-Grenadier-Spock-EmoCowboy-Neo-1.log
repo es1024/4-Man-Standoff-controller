@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock EmoCowboy Neo
+                     Grenadier: P,N,N,N,N,N
+                         Spock: Sc,N,N,Sc,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N
+                           Neo: N,N,N,Db,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: 2
+                     EmoCowboy: -4
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Neo Spock
+Spock: EmoCowboy Neo Grenadier
+EmoCowboy: Spock Neo Grenadier
+Neo: Spock EmoCowboy Grenadier
+Generated: 2014/08/12 09:31:31.824441725 UTC

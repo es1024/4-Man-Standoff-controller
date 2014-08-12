@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Richochet TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Richochet: Sd,N,Sd,N,Sb,N,Sd,N,Sa,N,Sa,N,Sa,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Db,Da,Dc,Da,Db,Da,Dc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet TwentyFourthsAndAHalfCentury StraightShooter
+StraightShooter: Richochet TwentyFourthsAndAHalfCentury Pacifist
+Richochet: StraightShooter TwentyFourthsAndAHalfCentury Pacifist
+TwentyFourthsAndAHalfCentury: StraightShooter Richochet Pacifist
+Generated: 2014/08/12 06:12:23.137290722 UTC

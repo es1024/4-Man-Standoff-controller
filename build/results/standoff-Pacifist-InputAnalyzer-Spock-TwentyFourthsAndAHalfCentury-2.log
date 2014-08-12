@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Spock TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Dd,Sa,N,Db,Dc,Sa,N,Dd,Sb,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -3
+                 InputAnalyzer: -2
+                         Spock: 1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury InputAnalyzer Spock
+InputAnalyzer: TwentyFourthsAndAHalfCentury Pacifist Spock
+Spock: TwentyFourthsAndAHalfCentury Pacifist InputAnalyzer
+TwentyFourthsAndAHalfCentury: Spock Pacifist InputAnalyzer
+Generated: 2014/08/12 10:02:32.914449003 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter EmoCowboy Ninja
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Db,Dc,Da,Dd,Da,Dc,Db
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 5
+                     EmoCowboy: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Ninja SimpleShooter
+SimpleShooter: EmoCowboy Ninja HanSolo
+EmoCowboy: SimpleShooter Ninja HanSolo
+Ninja: SimpleShooter EmoCowboy HanSolo
+Generated: 2014/08/12 09:49:23.734844844 UTC

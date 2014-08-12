@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Aggressor Scared
+                      Pacifist: N,N,N
+                       HanSolo: Sa,N,N
+                     Aggressor: P,Tb,Sd
+                        Scared: Sa,N,N
+Final Health:
+                      Pacifist: -2
+                       HanSolo: -3
+                     Aggressor: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Aggressor Scared
+HanSolo: Pacifist Aggressor Scared
+Aggressor: Pacifist HanSolo Scared
+Scared: Pacifist HanSolo Aggressor
+Generated: 2014/08/12 09:40:02.198095495 UTC

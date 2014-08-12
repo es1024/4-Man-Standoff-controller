@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor EmoCowboy CourageTheDog
+                         Spock: Sd,N
+                     Aggressor: P,Td
+                     EmoCowboy: Sc,N
+                 CourageTheDog: Sa,N
+Final Health:
+                         Spock: 0
+                     Aggressor: 2
+                     EmoCowboy: -2
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Aggressor EmoCowboy
+Aggressor: CourageTheDog Spock EmoCowboy
+EmoCowboy: CourageTheDog Spock Aggressor
+CourageTheDog: EmoCowboy Spock Aggressor
+Generated: 2014/08/12 07:12:38.588634856 UTC

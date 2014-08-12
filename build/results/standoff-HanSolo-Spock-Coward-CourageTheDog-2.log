@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Coward CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N
+                         Spock: Sd,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sa,N,Sa,N,Da,Db,Da,Sa
+                 CourageTheDog: Sb,N,Db,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                        Coward: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Spock Coward
+Spock: CourageTheDog HanSolo Coward
+Coward: CourageTheDog HanSolo Spock
+CourageTheDog: Coward HanSolo Spock
+Generated: 2014/08/12 09:37:38.095191503 UTC

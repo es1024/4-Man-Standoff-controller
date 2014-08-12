@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey Bomberman CourageTheDog
+      PoliticallyCorrectGunman: Dd,Dc,Dc,N,N,N,N,N,Sa,N,N,N,N,N
+                        Monkey: N,Dd,Dd,N,N,N,N,N,N,N,N,Sc,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Sb,N,Da,N,Sa,N,Sc,N,Sb,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                        Monkey: -2
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Monkey Bomberman
+Monkey: CourageTheDog PoliticallyCorrectGunman Bomberman
+Bomberman: CourageTheDog PoliticallyCorrectGunman Monkey
+CourageTheDog: Bomberman PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 08:59:06.229489668 UTC

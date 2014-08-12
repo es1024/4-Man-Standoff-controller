@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor TwentyFourthsAndAHalfCentury EmoCowboy
+                         Spock: N,N,N,N
+                     Aggressor: P,Ta,Sc,N
+  TwentyFourthsAndAHalfCentury: N,Dd,N,N
+                     EmoCowboy: N,N,N,Sd
+Final Health:
+                         Spock: -3
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Aggressor TwentyFourthsAndAHalfCentury EmoCowboy
+Aggressor: Spock TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Spock Aggressor EmoCowboy
+EmoCowboy: Spock Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:55:26.969711543 UTC

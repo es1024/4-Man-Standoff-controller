@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,N,N,N,N,N,N,N,N,Dd,Dd,Da,Dd,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Da,Dd,Da,Dd,Da,Dd,Da,Dd,Dd,Dd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -15
+                     EmoCowboy: -4
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+TwentyFourthsAndAHalfCentury: StraightShooter EmoCowboy AntiGrenadier
+EmoCowboy: StraightShooter TwentyFourthsAndAHalfCentury AntiGrenadier
+AntiGrenadier: StraightShooter TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 10:02:44.147869201 UTC

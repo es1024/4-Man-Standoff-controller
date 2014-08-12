@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Ninja AntiGrenadier
+                     Richochet: Sd,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Db,Db,Dd,Da,Dc,Dd,Da,Dc,Dc,Dd,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -2
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Zaenille Ninja AntiGrenadier
+Zaenille: Richochet Ninja AntiGrenadier
+Ninja: Richochet Zaenille AntiGrenadier
+AntiGrenadier: Richochet Zaenille Ninja
+Generated: 2014/08/12 09:26:55.465944365 UTC

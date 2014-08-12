@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy AntiGrenadier Sniper
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper EmoCowboy AntiGrenadier
+EmoCowboy: Sniper HanSolo AntiGrenadier
+AntiGrenadier: Sniper HanSolo EmoCowboy
+Sniper: AntiGrenadier HanSolo EmoCowboy
+Generated: 2014/08/12 07:01:17.700658129 UTC

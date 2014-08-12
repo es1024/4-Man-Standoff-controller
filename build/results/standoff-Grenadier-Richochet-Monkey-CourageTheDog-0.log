@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Monkey CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sa,N,Sd,N,Sd,N,Sc,N,Sd
+                        Monkey: N,N,N,N,N,Db,N,N,Dc,N,N,N,N
+                 CourageTheDog: Sa,N,Db,N,Db,Sc,N,Dc,Sb,N,Dc,Sb,N
+Final Health:
+                     Grenadier: -1
+                     Richochet: 1
+                        Monkey: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Monkey CourageTheDog
+Richochet: Grenadier Monkey CourageTheDog
+Monkey: Grenadier Richochet CourageTheDog
+CourageTheDog: Grenadier Richochet Monkey
+Generated: 2014/08/12 09:39:41.553301307 UTC

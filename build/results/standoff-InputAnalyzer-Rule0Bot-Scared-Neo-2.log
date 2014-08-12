@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Rule0Bot Scared Neo
+                 InputAnalyzer: Dd,P,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sa,N,N,N,N,N,N,N,N,Sb,N,Sd
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,Db,Db,N
+Final Health:
+                 InputAnalyzer: -7
+                      Rule0Bot: 0
+                        Scared: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Rule0Bot Scared
+Rule0Bot: Neo InputAnalyzer Scared
+Scared: Neo InputAnalyzer Rule0Bot
+Neo: Scared InputAnalyzer Rule0Bot
+Generated: 2014/08/12 07:43:22.962055332 UTC

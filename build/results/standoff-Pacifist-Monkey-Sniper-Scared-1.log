@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey Sniper Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,Sc,N,Sa,N,Sa,N,Sc,N,N,N,N,N,N,Sa,N,Sc
+Final Health:
+                      Pacifist: -1
+                        Monkey: -2
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Scared Monkey
+Monkey: Sniper Scared Pacifist
+Sniper: Monkey Scared Pacifist
+Scared: Monkey Sniper Pacifist
+Generated: 2014/08/12 09:06:11.047036458 UTC

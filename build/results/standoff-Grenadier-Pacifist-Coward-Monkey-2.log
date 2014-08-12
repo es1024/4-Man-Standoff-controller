@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Coward Monkey
+                     Grenadier: N,N,N,N,N,N,N,P,Td
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -2
+                      Pacifist: -1
+                        Coward: 2
+                        Monkey: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Pacifist Coward
+Pacifist: Monkey Grenadier Coward
+Coward: Monkey Grenadier Pacifist
+Monkey: Coward Grenadier Pacifist
+Generated: 2014/08/12 08:12:05.838421378 UTC

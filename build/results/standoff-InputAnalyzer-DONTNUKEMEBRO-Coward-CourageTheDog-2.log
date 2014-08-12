@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Coward CourageTheDog
+                 InputAnalyzer: Dd,P,Da,Dd
+                 DONTNUKEMEBRO: Da,Dd,Sa,N
+                        Coward: Sb,N,Sb,N
+                 CourageTheDog: Sc,N,P,Tb
+Final Health:
+                 InputAnalyzer: -6
+                 DONTNUKEMEBRO: -10
+                        Coward: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog DONTNUKEMEBRO Coward
+DONTNUKEMEBRO: CourageTheDog InputAnalyzer Coward
+Coward: CourageTheDog InputAnalyzer DONTNUKEMEBRO
+CourageTheDog: Coward InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 10:03:19.283043439 UTC

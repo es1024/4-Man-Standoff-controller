@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Aggressor AntiGrenadier
+               StraightShooter: Sb,N
+                       HanSolo: Sd,N
+                     Aggressor: P,Ta
+                 AntiGrenadier: N,Sc
+Final Health:
+               StraightShooter: -3
+                       HanSolo: 0
+                     Aggressor: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: AntiGrenadier HanSolo Aggressor
+HanSolo: AntiGrenadier StraightShooter Aggressor
+Aggressor: AntiGrenadier StraightShooter HanSolo
+AntiGrenadier: Aggressor StraightShooter HanSolo
+Generated: 2014/08/12 10:30:03.672296187 UTC

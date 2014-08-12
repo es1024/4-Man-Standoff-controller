@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Monkey AntiGrenadier
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                     Richochet: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+                        Monkey: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey AntiGrenadier Richochet
+Richochet: Monkey AntiGrenadier HanSolo
+Monkey: Richochet AntiGrenadier HanSolo
+AntiGrenadier: Richochet Monkey HanSolo
+Generated: 2014/08/12 07:03:51.540534880 UTC

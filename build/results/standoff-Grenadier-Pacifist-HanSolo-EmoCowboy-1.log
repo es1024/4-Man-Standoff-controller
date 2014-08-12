@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist HanSolo EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,N,P,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: N,N,N,N,N,N,Sd,N,N,N,N
+Final Health:
+                     Grenadier: -5
+                      Pacifist: -1
+                       HanSolo: 2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo EmoCowboy Pacifist
+Pacifist: HanSolo EmoCowboy Grenadier
+HanSolo: Pacifist EmoCowboy Grenadier
+EmoCowboy: Pacifist HanSolo Grenadier
+Generated: 2014/08/12 06:17:13.015960025 UTC

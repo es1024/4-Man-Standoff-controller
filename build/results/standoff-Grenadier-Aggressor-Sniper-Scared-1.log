@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Sniper Scared
+                     Grenadier: P,N
+                     Aggressor: P,Tc
+                        Sniper: Sa,N
+                        Scared: Sb,N
+Final Health:
+                     Grenadier: -6
+                     Aggressor: -3
+                        Sniper: -6
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Scared Aggressor
+Aggressor: Sniper Scared Grenadier
+Sniper: Aggressor Scared Grenadier
+Scared: Aggressor Sniper Grenadier
+Generated: 2014/08/12 10:46:24.068995101 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey EmoCowboy Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,Sc,N,Sd,N,Sd,N,Sd,N,N,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,Sd,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                        Monkey: -15
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Ninja Monkey
+Monkey: EmoCowboy Ninja StraightShooter
+EmoCowboy: Monkey Ninja StraightShooter
+Ninja: Monkey EmoCowboy StraightShooter
+Generated: 2014/08/12 08:38:39.863283449 UTC

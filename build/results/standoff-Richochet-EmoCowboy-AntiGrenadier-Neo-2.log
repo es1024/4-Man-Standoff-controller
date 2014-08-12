@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy AntiGrenadier Neo
+                     Richochet: Sc,N,Sd,N,Sd,N,Sc,N,Sd,N,Sd,N,Sc
+                     EmoCowboy: N,N,N,Sb,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Dc,Da,Dc,N,N,N
+Final Health:
+                     Richochet: 5
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo EmoCowboy AntiGrenadier
+EmoCowboy: Neo Richochet AntiGrenadier
+AntiGrenadier: Neo Richochet EmoCowboy
+Neo: AntiGrenadier Richochet EmoCowboy
+Generated: 2014/08/12 10:19:28.596262319 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury AntiGrenadier
+                 InputAnalyzer: Dd,Db,Da
+                     Aggressor: P,Td,N
+  TwentyFourthsAndAHalfCentury: N,Da,Sa
+                 AntiGrenadier: N,Sb,N
+Final Health:
+                 InputAnalyzer: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: AntiGrenadier InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier InputAnalyzer Aggressor
+AntiGrenadier: TwentyFourthsAndAHalfCentury InputAnalyzer Aggressor
+Generated: 2014/08/12 09:33:08.592918821 UTC

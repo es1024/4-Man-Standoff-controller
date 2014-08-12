@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey EmoCowboy Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,Db,N,N,Dc,N,N,N,N,N,N,Db,Db,Dd,N,N,N,N,N,N,N,N,N,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Db,Dd,Db,Da,Db,Da,Dd,Dd,Db,Dd,Da,Dc,Db,Dd,Dd,Dc,Dd,Da,Db,Db,Dd,Dc,Dd,Db,Da,Db,Dd,Db,Dd,Dd,Db,Dc,Da,Dd,Dc,Dc,Da,Db,Dc,Dd,Dd,Db,Dd,Dc,Da,Dc,Dd,Db
+Final Health:
+                      Pacifist: -15
+                        Monkey: -15
+                     EmoCowboy: -2
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Monkey EmoCowboy
+Monkey: Ninja Pacifist EmoCowboy
+EmoCowboy: Ninja Pacifist Monkey
+Ninja: EmoCowboy Pacifist Monkey
+Generated: 2014/08/12 06:14:03.802935173 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy Scared Neo
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sc,N,Sc
+                     EmoCowboy: N,N,N,N,N,N,Sb,N,N,N,N
+                        Scared: N,N,N,N,N,N,Sa,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     EmoCowboy: -4
+                        Scared: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo EmoCowboy Scared
+EmoCowboy: Neo HanSolo Scared
+Scared: Neo HanSolo EmoCowboy
+Neo: Scared HanSolo EmoCowboy
+Generated: 2014/08/12 07:58:40.603234950 UTC

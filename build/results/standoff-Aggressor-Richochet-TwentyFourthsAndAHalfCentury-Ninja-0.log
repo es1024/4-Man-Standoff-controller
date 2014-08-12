@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet TwentyFourthsAndAHalfCentury Ninja
+                     Aggressor: P,Tb,Sd
+                     Richochet: Sc,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N
+                         Ninja: Db,Da,Db
+Final Health:
+                     Aggressor: 2
+                     Richochet: -3
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet TwentyFourthsAndAHalfCentury Ninja
+Richochet: Aggressor TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Aggressor Richochet Ninja
+Ninja: Aggressor Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:25:29.157866684 UTC

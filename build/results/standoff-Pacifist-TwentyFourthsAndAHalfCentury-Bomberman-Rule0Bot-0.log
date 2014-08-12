@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dd,Dd,Da,Sa,N,Sd
+                     Bomberman: N,P,N,N,N,N,N
+                      Rule0Bot: N,N,Sc,N,N,N,N
+Final Health:
+                      Pacifist: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: -3
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+TwentyFourthsAndAHalfCentury: Pacifist Bomberman Rule0Bot
+Bomberman: Pacifist TwentyFourthsAndAHalfCentury Rule0Bot
+Rule0Bot: Pacifist TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 07:25:55.054566572 UTC

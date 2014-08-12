@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Monkey Sniper
+                      Pacifist: N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,P,N,Da
+                        Monkey: N,N,N,Sc,N
+                        Sniper: Sa,N,Sc,N,N
+Final Health:
+                      Pacifist: 0
+      PoliticallyCorrectGunman: -1
+                        Monkey: -2
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Monkey Sniper
+PoliticallyCorrectGunman: Pacifist Monkey Sniper
+Monkey: Pacifist PoliticallyCorrectGunman Sniper
+Sniper: Pacifist PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 10:33:25.058468853 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Bomberman Scared
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                     Bomberman: N,N
+                        Scared: Sc,N
+Final Health:
+                        Coward: -3
+                     Aggressor: 2
+                     Bomberman: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Aggressor Bomberman Scared
+Aggressor: Coward Bomberman Scared
+Bomberman: Coward Aggressor Scared
+Scared: Coward Aggressor Bomberman
+Generated: 2014/08/12 07:03:51.455560411 UTC

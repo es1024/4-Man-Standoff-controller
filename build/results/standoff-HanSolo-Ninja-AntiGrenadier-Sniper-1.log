@@ -1,0 +1,16 @@
+Standoff between: HanSolo Ninja AntiGrenadier Sniper
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Ninja: Da,Db,Dd,Dc,Dd,Dd,Da,Db,Da,Dd,Dc,Db,Db,Db,Db,Dd,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                         Ninja: -1
+                 AntiGrenadier: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Sniper Ninja
+Ninja: AntiGrenadier Sniper HanSolo
+AntiGrenadier: Ninja Sniper HanSolo
+Sniper: Ninja AntiGrenadier HanSolo
+Generated: 2014/08/12 10:14:50.184025517 UTC

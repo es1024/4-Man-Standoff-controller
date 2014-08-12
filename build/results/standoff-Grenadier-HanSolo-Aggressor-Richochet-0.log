@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Aggressor Richochet
+                     Grenadier: N,N
+                       HanSolo: Sa,N
+                     Aggressor: P,Tb
+                     Richochet: Sc,N
+Final Health:
+                     Grenadier: 0
+                       HanSolo: -3
+                     Aggressor: 0
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Aggressor Richochet
+HanSolo: Grenadier Aggressor Richochet
+Aggressor: Grenadier HanSolo Richochet
+Richochet: Grenadier HanSolo Aggressor
+Generated: 2014/08/12 10:25:51.498692047 UTC

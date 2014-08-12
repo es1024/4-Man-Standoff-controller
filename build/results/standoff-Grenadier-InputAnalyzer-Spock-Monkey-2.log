@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Spock Monkey
+                     Grenadier: P,Tb
+                 InputAnalyzer: Dd,Sa
+                         Spock: Sd,N
+                        Monkey: N,Dd
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: -3
+                         Spock: 2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey InputAnalyzer Spock
+InputAnalyzer: Monkey Grenadier Spock
+Spock: Monkey Grenadier InputAnalyzer
+Monkey: Spock Grenadier InputAnalyzer
+Generated: 2014/08/12 08:04:27.636888598 UTC

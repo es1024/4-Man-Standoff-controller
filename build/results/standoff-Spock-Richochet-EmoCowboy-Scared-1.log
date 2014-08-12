@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet EmoCowboy Scared
+                         Spock: Sc,N,Sb,N,Sd,N,Sd
+                     Richochet: Sa,N,Sd,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Scared: Sb,N,Sb,N,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                     Richochet: -1
+                     EmoCowboy: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: EmoCowboy Scared Richochet
+Richochet: EmoCowboy Scared Spock
+EmoCowboy: Richochet Scared Spock
+Scared: Richochet EmoCowboy Spock
+Generated: 2014/08/12 09:46:33.457449850 UTC

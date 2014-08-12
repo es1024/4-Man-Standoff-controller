@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Monkey EmoCowboy
+                     Grenadier: N,N,N,N,N,N,P,Tb
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,Dd
+                        Monkey: N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+      PoliticallyCorrectGunman: -3
+                        Monkey: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy PoliticallyCorrectGunman Monkey
+PoliticallyCorrectGunman: EmoCowboy Grenadier Monkey
+Monkey: EmoCowboy Grenadier PoliticallyCorrectGunman
+EmoCowboy: Monkey Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 09:09:40.570582225 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Bomberman Scared
+                     Aggressor: P,Td
+                     Richochet: Sa,N
+                     Bomberman: N,N
+                        Scared: Sc,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+                     Bomberman: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman Scared Richochet
+Richochet: Bomberman Scared Aggressor
+Bomberman: Richochet Scared Aggressor
+Scared: Richochet Bomberman Aggressor
+Generated: 2014/08/12 10:12:18.593877117 UTC

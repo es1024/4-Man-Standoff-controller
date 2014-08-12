@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter AntiGrenadier Rule0Bot
+                 DONTNUKEMEBRO: Dc,Dd,Db,Dc,Sb,N,Sb,N,Db,Db,Dc,Dd,Sb,N,Dc,Db,Dc,Dd,Dd,Dd,Db,Db,Db,Db,Dd,Dd,Dd,Dd,Dc,Dc,Dc,Dc,Dc,Dd,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                 SimpleShooter: Sc,N,Sa,N,Sa,N,Sd,N,Sc,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -19
+                 SimpleShooter: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Rule0Bot SimpleShooter AntiGrenadier
+SimpleShooter: Rule0Bot DONTNUKEMEBRO AntiGrenadier
+AntiGrenadier: Rule0Bot DONTNUKEMEBRO SimpleShooter
+Rule0Bot: AntiGrenadier DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 08:39:47.499463655 UTC

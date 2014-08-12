@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dc,P,Da,Dc,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,N,N,N,Sd
+                 SimpleShooter: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,N,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 0
+                 SimpleShooter: -2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter TwentyFourthsAndAHalfCentury Spock
+Spock: SimpleShooter TwentyFourthsAndAHalfCentury InputAnalyzer
+SimpleShooter: Spock TwentyFourthsAndAHalfCentury InputAnalyzer
+TwentyFourthsAndAHalfCentury: Spock SimpleShooter InputAnalyzer
+Generated: 2014/08/12 10:30:55.325819707 UTC

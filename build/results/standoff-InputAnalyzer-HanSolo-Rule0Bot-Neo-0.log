@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Rule0Bot Neo
+                 InputAnalyzer: Db,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,Dc,Sa,N,N,N,N,Dc,Dc,N,N,Dc,N,N,N,N,N,N,N,N,Dc,N,N,N,Dc,Dc,N,N,N,Dc,Dc,N,Dc,N,Dc,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                       HanSolo: 0
+                      Rule0Bot: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Rule0Bot Neo
+HanSolo: InputAnalyzer Rule0Bot Neo
+Rule0Bot: InputAnalyzer HanSolo Neo
+Neo: InputAnalyzer HanSolo Rule0Bot
+Generated: 2014/08/12 10:28:20.994872043 UTC

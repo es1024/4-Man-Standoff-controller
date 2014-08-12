@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Bomberman Ninja
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Spock: Sc,N,Sc,N,Sc,N,Sd,N,N,N,N,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Da,Db,Dc,Dd,Dd,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                     Bomberman: -3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Ninja Spock
+Spock: Bomberman Ninja HanSolo
+Bomberman: Spock Ninja HanSolo
+Ninja: Spock Bomberman HanSolo
+Generated: 2014/08/12 09:49:20.747995065 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Bomberman CourageTheDog
+                     Grenadier: P,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Db,Db,Db,Sb
+Final Health:
+                     Grenadier: -3
+               StraightShooter: 0
+                     Bomberman: -4
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Bomberman CourageTheDog
+StraightShooter: Grenadier Bomberman CourageTheDog
+Bomberman: Grenadier StraightShooter CourageTheDog
+CourageTheDog: Grenadier StraightShooter Bomberman
+Generated: 2014/08/12 10:24:30.500315388 UTC

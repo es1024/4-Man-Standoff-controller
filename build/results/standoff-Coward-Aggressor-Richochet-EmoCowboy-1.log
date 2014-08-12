@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Richochet EmoCowboy
+                        Coward: Sb,N
+                     Aggressor: P,Tc
+                     Richochet: Sd,N
+                     EmoCowboy: Sd,N
+Final Health:
+                        Coward: 2
+                     Aggressor: 0
+                     Richochet: -3
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet EmoCowboy Aggressor
+Aggressor: Richochet EmoCowboy Coward
+Richochet: Aggressor EmoCowboy Coward
+EmoCowboy: Aggressor Richochet Coward
+Generated: 2014/08/12 06:33:24.997240995 UTC

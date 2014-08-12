@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille AntiGrenadier CourageTheDog
+                     Richochet: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Sa,N,Da,Da,Da,Da,Da,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+                      Zaenille: -2
+                 AntiGrenadier: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: CourageTheDog Zaenille AntiGrenadier
+Zaenille: CourageTheDog Richochet AntiGrenadier
+AntiGrenadier: CourageTheDog Richochet Zaenille
+CourageTheDog: AntiGrenadier Richochet Zaenille
+Generated: 2014/08/12 09:05:18.773455948 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock EmoCowboy Ninja Scared
+                         Spock: Sc,N,Sc,N,Sc,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N
+                         Ninja: Db,Dc,Db,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja Scared EmoCowboy
+EmoCowboy: Ninja Scared Spock
+Ninja: EmoCowboy Scared Spock
+Scared: EmoCowboy Ninja Spock
+Generated: 2014/08/12 06:57:19.918288546 UTC

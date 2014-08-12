@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Sniper CourageTheDog
+                         Spock: N,N,N,N,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Dc,Sb,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 3
+                        Monkey: -1
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Monkey Sniper
+Monkey: CourageTheDog Spock Sniper
+Sniper: CourageTheDog Spock Monkey
+CourageTheDog: Sniper Spock Monkey
+Generated: 2014/08/12 08:59:08.139052040 UTC

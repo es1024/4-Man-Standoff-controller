@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Monkey EmoCowboy
+               StraightShooter: Sd,N
+                     Aggressor: P,Tc
+                        Monkey: N,P
+                     EmoCowboy: Sd,N
+Final Health:
+               StraightShooter: -1
+                     Aggressor: -1
+                        Monkey: -9
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey EmoCowboy Aggressor
+Aggressor: Monkey EmoCowboy StraightShooter
+Monkey: Aggressor EmoCowboy StraightShooter
+EmoCowboy: Aggressor Monkey StraightShooter
+Generated: 2014/08/12 10:32:34.730386224 UTC

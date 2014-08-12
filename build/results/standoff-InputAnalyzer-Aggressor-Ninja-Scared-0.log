@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Ninja Scared
+                 InputAnalyzer: Db,Sd
+                     Aggressor: P,Ta
+                         Ninja: Dc,Dd
+                        Scared: Sc,N
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 2
+                         Ninja: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Ninja Scared
+Aggressor: InputAnalyzer Ninja Scared
+Ninja: InputAnalyzer Aggressor Scared
+Scared: InputAnalyzer Aggressor Ninja
+Generated: 2014/08/12 09:19:40.401362643 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Aggressor Bomberman
+                 SimpleShooter: Sc,N,Sb,N
+                        Coward: Sc,N,Da,Sa
+                     Aggressor: P,Td,N,N
+                     Bomberman: N,N,N,N
+Final Health:
+                 SimpleShooter: 0
+                        Coward: 2
+                     Aggressor: -2
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Coward Aggressor
+Coward: Bomberman SimpleShooter Aggressor
+Aggressor: Bomberman SimpleShooter Coward
+Bomberman: Aggressor SimpleShooter Coward
+Generated: 2014/08/12 09:59:52.161051239 UTC

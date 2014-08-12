@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Monkey EmoCowboy
+                       HanSolo: Sb,N
+                     Aggressor: P,Ta
+                        Monkey: N,Sb
+                     EmoCowboy: Sd,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: -2
+                        Monkey: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Monkey EmoCowboy
+Aggressor: HanSolo Monkey EmoCowboy
+Monkey: HanSolo Aggressor EmoCowboy
+EmoCowboy: HanSolo Aggressor Monkey
+Generated: 2014/08/12 10:07:52.664302924 UTC

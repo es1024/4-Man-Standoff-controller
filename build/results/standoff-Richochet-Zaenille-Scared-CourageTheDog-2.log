@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Scared CourageTheDog
+                     Richochet: Sb,N,Sc,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,Sd,N,N
+                 CourageTheDog: Sa,N,Sa,N,Da,Sc,N
+Final Health:
+                     Richochet: 1
+                      Zaenille: -6
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: CourageTheDog Zaenille Scared
+Zaenille: CourageTheDog Richochet Scared
+Scared: CourageTheDog Richochet Zaenille
+CourageTheDog: Scared Richochet Zaenille
+Generated: 2014/08/12 06:40:03.187865977 UTC

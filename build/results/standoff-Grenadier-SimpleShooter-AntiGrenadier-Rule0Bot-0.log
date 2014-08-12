@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter AntiGrenadier Rule0Bot
+                     Grenadier: N,P,N,N
+                 SimpleShooter: Sd,N,Sc,N
+                 AntiGrenadier: N,N,Sa,N
+                      Rule0Bot: N,N,Sa,N
+Final Health:
+                     Grenadier: -5
+                 SimpleShooter: 2
+                 AntiGrenadier: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter AntiGrenadier Rule0Bot
+SimpleShooter: Grenadier AntiGrenadier Rule0Bot
+AntiGrenadier: Grenadier SimpleShooter Rule0Bot
+Rule0Bot: Grenadier SimpleShooter AntiGrenadier
+Generated: 2014/08/12 06:28:00.776493108 UTC

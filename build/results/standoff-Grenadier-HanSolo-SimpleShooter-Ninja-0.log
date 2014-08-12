@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo SimpleShooter Ninja
+                     Grenadier: N,N,P,N,N
+                       HanSolo: Sa,N,Sa,N,Sa
+                 SimpleShooter: Sd,N,Sd,N,Sb
+                         Ninja: Dc,Db,Dd,Da,Db
+Final Health:
+                     Grenadier: -7
+                       HanSolo: 0
+                 SimpleShooter: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo SimpleShooter Ninja
+HanSolo: Grenadier SimpleShooter Ninja
+SimpleShooter: Grenadier HanSolo Ninja
+Ninja: Grenadier HanSolo SimpleShooter
+Generated: 2014/08/12 09:35:53.379603274 UTC

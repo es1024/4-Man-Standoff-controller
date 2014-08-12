@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Coward AntiGrenadier
+                 InputAnalyzer: Db,Dd,P,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa
+                        Coward: Sd,N,Sd,N,Sb
+                 AntiGrenadier: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 0
+                        Coward: 0
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Coward AntiGrenadier
+SimpleShooter: InputAnalyzer Coward AntiGrenadier
+Coward: InputAnalyzer SimpleShooter AntiGrenadier
+AntiGrenadier: InputAnalyzer SimpleShooter Coward
+Generated: 2014/08/12 05:45:10.444421937 UTC

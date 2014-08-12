@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman Rule0Bot Sniper
+                        Coward: Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                     Bomberman: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Sniper Bomberman Rule0Bot
+Bomberman: Sniper Coward Rule0Bot
+Rule0Bot: Sniper Coward Bomberman
+Sniper: Rule0Bot Coward Bomberman
+Generated: 2014/08/12 08:03:03.744674095 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Spock TwentyFourthsAndAHalfCentury
+                     Grenadier: P,N,N,N
+               StraightShooter: Sc,N,Sc,N
+                         Spock: Sa,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Dc,Sb
+Final Health:
+                     Grenadier: -5
+               StraightShooter: 0
+                         Spock: -2
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Spock TwentyFourthsAndAHalfCentury
+StraightShooter: Grenadier Spock TwentyFourthsAndAHalfCentury
+Spock: Grenadier StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Grenadier StraightShooter Spock
+Generated: 2014/08/12 06:53:27.226126166 UTC

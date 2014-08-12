@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Zaenille CourageTheDog
+                     Grenadier: P,Td
+                 DONTNUKEMEBRO: Dc,Sa
+                      Zaenille: Sc,N
+                 CourageTheDog: Sc,N
+Final Health:
+                     Grenadier: 0
+                 DONTNUKEMEBRO: 2
+                      Zaenille: -4
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Zaenille CourageTheDog Grenadier
+Zaenille: DONTNUKEMEBRO CourageTheDog Grenadier
+CourageTheDog: DONTNUKEMEBRO Zaenille Grenadier
+Generated: 2014/08/12 09:19:48.812674168 UTC

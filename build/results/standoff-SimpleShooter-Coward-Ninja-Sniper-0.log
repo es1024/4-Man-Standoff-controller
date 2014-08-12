@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Ninja Sniper
+                 SimpleShooter: Sd,N,Sb,N,Sc,N,Sb
+                        Coward: Sd,N,Sd,N,Da,Sc,N
+                         Ninja: Dc,Dd,Dd,Da,Dc,Dc,N
+                        Sniper: Sc,N,Sb,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Coward: -1
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Coward Ninja Sniper
+Coward: SimpleShooter Ninja Sniper
+Ninja: SimpleShooter Coward Sniper
+Sniper: SimpleShooter Coward Ninja
+Generated: 2014/08/12 09:19:08.125056349 UTC

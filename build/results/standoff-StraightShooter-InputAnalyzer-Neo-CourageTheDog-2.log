@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Neo CourageTheDog
+               StraightShooter: Sb,N,Sb,N
+                 InputAnalyzer: Dd,P,Sb,N
+                           Neo: N,N,N,N
+                 CourageTheDog: Sc,N,N,Sa
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -10
+                           Neo: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog InputAnalyzer Neo
+InputAnalyzer: CourageTheDog StraightShooter Neo
+Neo: CourageTheDog StraightShooter InputAnalyzer
+CourageTheDog: Neo StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:10:35.362383653 UTC

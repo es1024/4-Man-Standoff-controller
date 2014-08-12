@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Richochet Bomberman
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sa,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: -1
+                     Richochet: 1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman SimpleShooter Richochet
+SimpleShooter: Bomberman StraightShooter Richochet
+Richochet: Bomberman StraightShooter SimpleShooter
+Bomberman: Richochet StraightShooter SimpleShooter
+Generated: 2014/08/12 07:31:34.715592057 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Spock Scared
+      PoliticallyCorrectGunman: Sd,N,P
+                       HanSolo: Sa,N,Sa
+                         Spock: Sa,N,Sa
+                        Scared: Sc,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -9
+                       HanSolo: 0
+                         Spock: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Spock Scared
+HanSolo: PoliticallyCorrectGunman Spock Scared
+Spock: PoliticallyCorrectGunman HanSolo Scared
+Scared: PoliticallyCorrectGunman HanSolo Spock
+Generated: 2014/08/12 07:02:21.338129205 UTC

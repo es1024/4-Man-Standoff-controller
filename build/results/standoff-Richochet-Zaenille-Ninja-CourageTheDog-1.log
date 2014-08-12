@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Ninja CourageTheDog
+                     Richochet: Sd,N,Sc,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Da,Db,Dc,Dc,Dc,Da,Da,Da,Db,Dd,Dd
+                 CourageTheDog: Sc,N,Da,Da,Dc,Da,Sa,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                      Zaenille: -2
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja CourageTheDog Zaenille
+Zaenille: Ninja CourageTheDog Richochet
+Ninja: Zaenille CourageTheDog Richochet
+CourageTheDog: Zaenille Ninja Richochet
+Generated: 2014/08/12 08:10:23.243094014 UTC

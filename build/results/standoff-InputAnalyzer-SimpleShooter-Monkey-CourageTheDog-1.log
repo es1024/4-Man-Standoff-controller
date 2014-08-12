@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Monkey CourageTheDog
+                 InputAnalyzer: Dc,Db,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sc
+                        Monkey: N,Sa,N,N,N,Sd,N
+                 CourageTheDog: Sa,N,Sc,N,Sc,N,N
+Final Health:
+                 InputAnalyzer: -1
+                 SimpleShooter: 5
+                        Monkey: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey CourageTheDog SimpleShooter
+SimpleShooter: Monkey CourageTheDog InputAnalyzer
+Monkey: SimpleShooter CourageTheDog InputAnalyzer
+CourageTheDog: SimpleShooter Monkey InputAnalyzer
+Generated: 2014/08/12 09:26:33.261201844 UTC

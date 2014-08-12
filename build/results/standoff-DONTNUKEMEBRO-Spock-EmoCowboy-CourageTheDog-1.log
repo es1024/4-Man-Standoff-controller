@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock EmoCowboy CourageTheDog
+                 DONTNUKEMEBRO: Db,Db,Dc,Db,Db,Dc,Dd,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sc,N,N,N,N,N,N,N,Sc,N,Sc,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sb,N,Sa,N,Da,Sa,N,Db,Db,N,Db,Db,Db,N,Db,Sb,N,Db,Sb
+Final Health:
+                 DONTNUKEMEBRO: -3
+                         Spock: -1
+                     EmoCowboy: -6
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: EmoCowboy CourageTheDog Spock
+Spock: EmoCowboy CourageTheDog DONTNUKEMEBRO
+EmoCowboy: Spock CourageTheDog DONTNUKEMEBRO
+CourageTheDog: Spock EmoCowboy DONTNUKEMEBRO
+Generated: 2014/08/12 07:37:23.701872471 UTC

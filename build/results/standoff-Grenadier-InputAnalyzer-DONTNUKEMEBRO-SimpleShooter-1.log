@@ -1,16 +1,16 @@
 Standoff between: Grenadier InputAnalyzer DONTNUKEMEBRO SimpleShooter
-                     Grenadier: P,Tc,N,N,N,N
-                 InputAnalyzer: Dc,Da,Db,P,Sa,N
-                 DONTNUKEMEBRO: Db,Sa,N,N,N,N
-                 SimpleShooter: Sa,N,Sa,N,Sa,N
+                     Grenadier: P,N,N,N
+                 InputAnalyzer: Dc,Da,P,Sb
+                 DONTNUKEMEBRO: Db,Sa,N,N
+                 SimpleShooter: Sa,N,Sc,N
 Final Health:
-                     Grenadier: -2
-                 InputAnalyzer: -4
-                 DONTNUKEMEBRO: -3
+                     Grenadier: -5
+                 InputAnalyzer: -8
+                 DONTNUKEMEBRO: 0
                  SimpleShooter: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: DONTNUKEMEBRO SimpleShooter InputAnalyzer
 InputAnalyzer: DONTNUKEMEBRO SimpleShooter Grenadier
 DONTNUKEMEBRO: InputAnalyzer SimpleShooter Grenadier
 SimpleShooter: InputAnalyzer DONTNUKEMEBRO Grenadier
-Generated: 2014/08/11 00:59:48.368063473 UTC
+Generated: 2014/08/12 09:03:05.487482758 UTC

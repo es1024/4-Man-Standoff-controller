@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Zaenille EmoCowboy
+      PoliticallyCorrectGunman: Dc,Dd,Sb,N,N
+                         Spock: Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: 3
+                      Zaenille: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Zaenille EmoCowboy
+Spock: PoliticallyCorrectGunman Zaenille EmoCowboy
+Zaenille: PoliticallyCorrectGunman Spock EmoCowboy
+EmoCowboy: PoliticallyCorrectGunman Spock Zaenille
+Generated: 2014/08/12 10:45:22.173779009 UTC

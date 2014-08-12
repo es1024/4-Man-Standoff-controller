@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Zaenille Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Db,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,Da,N,Sb,N,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: -1
+                      Zaenille: -4
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Coward Zaenille
+Coward: Neo PoliticallyCorrectGunman Zaenille
+Zaenille: Neo PoliticallyCorrectGunman Coward
+Neo: Zaenille PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 10:34:54.199893764 UTC

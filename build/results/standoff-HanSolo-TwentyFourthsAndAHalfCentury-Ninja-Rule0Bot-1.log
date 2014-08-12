@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dc,Dd,Da,N,N,Dd,Da,Dd,Dd,Dd,Da,Sa,N,Sa,N,Sa
+                         Ninja: Db,Dd,Db,Da,Db,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: 1
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Rule0Bot HanSolo
+Ninja: TwentyFourthsAndAHalfCentury Rule0Bot HanSolo
+Rule0Bot: TwentyFourthsAndAHalfCentury Ninja HanSolo
+Generated: 2014/08/12 10:27:50.983455288 UTC

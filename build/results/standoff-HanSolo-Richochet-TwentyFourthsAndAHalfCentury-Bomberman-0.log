@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet TwentyFourthsAndAHalfCentury Bomberman
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd
+                     Richochet: Sa,N,Sc,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Dd,Da,Dd,Da,Dd,Dd,Dd,Dd,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet TwentyFourthsAndAHalfCentury Bomberman
+Richochet: HanSolo TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: HanSolo Richochet Bomberman
+Bomberman: HanSolo Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:08:05.484588055 UTC

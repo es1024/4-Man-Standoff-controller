@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Rule0Bot Sniper
+                 InputAnalyzer: Dc,Db,Dc,Db,P,Sd
+                 DONTNUKEMEBRO: Dc,Da,Dd,Dd,Dc,Sa
+                      Rule0Bot: N,N,N,N,N,Sa
+                        Sniper: Sc,N,Sa,N,Sc,N
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 2
+                      Rule0Bot: -2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Sniper DONTNUKEMEBRO
+DONTNUKEMEBRO: Rule0Bot Sniper InputAnalyzer
+Rule0Bot: DONTNUKEMEBRO Sniper InputAnalyzer
+Sniper: DONTNUKEMEBRO Rule0Bot InputAnalyzer
+Generated: 2014/08/12 09:49:47.440747803 UTC

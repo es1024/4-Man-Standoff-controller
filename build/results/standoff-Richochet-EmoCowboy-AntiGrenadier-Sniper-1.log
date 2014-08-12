@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy AntiGrenadier Sniper
+                     Richochet: Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: AntiGrenadier Sniper EmoCowboy
+EmoCowboy: AntiGrenadier Sniper Richochet
+AntiGrenadier: EmoCowboy Sniper Richochet
+Sniper: EmoCowboy AntiGrenadier Richochet
+Generated: 2014/08/12 05:43:47.519355995 UTC

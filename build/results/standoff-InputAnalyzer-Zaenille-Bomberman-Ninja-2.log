@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Bomberman Ninja
+                 InputAnalyzer: Dd,Dc,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Db,Da,Da,Dc,Db,Da,Da,Dc,Db,Da,Da,Dc,Db,Da,Dd,Dc,Db,Da,Dd,Db,Da,Dd,Db,Da,Db,Dd,Dc,Db,Db,Db,Dd,Da,Dc,Db,Da,Dd,Dc,Da,Da,Db,Db,Da,Da,Dc,Db,Da,Db,Dc
+Final Health:
+                 InputAnalyzer: -1
+                      Zaenille: -2
+                     Bomberman: -18
+                         Ninja: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Zaenille Bomberman
+Zaenille: Ninja InputAnalyzer Bomberman
+Bomberman: Ninja InputAnalyzer Zaenille
+Ninja: Bomberman InputAnalyzer Zaenille
+Generated: 2014/08/12 07:00:54.896451408 UTC

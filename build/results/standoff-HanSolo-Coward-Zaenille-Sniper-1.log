@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Zaenille Sniper
+                       HanSolo: Sc,N,Sd,N,Sd,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 3
+                      Zaenille: -4
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Sniper Coward
+Coward: Zaenille Sniper HanSolo
+Zaenille: Coward Sniper HanSolo
+Sniper: Coward Zaenille HanSolo
+Generated: 2014/08/12 06:08:10.679734864 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Scared Neo
+                     Grenadier: P,Tb,N
+                      Pacifist: N,N,N
+                        Scared: Sd,N,Sa
+                           Neo: N,Db,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -3
+                        Scared: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist Scared Neo
+Pacifist: Grenadier Scared Neo
+Scared: Grenadier Pacifist Neo
+Neo: Grenadier Pacifist Scared
+Generated: 2014/08/12 09:30:59.467794407 UTC

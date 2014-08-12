@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Neo CourageTheDog
+                        Coward: Sd,N,Sd,N,Db,Dd,Sd,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sc,N,Sa,N,Sd,N,Sc
+                           Neo: N,Sb,N,Dd,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sa,N,Dc,Da,Sc,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: 1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet Neo CourageTheDog
+Richochet: Coward Neo CourageTheDog
+Neo: Coward Richochet CourageTheDog
+CourageTheDog: Coward Richochet Neo
+Generated: 2014/08/12 07:05:19.508452883 UTC

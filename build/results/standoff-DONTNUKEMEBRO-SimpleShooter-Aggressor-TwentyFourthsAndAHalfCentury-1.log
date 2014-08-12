@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Aggressor TwentyFourthsAndAHalfCentury
+                 DONTNUKEMEBRO: Dd,Sc
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+  TwentyFourthsAndAHalfCentury: Da,Da
+Final Health:
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Aggressor TwentyFourthsAndAHalfCentury SimpleShooter
+SimpleShooter: Aggressor TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+Aggressor: SimpleShooter TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: SimpleShooter Aggressor DONTNUKEMEBRO
+Generated: 2014/08/12 10:00:54.458688810 UTC

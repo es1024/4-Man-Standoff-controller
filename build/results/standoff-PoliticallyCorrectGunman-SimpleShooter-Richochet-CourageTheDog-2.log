@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Richochet CourageTheDog
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,N
+                     Richochet: Sb,N,Sa,N,Sb,N,Sd
+                 CourageTheDog: Sc,N,Sb,N,Sa,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: -1
+                     Richochet: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog SimpleShooter Richochet
+SimpleShooter: CourageTheDog PoliticallyCorrectGunman Richochet
+Richochet: CourageTheDog PoliticallyCorrectGunman SimpleShooter
+CourageTheDog: Richochet PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 08:00:41.879772918 UTC

@@ -1,0 +1,16 @@
+Standoff between: AntiGrenadier Sniper Scared CourageTheDog
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sb,N,Sa,N,Sa,N,Sb,N,Sa,N,Sb
+                 CourageTheDog: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 AntiGrenadier: -1
+                        Sniper: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+AntiGrenadier: CourageTheDog Sniper Scared
+Sniper: CourageTheDog AntiGrenadier Scared
+Scared: CourageTheDog AntiGrenadier Sniper
+CourageTheDog: Scared AntiGrenadier Sniper
+Generated: 2014/08/12 09:30:18.498377869 UTC

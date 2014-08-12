@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Richochet Zaenille
+                       HanSolo: Sc,N,Sc,N,N
+                 SimpleShooter: Sa,N,Sa,N,Sc
+                     Richochet: Sb,N,Sa,N,Sb
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 1
+                     Richochet: -1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Zaenille SimpleShooter
+SimpleShooter: Richochet Zaenille HanSolo
+Richochet: SimpleShooter Zaenille HanSolo
+Zaenille: SimpleShooter Richochet HanSolo
+Generated: 2014/08/12 07:07:37.672572449 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo SimpleShooter Scared
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -4
+                       HanSolo: -1
+                 SimpleShooter: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Scared HanSolo
+HanSolo: SimpleShooter Scared PoliticallyCorrectGunman
+SimpleShooter: HanSolo Scared PoliticallyCorrectGunman
+Scared: HanSolo SimpleShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 09:44:17.451906338 UTC

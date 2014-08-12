@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Zaenille TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Dc,Sc,N,N,N,N,Db,Db,Dd,Sa,N
+                     Richochet: Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Db,Da,Db,Da,Da,Da,Da,Da,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Richochet: 3
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Zaenille TwentyFourthsAndAHalfCentury
+Richochet: PoliticallyCorrectGunman Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: PoliticallyCorrectGunman Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Richochet Zaenille
+Generated: 2014/08/12 05:44:02.290725879 UTC

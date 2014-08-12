@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Scared CourageTheDog
+                 InputAnalyzer: Dc,Sa,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 CourageTheDog: Sc,N,Dc,Sc,N,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                 InputAnalyzer: -2
+                      Zaenille: -4
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared CourageTheDog Zaenille
+Zaenille: Scared CourageTheDog InputAnalyzer
+Scared: Zaenille CourageTheDog InputAnalyzer
+CourageTheDog: Zaenille Scared InputAnalyzer
+Generated: 2014/08/12 05:44:13.353487104 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury EmoCowboy Neo
+                     Aggressor: P,Td,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Da,Sa
+                     EmoCowboy: Sc,N,N
+                           Neo: N,Da,N
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Neo Aggressor
+EmoCowboy: TwentyFourthsAndAHalfCentury Neo Aggressor
+Neo: TwentyFourthsAndAHalfCentury EmoCowboy Aggressor
+Generated: 2014/08/12 08:01:51.642013909 UTC

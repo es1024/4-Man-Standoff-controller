@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Ninja Sniper
+                 InputAnalyzer: Db,Dd,P,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd
+                         Ninja: Da,Da,Dd,Dd,Dd,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                       HanSolo: 2
+                         Ninja: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Ninja Sniper
+HanSolo: InputAnalyzer Ninja Sniper
+Ninja: InputAnalyzer HanSolo Sniper
+Sniper: InputAnalyzer HanSolo Ninja
+Generated: 2014/08/12 09:37:37.677560798 UTC

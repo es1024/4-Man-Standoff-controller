@@ -1,16 +1,16 @@
 Standoff between: Pacifist StraightShooter Spock SimpleShooter
-                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
-                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 SimpleShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                      Pacifist: N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sb,N,Sa
 Final Health:
-                      Pacifist: -19
-               StraightShooter: -15
-                         Spock: -3
-                 SimpleShooter: -15
+                      Pacifist: -1
+               StraightShooter: -1
+                         Spock: -1
+                 SimpleShooter: 5
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: StraightShooter Spock SimpleShooter
 StraightShooter: Pacifist Spock SimpleShooter
 Spock: Pacifist StraightShooter SimpleShooter
 SimpleShooter: Pacifist StraightShooter Spock
-Generated: 2014/08/11 00:59:30.572208390 UTC
+Generated: 2014/08/12 05:49:45.289206377 UTC

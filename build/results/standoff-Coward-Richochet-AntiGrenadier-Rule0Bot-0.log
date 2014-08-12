@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet AntiGrenadier Rule0Bot
+                        Coward: Sd,N,Sd,N,Sc,N,Sc,N,Dc,N,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: 5
+                 AntiGrenadier: -1
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet AntiGrenadier Rule0Bot
+Richochet: Coward AntiGrenadier Rule0Bot
+AntiGrenadier: Coward Richochet Rule0Bot
+Rule0Bot: Coward Richochet AntiGrenadier
+Generated: 2014/08/12 09:22:32.577945763 UTC

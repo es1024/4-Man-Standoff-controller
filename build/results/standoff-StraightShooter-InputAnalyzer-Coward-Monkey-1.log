@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Coward Monkey
+               StraightShooter: Sd,N,Sd,N,N
+                 InputAnalyzer: Dc,Sa,N,P,Sb
+                        Coward: Sa,N,Sa,N,Sd
+                        Monkey: N,N,Sa,N,P
+Final Health:
+               StraightShooter: -3
+                 InputAnalyzer: -11
+                        Coward: -1
+                        Monkey: -10
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Monkey InputAnalyzer
+InputAnalyzer: Coward Monkey StraightShooter
+Coward: InputAnalyzer Monkey StraightShooter
+Monkey: InputAnalyzer Coward StraightShooter
+Generated: 2014/08/12 09:01:26.674238940 UTC

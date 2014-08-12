@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo TwentyFourthsAndAHalfCentury Bomberman
+                     Grenadier: N,P,Tb,N
+                       HanSolo: Sa,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Sd
+                     Bomberman: N,N,N,N
+Final Health:
+                     Grenadier: -2
+                       HanSolo: -3
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo TwentyFourthsAndAHalfCentury Bomberman
+HanSolo: Grenadier TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Grenadier HanSolo Bomberman
+Bomberman: Grenadier HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:47:31.951258272 UTC

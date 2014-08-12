@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Rule0Bot Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N
+                     Richochet: Sd,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Dc,Sa,N,N,Da,N,Da,Sa
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+                      Rule0Bot: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Rule0Bot Neo
+Richochet: HanSolo Rule0Bot Neo
+Rule0Bot: HanSolo Richochet Neo
+Neo: HanSolo Richochet Rule0Bot
+Generated: 2014/08/12 08:55:12.167694213 UTC

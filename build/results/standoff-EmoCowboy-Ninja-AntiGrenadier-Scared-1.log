@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy Ninja AntiGrenadier Scared
+                     EmoCowboy: Sa,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Da,Db,Db,Da,Db,Dd,Dc,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sb,N,Sc,N,Sb,N,Sc
+Final Health:
+                     EmoCowboy: -2
+                         Ninja: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: AntiGrenadier Scared Ninja
+Ninja: AntiGrenadier Scared EmoCowboy
+AntiGrenadier: Ninja Scared EmoCowboy
+Scared: Ninja AntiGrenadier EmoCowboy
+Generated: 2014/08/12 06:23:18.512587325 UTC

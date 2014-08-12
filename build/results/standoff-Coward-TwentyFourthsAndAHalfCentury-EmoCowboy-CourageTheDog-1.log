@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Dd,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Da,Sa,N,Da,Sa,N,Da,Da,Da,Sa
+Final Health:
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy CourageTheDog Coward
+EmoCowboy: TwentyFourthsAndAHalfCentury CourageTheDog Coward
+CourageTheDog: TwentyFourthsAndAHalfCentury EmoCowboy Coward
+Generated: 2014/08/12 06:59:47.991442745 UTC

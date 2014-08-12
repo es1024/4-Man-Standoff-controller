@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey EmoCowboy Sniper
+                     Aggressor: P,Td
+                        Monkey: N,Sc
+                     EmoCowboy: Sc,N
+                        Sniper: Sa,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: 2
+                     EmoCowboy: -2
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper Monkey EmoCowboy
+Monkey: Sniper Aggressor EmoCowboy
+EmoCowboy: Sniper Aggressor Monkey
+Sniper: EmoCowboy Aggressor Monkey
+Generated: 2014/08/12 06:25:45.965679494 UTC

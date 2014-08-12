@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet EmoCowboy Ninja
+                 InputAnalyzer: Dc,Db,Sc,N,Sb,N,Dd,Da,Dc,N,N,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sd,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dd,Dd,Db,Db,Db,Dd,Dd,Dd,Dd,Da,Da,Db,Dc
+Final Health:
+                 InputAnalyzer: -1
+                     Richochet: 3
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Ninja Richochet
+Richochet: EmoCowboy Ninja InputAnalyzer
+EmoCowboy: Richochet Ninja InputAnalyzer
+Ninja: Richochet EmoCowboy InputAnalyzer
+Generated: 2014/08/12 07:34:02.489814047 UTC

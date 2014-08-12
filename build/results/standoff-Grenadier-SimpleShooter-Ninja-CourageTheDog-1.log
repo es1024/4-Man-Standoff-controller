@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Ninja CourageTheDog
+                     Grenadier: P,Td
+                 SimpleShooter: Sa,N
+                         Ninja: Da,Dd
+                 CourageTheDog: Sc,N
+Final Health:
+                     Grenadier: 0
+                 SimpleShooter: 2
+                         Ninja: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja CourageTheDog SimpleShooter
+SimpleShooter: Ninja CourageTheDog Grenadier
+Ninja: SimpleShooter CourageTheDog Grenadier
+CourageTheDog: SimpleShooter Ninja Grenadier
+Generated: 2014/08/12 09:37:38.240969197 UTC

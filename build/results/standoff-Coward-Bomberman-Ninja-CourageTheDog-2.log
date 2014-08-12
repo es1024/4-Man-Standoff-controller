@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman Ninja CourageTheDog
+                        Coward: Sc,N,Sc,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Dd,Dc,Dc,Dc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sc,N,Da,Da,Sa,N,Da,Da,N,Da,Da,Sa,N,Da,Da,Da,Sa
+Final Health:
+                        Coward: -1
+                     Bomberman: -1
+                         Ninja: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Bomberman Ninja
+Bomberman: CourageTheDog Coward Ninja
+Ninja: CourageTheDog Coward Bomberman
+CourageTheDog: Ninja Coward Bomberman
+Generated: 2014/08/12 09:02:23.920834111 UTC

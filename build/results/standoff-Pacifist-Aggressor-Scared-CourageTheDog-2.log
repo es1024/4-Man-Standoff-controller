@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Scared CourageTheDog
+                      Pacifist: N,N
+                     Aggressor: P,Td
+                        Scared: Sb,N
+                 CourageTheDog: Sc,N
+Final Health:
+                      Pacifist: 2
+                     Aggressor: 0
+                        Scared: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Aggressor Scared
+Aggressor: CourageTheDog Pacifist Scared
+Scared: CourageTheDog Pacifist Aggressor
+CourageTheDog: Scared Pacifist Aggressor
+Generated: 2014/08/12 10:33:19.153130957 UTC

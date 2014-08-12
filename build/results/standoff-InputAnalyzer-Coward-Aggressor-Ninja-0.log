@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Aggressor Ninja
+                 InputAnalyzer: Db,Dd,N
+                        Coward: Sd,N,Dd
+                     Aggressor: P,Ta,Sb
+                         Ninja: Da,Da,N
+Final Health:
+                 InputAnalyzer: -3
+                        Coward: 0
+                     Aggressor: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Aggressor Ninja
+Coward: InputAnalyzer Aggressor Ninja
+Aggressor: InputAnalyzer Coward Ninja
+Ninja: InputAnalyzer Coward Aggressor
+Generated: 2014/08/12 09:24:00.507576294 UTC

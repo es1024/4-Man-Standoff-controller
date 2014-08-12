@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet EmoCowboy
+      PoliticallyCorrectGunman: N,N,Sb,N,N
+                         Spock: Sa,N,N,Sa,N
+                     Richochet: Sb,N,Sa,N,Sb
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                     Richochet: 5
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Richochet EmoCowboy
+Spock: PoliticallyCorrectGunman Richochet EmoCowboy
+Richochet: PoliticallyCorrectGunman Spock EmoCowboy
+EmoCowboy: PoliticallyCorrectGunman Spock Richochet
+Generated: 2014/08/12 09:45:27.318917976 UTC

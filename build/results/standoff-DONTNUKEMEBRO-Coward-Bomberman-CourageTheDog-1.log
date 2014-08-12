@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Coward Bomberman CourageTheDog
+                 DONTNUKEMEBRO: Dd,Dc,Sb,N,Sb,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,Db,N,Dc,Sb,N,Dc,Dc,Dc,Sc,N,Sc
+Final Health:
+                 DONTNUKEMEBRO: -1
+                        Coward: -1
+                     Bomberman: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Bomberman CourageTheDog Coward
+Coward: Bomberman CourageTheDog DONTNUKEMEBRO
+Bomberman: Coward CourageTheDog DONTNUKEMEBRO
+CourageTheDog: Coward Bomberman DONTNUKEMEBRO
+Generated: 2014/08/12 06:55:12.459428198 UTC

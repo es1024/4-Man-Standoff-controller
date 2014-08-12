@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Ninja Neo
+                 InputAnalyzer: Dd,Dc,Sd,N,Sa,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sc,N,Sc,N,Sc
+                         Ninja: Da,Dc,Db,Da,Dc,Dd,Dc,Dc,Dd,Da,Dc
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                       HanSolo: 5
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo HanSolo Ninja
+HanSolo: Neo InputAnalyzer Ninja
+Ninja: Neo InputAnalyzer HanSolo
+Neo: Ninja InputAnalyzer HanSolo
+Generated: 2014/08/12 10:47:34.058093629 UTC

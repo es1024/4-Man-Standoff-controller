@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward EmoCowboy Rule0Bot
+                 InputAnalyzer: Db,Sd,N,Dd,P,Da,Dd
+                        Coward: Sd,N,Sa,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                        Coward: 2
+                     EmoCowboy: -2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward EmoCowboy Rule0Bot
+Coward: InputAnalyzer EmoCowboy Rule0Bot
+EmoCowboy: InputAnalyzer Coward Rule0Bot
+Rule0Bot: InputAnalyzer Coward EmoCowboy
+Generated: 2014/08/12 10:26:09.231707534 UTC

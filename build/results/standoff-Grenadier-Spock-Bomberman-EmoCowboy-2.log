@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Bomberman EmoCowboy
+                     Grenadier: N,N,N,P,Tb,N,P,Tc
+                         Spock: Sd,N,Sd,N,Sd,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N
+                     EmoCowboy: N,Sd,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                         Spock: -3
+                     Bomberman: -6
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Spock Bomberman
+Spock: EmoCowboy Grenadier Bomberman
+Bomberman: EmoCowboy Grenadier Spock
+EmoCowboy: Bomberman Grenadier Spock
+Generated: 2014/08/12 09:24:07.384551153 UTC

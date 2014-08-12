@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Coward Monkey CourageTheDog
+                 DONTNUKEMEBRO: Dd,Dc,Sb,N,Sb,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Da,Sa,N,Sd,N,Da,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,Sd,N,N,N,Sc
+                 CourageTheDog: N,Da,Db,Sb,N,Da,Sc,N,Db,Sb,N,Sc,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                        Coward: -1
+                        Monkey: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Monkey CourageTheDog Coward
+Coward: Monkey CourageTheDog DONTNUKEMEBRO
+Monkey: Coward CourageTheDog DONTNUKEMEBRO
+CourageTheDog: Coward Monkey DONTNUKEMEBRO
+Generated: 2014/08/12 08:07:49.295383947 UTC

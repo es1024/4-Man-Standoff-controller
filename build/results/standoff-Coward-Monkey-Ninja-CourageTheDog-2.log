@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey Ninja CourageTheDog
+                        Coward: Sc,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,Sc,N,Db,Da,Da,Sc,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Da,Db,Db,Da,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Sb,N,Da,Dc,Sc,N,Da,Db,Da,Da,Da,Da,Sa,N,Da,Da,Sa
+Final Health:
+                        Coward: -1
+                        Monkey: -1
+                         Ninja: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Monkey Ninja
+Monkey: CourageTheDog Coward Ninja
+Ninja: CourageTheDog Coward Monkey
+CourageTheDog: Ninja Coward Monkey
+Generated: 2014/08/12 06:07:31.359517584 UTC

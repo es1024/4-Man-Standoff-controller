@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman EmoCowboy AntiGrenadier
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Bomberman EmoCowboy AntiGrenadier
+Bomberman: Coward EmoCowboy AntiGrenadier
+EmoCowboy: Coward Bomberman AntiGrenadier
+AntiGrenadier: Coward Bomberman EmoCowboy
+Generated: 2014/08/12 08:00:54.914363190 UTC

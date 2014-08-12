@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Coward Ninja
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N
+                         Spock: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd
+                         Ninja: Dc,Dd,Da,Da,Dc,Db,Dd,Dc,Da,Da,Dc,Db,Da
+Final Health:
+               StraightShooter: -1
+                         Spock: -3
+                        Coward: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Spock Coward
+Spock: Ninja StraightShooter Coward
+Coward: Ninja StraightShooter Spock
+Ninja: Coward StraightShooter Spock
+Generated: 2014/08/12 07:08:44.425481334 UTC

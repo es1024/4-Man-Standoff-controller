@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Monkey CourageTheDog
+      PoliticallyCorrectGunman: N,P,N,Sd
+                      Zaenille: Sb,N,N,N
+                        Monkey: N,N,P,N
+                 CourageTheDog: Sc,N,P,Ta
+Final Health:
+      PoliticallyCorrectGunman: -12
+                      Zaenille: -2
+                        Monkey: -9
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Zaenille Monkey
+Zaenille: CourageTheDog PoliticallyCorrectGunman Monkey
+Monkey: CourageTheDog PoliticallyCorrectGunman Zaenille
+CourageTheDog: Monkey PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 06:56:30.238405515 UTC

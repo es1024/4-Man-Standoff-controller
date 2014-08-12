@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille TwentyFourthsAndAHalfCentury Neo
+                       HanSolo: Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,Da,Sa,N
+Final Health:
+                       HanSolo: 3
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille TwentyFourthsAndAHalfCentury Neo
+Zaenille: HanSolo TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: HanSolo Zaenille Neo
+Neo: HanSolo Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:29:12.938902811 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer EmoCowboy Ninja AntiGrenadier
+                 InputAnalyzer: Dd,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Dc,Db,Db,Dd,Dc,Dc,Da,Dd,Db,Dd,Dc,Dc,Db,Dc,Da,Db,Dc,Dc,Dd,Da,Dc,Dc,Dd,Db,Db,Da,Dc,Dc,Db,Dd,Dd,Da,Da,Da,Dd,Dd,Dc,Da,Dc,Db,Dd,Dd,Dc,Dc,Da,Db,Dd,Dd
+                 AntiGrenadier: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     EmoCowboy: -2
+                         Ninja: -18
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier EmoCowboy Ninja
+EmoCowboy: AntiGrenadier InputAnalyzer Ninja
+Ninja: AntiGrenadier InputAnalyzer EmoCowboy
+AntiGrenadier: Ninja InputAnalyzer EmoCowboy
+Generated: 2014/08/12 05:47:59.164172564 UTC

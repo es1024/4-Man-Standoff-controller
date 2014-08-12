@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock TwentyFourthsAndAHalfCentury Sniper
+                       HanSolo: Sd,N,Sd,N,Sb,N,N,N
+                         Spock: Sd,N,Sd,N,Sa,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Da,N,Da,N,Db,Sb,N,Sb
+                        Sniper: Sa,N,Sa,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Spock TwentyFourthsAndAHalfCentury
+Spock: Sniper HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper HanSolo Spock
+Sniper: TwentyFourthsAndAHalfCentury HanSolo Spock
+Generated: 2014/08/12 07:35:50.278481772 UTC

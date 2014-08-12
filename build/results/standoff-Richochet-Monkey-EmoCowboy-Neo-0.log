@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey EmoCowboy Neo
+                     Richochet: Sb,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,Sc,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,Sc,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Dc,N,N,N,Sa,N,Sa,N
+Final Health:
+                     Richochet: 1
+                        Monkey: -1
+                     EmoCowboy: -4
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey EmoCowboy Neo
+Monkey: Richochet EmoCowboy Neo
+EmoCowboy: Richochet Monkey Neo
+Neo: Richochet Monkey EmoCowboy
+Generated: 2014/08/12 07:50:58.427932602 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Bomberman EmoCowboy
+                     Grenadier: P,Tc,P,Tb
+                      Pacifist: N,N,N,N
+                     Bomberman: N,N,N,N
+                     EmoCowboy: Sd,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -6
+                     Bomberman: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman EmoCowboy Pacifist
+Pacifist: Bomberman EmoCowboy Grenadier
+Bomberman: Pacifist EmoCowboy Grenadier
+EmoCowboy: Pacifist Bomberman Grenadier
+Generated: 2014/08/12 09:27:27.596064000 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Coward AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa,N,Dd,Dd,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -7
+                      Pacifist: -1
+                        Coward: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Pacifist Coward
+Pacifist: AntiGrenadier Grenadier Coward
+Coward: AntiGrenadier Grenadier Pacifist
+AntiGrenadier: Coward Grenadier Pacifist
+Generated: 2014/08/12 07:29:14.539981441 UTC

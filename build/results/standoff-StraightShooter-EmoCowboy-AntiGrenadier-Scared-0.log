@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy AntiGrenadier Scared
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy AntiGrenadier Scared
+EmoCowboy: StraightShooter AntiGrenadier Scared
+AntiGrenadier: StraightShooter EmoCowboy Scared
+Scared: StraightShooter EmoCowboy AntiGrenadier
+Generated: 2014/08/12 08:58:07.527471732 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sd,N,Sd,N,Sc
+                        Monkey: N,Da,N,Sc,N,Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Db,Dd,Dd,Db,Da,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+Monkey: SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: SimpleShooter Monkey AntiGrenadier
+AntiGrenadier: SimpleShooter Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:46:24.856211090 UTC

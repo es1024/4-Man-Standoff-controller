@@ -1,0 +1,16 @@
+Standoff between: Zaenille Ninja AntiGrenadier Rule0Bot
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Dc,Dd,Da,Da,Dd,Dd,Dd,Db,Dd,Dd,Db,Dc,Db,Da,Db,Da,Da,Dc,Dd,Dd,Db,Db,Db,Db,Db,Dd,Dd,Dd,Dd,Db,Db,Db,Db,Dc,Da,Da,Db,Db,Dd,Dc,Da,Dc,Dd,Db,Db,Dd,Dc,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+                         Ninja: -15
+                 AntiGrenadier: -15
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Rule0Bot Ninja AntiGrenadier
+Ninja: Rule0Bot Zaenille AntiGrenadier
+AntiGrenadier: Rule0Bot Zaenille Ninja
+Rule0Bot: AntiGrenadier Zaenille Ninja
+Generated: 2014/08/12 10:32:21.734952778 UTC

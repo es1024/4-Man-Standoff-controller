@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Monkey TwentyFourthsAndAHalfCentury
+                     Grenadier: N,P,Tc
+                 SimpleShooter: Sa,N,Sd
+                        Monkey: N,Db,N
+  TwentyFourthsAndAHalfCentury: Db,Dc,Da
+Final Health:
+                     Grenadier: 0
+                 SimpleShooter: 2
+                        Monkey: -3
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey TwentyFourthsAndAHalfCentury SimpleShooter
+SimpleShooter: Monkey TwentyFourthsAndAHalfCentury Grenadier
+Monkey: SimpleShooter TwentyFourthsAndAHalfCentury Grenadier
+TwentyFourthsAndAHalfCentury: SimpleShooter Monkey Grenadier
+Generated: 2014/08/12 08:18:47.793928876 UTC

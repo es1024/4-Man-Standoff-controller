@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Richochet TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,P,N,Dc,N
+                     Richochet: Sb,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: Dc,Db,Db,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -1
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet TwentyFourthsAndAHalfCentury InputAnalyzer
+InputAnalyzer: Richochet TwentyFourthsAndAHalfCentury StraightShooter
+Richochet: InputAnalyzer TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: InputAnalyzer Richochet StraightShooter
+Generated: 2014/08/12 07:57:57.451940066 UTC

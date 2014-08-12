@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman AntiGrenadier Rule0Bot
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman AntiGrenadier Rule0Bot
+Bomberman: SimpleShooter AntiGrenadier Rule0Bot
+AntiGrenadier: SimpleShooter Bomberman Rule0Bot
+Rule0Bot: SimpleShooter Bomberman AntiGrenadier
+Generated: 2014/08/12 09:29:15.325550841 UTC

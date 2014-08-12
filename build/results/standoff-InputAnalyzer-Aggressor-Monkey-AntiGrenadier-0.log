@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Monkey AntiGrenadier
+                 InputAnalyzer: Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Ta,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,Sb,N
+                 AntiGrenadier: N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 0
+                        Monkey: -18
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Monkey AntiGrenadier
+Aggressor: InputAnalyzer Monkey AntiGrenadier
+Monkey: InputAnalyzer Aggressor AntiGrenadier
+AntiGrenadier: InputAnalyzer Aggressor Monkey
+Generated: 2014/08/12 06:34:14.231695470 UTC

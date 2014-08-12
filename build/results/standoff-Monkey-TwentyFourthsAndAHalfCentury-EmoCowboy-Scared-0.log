@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury EmoCowboy Scared
+                        Monkey: N,Dd,N,Dd,Dd,N,N,N,N,N,N,N,Sa,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Dd,Da,Da,N,N,N,N,N,N,Sa,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sb,N,N,N,N,N,N,Sa,N,Sb,N,Sb
+Final Health:
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: TwentyFourthsAndAHalfCentury EmoCowboy Scared
+TwentyFourthsAndAHalfCentury: Monkey EmoCowboy Scared
+EmoCowboy: Monkey TwentyFourthsAndAHalfCentury Scared
+Scared: Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 07:23:07.904875898 UTC

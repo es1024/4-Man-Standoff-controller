@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Monkey Sniper
+      PoliticallyCorrectGunman: Dd,N,Dd,Db,N,Sc,N,Sc,N,Sc,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,Sc,N,N
+                        Sniper: Sb,N,Sa,N,Sb,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 1
+                        Monkey: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper HanSolo Monkey
+HanSolo: Sniper PoliticallyCorrectGunman Monkey
+Monkey: Sniper PoliticallyCorrectGunman HanSolo
+Sniper: Monkey PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 10:14:14.880308914 UTC

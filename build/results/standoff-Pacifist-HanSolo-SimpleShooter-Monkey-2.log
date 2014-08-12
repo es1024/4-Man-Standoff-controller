@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo SimpleShooter Monkey
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa
+                 SimpleShooter: Sb,N,Sa,N,Sa,N,Sb
+                        Monkey: N,Sb,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                 SimpleShooter: 5
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey HanSolo SimpleShooter
+HanSolo: Monkey Pacifist SimpleShooter
+SimpleShooter: Monkey Pacifist HanSolo
+Monkey: SimpleShooter Pacifist HanSolo
+Generated: 2014/08/12 09:42:09.715374311 UTC

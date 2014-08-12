@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Ninja Scared
+      PoliticallyCorrectGunman: Sb,N,Sd,N,Dc,N,N,N,Sd,N,N
+                     Richochet: Sa,N,Sa,N,Sc,N,Sc,N,Sd,N,Sa
+                         Ninja: Da,Dd,Dd,Db,Db,Dc,Da,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sc,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Scared Richochet
+Richochet: Ninja Scared PoliticallyCorrectGunman
+Ninja: Richochet Scared PoliticallyCorrectGunman
+Scared: Richochet Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 08:33:12.078592446 UTC

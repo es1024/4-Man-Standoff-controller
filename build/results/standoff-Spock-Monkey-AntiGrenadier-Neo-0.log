@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey AntiGrenadier Neo
+                         Spock: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,Sb,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,P,N,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+                           Neo: N,Dc,Dc,N,N,N,N,N,N,N,N,N,Dc,N,N,N,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,Dc,Dc,Sd
+Final Health:
+                         Spock: -3
+                        Monkey: -2
+                 AntiGrenadier: 2
+                           Neo: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey AntiGrenadier Neo
+Monkey: Spock AntiGrenadier Neo
+AntiGrenadier: Spock Monkey Neo
+Neo: Spock Monkey AntiGrenadier
+Generated: 2014/08/12 06:23:59.485405029 UTC

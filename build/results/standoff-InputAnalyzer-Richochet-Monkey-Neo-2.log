@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Monkey Neo
+                 InputAnalyzer: Dd,Sb,N,Sd,N,Sc,N,Da,Db,Dc,P
+                     Richochet: Sa,N,Sc,N,Sd,N,Sc,N,Sd,N,Sa
+                        Monkey: N,Sa,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,Db,N,N,Da,N,Da,Db,Da,N
+Final Health:
+                 InputAnalyzer: -7
+                     Richochet: 0
+                        Monkey: -1
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Richochet Monkey
+Richochet: Neo InputAnalyzer Monkey
+Monkey: Neo InputAnalyzer Richochet
+Neo: Monkey InputAnalyzer Richochet
+Generated: 2014/08/12 07:49:22.853990885 UTC

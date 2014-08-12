@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman EmoCowboy Sniper
+                     Aggressor: P,Td
+                     Bomberman: N,N
+                     EmoCowboy: Sc,N
+                        Sniper: Sb,N
+Final Health:
+                     Aggressor: 2
+                     Bomberman: 0
+                     EmoCowboy: -2
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman EmoCowboy Sniper
+Bomberman: Aggressor EmoCowboy Sniper
+EmoCowboy: Aggressor Bomberman Sniper
+Sniper: Aggressor Bomberman EmoCowboy
+Generated: 2014/08/12 09:27:48.282852838 UTC

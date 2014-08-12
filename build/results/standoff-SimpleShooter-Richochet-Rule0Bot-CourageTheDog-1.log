@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Rule0Bot CourageTheDog
+                 SimpleShooter: Sb,N,Sc,N,Sb,N,Sb,N
+                     Richochet: Sd,N,Sa,N,Sd,N,Sc,N
+                      Rule0Bot: N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Dc,Sc,N,Dc,Sa
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot CourageTheDog Richochet
+Richochet: Rule0Bot CourageTheDog SimpleShooter
+Rule0Bot: Richochet CourageTheDog SimpleShooter
+CourageTheDog: Richochet Rule0Bot SimpleShooter
+Generated: 2014/08/12 10:11:52.090454149 UTC

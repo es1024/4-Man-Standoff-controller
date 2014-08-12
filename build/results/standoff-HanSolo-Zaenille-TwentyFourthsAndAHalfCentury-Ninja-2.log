@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille TwentyFourthsAndAHalfCentury Ninja
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dd,N,N,N,Sa,N,Sa,N,Sa
+                         Ninja: Db,Dd,Da,Dd,Dc,Da,Db,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Ninja HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja HanSolo Zaenille
+Ninja: TwentyFourthsAndAHalfCentury HanSolo Zaenille
+Generated: 2014/08/12 10:12:21.511814961 UTC

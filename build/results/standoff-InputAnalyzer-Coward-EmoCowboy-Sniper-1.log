@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward EmoCowboy Sniper
+                 InputAnalyzer: Dc,Da,Da,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                        Coward: 5
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Sniper Coward
+Coward: EmoCowboy Sniper InputAnalyzer
+EmoCowboy: Coward Sniper InputAnalyzer
+Sniper: Coward EmoCowboy InputAnalyzer
+Generated: 2014/08/12 09:08:51.409698247 UTC

@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Scared Neo
+                 DONTNUKEMEBRO: Dc,Dd,Dc,Dc,P,Tc
+                 SimpleShooter: Sc,N,Sa,N,Sc,N
+                        Scared: Sd,N,Sa,N,N,N
+                           Neo: N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 2
+                        Scared: -7
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Neo SimpleShooter Scared
+SimpleShooter: Neo DONTNUKEMEBRO Scared
+Scared: Neo DONTNUKEMEBRO SimpleShooter
+Neo: Scared DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 08:08:12.128894014 UTC

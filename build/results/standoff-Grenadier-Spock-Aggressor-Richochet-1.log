@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Aggressor Richochet
+                     Grenadier: P,Td
+                         Spock: Sc,N
+                     Aggressor: P,Tb
+                     Richochet: Sc,N
+Final Health:
+                     Grenadier: -1
+                         Spock: -6
+                     Aggressor: -5
+                     Richochet: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Richochet Spock
+Spock: Aggressor Richochet Grenadier
+Aggressor: Spock Richochet Grenadier
+Richochet: Spock Aggressor Grenadier
+Generated: 2014/08/12 09:03:59.138055253 UTC

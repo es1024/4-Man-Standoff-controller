@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Ninja Scared
+                     Aggressor: P,Tb,Sc,N,Sc
+                     Richochet: Sd,N,N,N,N
+                         Ninja: Dd,Da,Da,Db,Dc
+                        Scared: Sc,N,N,N,N
+Final Health:
+                     Aggressor: 2
+                     Richochet: -3
+                         Ninja: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet Ninja Scared
+Richochet: Aggressor Ninja Scared
+Ninja: Aggressor Richochet Scared
+Scared: Aggressor Richochet Ninja
+Generated: 2014/08/12 10:46:17.505948362 UTC

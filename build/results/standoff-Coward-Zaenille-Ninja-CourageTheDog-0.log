@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Ninja CourageTheDog
+                        Coward: Sd,N,Sd,N,Dd,Sd,N,Sc,N,Dd,Dd,Dd,Sc,N,Dd,Sc,N,Dd,Dd,Dd,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dd,Db,Db,Db,Db,Da,Da,Da,Dd,Dc,Dc,Dc,Db,Dd,Dd,Dd,Dd,Db,Db
+                 CourageTheDog: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                      Zaenille: -2
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille Ninja CourageTheDog
+Zaenille: Coward Ninja CourageTheDog
+Ninja: Coward Zaenille CourageTheDog
+CourageTheDog: Coward Zaenille Ninja
+Generated: 2014/08/12 10:34:47.171755329 UTC

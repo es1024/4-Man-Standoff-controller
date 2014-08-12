@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman AntiGrenadier CourageTheDog
+                     Richochet: Sc,N,Sb,N,Sc,N,Sc,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Dc,Da,Dc,Db,Da,Da,Da,Da,Da,Db,Da,Da,Da,Da,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: CourageTheDog Bomberman AntiGrenadier
+Bomberman: CourageTheDog Richochet AntiGrenadier
+AntiGrenadier: CourageTheDog Richochet Bomberman
+CourageTheDog: AntiGrenadier Richochet Bomberman
+Generated: 2014/08/12 06:39:52.476327663 UTC

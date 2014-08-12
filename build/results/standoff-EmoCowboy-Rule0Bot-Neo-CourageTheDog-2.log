@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy Rule0Bot Neo CourageTheDog
+                     EmoCowboy: N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Db,Db,N,N,Db,Db,N,Db,N,N,N,N,N,Dd,Sd,N,Dd,Dd,Dd,Dd,N,N,N,N,N,N,N,N,Dd,Dd,N,N,N,Dd,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Da,Dc,Db,Db,Sb,N,Db,Dc,Sb,N,Dc,Dc,Sc,N,Dc,Dc,Dc,Dc,Sc,N,Dc,Dc,Sc,N,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: CourageTheDog Rule0Bot Neo
+Rule0Bot: CourageTheDog EmoCowboy Neo
+Neo: CourageTheDog EmoCowboy Rule0Bot
+CourageTheDog: Neo EmoCowboy Rule0Bot
+Generated: 2014/08/12 08:18:11.502989318 UTC

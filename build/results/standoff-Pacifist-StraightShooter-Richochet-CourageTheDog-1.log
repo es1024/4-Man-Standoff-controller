@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Richochet CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Richochet: Sa,N,Sd,N,Sa,N,Sb,N,Sb,N,Sb
+                 CourageTheDog: Sa,N,Da,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                     Richochet: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet CourageTheDog StraightShooter
+StraightShooter: Richochet CourageTheDog Pacifist
+Richochet: StraightShooter CourageTheDog Pacifist
+CourageTheDog: StraightShooter Richochet Pacifist
+Generated: 2014/08/12 07:28:35.047895727 UTC

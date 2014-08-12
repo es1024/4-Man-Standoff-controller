@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury Sniper Scared
+                         Spock: Sd,N,Sd,N,Sc,N,Sc,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Dc,N,Da,N,Dc,Dc,Dc,Sa,N,Sa
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                        Sniper: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: Scared Spock Sniper
+Sniper: Scared Spock TwentyFourthsAndAHalfCentury
+Scared: Sniper Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:49:36.160835072 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward AntiGrenadier Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Neo Coward
+Coward: AntiGrenadier Neo Pacifist
+AntiGrenadier: Coward Neo Pacifist
+Neo: Coward AntiGrenadier Pacifist
+Generated: 2014/08/12 08:33:42.979489226 UTC

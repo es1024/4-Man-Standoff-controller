@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Richochet AntiGrenadier Scared
+                 DONTNUKEMEBRO: Db,Dc,Sd,N,Db,Db,Db,Db,P
+                     Richochet: Sc,N,Sc,N,Sd,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sb,N,Sa,N,Sc
+Final Health:
+                 DONTNUKEMEBRO: -7
+                     Richochet: -2
+                 AntiGrenadier: -4
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Scared Richochet AntiGrenadier
+Richochet: Scared DONTNUKEMEBRO AntiGrenadier
+AntiGrenadier: Scared DONTNUKEMEBRO Richochet
+Scared: AntiGrenadier DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 09:36:04.750575292 UTC

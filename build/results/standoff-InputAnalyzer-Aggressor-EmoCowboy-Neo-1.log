@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor EmoCowboy Neo
+                 InputAnalyzer: Dc,Dd,Sc
+                     Aggressor: P,Td,Sa
+                     EmoCowboy: Sc,N,N
+                           Neo: N,N,N
+Final Health:
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                     EmoCowboy: -2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Neo Aggressor
+Aggressor: EmoCowboy Neo InputAnalyzer
+EmoCowboy: Aggressor Neo InputAnalyzer
+Neo: Aggressor EmoCowboy InputAnalyzer
+Generated: 2014/08/12 07:51:53.575069443 UTC

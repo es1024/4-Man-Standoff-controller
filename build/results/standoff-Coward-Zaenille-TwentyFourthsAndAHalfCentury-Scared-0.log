@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille TwentyFourthsAndAHalfCentury Scared
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Da,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille TwentyFourthsAndAHalfCentury Scared
+Zaenille: Coward TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Coward Zaenille Scared
+Scared: Coward Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:51:23.527278775 UTC

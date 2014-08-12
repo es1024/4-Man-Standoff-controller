@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer EmoCowboy Rule0Bot
+                      Pacifist: N,N,N,N,N,N
+                 InputAnalyzer: Da,Dd,P,Sa,N,N
+                     EmoCowboy: N,N,N,N,N,Sc
+                      Rule0Bot: N,N,N,Sb,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                     EmoCowboy: -2
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer EmoCowboy Rule0Bot
+InputAnalyzer: Pacifist EmoCowboy Rule0Bot
+EmoCowboy: Pacifist InputAnalyzer Rule0Bot
+Rule0Bot: Pacifist InputAnalyzer EmoCowboy
+Generated: 2014/08/12 08:17:41.771097294 UTC

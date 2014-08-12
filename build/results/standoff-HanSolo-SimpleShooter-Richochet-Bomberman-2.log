@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Richochet Bomberman
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sc
+                     Richochet: Sd,N,Sb,N,Sa,N,Sb
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 SimpleShooter: -3
+                     Richochet: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman SimpleShooter Richochet
+SimpleShooter: Bomberman HanSolo Richochet
+Richochet: Bomberman HanSolo SimpleShooter
+Bomberman: Richochet HanSolo SimpleShooter
+Generated: 2014/08/12 08:54:08.148550259 UTC

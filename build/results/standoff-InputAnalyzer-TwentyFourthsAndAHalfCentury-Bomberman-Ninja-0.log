@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Bomberman Ninja
+                 InputAnalyzer: Db,Da,Sc,N,Db,Dd,Sb,N,Db,Sc,N,P,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,N,N,Dd,N,N,N,N,Sd,N,Sa,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dc,Dd,Dc,Dc,Dd,Da,Dd,Dd,Da,Db,Dd,Dc
+Final Health:
+                 InputAnalyzer: -5
+  TwentyFourthsAndAHalfCentury: 0
+                     Bomberman: -4
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Bomberman Ninja
+TwentyFourthsAndAHalfCentury: InputAnalyzer Bomberman Ninja
+Bomberman: InputAnalyzer TwentyFourthsAndAHalfCentury Ninja
+Ninja: InputAnalyzer TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 07:03:08.958710580 UTC

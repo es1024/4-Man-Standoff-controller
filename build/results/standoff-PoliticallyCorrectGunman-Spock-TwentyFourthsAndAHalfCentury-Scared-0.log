@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock TwentyFourthsAndAHalfCentury Scared
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,N,N,N,N,Sc,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Dd,N,Dd,N,N,N,N,N,Sb,N,Sd,N
+                        Scared: Sb,N,Sc,N,Sc,N,N,N,N,Sc,N,Sb,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -4
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock TwentyFourthsAndAHalfCentury Scared
+Spock: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Spock Scared
+Scared: PoliticallyCorrectGunman Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:45:10.684181482 UTC

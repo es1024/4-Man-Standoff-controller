@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Monkey CourageTheDog
+                         Spock: Sc,N,Sc,N,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     Richochet: Sc,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Sb,N,Da,Da,Da,Da,Da,Da,Sa,N,Da,Da,Da,Da,Sa
+Final Health:
+                         Spock: -1
+                     Richochet: -1
+                        Monkey: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey CourageTheDog Richochet
+Richochet: Monkey CourageTheDog Spock
+Monkey: Richochet CourageTheDog Spock
+CourageTheDog: Richochet Monkey Spock
+Generated: 2014/08/12 10:32:18.321051299 UTC

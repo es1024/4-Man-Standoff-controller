@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo SimpleShooter Ninja
+                 InputAnalyzer: Db,Sd,N,Dc,Dd,Db,Sd,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa,N,Sc
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sd,N,Sb
+                         Ninja: Db,Db,Da,Da,Da,Dc,Dc,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: -1
+                 SimpleShooter: 3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo SimpleShooter Ninja
+HanSolo: InputAnalyzer SimpleShooter Ninja
+SimpleShooter: InputAnalyzer HanSolo Ninja
+Ninja: InputAnalyzer HanSolo SimpleShooter
+Generated: 2014/08/12 08:12:58.120353762 UTC

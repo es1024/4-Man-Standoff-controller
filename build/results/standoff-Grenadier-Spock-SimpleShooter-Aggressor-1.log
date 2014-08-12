@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock SimpleShooter Aggressor
+                     Grenadier: N,P
+                         Spock: Sc,N
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+Final Health:
+                     Grenadier: -6
+                         Spock: -6
+                 SimpleShooter: -3
+                     Aggressor: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Aggressor Spock
+Spock: SimpleShooter Aggressor Grenadier
+SimpleShooter: Spock Aggressor Grenadier
+Aggressor: Spock SimpleShooter Grenadier
+Generated: 2014/08/12 10:36:23.684208544 UTC

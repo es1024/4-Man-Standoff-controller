@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Rule0Bot Scared
+                 SimpleShooter: Sb,N,Sd
+                     Aggressor: P,Tc,N
+                      Rule0Bot: N,N,N
+                        Scared: N,N,Sa
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 0
+                      Rule0Bot: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Scared Aggressor
+Aggressor: Rule0Bot Scared SimpleShooter
+Rule0Bot: Aggressor Scared SimpleShooter
+Scared: Aggressor Rule0Bot SimpleShooter
+Generated: 2014/08/12 10:26:28.691112448 UTC

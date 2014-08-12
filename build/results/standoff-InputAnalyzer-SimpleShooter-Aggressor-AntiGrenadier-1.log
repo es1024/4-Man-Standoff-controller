@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Aggressor AntiGrenadier
+                 InputAnalyzer: Dc,Sd
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+                 AntiGrenadier: N,Sc
+Final Health:
+                 InputAnalyzer: 0
+                 SimpleShooter: -3
+                     Aggressor: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor AntiGrenadier SimpleShooter
+SimpleShooter: Aggressor AntiGrenadier InputAnalyzer
+Aggressor: SimpleShooter AntiGrenadier InputAnalyzer
+AntiGrenadier: SimpleShooter Aggressor InputAnalyzer
+Generated: 2014/08/12 06:52:51.214609988 UTC

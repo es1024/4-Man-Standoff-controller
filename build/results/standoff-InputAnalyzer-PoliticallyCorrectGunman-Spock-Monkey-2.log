@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock Monkey
+                 InputAnalyzer: Dd,P,Sa,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Dc,Dd,Sd,N,N,P,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N
+                        Monkey: N,N,Dc,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+      PoliticallyCorrectGunman: -4
+                         Spock: -1
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: Monkey InputAnalyzer Spock
+Spock: Monkey InputAnalyzer PoliticallyCorrectGunman
+Monkey: Spock InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 09:20:58.208267234 UTC

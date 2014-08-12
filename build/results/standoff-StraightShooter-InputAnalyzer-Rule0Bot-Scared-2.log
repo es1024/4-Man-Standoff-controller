@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Rule0Bot Scared
+               StraightShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Dc,P,Dd,N
+                      Rule0Bot: N,N,N,Sb,N
+                        Scared: Sb,N,Sc,N,Sa
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared InputAnalyzer Rule0Bot
+InputAnalyzer: Scared StraightShooter Rule0Bot
+Rule0Bot: Scared StraightShooter InputAnalyzer
+Scared: Rule0Bot StraightShooter InputAnalyzer
+Generated: 2014/08/12 05:45:21.323263400 UTC

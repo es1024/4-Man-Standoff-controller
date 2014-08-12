@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Monkey CourageTheDog
+                         Spock: N,N,N,N,Sb,N,Sb,N,Sd,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,N,N
+                        Monkey: N,N,N,N,N,Sc,N,N,N,N
+                 CourageTheDog: Sb,N,N,N,Sc,N,Da,Da,Da,Sa
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+                        Monkey: -2
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog SimpleShooter Monkey
+SimpleShooter: CourageTheDog Spock Monkey
+Monkey: CourageTheDog Spock SimpleShooter
+CourageTheDog: Monkey Spock SimpleShooter
+Generated: 2014/08/12 06:01:10.018231012 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury EmoCowboy Rule0Bot
+                         Spock: Sc,N,Sc,N,N,N,Sc,N,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,N,N,N,Da,N,N,N,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: EmoCowboy Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Rule0Bot Spock
+EmoCowboy: TwentyFourthsAndAHalfCentury Rule0Bot Spock
+Rule0Bot: TwentyFourthsAndAHalfCentury EmoCowboy Spock
+Generated: 2014/08/12 10:17:59.832920402 UTC

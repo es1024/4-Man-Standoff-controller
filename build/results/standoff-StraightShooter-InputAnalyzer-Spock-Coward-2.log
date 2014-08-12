@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Spock Coward
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,P,Db,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sa
+                        Coward: Sb,N,Sb,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                         Spock: 2
+                        Coward: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward InputAnalyzer Spock
+InputAnalyzer: Coward StraightShooter Spock
+Spock: Coward StraightShooter InputAnalyzer
+Coward: Spock StraightShooter InputAnalyzer
+Generated: 2014/08/12 08:02:55.166491660 UTC

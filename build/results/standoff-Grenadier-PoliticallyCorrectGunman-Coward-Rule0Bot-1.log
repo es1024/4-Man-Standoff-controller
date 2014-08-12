@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Coward Rule0Bot
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,Sa,N,Sa,N,Da,N,N
+                        Coward: Sa,N,Sa,N,Dd,Dd,Dd,Dd,Sd,N,Sb
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -7
+      PoliticallyCorrectGunman: 0
+                        Coward: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Rule0Bot PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Coward Rule0Bot Grenadier
+Coward: PoliticallyCorrectGunman Rule0Bot Grenadier
+Rule0Bot: PoliticallyCorrectGunman Coward Grenadier
+Generated: 2014/08/12 08:24:15.515858576 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Richochet Rule0Bot
+                      Pacifist: N,N,N
+                     Aggressor: P,Ta,N
+                     Richochet: Sb,N,Sd
+                      Rule0Bot: N,Sb,N
+Final Health:
+                      Pacifist: -3
+                     Aggressor: -2
+                     Richochet: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Richochet Rule0Bot
+Aggressor: Pacifist Richochet Rule0Bot
+Richochet: Pacifist Aggressor Rule0Bot
+Rule0Bot: Pacifist Aggressor Richochet
+Generated: 2014/08/12 09:24:35.427923027 UTC

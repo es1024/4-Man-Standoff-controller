@@ -1,0 +1,16 @@
+Standoff between: Pacifist Ninja Sniper Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dd,Dc,Db,Dd,Dd,Da,Da,Dd,N
+                        Sniper: Sd,N,Sa,N,Sa,N,N,N,N,Sb,N
+                        Scared: Sa,N,Sc,N,Sb,N,Sc,N,Sb,N,Sc
+Final Health:
+                      Pacifist: -1
+                         Ninja: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Scared Ninja
+Ninja: Sniper Scared Pacifist
+Sniper: Ninja Scared Pacifist
+Scared: Ninja Sniper Pacifist
+Generated: 2014/08/12 07:11:03.262737626 UTC

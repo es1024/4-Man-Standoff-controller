@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Aggressor Bomberman
+                 InputAnalyzer: Db,Sc,N
+                       HanSolo: Sa,N,Sd
+                     Aggressor: P,Ta,N
+                     Bomberman: N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 2
+                     Aggressor: 0
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Aggressor Bomberman
+HanSolo: InputAnalyzer Aggressor Bomberman
+Aggressor: InputAnalyzer HanSolo Bomberman
+Bomberman: InputAnalyzer HanSolo Aggressor
+Generated: 2014/08/12 08:19:42.725170014 UTC

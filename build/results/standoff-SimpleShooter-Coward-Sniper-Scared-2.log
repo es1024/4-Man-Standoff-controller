@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Sniper Scared
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sd
+                        Coward: Sc,N,Sc,N,N,N,N
+                        Sniper: Sd,N,Sb,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sa,N,Sa
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Coward Sniper
+Coward: Scared SimpleShooter Sniper
+Sniper: Scared SimpleShooter Coward
+Scared: Sniper SimpleShooter Coward
+Generated: 2014/08/12 10:47:25.387210809 UTC

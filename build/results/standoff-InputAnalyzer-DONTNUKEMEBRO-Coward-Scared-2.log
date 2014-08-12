@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Coward Scared
+                 InputAnalyzer: Dd,P,Da,Dd
+                 DONTNUKEMEBRO: Dc,Dd,P,Tc
+                        Coward: Sb,N,Sb,N
+                        Scared: Sb,N,Sa,N
+Final Health:
+                 InputAnalyzer: -6
+                 DONTNUKEMEBRO: -5
+                        Coward: -6
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared DONTNUKEMEBRO Coward
+DONTNUKEMEBRO: Scared InputAnalyzer Coward
+Coward: Scared InputAnalyzer DONTNUKEMEBRO
+Scared: Coward InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 05:43:51.251539361 UTC

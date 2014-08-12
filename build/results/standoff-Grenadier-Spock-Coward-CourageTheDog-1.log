@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Coward CourageTheDog
+                     Grenadier: N,P,Td
+                         Spock: Sc,N,Sa
+                        Coward: Sa,N,Sa
+                 CourageTheDog: Sa,N,P
+Final Health:
+                     Grenadier: -9
+                         Spock: -1
+                        Coward: -3
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward CourageTheDog Spock
+Spock: Coward CourageTheDog Grenadier
+Coward: Spock CourageTheDog Grenadier
+CourageTheDog: Spock Coward Grenadier
+Generated: 2014/08/12 08:32:59.249118175 UTC

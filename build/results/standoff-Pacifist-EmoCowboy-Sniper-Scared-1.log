@@ -1,0 +1,16 @@
+Standoff between: Pacifist EmoCowboy Sniper Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,Sc
+Final Health:
+                      Pacifist: -1
+                     EmoCowboy: -2
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Scared EmoCowboy
+EmoCowboy: Sniper Scared Pacifist
+Sniper: EmoCowboy Scared Pacifist
+Scared: EmoCowboy Sniper Pacifist
+Generated: 2014/08/12 09:51:28.182025236 UTC

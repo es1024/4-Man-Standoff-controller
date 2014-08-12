@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Richochet AntiGrenadier
+                 DONTNUKEMEBRO: Dc,Dc,Sc,N,P,Tc
+                 SimpleShooter: Sc,N,Sa,N,Sd,N
+                     Richochet: Sa,N,Sa,N,Sb,N
+                 AntiGrenadier: N,N,N,N,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: -4
+                 SimpleShooter: 0
+                     Richochet: -7
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: AntiGrenadier SimpleShooter Richochet
+SimpleShooter: AntiGrenadier DONTNUKEMEBRO Richochet
+Richochet: AntiGrenadier DONTNUKEMEBRO SimpleShooter
+AntiGrenadier: Richochet DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 08:07:20.857250221 UTC

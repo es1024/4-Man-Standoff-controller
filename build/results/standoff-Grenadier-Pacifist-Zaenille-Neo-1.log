@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Zaenille Neo
+                     Grenadier: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,P,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                      Pacifist: -1
+                      Zaenille: -2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Neo Pacifist
+Pacifist: Zaenille Neo Grenadier
+Zaenille: Pacifist Neo Grenadier
+Neo: Pacifist Zaenille Grenadier
+Generated: 2014/08/12 10:07:50.787394776 UTC

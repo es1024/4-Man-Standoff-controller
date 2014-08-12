@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Dd,Sc,N,P,Dc,Sa
+      PoliticallyCorrectGunman: N,Da,N,N,Sd,N,Sd,N,Dc,Sb
+                         Spock: N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,Da,Db,Da,Da,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+      PoliticallyCorrectGunman: -5
+                         Spock: 0
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury InputAnalyzer Spock
+Spock: TwentyFourthsAndAHalfCentury InputAnalyzer PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Spock InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 06:09:34.799425879 UTC

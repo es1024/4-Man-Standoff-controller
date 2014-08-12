@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Rule0Bot Neo
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Sd,N,Dd,Dc,Dd,Dc,Dd,Sc,N,Da,P,N,N
+                 DONTNUKEMEBRO: Da,Dc,Dc,Da,Da,Dc,Dd,Dc,Dc,Dd,Da,Dc,Da,Dd,Da,Sa,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Db,Da
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 2
+                      Rule0Bot: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo DONTNUKEMEBRO Rule0Bot
+DONTNUKEMEBRO: Neo InputAnalyzer Rule0Bot
+Rule0Bot: Neo InputAnalyzer DONTNUKEMEBRO
+Neo: Rule0Bot InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 09:18:40.787362148 UTC

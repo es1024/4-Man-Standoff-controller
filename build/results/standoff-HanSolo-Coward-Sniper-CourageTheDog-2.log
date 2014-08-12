@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Sniper CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb
+                        Coward: Sc,N,Dc,Sc,N,Sa,N
+                        Sniper: Sb,N,Sb,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Coward: -1
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Coward Sniper
+Coward: CourageTheDog HanSolo Sniper
+Sniper: CourageTheDog HanSolo Coward
+CourageTheDog: Sniper HanSolo Coward
+Generated: 2014/08/12 06:43:25.389553168 UTC

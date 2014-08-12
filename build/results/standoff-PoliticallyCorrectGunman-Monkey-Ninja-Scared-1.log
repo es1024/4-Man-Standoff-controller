@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey Ninja Scared
+      PoliticallyCorrectGunman: Sb,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dc,Db,Dd,Dd,Da,Dc,Da,Db,Dd,Da,Dc,Da,Db
+                        Scared: Sc,N,Sa,N,Sa,N,Sc,N,N,N,N,N,N,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -4
+                        Monkey: -2
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Scared Monkey
+Monkey: Ninja Scared PoliticallyCorrectGunman
+Ninja: Monkey Scared PoliticallyCorrectGunman
+Scared: Monkey Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 07:38:02.504689662 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Monkey TwentyFourthsAndAHalfCentury
+                     Grenadier: P,Tc,P
+                      Zaenille: Sb,N,N
+                        Monkey: N,Da,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Sa
+Final Health:
+                     Grenadier: -6
+                      Zaenille: -2
+                        Monkey: -3
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey TwentyFourthsAndAHalfCentury Zaenille
+Zaenille: Monkey TwentyFourthsAndAHalfCentury Grenadier
+Monkey: Zaenille TwentyFourthsAndAHalfCentury Grenadier
+TwentyFourthsAndAHalfCentury: Zaenille Monkey Grenadier
+Generated: 2014/08/12 05:59:41.292632757 UTC

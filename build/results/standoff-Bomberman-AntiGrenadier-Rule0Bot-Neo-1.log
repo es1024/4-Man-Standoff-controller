@@ -1,0 +1,16 @@
+Standoff between: Bomberman AntiGrenadier Rule0Bot Neo
+                     Bomberman: N,N,N,N,N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,Da,Da,Da,Da,N,Dc,N,N,N,N,Dc,N,N,N,N,N,N,Dc,Dc,Dc,Dc,N,N,N,Dc,N,Dc,Dc,N,N,Dc,Dc,N,N,N,Dc,N,N,N,N,N,Dc,N,N,Sd,N
+Final Health:
+                     Bomberman: -5
+                 AntiGrenadier: -18
+                      Rule0Bot: -18
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: Rule0Bot Neo AntiGrenadier
+AntiGrenadier: Rule0Bot Neo Bomberman
+Rule0Bot: AntiGrenadier Neo Bomberman
+Neo: AntiGrenadier Rule0Bot Bomberman
+Generated: 2014/08/12 08:31:07.633041919 UTC

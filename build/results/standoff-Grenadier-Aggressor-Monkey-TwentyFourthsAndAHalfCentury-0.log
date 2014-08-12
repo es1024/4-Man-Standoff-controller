@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Monkey TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,N
+                     Aggressor: P,Ta,Sc,N,Sd
+                        Monkey: N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                     Aggressor: 2
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Monkey TwentyFourthsAndAHalfCentury
+Aggressor: Grenadier Monkey TwentyFourthsAndAHalfCentury
+Monkey: Grenadier Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Grenadier Aggressor Monkey
+Generated: 2014/08/12 07:27:16.886541632 UTC

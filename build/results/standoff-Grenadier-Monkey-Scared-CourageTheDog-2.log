@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Scared CourageTheDog
+                     Grenadier: P,Td,N
+                        Monkey: N,Sa,N
+                        Scared: Sa,N,Sb
+                 CourageTheDog: Sa,N,N
+Final Health:
+                     Grenadier: -4
+                        Monkey: 0
+                        Scared: 2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Monkey Scared
+Monkey: CourageTheDog Grenadier Scared
+Scared: CourageTheDog Grenadier Monkey
+CourageTheDog: Scared Grenadier Monkey
+Generated: 2014/08/12 06:14:34.250505249 UTC

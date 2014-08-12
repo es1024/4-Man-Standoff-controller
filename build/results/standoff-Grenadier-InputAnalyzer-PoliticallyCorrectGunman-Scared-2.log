@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer PoliticallyCorrectGunman Scared
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,N,N
+                 InputAnalyzer: Dd,Dc,Dd,P,Sd,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dd,Db,N,N,N,N,N,N,N,Dd,P,Sb
+                        Scared: Sc,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -7
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -7
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared InputAnalyzer PoliticallyCorrectGunman
+InputAnalyzer: Scared Grenadier PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Scared Grenadier InputAnalyzer
+Scared: PoliticallyCorrectGunman Grenadier InputAnalyzer
+Generated: 2014/08/12 06:06:50.161349113 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,Sc,N,Da,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Db,Da,Dd,Db,Da,Dd,Db,Dd,Sb,N,Dd,Db,Da,Dd,Sd,N,Sd,N,Dd,Db,Dd,Db
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,N,N,N,N,N,Sc
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman DONTNUKEMEBRO
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Grenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury Grenadier PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 06:53:17.731208891 UTC

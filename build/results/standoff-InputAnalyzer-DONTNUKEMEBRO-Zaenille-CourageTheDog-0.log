@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Zaenille CourageTheDog
+                 InputAnalyzer: Db,Dd,Sb,N,Dd,Sb
+                 DONTNUKEMEBRO: Da,Dc,Dd,Da,P,Td
+                      Zaenille: Sc,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sb,N,Db,P
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: -5
+                      Zaenille: -2
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Zaenille CourageTheDog
+DONTNUKEMEBRO: InputAnalyzer Zaenille CourageTheDog
+Zaenille: InputAnalyzer DONTNUKEMEBRO CourageTheDog
+CourageTheDog: InputAnalyzer DONTNUKEMEBRO Zaenille
+Generated: 2014/08/12 05:55:01.256753359 UTC

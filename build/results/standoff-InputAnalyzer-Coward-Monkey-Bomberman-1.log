@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Monkey Bomberman
+                 InputAnalyzer: Dc,P,N,Dc,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Dd,Dd,Sd,N,Da,Dc,Sc
+                        Monkey: N,N,N,N,N,N,N,Sd,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                        Coward: 2
+                        Monkey: 0
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Bomberman Coward
+Coward: Monkey Bomberman InputAnalyzer
+Monkey: Coward Bomberman InputAnalyzer
+Bomberman: Coward Monkey InputAnalyzer
+Generated: 2014/08/12 09:43:16.916079439 UTC

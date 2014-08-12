@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Monkey AntiGrenadier
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,Db,Sd,N,Sd,N,Sa
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sa,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                       HanSolo: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey AntiGrenadier HanSolo
+HanSolo: Monkey AntiGrenadier PoliticallyCorrectGunman
+Monkey: HanSolo AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: HanSolo Monkey PoliticallyCorrectGunman
+Generated: 2014/08/12 06:25:54.022239192 UTC

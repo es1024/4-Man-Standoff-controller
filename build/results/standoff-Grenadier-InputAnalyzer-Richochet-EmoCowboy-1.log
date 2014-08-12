@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Richochet EmoCowboy
+                     Grenadier: N,N,N,P,N,N
+                 InputAnalyzer: Dc,Da,Sb,N,N,N
+                     Richochet: Sd,N,Sb,N,Sa,N
+                     EmoCowboy: Sd,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -4
+                     Richochet: 2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet EmoCowboy InputAnalyzer
+InputAnalyzer: Richochet EmoCowboy Grenadier
+Richochet: InputAnalyzer EmoCowboy Grenadier
+EmoCowboy: InputAnalyzer Richochet Grenadier
+Generated: 2014/08/12 07:07:41.335295043 UTC

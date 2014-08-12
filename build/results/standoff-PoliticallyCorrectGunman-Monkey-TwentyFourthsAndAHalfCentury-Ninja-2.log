@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury Ninja
+      PoliticallyCorrectGunman: P,Dc,N,N,N,N
+                        Monkey: N,Db,Db,Db,Da,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Da,Sd,N,Sb
+                         Ninja: Dc,Da,Dc,Da,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Monkey TwentyFourthsAndAHalfCentury
+Monkey: Ninja PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja PoliticallyCorrectGunman Monkey
+Ninja: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 09:18:51.565129982 UTC

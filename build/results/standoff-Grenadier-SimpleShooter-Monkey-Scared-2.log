@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Monkey Scared
+                     Grenadier: P,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd
+                        Monkey: N,N,N,N,N
+                        Scared: Sc,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                 SimpleShooter: 2
+                        Monkey: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared SimpleShooter Monkey
+SimpleShooter: Scared Grenadier Monkey
+Monkey: Scared Grenadier SimpleShooter
+Scared: Monkey Grenadier SimpleShooter
+Generated: 2014/08/12 09:51:08.702483732 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Scared Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: N,N,Dd,Dd,Da,Dd,Dd,Dd,Dd,Dd,Da,Dd,N,N,N,N,N,N,N,Dd,Da,Dd,Dd,Dd,Da,Dd,Da,Dd,N,N,N,N,N,N,Da,Dd,Dd,Dd,Dd,Dd,Da,Dd,N,N,N,N,N,N,N,N
+                        Scared: N,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dc,N,Dc,N,Db,Db,Db,Db,Db,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,Db,N,Db,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -17
+                        Scared: -1
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Scared Neo
+TwentyFourthsAndAHalfCentury: StraightShooter Scared Neo
+Scared: StraightShooter TwentyFourthsAndAHalfCentury Neo
+Neo: StraightShooter TwentyFourthsAndAHalfCentury Scared
+Generated: 2014/08/12 07:29:05.900615557 UTC

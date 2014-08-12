@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Zaenille TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dd,P,Da
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,N
+Final Health:
+                 InputAnalyzer: -6
+                     Aggressor: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Aggressor Zaenille
+Aggressor: TwentyFourthsAndAHalfCentury InputAnalyzer Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury InputAnalyzer Aggressor
+TwentyFourthsAndAHalfCentury: Zaenille InputAnalyzer Aggressor
+Generated: 2014/08/12 06:21:18.458869670 UTC

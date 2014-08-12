@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Aggressor Rule0Bot
+                 InputAnalyzer: Dd,Db,Da
+      PoliticallyCorrectGunman: P,N,Da
+                     Aggressor: P,Td,N
+                      Rule0Bot: N,Sc,N
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -4
+                     Aggressor: 0
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot PoliticallyCorrectGunman Aggressor
+PoliticallyCorrectGunman: Rule0Bot InputAnalyzer Aggressor
+Aggressor: Rule0Bot InputAnalyzer PoliticallyCorrectGunman
+Rule0Bot: Aggressor InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 09:19:36.447377531 UTC

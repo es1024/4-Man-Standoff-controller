@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter AntiGrenadier Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa,N,Sc,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper SimpleShooter AntiGrenadier
+SimpleShooter: Sniper Pacifist AntiGrenadier
+AntiGrenadier: Sniper Pacifist SimpleShooter
+Sniper: AntiGrenadier Pacifist SimpleShooter
+Generated: 2014/08/12 07:49:56.541537886 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO SimpleShooter Zaenille
+                     Grenadier: N,P,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Sa,N
+                 SimpleShooter: Sa,N,Sb,N
+                      Zaenille: Sd,N,N,N
+Final Health:
+                     Grenadier: -5
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Zaenille DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Zaenille Grenadier
+SimpleShooter: DONTNUKEMEBRO Zaenille Grenadier
+Zaenille: DONTNUKEMEBRO SimpleShooter Grenadier
+Generated: 2014/08/12 07:34:17.833720700 UTC

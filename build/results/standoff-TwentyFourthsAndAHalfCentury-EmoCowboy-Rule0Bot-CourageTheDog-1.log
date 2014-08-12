@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy Rule0Bot CourageTheDog
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,Dc,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,Sd,N,N,Sd,N,Sd,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Da,Dc,Da,Da,Dc,Da,Da,Da,Sa,N,Da,Da,Da,Da,N,Sa,N,Da,Da,Da,Da,Da,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Rule0Bot CourageTheDog EmoCowboy
+EmoCowboy: Rule0Bot CourageTheDog TwentyFourthsAndAHalfCentury
+Rule0Bot: EmoCowboy CourageTheDog TwentyFourthsAndAHalfCentury
+CourageTheDog: EmoCowboy Rule0Bot TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:16:41.821388064 UTC

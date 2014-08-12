@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier Rule0Bot
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Sd,N,Sc,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Rule0Bot TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Rule0Bot Zaenille AntiGrenadier
+AntiGrenadier: Rule0Bot Zaenille TwentyFourthsAndAHalfCentury
+Rule0Bot: AntiGrenadier Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:04:34.941503096 UTC

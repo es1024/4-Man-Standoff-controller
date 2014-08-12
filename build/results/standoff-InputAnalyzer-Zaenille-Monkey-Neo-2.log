@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Monkey Neo
+                 InputAnalyzer: Dd,P,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Dd,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,N,Dc,N,N,N,N,N
+                           Neo: N,Da,Da,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,Dc,N,N,Dc,Dc,Dc,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                      Zaenille: -2
+                        Monkey: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Zaenille Monkey
+Zaenille: Neo InputAnalyzer Monkey
+Monkey: Neo InputAnalyzer Zaenille
+Neo: Monkey InputAnalyzer Zaenille
+Generated: 2014/08/12 08:23:24.612653179 UTC

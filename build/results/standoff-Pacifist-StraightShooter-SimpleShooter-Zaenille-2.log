@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter SimpleShooter Zaenille
+                      Pacifist: N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa
+                 SimpleShooter: Sb,N,Sb,N,Sb
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                 SimpleShooter: 5
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille StraightShooter SimpleShooter
+StraightShooter: Zaenille Pacifist SimpleShooter
+SimpleShooter: Zaenille Pacifist StraightShooter
+Zaenille: SimpleShooter Pacifist StraightShooter
+Generated: 2014/08/12 07:30:23.577948382 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Zaenille AntiGrenadier
+                 InputAnalyzer: Dd,P,Da,N
+                         Spock: N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N
+                 AntiGrenadier: N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -5
+                         Spock: 2
+                      Zaenille: -2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Spock Zaenille
+Spock: AntiGrenadier InputAnalyzer Zaenille
+Zaenille: AntiGrenadier InputAnalyzer Spock
+AntiGrenadier: Zaenille InputAnalyzer Spock
+Generated: 2014/08/12 10:25:57.110440922 UTC

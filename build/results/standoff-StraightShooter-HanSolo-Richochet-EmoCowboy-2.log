@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Richochet EmoCowboy
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+                       HanSolo: Sd,N,Sa,N,N,N,N
+                     Richochet: Sb,N,Sb,N,Sa,N,Sa
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -3
+                     Richochet: 5
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy HanSolo Richochet
+HanSolo: EmoCowboy StraightShooter Richochet
+Richochet: EmoCowboy StraightShooter HanSolo
+EmoCowboy: Richochet StraightShooter HanSolo
+Generated: 2014/08/12 07:18:41.835240196 UTC

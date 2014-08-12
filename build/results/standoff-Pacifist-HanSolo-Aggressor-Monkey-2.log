@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Aggressor Monkey
+                      Pacifist: N,N,N
+                       HanSolo: Sd,N,Sc
+                     Aggressor: P,Ta,Sb
+                        Monkey: N,N,N
+Final Health:
+                      Pacifist: -3
+                       HanSolo: 0
+                     Aggressor: 0
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey HanSolo Aggressor
+HanSolo: Monkey Pacifist Aggressor
+Aggressor: Monkey Pacifist HanSolo
+Monkey: Aggressor Pacifist HanSolo
+Generated: 2014/08/12 07:01:02.542328486 UTC

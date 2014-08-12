@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Spock Zaenille
+                 InputAnalyzer: Dc,Da,P,Dd,N
+                       HanSolo: Sc,N,Sc,N,Sc
+                         Spock: Sb,N,Sb,N,Sb
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: -4
+                         Spock: -4
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Zaenille HanSolo
+HanSolo: Spock Zaenille InputAnalyzer
+Spock: HanSolo Zaenille InputAnalyzer
+Zaenille: HanSolo Spock InputAnalyzer
+Generated: 2014/08/12 07:04:05.976884229 UTC

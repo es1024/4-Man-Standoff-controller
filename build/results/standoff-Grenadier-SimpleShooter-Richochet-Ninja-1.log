@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Richochet Ninja
+                     Grenadier: P,Tc,N
+                 SimpleShooter: Sa,N,Sd
+                     Richochet: Sa,N,N
+                         Ninja: Da,Da,Dd
+Final Health:
+                     Grenadier: -2
+                 SimpleShooter: 2
+                     Richochet: -3
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Ninja SimpleShooter
+SimpleShooter: Richochet Ninja Grenadier
+Richochet: SimpleShooter Ninja Grenadier
+Ninja: SimpleShooter Richochet Grenadier
+Generated: 2014/08/12 10:32:40.287777891 UTC

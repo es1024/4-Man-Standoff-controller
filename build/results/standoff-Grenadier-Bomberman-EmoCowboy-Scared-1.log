@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman EmoCowboy Scared
+                     Grenadier: P,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,Sb
+Final Health:
+                     Grenadier: -1
+                     Bomberman: 0
+                     EmoCowboy: -4
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Scared Bomberman
+Bomberman: EmoCowboy Scared Grenadier
+EmoCowboy: Bomberman Scared Grenadier
+Scared: Bomberman EmoCowboy Grenadier
+Generated: 2014/08/12 06:13:27.981236043 UTC

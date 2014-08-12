@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury AntiGrenadier Neo
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,N,N,N,N,Sc,N,Sd
+                 AntiGrenadier: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc
+Final Health:
+                     Grenadier: -3
+  TwentyFourthsAndAHalfCentury: 2
+                 AntiGrenadier: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury AntiGrenadier Neo
+TwentyFourthsAndAHalfCentury: Grenadier AntiGrenadier Neo
+AntiGrenadier: Grenadier TwentyFourthsAndAHalfCentury Neo
+Neo: Grenadier TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 09:57:59.804254960 UTC

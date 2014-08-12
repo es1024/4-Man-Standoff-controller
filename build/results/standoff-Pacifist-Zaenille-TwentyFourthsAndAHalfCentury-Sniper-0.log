@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille TwentyFourthsAndAHalfCentury Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sa,N,Sa,N,Sd,N,Sd
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille TwentyFourthsAndAHalfCentury Sniper
+Zaenille: Pacifist TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: Pacifist Zaenille Sniper
+Sniper: Pacifist Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:06:54.747968535 UTC

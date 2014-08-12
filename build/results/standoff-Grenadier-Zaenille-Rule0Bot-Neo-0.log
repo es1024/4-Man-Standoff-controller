@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Rule0Bot Neo
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dc,Dc,N,N,N,N,N,N,N,N,N,Dc,Dc,N,N,Dc,N,N,Dc,N,N,N,N,N,N,N,Dc,Dc,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,Dc,Sd
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+                      Rule0Bot: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Rule0Bot Neo
+Zaenille: Grenadier Rule0Bot Neo
+Rule0Bot: Grenadier Zaenille Neo
+Neo: Grenadier Zaenille Rule0Bot
+Generated: 2014/08/12 06:34:14.745238040 UTC

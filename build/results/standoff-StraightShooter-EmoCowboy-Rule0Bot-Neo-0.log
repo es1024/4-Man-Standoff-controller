@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Rule0Bot Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dc,Dc,Dc,Sa,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Rule0Bot Neo
+EmoCowboy: StraightShooter Rule0Bot Neo
+Rule0Bot: StraightShooter EmoCowboy Neo
+Neo: StraightShooter EmoCowboy Rule0Bot
+Generated: 2014/08/12 09:31:55.225811747 UTC

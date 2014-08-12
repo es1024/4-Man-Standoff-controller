@@ -1,16 +1,16 @@
 Standoff between: StraightShooter HanSolo Spock SimpleShooter
-               StraightShooter: Sc,N,Sc,N,N,N,N,N,N
-                       HanSolo: Sa,N,Sa,N,Sd,N,Sd,N,Sd
-                         Spock: Sa,N,Sa,N,N,N,N,N,N
-                 SimpleShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc
+               StraightShooter: Sc,N,Sc,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sd,N,Sd
+                         Spock: Sa,N,Sa,N,N,N,N
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sb
 Final Health:
                StraightShooter: -3
-                       HanSolo: 5
-                         Spock: -3
-                 SimpleShooter: -1
+                       HanSolo: -1
+                         Spock: -1
+                 SimpleShooter: 1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 StraightShooter: HanSolo Spock SimpleShooter
 HanSolo: StraightShooter Spock SimpleShooter
 Spock: StraightShooter HanSolo SimpleShooter
 SimpleShooter: StraightShooter HanSolo Spock
-Generated: 2014/08/11 00:58:42.228636010 UTC
+Generated: 2014/08/12 10:18:42.591135687 UTC

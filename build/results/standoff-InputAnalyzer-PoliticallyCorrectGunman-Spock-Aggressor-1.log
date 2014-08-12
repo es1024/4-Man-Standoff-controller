@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock Aggressor
+                 InputAnalyzer: Dc,Dd
+      PoliticallyCorrectGunman: N,Sa
+                         Spock: Sb,N
+                     Aggressor: P,Tc
+Final Health:
+                 InputAnalyzer: 0
+      PoliticallyCorrectGunman: 0
+                         Spock: -3
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Aggressor PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Spock Aggressor InputAnalyzer
+Spock: PoliticallyCorrectGunman Aggressor InputAnalyzer
+Aggressor: PoliticallyCorrectGunman Spock InputAnalyzer
+Generated: 2014/08/12 08:32:41.537797607 UTC

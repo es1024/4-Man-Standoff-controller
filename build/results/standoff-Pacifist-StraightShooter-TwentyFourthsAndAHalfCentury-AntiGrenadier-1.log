@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter TwentyFourthsAndAHalfCentury AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,Db,Da,Da,Da,Db,Da,Da,Da,Da,Da,Da,Da,Db,Da,Da,Da,Da,Da,Db,Da,Db,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,Db,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -15
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury AntiGrenadier StraightShooter
+StraightShooter: TwentyFourthsAndAHalfCentury AntiGrenadier Pacifist
+TwentyFourthsAndAHalfCentury: StraightShooter AntiGrenadier Pacifist
+AntiGrenadier: StraightShooter TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 08:11:10.381417224 UTC

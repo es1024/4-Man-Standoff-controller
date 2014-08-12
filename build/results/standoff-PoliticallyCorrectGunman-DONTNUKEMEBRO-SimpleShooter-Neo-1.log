@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,P,Db,N
+                 DONTNUKEMEBRO: Dc,Dd,Dc,Da,Dc,Dd,Sc,N,Sc,N,Sa,N
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,Sb,N,Sa,N,Sd,N
+                           Neo: N,N,N,N,N,N,N,N,N,Da,N,N
+Final Health:
+      PoliticallyCorrectGunman: -5
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Neo DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Neo PoliticallyCorrectGunman
+SimpleShooter: DONTNUKEMEBRO Neo PoliticallyCorrectGunman
+Neo: DONTNUKEMEBRO SimpleShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 10:08:42.547772449 UTC

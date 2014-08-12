@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Zaenille Neo
+                     Grenadier: P,N,N
+      PoliticallyCorrectGunman: N,Dc,Sb
+                      Zaenille: Sc,N,N
+                           Neo: N,Db,N
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: -5
+                      Zaenille: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Zaenille Neo
+PoliticallyCorrectGunman: Grenadier Zaenille Neo
+Zaenille: Grenadier PoliticallyCorrectGunman Neo
+Neo: Grenadier PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 05:59:51.526047392 UTC

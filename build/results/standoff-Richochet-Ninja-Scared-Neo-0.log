@@ -1,0 +1,16 @@
+Standoff between: Richochet Ninja Scared Neo
+                     Richochet: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sc,N,Sb,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sb
+                         Ninja: Dd,Db,Dd,Dc,Da,Db,Da,Db,Da,Db,Db,Da,Da,Dc,Db,Da,Dc,Db,Da,Db,Da,Dc,Dd,Db,Dd
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,N,Sa,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 1
+                         Ninja: -1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Scared Neo
+Ninja: Richochet Scared Neo
+Scared: Richochet Ninja Neo
+Neo: Richochet Ninja Scared
+Generated: 2014/08/12 08:54:45.825316697 UTC

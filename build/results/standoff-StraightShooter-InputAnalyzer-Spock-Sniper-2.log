@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Spock Sniper
+               StraightShooter: Sb,N,Sb
+                 InputAnalyzer: Dd,P,Sb
+                         Spock: N,N,N
+                        Sniper: Sc,N,Sa
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -10
+                         Spock: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper InputAnalyzer Spock
+InputAnalyzer: Sniper StraightShooter Spock
+Spock: Sniper StraightShooter InputAnalyzer
+Sniper: Spock StraightShooter InputAnalyzer
+Generated: 2014/08/12 07:53:01.560128176 UTC

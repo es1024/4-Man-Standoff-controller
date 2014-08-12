@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Richochet Scared
+                      Pacifist: N,N,N,N,N,N,N
+                         Spock: Sd,N,Sa,N,Sd,N,Sc
+                     Richochet: Sa,N,Sd,N,Sb,N,Sb
+                        Scared: Sa,N,Sc,N,Sb,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                     Richochet: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared Spock Richochet
+Spock: Scared Pacifist Richochet
+Richochet: Scared Pacifist Spock
+Scared: Richochet Pacifist Spock
+Generated: 2014/08/12 06:19:33.781729629 UTC

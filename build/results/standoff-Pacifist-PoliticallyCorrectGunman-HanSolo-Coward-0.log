@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman HanSolo Coward
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,Dc,Dc,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+                       HanSolo: -1
+                        Coward: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman HanSolo Coward
+PoliticallyCorrectGunman: Pacifist HanSolo Coward
+HanSolo: Pacifist PoliticallyCorrectGunman Coward
+Coward: Pacifist PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 07:10:33.568802165 UTC

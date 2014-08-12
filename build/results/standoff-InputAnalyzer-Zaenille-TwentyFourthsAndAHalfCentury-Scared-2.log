@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury Scared
+                 InputAnalyzer: Dd,P,Da,Dc,N,N
+                      Zaenille: Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,Da,N,Sd
+                        Scared: N,N,N,N,N,Sc
+Final Health:
+                 InputAnalyzer: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Scared InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared InputAnalyzer Zaenille
+Scared: TwentyFourthsAndAHalfCentury InputAnalyzer Zaenille
+Generated: 2014/08/12 08:30:50.388192376 UTC

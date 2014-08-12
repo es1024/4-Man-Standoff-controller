@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sc,N,Sb,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sa,N,Sa,N,Sa,N,Sc
+Final Health:
+                      Pacifist: -1
+                        Monkey: -2
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Scared Monkey
+Monkey: Rule0Bot Scared Pacifist
+Rule0Bot: Monkey Scared Pacifist
+Scared: Monkey Rule0Bot Pacifist
+Generated: 2014/08/12 08:42:04.305878914 UTC

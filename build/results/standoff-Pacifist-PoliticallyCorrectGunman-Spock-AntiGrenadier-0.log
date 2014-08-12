@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Spock AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,Sa,N,Da,N,N,N,N,N,N,N,N,N,N,N,P,Dc,Sc
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -3
+                         Spock: 0
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Spock AntiGrenadier
+PoliticallyCorrectGunman: Pacifist Spock AntiGrenadier
+Spock: Pacifist PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: Pacifist PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 08:22:07.995379677 UTC

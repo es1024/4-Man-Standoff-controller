@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Zaenille Monkey
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 InputAnalyzer: Dd,Dc,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Sb,N,N,N,Sb,N,N,N,N,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+               StraightShooter: -17
+                 InputAnalyzer: -1
+                      Zaenille: -2
+                        Monkey: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey InputAnalyzer Zaenille
+InputAnalyzer: Monkey StraightShooter Zaenille
+Zaenille: Monkey StraightShooter InputAnalyzer
+Monkey: Zaenille StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:39:48.325270493 UTC

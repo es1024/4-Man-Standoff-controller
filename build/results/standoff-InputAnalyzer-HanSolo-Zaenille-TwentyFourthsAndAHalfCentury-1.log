@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Zaenille TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dc,Db,Dc,Sb,N,Sc,N,Sa,N,N,N
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Db,Da,Db,Da,Db,Da,Sb,N,Sb
+Final Health:
+                 InputAnalyzer: -2
+                       HanSolo: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille TwentyFourthsAndAHalfCentury HanSolo
+HanSolo: Zaenille TwentyFourthsAndAHalfCentury InputAnalyzer
+Zaenille: HanSolo TwentyFourthsAndAHalfCentury InputAnalyzer
+TwentyFourthsAndAHalfCentury: HanSolo Zaenille InputAnalyzer
+Generated: 2014/08/12 06:35:59.841524492 UTC

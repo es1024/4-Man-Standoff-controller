@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Monkey Sniper
+                 InputAnalyzer: Dd,Sc,N,P,Sd,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N
+                        Monkey: N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 2
+                        Monkey: -1
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper SimpleShooter Monkey
+SimpleShooter: Sniper InputAnalyzer Monkey
+Monkey: Sniper InputAnalyzer SimpleShooter
+Sniper: Monkey InputAnalyzer SimpleShooter
+Generated: 2014/08/12 07:23:45.001609799 UTC

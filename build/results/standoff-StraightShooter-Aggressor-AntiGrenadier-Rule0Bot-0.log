@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor AntiGrenadier Rule0Bot
+               StraightShooter: Sc,N
+                     Aggressor: P,Ta
+                 AntiGrenadier: N,Sb
+                      Rule0Bot: N,Sb
+Final Health:
+               StraightShooter: -3
+                     Aggressor: -2
+                 AntiGrenadier: 0
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor AntiGrenadier Rule0Bot
+Aggressor: StraightShooter AntiGrenadier Rule0Bot
+AntiGrenadier: StraightShooter Aggressor Rule0Bot
+Rule0Bot: StraightShooter Aggressor AntiGrenadier
+Generated: 2014/08/12 09:49:22.411887194 UTC

@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Bomberman Scared CourageTheDog
+                 DONTNUKEMEBRO: Dc,Db,P,Tb,N
+                     Bomberman: N,N,N,N,N
+                        Scared: Sa,N,N,N,Sd
+                 CourageTheDog: Sa,N,Db,P,Tc
+Final Health:
+                 DONTNUKEMEBRO: 0
+                     Bomberman: -3
+                        Scared: -6
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Scared CourageTheDog Bomberman
+Bomberman: Scared CourageTheDog DONTNUKEMEBRO
+Scared: Bomberman CourageTheDog DONTNUKEMEBRO
+CourageTheDog: Bomberman Scared DONTNUKEMEBRO
+Generated: 2014/08/12 08:15:03.459302878 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Monkey TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 InputAnalyzer: Dd,Sa,N,Dc,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,Dc,Db,Db,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,Da,N,Sb,N,N,N,Da,N,N,N,Dc,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc
+  TwentyFourthsAndAHalfCentury: N,N,Dc,Db,Db,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,N,Dc,Dc,Dc,N,N,Da,Dc,Dc,Dc,Da,Dc,Da,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,Dc,Dc
+Final Health:
+               StraightShooter: -17
+                 InputAnalyzer: -1
+                        Monkey: -15
+  TwentyFourthsAndAHalfCentury: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury InputAnalyzer Monkey
+InputAnalyzer: TwentyFourthsAndAHalfCentury StraightShooter Monkey
+Monkey: TwentyFourthsAndAHalfCentury StraightShooter InputAnalyzer
+TwentyFourthsAndAHalfCentury: Monkey StraightShooter InputAnalyzer
+Generated: 2014/08/12 10:34:38.548655816 UTC

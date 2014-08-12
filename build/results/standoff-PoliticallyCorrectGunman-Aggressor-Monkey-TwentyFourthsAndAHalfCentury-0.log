@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Monkey TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: P,Sa
+                     Aggressor: P,Ta
+                        Monkey: N,Da
+  TwentyFourthsAndAHalfCentury: Da,N
+Final Health:
+      PoliticallyCorrectGunman: -16
+                     Aggressor: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Monkey TwentyFourthsAndAHalfCentury
+Aggressor: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury
+Monkey: PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Aggressor Monkey
+Generated: 2014/08/12 06:55:37.420154427 UTC

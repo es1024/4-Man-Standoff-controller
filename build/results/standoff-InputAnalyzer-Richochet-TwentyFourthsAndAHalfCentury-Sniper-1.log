@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury Sniper
+                 InputAnalyzer: Dc,Db,P,Dd,Sa
+                     Richochet: Sa,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Db,Da,Db,Da,Da
+                        Sniper: Sb,N,Sa,N,Sa
+Final Health:
+                 InputAnalyzer: -10
+                     Richochet: 0
+  TwentyFourthsAndAHalfCentury: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Sniper Richochet
+Richochet: TwentyFourthsAndAHalfCentury Sniper InputAnalyzer
+TwentyFourthsAndAHalfCentury: Richochet Sniper InputAnalyzer
+Sniper: Richochet TwentyFourthsAndAHalfCentury InputAnalyzer
+Generated: 2014/08/12 07:36:38.724828610 UTC

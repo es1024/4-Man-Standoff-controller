@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Da,Da,Dc,Dc,Dc,Da,Da,Da,Dd,N,N,N,N,N,Sc,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,Sa,N,Sc,N,Sa,N,N,Sb,N,N,N,Sa,N,Sb
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Scared Pacifist
+Rule0Bot: TwentyFourthsAndAHalfCentury Scared Pacifist
+Scared: TwentyFourthsAndAHalfCentury Rule0Bot Pacifist
+Generated: 2014/08/12 08:31:48.808222362 UTC

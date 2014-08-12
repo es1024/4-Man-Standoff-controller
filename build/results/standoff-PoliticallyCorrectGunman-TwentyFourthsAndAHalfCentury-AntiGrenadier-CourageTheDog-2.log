@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury AntiGrenadier CourageTheDog
+      PoliticallyCorrectGunman: N,Dd,Db,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da,Dc,Sd,N,Sc,N,Sc,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Da,Sa,N,Db,Db,Sc,N,Db,Db,Sb,N,Db,Db,Db,Db,Db,Db,Sb,N,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -4
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: CourageTheDog PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: CourageTheDog PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+CourageTheDog: AntiGrenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:50:46.632769417 UTC

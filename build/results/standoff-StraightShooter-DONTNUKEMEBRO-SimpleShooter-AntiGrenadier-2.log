@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter AntiGrenadier
+               StraightShooter: Sb,N,Sb,N
+                 DONTNUKEMEBRO: Da,Dc,P,Tc
+                 SimpleShooter: Sb,N,Sa,N
+                 AntiGrenadier: N,N,N,Sb
+Final Health:
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -4
+                 SimpleShooter: -3
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: AntiGrenadier DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: AntiGrenadier StraightShooter SimpleShooter
+SimpleShooter: AntiGrenadier StraightShooter DONTNUKEMEBRO
+AntiGrenadier: SimpleShooter StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 07:52:50.032721982 UTC

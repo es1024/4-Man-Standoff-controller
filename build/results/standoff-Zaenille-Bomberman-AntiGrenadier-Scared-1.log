@@ -1,0 +1,16 @@
+Standoff between: Zaenille Bomberman AntiGrenadier Scared
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,Sb,N,Sc,N,Sb,N,Sb,N,Sc
+Final Health:
+                      Zaenille: -4
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: AntiGrenadier Scared Bomberman
+Bomberman: AntiGrenadier Scared Zaenille
+AntiGrenadier: Bomberman Scared Zaenille
+Scared: Bomberman AntiGrenadier Zaenille
+Generated: 2014/08/12 06:40:51.415712331 UTC

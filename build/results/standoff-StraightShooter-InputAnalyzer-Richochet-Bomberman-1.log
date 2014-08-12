@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Richochet Bomberman
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,Sb,N,N,N,N,N,N
+                     Richochet: Sb,N,Sa,N,Sd,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -2
+                     Richochet: 5
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Bomberman InputAnalyzer
+InputAnalyzer: Richochet Bomberman StraightShooter
+Richochet: InputAnalyzer Bomberman StraightShooter
+Bomberman: InputAnalyzer Richochet StraightShooter
+Generated: 2014/08/12 06:48:10.026089496 UTC

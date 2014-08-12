@@ -1,0 +1,16 @@
+Standoff between: StraightShooter AntiGrenadier Neo CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,Sd,N,N,N
+                 CourageTheDog: Sc,N,Da,Dc,Sa,N,Dc,Da,Da,Sa,N,Dc,Dc,Dc,Sc,N,Sc,N,Sa
+Final Health:
+               StraightShooter: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog AntiGrenadier Neo
+AntiGrenadier: CourageTheDog StraightShooter Neo
+Neo: CourageTheDog StraightShooter AntiGrenadier
+CourageTheDog: Neo StraightShooter AntiGrenadier
+Generated: 2014/08/12 10:06:00.153929020 UTC

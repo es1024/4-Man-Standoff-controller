@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Coward Richochet
+                     Grenadier: N,P,Td
+                       HanSolo: Sc,N,Sc
+                        Coward: Sa,N,Sa
+                     Richochet: Sb,N,Sc
+Final Health:
+                     Grenadier: -2
+                       HanSolo: 0
+                        Coward: -4
+                     Richochet: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Richochet HanSolo
+HanSolo: Coward Richochet Grenadier
+Coward: HanSolo Richochet Grenadier
+Richochet: HanSolo Coward Grenadier
+Generated: 2014/08/12 07:31:46.215235434 UTC

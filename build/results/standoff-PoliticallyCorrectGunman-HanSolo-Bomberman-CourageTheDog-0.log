@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Bomberman CourageTheDog
+      PoliticallyCorrectGunman: Sc,N,Sa,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sb,N,Dc,Db,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -4
+                       HanSolo: -1
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Bomberman CourageTheDog
+HanSolo: PoliticallyCorrectGunman Bomberman CourageTheDog
+Bomberman: PoliticallyCorrectGunman HanSolo CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman HanSolo Bomberman
+Generated: 2014/08/12 05:57:25.229673548 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey AntiGrenadier Neo
+                     Grenadier: N,N,N,N,P,Tb
+                        Monkey: N,N,N,N,N,P
+                 AntiGrenadier: N,N,N,N,N,Sa
+                           Neo: N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                        Monkey: -9
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey AntiGrenadier Neo
+Monkey: Grenadier AntiGrenadier Neo
+AntiGrenadier: Grenadier Monkey Neo
+Neo: Grenadier Monkey AntiGrenadier
+Generated: 2014/08/12 08:45:41.920914647 UTC

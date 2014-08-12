@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward EmoCowboy Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Sa,N,N,Db,N,Db,N,N,N,N,N,N,N,N,N,N,Sb,N,N,Db,N,Db,N,N,N,Db,N,N,N,N,N,N,N,N,Sb,N,Sb
+Final Health:
+               StraightShooter: -1
+                        Coward: -1
+                     EmoCowboy: -4
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward EmoCowboy Neo
+Coward: StraightShooter EmoCowboy Neo
+EmoCowboy: StraightShooter Coward Neo
+Neo: StraightShooter Coward EmoCowboy
+Generated: 2014/08/12 06:33:12.720235901 UTC

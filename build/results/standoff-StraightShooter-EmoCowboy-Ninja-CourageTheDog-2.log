@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Ninja CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Dd,Dc,Da,Db,Dc,Dc,Da,Dd,Dc,Dd,Db,Da,Dd,Da,Dd,Dc,Dd,Dc,Dc,Dd,Dd,Db,Da,Dc,Db,Dd,Da
+                 CourageTheDog: Sa,N,Sc,N,Da,Da,Sa,N,Dc,Dc,Da,Sc,N,Da,Sc,N,N,Sc,N,Dc,Dc,Sa,N,Dc,Sc,N,Dc,Dc,Sc
+Final Health:
+               StraightShooter: -1
+                     EmoCowboy: -4
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog EmoCowboy Ninja
+EmoCowboy: CourageTheDog StraightShooter Ninja
+Ninja: CourageTheDog StraightShooter EmoCowboy
+CourageTheDog: Ninja StraightShooter EmoCowboy
+Generated: 2014/08/12 08:24:46.628589365 UTC

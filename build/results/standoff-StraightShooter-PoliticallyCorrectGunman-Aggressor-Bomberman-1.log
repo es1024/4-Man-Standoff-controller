@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Aggressor Bomberman
+               StraightShooter: Sd,N,Sd
+      PoliticallyCorrectGunman: Da,Dc,N
+                     Aggressor: P,Tb,Sa
+                     Bomberman: N,N,N
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -3
+                     Aggressor: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Bomberman PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Aggressor Bomberman StraightShooter
+Aggressor: PoliticallyCorrectGunman Bomberman StraightShooter
+Bomberman: PoliticallyCorrectGunman Aggressor StraightShooter
+Generated: 2014/08/12 06:37:39.939724402 UTC

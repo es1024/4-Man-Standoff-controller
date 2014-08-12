@@ -1,16 +1,16 @@
 Standoff between: Pacifist HanSolo Spock SimpleShooter
                       Pacifist: N,N,N,N,N,N,N,N,N
-                       HanSolo: Sd,N,Sd,N,Sa,N,N,N,N
-                         Spock: Sd,N,Sd,N,Sb,N,Sa,N,Sa
-                 SimpleShooter: Sb,N,Sb,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,Sa,N,Sb,N,Sb
+                 SimpleShooter: Sb,N,Sa,N,N,N,N,N,N
 Final Health:
                       Pacifist: -1
                        HanSolo: -1
-                         Spock: 5
+                         Spock: 1
                  SimpleShooter: -3
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: SimpleShooter HanSolo Spock
 HanSolo: SimpleShooter Pacifist Spock
 Spock: SimpleShooter Pacifist HanSolo
 SimpleShooter: Spock Pacifist HanSolo
-Generated: 2014/08/11 00:59:01.789089798 UTC
+Generated: 2014/08/12 06:58:21.489428792 UTC

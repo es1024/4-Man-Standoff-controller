@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Ninja CourageTheDog
+      PoliticallyCorrectGunman: N,Dc,N,N,N,N,N,N,N,N,N,N,N,Db,Sa,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Dc,Dc,Da,Db,Dc,Db,Da,Dd,Dc,Dd,Dd,Dc,Da,Dd,Db,Dc,Dc,Dd,Dd,Dc,Da,Db,Dd,Dc
+                 CourageTheDog: Sb,N,Da,Da,Sc,N,Sa,N,N,Da,Da,Dc,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -4
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Zaenille Ninja
+Zaenille: CourageTheDog PoliticallyCorrectGunman Ninja
+Ninja: CourageTheDog PoliticallyCorrectGunman Zaenille
+CourageTheDog: Ninja PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 06:57:19.659636380 UTC

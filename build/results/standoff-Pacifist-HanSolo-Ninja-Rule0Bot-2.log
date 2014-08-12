@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Ninja Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                         Ninja: Da,Dd,Dd,Dd,Da,Da,Da,Dd,Db,Dd,Da,Dc,Da,Db,Db,Dd,Da,Da,Db,Dc,Da
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot HanSolo Ninja
+HanSolo: Rule0Bot Pacifist Ninja
+Ninja: Rule0Bot Pacifist HanSolo
+Rule0Bot: Ninja Pacifist HanSolo
+Generated: 2014/08/12 06:04:45.026250413 UTC

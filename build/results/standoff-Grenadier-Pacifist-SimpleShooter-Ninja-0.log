@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist SimpleShooter Ninja
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tc
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sd,N,Sb,N,Sa,N,Sd,N,Sb
+                         Ninja: Dd,Dc,Da,Dd,Db,Dc,Db,Da,Dd,Db,Da,Db,Db,N,N
+Final Health:
+                     Grenadier: -2
+                      Pacifist: -4
+                 SimpleShooter: -3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist SimpleShooter Ninja
+Pacifist: Grenadier SimpleShooter Ninja
+SimpleShooter: Grenadier Pacifist Ninja
+Ninja: Grenadier Pacifist SimpleShooter
+Generated: 2014/08/12 08:49:29.152918339 UTC

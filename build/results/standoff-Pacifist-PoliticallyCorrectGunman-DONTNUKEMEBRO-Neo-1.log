@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sd,N,Sc,N,Dc,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Da,Db,Dd,Da,Sb,N,Dd,Dd,Db,Db,Da,Dd,Da,Dd,Da,Da,Da,Dd,Dd,Db,Da,Da,Da,Da,Db,Da,Dd,Dd,Da,Dd,Db,Dd,Dd,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                           Neo: N,Da,N,N,Da,N,Da,N,Da,N,N,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,Da,Da,Da,Da,Da,Da,Da,Da,N,N,N,N,N,N,N,N,N,N,Sc,N,N,Dc,Sc
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -1
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO Neo Pacifist
+DONTNUKEMEBRO: PoliticallyCorrectGunman Neo Pacifist
+Neo: PoliticallyCorrectGunman DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 08:23:03.308951601 UTC

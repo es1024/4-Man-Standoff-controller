@@ -1,0 +1,16 @@
+Standoff between: Bomberman Rule0Bot Scared Neo
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,Sa,N,N,N,N,N,N,Sd,N,Sa,N,Sb,N,N,N,N,Sa,N,Sd,N,Sb
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,Db,Db,N,N,Db,Db,N,N,N,N,N,Db,N,N
+Final Health:
+                     Bomberman: -1
+                      Rule0Bot: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: Neo Rule0Bot Scared
+Rule0Bot: Neo Bomberman Scared
+Scared: Neo Bomberman Rule0Bot
+Neo: Scared Bomberman Rule0Bot
+Generated: 2014/08/12 09:03:06.753407495 UTC

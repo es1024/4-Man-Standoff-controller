@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Monkey AntiGrenadier
+                 InputAnalyzer: Dd,Dc,Db,Dd,P,Sb,N,N
+                 DONTNUKEMEBRO: Da,Dc,Da,Dc,Dd,Sa,N,N
+                        Monkey: N,Da,Dc,Dc,Dc,P,Sa,N
+                 AntiGrenadier: N,N,N,N,N,Sa,N,Sc
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 0
+                        Monkey: -6
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier DONTNUKEMEBRO Monkey
+DONTNUKEMEBRO: AntiGrenadier InputAnalyzer Monkey
+Monkey: AntiGrenadier InputAnalyzer DONTNUKEMEBRO
+AntiGrenadier: Monkey InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 06:15:23.775746200 UTC

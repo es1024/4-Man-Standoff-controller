@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Dc,Sd,N,Sd,N,Sa,N,Sa,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Db,Da,Sb,N,Db,Dc,Sa,N,Db,Dc,Sb,N,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: CourageTheDog Pacifist Bomberman
+Bomberman: CourageTheDog Pacifist TwentyFourthsAndAHalfCentury
+CourageTheDog: Bomberman Pacifist TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:31:36.597648812 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Scared Neo
+                     Grenadier: P,Tc,N
+  TwentyFourthsAndAHalfCentury: Dc,Dd,Sd
+                        Scared: Sa,N,N
+                           Neo: N,Da,N
+Final Health:
+                     Grenadier: 0
+  TwentyFourthsAndAHalfCentury: 2
+                        Scared: -3
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Neo Grenadier
+Scared: TwentyFourthsAndAHalfCentury Neo Grenadier
+Neo: TwentyFourthsAndAHalfCentury Scared Grenadier
+Generated: 2014/08/12 05:48:14.101835358 UTC

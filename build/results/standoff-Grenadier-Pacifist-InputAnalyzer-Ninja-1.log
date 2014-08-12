@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist InputAnalyzer Ninja
+                     Grenadier: P,Tc
+                      Pacifist: N,N
+                 InputAnalyzer: Db,P
+                         Ninja: Da,Da
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -1
+                 InputAnalyzer: -9
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Ninja Pacifist
+Pacifist: InputAnalyzer Ninja Grenadier
+InputAnalyzer: Pacifist Ninja Grenadier
+Ninja: Pacifist InputAnalyzer Grenadier
+Generated: 2014/08/12 07:23:57.741866422 UTC

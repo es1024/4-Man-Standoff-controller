@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter EmoCowboy AntiGrenadier
+                 InputAnalyzer: Db,Sd,N,Dd,P,Da
+                 SimpleShooter: Sd,N,Sa,N,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                 SimpleShooter: 2
+                     EmoCowboy: -2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter EmoCowboy AntiGrenadier
+SimpleShooter: InputAnalyzer EmoCowboy AntiGrenadier
+EmoCowboy: InputAnalyzer SimpleShooter AntiGrenadier
+AntiGrenadier: InputAnalyzer SimpleShooter EmoCowboy
+Generated: 2014/08/12 10:45:08.814550127 UTC

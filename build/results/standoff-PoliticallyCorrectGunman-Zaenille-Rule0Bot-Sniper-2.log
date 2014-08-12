@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Rule0Bot Sniper
+      PoliticallyCorrectGunman: Dc,Sd,N,N,N,Db,Sb,N,Dd,Sd,N,Dd,Sc,N,P,N,Sa
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -8
+                      Zaenille: -4
+                      Rule0Bot: 0
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper Zaenille Rule0Bot
+Zaenille: Sniper PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Sniper PoliticallyCorrectGunman Zaenille
+Sniper: Rule0Bot PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 06:07:46.665887184 UTC

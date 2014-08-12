@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Monkey TwentyFourthsAndAHalfCentury
+                        Coward: Sc,N,Sd,N,Sd,N,Dd,Dc,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                        Monkey: N,Sc,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Sa,N,Sa,N,Sa,N,Sa
+Final Health:
+                        Coward: -1
+                      Zaenille: -2
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury Zaenille Monkey
+Zaenille: TwentyFourthsAndAHalfCentury Coward Monkey
+Monkey: TwentyFourthsAndAHalfCentury Coward Zaenille
+TwentyFourthsAndAHalfCentury: Monkey Coward Zaenille
+Generated: 2014/08/12 10:32:52.809221872 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Rule0Bot Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: 5
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Rule0Bot Neo
+Coward: StraightShooter Rule0Bot Neo
+Rule0Bot: StraightShooter Coward Neo
+Neo: StraightShooter Coward Rule0Bot
+Generated: 2014/08/12 06:32:25.813536042 UTC

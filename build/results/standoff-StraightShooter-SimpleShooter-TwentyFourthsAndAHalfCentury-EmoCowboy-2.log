@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 SimpleShooter: Sc,N,Sc,N,Sa,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,N,N,Sa,N,N,N,N,Sa
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: 3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: EmoCowboy StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy StraightShooter SimpleShooter
+EmoCowboy: TwentyFourthsAndAHalfCentury StraightShooter SimpleShooter
+Generated: 2014/08/12 07:07:11.775274365 UTC

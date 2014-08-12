@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Monkey AntiGrenadier
+                        Coward: Sc,N
+                     Aggressor: P,Td
+                        Monkey: N,N
+                 AntiGrenadier: N,Sb
+Final Health:
+                        Coward: 2
+                     Aggressor: 0
+                        Monkey: 0
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier Aggressor Monkey
+Aggressor: AntiGrenadier Coward Monkey
+Monkey: AntiGrenadier Coward Aggressor
+AntiGrenadier: Monkey Coward Aggressor
+Generated: 2014/08/12 08:27:55.245690679 UTC

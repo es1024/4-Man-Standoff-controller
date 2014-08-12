@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Ninja CourageTheDog
+                       HanSolo: Sb,N,Sc,N,Sc,N,Sd,N,Sd,N,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Dd,Da,Dc,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sa,N,Da,Sa,N,Da,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+                      Zaenille: -4
+                         Ninja: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Ninja CourageTheDog
+Zaenille: HanSolo Ninja CourageTheDog
+Ninja: HanSolo Zaenille CourageTheDog
+CourageTheDog: HanSolo Zaenille Ninja
+Generated: 2014/08/12 10:48:29.635027927 UTC

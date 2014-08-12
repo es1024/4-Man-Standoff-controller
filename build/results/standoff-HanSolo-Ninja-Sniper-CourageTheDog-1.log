@@ -1,0 +1,16 @@
+Standoff between: HanSolo Ninja Sniper CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb
+                         Ninja: Db,Da,Dc,Da,Db,Db,Dc,Da,Da,Db,Dd
+                        Sniper: Sd,N,Sb,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Da,Sb,N,Db,Sb,N,N
+Final Health:
+                       HanSolo: 5
+                         Ninja: -1
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper CourageTheDog Ninja
+Ninja: Sniper CourageTheDog HanSolo
+Sniper: Ninja CourageTheDog HanSolo
+CourageTheDog: Ninja Sniper HanSolo
+Generated: 2014/08/12 08:17:58.151355431 UTC

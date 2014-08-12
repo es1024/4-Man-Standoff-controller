@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Ninja Rule0Bot
+                 InputAnalyzer: Dc,Sb,N,Dd,Db,Dc,Db,P,Dd,Da
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sa,N,Sa,N
+                         Ninja: Da,Dd,Dd,Dd,Dd,Dd,Db,Db,Da,Db
+                      Rule0Bot: N,N,N,N,N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -5
+                 SimpleShooter: 0
+                         Ninja: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Rule0Bot SimpleShooter
+SimpleShooter: Ninja Rule0Bot InputAnalyzer
+Ninja: SimpleShooter Rule0Bot InputAnalyzer
+Rule0Bot: SimpleShooter Ninja InputAnalyzer
+Generated: 2014/08/12 06:34:52.515018002 UTC

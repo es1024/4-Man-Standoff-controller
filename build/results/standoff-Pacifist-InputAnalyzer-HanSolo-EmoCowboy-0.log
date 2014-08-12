@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer HanSolo EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dc,Da,Sd,N,Sa,N,P,Sa,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sb,N,Sb,N
+                     EmoCowboy: N,N,N,N,Sd,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -5
+                       HanSolo: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer HanSolo EmoCowboy
+InputAnalyzer: Pacifist HanSolo EmoCowboy
+HanSolo: Pacifist InputAnalyzer EmoCowboy
+EmoCowboy: Pacifist InputAnalyzer HanSolo
+Generated: 2014/08/12 07:53:24.487949122 UTC

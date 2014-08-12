@@ -1,0 +1,16 @@
+Standoff between: Monkey EmoCowboy Neo CourageTheDog
+                        Monkey: N,N,N,N,N,Dc,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Dd,Dd,Da,Dd,Dd,Dd,N,N,N,N,N,N,N,N,Dd,N,Da,N,N,N,N,N,N,N,Dd,Dd,N,Dd,N,N,N,N,N,Dd,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Da,Dc,Dc,Dc,Sc,N,Sa,N,Da,Dc,Dc,Sc,N,Dc,Sa,N,Dc,N,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                        Monkey: -1
+                     EmoCowboy: -2
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: EmoCowboy Neo CourageTheDog
+EmoCowboy: Monkey Neo CourageTheDog
+Neo: Monkey EmoCowboy CourageTheDog
+CourageTheDog: Monkey EmoCowboy Neo
+Generated: 2014/08/12 09:37:26.298026610 UTC

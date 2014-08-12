@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman EmoCowboy Neo
+      PoliticallyCorrectGunman: Sb,N,N,N,N,Sc,N,Sb,N,P,Dd,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Db,Db,Db,Db,Db,Db,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Bomberman: -2
+                     EmoCowboy: -2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Bomberman EmoCowboy
+Bomberman: Neo PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: Neo PoliticallyCorrectGunman Bomberman
+Neo: EmoCowboy PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 10:35:53.357429580 UTC

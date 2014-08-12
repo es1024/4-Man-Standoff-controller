@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor TwentyFourthsAndAHalfCentury Bomberman
+                        Coward: Sb,N,Dd,Dd,Sd
+                     Aggressor: P,Tc,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N
+                     Bomberman: N,N,N,N,N
+Final Health:
+                        Coward: 2
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury Bomberman Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury Bomberman Coward
+TwentyFourthsAndAHalfCentury: Aggressor Bomberman Coward
+Bomberman: Aggressor TwentyFourthsAndAHalfCentury Coward
+Generated: 2014/08/12 10:12:03.351271639 UTC

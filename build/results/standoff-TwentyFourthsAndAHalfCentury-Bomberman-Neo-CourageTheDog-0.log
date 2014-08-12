@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman Neo CourageTheDog
+  TwentyFourthsAndAHalfCentury: Db,N,N,Db,Sc,N,Sc,N,Sb,N,Sd,N,N,Sb,N,N,N,N,N,N,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Da,Da,Dc,Db,Da,Da,Da,Da,Sb,N,Sa,N,N,N,Da,Da,Sa,N,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Bomberman Neo CourageTheDog
+Bomberman: TwentyFourthsAndAHalfCentury Neo CourageTheDog
+Neo: TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+CourageTheDog: TwentyFourthsAndAHalfCentury Bomberman Neo
+Generated: 2014/08/12 10:09:40.570531204 UTC

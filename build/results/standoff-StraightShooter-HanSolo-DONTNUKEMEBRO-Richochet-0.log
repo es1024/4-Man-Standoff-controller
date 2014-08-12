@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo DONTNUKEMEBRO Richochet
+               StraightShooter: Sc,N,Sc,N
+                       HanSolo: Sa,N,Sa,N
+                 DONTNUKEMEBRO: Dd,Dd,P,Td
+                     Richochet: Sc,N,Sb,N
+Final Health:
+               StraightShooter: -2
+                       HanSolo: 0
+                 DONTNUKEMEBRO: -2
+                     Richochet: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo DONTNUKEMEBRO Richochet
+HanSolo: StraightShooter DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: StraightShooter HanSolo Richochet
+Richochet: StraightShooter HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 10:46:00.093233605 UTC

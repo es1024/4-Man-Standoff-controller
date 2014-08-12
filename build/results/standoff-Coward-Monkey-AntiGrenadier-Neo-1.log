@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey AntiGrenadier Neo
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier Neo Monkey
+Monkey: AntiGrenadier Neo Coward
+AntiGrenadier: Monkey Neo Coward
+Neo: Monkey AntiGrenadier Coward
+Generated: 2014/08/12 10:07:46.005760215 UTC

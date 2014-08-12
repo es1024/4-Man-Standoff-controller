@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Rule0Bot Scared
+                     Richochet: Sb,N,Sd,N,Sd,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Scared: N,N,Sc,N,Sa,N,Sc,N,Sa
+Final Health:
+                     Richochet: 1
+                      Zaenille: -4
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Zaenille Rule0Bot Scared
+Zaenille: Richochet Rule0Bot Scared
+Rule0Bot: Richochet Zaenille Scared
+Scared: Richochet Zaenille Rule0Bot
+Generated: 2014/08/12 10:03:23.955944326 UTC

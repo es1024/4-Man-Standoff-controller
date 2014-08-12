@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Zaenille AntiGrenadier Scared
+                 DONTNUKEMEBRO: Dd,Dd,Sd,N,Db,Dd,Sd,N,Db,Dc,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sa,N,Sc,N,Sa,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -2
+                 AntiGrenadier: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Zaenille AntiGrenadier Scared
+Zaenille: DONTNUKEMEBRO AntiGrenadier Scared
+AntiGrenadier: DONTNUKEMEBRO Zaenille Scared
+Scared: DONTNUKEMEBRO Zaenille AntiGrenadier
+Generated: 2014/08/12 08:14:44.330859604 UTC

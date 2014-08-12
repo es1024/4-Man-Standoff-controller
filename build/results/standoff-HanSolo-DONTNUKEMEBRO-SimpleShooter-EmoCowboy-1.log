@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO SimpleShooter EmoCowboy
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dd,Dd,Dc,Dd,Sc,N,Sc,N,Sa
+                 SimpleShooter: Sa,N,Sb,N,Sb,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter EmoCowboy DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter EmoCowboy HanSolo
+SimpleShooter: DONTNUKEMEBRO EmoCowboy HanSolo
+EmoCowboy: DONTNUKEMEBRO SimpleShooter HanSolo
+Generated: 2014/08/12 07:27:14.635826155 UTC

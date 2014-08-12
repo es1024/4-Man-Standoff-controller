@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Richochet Zaenille
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Db,Db,N,N,N,N
+                     Richochet: Sb,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -1
+                     Richochet: 5
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille InputAnalyzer Richochet
+InputAnalyzer: Zaenille StraightShooter Richochet
+Richochet: Zaenille StraightShooter InputAnalyzer
+Zaenille: Richochet StraightShooter InputAnalyzer
+Generated: 2014/08/12 07:27:52.995923189 UTC

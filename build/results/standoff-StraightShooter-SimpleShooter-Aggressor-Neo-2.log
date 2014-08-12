@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Aggressor Neo
+               StraightShooter: Sb,N
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Td
+                           Neo: N,Dc
+Final Health:
+               StraightShooter: 2
+                 SimpleShooter: 0
+                     Aggressor: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo SimpleShooter Aggressor
+SimpleShooter: Neo StraightShooter Aggressor
+Aggressor: Neo StraightShooter SimpleShooter
+Neo: Aggressor StraightShooter SimpleShooter
+Generated: 2014/08/12 08:22:58.258305510 UTC

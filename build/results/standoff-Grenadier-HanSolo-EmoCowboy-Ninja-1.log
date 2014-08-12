@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo EmoCowboy Ninja
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,Tb
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N
+                     EmoCowboy: N,Sc,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Dc,Db,Dc,Da,Da,N,N,N,N,N
+Final Health:
+                     Grenadier: -2
+                       HanSolo: -3
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Ninja HanSolo
+HanSolo: EmoCowboy Ninja Grenadier
+EmoCowboy: HanSolo Ninja Grenadier
+Ninja: HanSolo EmoCowboy Grenadier
+Generated: 2014/08/12 10:00:42.264201251 UTC

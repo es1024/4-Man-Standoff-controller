@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Zaenille AntiGrenadier
+               StraightShooter: Sd,N
+                     Aggressor: P,Ta
+                      Zaenille: Sc,N
+                 AntiGrenadier: N,Sb
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 0
+                      Zaenille: -2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille AntiGrenadier Aggressor
+Aggressor: Zaenille AntiGrenadier StraightShooter
+Zaenille: Aggressor AntiGrenadier StraightShooter
+AntiGrenadier: Aggressor Zaenille StraightShooter
+Generated: 2014/08/12 06:00:25.225771846 UTC

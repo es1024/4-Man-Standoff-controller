@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO Ninja
+                 InputAnalyzer: Db,P,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Dc,Dc,Sa,N,Sd,N,Sa,N,P,Dc,N
+                 DONTNUKEMEBRO: Dd,Db,Sa,N,Db,Da,Da,Db,Db,Dd,Dd,Dd,Db,Db,Dd,Sb,N
+                         Ninja: Da,Db,Da,Db,Da,Da,Dd,Db,Da,Dc,Dc,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -4
+                 DONTNUKEMEBRO: -1
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman DONTNUKEMEBRO Ninja
+PoliticallyCorrectGunman: InputAnalyzer DONTNUKEMEBRO Ninja
+DONTNUKEMEBRO: InputAnalyzer PoliticallyCorrectGunman Ninja
+Ninja: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 07:03:55.903199153 UTC

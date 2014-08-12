@@ -1,0 +1,16 @@
+Standoff between: Spock Coward AntiGrenadier Scared
+                         Spock: Sd,N,Sd,N,Sd,N,Sb
+                        Coward: Sc,N,Sc,N,Sc,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sa,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 1
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared Coward AntiGrenadier
+Coward: Scared Spock AntiGrenadier
+AntiGrenadier: Scared Spock Coward
+Scared: AntiGrenadier Spock Coward
+Generated: 2014/08/12 07:27:43.751699714 UTC

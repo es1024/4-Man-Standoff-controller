@@ -1,0 +1,16 @@
+Standoff between: Ninja AntiGrenadier Rule0Bot Sniper
+                         Ninja: Db,Dc,Dc,Dc,Dc,Da,Dd,Dd,Dd,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Ninja: -1
+                 AntiGrenadier: -15
+                      Rule0Bot: -17
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Ninja: Rule0Bot Sniper AntiGrenadier
+AntiGrenadier: Rule0Bot Sniper Ninja
+Rule0Bot: AntiGrenadier Sniper Ninja
+Sniper: AntiGrenadier Rule0Bot Ninja
+Generated: 2014/08/12 10:47:06.186647403 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+      PoliticallyCorrectGunman: Sd,N,N,N,N,N,N,N,Sd,N,N,P,Sc,N
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N,N,N,Sd,N,Sa,N,Sc,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Db,Dc,Db,Sa,N,Dc,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -7
+  TwentyFourthsAndAHalfCentury: 0
+                      Rule0Bot: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: CourageTheDog PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: CourageTheDog PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+CourageTheDog: Rule0Bot PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:05:15.839748605 UTC

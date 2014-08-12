@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Rule0Bot CourageTheDog
+                     Grenadier: N,N,P,Td
+                      Zaenille: Sb,N,N,N
+                      Rule0Bot: N,N,N,N
+                 CourageTheDog: Sc,N,Da,P
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+                      Rule0Bot: -3
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Zaenille Rule0Bot
+Zaenille: CourageTheDog Grenadier Rule0Bot
+Rule0Bot: CourageTheDog Grenadier Zaenille
+CourageTheDog: Rule0Bot Grenadier Zaenille
+Generated: 2014/08/12 09:07:00.824786974 UTC

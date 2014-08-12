@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Bomberman CourageTheDog
+                 InputAnalyzer: Dc,Sb,N,Dd,Da,Db,Sc,N,P,Db,Sd
+      PoliticallyCorrectGunman: Dc,Sd,N,N,N,Dc,Sb,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Sc,N,Da,N,Dc,Dc,N,Sc
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -4
+                 CourageTheDog: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman CourageTheDog PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Bomberman CourageTheDog InputAnalyzer
+Bomberman: PoliticallyCorrectGunman CourageTheDog InputAnalyzer
+CourageTheDog: PoliticallyCorrectGunman Bomberman InputAnalyzer
+Generated: 2014/08/12 06:58:36.224709111 UTC

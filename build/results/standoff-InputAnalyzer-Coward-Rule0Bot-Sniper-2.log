@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Rule0Bot Sniper
+                 InputAnalyzer: Dd,Dc,P,Dd,N,N,N
+                        Coward: Sc,N,Sc,N,Sa,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                        Coward: 2
+                      Rule0Bot: -3
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Coward Rule0Bot
+Coward: Sniper InputAnalyzer Rule0Bot
+Rule0Bot: Sniper InputAnalyzer Coward
+Sniper: Rule0Bot InputAnalyzer Coward
+Generated: 2014/08/12 10:48:07.061107502 UTC

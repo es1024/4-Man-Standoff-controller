@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Monkey TwentyFourthsAndAHalfCentury
+                     Aggressor: P,Tc,Sd
+                      Zaenille: Sb,N,N
+                        Monkey: N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N
+Final Health:
+                     Aggressor: 2
+                      Zaenille: -2
+                        Monkey: -3
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Monkey TwentyFourthsAndAHalfCentury Zaenille
+Zaenille: Monkey TwentyFourthsAndAHalfCentury Aggressor
+Monkey: Zaenille TwentyFourthsAndAHalfCentury Aggressor
+TwentyFourthsAndAHalfCentury: Zaenille Monkey Aggressor
+Generated: 2014/08/12 07:09:52.538928513 UTC

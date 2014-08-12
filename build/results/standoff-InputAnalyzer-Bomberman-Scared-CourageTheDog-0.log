@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Scared CourageTheDog
+                 InputAnalyzer: Db,Sd,N,Dd,P,Sd
+                     Bomberman: N,N,N,N,N,N
+                        Scared: Sd,N,Sb,N,Sb,N
+                 CourageTheDog: Sa,N,Sc,N,Db,P
+Final Health:
+                 InputAnalyzer: -6
+                     Bomberman: -5
+                        Scared: -3
+                 CourageTheDog: -10
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Scared CourageTheDog
+Bomberman: InputAnalyzer Scared CourageTheDog
+Scared: InputAnalyzer Bomberman CourageTheDog
+CourageTheDog: InputAnalyzer Bomberman Scared
+Generated: 2014/08/12 10:21:05.991001476 UTC

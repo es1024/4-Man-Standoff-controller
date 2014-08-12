@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey TwentyFourthsAndAHalfCentury Scared
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sb
+                        Monkey: N,N,N,Db,Dd,Sd,N,Sc,N,Sc,N,N,N,Sc,N
+  TwentyFourthsAndAHalfCentury: N,N,Db,Dd,Da,Db,Da,Db,Da,Db,Da,N,Db,N,N
+                        Scared: N,Sc,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey TwentyFourthsAndAHalfCentury Scared
+Monkey: SimpleShooter TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: SimpleShooter Monkey Scared
+Scared: SimpleShooter Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:10:20.069226846 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury Ninja
+      PoliticallyCorrectGunman: N,Dc,P,Dd,Dd,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dd,N,Db,N,Db,Dd,N,N,N
+                         Ninja: Db,Db,Da,Db,Db,Db,Dd,Dc,Da,Db,Da
+Final Health:
+      PoliticallyCorrectGunman: -7
+                       HanSolo: 2
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo TwentyFourthsAndAHalfCentury Ninja
+HanSolo: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman HanSolo Ninja
+Ninja: PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:45:25.395379041 UTC

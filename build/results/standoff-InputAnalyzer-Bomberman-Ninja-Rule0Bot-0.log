@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Ninja Rule0Bot
+                 InputAnalyzer: Db,Dd,P,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Dd,Dd,Dc,Dd,Dd,Db,Da,Dc,Db,Db,Da,Dc,Da,Dc,Db,Dd,Da,Dc,Dc,Dd,Db,Dc,Da,Dc,Dc,Da,Dd,Db,Dc,Dd,Dc,Da,Db,Dd,Db,Dd,Dc,Da,Dd,Dc,Dc,Da,Db,Dc,Dd,Dd,Db,Db
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Bomberman: -18
+                         Ninja: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Ninja Rule0Bot
+Bomberman: InputAnalyzer Ninja Rule0Bot
+Ninja: InputAnalyzer Bomberman Rule0Bot
+Rule0Bot: InputAnalyzer Bomberman Ninja
+Generated: 2014/08/12 08:16:27.070262818 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy AntiGrenadier Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     EmoCowboy: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,Da,Dc,Da,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Da,Dc,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,Dc,N,N
+Final Health:
+               StraightShooter: -15
+                     EmoCowboy: -2
+                 AntiGrenadier: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo EmoCowboy AntiGrenadier
+EmoCowboy: Neo StraightShooter AntiGrenadier
+AntiGrenadier: Neo StraightShooter EmoCowboy
+Neo: AntiGrenadier StraightShooter EmoCowboy
+Generated: 2014/08/12 07:09:14.792164519 UTC

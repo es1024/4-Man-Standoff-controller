@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Monkey Rule0Bot
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -2
+                        Monkey: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Zaenille Monkey
+Zaenille: Rule0Bot SimpleShooter Monkey
+Monkey: Rule0Bot SimpleShooter Zaenille
+Rule0Bot: Monkey SimpleShooter Zaenille
+Generated: 2014/08/12 07:25:28.289239475 UTC

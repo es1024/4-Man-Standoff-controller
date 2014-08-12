@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Rule0Bot Scared
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Da,Dc,Da,Dc,Dc,N,N,N,N,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury Rule0Bot Scared
+TwentyFourthsAndAHalfCentury: Coward Rule0Bot Scared
+Rule0Bot: Coward TwentyFourthsAndAHalfCentury Scared
+Scared: Coward TwentyFourthsAndAHalfCentury Rule0Bot
+Generated: 2014/08/12 05:56:51.873803168 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Ninja Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dd,Db,Da,Dc,Dc,Db,Db,Db,Db,Dc,Dd,Dd,Db,Db,Db,Da,Da,Dd,Dc,Dc,Dc,Db,Db,Da,Db,Db,Dd,Dc,Dc,Dc,Da,Da,Db,Da,Da,Dd,Dc,Dc,Dc,Dc,Db,Db,Dc,Db,Da,Dd,Dd,Da
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+                      Zaenille: -2
+                         Ninja: -15
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Rule0Bot Zaenille
+Zaenille: Ninja Rule0Bot Pacifist
+Ninja: Zaenille Rule0Bot Pacifist
+Rule0Bot: Zaenille Ninja Pacifist
+Generated: 2014/08/12 06:39:21.530172721 UTC

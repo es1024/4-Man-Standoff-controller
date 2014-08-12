@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Ninja Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N
+                         Ninja: Da,Dc,Da,Db,Da,Da,Dc,Da,Db,Dc,Dd,Db,Dc,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Dc,N,Dc,Dc,Dc,Sb,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                         Ninja: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Ninja Neo
+HanSolo: Pacifist Ninja Neo
+Ninja: Pacifist HanSolo Neo
+Neo: Pacifist HanSolo Ninja
+Generated: 2014/08/12 06:16:31.195443023 UTC

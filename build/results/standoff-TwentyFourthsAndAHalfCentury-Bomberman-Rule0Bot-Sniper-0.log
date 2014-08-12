@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman Rule0Bot Sniper
+  TwentyFourthsAndAHalfCentury: N,N,N,Db,Dc,Dc,Dd,Dc,Sd,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Bomberman Rule0Bot Sniper
+Bomberman: TwentyFourthsAndAHalfCentury Rule0Bot Sniper
+Rule0Bot: TwentyFourthsAndAHalfCentury Bomberman Sniper
+Sniper: TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+Generated: 2014/08/12 05:49:14.519600449 UTC

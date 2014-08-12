@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey TwentyFourthsAndAHalfCentury Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,N,Sd,N,N,Sa,N,Sa,N,Sa
+                         Ninja: Da,Da,Da,Db,Dd,Dd,Db,Dc,Da,Dc,Dd,Da,Dd,Dd,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Ninja Monkey
+Monkey: TwentyFourthsAndAHalfCentury Ninja Pacifist
+TwentyFourthsAndAHalfCentury: Monkey Ninja Pacifist
+Ninja: Monkey TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 09:41:21.673343566 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter EmoCowboy Scared Neo
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sd,N,Sa,N,Sd,N,N
+                           Neo: N,N,N,N,N,N,N,N,Da,N,N
+Final Health:
+                 SimpleShooter: 1
+                     EmoCowboy: -6
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Neo EmoCowboy
+EmoCowboy: Scared Neo SimpleShooter
+Scared: EmoCowboy Neo SimpleShooter
+Neo: EmoCowboy Scared SimpleShooter
+Generated: 2014/08/12 07:21:34.028912733 UTC

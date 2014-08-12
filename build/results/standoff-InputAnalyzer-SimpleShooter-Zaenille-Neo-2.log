@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Zaenille Neo
+                 InputAnalyzer: Dd,Sc,N,P,N,Sd
+                 SimpleShooter: Sc,N,Sa,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N
+                           Neo: N,Da,Db,Da,Db,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 2
+                      Zaenille: -4
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo SimpleShooter Zaenille
+SimpleShooter: Neo InputAnalyzer Zaenille
+Zaenille: Neo InputAnalyzer SimpleShooter
+Neo: Zaenille InputAnalyzer SimpleShooter
+Generated: 2014/08/12 06:51:19.737885299 UTC

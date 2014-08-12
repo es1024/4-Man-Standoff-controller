@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Zaenille Bomberman
+                 InputAnalyzer: Dc,P,Da,Sb
+                         Spock: Sc,N,Sc,N
+                      Zaenille: Sc,N,N,N
+                     Bomberman: N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 0
+                      Zaenille: -4
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Bomberman Spock
+Spock: Zaenille Bomberman InputAnalyzer
+Zaenille: Spock Bomberman InputAnalyzer
+Bomberman: Spock Zaenille InputAnalyzer
+Generated: 2014/08/12 09:36:08.607081297 UTC

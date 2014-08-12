@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Bomberman Ninja
+                 InputAnalyzer: Db,Dd,Sb,N,P,N,Da
+                        Coward: Sd,N,Sd,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Dc,Dd,Dd,N,N
+Final Health:
+                 InputAnalyzer: -1
+                        Coward: 0
+                     Bomberman: 0
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Bomberman Ninja
+Coward: InputAnalyzer Bomberman Ninja
+Bomberman: InputAnalyzer Coward Ninja
+Ninja: InputAnalyzer Coward Bomberman
+Generated: 2014/08/12 10:10:50.442764788 UTC

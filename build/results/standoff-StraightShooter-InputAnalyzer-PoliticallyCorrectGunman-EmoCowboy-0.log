@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman EmoCowboy
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+                 InputAnalyzer: Da,Dd,Dd,Da,P,Da,N
+      PoliticallyCorrectGunman: N,P,Sc,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -4
+      PoliticallyCorrectGunman: -10
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer PoliticallyCorrectGunman EmoCowboy
+InputAnalyzer: StraightShooter PoliticallyCorrectGunman EmoCowboy
+PoliticallyCorrectGunman: StraightShooter InputAnalyzer EmoCowboy
+EmoCowboy: StraightShooter InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 10:02:57.127979842 UTC

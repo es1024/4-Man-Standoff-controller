@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Spock Monkey
+                     Grenadier: N,N,N,N,N,N,N,P,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,N,Sa,N,N,N,Sa,N,N,N
+Final Health:
+                     Grenadier: -7
+                      Pacifist: 0
+                         Spock: 2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist Spock Monkey
+Pacifist: Grenadier Spock Monkey
+Spock: Grenadier Pacifist Monkey
+Monkey: Grenadier Pacifist Spock
+Generated: 2014/08/12 07:53:38.891381694 UTC

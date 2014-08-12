@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Richochet Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                     Richochet: Sd,N,Sd,N,Sb,N,Sd,N,Sb,N,Sb
+                         Ninja: Db,Db,Dd,Dc,Dc,Dc,Db,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                     Richochet: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Richochet Ninja
+HanSolo: Pacifist Richochet Ninja
+Richochet: Pacifist HanSolo Ninja
+Ninja: Pacifist HanSolo Richochet
+Generated: 2014/08/12 09:10:14.324964947 UTC

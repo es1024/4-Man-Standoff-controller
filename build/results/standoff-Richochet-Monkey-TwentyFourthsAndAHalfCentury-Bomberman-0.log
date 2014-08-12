@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey TwentyFourthsAndAHalfCentury Bomberman
+                     Richochet: Sd,N,Sc,N,Sb,N,Sc,N,Sc,N,Sb,N,Sd,N,Sd
+                        Monkey: N,N,N,Dd,N,N,N,N,Db,Db,N,Sb,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Dd,Db,Db,Db,Dd,Db,Dd,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey TwentyFourthsAndAHalfCentury Bomberman
+Monkey: Richochet TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Richochet Monkey Bomberman
+Bomberman: Richochet Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:36:14.331121066 UTC

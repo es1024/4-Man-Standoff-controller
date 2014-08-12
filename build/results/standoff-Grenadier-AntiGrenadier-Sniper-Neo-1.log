@@ -1,0 +1,16 @@
+Standoff between: Grenadier AntiGrenadier Sniper Neo
+                     Grenadier: N,N,P,Tc
+                 AntiGrenadier: N,N,N,Sa
+                        Sniper: Sb,N,Sb,N
+                           Neo: N,N,N,Da
+Final Health:
+                     Grenadier: 0
+                 AntiGrenadier: -2
+                        Sniper: -3
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Neo AntiGrenadier
+AntiGrenadier: Sniper Neo Grenadier
+Sniper: AntiGrenadier Neo Grenadier
+Neo: AntiGrenadier Sniper Grenadier
+Generated: 2014/08/12 09:38:44.972226983 UTC

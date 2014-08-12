@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Richochet Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Dc,Sc,N
+                     Richochet: Sa,N,Sb,N,Sd,N,Sb,N,Sb,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: -1
+                     Richochet: 3
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Monkey Coward
+Coward: Richochet Monkey Pacifist
+Richochet: Coward Monkey Pacifist
+Monkey: Coward Richochet Pacifist
+Generated: 2014/08/12 09:40:26.957626709 UTC

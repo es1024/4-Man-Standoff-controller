@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Monkey Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,Sc,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                        Monkey: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey Sniper SimpleShooter
+SimpleShooter: Monkey Sniper Pacifist
+Monkey: SimpleShooter Sniper Pacifist
+Sniper: SimpleShooter Monkey Pacifist
+Generated: 2014/08/12 09:29:27.691579864 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Bomberman EmoCowboy
+                     Grenadier: N,P,Tc,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,N,N,N,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman EmoCowboy TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman EmoCowboy Grenadier
+Bomberman: TwentyFourthsAndAHalfCentury EmoCowboy Grenadier
+EmoCowboy: TwentyFourthsAndAHalfCentury Bomberman Grenadier
+Generated: 2014/08/12 09:15:27.635033333 UTC

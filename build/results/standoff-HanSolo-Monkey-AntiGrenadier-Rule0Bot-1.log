@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey AntiGrenadier Rule0Bot
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,Sd,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Rule0Bot Monkey
+Monkey: AntiGrenadier Rule0Bot HanSolo
+AntiGrenadier: Monkey Rule0Bot HanSolo
+Rule0Bot: Monkey AntiGrenadier HanSolo
+Generated: 2014/08/12 09:53:25.804394929 UTC

@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman EmoCowboy Scared
+  TwentyFourthsAndAHalfCentury: N,Db,Db,Db,Dd,Db,Dd,Db,Db,Db,Db,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sb,N,Sa,N,Sa,N,Sa,N,Sb
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                     EmoCowboy: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Scared Bomberman EmoCowboy
+Bomberman: Scared TwentyFourthsAndAHalfCentury EmoCowboy
+EmoCowboy: Scared TwentyFourthsAndAHalfCentury Bomberman
+Scared: EmoCowboy TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 09:26:04.475549792 UTC

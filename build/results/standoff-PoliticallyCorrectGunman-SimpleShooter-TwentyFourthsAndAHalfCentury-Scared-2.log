@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter TwentyFourthsAndAHalfCentury Scared
+      PoliticallyCorrectGunman: N,Db,Db,P,Tb
+                 SimpleShooter: Sc,N,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Da,Dd
+                        Scared: Sb,N,Sa,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: -5
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Scared PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared PoliticallyCorrectGunman SimpleShooter
+Scared: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 10:18:37.329333847 UTC

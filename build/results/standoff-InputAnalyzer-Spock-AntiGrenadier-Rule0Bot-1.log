@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock AntiGrenadier Rule0Bot
+                 InputAnalyzer: Dc,Db,P,Sc,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,N,N,N,N,N,Sd
+                 AntiGrenadier: N,N,N,Sa,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                         Spock: 2
+                 AntiGrenadier: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Rule0Bot Spock
+Spock: AntiGrenadier Rule0Bot InputAnalyzer
+AntiGrenadier: Spock Rule0Bot InputAnalyzer
+Rule0Bot: Spock AntiGrenadier InputAnalyzer
+Generated: 2014/08/12 10:05:48.598433849 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Ninja Scared
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Td
+                         Ninja: Dd,Db
+                        Scared: Sa,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 2
+                         Ninja: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Aggressor Ninja
+Aggressor: Scared SimpleShooter Ninja
+Ninja: Scared SimpleShooter Aggressor
+Scared: Ninja SimpleShooter Aggressor
+Generated: 2014/08/12 10:12:30.346997346 UTC

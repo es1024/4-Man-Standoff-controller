@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury EmoCowboy Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Sa,N,Sd,N,Sd,N,Sa,N
+                     EmoCowboy: N,N,N,Sc,N,N,N,N,N,N
+                        Scared: N,N,N,Sb,N,Sa,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury EmoCowboy Scared
+TwentyFourthsAndAHalfCentury: Pacifist EmoCowboy Scared
+EmoCowboy: Pacifist TwentyFourthsAndAHalfCentury Scared
+Scared: Pacifist TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 08:41:11.448038757 UTC

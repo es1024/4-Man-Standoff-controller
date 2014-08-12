@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Scared Neo
+                         Spock: Sb,N,Sb,N,Sb,N
+                 SimpleShooter: Sd,N,Sc,N,Sc,N
+                        Scared: Sa,N,Sd,N,Sa,N
+                           Neo: N,Sa,N,N,Dc,Sc
+Final Health:
+                         Spock: -1
+                 SimpleShooter: -1
+                        Scared: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Scared Neo
+SimpleShooter: Spock Scared Neo
+Scared: Spock SimpleShooter Neo
+Neo: Spock SimpleShooter Scared
+Generated: 2014/08/12 08:46:36.991583430 UTC

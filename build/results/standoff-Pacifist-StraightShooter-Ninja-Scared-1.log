@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Ninja Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                         Ninja: Da,Da,Dc,Dd,Dc,Da,Db,Da,Dc,Dc,Da,Db,Dc,Dc,Db,Da,Dd,Db,Db,Dc,Db,Dd,Da,Db,Dc,Dd,Da,Db,Dc,Dc,Dc,Dc,Db,Db,Da,Dd,Dd,Db,Db,Da,Dc,Dd,Da,Db,Da,Dc,Dd,Db,Da,Db
+                        Scared: Sa,N,Sb,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -17
+               StraightShooter: -17
+                         Ninja: -17
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Scared StraightShooter
+StraightShooter: Ninja Scared Pacifist
+Ninja: StraightShooter Scared Pacifist
+Scared: StraightShooter Ninja Pacifist
+Generated: 2014/08/12 08:21:29.190434545 UTC

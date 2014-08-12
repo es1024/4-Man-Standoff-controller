@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Bomberman Neo
+      PoliticallyCorrectGunman: N,Sc,N,N,Dd,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: 5
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman Neo Coward
+Coward: Bomberman Neo PoliticallyCorrectGunman
+Bomberman: Coward Neo PoliticallyCorrectGunman
+Neo: Coward Bomberman PoliticallyCorrectGunman
+Generated: 2014/08/12 07:17:46.142938737 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter HanSolo TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,Sb,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter HanSolo TwentyFourthsAndAHalfCentury
+StraightShooter: Pacifist HanSolo TwentyFourthsAndAHalfCentury
+HanSolo: Pacifist StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist StraightShooter HanSolo
+Generated: 2014/08/12 07:44:09.403001732 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Ninja Scared
+                     Richochet: Sd,N,Sd,N,Sc,N,Sb,N,Sc,N,Sc,N,Sb,N,Sc
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N,N,Da,Sb,N
+                         Ninja: Dd,Dc,Db,Da,Da,Dd,Db,Db,Dc,Da,Dd,Da,Dc,Dc,Db
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -2
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Scared Monkey
+Monkey: Ninja Scared Richochet
+Ninja: Monkey Scared Richochet
+Scared: Monkey Ninja Richochet
+Generated: 2014/08/12 07:23:50.631871377 UTC

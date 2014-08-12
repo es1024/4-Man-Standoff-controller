@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Richochet EmoCowboy
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc
+                        Coward: Sd,N,Dd,N,N,N,N
+                     Richochet: Sb,N,Sa,N,Sa,N,Sa
+                     EmoCowboy: N,N,N,Sd,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: -1
+                     Richochet: 1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Richochet EmoCowboy
+Coward: HanSolo Richochet EmoCowboy
+Richochet: HanSolo Coward EmoCowboy
+EmoCowboy: HanSolo Coward Richochet
+Generated: 2014/08/12 08:57:19.761084996 UTC

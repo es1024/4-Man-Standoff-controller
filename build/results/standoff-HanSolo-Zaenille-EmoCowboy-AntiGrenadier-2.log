@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille EmoCowboy AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                      Zaenille: -2
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Zaenille EmoCowboy
+Zaenille: AntiGrenadier HanSolo EmoCowboy
+EmoCowboy: AntiGrenadier HanSolo Zaenille
+AntiGrenadier: EmoCowboy HanSolo Zaenille
+Generated: 2014/08/12 10:45:35.266750933 UTC

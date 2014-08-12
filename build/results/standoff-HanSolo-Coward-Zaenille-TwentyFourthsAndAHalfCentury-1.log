@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Zaenille TwentyFourthsAndAHalfCentury
+                       HanSolo: Sc,N,Sd,N,Sd,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 5
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille TwentyFourthsAndAHalfCentury Coward
+Coward: Zaenille TwentyFourthsAndAHalfCentury HanSolo
+Zaenille: Coward TwentyFourthsAndAHalfCentury HanSolo
+TwentyFourthsAndAHalfCentury: Coward Zaenille HanSolo
+Generated: 2014/08/12 09:58:29.815722250 UTC

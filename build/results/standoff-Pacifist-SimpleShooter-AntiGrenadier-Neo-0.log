@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter AntiGrenadier Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sd,N,Sc,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter AntiGrenadier Neo
+SimpleShooter: Pacifist AntiGrenadier Neo
+AntiGrenadier: Pacifist SimpleShooter Neo
+Neo: Pacifist SimpleShooter AntiGrenadier
+Generated: 2014/08/12 06:57:57.652041764 UTC

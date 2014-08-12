@@ -1,0 +1,16 @@
+Standoff between: Spock EmoCowboy Scared Neo
+                         Spock: Sb,N,Sc,N,Sc,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Sc,N,N,N,N,N,N,N,N,Da,N,N,Da,N,Da,N,N
+Final Health:
+                         Spock: 3
+                     EmoCowboy: -6
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: EmoCowboy Scared Neo
+EmoCowboy: Spock Scared Neo
+Scared: Spock EmoCowboy Neo
+Neo: Spock EmoCowboy Scared
+Generated: 2014/08/12 08:27:48.598376611 UTC

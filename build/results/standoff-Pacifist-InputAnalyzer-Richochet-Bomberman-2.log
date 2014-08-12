@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Richochet Bomberman
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dd,P,N,Dd,N
+                     Richochet: Sb,N,Sa,N,Sd
+                     Bomberman: N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                     Richochet: 2
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman InputAnalyzer Richochet
+InputAnalyzer: Bomberman Pacifist Richochet
+Richochet: Bomberman Pacifist InputAnalyzer
+Bomberman: Richochet Pacifist InputAnalyzer
+Generated: 2014/08/12 10:04:24.010522410 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,P,Dd,Da
+                 DONTNUKEMEBRO: Da,Db,Sd,N,Db
+                 CourageTheDog: Sc,N,Db,N,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: 0
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO CourageTheDog InputAnalyzer
+InputAnalyzer: DONTNUKEMEBRO CourageTheDog StraightShooter
+DONTNUKEMEBRO: InputAnalyzer CourageTheDog StraightShooter
+CourageTheDog: InputAnalyzer DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/12 10:06:59.053525685 UTC

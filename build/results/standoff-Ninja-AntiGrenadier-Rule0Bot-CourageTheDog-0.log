@@ -1,0 +1,16 @@
+Standoff between: Ninja AntiGrenadier Rule0Bot CourageTheDog
+                         Ninja: Da,Da,Dc,Db,Dd,Db,Da,Da,Dc,Db,Db,Da,Db,Da,Dd,Dd,Da,Db,Db,Dc,Dd,Da,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Dc,Sc,N,Sa,N,Da,Dc,N,Sa,N,N,Da,Db,Db,N,Sb,N,Dc,Sa,N,Sb,N,Dc,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Sc
+Final Health:
+                         Ninja: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Ninja: AntiGrenadier Rule0Bot CourageTheDog
+AntiGrenadier: Ninja Rule0Bot CourageTheDog
+Rule0Bot: Ninja AntiGrenadier CourageTheDog
+CourageTheDog: Ninja AntiGrenadier Rule0Bot
+Generated: 2014/08/12 07:59:23.188869252 UTC

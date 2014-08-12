@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet TwentyFourthsAndAHalfCentury Ninja
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sb,N,Sd,N,Sb,N,Sc,N,Sb
+                     Richochet: Sd,N,Sa,N,Sc,N,Sa,N,Sd,N,Sd,N,Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Dd,Dd,Dd,Dd,Db,Dd,Da,N,Db,N,N
+                         Ninja: Da,Da,Dc,Dd,Dd,Dd,Dd,Dc,Da,Dc,Dd,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet TwentyFourthsAndAHalfCentury Ninja
+Richochet: SimpleShooter TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: SimpleShooter Richochet Ninja
+Ninja: SimpleShooter Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:20:30.952653090 UTC

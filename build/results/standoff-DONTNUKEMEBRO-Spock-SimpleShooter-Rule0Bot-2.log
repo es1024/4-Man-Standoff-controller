@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock SimpleShooter Rule0Bot
+                 DONTNUKEMEBRO: Dd,Dc,Dc,Dd,Sc,N,Sc,N,Sb,N,Dc,Dd,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,Sa,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sa,N,Sb,N,Sb,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: -3
+                 SimpleShooter: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Rule0Bot Spock SimpleShooter
+Spock: Rule0Bot DONTNUKEMEBRO SimpleShooter
+SimpleShooter: Rule0Bot DONTNUKEMEBRO Spock
+Rule0Bot: SimpleShooter DONTNUKEMEBRO Spock
+Generated: 2014/08/12 05:57:19.123188988 UTC

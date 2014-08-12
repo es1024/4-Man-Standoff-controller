@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Monkey TwentyFourthsAndAHalfCentury
+                     Aggressor: P,Tc,N
+                     Richochet: Sa,N,Sd
+                        Monkey: N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+                        Monkey: -3
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Monkey TwentyFourthsAndAHalfCentury Richochet
+Richochet: Monkey TwentyFourthsAndAHalfCentury Aggressor
+Monkey: Richochet TwentyFourthsAndAHalfCentury Aggressor
+TwentyFourthsAndAHalfCentury: Richochet Monkey Aggressor
+Generated: 2014/08/12 06:14:00.534872882 UTC

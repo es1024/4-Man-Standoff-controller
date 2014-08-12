@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Monkey Neo
+                 InputAnalyzer: Dd,Db,Dd,Dc,Sd,N,Dd,Dd,Da,Da,Dc,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sa,N,Sd
+                        Monkey: N,N,N,N,Da,Sd,N,Sc,N,N,N,N,N
+                           Neo: N,N,N,Da,Db,N,Db,N,Db,N,N,Sb,N
+Final Health:
+                 InputAnalyzer: -1
+                 SimpleShooter: 3
+                        Monkey: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo SimpleShooter Monkey
+SimpleShooter: Neo InputAnalyzer Monkey
+Monkey: Neo InputAnalyzer SimpleShooter
+Neo: Monkey InputAnalyzer SimpleShooter
+Generated: 2014/08/12 07:45:12.694628806 UTC

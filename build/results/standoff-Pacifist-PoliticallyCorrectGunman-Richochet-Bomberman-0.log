@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Richochet Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sb,N,Sb,N,Sb,N,Sa,N,Sd,N,Sa,N,Sa,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+                     Richochet: 3
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Richochet Bomberman
+PoliticallyCorrectGunman: Pacifist Richochet Bomberman
+Richochet: Pacifist PoliticallyCorrectGunman Bomberman
+Bomberman: Pacifist PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 10:21:46.460545786 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Spock CourageTheDog
+                     Grenadier: N,N,N,N,N,P,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,P,Dd,Dc
+                         Spock: N,N,N,N,N,Sb,N,Sb
+                 CourageTheDog: Sb,N,Db,Dc,Sa,N,P,Tb
+Final Health:
+                     Grenadier: -9
+      PoliticallyCorrectGunman: -16
+                         Spock: -4
+                 CourageTheDog: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock CourageTheDog PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Spock CourageTheDog Grenadier
+Spock: PoliticallyCorrectGunman CourageTheDog Grenadier
+CourageTheDog: PoliticallyCorrectGunman Spock Grenadier
+Generated: 2014/08/12 08:04:17.668069371 UTC

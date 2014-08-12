@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO SimpleShooter Zaenille
+                 InputAnalyzer: Dc,Db,Sc,N,Db,P,Sd
+                 DONTNUKEMEBRO: Dd,Dd,Dd,Dd,Dd,Dd,Sa
+                 SimpleShooter: Sa,N,Sa,N,Sb,N,Sa
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 0
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Zaenille DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Zaenille InputAnalyzer
+SimpleShooter: DONTNUKEMEBRO Zaenille InputAnalyzer
+Zaenille: DONTNUKEMEBRO SimpleShooter InputAnalyzer
+Generated: 2014/08/12 09:14:53.060895656 UTC

@@ -1,0 +1,16 @@
+Standoff between: Monkey Bomberman AntiGrenadier Scared
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,N,N,N,N,N,N,Sc,N,Sb,N,Sc,N,Sa,N,N,Sa,N,Sc,N,Sb
+Final Health:
+                        Monkey: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Bomberman AntiGrenadier Scared
+Bomberman: Monkey AntiGrenadier Scared
+AntiGrenadier: Monkey Bomberman Scared
+Scared: Monkey Bomberman AntiGrenadier
+Generated: 2014/08/12 09:10:22.801108682 UTC

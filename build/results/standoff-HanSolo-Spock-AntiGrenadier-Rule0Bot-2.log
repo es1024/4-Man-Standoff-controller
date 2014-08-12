@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock AntiGrenadier Rule0Bot
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Spock AntiGrenadier
+Spock: Rule0Bot HanSolo AntiGrenadier
+AntiGrenadier: Rule0Bot HanSolo Spock
+Rule0Bot: AntiGrenadier HanSolo Spock
+Generated: 2014/08/12 05:59:33.512631715 UTC

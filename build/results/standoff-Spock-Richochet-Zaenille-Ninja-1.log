@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Zaenille Ninja
+                         Spock: Sc,N,Sc,N,Sd,N,Sd,N,Sc
+                     Richochet: Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Da,Db,Db,Dc,Dd,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                      Zaenille: -4
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Zaenille Ninja Richochet
+Richochet: Zaenille Ninja Spock
+Zaenille: Richochet Ninja Spock
+Ninja: Richochet Zaenille Spock
+Generated: 2014/08/12 07:01:35.333379343 UTC

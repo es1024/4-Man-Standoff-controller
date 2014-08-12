@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Ninja AntiGrenadier
+                     Grenadier: N,P,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sd
+                         Ninja: Da,Dc,Dd,Db,N,N,N
+                 AntiGrenadier: N,N,Sa,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                         Spock: 2
+                         Ninja: -2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja AntiGrenadier Spock
+Spock: Ninja AntiGrenadier Grenadier
+Ninja: Spock AntiGrenadier Grenadier
+AntiGrenadier: Spock Ninja Grenadier
+Generated: 2014/08/12 09:39:48.156350449 UTC

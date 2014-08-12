@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Monkey EmoCowboy
+                     Richochet: Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N
+                        Monkey: N,Sd,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -2
+                        Monkey: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey EmoCowboy Zaenille
+Zaenille: Monkey EmoCowboy Richochet
+Monkey: Zaenille EmoCowboy Richochet
+EmoCowboy: Zaenille Monkey Richochet
+Generated: 2014/08/12 10:14:06.854603864 UTC

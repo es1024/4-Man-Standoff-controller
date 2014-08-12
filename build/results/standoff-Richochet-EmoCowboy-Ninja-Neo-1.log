@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy Ninja Neo
+                     Richochet: Sb,N,Sb,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc
+                     EmoCowboy: N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Da,Dd,Da,Db,Da,Da,Dd,Db,Dd,Db,Dc,Db,Da,Dc,Db,Dc,Db
+                           Neo: N,N,N,N,N,Dc,N,Dc,Da,Dc,N,N,N,N,N,Dc,N,N,N
+Final Health:
+                     Richochet: 5
+                     EmoCowboy: -4
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Neo EmoCowboy
+EmoCowboy: Ninja Neo Richochet
+Ninja: EmoCowboy Neo Richochet
+Neo: EmoCowboy Ninja Richochet
+Generated: 2014/08/12 09:41:21.095133792 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Bomberman Ninja
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,Tb,P,Tc
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Dd,Sd,N,Dd,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Db,Dd,Db,Dc,Db,Da,Db,Dc,Db,Dc,N,N
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: -3
+                     Bomberman: -6
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Bomberman Ninja
+PoliticallyCorrectGunman: Grenadier Bomberman Ninja
+Bomberman: Grenadier PoliticallyCorrectGunman Ninja
+Ninja: Grenadier PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 06:03:50.103595142 UTC

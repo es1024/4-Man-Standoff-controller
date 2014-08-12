@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury AntiGrenadier Neo
+      PoliticallyCorrectGunman: N,N,Sb,N,N,N,N,N,N,N,N,N,Db,P,Dc,Dd
+  TwentyFourthsAndAHalfCentury: Da,Da,Sa,N,N,N,N,N,N,N,N,Sd,N,Sc,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,Db,Da,Db,Da,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+  TwentyFourthsAndAHalfCentury: 0
+                 AntiGrenadier: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Neo PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: Neo PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Neo: AntiGrenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:06:03.701746159 UTC

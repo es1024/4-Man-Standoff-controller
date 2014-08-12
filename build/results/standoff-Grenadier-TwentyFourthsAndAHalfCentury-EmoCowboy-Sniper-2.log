@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy Sniper
+                     Grenadier: N,N,N,N,N,P,Td
+  TwentyFourthsAndAHalfCentury: N,Da,N,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 2
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+                        Sniper: -7
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Sniper Grenadier EmoCowboy
+EmoCowboy: Sniper Grenadier TwentyFourthsAndAHalfCentury
+Sniper: EmoCowboy Grenadier TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:58:53.798988758 UTC

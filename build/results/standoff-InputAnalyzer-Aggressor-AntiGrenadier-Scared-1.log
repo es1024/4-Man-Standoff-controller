@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor AntiGrenadier Scared
+                 InputAnalyzer: Dc,Dd,P
+                     Aggressor: P,Tc,N
+                 AntiGrenadier: N,Sb,N
+                        Scared: Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -6
+                     Aggressor: -2
+                 AntiGrenadier: -3
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Scared Aggressor
+Aggressor: AntiGrenadier Scared InputAnalyzer
+AntiGrenadier: Aggressor Scared InputAnalyzer
+Scared: Aggressor AntiGrenadier InputAnalyzer
+Generated: 2014/08/12 10:30:58.064965775 UTC

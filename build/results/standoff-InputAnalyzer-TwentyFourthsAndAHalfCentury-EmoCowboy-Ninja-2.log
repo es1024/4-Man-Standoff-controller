@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+                 InputAnalyzer: Dd,Dc,Sd,N,Dd,P,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Sa,N
+                     EmoCowboy: N,N,N,N,N,N,Sc,N
+                         Ninja: Db,Da,Db,Dd,Db,Db,Dd,Db
+Final Health:
+                 InputAnalyzer: -3
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Ninja InputAnalyzer EmoCowboy
+EmoCowboy: Ninja InputAnalyzer TwentyFourthsAndAHalfCentury
+Ninja: EmoCowboy InputAnalyzer TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:04:35.801293840 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Ninja Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N
+                         Ninja: Dd,Da,Db,Dc,Dd,Db,Dd,Dc,Dd,Db,Dc,Dd,Dd,Db,Da,Dd,Db,Dc,N
+                        Scared: N,N,N,N,N,N,N,N,Sc,N,Sb,N,Sc,N,Sc,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Ninja Scared
+Spock: Pacifist Ninja Scared
+Ninja: Pacifist Spock Scared
+Scared: Pacifist Spock Ninja
+Generated: 2014/08/12 08:01:48.425283018 UTC

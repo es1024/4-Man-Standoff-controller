@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Monkey Neo
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Db,N,Db,Dc,N,Dc,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,Dc,Db,N,N,N,N,N,N,N,N,N,Db,N,Db,Dc,Db,Dc,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -5
+               StraightShooter: -18
+                        Monkey: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo StraightShooter Monkey
+StraightShooter: Neo Grenadier Monkey
+Monkey: Neo Grenadier StraightShooter
+Neo: Monkey Grenadier StraightShooter
+Generated: 2014/08/12 09:52:15.258112027 UTC

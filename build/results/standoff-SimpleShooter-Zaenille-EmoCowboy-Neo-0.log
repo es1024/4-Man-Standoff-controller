@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille EmoCowboy Neo
+                 SimpleShooter: Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                           Neo: N,Sa,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                      Zaenille: -2
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille EmoCowboy Neo
+Zaenille: SimpleShooter EmoCowboy Neo
+EmoCowboy: SimpleShooter Zaenille Neo
+Neo: SimpleShooter Zaenille EmoCowboy
+Generated: 2014/08/12 07:42:05.892204791 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman HanSolo Richochet
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,Sa,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sb,N,Sb,N,Sd,N,Sd
+                     Richochet: Sa,N,Sb,N,Sc,N,Sb,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -3
+                       HanSolo: -1
+                     Richochet: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman HanSolo Richochet
+PoliticallyCorrectGunman: Pacifist HanSolo Richochet
+HanSolo: Pacifist PoliticallyCorrectGunman Richochet
+Richochet: Pacifist PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 06:13:31.115505973 UTC

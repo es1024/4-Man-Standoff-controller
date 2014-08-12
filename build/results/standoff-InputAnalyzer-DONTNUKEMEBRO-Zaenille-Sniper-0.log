@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Zaenille Sniper
+                 InputAnalyzer: Db,Dd,Sb,N,P,Dc,Db
+                 DONTNUKEMEBRO: Dc,Dd,Sd,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Sniper: Sb,N,N,Sb,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Zaenille Sniper
+DONTNUKEMEBRO: InputAnalyzer Zaenille Sniper
+Zaenille: InputAnalyzer DONTNUKEMEBRO Sniper
+Sniper: InputAnalyzer DONTNUKEMEBRO Zaenille
+Generated: 2014/08/12 09:54:49.238702333 UTC

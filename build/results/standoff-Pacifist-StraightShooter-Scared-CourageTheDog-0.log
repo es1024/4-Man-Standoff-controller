@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Scared CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Sa,N,Db,Db,Db,Db,Db,Sb,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                        Scared: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Scared CourageTheDog
+StraightShooter: Pacifist Scared CourageTheDog
+Scared: Pacifist StraightShooter CourageTheDog
+CourageTheDog: Pacifist StraightShooter Scared
+Generated: 2014/08/12 08:17:56.439633490 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Monkey Ninja
+                 InputAnalyzer: Dc,P,Da,Dd
+                     Richochet: Sd,N,Sc,N
+                        Monkey: N,N,N,N
+                         Ninja: Dd,Db,Dc,Dd
+Final Health:
+                 InputAnalyzer: -1
+                     Richochet: 2
+                        Monkey: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Ninja Richochet
+Richochet: Monkey Ninja InputAnalyzer
+Monkey: Richochet Ninja InputAnalyzer
+Ninja: Richochet Monkey InputAnalyzer
+Generated: 2014/08/12 07:34:27.282356567 UTC

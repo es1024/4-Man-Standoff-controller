@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman Sniper Scared
+                     Grenadier: N,P,Tc
+                     Bomberman: N,N,N
+                        Sniper: Sa,N,Sd
+                        Scared: Sb,N,Sa
+Final Health:
+                     Grenadier: -2
+                     Bomberman: 0
+                        Sniper: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Scared Bomberman
+Bomberman: Sniper Scared Grenadier
+Sniper: Bomberman Scared Grenadier
+Scared: Bomberman Sniper Grenadier
+Generated: 2014/08/12 08:13:07.901799962 UTC

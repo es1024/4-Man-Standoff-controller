@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Rule0Bot Sniper
+                         Spock: Sc,N,Sc,N,Sd,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sa,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                      Rule0Bot: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot Sniper SimpleShooter
+SimpleShooter: Rule0Bot Sniper Spock
+Rule0Bot: SimpleShooter Sniper Spock
+Sniper: SimpleShooter Rule0Bot Spock
+Generated: 2014/08/12 09:20:55.642479794 UTC

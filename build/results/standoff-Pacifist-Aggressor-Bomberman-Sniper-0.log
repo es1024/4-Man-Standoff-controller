@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Bomberman Sniper
+                      Pacifist: N,N,N
+                     Aggressor: P,Tc,Sd
+                     Bomberman: N,N,N
+                        Sniper: Sa,N,Sb
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 0
+                     Bomberman: -3
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Bomberman Sniper
+Aggressor: Pacifist Bomberman Sniper
+Bomberman: Pacifist Aggressor Sniper
+Sniper: Pacifist Aggressor Bomberman
+Generated: 2014/08/12 10:23:41.023199537 UTC

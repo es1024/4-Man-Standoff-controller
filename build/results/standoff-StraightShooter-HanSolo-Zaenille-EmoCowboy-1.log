@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Zaenille EmoCowboy
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+                       HanSolo: Sc,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+                      Zaenille: -4
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille EmoCowboy HanSolo
+HanSolo: Zaenille EmoCowboy StraightShooter
+Zaenille: HanSolo EmoCowboy StraightShooter
+EmoCowboy: HanSolo Zaenille StraightShooter
+Generated: 2014/08/12 06:37:33.102656222 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor AntiGrenadier CourageTheDog
+                         Spock: Sc,N
+                     Aggressor: P,Td
+                 AntiGrenadier: N,Sb
+                 CourageTheDog: Sa,N
+Final Health:
+                         Spock: 0
+                     Aggressor: 0
+                 AntiGrenadier: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier CourageTheDog Aggressor
+Aggressor: AntiGrenadier CourageTheDog Spock
+AntiGrenadier: Aggressor CourageTheDog Spock
+CourageTheDog: Aggressor AntiGrenadier Spock
+Generated: 2014/08/12 06:26:48.454853619 UTC

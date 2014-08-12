@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Monkey CourageTheDog
+                     Grenadier: N,N,P,N,N
+                 DONTNUKEMEBRO: Dd,Dc,Sd,N,Sd
+                        Monkey: N,N,N,P,N
+                 CourageTheDog: Sb,N,Db,P,Tc
+Final Health:
+                     Grenadier: -7
+                 DONTNUKEMEBRO: -4
+                        Monkey: -12
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Monkey CourageTheDog Grenadier
+Monkey: DONTNUKEMEBRO CourageTheDog Grenadier
+CourageTheDog: DONTNUKEMEBRO Monkey Grenadier
+Generated: 2014/08/12 06:50:25.620284102 UTC

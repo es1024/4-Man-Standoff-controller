@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Monkey Sniper
+      PoliticallyCorrectGunman: Dd,Sb
+                     Aggressor: P,Td
+                        Monkey: N,Sc
+                        Sniper: Sc,N
+Final Health:
+      PoliticallyCorrectGunman: 2
+                     Aggressor: 0
+                        Monkey: -5
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper Aggressor Monkey
+Aggressor: Sniper PoliticallyCorrectGunman Monkey
+Monkey: Sniper PoliticallyCorrectGunman Aggressor
+Sniper: Monkey PoliticallyCorrectGunman Aggressor
+Generated: 2014/08/12 07:16:09.302393815 UTC

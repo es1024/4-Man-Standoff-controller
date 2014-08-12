@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman Bomberman
+               StraightShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Dc,Db,Da,P
+      PoliticallyCorrectGunman: Sd,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -7
+      PoliticallyCorrectGunman: -5
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman InputAnalyzer PoliticallyCorrectGunman
+InputAnalyzer: Bomberman StraightShooter PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Bomberman StraightShooter InputAnalyzer
+Bomberman: PoliticallyCorrectGunman StraightShooter InputAnalyzer
+Generated: 2014/08/12 08:13:57.335701611 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Coward Zaenille
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: Dc,N,N,Sa,N,Sa,N,Da,N,Sb
+                        Coward: Sd,N,Sb,N,Sb,N,N,N,N,N
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 1
+      PoliticallyCorrectGunman: -2
+                        Coward: -1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Coward Zaenille
+PoliticallyCorrectGunman: StraightShooter Coward Zaenille
+Coward: StraightShooter PoliticallyCorrectGunman Zaenille
+Zaenille: StraightShooter PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 05:43:39.795561280 UTC

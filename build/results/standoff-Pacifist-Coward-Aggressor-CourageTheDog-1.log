@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Aggressor CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N
+                        Coward: Sa,N,N,N,N,N,N,N
+                     Aggressor: P,Tb,Sd,N,Sd,N,Sd,N
+                 CourageTheDog: Sa,N,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -2
+                        Coward: -3
+                     Aggressor: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor CourageTheDog Coward
+Coward: Aggressor CourageTheDog Pacifist
+Aggressor: Coward CourageTheDog Pacifist
+CourageTheDog: Coward Aggressor Pacifist
+Generated: 2014/08/12 09:56:26.847861270 UTC

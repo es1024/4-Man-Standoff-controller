@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille TwentyFourthsAndAHalfCentury Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Dd,Dd,N,N,N,N,N,N,Dd,N,Da,Dd,Da,Dd,Da,Dd,Dd,Dd,Da,Dd,N,N,N,N,N,N,N,N,N,Dd,Da,Dd,Dd,Dd,Dd,Dd,Da,N,N,N,N,N,N,N,N,Sa
+                           Neo: N,N,N,Dc,Da,N,N,N,N,N,N,N,N,N,Da,Dc,Da,Dc,N,N,Da,Dc,Da,Dc,N,N,N,N,N,N,N,N,Da,Dc,Da,Dc,N,Dc,Da,Dc,Da,N,N,N,N,N,N,N,Sd,N
+Final Health:
+               StraightShooter: -17
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -15
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Neo StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo StraightShooter Zaenille
+Neo: TwentyFourthsAndAHalfCentury StraightShooter Zaenille
+Generated: 2014/08/12 08:57:19.184789905 UTC

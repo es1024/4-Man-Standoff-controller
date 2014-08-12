@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille EmoCowboy Scared
+                     Grenadier: P,Td
+                      Zaenille: Sb,N
+                     EmoCowboy: Sc,N
+                        Scared: Sb,N
+Final Health:
+                     Grenadier: 2
+                      Zaenille: -4
+                     EmoCowboy: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille EmoCowboy Scared
+Zaenille: Grenadier EmoCowboy Scared
+EmoCowboy: Grenadier Zaenille Scared
+Scared: Grenadier Zaenille EmoCowboy
+Generated: 2014/08/12 06:06:13.382098248 UTC

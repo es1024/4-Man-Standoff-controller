@@ -1,0 +1,16 @@
+Standoff between: Zaenille Bomberman Rule0Bot CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Db,Dc,Dc,Db,Db,N,N,Db,Dc,Sb,N,Db,Sb,N,Dc,Dc,Sc,N,Dc,Dc,Dc,Sc,N,Dc,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                      Zaenille: -2
+                     Bomberman: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Bomberman Rule0Bot CourageTheDog
+Bomberman: Zaenille Rule0Bot CourageTheDog
+Rule0Bot: Zaenille Bomberman CourageTheDog
+CourageTheDog: Zaenille Bomberman Rule0Bot
+Generated: 2014/08/12 09:29:27.788666932 UTC

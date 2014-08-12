@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter EmoCowboy Rule0Bot
+                 DONTNUKEMEBRO: Dd,Dc,Dc,Db,Sb,N,Dd,Dc,Sb,N,Db,Dc,Sb
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: N,N,N,N,Sc,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+                     EmoCowboy: -2
+                      Rule0Bot: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Rule0Bot SimpleShooter EmoCowboy
+SimpleShooter: Rule0Bot DONTNUKEMEBRO EmoCowboy
+EmoCowboy: Rule0Bot DONTNUKEMEBRO SimpleShooter
+Rule0Bot: EmoCowboy DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 06:56:20.335040048 UTC

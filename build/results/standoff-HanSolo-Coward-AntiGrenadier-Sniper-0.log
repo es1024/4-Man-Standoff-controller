@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward AntiGrenadier Sniper
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sd
+                        Coward: Sd,N,Sd,N,Dd,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,Sb,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Coward: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward AntiGrenadier Sniper
+Coward: HanSolo AntiGrenadier Sniper
+AntiGrenadier: HanSolo Coward Sniper
+Sniper: HanSolo Coward AntiGrenadier
+Generated: 2014/08/12 06:30:57.477271238 UTC

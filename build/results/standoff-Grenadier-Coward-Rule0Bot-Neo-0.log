@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Rule0Bot Neo
+                     Grenadier: N,N,P,Tb
+                        Coward: Sd,N,Sd,N
+                      Rule0Bot: N,N,N,Sa
+                           Neo: N,Dc,Dc,N
+Final Health:
+                     Grenadier: 0
+                        Coward: -3
+                      Rule0Bot: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Rule0Bot Neo
+Coward: Grenadier Rule0Bot Neo
+Rule0Bot: Grenadier Coward Neo
+Neo: Grenadier Coward Rule0Bot
+Generated: 2014/08/12 10:19:36.554379786 UTC

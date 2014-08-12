@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Ninja AntiGrenadier Neo
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Sc,N,Sd,N,Sb,N,Sd,N,Sb,N,N,N,N,N,Sd,N,Sc,N,Sc,N,Sb
+                         Ninja: Db,Da,Dc,Dd,Dc,Dc,Dd,Db,Da,Dd,Dc,Da,Db,Da,Dd,Db,Da,Dd,Dc,Da,Db,Db,Dd,Db,Da,Da,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Dc,Dc,Dc,N,Dc,N,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Ninja AntiGrenadier Neo
+Ninja: TwentyFourthsAndAHalfCentury AntiGrenadier Neo
+AntiGrenadier: TwentyFourthsAndAHalfCentury Ninja Neo
+Neo: TwentyFourthsAndAHalfCentury Ninja AntiGrenadier
+Generated: 2014/08/12 07:56:08.165334428 UTC

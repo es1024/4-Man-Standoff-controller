@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet AntiGrenadier
+      PoliticallyCorrectGunman: Sc,N,N,N,Dc,N,Db,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sa,N,Sa,N,Sc,N,Sc
+                     Richochet: Sa,N,Sd,N,Sb,N,Sa,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                     Richochet: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Spock Richochet
+Spock: AntiGrenadier PoliticallyCorrectGunman Richochet
+Richochet: AntiGrenadier PoliticallyCorrectGunman Spock
+AntiGrenadier: Richochet PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 09:28:04.279505698 UTC

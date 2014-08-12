@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer PoliticallyCorrectGunman Ninja
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dd,Da,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,Sc
+                         Ninja: Dc,Dd,Dc,Db,Da,Db,Da,Db,Da,Dd,Da,Dd,Dc,Da,Dd,Da,Dd,Dc
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -2
+                         Ninja: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer PoliticallyCorrectGunman Ninja
+InputAnalyzer: Grenadier PoliticallyCorrectGunman Ninja
+PoliticallyCorrectGunman: Grenadier InputAnalyzer Ninja
+Ninja: Grenadier InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 08:03:37.637800013 UTC

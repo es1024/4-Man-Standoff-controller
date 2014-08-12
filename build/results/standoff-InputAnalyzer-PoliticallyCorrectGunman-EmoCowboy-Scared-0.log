@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman EmoCowboy Scared
+                 InputAnalyzer: Db,Sd,N,P,Sc,N
+      PoliticallyCorrectGunman: Dd,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: 2
+                     EmoCowboy: -4
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman EmoCowboy Scared
+PoliticallyCorrectGunman: InputAnalyzer EmoCowboy Scared
+EmoCowboy: InputAnalyzer PoliticallyCorrectGunman Scared
+Scared: InputAnalyzer PoliticallyCorrectGunman EmoCowboy
+Generated: 2014/08/12 06:36:15.667153226 UTC

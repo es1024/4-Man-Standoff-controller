@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Aggressor Monkey
+      PoliticallyCorrectGunman: Dd,N,N
+                         Spock: Sa,N,N
+                     Aggressor: P,Tb,Sd
+                        Monkey: N,Dd,Dd
+Final Health:
+      PoliticallyCorrectGunman: 0
+                         Spock: -3
+                     Aggressor: 2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Aggressor Monkey
+Spock: PoliticallyCorrectGunman Aggressor Monkey
+Aggressor: PoliticallyCorrectGunman Spock Monkey
+Monkey: PoliticallyCorrectGunman Spock Aggressor
+Generated: 2014/08/12 05:46:28.971464439 UTC

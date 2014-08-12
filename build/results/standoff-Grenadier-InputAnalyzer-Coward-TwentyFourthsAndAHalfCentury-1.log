@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Coward TwentyFourthsAndAHalfCentury
+                     Grenadier: P,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Sc,N
+                        Coward: Sa,N,Sa,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,Db,Sb
+Final Health:
+                     Grenadier: -7
+                 InputAnalyzer: 0
+                        Coward: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward TwentyFourthsAndAHalfCentury InputAnalyzer
+InputAnalyzer: Coward TwentyFourthsAndAHalfCentury Grenadier
+Coward: InputAnalyzer TwentyFourthsAndAHalfCentury Grenadier
+TwentyFourthsAndAHalfCentury: InputAnalyzer Coward Grenadier
+Generated: 2014/08/12 07:40:04.747443245 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Bomberman Ninja
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Richochet: Sa,N,Sd,N,Sc,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dc,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+                     Bomberman: 3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Richochet Bomberman
+Richochet: Ninja HanSolo Bomberman
+Bomberman: Ninja HanSolo Richochet
+Ninja: Bomberman HanSolo Richochet
+Generated: 2014/08/12 08:07:34.508909611 UTC

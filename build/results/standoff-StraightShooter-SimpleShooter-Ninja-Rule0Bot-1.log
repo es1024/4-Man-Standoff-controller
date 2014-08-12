@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Ninja Rule0Bot
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,Sc,N,Sa,N,Sc
+                         Ninja: Dc,Dc,Dc,Da,Da,Da,Da,Da,Da,Dd,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Rule0Bot SimpleShooter
+SimpleShooter: Ninja Rule0Bot StraightShooter
+Ninja: SimpleShooter Rule0Bot StraightShooter
+Rule0Bot: SimpleShooter Ninja StraightShooter
+Generated: 2014/08/12 06:47:45.655803576 UTC

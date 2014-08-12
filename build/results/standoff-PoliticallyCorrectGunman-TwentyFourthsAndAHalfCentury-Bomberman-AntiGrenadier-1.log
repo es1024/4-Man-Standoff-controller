@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+      PoliticallyCorrectGunman: Sa,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Sd,N,Sc
+                     Bomberman: N,N,P,N,N
+                 AntiGrenadier: N,N,N,Sc,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: -5
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman AntiGrenadier PoliticallyCorrectGunman
+Bomberman: TwentyFourthsAndAHalfCentury AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: TwentyFourthsAndAHalfCentury Bomberman PoliticallyCorrectGunman
+Generated: 2014/08/12 07:09:19.122915232 UTC

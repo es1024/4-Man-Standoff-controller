@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Ninja Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Dc,Sd,N,Sa,N,Sd,N,Sc,N,Sc,N,Sd,N,Sa,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,Sa
+                         Ninja: Da,Dc,Dd,Dc,Dc,Da,Db,Da,Dc,Dc,Da,Dc,Dd,Da,Dc,Da,Db,Dc,Dd,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,Dc,N,N,N,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Ninja Neo
+TwentyFourthsAndAHalfCentury: Pacifist Ninja Neo
+Ninja: Pacifist TwentyFourthsAndAHalfCentury Neo
+Neo: Pacifist TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 05:48:38.508793461 UTC

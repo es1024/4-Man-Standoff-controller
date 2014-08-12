@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Ninja Scared
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Sd,N,P,Dd,Sc
+                         Ninja: Da,Da,Dd,Db,Db,Dc,Da
+                        Scared: Sc,N,Sb,N,Sa,N,Sb
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -5
+                         Ninja: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared InputAnalyzer Ninja
+InputAnalyzer: Scared Pacifist Ninja
+Ninja: Scared Pacifist InputAnalyzer
+Scared: Ninja Pacifist InputAnalyzer
+Generated: 2014/08/12 10:48:12.794345882 UTC

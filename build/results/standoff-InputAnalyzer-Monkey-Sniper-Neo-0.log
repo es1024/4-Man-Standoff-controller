@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Sniper Neo
+                 InputAnalyzer: Db,Sc,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Db,Sc,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,Db,Db,N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,N,N,Db,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dc,N,N,Db,N,N,N,N,Db,Db,Db,Db,Db,N,Db,Db,Db,N,N,N,N,N,Db,Db,N,Db,Db,N,N,N,N,N,Db,N,N,N,N,N,N,N,Db,N,Db,Db,Db,N,N,Db
+Final Health:
+                 InputAnalyzer: -2
+                        Monkey: -15
+                        Sniper: -1
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Sniper Neo
+Monkey: InputAnalyzer Sniper Neo
+Sniper: InputAnalyzer Monkey Neo
+Neo: InputAnalyzer Monkey Sniper
+Generated: 2014/08/12 09:25:50.071316126 UTC

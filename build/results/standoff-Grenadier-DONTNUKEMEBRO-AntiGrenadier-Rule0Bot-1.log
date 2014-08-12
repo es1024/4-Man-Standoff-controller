@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO AntiGrenadier Rule0Bot
+                     Grenadier: N,N,P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Dc,Dd,Sa,N,Da,Da,Dc,Dd,Dc,Da,Dc,Dc,Dc,Dd,Dc,Dd,Dc,Dc,Da,Da,Da,Da,Dc,Da,Dc,Dd,Dd,Da,Dc,Da,Da,Dc,Da,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                 AntiGrenadier: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                 DONTNUKEMEBRO: -18
+                 AntiGrenadier: -3
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Rule0Bot DONTNUKEMEBRO
+DONTNUKEMEBRO: AntiGrenadier Rule0Bot Grenadier
+AntiGrenadier: DONTNUKEMEBRO Rule0Bot Grenadier
+Rule0Bot: DONTNUKEMEBRO AntiGrenadier Grenadier
+Generated: 2014/08/12 07:35:32.444299192 UTC

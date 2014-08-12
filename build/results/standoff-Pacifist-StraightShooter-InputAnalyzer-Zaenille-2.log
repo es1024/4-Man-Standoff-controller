@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer Zaenille
+                      Pacifist: N,N,N
+               StraightShooter: Sa,N,Sa
+                 InputAnalyzer: Dd,P,Sc
+                      Zaenille: Sd,N,N
+Final Health:
+                      Pacifist: -2
+               StraightShooter: 2
+                 InputAnalyzer: -8
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille StraightShooter InputAnalyzer
+StraightShooter: Zaenille Pacifist InputAnalyzer
+InputAnalyzer: Zaenille Pacifist StraightShooter
+Zaenille: InputAnalyzer Pacifist StraightShooter
+Generated: 2014/08/12 07:16:00.358928304 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Sniper Scared
+                     Grenadier: P,N,N
+                        Monkey: N,Sc,N
+                        Sniper: Sa,N,Sb
+                        Scared: Sc,N,Sa
+Final Health:
+                     Grenadier: -5
+                        Monkey: 0
+                        Sniper: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Monkey Sniper
+Monkey: Scared Grenadier Sniper
+Sniper: Scared Grenadier Monkey
+Scared: Sniper Grenadier Monkey
+Generated: 2014/08/12 08:23:12.879521752 UTC

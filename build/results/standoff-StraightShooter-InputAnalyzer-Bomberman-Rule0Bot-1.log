@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Bomberman Rule0Bot
+               StraightShooter: Sd,N,Sd,N
+                 InputAnalyzer: Dc,P,Sc,N
+                     Bomberman: N,N,N,N
+                      Rule0Bot: N,N,Sb,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -3
+                     Bomberman: 0
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Rule0Bot InputAnalyzer
+InputAnalyzer: Bomberman Rule0Bot StraightShooter
+Bomberman: InputAnalyzer Rule0Bot StraightShooter
+Rule0Bot: InputAnalyzer Bomberman StraightShooter
+Generated: 2014/08/12 08:04:26.751854297 UTC

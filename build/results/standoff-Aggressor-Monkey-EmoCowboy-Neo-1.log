@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey EmoCowboy Neo
+                     Aggressor: P,Td,Sb
+                        Monkey: N,Sc,N
+                     EmoCowboy: Sc,N,N
+                           Neo: N,N,N
+Final Health:
+                     Aggressor: 2
+                        Monkey: 0
+                     EmoCowboy: -2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy Neo Monkey
+Monkey: EmoCowboy Neo Aggressor
+EmoCowboy: Monkey Neo Aggressor
+Neo: Monkey EmoCowboy Aggressor
+Generated: 2014/08/12 09:18:47.096190960 UTC

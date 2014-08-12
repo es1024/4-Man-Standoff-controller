@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Zaenille Monkey
+                 DONTNUKEMEBRO: Dd,Dc,Db,Dd,Sb,N,Sb,N
+                 SimpleShooter: Sd,N,Sa,N,Sa,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N,N,N
+                        Monkey: N,Sc,N,Db,Dd,Sb,N,Sd
+Final Health:
+                 DONTNUKEMEBRO: 3
+                 SimpleShooter: -1
+                      Zaenille: -2
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Zaenille Monkey
+SimpleShooter: DONTNUKEMEBRO Zaenille Monkey
+Zaenille: DONTNUKEMEBRO SimpleShooter Monkey
+Monkey: DONTNUKEMEBRO SimpleShooter Zaenille
+Generated: 2014/08/12 06:47:54.172967087 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Spock Bomberman
+                 InputAnalyzer: Dc,Sb,N,P,Dd,Dc
+                       HanSolo: Sc,N,Sc,N,Sc,N
+                         Spock: Sb,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: -2
+                         Spock: -1
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Bomberman HanSolo
+HanSolo: Spock Bomberman InputAnalyzer
+Spock: HanSolo Bomberman InputAnalyzer
+Bomberman: HanSolo Spock InputAnalyzer
+Generated: 2014/08/12 07:08:47.436567196 UTC

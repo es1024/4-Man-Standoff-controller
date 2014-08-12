@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Richochet AntiGrenadier
+                 InputAnalyzer: Dc,Db,P,N,N
+                        Coward: Sa,N,Sa,N,Sc
+                     Richochet: Sd,N,Sd,N,Sb
+                 AntiGrenadier: N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -7
+                        Coward: 0
+                     Richochet: 0
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet AntiGrenadier Coward
+Coward: Richochet AntiGrenadier InputAnalyzer
+Richochet: Coward AntiGrenadier InputAnalyzer
+AntiGrenadier: Coward Richochet InputAnalyzer
+Generated: 2014/08/12 09:17:35.094025513 UTC

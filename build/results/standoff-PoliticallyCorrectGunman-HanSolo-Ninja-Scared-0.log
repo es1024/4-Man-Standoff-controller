@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Ninja Scared
+      PoliticallyCorrectGunman: Sb,N,Sc,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd
+                         Ninja: Da,Da,Db,Da,Dd,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: -1
+                         Ninja: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Ninja Scared
+HanSolo: PoliticallyCorrectGunman Ninja Scared
+Ninja: PoliticallyCorrectGunman HanSolo Scared
+Scared: PoliticallyCorrectGunman HanSolo Ninja
+Generated: 2014/08/12 10:47:21.869701611 UTC

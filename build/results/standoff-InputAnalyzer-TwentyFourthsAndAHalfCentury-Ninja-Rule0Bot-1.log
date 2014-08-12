@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+                 InputAnalyzer: Dc,Da,P,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Sa,N,Sc,N,Sd,N,N,N,N,N,N,N,N,N,N,Sc
+                         Ninja: Da,Da,Dd,Dc,Db,Db,Dc,Dd,Db,Dd,Db,Db,Dd,Db,Dd,Db,Da,Dd
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -10
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Rule0Bot InputAnalyzer
+Ninja: TwentyFourthsAndAHalfCentury Rule0Bot InputAnalyzer
+Rule0Bot: TwentyFourthsAndAHalfCentury Ninja InputAnalyzer
+Generated: 2014/08/12 06:36:26.895137284 UTC

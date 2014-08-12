@@ -1,0 +1,16 @@
+Standoff between: HanSolo Ninja Neo CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                         Ninja: Dc,Da,Dc,Da,Db,Dc,Db,Dc,Db,N,N,N,N,N,N
+                           Neo: N,N,N,N,Db,Db,Db,Db,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Db,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                         Ninja: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Ninja Neo
+Ninja: CourageTheDog HanSolo Neo
+Neo: CourageTheDog HanSolo Ninja
+CourageTheDog: Neo HanSolo Ninja
+Generated: 2014/08/12 07:38:32.486343106 UTC

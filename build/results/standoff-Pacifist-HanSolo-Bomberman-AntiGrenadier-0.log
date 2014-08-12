@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Bomberman AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Bomberman AntiGrenadier
+HanSolo: Pacifist Bomberman AntiGrenadier
+Bomberman: Pacifist HanSolo AntiGrenadier
+AntiGrenadier: Pacifist HanSolo Bomberman
+Generated: 2014/08/12 08:16:26.532366221 UTC

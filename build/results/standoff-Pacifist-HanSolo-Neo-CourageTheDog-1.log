@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                           Neo: N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Db,Da,Db,N,N,Sb,N,Db,Db,Db,Da,Sb
+Final Health:
+                      Pacifist: 5
+                       HanSolo: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo CourageTheDog HanSolo
+HanSolo: Neo CourageTheDog Pacifist
+Neo: HanSolo CourageTheDog Pacifist
+CourageTheDog: HanSolo Neo Pacifist
+Generated: 2014/08/12 08:39:35.679688301 UTC

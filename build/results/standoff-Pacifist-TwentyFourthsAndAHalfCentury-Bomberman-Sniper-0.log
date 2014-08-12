@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Bomberman Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,Dd,Sc,N,Sd,N,Sc,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Bomberman Sniper
+TwentyFourthsAndAHalfCentury: Pacifist Bomberman Sniper
+Bomberman: Pacifist TwentyFourthsAndAHalfCentury Sniper
+Sniper: Pacifist TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 09:52:36.533777038 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Spock Rule0Bot
+               StraightShooter: Sc,N,Sc
+                 InputAnalyzer: Da,P,Sb
+                         Spock: Sa,N,Sa
+                      Rule0Bot: N,N,Sb
+Final Health:
+               StraightShooter: -2
+                 InputAnalyzer: -10
+                         Spock: -2
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer Spock Rule0Bot
+InputAnalyzer: StraightShooter Spock Rule0Bot
+Spock: StraightShooter InputAnalyzer Rule0Bot
+Rule0Bot: StraightShooter InputAnalyzer Spock
+Generated: 2014/08/12 07:10:57.381510948 UTC

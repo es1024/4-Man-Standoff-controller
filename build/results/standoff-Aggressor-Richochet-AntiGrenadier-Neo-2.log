@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet AntiGrenadier Neo
+                     Aggressor: P,Td
+                     Richochet: Sc,N
+                 AntiGrenadier: N,Sa
+                           Neo: N,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+                 AntiGrenadier: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo Richochet AntiGrenadier
+Richochet: Neo Aggressor AntiGrenadier
+AntiGrenadier: Neo Aggressor Richochet
+Neo: AntiGrenadier Aggressor Richochet
+Generated: 2014/08/12 05:55:38.413335795 UTC

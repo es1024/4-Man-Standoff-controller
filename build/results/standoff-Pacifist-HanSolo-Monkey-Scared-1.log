@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Monkey Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sa,N,Sa,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 3
+                        Monkey: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey Scared HanSolo
+HanSolo: Monkey Scared Pacifist
+Monkey: HanSolo Scared Pacifist
+Scared: HanSolo Monkey Pacifist
+Generated: 2014/08/12 08:14:16.205527884 UTC

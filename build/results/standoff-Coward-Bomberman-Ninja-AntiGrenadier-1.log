@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman Ninja AntiGrenadier
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Da,Dc,Dc,Db,Da,Dc,Db,Da,Dc,Db,Dc,Db,Dc,Dc,Da,Dd,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                     Bomberman: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja AntiGrenadier Bomberman
+Bomberman: Ninja AntiGrenadier Coward
+Ninja: Bomberman AntiGrenadier Coward
+AntiGrenadier: Bomberman Ninja Coward
+Generated: 2014/08/12 08:41:04.587676431 UTC

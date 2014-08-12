@@ -1,16 +1,16 @@
 Standoff between: Grenadier Pacifist InputAnalyzer HanSolo
-                     Grenadier: P,Tb,N
-                      Pacifist: N,N,N
-                 InputAnalyzer: Da,Sb,N
-                       HanSolo: Sa,N,Sc
+                     Grenadier: N,N,N,P
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Da,P,Da,Dc
+                       HanSolo: Sa,N,Sa,N
 Final Health:
-                     Grenadier: 0
-                      Pacifist: -5
-                 InputAnalyzer: 0
-                       HanSolo: 2
+                     Grenadier: -8
+                      Pacifist: -1
+                 InputAnalyzer: -4
+                       HanSolo: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: Pacifist InputAnalyzer HanSolo
 Pacifist: Grenadier InputAnalyzer HanSolo
 InputAnalyzer: Grenadier Pacifist HanSolo
 HanSolo: Grenadier Pacifist InputAnalyzer
-Generated: 2014/08/11 01:00:09.833482314 UTC
+Generated: 2014/08/12 10:11:28.911064155 UTC

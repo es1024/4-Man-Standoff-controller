@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Zaenille TwentyFourthsAndAHalfCentury
+                        Coward: Sc,N,Dc
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+  TwentyFourthsAndAHalfCentury: N,Db,N
+Final Health:
+                        Coward: 0
+                     Aggressor: 2
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury Aggressor Zaenille
+Aggressor: TwentyFourthsAndAHalfCentury Coward Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Coward Aggressor
+TwentyFourthsAndAHalfCentury: Zaenille Coward Aggressor
+Generated: 2014/08/12 08:38:24.229587658 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Rule0Bot CourageTheDog
+      PoliticallyCorrectGunman: N,N,N,N,N,Sb,N,P,Dd,Db
+                         Spock: N,N,N,N,Sc,N,Sc,N,Sc,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,Sa,N
+                 CourageTheDog: Sb,N,Dc,Dc,Da,Sa,N,Dc,P,Tb
+Final Health:
+      PoliticallyCorrectGunman: -8
+                         Spock: -10
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot CourageTheDog Spock
+Spock: Rule0Bot CourageTheDog PoliticallyCorrectGunman
+Rule0Bot: Spock CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Spock Rule0Bot PoliticallyCorrectGunman
+Generated: 2014/08/12 06:52:41.111756356 UTC

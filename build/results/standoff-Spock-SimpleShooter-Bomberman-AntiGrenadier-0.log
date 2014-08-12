@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Bomberman AntiGrenadier
+                         Spock: N,Sd,N,Sd,N,Sc,N,Sc,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Bomberman AntiGrenadier
+SimpleShooter: Spock Bomberman AntiGrenadier
+Bomberman: Spock SimpleShooter AntiGrenadier
+AntiGrenadier: Spock SimpleShooter Bomberman
+Generated: 2014/08/12 06:31:44.688114541 UTC

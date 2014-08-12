@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury EmoCowboy
+                 InputAnalyzer: Dd,P,N,Dc,N
+                 DONTNUKEMEBRO: Dc,Da,Sa,N,Dd
+  TwentyFourthsAndAHalfCentury: Db,Db,Da,Da,Sb
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: EmoCowboy InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy InputAnalyzer DONTNUKEMEBRO
+EmoCowboy: TwentyFourthsAndAHalfCentury InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 10:23:40.041989309 UTC

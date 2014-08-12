@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy Ninja Scared
+                        Coward: Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Dc,Da,Db,Db,Da,Dd,Db,Da,Da,Db,Dc,Db,Dc,Dd,Da,Db,Da,Db,Dd,Dc,Db,Db,Db,Dc,Da,Dd,Dc,Dc,Db,Dd,Da,Dc,Db,Da,Dd,Dc,Da,Dd,Da,Dd,Dc,Dd,Dd,Da,Dd,Da,Db,Db
+                        Scared: Sb,N,Sa,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -17
+                     EmoCowboy: -4
+                         Ninja: -19
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared EmoCowboy Ninja
+EmoCowboy: Scared Coward Ninja
+Ninja: Scared Coward EmoCowboy
+Scared: Ninja Coward EmoCowboy
+Generated: 2014/08/12 07:20:19.341272295 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman Sniper CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                     Bomberman: -1
+                        Sniper: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Bomberman Sniper
+Bomberman: CourageTheDog HanSolo Sniper
+Sniper: CourageTheDog HanSolo Bomberman
+CourageTheDog: Sniper HanSolo Bomberman
+Generated: 2014/08/12 09:20:05.462027912 UTC

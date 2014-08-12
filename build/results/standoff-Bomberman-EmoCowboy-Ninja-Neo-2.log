@@ -1,0 +1,16 @@
+Standoff between: Bomberman EmoCowboy Ninja Neo
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Db,Db,Da,Dd,Da,Db,Dd,Dc,Da,Dd,Dd,Dc,Db,Dc,Dc,Dc,Dc,Dd,Dc,Db,Da,Da,Db,Db,Dc,Db,Db,Da,Db,Da,Dd,Dc,Da,Db,Dc,Db,Db,Dd,Db,Dc,Da,Dd,Da,Db,Dc,Dd,Da,Dc
+                           Neo: N,N,Da,N,N,N,Da,N,N,N,N,N,N,N,Da,Da,N,Da,N,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,Da,Da,N,N,N,N,N,N,N,N,Da,Da,Da,N,Da
+Final Health:
+                     Bomberman: -15
+                     EmoCowboy: -2
+                         Ninja: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: Neo EmoCowboy Ninja
+EmoCowboy: Neo Bomberman Ninja
+Ninja: Neo Bomberman EmoCowboy
+Neo: Ninja Bomberman EmoCowboy
+Generated: 2014/08/12 08:37:15.299298126 UTC

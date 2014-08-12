@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille AntiGrenadier Sniper
+                 InputAnalyzer: Dc,P,Da,N
+                      Zaenille: Sb,N,N,N
+                 AntiGrenadier: N,N,Sa,N
+                        Sniper: Sc,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                      Zaenille: -2
+                 AntiGrenadier: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Sniper Zaenille
+Zaenille: AntiGrenadier Sniper InputAnalyzer
+AntiGrenadier: Zaenille Sniper InputAnalyzer
+Sniper: Zaenille AntiGrenadier InputAnalyzer
+Generated: 2014/08/12 08:54:56.817925782 UTC

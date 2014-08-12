@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Sc,N,Da,Da,Da,Da,Dc,Da,Sa,N,Dc,Sc,N,Da,Dc,Sa,N,Sa,N,Sc
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: CourageTheDog StraightShooter Bomberman
+Bomberman: CourageTheDog StraightShooter TwentyFourthsAndAHalfCentury
+CourageTheDog: Bomberman StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:50:07.123562120 UTC

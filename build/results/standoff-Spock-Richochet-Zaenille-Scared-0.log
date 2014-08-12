@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Zaenille Scared
+                         Spock: N,Sb,N,Sb,N,Sd
+                     Richochet: Sa,N,Sd,N,N,N
+                      Zaenille: Sc,N,N,N,N,N
+                        Scared: N,Sb,N,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                     Richochet: -1
+                      Zaenille: -2
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Zaenille Scared
+Richochet: Spock Zaenille Scared
+Zaenille: Spock Richochet Scared
+Scared: Spock Richochet Zaenille
+Generated: 2014/08/12 09:03:50.304621073 UTC

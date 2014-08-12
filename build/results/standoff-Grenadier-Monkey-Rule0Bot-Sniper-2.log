@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Rule0Bot Sniper
+                     Grenadier: P,N,N,N
+                        Monkey: N,P,N,N
+                      Rule0Bot: N,Sa,N,N
+                        Sniper: Sa,N,Sa,N
+Final Health:
+                     Grenadier: -7
+                        Monkey: -4
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Monkey Rule0Bot
+Monkey: Sniper Grenadier Rule0Bot
+Rule0Bot: Sniper Grenadier Monkey
+Sniper: Rule0Bot Grenadier Monkey
+Generated: 2014/08/12 06:17:25.830163825 UTC

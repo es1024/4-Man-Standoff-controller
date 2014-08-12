@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Richochet Rule0Bot
+                 InputAnalyzer: Dd,P,N,N,N
+                         Spock: N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sb
+                      Rule0Bot: N,N,Sa,N,N
+Final Health:
+                 InputAnalyzer: -5
+                         Spock: 0
+                     Richochet: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Spock Richochet
+Spock: Rule0Bot InputAnalyzer Richochet
+Richochet: Rule0Bot InputAnalyzer Spock
+Rule0Bot: Richochet InputAnalyzer Spock
+Generated: 2014/08/12 07:08:56.921528536 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Aggressor Rule0Bot
+                       HanSolo: Sc,N,Sd
+                 DONTNUKEMEBRO: Dc,Sc,N
+                     Aggressor: P,Tb,N
+                      Rule0Bot: N,Sc,N
+Final Health:
+                       HanSolo: 2
+                 DONTNUKEMEBRO: -3
+                     Aggressor: -4
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Rule0Bot DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor Rule0Bot HanSolo
+Aggressor: DONTNUKEMEBRO Rule0Bot HanSolo
+Rule0Bot: DONTNUKEMEBRO Aggressor HanSolo
+Generated: 2014/08/12 07:57:12.059493053 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman Rule0Bot Scared
+                     Grenadier: N,N,N,P,Tb,N
+                     Bomberman: N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,Sa,N
+                        Scared: N,N,N,Sa,N,Sc
+Final Health:
+                     Grenadier: -2
+                     Bomberman: -3
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Rule0Bot Scared
+Bomberman: Grenadier Rule0Bot Scared
+Rule0Bot: Grenadier Bomberman Scared
+Scared: Grenadier Bomberman Rule0Bot
+Generated: 2014/08/12 08:57:26.914508498 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Aggressor AntiGrenadier
+                       HanSolo: Sc,N,Sd
+                         Spock: Sc,N,N
+                     Aggressor: P,Tb,N
+                 AntiGrenadier: N,Sc,N
+Final Health:
+                       HanSolo: 2
+                         Spock: -3
+                     Aggressor: -4
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor AntiGrenadier Spock
+Spock: Aggressor AntiGrenadier HanSolo
+Aggressor: Spock AntiGrenadier HanSolo
+AntiGrenadier: Spock Aggressor HanSolo
+Generated: 2014/08/12 05:43:36.552387401 UTC

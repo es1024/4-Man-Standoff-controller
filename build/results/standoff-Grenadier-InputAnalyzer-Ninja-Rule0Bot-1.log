@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Ninja Rule0Bot
+                     Grenadier: P,Tc,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Dd,Dc,P,Sa,N
+                         Ninja: Dc,Dc,N,N,N,N,N,N
+                      Rule0Bot: N,Sa,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -2
+                 InputAnalyzer: -4
+                         Ninja: -3
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Rule0Bot InputAnalyzer
+InputAnalyzer: Ninja Rule0Bot Grenadier
+Ninja: InputAnalyzer Rule0Bot Grenadier
+Rule0Bot: InputAnalyzer Ninja Grenadier
+Generated: 2014/08/12 10:49:02.360250068 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Coward Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                         Spock: N,Sc,N,Sd,N,Sa,N,Sa,N,Sa
+                        Coward: Sd,N,Sd,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 5
+                        Coward: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Coward Neo
+Spock: StraightShooter Coward Neo
+Coward: StraightShooter Spock Neo
+Neo: StraightShooter Spock Coward
+Generated: 2014/08/12 09:56:12.543546530 UTC

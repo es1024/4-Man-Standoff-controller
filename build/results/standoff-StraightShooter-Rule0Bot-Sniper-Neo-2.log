@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Rule0Bot Sniper Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,N,Db,Sc,N,N,N,N,Da,N,Da,N,N,N,N,N,Da,N,Da,N,N,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,Dc,Da,N,N,Dc,N,Dc,N,N
+Final Health:
+               StraightShooter: -17
+                      Rule0Bot: -3
+                        Sniper: -17
+                           Neo: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Rule0Bot Sniper
+Rule0Bot: Neo StraightShooter Sniper
+Sniper: Neo StraightShooter Rule0Bot
+Neo: Sniper StraightShooter Rule0Bot
+Generated: 2014/08/12 08:32:54.557660476 UTC

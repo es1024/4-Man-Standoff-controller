@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter TwentyFourthsAndAHalfCentury Sniper
+                 DONTNUKEMEBRO: Dd,Db,P,Tb
+                 SimpleShooter: Sa,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Db,Da
+                        Sniper: Sa,N,Sb,N
+Final Health:
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -5
+  TwentyFourthsAndAHalfCentury: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury Sniper SimpleShooter
+SimpleShooter: TwentyFourthsAndAHalfCentury Sniper DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: SimpleShooter Sniper DONTNUKEMEBRO
+Sniper: SimpleShooter TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+Generated: 2014/08/12 06:06:59.941411782 UTC

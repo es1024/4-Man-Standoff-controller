@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Aggressor Sniper
+                      Pacifist: N,N
+                 InputAnalyzer: Da,Sc
+                     Aggressor: P,Tb
+                        Sniper: Sa,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                     Aggressor: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Aggressor Sniper
+InputAnalyzer: Pacifist Aggressor Sniper
+Aggressor: Pacifist InputAnalyzer Sniper
+Sniper: Pacifist InputAnalyzer Aggressor
+Generated: 2014/08/12 07:37:42.462070434 UTC

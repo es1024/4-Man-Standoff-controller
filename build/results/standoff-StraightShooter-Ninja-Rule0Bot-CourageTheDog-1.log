@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Ninja Rule0Bot CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                         Ninja: Da,Dd,Dd,Da,Dd,Dc,Db,Dd,Da,Dd,Dd,Da,Da,Dc,Dd,Db,Dd,Dc,Dc,Dc,Dc,Db,Dd,Dd,Da,Da,Da,Dd,Dd,Db,Da,Da,Da,Db,Db,Dc,Da,Dc,Dc,Db,Dc,Dd,Da,Dc,Db,Dc,Dd,Da,Dc,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,N,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -19
+                         Ninja: -15
+                      Rule0Bot: -15
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot CourageTheDog Ninja
+Ninja: Rule0Bot CourageTheDog StraightShooter
+Rule0Bot: Ninja CourageTheDog StraightShooter
+CourageTheDog: Ninja Rule0Bot StraightShooter
+Generated: 2014/08/12 07:46:37.781550076 UTC

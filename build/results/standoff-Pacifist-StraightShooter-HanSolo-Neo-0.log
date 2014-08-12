@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter HanSolo Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,N,N,N,N
+                           Neo: N,Da,Dc,Da,Dc,Sb,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                       HanSolo: -1
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter HanSolo Neo
+StraightShooter: Pacifist HanSolo Neo
+HanSolo: Pacifist StraightShooter Neo
+Neo: Pacifist StraightShooter HanSolo
+Generated: 2014/08/12 10:27:54.938139230 UTC

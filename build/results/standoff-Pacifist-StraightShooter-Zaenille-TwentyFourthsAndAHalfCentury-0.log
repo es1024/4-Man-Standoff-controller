@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Zaenille TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,Da,Db,Da,Da,Da,Da,Da,Da,Da,Da,Da,Db,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Da
+Final Health:
+                      Pacifist: -15
+               StraightShooter: -15
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Zaenille TwentyFourthsAndAHalfCentury
+StraightShooter: Pacifist Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Pacifist StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist StraightShooter Zaenille
+Generated: 2014/08/12 08:20:14.327671113 UTC

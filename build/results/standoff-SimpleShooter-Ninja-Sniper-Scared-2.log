@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Ninja Sniper Scared
+                 SimpleShooter: Sc,N,Sb,N,Sc,N,Sb
+                         Ninja: Dc,Da,Db,Da,Dd,Dd,Db
+                        Sniper: Sd,N,Sd,N,Sd,N,N
+                        Scared: Sc,N,Sb,N,Sa,N,N
+Final Health:
+                 SimpleShooter: 3
+                         Ninja: -1
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Ninja Sniper
+Ninja: Scared SimpleShooter Sniper
+Sniper: Scared SimpleShooter Ninja
+Scared: Sniper SimpleShooter Ninja
+Generated: 2014/08/12 10:03:35.986808863 UTC

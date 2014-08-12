@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor TwentyFourthsAndAHalfCentury Ninja
+                      Pacifist: N,N,N,N
+                     Aggressor: P,Td,Sa,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Db,Sb
+                         Ninja: Dd,Db,N,N
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Ninja Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Pacifist Aggressor
+Ninja: TwentyFourthsAndAHalfCentury Pacifist Aggressor
+Generated: 2014/08/12 09:31:47.496527237 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Monkey Neo
+                 InputAnalyzer: Dc,P,Db,Dc,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sc
+                        Monkey: N,Sa,N,Da,Dc,N,N
+                           Neo: N,Da,Da,N,Dc,N,N
+Final Health:
+                 InputAnalyzer: -5
+                        Coward: 2
+                        Monkey: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Neo Coward
+Coward: Monkey Neo InputAnalyzer
+Monkey: Coward Neo InputAnalyzer
+Neo: Coward Monkey InputAnalyzer
+Generated: 2014/08/12 10:45:24.814977738 UTC

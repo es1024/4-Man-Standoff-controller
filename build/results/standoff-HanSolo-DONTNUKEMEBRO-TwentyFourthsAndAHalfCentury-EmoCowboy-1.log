@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury EmoCowboy
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dd,Da,Dc,Dd,Da,Dc,Da,Dd,Da,Dc,Dd,Dc,Da,Dd,Dc,Da,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,Db,Db,Db,Da,Db,Da,N,Da,Db,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury EmoCowboy DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury EmoCowboy HanSolo
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO EmoCowboy HanSolo
+EmoCowboy: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury HanSolo
+Generated: 2014/08/12 09:00:37.845627763 UTC

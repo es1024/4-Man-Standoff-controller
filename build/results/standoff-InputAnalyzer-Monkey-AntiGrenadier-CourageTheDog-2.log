@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey AntiGrenadier CourageTheDog
+                 InputAnalyzer: Dd,Db,Dd,Dc,Dd,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Dd,Dc,Dd,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Da,Db,Da,Dc,Db,Db,Sc,N,Sb,N,Dc,Db,Sc,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                 InputAnalyzer: -2
+                        Monkey: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Monkey AntiGrenadier
+Monkey: CourageTheDog InputAnalyzer AntiGrenadier
+AntiGrenadier: CourageTheDog InputAnalyzer Monkey
+CourageTheDog: AntiGrenadier InputAnalyzer Monkey
+Generated: 2014/08/12 05:46:22.242068692 UTC

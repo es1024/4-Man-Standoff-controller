@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer SimpleShooter Zaenille
+               StraightShooter: Sc,N,Sc,N,Sc
+                 InputAnalyzer: Da,Db,Sb,N,N
+                 SimpleShooter: Sd,N,Sb,N,Sa
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+               StraightShooter: 3
+                 InputAnalyzer: -4
+                 SimpleShooter: -1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer SimpleShooter Zaenille
+InputAnalyzer: StraightShooter SimpleShooter Zaenille
+SimpleShooter: StraightShooter InputAnalyzer Zaenille
+Zaenille: StraightShooter InputAnalyzer SimpleShooter
+Generated: 2014/08/12 06:38:07.452236428 UTC

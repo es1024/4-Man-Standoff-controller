@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey Neo CourageTheDog
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                        Monkey: N,N,N,N,Dd,Dd,Db,N,N,Db,N,N,N,N,N
+                           Neo: N,N,N,Dd,Dd,Db,Db,Db,Db,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,Db,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                        Monkey: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey Neo CourageTheDog
+Monkey: Coward Neo CourageTheDog
+Neo: Coward Monkey CourageTheDog
+CourageTheDog: Coward Monkey Neo
+Generated: 2014/08/12 06:01:35.858767213 UTC

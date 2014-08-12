@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Richochet Rule0Bot
+                         Spock: Sc,N
+                     Aggressor: P,Ta
+                     Richochet: Sd,N
+                      Rule0Bot: N,Sb
+Final Health:
+                         Spock: -3
+                     Aggressor: 0
+                     Richochet: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Rule0Bot Aggressor
+Aggressor: Richochet Rule0Bot Spock
+Richochet: Aggressor Rule0Bot Spock
+Rule0Bot: Aggressor Richochet Spock
+Generated: 2014/08/12 10:35:33.319684791 UTC

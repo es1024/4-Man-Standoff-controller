@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille EmoCowboy Sniper
+                     Aggressor: P,Td
+                      Zaenille: Sb,N
+                     EmoCowboy: Sc,N
+                        Sniper: Sc,N
+Final Health:
+                     Aggressor: 2
+                      Zaenille: -2
+                     EmoCowboy: -4
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Zaenille EmoCowboy Sniper
+Zaenille: Aggressor EmoCowboy Sniper
+EmoCowboy: Aggressor Zaenille Sniper
+Sniper: Aggressor Zaenille EmoCowboy
+Generated: 2014/08/12 10:07:58.242807933 UTC

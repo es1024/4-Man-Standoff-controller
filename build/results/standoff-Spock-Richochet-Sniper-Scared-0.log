@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Sniper Scared
+                         Spock: Sb,N,Sb,N,Sd,N,Sc
+                     Richochet: Sd,N,Sd,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sc,N,N
+Final Health:
+                         Spock: 3
+                     Richochet: -3
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Sniper Scared
+Richochet: Spock Sniper Scared
+Sniper: Spock Richochet Scared
+Scared: Spock Richochet Sniper
+Generated: 2014/08/12 08:22:22.178980876 UTC

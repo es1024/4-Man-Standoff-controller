@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Zaenille EmoCowboy
+                 InputAnalyzer: Db,P,Sb,N
+      PoliticallyCorrectGunman: N,N,N,N
+                      Zaenille: Sc,N,N,N
+                     EmoCowboy: N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: 0
+                      Zaenille: -2
+                     EmoCowboy: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Zaenille EmoCowboy
+PoliticallyCorrectGunman: InputAnalyzer Zaenille EmoCowboy
+Zaenille: InputAnalyzer PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: InputAnalyzer PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 07:45:36.289274838 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman EmoCowboy Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,Sa,N,Sb,N,Sa,N,Sb,N,Sa,N,N,N,N,N,N,Sb
+Final Health:
+                      Pacifist: -1
+                     Bomberman: -1
+                     EmoCowboy: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman EmoCowboy Scared
+Bomberman: Pacifist EmoCowboy Scared
+EmoCowboy: Pacifist Bomberman Scared
+Scared: Pacifist Bomberman EmoCowboy
+Generated: 2014/08/12 07:30:54.301490828 UTC

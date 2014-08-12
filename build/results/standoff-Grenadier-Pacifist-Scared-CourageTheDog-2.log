@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Scared CourageTheDog
+                     Grenadier: P,N,N,N
+                      Pacifist: N,N,N,N
+                        Scared: Sa,N,N,N
+                 CourageTheDog: Sc,N,Db,Sb
+Final Health:
+                     Grenadier: -3
+                      Pacifist: 0
+                        Scared: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Pacifist Scared
+Pacifist: CourageTheDog Grenadier Scared
+Scared: CourageTheDog Grenadier Pacifist
+CourageTheDog: Scared Grenadier Pacifist
+Generated: 2014/08/12 07:19:46.478126125 UTC

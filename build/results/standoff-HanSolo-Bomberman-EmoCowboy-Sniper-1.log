@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman EmoCowboy Sniper
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                     Bomberman: -1
+                     EmoCowboy: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Sniper Bomberman
+Bomberman: EmoCowboy Sniper HanSolo
+EmoCowboy: Bomberman Sniper HanSolo
+Sniper: Bomberman EmoCowboy HanSolo
+Generated: 2014/08/12 09:57:57.497709399 UTC

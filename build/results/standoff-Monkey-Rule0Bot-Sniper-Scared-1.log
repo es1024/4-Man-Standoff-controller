@@ -1,0 +1,16 @@
+Standoff between: Monkey Rule0Bot Sniper Scared
+                        Monkey: N,Sc,N,Sb,N,Sc,N
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sb,N,N
+                        Scared: Sc,N,Sb,N,Sc,N,Sa
+Final Health:
+                        Monkey: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Sniper Scared Rule0Bot
+Rule0Bot: Sniper Scared Monkey
+Sniper: Rule0Bot Scared Monkey
+Scared: Rule0Bot Sniper Monkey
+Generated: 2014/08/12 07:38:21.195138096 UTC

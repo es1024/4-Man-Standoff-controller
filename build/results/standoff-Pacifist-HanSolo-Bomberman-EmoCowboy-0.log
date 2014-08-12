@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Bomberman EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,Sd,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Bomberman EmoCowboy
+HanSolo: Pacifist Bomberman EmoCowboy
+Bomberman: Pacifist HanSolo EmoCowboy
+EmoCowboy: Pacifist HanSolo Bomberman
+Generated: 2014/08/12 08:27:29.254875468 UTC

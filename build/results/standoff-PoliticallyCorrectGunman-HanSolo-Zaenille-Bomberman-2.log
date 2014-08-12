@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Zaenille Bomberman
+      PoliticallyCorrectGunman: Sb,N,P,Dd,Sd
+                       HanSolo: Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                     Bomberman: N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 0
+                      Zaenille: -2
+                     Bomberman: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman HanSolo Zaenille
+HanSolo: Bomberman PoliticallyCorrectGunman Zaenille
+Zaenille: Bomberman PoliticallyCorrectGunman HanSolo
+Bomberman: Zaenille PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 09:20:33.826987878 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Monkey Rule0Bot
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sa,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 5
+                        Monkey: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Rule0Bot Richochet
+Richochet: Monkey Rule0Bot HanSolo
+Monkey: Richochet Rule0Bot HanSolo
+Rule0Bot: Richochet Monkey HanSolo
+Generated: 2014/08/12 10:03:12.171567229 UTC

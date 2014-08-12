@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Aggressor Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Tb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Da,N,N,Da,Da,N,Da,N,N,N,N,N,N,N,N,N,Da,N,N,Da,Da,Da,N,N,Da,N,Da,N,N,N,N,N,N,N,N,N,N,Da,Da,N,Da,N,Sd
+Final Health:
+                      Pacifist: 2
+                       HanSolo: -3
+                     Aggressor: 0
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Neo HanSolo
+HanSolo: Aggressor Neo Pacifist
+Aggressor: HanSolo Neo Pacifist
+Neo: HanSolo Aggressor Pacifist
+Generated: 2014/08/12 10:23:36.437256124 UTC

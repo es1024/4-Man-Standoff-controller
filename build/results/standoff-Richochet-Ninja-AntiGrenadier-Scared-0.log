@@ -1,0 +1,16 @@
+Standoff between: Richochet Ninja AntiGrenadier Scared
+                     Richochet: Sd,N,Sb,N,Sb,N,Sc,N,Sd,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb
+                         Ninja: Db,Db,Da,Dc,Dc,Dd,Db,Db,Da,Dc,Da,Db,Dc,Dd,Dc,Dc,Db,Dd,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                         Ninja: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja AntiGrenadier Scared
+Ninja: Richochet AntiGrenadier Scared
+AntiGrenadier: Richochet Ninja Scared
+Scared: Richochet Ninja AntiGrenadier
+Generated: 2014/08/12 10:16:37.914393927 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sd,N,Sd,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dc,Dd,Dc,Dd,Dd,N,N,N,N,N,N,N,N,Sd,N,Sc,N,Sa,N,Sd,N,Sa,N,Sa
+                         Ninja: Da,Dc,Dc,Da,Dc,Dd,Da,Dd,Da,Dc,Da,Dc,Da,Db,Dc,Da,Dc,Dc,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -3
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Rule0Bot Spock
+Ninja: TwentyFourthsAndAHalfCentury Rule0Bot Spock
+Rule0Bot: TwentyFourthsAndAHalfCentury Ninja Spock
+Generated: 2014/08/12 06:02:53.369286159 UTC

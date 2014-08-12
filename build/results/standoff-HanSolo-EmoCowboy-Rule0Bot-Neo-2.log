@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy Rule0Bot Neo
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sc,N,Sc,N,Sc
+                     EmoCowboy: N,N,N,N,N,N,Sb,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo EmoCowboy Rule0Bot
+EmoCowboy: Neo HanSolo Rule0Bot
+Rule0Bot: Neo HanSolo EmoCowboy
+Neo: Rule0Bot HanSolo EmoCowboy
+Generated: 2014/08/12 08:16:27.856549918 UTC

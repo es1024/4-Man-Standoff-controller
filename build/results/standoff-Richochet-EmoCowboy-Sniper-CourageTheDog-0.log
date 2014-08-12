@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy Sniper CourageTheDog
+                     Richochet: Sc,N,Sd,N,Sc,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Da,Da,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+                     EmoCowboy: -2
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy Sniper CourageTheDog
+EmoCowboy: Richochet Sniper CourageTheDog
+Sniper: Richochet EmoCowboy CourageTheDog
+CourageTheDog: Richochet EmoCowboy Sniper
+Generated: 2014/08/12 05:44:33.272585114 UTC

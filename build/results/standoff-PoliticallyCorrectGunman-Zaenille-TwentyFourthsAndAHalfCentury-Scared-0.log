@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille TwentyFourthsAndAHalfCentury Scared
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Sa,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Sa,N,Sa,N,Sd,N,Sd
+                        Scared: N,N,N,N,N,N,N,Sc,N,Sc,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille TwentyFourthsAndAHalfCentury Scared
+Zaenille: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Zaenille Scared
+Scared: PoliticallyCorrectGunman Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:35:57.160795655 UTC

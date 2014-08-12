@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor TwentyFourthsAndAHalfCentury Scared
+                      Pacifist: N,N,N
+                     Aggressor: P,Tc,N
+  TwentyFourthsAndAHalfCentury: Db,Da,N
+                        Scared: Sb,N,Sa
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Scared Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury Scared Pacifist
+TwentyFourthsAndAHalfCentury: Aggressor Scared Pacifist
+Scared: Aggressor TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 10:15:08.648712791 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Sniper Scared Neo
+                     Richochet: Sc,N,Sc,N,Sd,N,Sc
+                        Sniper: Sd,N,Sd,N,Sd,N,N
+                        Scared: Sb,N,Sa,N,Sa,N,Sa
+                           Neo: N,Sb,N,N,Db,N,N
+Final Health:
+                     Richochet: -1
+                        Sniper: 1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo Sniper Scared
+Sniper: Neo Richochet Scared
+Scared: Neo Richochet Sniper
+Neo: Scared Richochet Sniper
+Generated: 2014/08/12 07:43:30.364551680 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey EmoCowboy CourageTheDog
+                       HanSolo: Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Da,Da,Da,Da,Da,Da,Sa,N,Da,Da,Da,Da,Da,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+                        Monkey: -2
+                     EmoCowboy: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey EmoCowboy CourageTheDog
+Monkey: HanSolo EmoCowboy CourageTheDog
+EmoCowboy: HanSolo Monkey CourageTheDog
+CourageTheDog: HanSolo Monkey EmoCowboy
+Generated: 2014/08/12 08:16:14.648495197 UTC

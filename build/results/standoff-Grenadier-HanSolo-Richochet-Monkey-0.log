@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Richochet Monkey
+                     Grenadier: N,P,Tc
+                       HanSolo: Sa,N,Sa
+                     Richochet: Sb,N,Sb
+                        Monkey: N,Sa,N
+Final Health:
+                     Grenadier: -4
+                       HanSolo: -2
+                     Richochet: -3
+                        Monkey: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Richochet Monkey
+HanSolo: Grenadier Richochet Monkey
+Richochet: Grenadier HanSolo Monkey
+Monkey: Grenadier HanSolo Richochet
+Generated: 2014/08/12 06:34:14.555235510 UTC

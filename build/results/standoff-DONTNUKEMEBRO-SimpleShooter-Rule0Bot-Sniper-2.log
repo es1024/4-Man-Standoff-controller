@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Rule0Bot Sniper
+                 DONTNUKEMEBRO: Dd,Dd,Sd,N,P
+                 SimpleShooter: Sc,N,Sa,N,Sc
+                      Rule0Bot: N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: -7
+                 SimpleShooter: 2
+                      Rule0Bot: -2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Sniper SimpleShooter Rule0Bot
+SimpleShooter: Sniper DONTNUKEMEBRO Rule0Bot
+Rule0Bot: Sniper DONTNUKEMEBRO SimpleShooter
+Sniper: Rule0Bot DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 06:24:48.515983582 UTC

@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier Scared
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dc,Dc,Dd,Dc,Dd,Dc,Dc,N,N,N,Sd,N,Sc,N,N,Sd,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,Sb,N,N,N,Sb,N,N,Sc,N,N,Sb,N,Sb
+Final Health:
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: AntiGrenadier Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier Scared Zaenille
+AntiGrenadier: TwentyFourthsAndAHalfCentury Scared Zaenille
+Scared: TwentyFourthsAndAHalfCentury AntiGrenadier Zaenille
+Generated: 2014/08/12 10:33:36.267799761 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Spock Richochet
+                     Grenadier: P,Tc
+               StraightShooter: Sd,N
+                         Spock: Sb,N
+                     Richochet: Sc,N
+Final Health:
+                     Grenadier: 2
+               StraightShooter: 0
+                         Spock: -5
+                     Richochet: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Richochet StraightShooter
+StraightShooter: Spock Richochet Grenadier
+Spock: StraightShooter Richochet Grenadier
+Richochet: StraightShooter Spock Grenadier
+Generated: 2014/08/12 08:13:59.867979344 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter HanSolo Aggressor
+                      Pacifist: N,N
+               StraightShooter: Sc,N
+                       HanSolo: Sa,N
+                     Aggressor: P,Tb
+Final Health:
+                      Pacifist: 0
+               StraightShooter: -3
+                       HanSolo: 0
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter HanSolo Aggressor
+StraightShooter: Pacifist HanSolo Aggressor
+HanSolo: Pacifist StraightShooter Aggressor
+Aggressor: Pacifist StraightShooter HanSolo
+Generated: 2014/08/12 08:52:25.025152082 UTC

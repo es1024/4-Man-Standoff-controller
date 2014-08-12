@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Monkey Bomberman
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Db,Da,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Dd,Dd,Dc,Dc,Dd,Dc,Da,Sa,N,Dc,Dc,Dd,Dd,Da,Dc,Da,Da,Dc,Dc,Dd,Da,Dd,Da,Dc,Dc,Da,Dc,Dc,Dc,Dd,Dc,Da,Dc,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Monkey: N,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,N,N,Da,Da,N,Dc,N,N,N,N,N,N,Dc,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                 DONTNUKEMEBRO: -17
+                        Monkey: -2
+                     Bomberman: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman DONTNUKEMEBRO Monkey
+DONTNUKEMEBRO: Bomberman InputAnalyzer Monkey
+Monkey: Bomberman InputAnalyzer DONTNUKEMEBRO
+Bomberman: Monkey InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 07:21:49.416069841 UTC

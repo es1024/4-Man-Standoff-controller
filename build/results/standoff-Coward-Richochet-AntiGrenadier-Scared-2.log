@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet AntiGrenadier Scared
+                        Coward: Sc,N,Sc,N,Sb,N,Dd,Sd,N,Dd,Dd,Dd,Dd,Dd,Dd,Sd
+                     Richochet: Sd,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared Richochet AntiGrenadier
+Richochet: Scared Coward AntiGrenadier
+AntiGrenadier: Scared Coward Richochet
+Scared: AntiGrenadier Coward Richochet
+Generated: 2014/08/12 06:31:23.725285799 UTC

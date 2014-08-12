@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Richochet Zaenille
+                         Spock: Sc,N,Sc,N,N
+                 SimpleShooter: Sa,N,Sa,N,Sc
+                     Richochet: Sb,N,Sa,N,Sb
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 1
+                     Richochet: -1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Zaenille SimpleShooter
+SimpleShooter: Richochet Zaenille Spock
+Richochet: SimpleShooter Zaenille Spock
+Zaenille: SimpleShooter Richochet Spock
+Generated: 2014/08/12 10:05:21.963086598 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Ninja Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,Sc
+                         Ninja: Dc,Db,Dc,Db,Dd,Db,Da,Dc,Da,Dd,Db,Dd,Da,Dc,Dd,Db,Dc,Dd,Db,Dd,Da,Dd,Db,Dc,Da,Dd,Da,Dd,Dd,Dd
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Sniper Grenadier
+Ninja: TwentyFourthsAndAHalfCentury Sniper Grenadier
+Sniper: TwentyFourthsAndAHalfCentury Ninja Grenadier
+Generated: 2014/08/12 08:12:51.294440272 UTC

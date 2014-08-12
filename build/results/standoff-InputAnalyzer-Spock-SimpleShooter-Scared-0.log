@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter Scared
+                 InputAnalyzer: Db,Da,Da,Dd,Sd,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sc
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sb
+                        Scared: Sa,N,Sc,N,Sc,N,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 1
+                 SimpleShooter: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock SimpleShooter Scared
+Spock: InputAnalyzer SimpleShooter Scared
+SimpleShooter: InputAnalyzer Spock Scared
+Scared: InputAnalyzer Spock SimpleShooter
+Generated: 2014/08/12 06:40:07.906606228 UTC

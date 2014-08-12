@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey Neo CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,Sd,N,N,N,N,Db,Sd,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,N,Sb,N,Da,Db,Db,Db,Db,Da,Da,Db,Da,Da,N
+Final Health:
+                       HanSolo: 5
+                        Monkey: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo CourageTheDog Monkey
+Monkey: Neo CourageTheDog HanSolo
+Neo: Monkey CourageTheDog HanSolo
+CourageTheDog: Monkey Neo HanSolo
+Generated: 2014/08/12 10:20:35.946711010 UTC

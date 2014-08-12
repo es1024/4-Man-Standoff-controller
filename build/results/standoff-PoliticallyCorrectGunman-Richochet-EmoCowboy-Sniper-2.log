@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet EmoCowboy Sniper
+      PoliticallyCorrectGunman: Dc,N,Dd,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sd,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 5
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper Richochet EmoCowboy
+Richochet: Sniper PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: Sniper PoliticallyCorrectGunman Richochet
+Sniper: EmoCowboy PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 09:07:32.078305533 UTC

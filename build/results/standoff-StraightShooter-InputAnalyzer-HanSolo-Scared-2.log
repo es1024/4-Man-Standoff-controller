@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer HanSolo Scared
+               StraightShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,P,Db,N,N
+                       HanSolo: Sd,N,Sd,N,Sa
+                        Scared: Sb,N,Sb,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                       HanSolo: 2
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared InputAnalyzer HanSolo
+InputAnalyzer: Scared StraightShooter HanSolo
+HanSolo: Scared StraightShooter InputAnalyzer
+Scared: HanSolo StraightShooter InputAnalyzer
+Generated: 2014/08/12 10:35:53.426308193 UTC

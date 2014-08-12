@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Richochet Ninja
+                 InputAnalyzer: Db,Dd,N
+                     Aggressor: P,Ta,N
+                     Richochet: Sb,N,Sd
+                         Ninja: Dc,Db,Dd
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 0
+                     Richochet: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Richochet Ninja
+Aggressor: InputAnalyzer Richochet Ninja
+Richochet: InputAnalyzer Aggressor Ninja
+Ninja: InputAnalyzer Aggressor Richochet
+Generated: 2014/08/12 07:31:28.952180382 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock SimpleShooter Zaenille
+                     Grenadier: P,Tb
+                         Spock: Sa,N
+                 SimpleShooter: Sd,N
+                      Zaenille: Sd,N
+Final Health:
+                     Grenadier: 0
+                         Spock: -3
+                 SimpleShooter: 2
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock SimpleShooter Zaenille
+Spock: Grenadier SimpleShooter Zaenille
+SimpleShooter: Grenadier Spock Zaenille
+Zaenille: Grenadier Spock SimpleShooter
+Generated: 2014/08/12 07:13:19.548159722 UTC

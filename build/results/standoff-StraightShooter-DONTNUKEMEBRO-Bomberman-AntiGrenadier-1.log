@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Bomberman AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Dc,Dc,Da,Dd,Da,Da,Da,Dd,Dd,Dd,Dd,Dd,Dd,Da,Da,Dc,Dc,Dc,Dc,Dd,Dd,Dd,Da,Dd,Dd,Dc,Dc,Da,Da,Dd,Dd,Dd,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -15
+                     Bomberman: -15
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman AntiGrenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: Bomberman AntiGrenadier StraightShooter
+Bomberman: DONTNUKEMEBRO AntiGrenadier StraightShooter
+AntiGrenadier: DONTNUKEMEBRO Bomberman StraightShooter
+Generated: 2014/08/12 09:38:45.800704412 UTC

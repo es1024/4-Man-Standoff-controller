@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Monkey AntiGrenadier
+                 InputAnalyzer: Dd,Db,Dd,Dc,P,Sa
+                 SimpleShooter: Sc,N,Sa,N,Sd,N
+                        Monkey: N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,Sa
+Final Health:
+                 InputAnalyzer: -10
+                 SimpleShooter: 2
+                        Monkey: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier SimpleShooter Monkey
+SimpleShooter: AntiGrenadier InputAnalyzer Monkey
+Monkey: AntiGrenadier InputAnalyzer SimpleShooter
+AntiGrenadier: Monkey InputAnalyzer SimpleShooter
+Generated: 2014/08/12 10:19:14.217541273 UTC

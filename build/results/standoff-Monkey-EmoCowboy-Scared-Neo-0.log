@@ -1,0 +1,16 @@
+Standoff between: Monkey EmoCowboy Scared Neo
+                        Monkey: N,N,N,N,N,N,N,N,Dc,N,N,N,Sd,N,N,N,N,N,N,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N
+                     EmoCowboy: N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,Sd,N,Sa,N,Sd,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,Dc,N,N,Da,Dc,Da,N,N,N,N,N,N,Dc,Da,Dc,Da,Dc,N,Dc,Da,N,N,N,N,N,N,N,Dc,N,Dc,Da,N,N,Dc,N,N,N,N,N,N,Dc,Sd,N
+Final Health:
+                        Monkey: -1
+                     EmoCowboy: -2
+                        Scared: 5
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: EmoCowboy Scared Neo
+EmoCowboy: Monkey Scared Neo
+Scared: Monkey EmoCowboy Neo
+Neo: Monkey EmoCowboy Scared
+Generated: 2014/08/12 08:03:37.277792088 UTC

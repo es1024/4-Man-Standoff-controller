@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward TwentyFourthsAndAHalfCentury Scared
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,Db,Dd,Db,Sb,N,Sb
+                        Scared: N,N,N,N,N,N,N,Sb,N,Sc,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 3
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Scared Coward
+Coward: TwentyFourthsAndAHalfCentury Scared Grenadier
+TwentyFourthsAndAHalfCentury: Coward Scared Grenadier
+Scared: Coward TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 08:03:44.791551596 UTC

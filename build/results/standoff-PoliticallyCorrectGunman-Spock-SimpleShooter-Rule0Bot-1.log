@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock SimpleShooter Rule0Bot
+      PoliticallyCorrectGunman: Dd,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,N,N,Sa,N,Sd,N,Sc,N
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,Sa,N,Sd,N,Sb,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                 SimpleShooter: 3
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Rule0Bot Spock
+Spock: SimpleShooter Rule0Bot PoliticallyCorrectGunman
+SimpleShooter: Spock Rule0Bot PoliticallyCorrectGunman
+Rule0Bot: Spock SimpleShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 06:05:09.569967003 UTC

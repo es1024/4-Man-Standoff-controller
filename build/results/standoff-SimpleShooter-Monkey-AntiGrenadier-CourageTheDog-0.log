@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey AntiGrenadier CourageTheDog
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sc,N,Sb,N,Sd,N
+                        Monkey: N,Sd,N,Dc,Dc,Dc,N,Sc,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Dc,Sa,N,Db,Db,Sb,N,Da,Sa
+Final Health:
+                 SimpleShooter: -1
+                        Monkey: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey AntiGrenadier CourageTheDog
+Monkey: SimpleShooter AntiGrenadier CourageTheDog
+AntiGrenadier: SimpleShooter Monkey CourageTheDog
+CourageTheDog: SimpleShooter Monkey AntiGrenadier
+Generated: 2014/08/12 05:44:47.497117545 UTC

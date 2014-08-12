@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Spock CourageTheDog
+      PoliticallyCorrectGunman: Db,Sa,N,N,N
+                       HanSolo: Sa,N,Sc,N,Sc
+                         Spock: Sa,N,Sb,N,Sb
+                 CourageTheDog: Sb,N,Sc,N,Dc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -1
+                         Spock: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Spock CourageTheDog
+HanSolo: PoliticallyCorrectGunman Spock CourageTheDog
+Spock: PoliticallyCorrectGunman HanSolo CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman HanSolo Spock
+Generated: 2014/08/12 09:29:17.695023975 UTC

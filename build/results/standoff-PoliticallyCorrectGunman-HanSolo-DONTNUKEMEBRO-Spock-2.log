@@ -1,11 +1,11 @@
 Standoff between: PoliticallyCorrectGunman HanSolo DONTNUKEMEBRO Spock
-      PoliticallyCorrectGunman: Sa,N,N,N,N
-                       HanSolo: Sd,N,Sd,N,Sc
-                 DONTNUKEMEBRO: Db,Sd,N,Sd,N
-                         Spock: Sc,N,Sc,N,N
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Dd,Da,Sd,N,Sd,N,Sb
+                         Spock: Sc,N,Sc,N,N,N,N
 Final Health:
       PoliticallyCorrectGunman: -2
-                       HanSolo: 5
+                       HanSolo: 3
                  DONTNUKEMEBRO: -1
                          Spock: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
@@ -13,4 +13,4 @@ PoliticallyCorrectGunman: Spock HanSolo DONTNUKEMEBRO
 HanSolo: Spock PoliticallyCorrectGunman DONTNUKEMEBRO
 DONTNUKEMEBRO: Spock PoliticallyCorrectGunman HanSolo
 Spock: DONTNUKEMEBRO PoliticallyCorrectGunman HanSolo
-Generated: 2014/08/11 00:58:38.649479694 UTC
+Generated: 2014/08/12 10:45:59.220212937 UTC

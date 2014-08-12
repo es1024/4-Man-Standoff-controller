@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Bomberman Scared
+                     Grenadier: N,N,N,N,N,N,N,P,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,N,Sa,N,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,Sa,N,Sa,N,Sb
+Final Health:
+                     Grenadier: -7
+  TwentyFourthsAndAHalfCentury: 0
+                     Bomberman: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Bomberman Scared
+TwentyFourthsAndAHalfCentury: Grenadier Bomberman Scared
+Bomberman: Grenadier TwentyFourthsAndAHalfCentury Scared
+Scared: Grenadier TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 06:37:29.702467656 UTC

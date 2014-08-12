@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Scared CourageTheDog
+                         Spock: Sb,N
+                     Aggressor: P,Tc
+                        Scared: Sa,N
+                 CourageTheDog: Sb,N
+Final Health:
+                         Spock: 0
+                     Aggressor: -2
+                        Scared: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Aggressor Scared CourageTheDog
+Aggressor: Spock Scared CourageTheDog
+Scared: Spock Aggressor CourageTheDog
+CourageTheDog: Spock Aggressor Scared
+Generated: 2014/08/12 06:16:15.079436553 UTC

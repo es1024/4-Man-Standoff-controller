@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Bomberman Sniper
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sc,N,Sd,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -1
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Sniper Monkey
+Monkey: Bomberman Sniper SimpleShooter
+Bomberman: Monkey Sniper SimpleShooter
+Sniper: Monkey Bomberman SimpleShooter
+Generated: 2014/08/12 07:55:30.844669378 UTC

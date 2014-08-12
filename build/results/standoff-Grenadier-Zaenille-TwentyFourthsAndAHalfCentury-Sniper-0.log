@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille TwentyFourthsAndAHalfCentury Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,N,N,N,N,Sa,N,N,Sd,N,Sd,N,Sd
+                        Sniper: Sa,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille TwentyFourthsAndAHalfCentury Sniper
+Zaenille: Grenadier TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: Grenadier Zaenille Sniper
+Sniper: Grenadier Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:01:29.189179278 UTC

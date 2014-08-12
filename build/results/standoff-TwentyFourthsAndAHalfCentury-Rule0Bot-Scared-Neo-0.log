@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Rule0Bot Scared Neo
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Sd,N,Sd,N,Sc,N,N,N,N,N,N,Sb,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,Sb,N,Sa,N,Sb,N,Sa,N,N,N,N,Sd,N,Sa
+                           Neo: N,N,N,N,N,Dc,Db,N,Db,Dc,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Rule0Bot Scared Neo
+Rule0Bot: TwentyFourthsAndAHalfCentury Scared Neo
+Scared: TwentyFourthsAndAHalfCentury Rule0Bot Neo
+Neo: TwentyFourthsAndAHalfCentury Rule0Bot Scared
+Generated: 2014/08/12 08:16:58.491561137 UTC

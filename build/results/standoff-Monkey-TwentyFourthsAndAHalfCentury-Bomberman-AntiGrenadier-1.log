@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Sa,N,N,N,N,N,N,N,Sc,N,Sc,N,Sd,N,Sd,N,Sa,N,N,N,N,N,N,N,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Bomberman AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman AntiGrenadier Monkey
+Bomberman: TwentyFourthsAndAHalfCentury AntiGrenadier Monkey
+AntiGrenadier: TwentyFourthsAndAHalfCentury Bomberman Monkey
+Generated: 2014/08/12 09:16:27.141725898 UTC

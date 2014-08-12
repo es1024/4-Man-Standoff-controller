@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Neo CourageTheDog
+                     Richochet: Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,Dc,Da,Dc,Dc,Dd,Dc,Dc,Dc,N,N,N,N,N,Da,Dd,Dd,Dd,Da,Dd,Dd,N,N,N,N
+                           Neo: N,Db,Dd,N,Dd,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Da,Da,Db,Sb,N,Sc,N,Da,Db,Da,Da,Db,Da,Sb,N,Db,Da,Da,Da,Da,Sa
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: TwentyFourthsAndAHalfCentury Neo CourageTheDog
+TwentyFourthsAndAHalfCentury: Richochet Neo CourageTheDog
+Neo: Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Richochet TwentyFourthsAndAHalfCentury Neo
+Generated: 2014/08/12 07:13:54.226278914 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Zaenille CourageTheDog
+                        Coward: Sc,N,Dc
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+                 CourageTheDog: Sc,N,N
+Final Health:
+                        Coward: 0
+                     Aggressor: 2
+                      Zaenille: -6
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Aggressor Zaenille
+Aggressor: CourageTheDog Coward Zaenille
+Zaenille: CourageTheDog Coward Aggressor
+CourageTheDog: Zaenille Coward Aggressor
+Generated: 2014/08/12 07:51:56.532224524 UTC

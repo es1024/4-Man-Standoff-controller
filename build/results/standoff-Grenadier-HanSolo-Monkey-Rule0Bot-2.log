@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Monkey Rule0Bot
+                     Grenadier: N,N,N,P,Tb
+                       HanSolo: Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N
+                      Rule0Bot: N,N,N,N,Sa
+Final Health:
+                     Grenadier: 0
+                       HanSolo: -3
+                        Monkey: 2
+                      Rule0Bot: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot HanSolo Monkey
+HanSolo: Rule0Bot Grenadier Monkey
+Monkey: Rule0Bot Grenadier HanSolo
+Rule0Bot: Monkey Grenadier HanSolo
+Generated: 2014/08/12 06:26:53.978979926 UTC

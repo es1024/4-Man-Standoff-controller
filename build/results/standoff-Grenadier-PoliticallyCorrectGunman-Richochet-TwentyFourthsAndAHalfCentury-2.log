@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Richochet TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,P,Td
+      PoliticallyCorrectGunman: N,Dc,Sc,N,Sd
+                     Richochet: Sb,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Db,Db,Da,Dc
+Final Health:
+                     Grenadier: 2
+      PoliticallyCorrectGunman: -4
+                     Richochet: 0
+  TwentyFourthsAndAHalfCentury: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Richochet
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Grenadier Richochet
+Richochet: TwentyFourthsAndAHalfCentury Grenadier PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Richochet Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 09:35:03.524075737 UTC

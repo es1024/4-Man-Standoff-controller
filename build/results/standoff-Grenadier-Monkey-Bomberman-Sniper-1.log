@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey Bomberman Sniper
+                     Grenadier: P,N,N
+                        Monkey: N,P,N
+                     Bomberman: N,N,N
+                        Sniper: Sb,N,Sc
+Final Health:
+                     Grenadier: -4
+                        Monkey: -6
+                     Bomberman: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Sniper Monkey
+Monkey: Bomberman Sniper Grenadier
+Bomberman: Monkey Sniper Grenadier
+Sniper: Monkey Bomberman Grenadier
+Generated: 2014/08/12 08:38:13.961887890 UTC

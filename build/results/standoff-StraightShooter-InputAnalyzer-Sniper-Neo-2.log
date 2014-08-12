@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Sniper Neo
+               StraightShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Dc,P,Sa,N
+                        Sniper: Sa,N,Sd,N,Sa
+                           Neo: N,N,N,N,N
+Final Health:
+               StraightShooter: -4
+                 InputAnalyzer: -7
+                        Sniper: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo InputAnalyzer Sniper
+InputAnalyzer: Neo StraightShooter Sniper
+Sniper: Neo StraightShooter InputAnalyzer
+Neo: Sniper StraightShooter InputAnalyzer
+Generated: 2014/08/12 08:16:42.029813672 UTC

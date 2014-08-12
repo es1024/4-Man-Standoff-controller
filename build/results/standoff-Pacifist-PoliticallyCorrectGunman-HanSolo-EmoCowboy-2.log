@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman HanSolo EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sd,N,N,N,Sd,N,Sc,N,Sc,N,Dc,Dc,N,Da
+                       HanSolo: Sd,N,Sa,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy PoliticallyCorrectGunman HanSolo
+PoliticallyCorrectGunman: EmoCowboy Pacifist HanSolo
+HanSolo: EmoCowboy Pacifist PoliticallyCorrectGunman
+EmoCowboy: HanSolo Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 10:35:22.475069170 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Richochet EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Da,Da,Sa,N,Sa,N,Da,Sa
+                     Richochet: Sd,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                        Coward: 1
+                     Richochet: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Coward Richochet
+Coward: EmoCowboy Grenadier Richochet
+Richochet: EmoCowboy Grenadier Coward
+EmoCowboy: Richochet Grenadier Coward
+Generated: 2014/08/12 06:35:36.276217047 UTC

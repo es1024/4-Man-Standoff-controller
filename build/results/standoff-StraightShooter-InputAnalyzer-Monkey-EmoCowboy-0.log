@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Monkey EmoCowboy
+               StraightShooter: Sc,N,Sc,N
+                 InputAnalyzer: Da,P,Sa,N
+                        Monkey: N,N,P,N
+                     EmoCowboy: N,N,N,N
+Final Health:
+               StraightShooter: -3
+                 InputAnalyzer: -4
+                        Monkey: -8
+                     EmoCowboy: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer Monkey EmoCowboy
+InputAnalyzer: StraightShooter Monkey EmoCowboy
+Monkey: StraightShooter InputAnalyzer EmoCowboy
+EmoCowboy: StraightShooter InputAnalyzer Monkey
+Generated: 2014/08/12 06:53:56.642917370 UTC

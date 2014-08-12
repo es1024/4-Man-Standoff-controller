@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Coward Monkey
+                     Grenadier: N,N,N,P,Td
+                 InputAnalyzer: Dd,P,Db,N,N
+                        Coward: Sb,N,Sb,N,Db
+                        Monkey: N,Dd,P,Db,Db
+Final Health:
+                     Grenadier: -4
+                 InputAnalyzer: -5
+                        Coward: -4
+                        Monkey: -12
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey InputAnalyzer Coward
+InputAnalyzer: Monkey Grenadier Coward
+Coward: Monkey Grenadier InputAnalyzer
+Monkey: Coward Grenadier InputAnalyzer
+Generated: 2014/08/12 09:24:53.419382366 UTC

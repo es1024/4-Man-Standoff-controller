@@ -1,0 +1,16 @@
+Standoff between: Monkey Sniper Neo CourageTheDog
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N,Da,Da,Da,Da,Da,Da,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,Da,N,N
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Da,N,Da,N,Da,N,Da,Da,Da,N,N,N,N,N,N,N,N,N,Da,Da,N,N,Da,Da,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,N,Da
+                 CourageTheDog: Sc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -15
+                        Sniper: -15
+                           Neo: -17
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Neo CourageTheDog Sniper
+Sniper: Neo CourageTheDog Monkey
+Neo: Sniper CourageTheDog Monkey
+CourageTheDog: Sniper Neo Monkey
+Generated: 2014/08/12 08:15:37.579554634 UTC

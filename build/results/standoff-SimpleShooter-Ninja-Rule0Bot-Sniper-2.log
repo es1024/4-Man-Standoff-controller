@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Ninja Rule0Bot Sniper
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+                         Ninja: Dd,Dd,Db,Da,Dc,Dc,Dc,Dd,Da,Da,Db,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Ninja Rule0Bot
+Ninja: Sniper SimpleShooter Rule0Bot
+Rule0Bot: Sniper SimpleShooter Ninja
+Sniper: Rule0Bot SimpleShooter Ninja
+Generated: 2014/08/12 05:54:05.775657333 UTC

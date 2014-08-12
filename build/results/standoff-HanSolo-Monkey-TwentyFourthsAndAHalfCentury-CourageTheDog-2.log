@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sc,N,Sc,N
+                        Monkey: N,N,N,N,N,N,Db,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Db,Da,Sa,N,Sa,N,Sa
+                 CourageTheDog: Sb,N,Sb,N,Dc,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Monkey TwentyFourthsAndAHalfCentury
+Monkey: CourageTheDog HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog HanSolo Monkey
+CourageTheDog: TwentyFourthsAndAHalfCentury HanSolo Monkey
+Generated: 2014/08/12 06:15:26.265694898 UTC

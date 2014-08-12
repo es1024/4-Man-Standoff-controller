@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Ninja Scared
+                       HanSolo: Sc,N,Sc,N,Sc,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N
+                         Ninja: Dc,Db,Db,Dc,Dc,N,N,N
+                        Scared: Sb,N,Sb,N,Sa,N,N,Sb
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: -1
+                         Ninja: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Scared SimpleShooter
+SimpleShooter: Ninja Scared HanSolo
+Ninja: SimpleShooter Scared HanSolo
+Scared: SimpleShooter Ninja HanSolo
+Generated: 2014/08/12 08:57:41.668183284 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille EmoCowboy Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                           Neo: N,N,Da,N,N,N,N
+Final Health:
+               StraightShooter: 5
+                      Zaenille: -2
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Neo Zaenille
+Zaenille: EmoCowboy Neo StraightShooter
+EmoCowboy: Zaenille Neo StraightShooter
+Neo: Zaenille EmoCowboy StraightShooter
+Generated: 2014/08/12 08:07:18.025558336 UTC

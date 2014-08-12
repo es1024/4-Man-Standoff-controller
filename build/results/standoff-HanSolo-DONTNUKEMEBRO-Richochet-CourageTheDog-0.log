@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Richochet CourageTheDog
+                       HanSolo: Sb,N,Sb,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dd,Sa,N,N,N,N,N,N
+                     Richochet: Sd,N,Sb,N,Sd,N,Sd,N,Sd
+                 CourageTheDog: Sa,N,Sa,N,Dc,Sc,N,Sc,N
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+                     Richochet: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: DONTNUKEMEBRO Richochet CourageTheDog
+DONTNUKEMEBRO: HanSolo Richochet CourageTheDog
+Richochet: HanSolo DONTNUKEMEBRO CourageTheDog
+CourageTheDog: HanSolo DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 07:39:12.179615108 UTC

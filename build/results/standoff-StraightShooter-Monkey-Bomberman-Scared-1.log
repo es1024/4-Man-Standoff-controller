@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Bomberman Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,Sd,N,N,N,N,N,N,N,Sd,N,N,N,N,N,N,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,Sd,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,Sd,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                        Monkey: -17
+                     Bomberman: -15
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Scared Monkey
+Monkey: Bomberman Scared StraightShooter
+Bomberman: Monkey Scared StraightShooter
+Scared: Monkey Bomberman StraightShooter
+Generated: 2014/08/12 09:32:28.987669645 UTC

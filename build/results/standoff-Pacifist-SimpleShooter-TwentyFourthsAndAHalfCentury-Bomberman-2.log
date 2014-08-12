@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter TwentyFourthsAndAHalfCentury Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: N,Da,N,N,N,N,N,N,N,Dd,Dd,Da,Da,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Bomberman Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Pacifist SimpleShooter
+Bomberman: TwentyFourthsAndAHalfCentury Pacifist SimpleShooter
+Generated: 2014/08/12 10:26:04.205760246 UTC

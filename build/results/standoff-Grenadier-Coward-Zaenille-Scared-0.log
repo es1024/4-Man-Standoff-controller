@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Zaenille Scared
+                     Grenadier: N,P,Tb
+                        Coward: Sd,N,Sa
+                      Zaenille: Sc,N,N
+                        Scared: N,Sa,N
+Final Health:
+                     Grenadier: -2
+                        Coward: -3
+                      Zaenille: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Zaenille Scared
+Coward: Grenadier Zaenille Scared
+Zaenille: Grenadier Coward Scared
+Scared: Grenadier Coward Zaenille
+Generated: 2014/08/12 06:09:16.644554357 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Ninja CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N,Sd,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd
+                         Ninja: Dd,Dc,Dc,Da,Dd,Dd,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Da,Sc,N,Sc,N,Db,Da,Db,Db,Db,Db,Db,Db,Sb,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog SimpleShooter Ninja
+SimpleShooter: CourageTheDog Pacifist Ninja
+Ninja: CourageTheDog Pacifist SimpleShooter
+CourageTheDog: Ninja Pacifist SimpleShooter
+Generated: 2014/08/12 08:39:41.021327683 UTC

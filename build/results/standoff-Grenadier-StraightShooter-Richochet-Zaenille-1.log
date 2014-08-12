@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Richochet Zaenille
+                     Grenadier: N,P,N,N
+               StraightShooter: Sd,N,Sd,N
+                     Richochet: Sb,N,Sa,N
+                      Zaenille: Sd,N,N,N
+Final Health:
+                     Grenadier: -3
+               StraightShooter: 0
+                     Richochet: 2
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Zaenille StraightShooter
+StraightShooter: Richochet Zaenille Grenadier
+Richochet: StraightShooter Zaenille Grenadier
+Zaenille: StraightShooter Richochet Grenadier
+Generated: 2014/08/12 10:05:59.501871888 UTC

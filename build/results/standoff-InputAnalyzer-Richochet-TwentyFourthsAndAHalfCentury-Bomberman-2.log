@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury Bomberman
+                 InputAnalyzer: Dd,Dc,P,Sb,N
+                     Richochet: Sc,N,Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,N,N
+                     Bomberman: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Richochet: 0
+  TwentyFourthsAndAHalfCentury: -2
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Richochet TwentyFourthsAndAHalfCentury
+Richochet: Bomberman InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman InputAnalyzer Richochet
+Bomberman: TwentyFourthsAndAHalfCentury InputAnalyzer Richochet
+Generated: 2014/08/12 09:06:38.849724571 UTC

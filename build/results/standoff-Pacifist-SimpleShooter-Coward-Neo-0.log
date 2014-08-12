@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Coward Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sc,N,Sa,N,N,N
+                        Coward: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Da,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: -1
+                        Coward: 1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Coward Neo
+SimpleShooter: Pacifist Coward Neo
+Coward: Pacifist SimpleShooter Neo
+Neo: Pacifist SimpleShooter Coward
+Generated: 2014/08/12 06:42:17.345341836 UTC

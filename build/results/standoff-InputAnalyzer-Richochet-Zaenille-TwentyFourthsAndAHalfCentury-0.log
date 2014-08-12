@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Zaenille TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,Dd,Sb,N,P,N,Sa
+                     Richochet: Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da,N,Da,Da,Da
+Final Health:
+                 InputAnalyzer: -8
+                     Richochet: 0
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Zaenille TwentyFourthsAndAHalfCentury
+Richochet: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer Richochet Zaenille
+Generated: 2014/08/12 05:47:08.556099061 UTC

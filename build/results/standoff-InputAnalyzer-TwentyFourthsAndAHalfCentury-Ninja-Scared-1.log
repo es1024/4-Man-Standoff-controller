@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Ninja Scared
+                 InputAnalyzer: Dc,Da,Db,Sd,N,Dc,Db,Dc,P,Da,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Dc,Da,N,N,N,N,N,N,N,N,Sc
+                         Ninja: Da,Da,Dc,Dc,Da,Dc,Dc,Da,Dc,Db,Dc,Db,Da
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Scared InputAnalyzer
+Ninja: TwentyFourthsAndAHalfCentury Scared InputAnalyzer
+Scared: TwentyFourthsAndAHalfCentury Ninja InputAnalyzer
+Generated: 2014/08/12 05:49:38.785881692 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist DONTNUKEMEBRO AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Db,Dd,Da,Dd,Da,Db,Db,Da,Da,Db,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -2
+                      Pacifist: -18
+                 DONTNUKEMEBRO: -3
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO AntiGrenadier Pacifist
+Pacifist: DONTNUKEMEBRO AntiGrenadier Grenadier
+DONTNUKEMEBRO: Pacifist AntiGrenadier Grenadier
+AntiGrenadier: Pacifist DONTNUKEMEBRO Grenadier
+Generated: 2014/08/12 10:05:21.607974484 UTC

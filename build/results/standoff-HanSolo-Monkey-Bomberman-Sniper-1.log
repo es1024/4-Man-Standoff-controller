@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey Bomberman Sniper
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Monkey: -1
+                     Bomberman: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Sniper Monkey
+Monkey: Bomberman Sniper HanSolo
+Bomberman: Monkey Sniper HanSolo
+Sniper: Monkey Bomberman HanSolo
+Generated: 2014/08/12 09:17:03.205768000 UTC

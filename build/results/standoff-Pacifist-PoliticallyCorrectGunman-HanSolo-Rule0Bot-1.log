@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman HanSolo Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Da,Sa,N,P,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+      PoliticallyCorrectGunman: -7
+                       HanSolo: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Rule0Bot PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo Rule0Bot Pacifist
+HanSolo: PoliticallyCorrectGunman Rule0Bot Pacifist
+Rule0Bot: PoliticallyCorrectGunman HanSolo Pacifist
+Generated: 2014/08/12 06:04:27.599194631 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO SimpleShooter Coward
+                     Grenadier: P,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Sa,N,Dd,Dc,Dc,Dc,Dd,Dd,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,N,N,N,N
+                        Coward: Sa,N,Dc,Db,Dc,Sc,N,Sb,N,Da
+Final Health:
+                     Grenadier: -7
+                 DONTNUKEMEBRO: 2
+                 SimpleShooter: 0
+                        Coward: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Coward DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Coward Grenadier
+SimpleShooter: DONTNUKEMEBRO Coward Grenadier
+Coward: DONTNUKEMEBRO SimpleShooter Grenadier
+Generated: 2014/08/12 10:31:42.269289674 UTC

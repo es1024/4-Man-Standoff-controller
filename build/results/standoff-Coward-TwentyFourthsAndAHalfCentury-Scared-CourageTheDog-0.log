@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Scared CourageTheDog
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sb
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,N,Dc,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sa,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Sb,N,N,N,N
+Final Health:
+                        Coward: 1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury Scared CourageTheDog
+TwentyFourthsAndAHalfCentury: Coward Scared CourageTheDog
+Scared: Coward TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Coward TwentyFourthsAndAHalfCentury Scared
+Generated: 2014/08/12 08:11:45.088148483 UTC

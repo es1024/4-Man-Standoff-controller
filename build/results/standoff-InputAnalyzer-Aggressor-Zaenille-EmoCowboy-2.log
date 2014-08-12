@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Zaenille EmoCowboy
+                 InputAnalyzer: Dd,Sc
+                     Aggressor: P,Ta
+                      Zaenille: Sc,N
+                     EmoCowboy: Sd,N
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 2
+                      Zaenille: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Aggressor Zaenille
+Aggressor: EmoCowboy InputAnalyzer Zaenille
+Zaenille: EmoCowboy InputAnalyzer Aggressor
+EmoCowboy: Zaenille InputAnalyzer Aggressor
+Generated: 2014/08/12 10:47:51.206793469 UTC

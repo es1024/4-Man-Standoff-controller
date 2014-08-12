@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Aggressor Monkey
+                     Grenadier: N,P
+      PoliticallyCorrectGunman: Dd,P
+                     Aggressor: P,Ta
+                        Monkey: N,Dd
+Final Health:
+                     Grenadier: -12
+      PoliticallyCorrectGunman: -7
+                     Aggressor: -4
+                        Monkey: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Aggressor Monkey
+PoliticallyCorrectGunman: Grenadier Aggressor Monkey
+Aggressor: Grenadier PoliticallyCorrectGunman Monkey
+Monkey: Grenadier PoliticallyCorrectGunman Aggressor
+Generated: 2014/08/12 05:54:11.235869358 UTC

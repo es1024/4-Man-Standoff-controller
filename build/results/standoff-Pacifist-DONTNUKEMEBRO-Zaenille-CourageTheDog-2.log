@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO Zaenille CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dd,Dc,Da,Dd,Dd,Sd,N,Da,Dc,Dd,Dc,Sd,N,Da,Da,Da,Da,Dc,Dc,Dc,Dc,Sd,N,Dd,Da,Dc,Dd,Dd,Dd,Da,Da,Da,Dc,Sc,N,Sc,N,Sc
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Da,Db,Db,Sb,N,Da,Db,Da,Da,Sb,N,Db,Da,Sa,N,Db,Da,Db,Da,Sb,N,Sa,N,Sa,N,Db,Db,Db,Db,Db,Db,Db,Db,N,Db,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog DONTNUKEMEBRO Zaenille
+DONTNUKEMEBRO: CourageTheDog Pacifist Zaenille
+Zaenille: CourageTheDog Pacifist DONTNUKEMEBRO
+CourageTheDog: Zaenille Pacifist DONTNUKEMEBRO
+Generated: 2014/08/12 07:20:42.895894456 UTC

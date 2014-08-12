@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Ninja Scared
+      PoliticallyCorrectGunman: N,P
+                     Aggressor: P,Tc
+                         Ninja: Dd,Da
+                        Scared: Sa,N
+Final Health:
+      PoliticallyCorrectGunman: -6
+                     Aggressor: -1
+                         Ninja: -6
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Scared Aggressor
+Aggressor: Ninja Scared PoliticallyCorrectGunman
+Ninja: Aggressor Scared PoliticallyCorrectGunman
+Scared: Aggressor Ninja PoliticallyCorrectGunman
+Generated: 2014/08/12 09:53:23.665207706 UTC

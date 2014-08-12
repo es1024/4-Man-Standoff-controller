@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward EmoCowboy Neo
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Sd,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,N,Db,Sb
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+                     EmoCowboy: -6
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Coward EmoCowboy
+Coward: Neo SimpleShooter EmoCowboy
+EmoCowboy: Neo SimpleShooter Coward
+Neo: EmoCowboy SimpleShooter Coward
+Generated: 2014/08/12 08:59:46.911488302 UTC

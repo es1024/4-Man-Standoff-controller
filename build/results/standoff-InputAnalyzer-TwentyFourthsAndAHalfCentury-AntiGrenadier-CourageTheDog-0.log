@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury AntiGrenadier CourageTheDog
+                 InputAnalyzer: Db,Sd,N,P,Dd,Da
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dc,Dc,Dc,Dd
+                 AntiGrenadier: N,N,N,N,Sa,N
+                 CourageTheDog: Sb,N,Sb,N,P,Ta
+Final Health:
+                 InputAnalyzer: -11
+  TwentyFourthsAndAHalfCentury: -5
+                 AntiGrenadier: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury AntiGrenadier CourageTheDog
+TwentyFourthsAndAHalfCentury: InputAnalyzer AntiGrenadier CourageTheDog
+AntiGrenadier: InputAnalyzer TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: InputAnalyzer TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 08:00:09.181495321 UTC

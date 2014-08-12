@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO EmoCowboy
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc
+      PoliticallyCorrectGunman: Sd,N,Sd,N,N,N,P,N,Da
+                 DONTNUKEMEBRO: Db,Da,Sa,N,Sa,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -2
+      PoliticallyCorrectGunman: -1
+                 DONTNUKEMEBRO: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman DONTNUKEMEBRO EmoCowboy
+PoliticallyCorrectGunman: StraightShooter DONTNUKEMEBRO EmoCowboy
+DONTNUKEMEBRO: StraightShooter PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 09:45:37.941212777 UTC

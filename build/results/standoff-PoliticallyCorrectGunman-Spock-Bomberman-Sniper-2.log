@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Bomberman Sniper
+      PoliticallyCorrectGunman: N,Db,Sb,N,N,Sa
+                         Spock: Sd,N,Sd,N,Sd,N
+                     Bomberman: N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,Sb,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                     Bomberman: 5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper Spock Bomberman
+Spock: Sniper PoliticallyCorrectGunman Bomberman
+Bomberman: Sniper PoliticallyCorrectGunman Spock
+Sniper: Bomberman PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 09:04:54.824374812 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo EmoCowboy Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dd,Dc,Dc,Db,Db,Db,Da,Da,Db,Db,Db,Da,Dc,Dd,Dd
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo EmoCowboy Ninja
+HanSolo: Pacifist EmoCowboy Ninja
+EmoCowboy: Pacifist HanSolo Ninja
+Ninja: Pacifist HanSolo EmoCowboy
+Generated: 2014/08/12 06:24:04.614290027 UTC

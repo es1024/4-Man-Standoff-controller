@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock Richochet
+                 InputAnalyzer: Dd,Sc,N,Dc,Dc,Sd,N,Db,Sa
+                 DONTNUKEMEBRO: Dc,Dd,Sd,N,Sd,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sb,N,Sd,N,Sd
+                     Richochet: Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                 DONTNUKEMEBRO: -1
+                         Spock: 3
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Richochet InputAnalyzer Spock
+Spock: Richochet InputAnalyzer DONTNUKEMEBRO
+Richochet: Spock InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 06:31:39.945126491 UTC

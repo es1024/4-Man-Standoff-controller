@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Ninja AntiGrenadier Scared
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,Sb,N,Sd,N,Sd,N,Sc,N,Sb
+                         Ninja: Db,Dc,Dc,Dc,Dc,Db,Da,Dd,Dc,Dd,Dc,Dd,Da,Db,Dc,Da,Dd,Db,Dc,Dd,Db,Da,Dc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sa,N,Sc,N,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: AntiGrenadier Scared Ninja
+Ninja: AntiGrenadier Scared TwentyFourthsAndAHalfCentury
+AntiGrenadier: Ninja Scared TwentyFourthsAndAHalfCentury
+Scared: Ninja AntiGrenadier TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:39:07.438890709 UTC

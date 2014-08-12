@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Coward Sniper
+                 InputAnalyzer: Db,Sd,N,Sc,N,Da,Db,Dc,Db
+                 DONTNUKEMEBRO: Dc,Dd,Dd,Dd,Dd,Dc,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: 1
+                 DONTNUKEMEBRO: -1
+                        Coward: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Coward Sniper
+DONTNUKEMEBRO: InputAnalyzer Coward Sniper
+Coward: InputAnalyzer DONTNUKEMEBRO Sniper
+Sniper: InputAnalyzer DONTNUKEMEBRO Coward
+Generated: 2014/08/12 08:52:06.771507089 UTC

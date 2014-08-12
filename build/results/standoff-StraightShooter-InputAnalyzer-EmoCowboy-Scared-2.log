@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer EmoCowboy Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Db,P,Dd,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                     EmoCowboy: -4
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared InputAnalyzer EmoCowboy
+InputAnalyzer: Scared StraightShooter EmoCowboy
+EmoCowboy: Scared StraightShooter InputAnalyzer
+Scared: EmoCowboy StraightShooter InputAnalyzer
+Generated: 2014/08/12 08:45:36.166935602 UTC

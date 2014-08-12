@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo SimpleShooter TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sa,N,Sa
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Da,N,Db,N,Da,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 3
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter TwentyFourthsAndAHalfCentury HanSolo
+HanSolo: SimpleShooter TwentyFourthsAndAHalfCentury StraightShooter
+SimpleShooter: HanSolo TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: HanSolo SimpleShooter StraightShooter
+Generated: 2014/08/12 09:23:37.597725424 UTC

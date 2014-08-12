@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer HanSolo Richochet
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Db,Da,P,N,Dd
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa
+                     Richochet: Sa,N,Sa,N,Sc,N,N
+Final Health:
+                      Pacifist: -4
+                 InputAnalyzer: -1
+                       HanSolo: 0
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet InputAnalyzer HanSolo
+InputAnalyzer: Richochet Pacifist HanSolo
+HanSolo: Richochet Pacifist InputAnalyzer
+Richochet: HanSolo Pacifist InputAnalyzer
+Generated: 2014/08/12 06:21:18.455316347 UTC

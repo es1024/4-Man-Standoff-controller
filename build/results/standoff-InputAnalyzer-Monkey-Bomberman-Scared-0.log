@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Bomberman Scared
+                 InputAnalyzer: Db,Dd,P,Sb,N,N
+                        Monkey: N,N,N,N,Sb,N
+                     Bomberman: N,N,N,N,N,N
+                        Scared: N,N,N,Sa,N,Sc
+Final Health:
+                 InputAnalyzer: -3
+                        Monkey: -5
+                     Bomberman: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Bomberman Scared
+Monkey: InputAnalyzer Bomberman Scared
+Bomberman: InputAnalyzer Monkey Scared
+Scared: InputAnalyzer Monkey Bomberman
+Generated: 2014/08/12 08:20:17.247498789 UTC

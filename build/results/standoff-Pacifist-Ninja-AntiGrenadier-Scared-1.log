@@ -1,0 +1,16 @@
+Standoff between: Pacifist Ninja AntiGrenadier Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Dd,Db,Da,Da,Db,Db,Dc,Dc,Db,Dc,Dd,Da,Dd,Da,Dc,Db,Dc,Dc,Dd,Dd,Dc,Da,Da,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sc,N,Sb,N,Sa
+Final Health:
+                      Pacifist: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Scared Ninja
+Ninja: AntiGrenadier Scared Pacifist
+AntiGrenadier: Ninja Scared Pacifist
+Scared: Ninja AntiGrenadier Pacifist
+Generated: 2014/08/12 07:04:44.919505520 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Scared
+               StraightShooter: Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dd,Dd,P,Tc,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Da,Db,N
+                        Scared: Sb,N,Sc,N,Sa
+Final Health:
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -2
+  TwentyFourthsAndAHalfCentury: -5
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: Scared StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared StraightShooter DONTNUKEMEBRO
+Scared: TwentyFourthsAndAHalfCentury StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 08:59:59.524873797 UTC

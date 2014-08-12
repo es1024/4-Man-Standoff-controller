@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Ninja CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sd,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd
+                         Ninja: Db,Dc,Dc,Dc,Da,Db,Db,Db,Dd,Da,Da,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Dc,Sa,N,Sa,N,Sc,N,Sb,N,Db,Sb
+Final Health:
+                      Pacifist: -1
+                     Richochet: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Richochet Ninja
+Richochet: CourageTheDog Pacifist Ninja
+Ninja: CourageTheDog Pacifist Richochet
+CourageTheDog: Ninja Pacifist Richochet
+Generated: 2014/08/12 07:06:02.390293111 UTC

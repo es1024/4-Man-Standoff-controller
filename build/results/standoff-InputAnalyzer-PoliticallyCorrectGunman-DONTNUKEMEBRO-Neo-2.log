@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO Neo
+                 InputAnalyzer: Dd,Dc,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Dd,Da,Db,Db,Dd,Db,Dd,Dd,Da,Db,Da,Dd,Db,Dd,Db,Dd,Da,Db,Da,Da,Db,Dd,Dd,Db,Da,Da,Db,Da,Db,Db,Db,Db,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                           Neo: N,Db,N,N,Db,Dc,Dc,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,Dc,Dc,N,N,N,N,N,N,N,Dc,N,Dc,Sc,N,N,Dc,N,N,Sc,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -19
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo PoliticallyCorrectGunman DONTNUKEMEBRO
+PoliticallyCorrectGunman: Neo InputAnalyzer DONTNUKEMEBRO
+DONTNUKEMEBRO: Neo InputAnalyzer PoliticallyCorrectGunman
+Neo: DONTNUKEMEBRO InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 07:13:50.152618969 UTC

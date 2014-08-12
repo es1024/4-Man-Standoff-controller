@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Ninja Scared
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Db,P,Sb,N
+                 DONTNUKEMEBRO: Da,Dc,Dd,Da,Da,Dc,Dd,Da,Sa,N
+                         Ninja: Dd,Dd,Da,Dd,Da,Db,Dc,Da,Dd,Db
+                        Scared: N,Sa,N,N,N,Sc,N,Sb,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -7
+                 DONTNUKEMEBRO: -2
+                         Ninja: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared DONTNUKEMEBRO Ninja
+DONTNUKEMEBRO: Scared PoliticallyCorrectGunman Ninja
+Ninja: Scared PoliticallyCorrectGunman DONTNUKEMEBRO
+Scared: Ninja PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 09:05:24.585721987 UTC

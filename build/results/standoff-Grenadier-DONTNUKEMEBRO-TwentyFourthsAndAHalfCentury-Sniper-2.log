@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Sniper
+                     Grenadier: N,N,N,P,Td
+                 DONTNUKEMEBRO: Da,Dc,Da,Dd,Sa
+  TwentyFourthsAndAHalfCentury: N,Db,Dd,Da,Da
+                        Sniper: Sc,N,Sc,N,Sb
+Final Health:
+                     Grenadier: 0
+                 DONTNUKEMEBRO: 0
+  TwentyFourthsAndAHalfCentury: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: Sniper Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Grenadier DONTNUKEMEBRO
+Sniper: TwentyFourthsAndAHalfCentury Grenadier DONTNUKEMEBRO
+Generated: 2014/08/12 09:37:29.801150337 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Monkey Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sc,N,Sd,N,Sc,N,Sa
+                        Monkey: N,Sd,N,N,N,Sa,N,N,N,Sd,N,N,N
+                           Neo: N,N,N,N,Dc,Dc,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                        Monkey: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Monkey Neo
+SimpleShooter: Pacifist Monkey Neo
+Monkey: Pacifist SimpleShooter Neo
+Neo: Pacifist SimpleShooter Monkey
+Generated: 2014/08/12 07:40:17.179400779 UTC

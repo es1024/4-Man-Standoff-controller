@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Monkey EmoCowboy
+                 InputAnalyzer: Dc,Db,P,Db,Dc
+                 SimpleShooter: Sa,N,Sc,N,Sa
+                        Monkey: N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                 SimpleShooter: 2
+                        Monkey: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey EmoCowboy SimpleShooter
+SimpleShooter: Monkey EmoCowboy InputAnalyzer
+Monkey: SimpleShooter EmoCowboy InputAnalyzer
+EmoCowboy: SimpleShooter Monkey InputAnalyzer
+Generated: 2014/08/12 07:52:45.357502082 UTC

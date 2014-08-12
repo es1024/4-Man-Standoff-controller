@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO EmoCowboy CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Sd,N,Dc,Dd,Da,Dc,Dd,Sd,N,Dc,Dc,Da,Dd,Dd,Dc,Dc,Dd,Da,Dc,Da,Dc,Da,Da,Dc,Dd,Da,Dc,Da,Sd,N,Dd,Da
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Db,Da,Da,Da,Sb,N,Da,Da,Sa,N,Db,Da,Db,Da,Db,Da,Da,Da,Da,Sa,N,Da,Db,Sa,N,Sb,N,Db,Db,Db,Sb
+Final Health:
+                      Pacifist: -1
+                 DONTNUKEMEBRO: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: EmoCowboy CourageTheDog Pacifist
+EmoCowboy: DONTNUKEMEBRO CourageTheDog Pacifist
+CourageTheDog: DONTNUKEMEBRO EmoCowboy Pacifist
+Generated: 2014/08/12 10:07:54.934291585 UTC

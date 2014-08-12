@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Monkey EmoCowboy
+                        Coward: Sb,N
+                     Aggressor: P,Tc
+                        Monkey: N,P
+                     EmoCowboy: Sd,N
+Final Health:
+                        Coward: -1
+                     Aggressor: -3
+                        Monkey: -9
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey EmoCowboy Aggressor
+Aggressor: Monkey EmoCowboy Coward
+Monkey: Aggressor EmoCowboy Coward
+EmoCowboy: Aggressor Monkey Coward
+Generated: 2014/08/12 06:21:20.167080675 UTC

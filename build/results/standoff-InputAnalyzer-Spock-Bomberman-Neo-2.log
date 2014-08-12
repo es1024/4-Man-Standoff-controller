@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Bomberman Neo
+                 InputAnalyzer: Dd,Db,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,Sd,N,Sd,N,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,N,N,Db,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                         Spock: -15
+                     Bomberman: -15
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Spock Bomberman
+Spock: Neo InputAnalyzer Bomberman
+Bomberman: Neo InputAnalyzer Spock
+Neo: Bomberman InputAnalyzer Spock
+Generated: 2014/08/12 06:31:51.298405763 UTC

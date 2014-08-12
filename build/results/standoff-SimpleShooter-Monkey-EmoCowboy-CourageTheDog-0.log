@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey EmoCowboy CourageTheDog
+                 SimpleShooter: Sd,N,Sd,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Da,Da,Sb
+Final Health:
+                 SimpleShooter: 3
+                        Monkey: -1
+                     EmoCowboy: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey EmoCowboy CourageTheDog
+Monkey: SimpleShooter EmoCowboy CourageTheDog
+EmoCowboy: SimpleShooter Monkey CourageTheDog
+CourageTheDog: SimpleShooter Monkey EmoCowboy
+Generated: 2014/08/12 06:40:04.521626497 UTC

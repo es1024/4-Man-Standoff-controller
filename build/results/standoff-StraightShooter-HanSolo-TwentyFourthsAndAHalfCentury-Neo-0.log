@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo TwentyFourthsAndAHalfCentury Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Dc,Sb,N,Sb,N,Sb
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo TwentyFourthsAndAHalfCentury Neo
+HanSolo: StraightShooter TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: StraightShooter HanSolo Neo
+Neo: StraightShooter HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:29:27.170394634 UTC

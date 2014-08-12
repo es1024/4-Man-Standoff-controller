@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Rule0Bot CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,P,N
+                 DONTNUKEMEBRO: Dd,Da,Sd,N,Da,Dd,Dc,Da,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,Sa
+                 CourageTheDog: Sb,N,Da,Dc,Sa,N,Sc,N,P
+Final Health:
+                     Grenadier: -10
+                 DONTNUKEMEBRO: -1
+                      Rule0Bot: -3
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO Rule0Bot CourageTheDog
+DONTNUKEMEBRO: Grenadier Rule0Bot CourageTheDog
+Rule0Bot: Grenadier DONTNUKEMEBRO CourageTheDog
+CourageTheDog: Grenadier DONTNUKEMEBRO Rule0Bot
+Generated: 2014/08/12 07:26:30.192219834 UTC

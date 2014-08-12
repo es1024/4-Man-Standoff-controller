@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman Ninja AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Db,Dc,Da,Dd,Db,Dc,Db,Db,Da,Dc,Dd,Da,Dd,Dd,Da,Dd,Da,Dc,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Bomberman Ninja
+Bomberman: AntiGrenadier HanSolo Ninja
+Ninja: AntiGrenadier HanSolo Bomberman
+AntiGrenadier: Ninja HanSolo Bomberman
+Generated: 2014/08/12 08:13:31.585583570 UTC

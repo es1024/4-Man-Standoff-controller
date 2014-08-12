@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor TwentyFourthsAndAHalfCentury Neo
+                     Grenadier: N,N,N,N
+                     Aggressor: P,Td,Sa,N
+  TwentyFourthsAndAHalfCentury: N,Dd,Db,Sb
+                           Neo: N,N,N,N
+Final Health:
+                     Grenadier: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Neo Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo Grenadier Aggressor
+Neo: TwentyFourthsAndAHalfCentury Grenadier Aggressor
+Generated: 2014/08/12 08:42:44.080958772 UTC

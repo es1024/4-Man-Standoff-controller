@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Da,Dd,Dc,Db,Db,Da,Dd,Dc,Db,Dc,Da,Dd,Da,Dd,Db,Da,Db
+                 CourageTheDog: Sc,N,Db,Db,Db,Da,Sa,N,Sc,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja CourageTheDog Coward
+Ninja: TwentyFourthsAndAHalfCentury CourageTheDog Coward
+CourageTheDog: TwentyFourthsAndAHalfCentury Ninja Coward
+Generated: 2014/08/12 06:08:18.023036597 UTC

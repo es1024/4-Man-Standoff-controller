@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Rule0Bot Scared
+                 InputAnalyzer: Dd,Db,Dd,Dc,P,Sa
+                 SimpleShooter: Sc,N,Sa,N,Sd,N
+                      Rule0Bot: N,N,N,N,N,Sa
+                        Scared: N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -10
+                 SimpleShooter: 2
+                      Rule0Bot: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared SimpleShooter Rule0Bot
+SimpleShooter: Scared InputAnalyzer Rule0Bot
+Rule0Bot: Scared InputAnalyzer SimpleShooter
+Scared: Rule0Bot InputAnalyzer SimpleShooter
+Generated: 2014/08/12 07:53:15.038856122 UTC

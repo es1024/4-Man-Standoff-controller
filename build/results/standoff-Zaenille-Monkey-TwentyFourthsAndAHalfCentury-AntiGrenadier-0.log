@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+Monkey: Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Zaenille Monkey AntiGrenadier
+AntiGrenadier: Zaenille Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:20:27.144982928 UTC

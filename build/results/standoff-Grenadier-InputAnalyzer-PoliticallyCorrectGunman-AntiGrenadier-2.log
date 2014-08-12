@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer PoliticallyCorrectGunman AntiGrenadier
+                     Grenadier: P,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Db,Da,Sb,N,N,N,N
+      PoliticallyCorrectGunman: Db,N,Dd,N,Db,N,Sa,N,Sc
+                 AntiGrenadier: N,Sa,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -2
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier InputAnalyzer PoliticallyCorrectGunman
+InputAnalyzer: AntiGrenadier Grenadier PoliticallyCorrectGunman
+PoliticallyCorrectGunman: AntiGrenadier Grenadier InputAnalyzer
+AntiGrenadier: PoliticallyCorrectGunman Grenadier InputAnalyzer
+Generated: 2014/08/12 06:55:31.822229377 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet TwentyFourthsAndAHalfCentury EmoCowboy
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sb
+                     Richochet: Sa,N,Sa,N,Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,Db,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury EmoCowboy Richochet
+Richochet: TwentyFourthsAndAHalfCentury EmoCowboy HanSolo
+TwentyFourthsAndAHalfCentury: Richochet EmoCowboy HanSolo
+EmoCowboy: Richochet TwentyFourthsAndAHalfCentury HanSolo
+Generated: 2014/08/12 10:47:25.633144882 UTC

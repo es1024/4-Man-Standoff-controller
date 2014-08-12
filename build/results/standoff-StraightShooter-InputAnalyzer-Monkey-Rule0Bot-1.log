@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Monkey Rule0Bot
+               StraightShooter: Sd,N,Sd,N
+                 InputAnalyzer: Dc,P,Sc,N
+                        Monkey: N,N,N,N
+                      Rule0Bot: N,N,Sb,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -3
+                        Monkey: 0
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Rule0Bot InputAnalyzer
+InputAnalyzer: Monkey Rule0Bot StraightShooter
+Monkey: InputAnalyzer Rule0Bot StraightShooter
+Rule0Bot: InputAnalyzer Monkey StraightShooter
+Generated: 2014/08/12 09:13:43.973501728 UTC

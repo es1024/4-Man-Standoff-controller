@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Rule0Bot CourageTheDog
+                     Aggressor: P,Tc
+                     Richochet: Sd,N
+                      Rule0Bot: N,Sa
+                 CourageTheDog: Sb,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 0
+                      Rule0Bot: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet Rule0Bot CourageTheDog
+Richochet: Aggressor Rule0Bot CourageTheDog
+Rule0Bot: Aggressor Richochet CourageTheDog
+CourageTheDog: Aggressor Richochet Rule0Bot
+Generated: 2014/08/12 08:20:25.522394460 UTC

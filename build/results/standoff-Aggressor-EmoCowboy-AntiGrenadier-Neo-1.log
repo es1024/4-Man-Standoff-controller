@@ -1,0 +1,16 @@
+Standoff between: Aggressor EmoCowboy AntiGrenadier Neo
+                     Aggressor: P,Tc
+                     EmoCowboy: Sb,N
+                 AntiGrenadier: N,Sa
+                           Neo: N,N
+Final Health:
+                     Aggressor: 0
+                     EmoCowboy: -2
+                 AntiGrenadier: -3
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: AntiGrenadier Neo EmoCowboy
+EmoCowboy: AntiGrenadier Neo Aggressor
+AntiGrenadier: EmoCowboy Neo Aggressor
+Neo: EmoCowboy AntiGrenadier Aggressor
+Generated: 2014/08/12 07:14:38.653302921 UTC

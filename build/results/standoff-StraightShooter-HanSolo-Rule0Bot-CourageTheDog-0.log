@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Rule0Bot CourageTheDog
+               StraightShooter: Sc,N,Sc,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sd,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Sb,N,N,Db,Db,Db,Sb
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Rule0Bot CourageTheDog
+HanSolo: StraightShooter Rule0Bot CourageTheDog
+Rule0Bot: StraightShooter HanSolo CourageTheDog
+CourageTheDog: StraightShooter HanSolo Rule0Bot
+Generated: 2014/08/12 06:12:24.192654416 UTC

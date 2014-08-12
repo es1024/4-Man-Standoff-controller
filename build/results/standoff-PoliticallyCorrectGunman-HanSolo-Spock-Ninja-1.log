@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Spock Ninja
+      PoliticallyCorrectGunman: N,N,N,N,N,P,N,Sd
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N
+                         Spock: N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Da,Dc,Da,Da,Dd,Dd
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 2
+                         Spock: -1
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Ninja HanSolo
+HanSolo: Spock Ninja PoliticallyCorrectGunman
+Spock: HanSolo Ninja PoliticallyCorrectGunman
+Ninja: HanSolo Spock PoliticallyCorrectGunman
+Generated: 2014/08/12 05:59:32.168579524 UTC

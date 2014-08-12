@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Rule0Bot Scared
+      PoliticallyCorrectGunman: N,N,Sd,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,Sa,N,Sc,N,Sc,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,Sc,N,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                      Rule0Bot: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Rule0Bot Scared
+Spock: PoliticallyCorrectGunman Rule0Bot Scared
+Rule0Bot: PoliticallyCorrectGunman Spock Scared
+Scared: PoliticallyCorrectGunman Spock Rule0Bot
+Generated: 2014/08/12 06:41:31.767692505 UTC

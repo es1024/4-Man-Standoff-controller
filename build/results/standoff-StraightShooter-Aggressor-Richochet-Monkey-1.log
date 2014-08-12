@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Richochet Monkey
+               StraightShooter: Sd,N
+                     Aggressor: P,Tc
+                     Richochet: Sb,N
+                        Monkey: N,N
+Final Health:
+               StraightShooter: 2
+                     Aggressor: 0
+                     Richochet: -3
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Monkey Aggressor
+Aggressor: Richochet Monkey StraightShooter
+Richochet: Aggressor Monkey StraightShooter
+Monkey: Aggressor Richochet StraightShooter
+Generated: 2014/08/12 06:59:27.283777744 UTC

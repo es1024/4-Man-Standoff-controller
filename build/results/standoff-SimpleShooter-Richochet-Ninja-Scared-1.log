@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Ninja Scared
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sd,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sc,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Db,Dc,Dc,Da,Da,Db,Dd,Dd,Db
+                        Scared: Sc,N,Sc,N,Sb,N,Sa,N,Sc,N,Sc
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                         Ninja: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Scared Richochet
+Richochet: Ninja Scared SimpleShooter
+Ninja: Richochet Scared SimpleShooter
+Scared: Richochet Ninja SimpleShooter
+Generated: 2014/08/12 09:45:37.980800797 UTC

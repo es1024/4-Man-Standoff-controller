@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Sniper Neo
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dc,Dd,Dc,Dd,Dc,Dd,Da,Dd,Dd,Sa,N,Sa,N,Sa
+                        Sniper: Sd,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Da,N,Da,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: 1
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Neo HanSolo
+Sniper: TwentyFourthsAndAHalfCentury Neo HanSolo
+Neo: TwentyFourthsAndAHalfCentury Sniper HanSolo
+Generated: 2014/08/12 05:48:11.075363720 UTC

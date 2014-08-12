@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Ninja Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Dc,Dc,Da,Da,Da,Dc,Dc,Dc,Db,Db,Db,Db,Db,Db,Db,Db,Db,Dc,Dc,Da,Da,Da,Da,Da,Db,Db,Db,Db,Db,Db,Dd,Dd,Da,Da,Dc,Dc,Dc,Db,Dd,Dd,Dd,Dc,Dc,Dc,Dd,Dd,Dd,Dd
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                      Zaenille: -4
+                         Ninja: -17
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper Zaenille Ninja
+Zaenille: Sniper StraightShooter Ninja
+Ninja: Sniper StraightShooter Zaenille
+Sniper: Ninja StraightShooter Zaenille
+Generated: 2014/08/12 08:11:42.322462833 UTC

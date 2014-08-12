@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist InputAnalyzer Zaenille
+                     Grenadier: P,N,N,N
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Dd,Da,Dc,Sb
+                      Zaenille: Sd,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: 0
+                 InputAnalyzer: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Pacifist InputAnalyzer
+Pacifist: Zaenille Grenadier InputAnalyzer
+InputAnalyzer: Zaenille Grenadier Pacifist
+Zaenille: InputAnalyzer Grenadier Pacifist
+Generated: 2014/08/12 08:43:33.374939696 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey AntiGrenadier Sniper
+                 InputAnalyzer: Dd,P,Da,N,N
+                        Monkey: N,Sb,N,N,N
+                 AntiGrenadier: N,N,Sa,N,N
+                        Sniper: Sb,N,N,N,Sc
+Final Health:
+                 InputAnalyzer: -3
+                        Monkey: -2
+                 AntiGrenadier: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Monkey AntiGrenadier
+Monkey: Sniper InputAnalyzer AntiGrenadier
+AntiGrenadier: Sniper InputAnalyzer Monkey
+Sniper: AntiGrenadier InputAnalyzer Monkey
+Generated: 2014/08/12 07:45:11.761758575 UTC

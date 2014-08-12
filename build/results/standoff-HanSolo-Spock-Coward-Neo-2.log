@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Coward Neo
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sc,N,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -3
+                        Coward: -1
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo Spock Coward
+Spock: Neo HanSolo Coward
+Coward: Neo HanSolo Spock
+Neo: Coward HanSolo Spock
+Generated: 2014/08/12 08:47:43.431912002 UTC

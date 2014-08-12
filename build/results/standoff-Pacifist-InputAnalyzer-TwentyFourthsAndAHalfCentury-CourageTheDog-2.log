@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury CourageTheDog
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,P,Dc,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N
+                 CourageTheDog: N,Da,Dc,P,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -4
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog InputAnalyzer TwentyFourthsAndAHalfCentury
+InputAnalyzer: CourageTheDog Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog Pacifist InputAnalyzer
+CourageTheDog: TwentyFourthsAndAHalfCentury Pacifist InputAnalyzer
+Generated: 2014/08/12 06:33:49.427294832 UTC

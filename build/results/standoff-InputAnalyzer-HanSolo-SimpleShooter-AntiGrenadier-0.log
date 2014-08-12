@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo SimpleShooter AntiGrenadier
+                 InputAnalyzer: Db,Sd,N,Dc,Db,Dc,Db,Sc,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sc
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sa,N,Sd,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: -1
+                 SimpleShooter: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo SimpleShooter AntiGrenadier
+HanSolo: InputAnalyzer SimpleShooter AntiGrenadier
+SimpleShooter: InputAnalyzer HanSolo AntiGrenadier
+AntiGrenadier: InputAnalyzer HanSolo SimpleShooter
+Generated: 2014/08/12 09:47:33.184514860 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Coward Neo
+                     Grenadier: P,Tb
+      PoliticallyCorrectGunman: P,Tc
+                        Coward: Sd,N
+                           Neo: N,Db
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: -6
+                        Coward: -6
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Coward Neo
+PoliticallyCorrectGunman: Grenadier Coward Neo
+Coward: Grenadier PoliticallyCorrectGunman Neo
+Neo: Grenadier PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 06:25:15.860599222 UTC

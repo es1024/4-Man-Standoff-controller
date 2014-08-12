@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO SimpleShooter Monkey
+                 InputAnalyzer: Dd,Dc,Dd,Db,Dc,Dd,Sc,N,P,Dd,Dc
+                 DONTNUKEMEBRO: Dc,Dc,Sc,N,Sc,N,Dc,Dc,Dd,Sa,N
+                 SimpleShooter: Sb,N,Sb,N,Sa,N,Sa,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,Dd
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -1
+                        Monkey: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Monkey InputAnalyzer SimpleShooter
+SimpleShooter: Monkey InputAnalyzer DONTNUKEMEBRO
+Monkey: SimpleShooter InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 05:54:42.688581516 UTC

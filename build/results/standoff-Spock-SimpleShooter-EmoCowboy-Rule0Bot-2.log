@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter EmoCowboy Rule0Bot
+                         Spock: Sd,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sc,N,Sa,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                     EmoCowboy: -4
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot SimpleShooter EmoCowboy
+SimpleShooter: Rule0Bot Spock EmoCowboy
+EmoCowboy: Rule0Bot Spock SimpleShooter
+Rule0Bot: EmoCowboy Spock SimpleShooter
+Generated: 2014/08/12 09:43:29.265571677 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Ninja CourageTheDog
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sc,N,Sd,N,Sd,N,Sc,N,Sd
+                         Ninja: Dc,Db,Da,Dd,Db,Da,Db,Da,Dc,N,N
+                 CourageTheDog: Sc,N,Db,Sc,N,Dc,Db,Sb,N,Db,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Richochet: 3
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Ninja CourageTheDog
+Richochet: PoliticallyCorrectGunman Ninja CourageTheDog
+Ninja: PoliticallyCorrectGunman Richochet CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman Richochet Ninja
+Generated: 2014/08/12 06:50:01.873556190 UTC

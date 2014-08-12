@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet AntiGrenadier Rule0Bot
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Richochet: Sa,N,Sc,N,Sc,N,Sa,N,Sc,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Richochet AntiGrenadier
+Richochet: Rule0Bot HanSolo AntiGrenadier
+AntiGrenadier: Rule0Bot HanSolo Richochet
+Rule0Bot: AntiGrenadier HanSolo Richochet
+Generated: 2014/08/12 08:32:41.611548283 UTC

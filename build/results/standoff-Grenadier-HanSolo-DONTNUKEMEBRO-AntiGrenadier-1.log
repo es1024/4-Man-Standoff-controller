@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo DONTNUKEMEBRO AntiGrenadier
+                     Grenadier: N,P,Tc,N,N
+                       HanSolo: Sc,N,Sc,N,Sd
+                 DONTNUKEMEBRO: Db,Da,Sa,N,N
+                 AntiGrenadier: N,N,Sa,N,N
+Final Health:
+                     Grenadier: -2
+                       HanSolo: 2
+                 DONTNUKEMEBRO: -5
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO AntiGrenadier HanSolo
+HanSolo: DONTNUKEMEBRO AntiGrenadier Grenadier
+DONTNUKEMEBRO: HanSolo AntiGrenadier Grenadier
+AntiGrenadier: HanSolo DONTNUKEMEBRO Grenadier
+Generated: 2014/08/12 08:58:21.714714414 UTC

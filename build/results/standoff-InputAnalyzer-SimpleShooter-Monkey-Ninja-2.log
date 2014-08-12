@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Monkey Ninja
+                 InputAnalyzer: Dd,P,N,Sc,N
+                 SimpleShooter: Sc,N,Sa,N,Sd
+                        Monkey: N,Dd,Da,Sa,N
+                         Ninja: Dd,Da,Db,Dc,Dd
+Final Health:
+                 InputAnalyzer: -5
+                 SimpleShooter: 2
+                        Monkey: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja SimpleShooter Monkey
+SimpleShooter: Ninja InputAnalyzer Monkey
+Monkey: Ninja InputAnalyzer SimpleShooter
+Ninja: Monkey InputAnalyzer SimpleShooter
+Generated: 2014/08/12 10:15:05.758001811 UTC

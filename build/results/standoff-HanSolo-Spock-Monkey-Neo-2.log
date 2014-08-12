@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Monkey Neo
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Sd,N,N,N,N,N,N,N,Sc
+                           Neo: N,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -1
+                        Monkey: -2
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo Spock Monkey
+Spock: Neo HanSolo Monkey
+Monkey: Neo HanSolo Spock
+Neo: Monkey HanSolo Spock
+Generated: 2014/08/12 07:15:53.748659380 UTC

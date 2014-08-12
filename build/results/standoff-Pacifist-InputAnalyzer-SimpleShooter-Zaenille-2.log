@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer SimpleShooter Zaenille
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Dd,P,N,Db
+                 SimpleShooter: Sb,N,Sa,N
+                      Zaenille: Sd,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                 SimpleShooter: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille InputAnalyzer SimpleShooter
+InputAnalyzer: Zaenille Pacifist SimpleShooter
+SimpleShooter: Zaenille Pacifist InputAnalyzer
+Zaenille: SimpleShooter Pacifist InputAnalyzer
+Generated: 2014/08/12 06:39:38.059032520 UTC

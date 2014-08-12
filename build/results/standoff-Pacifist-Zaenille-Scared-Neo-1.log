@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Scared Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,Sd,N,Sa,N,Sa,N,Sd,N,Sa,N,N,N,N,N,N,N,N,Sd,N,Sd
+                           Neo: N,N,N,N,N,N,N,N,Da,Da,Da,Da,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,Dc,Sc,N
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared Neo Zaenille
+Zaenille: Scared Neo Pacifist
+Scared: Zaenille Neo Pacifist
+Neo: Zaenille Scared Pacifist
+Generated: 2014/08/12 08:46:26.658819585 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Ninja AntiGrenadier CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                         Ninja: Db,Dd,Dd,Dd,Dc,Da,Db,Db,Db,Da,Dd,Dd,Dc,Dc,Db,Dd,Da,Dd,Db,Da,Db,Dc,Da,Db,Db,Dd,Dc,Dc,Da,Da,Db,Db,Db,Db,Da,Da,Da,Dc,Dd,Dd,Db,Dd,Dc,Dc,Dc,Db,Db,Db,Dd,Dc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Dc,Db,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                         Ninja: -15
+                 AntiGrenadier: -17
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: AntiGrenadier CourageTheDog Ninja
+Ninja: AntiGrenadier CourageTheDog StraightShooter
+AntiGrenadier: Ninja CourageTheDog StraightShooter
+CourageTheDog: Ninja AntiGrenadier StraightShooter
+Generated: 2014/08/12 08:38:02.131102082 UTC

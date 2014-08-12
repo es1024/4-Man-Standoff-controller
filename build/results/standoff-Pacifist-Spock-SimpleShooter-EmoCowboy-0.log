@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock SimpleShooter EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sa,N,Sb,N,Sa
+                     EmoCowboy: N,Sd,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                 SimpleShooter: 5
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock SimpleShooter EmoCowboy
+Spock: Pacifist SimpleShooter EmoCowboy
+SimpleShooter: Pacifist Spock EmoCowboy
+EmoCowboy: Pacifist Spock SimpleShooter
+Generated: 2014/08/12 08:19:22.507652802 UTC

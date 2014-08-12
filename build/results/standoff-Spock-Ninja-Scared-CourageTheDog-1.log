@@ -1,0 +1,16 @@
+Standoff between: Spock Ninja Scared CourageTheDog
+                         Spock: Sc,N,Sc,N,N,N,N,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dc,Dd,Dd,Da,Dd,Dc,Dd,Db,Da,Db,Db,Dc,Dd,Dd,Dc,Db,Dd,Da,Db,Dd,Dc,Db,Da,Dd,Da,Dd,Dd,Dc,Db,Db
+                        Scared: Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sc,N,Sa,N,N,Da,N,Db,Sa,N,Db,Sb,N,Db,Db,Sb,N,Db,Sb,N,Db,Db,Sb,N,Db,N,Sb,N,Sb
+Final Health:
+                         Spock: -1
+                         Ninja: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared CourageTheDog Ninja
+Ninja: Scared CourageTheDog Spock
+Scared: Ninja CourageTheDog Spock
+CourageTheDog: Ninja Scared Spock
+Generated: 2014/08/12 06:03:27.650274884 UTC

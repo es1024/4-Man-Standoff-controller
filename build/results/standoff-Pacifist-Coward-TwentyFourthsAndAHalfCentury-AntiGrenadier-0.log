@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward TwentyFourthsAndAHalfCentury AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Da,Dd,Da,Da,Da,Da,Da,Da,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward TwentyFourthsAndAHalfCentury AntiGrenadier
+Coward: Pacifist TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Pacifist Coward AntiGrenadier
+AntiGrenadier: Pacifist Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:51:47.108324589 UTC

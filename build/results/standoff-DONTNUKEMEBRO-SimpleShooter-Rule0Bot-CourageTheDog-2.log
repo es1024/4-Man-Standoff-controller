@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Rule0Bot CourageTheDog
+                 DONTNUKEMEBRO: Db,Db,Dd,Dd,Sb,N,Db,Dd,Sb,N,Sb,N,Db,Dd,Dc,Dc,Dc
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sa,N,Sd,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Db,Sc,N,Db,Da,Db,Db,Sb,N,Da,Da,Da,Da,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -3
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog SimpleShooter Rule0Bot
+SimpleShooter: CourageTheDog DONTNUKEMEBRO Rule0Bot
+Rule0Bot: CourageTheDog DONTNUKEMEBRO SimpleShooter
+CourageTheDog: Rule0Bot DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 10:09:38.653650183 UTC

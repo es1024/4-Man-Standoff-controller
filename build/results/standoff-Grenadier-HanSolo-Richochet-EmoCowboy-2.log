@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Richochet EmoCowboy
+                     Grenadier: N,P,Tc
+                       HanSolo: Sd,N,Sa
+                     Richochet: Sb,N,Sb
+                     EmoCowboy: Sd,N,N
+Final Health:
+                     Grenadier: 0
+                       HanSolo: -2
+                     Richochet: -3
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy HanSolo Richochet
+HanSolo: EmoCowboy Grenadier Richochet
+Richochet: EmoCowboy Grenadier HanSolo
+EmoCowboy: Richochet Grenadier HanSolo
+Generated: 2014/08/12 08:22:22.766191522 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Scared Neo
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dd,P,N,Dc,N
+                        Scared: Sa,N,Sb,N,Sd
+                           Neo: N,Db,Db,Db,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                        Scared: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo InputAnalyzer Scared
+InputAnalyzer: Neo Pacifist Scared
+Scared: Neo Pacifist InputAnalyzer
+Neo: Scared Pacifist InputAnalyzer
+Generated: 2014/08/12 10:25:23.357369460 UTC

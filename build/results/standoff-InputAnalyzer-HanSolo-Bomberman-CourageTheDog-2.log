@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Bomberman CourageTheDog
+                 InputAnalyzer: Dd,P,Sa
+                       HanSolo: Sd,N,Sd
+                     Bomberman: N,N,N
+                 CourageTheDog: Sb,N,P
+Final Health:
+                 InputAnalyzer: -11
+                       HanSolo: -3
+                     Bomberman: -1
+                 CourageTheDog: -8
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog HanSolo Bomberman
+HanSolo: CourageTheDog InputAnalyzer Bomberman
+Bomberman: CourageTheDog InputAnalyzer HanSolo
+CourageTheDog: Bomberman InputAnalyzer HanSolo
+Generated: 2014/08/12 06:00:34.960175065 UTC

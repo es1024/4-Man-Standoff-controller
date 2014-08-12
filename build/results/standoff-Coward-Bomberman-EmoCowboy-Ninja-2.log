@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman EmoCowboy Ninja
+                        Coward: Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Dd,Da,Dc,Dd,Dc,Dc,Dd,Db,Da,Db,Da,Db,Dd,Db,Dd
+Final Health:
+                        Coward: 5
+                     Bomberman: -1
+                     EmoCowboy: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Bomberman EmoCowboy
+Bomberman: Ninja Coward EmoCowboy
+EmoCowboy: Ninja Coward Bomberman
+Ninja: EmoCowboy Coward Bomberman
+Generated: 2014/08/12 07:39:47.162431087 UTC

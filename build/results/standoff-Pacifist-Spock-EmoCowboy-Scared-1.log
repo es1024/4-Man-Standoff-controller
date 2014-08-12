@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock EmoCowboy Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,N,Sc,N,Sa,N,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                        Scared: N,N,Sb,N,Sa,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                     EmoCowboy: -4
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Scared Spock
+Spock: EmoCowboy Scared Pacifist
+EmoCowboy: Spock Scared Pacifist
+Scared: Spock EmoCowboy Pacifist
+Generated: 2014/08/12 10:36:28.112556936 UTC

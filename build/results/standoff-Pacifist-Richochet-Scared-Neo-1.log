@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Scared Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sc,N,Sa,N,Sc,N,Sa,N
+                        Scared: Sd,N,Sb,N,Sa,N,Sb,N,N,N
+                           Neo: N,N,Da,Da,Da,Da,Da,Da,Da,Sb
+Final Health:
+                      Pacifist: -1
+                     Richochet: -1
+                        Scared: -1
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared Neo Richochet
+Richochet: Scared Neo Pacifist
+Scared: Richochet Neo Pacifist
+Neo: Richochet Scared Pacifist
+Generated: 2014/08/12 05:44:44.995593605 UTC

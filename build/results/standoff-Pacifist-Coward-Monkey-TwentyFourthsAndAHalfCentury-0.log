@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Monkey TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sc,N,Sa,N,Sa,N,Sa
+                        Monkey: N,N,N,Sd,N,N,N,N,Da,Db,N,N,N,Sc,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Dc,Dc,Db,Da,Db,Da,Db,Da,Dc,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Monkey TwentyFourthsAndAHalfCentury
+Coward: Pacifist Monkey TwentyFourthsAndAHalfCentury
+Monkey: Pacifist Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist Coward Monkey
+Generated: 2014/08/12 07:05:08.801331336 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Ninja Scared
+                     Aggressor: P,Td,Sb,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N
+                         Ninja: Dc,Db,Da,Dd,Dc
+                        Scared: N,N,N,N,N
+Final Health:
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Scared TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Scared Aggressor Ninja
+Ninja: Scared Aggressor TwentyFourthsAndAHalfCentury
+Scared: Ninja Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:26:25.310852895 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Spock EmoCowboy
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+      PoliticallyCorrectGunman: N,N,Sa,N,N,N,N
+                         Spock: Sd,N,Sb,N,Sa,N,Sa
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                         Spock: 5
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: EmoCowboy StraightShooter Spock
+Spock: EmoCowboy StraightShooter PoliticallyCorrectGunman
+EmoCowboy: Spock StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 07:26:42.998235483 UTC

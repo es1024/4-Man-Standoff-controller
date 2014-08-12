@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sa,N,Dc,Dc,Dc,Dd,Dd,Da,P,Tc
+                 DONTNUKEMEBRO: Dd,Db,Db,Da,Db,Dd,Sd,N,Da,Sb
+                        Scared: Sa,N,Sb,N,Sc,N,Sb,N,Sb,N
+Final Health:
+                      Pacifist: -2
+      PoliticallyCorrectGunman: -4
+                 DONTNUKEMEBRO: -5
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO Scared Pacifist
+DONTNUKEMEBRO: PoliticallyCorrectGunman Scared Pacifist
+Scared: PoliticallyCorrectGunman DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 10:15:14.084055309 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter AntiGrenadier Scared CourageTheDog
+                 SimpleShooter: Sc,N,Sb,N,Sc,N,Sd,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sb,N,Sa,N,Sd,N,Sd
+                 CourageTheDog: Sa,N,Dc,Da,Dc,Db,Da,Sb,N
+Final Health:
+                 SimpleShooter: 1
+                 AntiGrenadier: -1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog AntiGrenadier Scared
+AntiGrenadier: CourageTheDog SimpleShooter Scared
+Scared: CourageTheDog SimpleShooter AntiGrenadier
+CourageTheDog: Scared SimpleShooter AntiGrenadier
+Generated: 2014/08/12 09:45:39.977203221 UTC

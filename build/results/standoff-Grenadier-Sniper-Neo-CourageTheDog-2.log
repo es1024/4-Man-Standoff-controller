@@ -1,0 +1,16 @@
+Standoff between: Grenadier Sniper Neo CourageTheDog
+                     Grenadier: N,N,N,N,P
+                        Sniper: Sd,N,Sa,N,Sa
+                           Neo: N,N,N,Da,Db
+                 CourageTheDog: Sa,N,Da,Da,Sb
+Final Health:
+                     Grenadier: -7
+                        Sniper: 0
+                           Neo: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Sniper Neo
+Sniper: CourageTheDog Grenadier Neo
+Neo: CourageTheDog Grenadier Sniper
+CourageTheDog: Neo Grenadier Sniper
+Generated: 2014/08/12 08:53:24.961566099 UTC

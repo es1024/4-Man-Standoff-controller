@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Bomberman Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 3
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Coward Bomberman
+Coward: Sniper Pacifist Bomberman
+Bomberman: Sniper Pacifist Coward
+Sniper: Bomberman Pacifist Coward
+Generated: 2014/08/12 07:24:35.024617966 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Bomberman Sniper CourageTheDog
+                         Spock: Sc,N,Sc,N,N,Sb,N,Sb,N,Sc
+                     Bomberman: N,N,N,N,N,N,Dd,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Sb,N,Db,Da,Da,Sa
+Final Health:
+                         Spock: -1
+                     Bomberman: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper CourageTheDog Bomberman
+Bomberman: Sniper CourageTheDog Spock
+Sniper: Bomberman CourageTheDog Spock
+CourageTheDog: Bomberman Sniper Spock
+Generated: 2014/08/12 06:09:22.048917091 UTC

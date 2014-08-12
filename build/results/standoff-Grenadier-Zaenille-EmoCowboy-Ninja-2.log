@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille EmoCowboy Ninja
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Db,Dd,Dc,Da,Db,Dd,Db,Dc,Db,Dd,Dd
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+                     EmoCowboy: -2
+                         Ninja: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Zaenille EmoCowboy
+Zaenille: Ninja Grenadier EmoCowboy
+EmoCowboy: Ninja Grenadier Zaenille
+Ninja: EmoCowboy Grenadier Zaenille
+Generated: 2014/08/12 10:14:48.107108510 UTC

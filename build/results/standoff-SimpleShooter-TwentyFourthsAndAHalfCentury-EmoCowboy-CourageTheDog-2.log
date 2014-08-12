@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,Sb,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,N,Dd,N,Dd,Dd,Da,N,Dd,N,Da,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Db,Sa,N,Db,Sb,N,Sb,N,Sa
+Final Health:
+                 SimpleShooter: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: CourageTheDog SimpleShooter EmoCowboy
+EmoCowboy: CourageTheDog SimpleShooter TwentyFourthsAndAHalfCentury
+CourageTheDog: EmoCowboy SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:07:30.122578119 UTC

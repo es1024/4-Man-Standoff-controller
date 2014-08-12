@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Richochet Neo
+      PoliticallyCorrectGunman: P,Sd,N
+                       HanSolo: Sd,N,Sd
+                     Richochet: Sb,N,Sb
+                           Neo: N,N,Db
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: -2
+                     Richochet: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo HanSolo Richochet
+HanSolo: Neo PoliticallyCorrectGunman Richochet
+Richochet: Neo PoliticallyCorrectGunman HanSolo
+Neo: Richochet PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 08:42:08.877315635 UTC

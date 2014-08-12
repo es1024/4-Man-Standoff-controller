@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Ninja Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dd,Dc,Db,Dc,Dc,Db,Da,Dc,Dc,Db,Dc,Dc,Db,Dd,Da,Da,Dd,Db,Db,Dc,Dc,Dd,Dd,Dc,Da,Da,Db,Db,Dc,Dd,Dd,Da,Dd,Da,Dc,Dc,Dc,Db,Dc,Dc,Db,Dd,Dd,Dc,Dc,Db,Dd,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                     EmoCowboy: -4
+                         Ninja: -15
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot EmoCowboy Ninja
+EmoCowboy: Rule0Bot StraightShooter Ninja
+Ninja: Rule0Bot StraightShooter EmoCowboy
+Rule0Bot: Ninja StraightShooter EmoCowboy
+Generated: 2014/08/12 06:13:35.820208195 UTC

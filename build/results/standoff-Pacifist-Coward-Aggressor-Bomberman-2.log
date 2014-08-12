@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Aggressor Bomberman
+                      Pacifist: N,N,N,N
+                        Coward: Sc,N,Da,Sa
+                     Aggressor: P,Td,N,N
+                     Bomberman: N,N,N,N
+Final Health:
+                      Pacifist: 0
+                        Coward: 2
+                     Aggressor: 0
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman Coward Aggressor
+Coward: Bomberman Pacifist Aggressor
+Aggressor: Bomberman Pacifist Coward
+Bomberman: Aggressor Pacifist Coward
+Generated: 2014/08/12 05:59:50.836865023 UTC

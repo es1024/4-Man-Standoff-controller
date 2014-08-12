@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Zaenille Neo
+               StraightShooter: Sd,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                           Neo: N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                      Zaenille: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille Neo SimpleShooter
+SimpleShooter: Zaenille Neo StraightShooter
+Zaenille: SimpleShooter Neo StraightShooter
+Neo: SimpleShooter Zaenille StraightShooter
+Generated: 2014/08/12 07:28:58.111154559 UTC

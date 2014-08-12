@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter AntiGrenadier Scared
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N
+                        Scared: N,Sc,N,Sc,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: -1
+                 AntiGrenadier: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter AntiGrenadier Scared
+SimpleShooter: HanSolo AntiGrenadier Scared
+AntiGrenadier: HanSolo SimpleShooter Scared
+Scared: HanSolo SimpleShooter AntiGrenadier
+Generated: 2014/08/12 10:36:26.659190142 UTC

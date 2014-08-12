@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Zaenille Rule0Bot
+                 InputAnalyzer: Db,P,Sb,N
+                         Spock: N,N,N,N
+                      Zaenille: Sc,N,N,N
+                      Rule0Bot: N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 0
+                      Zaenille: -2
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Zaenille Rule0Bot
+Spock: InputAnalyzer Zaenille Rule0Bot
+Zaenille: InputAnalyzer Spock Rule0Bot
+Rule0Bot: InputAnalyzer Spock Zaenille
+Generated: 2014/08/12 07:48:44.439708185 UTC

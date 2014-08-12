@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Rule0Bot Neo
+                 InputAnalyzer: Dd,Db,Da,P,Sa,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,Sa,N,N,N,N
+                           Neo: N,Da,Db,N,Db,N,Db,Dc,N
+Final Health:
+                 InputAnalyzer: -10
+                 SimpleShooter: 2
+                      Rule0Bot: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo SimpleShooter Rule0Bot
+SimpleShooter: Neo InputAnalyzer Rule0Bot
+Rule0Bot: Neo InputAnalyzer SimpleShooter
+Neo: Rule0Bot InputAnalyzer SimpleShooter
+Generated: 2014/08/12 09:06:29.908078352 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Aggressor Rule0Bot
+               StraightShooter: Sb,N
+                 SimpleShooter: Sc,N
+                     Aggressor: P,Td
+                      Rule0Bot: N,Sc
+Final Health:
+               StraightShooter: 2
+                 SimpleShooter: 0
+                     Aggressor: -2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot SimpleShooter Aggressor
+SimpleShooter: Rule0Bot StraightShooter Aggressor
+Aggressor: Rule0Bot StraightShooter SimpleShooter
+Rule0Bot: Aggressor StraightShooter SimpleShooter
+Generated: 2014/08/12 07:09:49.385079061 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Ninja Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                         Spock: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Dd,Db,Da,Da,Da,Da,Dd,Db,Dd,Da,Da,Dc,Dd,Db,Db,Da,Da,Db,Dc,Db,Db,Dc,Db,Dc,Dd,Db,Da,Db,Dc,Dc,Dd,Db,Dc,Da,Da,Db,Dd,Dd,Dc,Dc,Dc,Db,Db,Db,Da,Da,Db,Dd
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                         Spock: -3
+                         Ninja: -15
+                        Sniper: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper Spock Ninja
+Spock: Sniper StraightShooter Ninja
+Ninja: Sniper StraightShooter Spock
+Sniper: Ninja StraightShooter Spock
+Generated: 2014/08/12 06:47:47.231014033 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Ninja Sniper CourageTheDog
+                        Coward: Sd,N,Sd,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dd,Dc,Db,Dd,Da,Dc,Db,Dd,Db,Dc,Dc,Db,Dd,Dd,Da,Da,Db,Db
+                        Sniper: Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Sb,N,Sc,N,Db,Sc,N,Sc,N,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                        Coward: -1
+                         Ninja: -1
+                        Sniper: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Sniper CourageTheDog
+Ninja: Coward Sniper CourageTheDog
+Sniper: Coward Ninja CourageTheDog
+CourageTheDog: Coward Ninja Sniper
+Generated: 2014/08/12 10:05:54.544904919 UTC

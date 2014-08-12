@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Rule0Bot Scared
+                        Coward: Sc,N,Sb,N,Sb,N,Dd,Sd,N,Dd,Dd,Dd,Dd,Dd,Sd
+                     Richochet: Sc,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared Richochet Rule0Bot
+Richochet: Scared Coward Rule0Bot
+Rule0Bot: Scared Coward Richochet
+Scared: Rule0Bot Coward Richochet
+Generated: 2014/08/12 05:49:35.346016850 UTC

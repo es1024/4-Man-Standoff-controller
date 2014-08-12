@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury AntiGrenadier Scared Neo
+  TwentyFourthsAndAHalfCentury: Dd,Db,Db,N,N,N,Sd,N,N,N,N,Sc,N,Sd,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sb,N,Sa
+                           Neo: N,Db,Db,N,Db,N,N,N,N,N,N,Db,Db,Db,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: 1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Neo AntiGrenadier Scared
+AntiGrenadier: Neo TwentyFourthsAndAHalfCentury Scared
+Scared: Neo TwentyFourthsAndAHalfCentury AntiGrenadier
+Neo: Scared TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 08:36:24.172814484 UTC

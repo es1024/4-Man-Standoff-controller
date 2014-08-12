@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter EmoCowboy Ninja Scared
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Db,Dc,Db,Da,Dd,Dc,Dd,N,N
+                        Scared: Sc,N,Sa,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                     EmoCowboy: -2
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared EmoCowboy Ninja
+EmoCowboy: Scared SimpleShooter Ninja
+Ninja: Scared SimpleShooter EmoCowboy
+Scared: Ninja SimpleShooter EmoCowboy
+Generated: 2014/08/12 10:05:40.517202757 UTC

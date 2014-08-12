@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Rule0Bot Scared
+                 InputAnalyzer: Dc,P,Da,Dd
+                       HanSolo: Sc,N,Sc,N
+                      Rule0Bot: N,N,Sa,N
+                        Scared: N,Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 0
+                      Rule0Bot: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Scared HanSolo
+HanSolo: Rule0Bot Scared InputAnalyzer
+Rule0Bot: HanSolo Scared InputAnalyzer
+Scared: HanSolo Rule0Bot InputAnalyzer
+Generated: 2014/08/12 07:48:59.341541191 UTC

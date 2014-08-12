@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO SimpleShooter AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Sc,N,Dd,Dd,Dd,Dc,Sc,N,Dc,Dc,Da,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N,Sb,N,Sa,N,Sd,N,Sb,N,Sa,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: AntiGrenadier Pacifist SimpleShooter
+SimpleShooter: AntiGrenadier Pacifist DONTNUKEMEBRO
+AntiGrenadier: SimpleShooter Pacifist DONTNUKEMEBRO
+Generated: 2014/08/12 08:26:33.181540492 UTC

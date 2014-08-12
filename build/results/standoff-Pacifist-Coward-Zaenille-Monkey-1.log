@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Zaenille Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                      Zaenille: -2
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Monkey Coward
+Coward: Zaenille Monkey Pacifist
+Zaenille: Coward Monkey Pacifist
+Monkey: Coward Zaenille Pacifist
+Generated: 2014/08/12 05:45:52.770862430 UTC

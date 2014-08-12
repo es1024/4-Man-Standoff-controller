@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Monkey Scared
+                 InputAnalyzer: Dd,P,Da,N
+                       HanSolo: Sd,N,Sd,N
+                        Monkey: N,Sb,N,Sd
+                        Scared: Sb,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: -2
+                        Monkey: 2
+                        Scared: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared HanSolo Monkey
+HanSolo: Scared InputAnalyzer Monkey
+Monkey: Scared InputAnalyzer HanSolo
+Scared: Monkey InputAnalyzer HanSolo
+Generated: 2014/08/12 08:59:11.230755158 UTC

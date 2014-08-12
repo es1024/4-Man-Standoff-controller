@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Monkey Neo
+      PoliticallyCorrectGunman: P,Dc,Sc,N,N
+                         Spock: Sc,N,Sc,N,Sd
+                        Monkey: N,N,N,N,N
+                           Neo: N,Da,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: 2
+                        Monkey: -4
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey Neo Spock
+Spock: Monkey Neo PoliticallyCorrectGunman
+Monkey: Spock Neo PoliticallyCorrectGunman
+Neo: Spock Monkey PoliticallyCorrectGunman
+Generated: 2014/08/12 05:59:07.980018621 UTC

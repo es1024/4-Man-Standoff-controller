@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Bomberman Scared
+                       HanSolo: Sb,N,N
+                     Aggressor: P,Ta,N
+                     Bomberman: N,N,N
+                        Scared: Sb,N,Sc
+Final Health:
+                       HanSolo: -3
+                     Aggressor: -2
+                     Bomberman: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Bomberman Scared
+Aggressor: HanSolo Bomberman Scared
+Bomberman: HanSolo Aggressor Scared
+Scared: HanSolo Aggressor Bomberman
+Generated: 2014/08/12 10:26:08.754377434 UTC

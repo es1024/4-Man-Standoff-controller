@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Aggressor Richochet
+                 InputAnalyzer: Dc,P
+                        Coward: Sa,N
+                     Aggressor: P,Td
+                     Richochet: Sb,N
+Final Health:
+                 InputAnalyzer: -6
+                        Coward: -3
+                     Aggressor: -1
+                     Richochet: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Richochet Coward
+Coward: Aggressor Richochet InputAnalyzer
+Aggressor: Coward Richochet InputAnalyzer
+Richochet: Coward Aggressor InputAnalyzer
+Generated: 2014/08/12 07:05:44.325550258 UTC

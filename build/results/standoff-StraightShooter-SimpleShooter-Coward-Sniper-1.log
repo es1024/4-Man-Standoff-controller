@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Coward Sniper
+               StraightShooter: Sd,N,Sd,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sc,N,Sc,N,Sc
+                        Coward: Sa,N,Sa,N,Sd,N,Db,Sb,N
+                        Sniper: Sb,N,Sa,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -3
+                 SimpleShooter: 1
+                        Coward: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Sniper SimpleShooter
+SimpleShooter: Coward Sniper StraightShooter
+Coward: SimpleShooter Sniper StraightShooter
+Sniper: SimpleShooter Coward StraightShooter
+Generated: 2014/08/12 10:14:53.121164234 UTC

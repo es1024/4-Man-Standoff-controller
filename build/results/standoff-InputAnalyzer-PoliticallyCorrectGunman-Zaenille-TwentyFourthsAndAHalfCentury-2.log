@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Zaenille TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dd,Dc,Dd,P
+      PoliticallyCorrectGunman: P,N,Dc,N
+                      Zaenille: Sc,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da,Sa
+Final Health:
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Zaenille
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury InputAnalyzer Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury InputAnalyzer PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Zaenille InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 06:47:52.067304754 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Ninja Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Da,Dc,Dc,Dd,Db,Dc,Da,Dc,Db,Dd,Db,Dc,Da,Da,Dd,Db,Dc,Db,Da,Dd,Da,Dd,Da,Dc,Da,Dd,Db,Dd,Da,Dd,Dc,Db,Dc,Da,Dd,Db,Dc,Dc,Db,Dd,Db,Db,Dd,Da,Db,Db,Dc,Da
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                     EmoCowboy: -2
+                         Ninja: -15
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Neo EmoCowboy
+EmoCowboy: Ninja Neo StraightShooter
+Ninja: EmoCowboy Neo StraightShooter
+Neo: EmoCowboy Ninja StraightShooter
+Generated: 2014/08/12 06:15:46.816313886 UTC

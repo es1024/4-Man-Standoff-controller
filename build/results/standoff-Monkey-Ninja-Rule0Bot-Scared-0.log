@@ -1,0 +1,16 @@
+Standoff between: Monkey Ninja Rule0Bot Scared
+                        Monkey: N,N,N,N,N,N,N,N,Dc,Da,Sa,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Db,Db,Dd,Dc,Dd,Dc,Da,Db,Da,Dc,Db,Da,Da,Dc,Dd,Dd,Db,Da
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,Sb,N,Sa,N,Sc,N,Sb,N,Sc,N,Sb,N,Sb
+Final Health:
+                        Monkey: -2
+                         Ninja: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Ninja Rule0Bot Scared
+Ninja: Monkey Rule0Bot Scared
+Rule0Bot: Monkey Ninja Scared
+Scared: Monkey Ninja Rule0Bot
+Generated: 2014/08/12 05:50:00.217413538 UTC

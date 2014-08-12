@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Bomberman Neo
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sd,N,Sc
+                        Monkey: N,N,N,N,N,Sb,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Dc,Dc,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -2
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey Bomberman Neo
+Monkey: SimpleShooter Bomberman Neo
+Bomberman: SimpleShooter Monkey Neo
+Neo: SimpleShooter Monkey Bomberman
+Generated: 2014/08/12 10:29:48.411260901 UTC

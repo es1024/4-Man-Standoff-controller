@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Monkey Rule0Bot
+                     Grenadier: N,N,N,N,N,N,N,P,Tc
+      PoliticallyCorrectGunman: P,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,P
+                      Rule0Bot: N,Sb,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+      PoliticallyCorrectGunman: -3
+                        Monkey: -12
+                      Rule0Bot: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Monkey Rule0Bot
+PoliticallyCorrectGunman: Grenadier Monkey Rule0Bot
+Monkey: Grenadier PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Grenadier PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 08:43:23.924864611 UTC

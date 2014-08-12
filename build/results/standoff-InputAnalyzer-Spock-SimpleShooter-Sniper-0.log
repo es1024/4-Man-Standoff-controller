@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter Sniper
+                 InputAnalyzer: Db,Da,P,N,Sd
+                         Spock: Sa,N,Sd,N,Sa
+                 SimpleShooter: Sd,N,Sa,N,Sb
+                        Sniper: Sb,N,Sa,N,Sa
+Final Health:
+                 InputAnalyzer: -9
+                         Spock: -2
+                 SimpleShooter: 2
+                        Sniper: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock SimpleShooter Sniper
+Spock: InputAnalyzer SimpleShooter Sniper
+SimpleShooter: InputAnalyzer Spock Sniper
+Sniper: InputAnalyzer Spock SimpleShooter
+Generated: 2014/08/12 07:17:59.236497675 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Zaenille EmoCowboy
+                         Spock: Sb,N,Sb,N,Sb
+                        Coward: Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                     EmoCowboy: N,Sd,N,N,N
+Final Health:
+                         Spock: 1
+                        Coward: -1
+                      Zaenille: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Zaenille EmoCowboy
+Coward: Spock Zaenille EmoCowboy
+Zaenille: Spock Coward EmoCowboy
+EmoCowboy: Spock Coward Zaenille
+Generated: 2014/08/12 05:57:06.482612905 UTC

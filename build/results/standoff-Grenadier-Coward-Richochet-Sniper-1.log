@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Richochet Sniper
+                     Grenadier: N,P,Tc
+                        Coward: Sa,N,Sa
+                     Richochet: Sd,N,Sa
+                        Sniper: Sa,N,Sa
+Final Health:
+                     Grenadier: -8
+                        Coward: 2
+                     Richochet: -3
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Sniper Coward
+Coward: Richochet Sniper Grenadier
+Richochet: Coward Sniper Grenadier
+Sniper: Coward Richochet Grenadier
+Generated: 2014/08/12 08:44:15.272712155 UTC

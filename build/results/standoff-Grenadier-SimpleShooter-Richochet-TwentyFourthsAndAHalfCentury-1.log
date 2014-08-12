@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Richochet TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,N,P,Tc
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sd
+                     Richochet: Sa,N,Sb,N,Sd,N,Sb
+  TwentyFourthsAndAHalfCentury: N,N,Dc,Da,Dc,Da,Db
+Final Health:
+                     Grenadier: -2
+                 SimpleShooter: -2
+                     Richochet: -5
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet TwentyFourthsAndAHalfCentury SimpleShooter
+SimpleShooter: Richochet TwentyFourthsAndAHalfCentury Grenadier
+Richochet: SimpleShooter TwentyFourthsAndAHalfCentury Grenadier
+TwentyFourthsAndAHalfCentury: SimpleShooter Richochet Grenadier
+Generated: 2014/08/12 07:39:02.835999093 UTC

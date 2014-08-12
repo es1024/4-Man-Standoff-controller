@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey Scared CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sd,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sa,N,Sd,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Dc,Dc,Sa,N,Sc,N,Sa
+Final Health:
+                       HanSolo: -1
+                        Monkey: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Scared CourageTheDog
+Monkey: HanSolo Scared CourageTheDog
+Scared: HanSolo Monkey CourageTheDog
+CourageTheDog: HanSolo Monkey Scared
+Generated: 2014/08/12 07:19:05.730878058 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Coward TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dc,P,Db,Sd,N
+                        Coward: Sa,N,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dc,Db,Sc
+Final Health:
+                      Pacifist: -2
+                 InputAnalyzer: -1
+                        Coward: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward TwentyFourthsAndAHalfCentury InputAnalyzer
+InputAnalyzer: Coward TwentyFourthsAndAHalfCentury Pacifist
+Coward: InputAnalyzer TwentyFourthsAndAHalfCentury Pacifist
+TwentyFourthsAndAHalfCentury: InputAnalyzer Coward Pacifist
+Generated: 2014/08/12 10:48:05.880763368 UTC

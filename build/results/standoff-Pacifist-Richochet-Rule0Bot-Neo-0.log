@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Rule0Bot Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sc,N,Sd,N,Sa,N,Sd,N,Sa,N,Sa,N,Sc,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Rule0Bot Neo
+Richochet: Pacifist Rule0Bot Neo
+Rule0Bot: Pacifist Richochet Neo
+Neo: Pacifist Richochet Rule0Bot
+Generated: 2014/08/12 05:56:22.088712527 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman EmoCowboy Ninja
+                 InputAnalyzer: Db,Dd,Sb,N,P,Dd,Db
+                     Bomberman: N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,Sc,N,N,N
+                         Ninja: Da,Db,Da,Dd,Dd,Da,Da
+Final Health:
+                 InputAnalyzer: -1
+                     Bomberman: 0
+                     EmoCowboy: -2
+                         Ninja: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman EmoCowboy Ninja
+Bomberman: InputAnalyzer EmoCowboy Ninja
+EmoCowboy: InputAnalyzer Bomberman Ninja
+Ninja: InputAnalyzer Bomberman EmoCowboy
+Generated: 2014/08/12 06:56:01.378060455 UTC

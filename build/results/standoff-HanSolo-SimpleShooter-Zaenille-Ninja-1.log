@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Zaenille Ninja
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                         Ninja: Da,Da,Da,Dc,Dc,Dd,Dd
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille Ninja SimpleShooter
+SimpleShooter: Zaenille Ninja HanSolo
+Zaenille: SimpleShooter Ninja HanSolo
+Ninja: SimpleShooter Zaenille HanSolo
+Generated: 2014/08/12 10:45:41.646814376 UTC

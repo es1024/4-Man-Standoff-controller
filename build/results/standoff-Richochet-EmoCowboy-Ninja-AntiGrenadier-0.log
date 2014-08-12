@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy Ninja AntiGrenadier
+                     Richochet: Sc,N,Sc,N,Sc,N,Sd,N,Sc,N,Sd,N,Sd,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Da,Da,Db,Dc,Db,Dd,Dd,Da,Db,Db,Db,Da,Da,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                     EmoCowboy: -2
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy Ninja AntiGrenadier
+EmoCowboy: Richochet Ninja AntiGrenadier
+Ninja: Richochet EmoCowboy AntiGrenadier
+AntiGrenadier: Richochet EmoCowboy Ninja
+Generated: 2014/08/12 09:36:03.974292419 UTC

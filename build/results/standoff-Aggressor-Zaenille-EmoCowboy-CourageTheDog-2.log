@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille EmoCowboy CourageTheDog
+                     Aggressor: P,Td
+                      Zaenille: Sb,N
+                     EmoCowboy: Sc,N
+                 CourageTheDog: Sb,N
+Final Health:
+                     Aggressor: 2
+                      Zaenille: -4
+                     EmoCowboy: -2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Zaenille EmoCowboy
+Zaenille: CourageTheDog Aggressor EmoCowboy
+EmoCowboy: CourageTheDog Aggressor Zaenille
+CourageTheDog: EmoCowboy Aggressor Zaenille
+Generated: 2014/08/12 06:14:38.436756382 UTC

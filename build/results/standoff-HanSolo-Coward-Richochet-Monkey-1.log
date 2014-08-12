@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Richochet Monkey
+                       HanSolo: Sc,N,Sc,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sc
+                     Richochet: Sa,N,Sa,N,Sd,N,Sd,N,Sb
+                        Monkey: N,N,N,Sa,N,N,N,N,N
+Final Health:
+                       HanSolo: -3
+                        Coward: 3
+                     Richochet: -1
+                        Monkey: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Monkey Coward
+Coward: Richochet Monkey HanSolo
+Richochet: Coward Monkey HanSolo
+Monkey: Coward Richochet HanSolo
+Generated: 2014/08/12 07:28:19.825483946 UTC

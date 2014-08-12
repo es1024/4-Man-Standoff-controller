@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward EmoCowboy AntiGrenadier
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                        Coward: Sd,N,Sa,N,Dd,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Coward: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward EmoCowboy AntiGrenadier
+Coward: HanSolo EmoCowboy AntiGrenadier
+EmoCowboy: HanSolo Coward AntiGrenadier
+AntiGrenadier: HanSolo Coward EmoCowboy
+Generated: 2014/08/12 08:36:02.345402429 UTC

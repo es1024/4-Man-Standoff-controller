@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier Rule0Bot
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Sc,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sd,N,Sd,N,Sb,N,Sc,N,Sb,N,Sd,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Bomberman AntiGrenadier Rule0Bot
+Bomberman: TwentyFourthsAndAHalfCentury AntiGrenadier Rule0Bot
+AntiGrenadier: TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+Rule0Bot: TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+Generated: 2014/08/12 09:21:44.697467065 UTC

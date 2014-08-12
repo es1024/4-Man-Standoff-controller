@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO Spock CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Dd,Sd,N,N,N,N,N,N,N,N,N
+                         Spock: N,Sb,N,Sb,N,Sa,N,Sa,N,Sd,N,Sd
+                 CourageTheDog: Sb,N,Sc,N,Sa,N,Da,Sc,N,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                 DONTNUKEMEBRO: -1
+                         Spock: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO Spock CourageTheDog
+DONTNUKEMEBRO: Pacifist Spock CourageTheDog
+Spock: Pacifist DONTNUKEMEBRO CourageTheDog
+CourageTheDog: Pacifist DONTNUKEMEBRO Spock
+Generated: 2014/08/12 09:08:55.118103522 UTC

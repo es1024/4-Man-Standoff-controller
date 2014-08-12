@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Richochet Neo
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Dd,P,Sd,N
+                     Richochet: Sa,N,Sa,N
+                           Neo: N,N,N,N
+Final Health:
+                      Pacifist: -2
+                 InputAnalyzer: -1
+                     Richochet: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo InputAnalyzer Richochet
+InputAnalyzer: Neo Pacifist Richochet
+Richochet: Neo Pacifist InputAnalyzer
+Neo: Richochet Pacifist InputAnalyzer
+Generated: 2014/08/12 10:01:51.254810666 UTC

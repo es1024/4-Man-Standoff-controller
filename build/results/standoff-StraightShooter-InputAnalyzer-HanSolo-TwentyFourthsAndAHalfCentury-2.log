@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Dc,Dd,P,Dc,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,Db,Da,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                       HanSolo: 2
+  TwentyFourthsAndAHalfCentury: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury InputAnalyzer HanSolo
+InputAnalyzer: TwentyFourthsAndAHalfCentury StraightShooter HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury StraightShooter InputAnalyzer
+TwentyFourthsAndAHalfCentury: HanSolo StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:47:15.080751533 UTC

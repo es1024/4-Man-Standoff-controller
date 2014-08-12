@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+                     Grenadier: P,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dd,Dd,Sd
+                        Sniper: Sa,N,Sa,N,N
+                 CourageTheDog: Sa,N,Dc,Sc,N
+Final Health:
+                     Grenadier: -7
+  TwentyFourthsAndAHalfCentury: 2
+                        Sniper: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: CourageTheDog Grenadier Sniper
+Sniper: CourageTheDog Grenadier TwentyFourthsAndAHalfCentury
+CourageTheDog: Sniper Grenadier TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:32:31.281580914 UTC

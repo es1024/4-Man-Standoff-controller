@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Rule0Bot Sniper
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sc,N,Sc
+                     Richochet: Sd,N,Sa,N,Sc,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                     Richochet: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Richochet Rule0Bot
+Richochet: Sniper HanSolo Rule0Bot
+Rule0Bot: Sniper HanSolo Richochet
+Sniper: Rule0Bot HanSolo Richochet
+Generated: 2014/08/12 06:00:36.995996593 UTC

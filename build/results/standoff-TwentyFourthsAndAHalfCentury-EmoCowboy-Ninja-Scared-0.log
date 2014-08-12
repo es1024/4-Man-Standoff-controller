@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy Ninja Scared
+  TwentyFourthsAndAHalfCentury: N,Dc,Dc,Dd,Dc,Dc,Dc,Dd,Dc,Dd,Dc,Dd,N,N,N,N,N,N,Sc,N,Sc,N,Sd
+                     EmoCowboy: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dd,Dc,Dc,Dd,Dc,Da,Dc,Db,Da,Db,Da,Dc,Db,Dd,Dc,Dc,Da,Da,Db,N,N
+                        Scared: N,Sb,N,Sc,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,Sc,N,Sa,N,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                         Ninja: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: EmoCowboy Ninja Scared
+EmoCowboy: TwentyFourthsAndAHalfCentury Ninja Scared
+Ninja: TwentyFourthsAndAHalfCentury EmoCowboy Scared
+Scared: TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+Generated: 2014/08/12 07:44:14.688746191 UTC

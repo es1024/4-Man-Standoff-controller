@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist SimpleShooter EmoCowboy
+                     Grenadier: N,P,Tb,N,P
+                      Pacifist: N,N,N,N,N
+                 SimpleShooter: Sd,N,Sb,N,Sa
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+                     Grenadier: -6
+                      Pacifist: -5
+                 SimpleShooter: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist SimpleShooter EmoCowboy
+Pacifist: Grenadier SimpleShooter EmoCowboy
+SimpleShooter: Grenadier Pacifist EmoCowboy
+EmoCowboy: Grenadier Pacifist SimpleShooter
+Generated: 2014/08/12 08:49:49.777502697 UTC

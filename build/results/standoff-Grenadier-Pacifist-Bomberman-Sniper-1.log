@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Bomberman Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,P,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+                     Grenadier: -3
+                      Pacifist: 0
+                     Bomberman: -1
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Sniper Pacifist
+Pacifist: Bomberman Sniper Grenadier
+Bomberman: Pacifist Sniper Grenadier
+Sniper: Pacifist Bomberman Grenadier
+Generated: 2014/08/12 08:07:49.766105201 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Richochet Neo
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sb,N,Sd,N
+                        Coward: Sc,N,Sc,N,Sa,N,Sa,N,N,N
+                     Richochet: Sd,N,Sd,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Da,Sa
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+                     Richochet: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo Coward Richochet
+Coward: Neo SimpleShooter Richochet
+Richochet: Neo SimpleShooter Coward
+Neo: Richochet SimpleShooter Coward
+Generated: 2014/08/12 09:51:31.857260421 UTC

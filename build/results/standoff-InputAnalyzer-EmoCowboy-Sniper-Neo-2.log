@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer EmoCowboy Sniper Neo
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,Da,N,N,N,Dc,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,N,Dc,N,Dc,N,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,Dc,Sd
+Final Health:
+                 InputAnalyzer: -2
+                     EmoCowboy: -2
+                        Sniper: 5
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo EmoCowboy Sniper
+EmoCowboy: Neo InputAnalyzer Sniper
+Sniper: Neo InputAnalyzer EmoCowboy
+Neo: Sniper InputAnalyzer EmoCowboy
+Generated: 2014/08/12 10:00:46.690250013 UTC

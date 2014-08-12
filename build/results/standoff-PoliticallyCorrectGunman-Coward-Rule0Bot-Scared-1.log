@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Rule0Bot Scared
+      PoliticallyCorrectGunman: Sb,N,Sc,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Dd,Da,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,N,Sb,N,Sc,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Scared Coward
+Coward: Rule0Bot Scared PoliticallyCorrectGunman
+Rule0Bot: Coward Scared PoliticallyCorrectGunman
+Scared: Coward Rule0Bot PoliticallyCorrectGunman
+Generated: 2014/08/12 06:49:26.931696874 UTC

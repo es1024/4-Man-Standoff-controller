@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey Rule0Bot CourageTheDog
+      PoliticallyCorrectGunman: Dd,Sa,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sc,N,Sc,N,Dc,Dc,Sc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                        Monkey: -2
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Monkey Rule0Bot
+Monkey: CourageTheDog PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: CourageTheDog PoliticallyCorrectGunman Monkey
+CourageTheDog: Rule0Bot PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 06:53:17.692696547 UTC

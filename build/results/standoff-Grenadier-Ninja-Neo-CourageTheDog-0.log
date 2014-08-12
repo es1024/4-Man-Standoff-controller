@@ -1,0 +1,16 @@
+Standoff between: Grenadier Ninja Neo CourageTheDog
+                     Grenadier: P,Tb,N,N,N,N,N,N,N,N,P,N,N
+                         Ninja: Dd,Da,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,N,N,Da,N,Da,Da,Da,Da,P,Ta
+Final Health:
+                     Grenadier: -12
+                         Ninja: -3
+                           Neo: 0
+                 CourageTheDog: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Neo CourageTheDog
+Ninja: Grenadier Neo CourageTheDog
+Neo: Grenadier Ninja CourageTheDog
+CourageTheDog: Grenadier Ninja Neo
+Generated: 2014/08/12 06:01:15.145160469 UTC

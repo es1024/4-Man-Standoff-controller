@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Ninja Neo
+                 InputAnalyzer: Db,P,Da,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Da,Dc,Da,Dc,Dd,Db,Da,Db,Dd,Dc,Da,Dc,Dd,Dc,Dd,Db,Da,Da,Db,Dd,Db,Dd,Dc,Da,Db,Da,Dc,Dd,Dc,Dd,Dc,Da,Da,Dd,Dc,Dd,Dc,Dd,Dc,Da,Db,Db,Dd,Dc,Da,Db,Dd,Dc
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,Dc,N,Dc,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,Dc,N,Dc
+Final Health:
+                 InputAnalyzer: -1
+                     Bomberman: -18
+                         Ninja: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Ninja Neo
+Bomberman: InputAnalyzer Ninja Neo
+Ninja: InputAnalyzer Bomberman Neo
+Neo: InputAnalyzer Bomberman Ninja
+Generated: 2014/08/12 06:01:22.943724173 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Richochet TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+      PoliticallyCorrectGunman: Sd,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sb,N,Sd,N,Sa,N,Sd,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                     Richochet: 5
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Richochet
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury StraightShooter Richochet
+Richochet: TwentyFourthsAndAHalfCentury StraightShooter PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Richochet StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 06:28:23.613736114 UTC

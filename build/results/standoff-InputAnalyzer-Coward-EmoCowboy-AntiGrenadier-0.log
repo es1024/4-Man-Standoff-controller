@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward EmoCowboy AntiGrenadier
+                 InputAnalyzer: Db,Dc,Db,Sd,N,Da,Dd,Db,Sa
+                        Coward: Sd,N,Sd,N,Sc,N,Sa,N,Sa
+                     EmoCowboy: N,N,N,N,Sc,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                        Coward: 5
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward EmoCowboy AntiGrenadier
+Coward: InputAnalyzer EmoCowboy AntiGrenadier
+EmoCowboy: InputAnalyzer Coward AntiGrenadier
+AntiGrenadier: InputAnalyzer Coward EmoCowboy
+Generated: 2014/08/12 08:19:22.885662763 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer EmoCowboy Scared
+                     Grenadier: P,N,N
+                 InputAnalyzer: Da,Dd,Sd
+                     EmoCowboy: Sc,N,N
+                        Scared: Sb,N,Sa
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: 0
+                     EmoCowboy: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer EmoCowboy Scared
+InputAnalyzer: Grenadier EmoCowboy Scared
+EmoCowboy: Grenadier InputAnalyzer Scared
+Scared: Grenadier InputAnalyzer EmoCowboy
+Generated: 2014/08/12 06:19:40.318918660 UTC

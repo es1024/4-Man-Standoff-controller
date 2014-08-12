@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Richochet TwentyFourthsAndAHalfCentury
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                     Richochet: Sb,N
+  TwentyFourthsAndAHalfCentury: N,N
+Final Health:
+                        Coward: -3
+                     Aggressor: 0
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Aggressor Richochet TwentyFourthsAndAHalfCentury
+Aggressor: Coward Richochet TwentyFourthsAndAHalfCentury
+Richochet: Coward Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Coward Aggressor Richochet
+Generated: 2014/08/12 09:40:25.007462403 UTC

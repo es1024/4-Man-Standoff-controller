@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Bomberman CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sb,N,Db,Da,Da,Da,Db,Da,Da,N,Db,Db,Da,Sb,N,Sb,N,Sa,N,Da,Sa
+Final Health:
+               StraightShooter: -1
+                        Monkey: -1
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Bomberman CourageTheDog
+Monkey: StraightShooter Bomberman CourageTheDog
+Bomberman: StraightShooter Monkey CourageTheDog
+CourageTheDog: StraightShooter Monkey Bomberman
+Generated: 2014/08/12 09:07:52.859337277 UTC

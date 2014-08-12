@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Monkey Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sc,N,Sc,N,Sa,N,Sa
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                        Monkey: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Monkey Scared
+Coward: Pacifist Monkey Scared
+Monkey: Pacifist Coward Scared
+Scared: Pacifist Coward Monkey
+Generated: 2014/08/12 09:22:49.258398028 UTC

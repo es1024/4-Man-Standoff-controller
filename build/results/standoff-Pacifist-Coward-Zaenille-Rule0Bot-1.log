@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Zaenille Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                      Zaenille: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Rule0Bot Coward
+Coward: Zaenille Rule0Bot Pacifist
+Zaenille: Coward Rule0Bot Pacifist
+Rule0Bot: Coward Zaenille Pacifist
+Generated: 2014/08/12 07:05:00.192252676 UTC

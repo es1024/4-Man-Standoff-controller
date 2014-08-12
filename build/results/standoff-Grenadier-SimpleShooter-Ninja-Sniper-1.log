@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Ninja Sniper
+                     Grenadier: N,P,N,N
+                 SimpleShooter: Sa,N,Sd,N
+                         Ninja: Db,Da,Dd,Da
+                        Sniper: Sb,N,Sa,N
+Final Health:
+                     Grenadier: -5
+                 SimpleShooter: 0
+                         Ninja: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Sniper SimpleShooter
+SimpleShooter: Ninja Sniper Grenadier
+Ninja: SimpleShooter Sniper Grenadier
+Sniper: SimpleShooter Ninja Grenadier
+Generated: 2014/08/12 10:13:25.855910763 UTC

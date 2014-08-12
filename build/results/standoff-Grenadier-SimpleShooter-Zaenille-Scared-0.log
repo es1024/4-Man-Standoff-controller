@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Zaenille Scared
+                     Grenadier: N,N,N,P,N
+                 SimpleShooter: Sd,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                        Scared: N,N,Sa,N,Sa
+Final Health:
+                     Grenadier: -7
+                 SimpleShooter: 2
+                      Zaenille: -2
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Zaenille Scared
+SimpleShooter: Grenadier Zaenille Scared
+Zaenille: Grenadier SimpleShooter Scared
+Scared: Grenadier SimpleShooter Zaenille
+Generated: 2014/08/12 08:51:51.443405520 UTC

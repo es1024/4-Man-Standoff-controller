@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Richochet Neo
+               StraightShooter: Sb,N
+                     Aggressor: P,Ta
+                     Richochet: Sd,N
+                           Neo: N,N
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 0
+                     Richochet: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Aggressor Richochet
+Aggressor: Neo StraightShooter Richochet
+Richochet: Neo StraightShooter Aggressor
+Neo: Richochet StraightShooter Aggressor
+Generated: 2014/08/12 09:11:35.595792402 UTC

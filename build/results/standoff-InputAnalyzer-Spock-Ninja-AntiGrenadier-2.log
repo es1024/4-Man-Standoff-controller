@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Ninja AntiGrenadier
+                 InputAnalyzer: Dd,Dc,P,Db,N,N,N
+                         Spock: Sd,N,Sd,N,Sa,N,Sc
+                         Ninja: Db,Dd,Db,Dc,Dc,Db,Dd
+                 AntiGrenadier: N,N,N,Sa,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                         Spock: 2
+                         Ninja: 0
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Spock Ninja
+Spock: AntiGrenadier InputAnalyzer Ninja
+Ninja: AntiGrenadier InputAnalyzer Spock
+AntiGrenadier: Ninja InputAnalyzer Spock
+Generated: 2014/08/12 09:16:40.454709801 UTC

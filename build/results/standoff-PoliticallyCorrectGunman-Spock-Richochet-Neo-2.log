@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet Neo
+      PoliticallyCorrectGunman: Sb,N,Dc,N,Sb,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N
+                     Richochet: Sd,N,Sb,N,Sa,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                     Richochet: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Spock Richochet
+Spock: Neo PoliticallyCorrectGunman Richochet
+Richochet: Neo PoliticallyCorrectGunman Spock
+Neo: Richochet PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 07:24:22.006354345 UTC

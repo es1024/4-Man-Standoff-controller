@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Richochet Bomberman
+                        Coward: Sb,N
+                     Aggressor: P,Tc
+                     Richochet: Sa,N
+                     Bomberman: N,N
+Final Health:
+                        Coward: 0
+                     Aggressor: 0
+                     Richochet: -3
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet Bomberman Aggressor
+Aggressor: Richochet Bomberman Coward
+Richochet: Aggressor Bomberman Coward
+Bomberman: Aggressor Richochet Coward
+Generated: 2014/08/12 08:30:15.155777902 UTC

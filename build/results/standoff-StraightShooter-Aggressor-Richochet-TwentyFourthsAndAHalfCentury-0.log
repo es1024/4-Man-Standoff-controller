@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Richochet TwentyFourthsAndAHalfCentury
+               StraightShooter: Sc,N
+                     Aggressor: P,Ta
+                     Richochet: Sb,N
+  TwentyFourthsAndAHalfCentury: N,N
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 0
+                     Richochet: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Richochet TwentyFourthsAndAHalfCentury
+Aggressor: StraightShooter Richochet TwentyFourthsAndAHalfCentury
+Richochet: StraightShooter Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: StraightShooter Aggressor Richochet
+Generated: 2014/08/12 08:41:33.895645954 UTC

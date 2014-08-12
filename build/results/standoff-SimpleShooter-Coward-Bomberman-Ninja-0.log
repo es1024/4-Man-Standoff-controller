@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Bomberman Ninja
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sb,N,Sb
+                        Coward: Sd,N,Sd,N,Sc,N,Sc,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Dc,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                        Coward: -1
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Coward Bomberman Ninja
+Coward: SimpleShooter Bomberman Ninja
+Bomberman: SimpleShooter Coward Ninja
+Ninja: SimpleShooter Coward Bomberman
+Generated: 2014/08/12 09:09:04.083080082 UTC

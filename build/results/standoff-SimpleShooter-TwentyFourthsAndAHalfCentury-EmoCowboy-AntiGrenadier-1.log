@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sb,N,Sb,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Dc,N,N,N,N,Dd,Da,Dd,Da,Dd,Dd,N,N
+                     EmoCowboy: N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy AntiGrenadier SimpleShooter
+EmoCowboy: TwentyFourthsAndAHalfCentury AntiGrenadier SimpleShooter
+AntiGrenadier: TwentyFourthsAndAHalfCentury EmoCowboy SimpleShooter
+Generated: 2014/08/12 10:16:45.089800555 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Aggressor Bomberman
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,Sa
+                       HanSolo: Sc,N,N,N,N,N,N,N
+                     Aggressor: P,Tb,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -3
+                     Aggressor: 0
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Bomberman HanSolo
+HanSolo: Aggressor Bomberman PoliticallyCorrectGunman
+Aggressor: HanSolo Bomberman PoliticallyCorrectGunman
+Bomberman: HanSolo Aggressor PoliticallyCorrectGunman
+Generated: 2014/08/12 08:12:00.139092775 UTC

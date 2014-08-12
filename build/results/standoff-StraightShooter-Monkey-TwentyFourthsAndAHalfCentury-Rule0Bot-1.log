@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey TwentyFourthsAndAHalfCentury Rule0Bot
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,Sd,N,N,N,Db,Db,N,N,N,N,N,N,N,N,N,N,Sd,N,N,N,Db,Db,Sd,N,N,Db,Db,N,N,N,N,N,N,N,N,Db,Db,N,Da,N,N,Db,Da,Db,Db,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Db,Db,Da,Db,Db,Db,Db,Db,Db,Db,N,N,N,N,N,N,Da,Db,Da,Db,Db,Db,Da,Db,Da,Db,Da,Db,N,N,N,N,N,Db,Da,Db,Db,Db,Da,Db,Da,Db,Da,Db,Db,Db,Da,Db
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                        Monkey: -15
+  TwentyFourthsAndAHalfCentury: -15
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Rule0Bot Monkey
+Monkey: TwentyFourthsAndAHalfCentury Rule0Bot StraightShooter
+TwentyFourthsAndAHalfCentury: Monkey Rule0Bot StraightShooter
+Rule0Bot: Monkey TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 07:00:53.957885551 UTC

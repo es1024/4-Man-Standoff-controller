@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Ninja Neo
+                 InputAnalyzer: Db,Da,Sd,N,P,Dd,Db
+  TwentyFourthsAndAHalfCentury: Dc,Da,Sd,N,Sc,N,N
+                         Ninja: Da,Dd,Dc,Da,Dc,Db,Dd
+                           Neo: N,N,N,Dc,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Ninja Neo
+TwentyFourthsAndAHalfCentury: InputAnalyzer Ninja Neo
+Ninja: InputAnalyzer TwentyFourthsAndAHalfCentury Neo
+Neo: InputAnalyzer TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 06:16:46.863641308 UTC

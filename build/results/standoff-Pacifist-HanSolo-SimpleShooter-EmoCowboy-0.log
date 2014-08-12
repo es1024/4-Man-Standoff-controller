@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo SimpleShooter EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                 SimpleShooter: 3
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo SimpleShooter EmoCowboy
+HanSolo: Pacifist SimpleShooter EmoCowboy
+SimpleShooter: Pacifist HanSolo EmoCowboy
+EmoCowboy: Pacifist HanSolo SimpleShooter
+Generated: 2014/08/12 08:59:32.298272358 UTC

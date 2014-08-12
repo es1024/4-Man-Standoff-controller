@@ -1,16 +1,16 @@
 Standoff between: StraightShooter PoliticallyCorrectGunman HanSolo Spock
-               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
-      PoliticallyCorrectGunman: Dc,N,Dd,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                       HanSolo: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                         Spock: Sc,N,Sc,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+      PoliticallyCorrectGunman: Dc,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                         Spock: Sc,N,N,N,N,N,N,N,N,N,N
 Final Health:
-               StraightShooter: -15
-      PoliticallyCorrectGunman: -3
-                       HanSolo: -1
-                         Spock: -19
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 3
+                         Spock: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 StraightShooter: Spock PoliticallyCorrectGunman HanSolo
 PoliticallyCorrectGunman: Spock StraightShooter HanSolo
 HanSolo: Spock StraightShooter PoliticallyCorrectGunman
 Spock: HanSolo StraightShooter PoliticallyCorrectGunman
-Generated: 2014/08/11 00:58:59.967053061 UTC
+Generated: 2014/08/12 07:52:27.417031102 UTC

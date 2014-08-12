@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Scared Neo
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dc,Dd,N,N,N,N,N,N,N,Dd,Dd,Sa,N,Sa
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: 3
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Neo HanSolo
+Scared: TwentyFourthsAndAHalfCentury Neo HanSolo
+Neo: TwentyFourthsAndAHalfCentury Scared HanSolo
+Generated: 2014/08/12 10:20:21.896793775 UTC

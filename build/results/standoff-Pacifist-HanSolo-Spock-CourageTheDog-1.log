@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Spock CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sb,N,Sb,N,Sb,N,Sb,N,Sa,N,Sb,N,Sb,N,Sb
+                 CourageTheDog: Sb,N,N,Da,N,Da,Dc,Sa,N,Sa,N,Dc,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                         Spock: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock CourageTheDog HanSolo
+HanSolo: Spock CourageTheDog Pacifist
+Spock: HanSolo CourageTheDog Pacifist
+CourageTheDog: HanSolo Spock Pacifist
+Generated: 2014/08/12 09:03:07.198085407 UTC

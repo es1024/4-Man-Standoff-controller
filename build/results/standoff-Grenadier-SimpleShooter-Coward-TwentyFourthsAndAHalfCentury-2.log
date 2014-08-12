@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Coward TwentyFourthsAndAHalfCentury
+                     Grenadier: P,Td
+                 SimpleShooter: Sc,N
+                        Coward: Sb,N
+  TwentyFourthsAndAHalfCentury: Da,Da
+Final Health:
+                     Grenadier: 2
+                 SimpleShooter: 0
+                        Coward: 0
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury SimpleShooter Coward
+SimpleShooter: TwentyFourthsAndAHalfCentury Grenadier Coward
+Coward: TwentyFourthsAndAHalfCentury Grenadier SimpleShooter
+TwentyFourthsAndAHalfCentury: Coward Grenadier SimpleShooter
+Generated: 2014/08/12 05:47:06.912118953 UTC

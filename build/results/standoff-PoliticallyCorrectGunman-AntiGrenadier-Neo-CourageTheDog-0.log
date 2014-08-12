@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman AntiGrenadier Neo CourageTheDog
+      PoliticallyCorrectGunman: N,N,N,N,P,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,Sa,N,N,N,N
+                           Neo: N,N,N,N,Dd,N,Dd,Dd,Db,N
+                 CourageTheDog: Sa,N,Sa,N,Sc,N,Dc,Sb,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -7
+                 AntiGrenadier: 0
+                           Neo: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Neo CourageTheDog
+AntiGrenadier: PoliticallyCorrectGunman Neo CourageTheDog
+Neo: PoliticallyCorrectGunman AntiGrenadier CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman AntiGrenadier Neo
+Generated: 2014/08/12 08:17:56.699851140 UTC

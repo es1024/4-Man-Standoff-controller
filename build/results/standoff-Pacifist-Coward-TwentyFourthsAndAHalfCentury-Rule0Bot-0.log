@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward TwentyFourthsAndAHalfCentury Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,Dd,Da,Da,Da,Da,Db,Da,Db,Da,Da,Da,Da,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward TwentyFourthsAndAHalfCentury Rule0Bot
+Coward: Pacifist TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: Pacifist Coward Rule0Bot
+Rule0Bot: Pacifist Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:26:56.378407789 UTC

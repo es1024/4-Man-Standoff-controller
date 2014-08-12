@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,Dd,N,N,Da,Dd,Da,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,N,N,Db,Db,Sb,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: 1
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman CourageTheDog HanSolo
+Bomberman: TwentyFourthsAndAHalfCentury CourageTheDog HanSolo
+CourageTheDog: TwentyFourthsAndAHalfCentury Bomberman HanSolo
+Generated: 2014/08/12 08:49:47.993244876 UTC

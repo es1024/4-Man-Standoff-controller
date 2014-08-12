@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Aggressor Scared
+                       HanSolo: Sc,N
+                         Spock: Sc,N
+                     Aggressor: P,Td
+                        Scared: Sb,N
+Final Health:
+                       HanSolo: 2
+                         Spock: 0
+                     Aggressor: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Scared Spock
+Spock: Aggressor Scared HanSolo
+Aggressor: Spock Scared HanSolo
+Scared: Spock Aggressor HanSolo
+Generated: 2014/08/12 08:17:17.808944774 UTC

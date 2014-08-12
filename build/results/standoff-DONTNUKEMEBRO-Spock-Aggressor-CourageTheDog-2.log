@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock Aggressor CourageTheDog
+                 DONTNUKEMEBRO: Dc,Sc
+                         Spock: N,N
+                     Aggressor: P,Td
+                 CourageTheDog: N,P
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: -1
+                     Aggressor: -3
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog Spock Aggressor
+Spock: CourageTheDog DONTNUKEMEBRO Aggressor
+Aggressor: CourageTheDog DONTNUKEMEBRO Spock
+CourageTheDog: Aggressor DONTNUKEMEBRO Spock
+Generated: 2014/08/12 06:07:14.374952126 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Richochet Neo
+                 InputAnalyzer: Dc,Db,P,Dd,Da
+                        Coward: Sa,N,Sa,N,Sa
+                     Richochet: Sa,N,Sb,N,Sd
+                           Neo: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                        Coward: 0
+                     Richochet: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Neo Coward
+Coward: Richochet Neo InputAnalyzer
+Richochet: Coward Neo InputAnalyzer
+Neo: Coward Richochet InputAnalyzer
+Generated: 2014/08/12 09:45:59.399801655 UTC

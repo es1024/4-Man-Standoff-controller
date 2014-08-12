@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Monkey Rule0Bot
+      PoliticallyCorrectGunman: Db,N,Sc,N,Dd,N,N,N,N,N,N,N,P
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sc,N,Sa
+                        Monkey: N,Db,N,N,N,Dd,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -7
+                 SimpleShooter: 2
+                        Monkey: -1
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot SimpleShooter Monkey
+SimpleShooter: Rule0Bot PoliticallyCorrectGunman Monkey
+Monkey: Rule0Bot PoliticallyCorrectGunman SimpleShooter
+Rule0Bot: Monkey PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 06:44:26.110337531 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman EmoCowboy AntiGrenadier
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman EmoCowboy AntiGrenadier
+Bomberman: SimpleShooter EmoCowboy AntiGrenadier
+EmoCowboy: SimpleShooter Bomberman AntiGrenadier
+AntiGrenadier: SimpleShooter Bomberman EmoCowboy
+Generated: 2014/08/12 07:17:09.271441389 UTC

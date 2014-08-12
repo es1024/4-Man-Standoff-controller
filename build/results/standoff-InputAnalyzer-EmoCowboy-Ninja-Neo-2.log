@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer EmoCowboy Ninja Neo
+                 InputAnalyzer: Dd,P,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Da,Dd,Dc,Db,Dc,Dc,Dd,Da,Dd,Dc,Db,Dc,Dc,Dd,Dc,Dc,Dd,Da,Da,Dd,Da,Dd,Da,Dc,Da,Da,Dc,Db,Dc,Dd,Da,Dd,Db,Dc,Da,Db,Dc,Db,Da,Dd,Da,Dd,Da,Dd,Dd,Dc,Dd,Db
+                           Neo: N,N,N,N,Dc,N,Dc,N,N,N,N,N,N,N,N,N,Dc,N,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,N,N,Dc,N,Dc,N,N,N,Dc,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                     EmoCowboy: -2
+                         Ninja: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo EmoCowboy Ninja
+EmoCowboy: Neo InputAnalyzer Ninja
+Ninja: Neo InputAnalyzer EmoCowboy
+Neo: Ninja InputAnalyzer EmoCowboy
+Generated: 2014/08/12 09:18:54.507221138 UTC

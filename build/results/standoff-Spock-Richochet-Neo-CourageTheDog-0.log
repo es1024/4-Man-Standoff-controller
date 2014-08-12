@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Neo CourageTheDog
+                         Spock: Sb,N,Sb,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sc,N,Sd
+                           Neo: N,Sa,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,N,Db,Sb
+Final Health:
+                         Spock: -1
+                     Richochet: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Neo CourageTheDog
+Richochet: Spock Neo CourageTheDog
+Neo: Spock Richochet CourageTheDog
+CourageTheDog: Spock Richochet Neo
+Generated: 2014/08/12 06:23:35.969735823 UTC

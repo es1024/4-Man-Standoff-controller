@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Aggressor Ninja
+                     Grenadier: N,N,N,N,N
+                      Pacifist: N,N,N,N,N
+                     Aggressor: P,Td,Sa,N,Sb
+                         Ninja: Db,Dd,N,N,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: 0
+                     Aggressor: 2
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Pacifist Aggressor
+Pacifist: Ninja Grenadier Aggressor
+Aggressor: Ninja Grenadier Pacifist
+Ninja: Aggressor Grenadier Pacifist
+Generated: 2014/08/12 07:56:33.962547059 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Ninja Rule0Bot CourageTheDog
+                         Spock: Sb,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sc,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Da,Dc,Da,Dd,Da,Db,Dc,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sb,N,Dc,Db,Da,Sc,N,Da,Da,Sc,N,Da,Da,Da,Sa,N,Da,Da,N,Da,Da,Da,Da,Da,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                         Ninja: -1
+                      Rule0Bot: -3
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja Rule0Bot CourageTheDog
+Ninja: Spock Rule0Bot CourageTheDog
+Rule0Bot: Spock Ninja CourageTheDog
+CourageTheDog: Spock Ninja Rule0Bot
+Generated: 2014/08/12 09:13:43.310995358 UTC

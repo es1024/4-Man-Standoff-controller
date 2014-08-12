@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward AntiGrenadier Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,Dc,Dc,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: 5
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward AntiGrenadier Neo
+Coward: StraightShooter AntiGrenadier Neo
+AntiGrenadier: StraightShooter Coward Neo
+Neo: StraightShooter Coward AntiGrenadier
+Generated: 2014/08/12 07:00:03.315816582 UTC

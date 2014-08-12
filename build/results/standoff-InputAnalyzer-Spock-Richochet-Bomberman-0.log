@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Richochet Bomberman
+                 InputAnalyzer: Db,Sc,N,N,N,N,N,N,N,N,N
+                         Spock: N,Sa,N,N,Sc,N,Sc,N,Sd,N,Sd
+                     Richochet: Sa,N,Sa,N,Sd,N,Sb,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 3
+                     Richochet: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Richochet Bomberman
+Spock: InputAnalyzer Richochet Bomberman
+Richochet: InputAnalyzer Spock Bomberman
+Bomberman: InputAnalyzer Spock Richochet
+Generated: 2014/08/12 06:51:52.228404550 UTC

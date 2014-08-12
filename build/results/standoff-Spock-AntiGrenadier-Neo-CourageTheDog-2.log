@@ -1,0 +1,16 @@
+Standoff between: Spock AntiGrenadier Neo CourageTheDog
+                         Spock: Sd,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,Sd,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Db,N,Db,N,N,Db,N,N,N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,Db,Db,N,N,N,N,N,N,N,N,N,N,Db
+                 CourageTheDog: Sa,N,Da,Da,N,Dc,N,Da,Dc,Dc,Da,Da,Db,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -17
+                 AntiGrenadier: -15
+                           Neo: -15
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog AntiGrenadier Neo
+AntiGrenadier: CourageTheDog Spock Neo
+Neo: CourageTheDog Spock AntiGrenadier
+CourageTheDog: Neo Spock AntiGrenadier
+Generated: 2014/08/12 06:22:58.998373825 UTC

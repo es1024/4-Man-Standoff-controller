@@ -1,0 +1,16 @@
+Standoff between: Richochet AntiGrenadier Neo CourageTheDog
+                     Richochet: Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Da,Db,Db,Sa,N,Da,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo CourageTheDog AntiGrenadier
+AntiGrenadier: Neo CourageTheDog Richochet
+Neo: AntiGrenadier CourageTheDog Richochet
+CourageTheDog: AntiGrenadier Neo Richochet
+Generated: 2014/08/12 08:20:32.403864741 UTC

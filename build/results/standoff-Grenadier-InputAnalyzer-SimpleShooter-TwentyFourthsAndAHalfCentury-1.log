@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury
+                     Grenadier: P,N,N,N,N
+                 InputAnalyzer: Dc,Da,P,Dc,Sa
+                 SimpleShooter: Sa,N,Sd,N,Sb
+  TwentyFourthsAndAHalfCentury: Db,Db,N,N,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -6
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter TwentyFourthsAndAHalfCentury InputAnalyzer
+InputAnalyzer: SimpleShooter TwentyFourthsAndAHalfCentury Grenadier
+SimpleShooter: InputAnalyzer TwentyFourthsAndAHalfCentury Grenadier
+TwentyFourthsAndAHalfCentury: InputAnalyzer SimpleShooter Grenadier
+Generated: 2014/08/12 07:47:53.361541743 UTC

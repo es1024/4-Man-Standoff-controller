@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Sniper CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N
+                        Monkey: N,Sc,N,N,N,N,N,N,Da,Sc,N,Sa,N,N,N,N,Sb
+                        Sniper: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sb,N,Sa,N,Da,Da,Da,Sa,N,Db,Db,Db,Sb,N
+Final Health:
+               StraightShooter: -1
+                        Monkey: -2
+                        Sniper: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Sniper CourageTheDog
+Monkey: StraightShooter Sniper CourageTheDog
+Sniper: StraightShooter Monkey CourageTheDog
+CourageTheDog: StraightShooter Monkey Sniper
+Generated: 2014/08/12 10:46:47.757362878 UTC

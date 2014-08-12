@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Zaenille Monkey
+                 InputAnalyzer: Dc,Dd,P
+      PoliticallyCorrectGunman: P,Sa,N
+                      Zaenille: Sc,N,N
+                        Monkey: N,Sc,N
+Final Health:
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -4
+                      Zaenille: -2
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Monkey PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Zaenille Monkey InputAnalyzer
+Zaenille: PoliticallyCorrectGunman Monkey InputAnalyzer
+Monkey: PoliticallyCorrectGunman Zaenille InputAnalyzer
+Generated: 2014/08/12 10:22:49.794242664 UTC

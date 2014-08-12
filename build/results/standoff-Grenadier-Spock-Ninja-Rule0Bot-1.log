@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Ninja Rule0Bot
+                     Grenadier: P,N,N,N,N
+                         Spock: Sc,N,Sa,N,Sd
+                         Ninja: Dc,Da,Dd,N,N
+                      Rule0Bot: N,Sa,N,N,N
+Final Health:
+                     Grenadier: -5
+                         Spock: 2
+                         Ninja: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Rule0Bot Spock
+Spock: Ninja Rule0Bot Grenadier
+Ninja: Spock Rule0Bot Grenadier
+Rule0Bot: Spock Ninja Grenadier
+Generated: 2014/08/12 08:16:30.475091979 UTC

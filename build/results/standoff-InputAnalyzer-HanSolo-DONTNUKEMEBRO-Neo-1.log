@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo DONTNUKEMEBRO Neo
+                 InputAnalyzer: Dc,Db,Dc,Dd,Sb,N,Da,Dd,Da,Dc,Db,Dc,Sb,N,P,N,Da
+                       HanSolo: Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Da,Sb,N,Sb,N,Sb,N,Dd,Db,Db,Dd,Db,Db,Da,Sa,N
+                           Neo: N,N,N,N,N,N,N,Da,Da,N,N,N,N,N,N,Da,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Neo HanSolo
+HanSolo: DONTNUKEMEBRO Neo InputAnalyzer
+DONTNUKEMEBRO: HanSolo Neo InputAnalyzer
+Neo: HanSolo DONTNUKEMEBRO InputAnalyzer
+Generated: 2014/08/12 07:01:40.130081205 UTC

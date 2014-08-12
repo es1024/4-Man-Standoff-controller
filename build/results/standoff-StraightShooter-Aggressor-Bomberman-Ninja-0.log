@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Bomberman Ninja
+               StraightShooter: Sc,N,N
+                     Aggressor: P,Ta,Sd
+                     Bomberman: N,N,N
+                         Ninja: Da,Dc,Dd
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 2
+                     Bomberman: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Bomberman Ninja
+Aggressor: StraightShooter Bomberman Ninja
+Bomberman: StraightShooter Aggressor Ninja
+Ninja: StraightShooter Aggressor Bomberman
+Generated: 2014/08/12 06:19:27.221739608 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Sniper CourageTheDog
+                     Grenadier: P,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Dc,Dd,Sc
+                        Sniper: Sd,N,Sb,N,N
+                 CourageTheDog: Sa,N,Db,N,N
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: 2
+                        Sniper: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog InputAnalyzer Sniper
+InputAnalyzer: CourageTheDog Grenadier Sniper
+Sniper: CourageTheDog Grenadier InputAnalyzer
+CourageTheDog: Sniper Grenadier InputAnalyzer
+Generated: 2014/08/12 05:43:52.588729425 UTC

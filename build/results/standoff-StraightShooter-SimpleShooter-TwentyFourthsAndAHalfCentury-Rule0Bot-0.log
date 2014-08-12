@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Db,Dd,Dd,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot
+SimpleShooter: StraightShooter TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: StraightShooter SimpleShooter Rule0Bot
+Rule0Bot: StraightShooter SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:27:50.441125161 UTC

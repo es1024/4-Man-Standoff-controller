@@ -1,0 +1,16 @@
+Standoff between: Spock Coward AntiGrenadier Rule0Bot
+                         Spock: Sb,N,N,N,N,Sb,N,Sb,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sd,N,Sd,N,Sd,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -15
+                        Coward: -1
+                 AntiGrenadier: -15
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward AntiGrenadier Rule0Bot
+Coward: Spock AntiGrenadier Rule0Bot
+AntiGrenadier: Spock Coward Rule0Bot
+Rule0Bot: Spock Coward AntiGrenadier
+Generated: 2014/08/12 07:32:44.785022396 UTC

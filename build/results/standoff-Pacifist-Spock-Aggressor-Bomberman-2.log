@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Aggressor Bomberman
+                      Pacifist: N,N,N
+                         Spock: Sd,N,Sc
+                     Aggressor: P,Ta,Sb
+                     Bomberman: N,N,N
+Final Health:
+                      Pacifist: -3
+                         Spock: 0
+                     Aggressor: 0
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman Spock Aggressor
+Spock: Bomberman Pacifist Aggressor
+Aggressor: Bomberman Pacifist Spock
+Bomberman: Aggressor Pacifist Spock
+Generated: 2014/08/12 09:46:30.444282518 UTC

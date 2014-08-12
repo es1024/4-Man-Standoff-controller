@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward EmoCowboy CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sd,N,Sd,N,Sd,N
+                        Coward: Sd,N,Sa,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Da,Sa,N,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+                        Coward: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward EmoCowboy CourageTheDog
+Coward: HanSolo EmoCowboy CourageTheDog
+EmoCowboy: HanSolo Coward CourageTheDog
+CourageTheDog: HanSolo Coward EmoCowboy
+Generated: 2014/08/12 08:17:14.174952049 UTC

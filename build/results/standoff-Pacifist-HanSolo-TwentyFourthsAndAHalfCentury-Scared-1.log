@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo TwentyFourthsAndAHalfCentury Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,Db,Da,Db,Da,Db,Da,Db,Da,Da,N,N,N,N
+                        Scared: N,N,Sa,N,Sb,N,Sa,N,Sc,N,Sb,N,Sa,N,Sb
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Scared HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury Scared Pacifist
+TwentyFourthsAndAHalfCentury: HanSolo Scared Pacifist
+Scared: HanSolo TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 08:14:02.404809572 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman EmoCowboy CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                 CourageTheDog: Sb,N,Sb,N,Sb
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog Bomberman EmoCowboy
+Bomberman: CourageTheDog HanSolo EmoCowboy
+EmoCowboy: CourageTheDog HanSolo Bomberman
+CourageTheDog: EmoCowboy HanSolo Bomberman
+Generated: 2014/08/12 06:58:11.685415202 UTC

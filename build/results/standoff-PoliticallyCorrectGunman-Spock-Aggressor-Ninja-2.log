@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Aggressor Ninja
+      PoliticallyCorrectGunman: N,N,N,N,N
+                         Spock: N,N,N,N,N
+                     Aggressor: P,Td,Sa,N,Sb
+                         Ninja: Da,Dc,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                         Spock: 0
+                     Aggressor: 2
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Spock Aggressor
+Spock: Ninja PoliticallyCorrectGunman Aggressor
+Aggressor: Ninja PoliticallyCorrectGunman Spock
+Ninja: Aggressor PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 08:45:27.845149011 UTC

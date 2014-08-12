@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille Monkey EmoCowboy
+                         Spock: Sc,N
+                      Zaenille: Sb,N
+                        Monkey: N,Sc
+                     EmoCowboy: Sd,N
+Final Health:
+                         Spock: 5
+                      Zaenille: -2
+                        Monkey: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey EmoCowboy Zaenille
+Zaenille: Monkey EmoCowboy Spock
+Monkey: Zaenille EmoCowboy Spock
+EmoCowboy: Zaenille Monkey Spock
+Generated: 2014/08/12 08:05:13.145752683 UTC

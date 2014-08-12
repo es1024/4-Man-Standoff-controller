@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Sa,N,Sd,N,Sd,N,Sd,N,Sa,N,Sc,N,Sc,N,Sc,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Bomberman AntiGrenadier
+TwentyFourthsAndAHalfCentury: Pacifist Bomberman AntiGrenadier
+Bomberman: Pacifist TwentyFourthsAndAHalfCentury AntiGrenadier
+AntiGrenadier: Pacifist TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 10:19:35.104028230 UTC

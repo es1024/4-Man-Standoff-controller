@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward AntiGrenadier Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Rule0Bot Coward
+Coward: AntiGrenadier Rule0Bot Pacifist
+AntiGrenadier: Coward Rule0Bot Pacifist
+Rule0Bot: Coward AntiGrenadier Pacifist
+Generated: 2014/08/12 08:37:05.594324866 UTC

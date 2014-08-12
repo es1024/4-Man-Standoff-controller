@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille Monkey Scared
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,Sc,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                      Zaenille: -2
+                        Monkey: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey Scared Zaenille
+Zaenille: Monkey Scared Spock
+Monkey: Zaenille Scared Spock
+Scared: Zaenille Monkey Spock
+Generated: 2014/08/12 09:20:34.055377348 UTC

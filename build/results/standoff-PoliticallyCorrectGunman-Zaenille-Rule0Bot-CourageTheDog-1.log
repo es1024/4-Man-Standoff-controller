@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Rule0Bot CourageTheDog
+      PoliticallyCorrectGunman: Sb,N,N,Sd,N,Dd,N,N,Sb,N,Dd,Sc,N,Dc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Dc,Sc,N,Sa,N,Da,Dc,Dc,Sc,N,Da,Sa
+Final Health:
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -6
+                      Rule0Bot: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot CourageTheDog Zaenille
+Zaenille: Rule0Bot CourageTheDog PoliticallyCorrectGunman
+Rule0Bot: Zaenille CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Zaenille Rule0Bot PoliticallyCorrectGunman
+Generated: 2014/08/12 09:46:34.159319232 UTC

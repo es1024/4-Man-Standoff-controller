@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Coward AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                        Coward: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Spock Coward
+Spock: AntiGrenadier Pacifist Coward
+Coward: AntiGrenadier Pacifist Spock
+AntiGrenadier: Coward Pacifist Spock
+Generated: 2014/08/12 08:06:52.135062304 UTC

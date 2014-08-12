@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dd,Dc,Da,Dd,Dd,Dc,Da,Dc,Da,Dc,Da,N,N,N,N,N,N,N,Da,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Dc,Da,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Da,Dc,Dc,Dc
+                         Ninja: Dc,Dd,Db,Da,Dd,Dd,Da,Da,Dd,Dd,Db,Db,Dc,Da,Dd,Da,Dd,Da,Dd,Dd,Db,Dc,Dc,Db,Db,Da,Dc,Da,Da,Dc,Dc,Da,Da,Dc,Dd,Db,Dc,Db,Dc,Db,Dc,Db,Dc,Db,Db,Dd,Dc,Da,Db,Dc
+                 CourageTheDog: Sa,N,Da,Db,Dc,Da,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+  TwentyFourthsAndAHalfCentury: -15
+                         Ninja: -15
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja CourageTheDog StraightShooter
+Ninja: TwentyFourthsAndAHalfCentury CourageTheDog StraightShooter
+CourageTheDog: TwentyFourthsAndAHalfCentury Ninja StraightShooter
+Generated: 2014/08/12 08:51:54.453708324 UTC

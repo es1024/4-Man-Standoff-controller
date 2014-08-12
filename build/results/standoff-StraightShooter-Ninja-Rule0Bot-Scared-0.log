@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Ninja Rule0Bot Scared
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                         Ninja: Da,Dd,Dc,Dc,Dc,Da,Dd,Dc,Dc,Da,Dd,Dc,Dc,Dd,Db,Db,Da,Dc,Dd,Db,Dd,Da,Dc,Dd,Dc,Db,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sa,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sa
+Final Health:
+               StraightShooter: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Rule0Bot Scared
+Ninja: StraightShooter Rule0Bot Scared
+Rule0Bot: StraightShooter Ninja Scared
+Scared: StraightShooter Ninja Rule0Bot
+Generated: 2014/08/12 07:24:37.760967205 UTC

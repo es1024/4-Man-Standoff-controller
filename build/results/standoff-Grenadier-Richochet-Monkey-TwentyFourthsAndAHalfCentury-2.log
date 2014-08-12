@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Monkey TwentyFourthsAndAHalfCentury
+                     Grenadier: P,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sc
+                        Monkey: N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                     Richochet: 2
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Richochet Monkey
+Richochet: TwentyFourthsAndAHalfCentury Grenadier Monkey
+Monkey: TwentyFourthsAndAHalfCentury Grenadier Richochet
+TwentyFourthsAndAHalfCentury: Monkey Grenadier Richochet
+Generated: 2014/08/12 06:51:35.202049016 UTC

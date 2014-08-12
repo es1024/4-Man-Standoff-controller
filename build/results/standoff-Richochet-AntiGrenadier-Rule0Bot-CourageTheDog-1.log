@@ -1,0 +1,16 @@
+Standoff between: Richochet AntiGrenadier Rule0Bot CourageTheDog
+                     Richochet: Sc,N,Sd,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Db,Sc,N,Da,Db,Da,Db,Db,Da,Sa,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                 AntiGrenadier: -1
+                      Rule0Bot: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Rule0Bot CourageTheDog AntiGrenadier
+AntiGrenadier: Rule0Bot CourageTheDog Richochet
+Rule0Bot: AntiGrenadier CourageTheDog Richochet
+CourageTheDog: AntiGrenadier Rule0Bot Richochet
+Generated: 2014/08/12 07:14:01.093180524 UTC

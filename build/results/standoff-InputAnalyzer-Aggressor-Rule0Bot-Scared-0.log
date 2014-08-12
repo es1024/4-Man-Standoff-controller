@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Rule0Bot Scared
+                 InputAnalyzer: Db,Dc,N,N,N,N,N,N
+                     Aggressor: P,Ta,N,N,N,N,N,N
+                      Rule0Bot: N,Sb,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,Sc
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 0
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Rule0Bot Scared
+Aggressor: InputAnalyzer Rule0Bot Scared
+Rule0Bot: InputAnalyzer Aggressor Scared
+Scared: InputAnalyzer Aggressor Rule0Bot
+Generated: 2014/08/12 10:04:10.413749553 UTC

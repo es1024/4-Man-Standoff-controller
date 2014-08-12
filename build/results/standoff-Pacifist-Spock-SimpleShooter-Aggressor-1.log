@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock SimpleShooter Aggressor
+                      Pacifist: N,N
+                         Spock: Sc,N
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+Final Health:
+                      Pacifist: 0
+                         Spock: -3
+                 SimpleShooter: 0
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Aggressor Spock
+Spock: SimpleShooter Aggressor Pacifist
+SimpleShooter: Spock Aggressor Pacifist
+Aggressor: Spock SimpleShooter Pacifist
+Generated: 2014/08/12 06:33:07.864875386 UTC

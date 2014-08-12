@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Aggressor Ninja
+                       HanSolo: Sb,N,N
+                 SimpleShooter: Sd,N,N
+                     Aggressor: P,Ta,Sd
+                         Ninja: Db,Dd,Dd
+Final Health:
+                       HanSolo: -3
+                 SimpleShooter: 0
+                     Aggressor: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Aggressor Ninja
+SimpleShooter: HanSolo Aggressor Ninja
+Aggressor: HanSolo SimpleShooter Ninja
+Ninja: HanSolo SimpleShooter Aggressor
+Generated: 2014/08/12 07:52:45.035186164 UTC

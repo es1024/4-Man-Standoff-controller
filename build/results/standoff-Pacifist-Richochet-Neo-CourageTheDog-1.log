@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Da,Db,Sa,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 3
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo CourageTheDog Richochet
+Richochet: Neo CourageTheDog Pacifist
+Neo: Richochet CourageTheDog Pacifist
+CourageTheDog: Richochet Neo Pacifist
+Generated: 2014/08/12 08:06:01.724892970 UTC

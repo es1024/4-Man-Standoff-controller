@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Ninja Scared CourageTheDog
+      PoliticallyCorrectGunman: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Dd,Da,Dd,Db,Dd,Dc,Da,Dc,Dd,Db,Dc,Da,N,N
+                        Scared: Sb,N,Sd,N,N,N,N,N,Sd,N,N,Sb,N,Sb,N,Sd
+                 CourageTheDog: Sa,N,Sa,N,Da,Db,Sa,N,Db,Db,Dc,Sc,N,Dc,Dc,Sc
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Ninja: -1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Ninja Scared
+Ninja: CourageTheDog PoliticallyCorrectGunman Scared
+Scared: CourageTheDog PoliticallyCorrectGunman Ninja
+CourageTheDog: Scared PoliticallyCorrectGunman Ninja
+Generated: 2014/08/12 10:25:09.832870086 UTC

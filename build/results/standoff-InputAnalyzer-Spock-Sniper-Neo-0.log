@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Sniper Neo
+                 InputAnalyzer: Db,Dc,Db,P,Sc,N
+                         Spock: N,N,N,N,N,Sa
+                        Sniper: Sd,N,Sb,N,Sa,N
+                           Neo: N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                         Spock: 0
+                        Sniper: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Sniper Neo
+Spock: InputAnalyzer Sniper Neo
+Sniper: InputAnalyzer Spock Neo
+Neo: InputAnalyzer Spock Sniper
+Generated: 2014/08/12 08:09:26.412685666 UTC

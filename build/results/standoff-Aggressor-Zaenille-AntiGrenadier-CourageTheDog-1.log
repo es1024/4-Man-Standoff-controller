@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille AntiGrenadier CourageTheDog
+                     Aggressor: P,Tc
+                      Zaenille: Sb,N
+                 AntiGrenadier: N,Sa
+                 CourageTheDog: Sb,N
+Final Health:
+                     Aggressor: 0
+                      Zaenille: -4
+                 AntiGrenadier: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: AntiGrenadier CourageTheDog Zaenille
+Zaenille: AntiGrenadier CourageTheDog Aggressor
+AntiGrenadier: Zaenille CourageTheDog Aggressor
+CourageTheDog: Zaenille AntiGrenadier Aggressor
+Generated: 2014/08/12 10:45:53.467121945 UTC

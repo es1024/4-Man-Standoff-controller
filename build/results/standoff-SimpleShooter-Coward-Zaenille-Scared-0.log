@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Zaenille Scared
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,N,N
+                        Coward: Sd,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,Sa,N,Sb
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+                      Zaenille: -2
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Coward Zaenille Scared
+Coward: SimpleShooter Zaenille Scared
+Zaenille: SimpleShooter Coward Scared
+Scared: SimpleShooter Coward Zaenille
+Generated: 2014/08/12 07:03:45.845483274 UTC

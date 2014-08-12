@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Zaenille Scared
+                     Aggressor: P,Tb
+                     Richochet: Sa,N
+                      Zaenille: Sc,N
+                        Scared: Sa,N
+Final Health:
+                     Aggressor: -2
+                     Richochet: -3
+                      Zaenille: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet Zaenille Scared
+Richochet: Aggressor Zaenille Scared
+Zaenille: Aggressor Richochet Scared
+Scared: Aggressor Richochet Zaenille
+Generated: 2014/08/12 09:50:48.677785433 UTC

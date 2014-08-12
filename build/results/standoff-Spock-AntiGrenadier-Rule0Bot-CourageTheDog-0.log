@@ -1,0 +1,16 @@
+Standoff between: Spock AntiGrenadier Rule0Bot CourageTheDog
+                         Spock: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sc,N,Sa,N,Dc,Da,Sa
+Final Health:
+                         Spock: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Rule0Bot CourageTheDog
+AntiGrenadier: Spock Rule0Bot CourageTheDog
+Rule0Bot: Spock AntiGrenadier CourageTheDog
+CourageTheDog: Spock AntiGrenadier Rule0Bot
+Generated: 2014/08/12 09:12:22.015707070 UTC

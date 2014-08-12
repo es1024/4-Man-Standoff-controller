@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Richochet CourageTheDog
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Da,P,Db,Sc
+                     Richochet: Sa,N,Sb,N
+                 CourageTheDog: Sa,N,P,Ta
+Final Health:
+                      Pacifist: -10
+                 InputAnalyzer: -6
+                     Richochet: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Richochet CourageTheDog
+InputAnalyzer: Pacifist Richochet CourageTheDog
+Richochet: Pacifist InputAnalyzer CourageTheDog
+CourageTheDog: Pacifist InputAnalyzer Richochet
+Generated: 2014/08/12 10:19:26.291221956 UTC

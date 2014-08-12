@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille Rule0Bot CourageTheDog
+                         Spock: N,N,N,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Sc,N,Da,Sa,N,Sa,N,Da,Sa
+Final Health:
+                         Spock: -1
+                      Zaenille: -2
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Zaenille Rule0Bot
+Zaenille: CourageTheDog Spock Rule0Bot
+Rule0Bot: CourageTheDog Spock Zaenille
+CourageTheDog: Rule0Bot Spock Zaenille
+Generated: 2014/08/12 06:36:35.978333703 UTC

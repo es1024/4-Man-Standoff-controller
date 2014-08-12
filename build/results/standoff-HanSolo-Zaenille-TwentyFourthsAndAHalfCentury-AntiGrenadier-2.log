@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: AntiGrenadier HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier HanSolo Zaenille
+AntiGrenadier: TwentyFourthsAndAHalfCentury HanSolo Zaenille
+Generated: 2014/08/12 08:36:03.436036098 UTC

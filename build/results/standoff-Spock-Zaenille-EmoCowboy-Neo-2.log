@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille EmoCowboy Neo
+                         Spock: Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N
+                           Neo: N,Sa,N,Sa,N
+Final Health:
+                         Spock: 1
+                      Zaenille: -2
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Neo Zaenille EmoCowboy
+Zaenille: Neo Spock EmoCowboy
+EmoCowboy: Neo Spock Zaenille
+Neo: EmoCowboy Spock Zaenille
+Generated: 2014/08/12 09:44:49.023798829 UTC

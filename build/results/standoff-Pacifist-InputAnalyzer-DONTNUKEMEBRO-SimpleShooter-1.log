@@ -1,11 +1,11 @@
 Standoff between: Pacifist InputAnalyzer DONTNUKEMEBRO SimpleShooter
-                      Pacifist: N,N,N,N,N,N,N,N
-                 InputAnalyzer: Dc,Da,Sc,N,Da,Dc,P,Sb
-                 DONTNUKEMEBRO: Dd,Dd,Dd,Sb,N,Dd,Dd,Sb
-                 SimpleShooter: Sa,N,Sa,N,Sa,N,Sa,N
+                      Pacifist: N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,P,Sa,N
+                 DONTNUKEMEBRO: Da,Db,Dd,Dd,Sb,N
+                 SimpleShooter: Sa,N,Sc,N,Sc,N
 Final Health:
                       Pacifist: -1
-                 InputAnalyzer: -10
+                 InputAnalyzer: -3
                  DONTNUKEMEBRO: 0
                  SimpleShooter: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
@@ -13,4 +13,4 @@ Pacifist: DONTNUKEMEBRO SimpleShooter InputAnalyzer
 InputAnalyzer: DONTNUKEMEBRO SimpleShooter Pacifist
 DONTNUKEMEBRO: InputAnalyzer SimpleShooter Pacifist
 SimpleShooter: InputAnalyzer DONTNUKEMEBRO Pacifist
-Generated: 2014/08/11 00:59:19.137515406 UTC
+Generated: 2014/08/12 06:12:38.674995564 UTC

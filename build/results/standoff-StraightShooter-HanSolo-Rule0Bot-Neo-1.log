@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Rule0Bot Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sa,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,N,N,Da,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot Neo HanSolo
+HanSolo: Rule0Bot Neo StraightShooter
+Rule0Bot: HanSolo Neo StraightShooter
+Neo: HanSolo Rule0Bot StraightShooter
+Generated: 2014/08/12 09:52:10.961825588 UTC

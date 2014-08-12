@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Rule0Bot CourageTheDog
+                 InputAnalyzer: Dc,Dd,Dc,P,N,Dc
+                        Monkey: N,N,Dd,Da,Da,P
+                      Rule0Bot: N,N,N,N,Sa,N
+                 CourageTheDog: Sc,N,Da,Da,P,Tb
+Final Health:
+                 InputAnalyzer: -9
+                        Monkey: -12
+                      Rule0Bot: -6
+                 CourageTheDog: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot CourageTheDog Monkey
+Monkey: Rule0Bot CourageTheDog InputAnalyzer
+Rule0Bot: Monkey CourageTheDog InputAnalyzer
+CourageTheDog: Monkey Rule0Bot InputAnalyzer
+Generated: 2014/08/12 06:05:55.267986103 UTC

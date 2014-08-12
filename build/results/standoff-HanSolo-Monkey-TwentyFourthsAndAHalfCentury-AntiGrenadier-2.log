@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sc,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Db,Db,N,N,Da,Db,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Monkey TwentyFourthsAndAHalfCentury
+Monkey: AntiGrenadier HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier HanSolo Monkey
+AntiGrenadier: TwentyFourthsAndAHalfCentury HanSolo Monkey
+Generated: 2014/08/12 09:30:47.100663259 UTC

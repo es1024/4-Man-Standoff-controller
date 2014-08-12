@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Bomberman Sniper
+                 InputAnalyzer: Dc,Sd
+                     Aggressor: P,Tc
+                     Bomberman: N,N
+                        Sniper: Sa,N
+Final Health:
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                     Bomberman: -3
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Sniper Aggressor
+Aggressor: Bomberman Sniper InputAnalyzer
+Bomberman: Aggressor Sniper InputAnalyzer
+Sniper: Aggressor Bomberman InputAnalyzer
+Generated: 2014/08/12 07:49:02.058600695 UTC

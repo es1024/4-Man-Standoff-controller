@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO SimpleShooter Scared
+                 InputAnalyzer: Dd,P,Da,Dd,N
+                 DONTNUKEMEBRO: Dd,Dd,Sa,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd
+                        Scared: Sa,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Scared InputAnalyzer SimpleShooter
+SimpleShooter: Scared InputAnalyzer DONTNUKEMEBRO
+Scared: SimpleShooter InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 07:34:21.028813179 UTC

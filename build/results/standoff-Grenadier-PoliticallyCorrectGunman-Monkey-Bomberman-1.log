@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Monkey Bomberman
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tc
+      PoliticallyCorrectGunman: N,N,N,N,N,Sa,N,Dd,N,N,N,N,N,N,P,Sa
+                        Monkey: N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,P
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -10
+      PoliticallyCorrectGunman: -7
+                        Monkey: -12
+                     Bomberman: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Bomberman PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Monkey Bomberman Grenadier
+Monkey: PoliticallyCorrectGunman Bomberman Grenadier
+Bomberman: PoliticallyCorrectGunman Monkey Grenadier
+Generated: 2014/08/12 06:02:42.824034464 UTC

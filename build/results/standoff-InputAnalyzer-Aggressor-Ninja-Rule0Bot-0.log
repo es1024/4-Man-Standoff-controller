@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Ninja Rule0Bot
+                 InputAnalyzer: Db,P
+                     Aggressor: P,Ta
+                         Ninja: Db,Dd
+                      Rule0Bot: N,Sb
+Final Health:
+                 InputAnalyzer: -9
+                     Aggressor: -3
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Ninja Rule0Bot
+Aggressor: InputAnalyzer Ninja Rule0Bot
+Ninja: InputAnalyzer Aggressor Rule0Bot
+Rule0Bot: InputAnalyzer Aggressor Ninja
+Generated: 2014/08/12 10:31:50.334363602 UTC

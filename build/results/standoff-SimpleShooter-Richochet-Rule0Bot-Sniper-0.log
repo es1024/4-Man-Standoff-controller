@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Rule0Bot Sniper
+                 SimpleShooter: Sd,N,Sb,N,Sd
+                     Richochet: Sd,N,Sc,N,Sc
+                      Rule0Bot: N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,Sb
+Final Health:
+                 SimpleShooter: 5
+                     Richochet: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Rule0Bot Sniper
+Richochet: SimpleShooter Rule0Bot Sniper
+Rule0Bot: SimpleShooter Richochet Sniper
+Sniper: SimpleShooter Richochet Rule0Bot
+Generated: 2014/08/12 08:53:13.952655537 UTC

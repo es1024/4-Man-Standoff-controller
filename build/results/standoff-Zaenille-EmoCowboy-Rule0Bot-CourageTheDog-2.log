@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy Rule0Bot CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sc,N,Sc
+Final Health:
+                      Zaenille: -2
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog EmoCowboy Rule0Bot
+EmoCowboy: CourageTheDog Zaenille Rule0Bot
+Rule0Bot: CourageTheDog Zaenille EmoCowboy
+CourageTheDog: Rule0Bot Zaenille EmoCowboy
+Generated: 2014/08/12 07:58:34.438573477 UTC

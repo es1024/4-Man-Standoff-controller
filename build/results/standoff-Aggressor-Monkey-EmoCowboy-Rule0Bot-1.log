@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey EmoCowboy Rule0Bot
+                     Aggressor: P,Td,Sb
+                        Monkey: N,N,N
+                     EmoCowboy: Sc,N,N
+                      Rule0Bot: N,N,N
+Final Health:
+                     Aggressor: 2
+                        Monkey: 0
+                     EmoCowboy: -2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy Rule0Bot Monkey
+Monkey: EmoCowboy Rule0Bot Aggressor
+EmoCowboy: Monkey Rule0Bot Aggressor
+Rule0Bot: Monkey EmoCowboy Aggressor
+Generated: 2014/08/12 09:09:45.547381208 UTC

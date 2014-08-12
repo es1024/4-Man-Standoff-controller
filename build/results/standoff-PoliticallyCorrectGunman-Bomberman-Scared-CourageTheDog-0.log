@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Scared CourageTheDog
+      PoliticallyCorrectGunman: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Sc,N,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -1
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman Scared CourageTheDog
+Bomberman: PoliticallyCorrectGunman Scared CourageTheDog
+Scared: PoliticallyCorrectGunman Bomberman CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman Bomberman Scared
+Generated: 2014/08/12 06:38:55.001876504 UTC

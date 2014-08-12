@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Aggressor Sniper
+                 InputAnalyzer: Dc,Sb,N,Db,P,Sc,N
+                       HanSolo: Sc,N,N,N,N,N,N
+                     Aggressor: P,Tb,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                       HanSolo: -5
+                     Aggressor: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Sniper HanSolo
+HanSolo: Aggressor Sniper InputAnalyzer
+Aggressor: HanSolo Sniper InputAnalyzer
+Sniper: HanSolo Aggressor InputAnalyzer
+Generated: 2014/08/12 09:30:40.377587918 UTC

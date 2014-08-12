@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey EmoCowboy Sniper
+                         Spock: Sb,N,Sb,N,Sb,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,Sb,N,N,Sb,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -15
+                        Monkey: -2
+                     EmoCowboy: -4
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey EmoCowboy Sniper
+Monkey: Spock EmoCowboy Sniper
+EmoCowboy: Spock Monkey Sniper
+Sniper: Spock Monkey EmoCowboy
+Generated: 2014/08/12 06:39:50.482241516 UTC

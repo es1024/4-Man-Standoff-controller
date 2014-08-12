@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor EmoCowboy Scared
+                        Coward: Sb,N,Dd,Sd
+                     Aggressor: P,Tc,N,N
+                     EmoCowboy: N,N,N,N
+                        Scared: N,N,N,N
+Final Health:
+                        Coward: 2
+                     Aggressor: 0
+                     EmoCowboy: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy Scared Aggressor
+Aggressor: EmoCowboy Scared Coward
+EmoCowboy: Aggressor Scared Coward
+Scared: Aggressor EmoCowboy Coward
+Generated: 2014/08/12 06:19:19.302400728 UTC

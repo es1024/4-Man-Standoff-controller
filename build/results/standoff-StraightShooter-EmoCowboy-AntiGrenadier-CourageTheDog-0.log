@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy AntiGrenadier CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     EmoCowboy: N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Da,Dc,Sb,N,Da,Sa,N,Da,Da,Sa,N,Da,Sa
+Final Health:
+               StraightShooter: -1
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy AntiGrenadier CourageTheDog
+EmoCowboy: StraightShooter AntiGrenadier CourageTheDog
+AntiGrenadier: StraightShooter EmoCowboy CourageTheDog
+CourageTheDog: StraightShooter EmoCowboy AntiGrenadier
+Generated: 2014/08/12 06:45:35.448713472 UTC

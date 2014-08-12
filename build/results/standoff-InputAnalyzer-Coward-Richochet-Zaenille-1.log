@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Richochet Zaenille
+                 InputAnalyzer: Dc,Sa,N,N,N,N,N,N
+                        Coward: Sa,N,Sc,N,Sc,N,Dc,Sc
+                     Richochet: Sd,N,Sb,N,Sb,N,Sb,N
+                      Zaenille: Sd,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                        Coward: 1
+                     Richochet: -1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Zaenille Coward
+Coward: Richochet Zaenille InputAnalyzer
+Richochet: Coward Zaenille InputAnalyzer
+Zaenille: Coward Richochet InputAnalyzer
+Generated: 2014/08/12 08:30:51.127075748 UTC

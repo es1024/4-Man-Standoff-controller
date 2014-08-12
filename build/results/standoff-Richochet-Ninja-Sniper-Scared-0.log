@@ -1,0 +1,16 @@
+Standoff between: Richochet Ninja Sniper Scared
+                     Richochet: Sc,N,Sb,N,Sb,N,Sd,N,Sd,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Db,Da,Dc,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,Sb,N,N,N,Sa,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,Sc
+Final Health:
+                     Richochet: -1
+                         Ninja: -1
+                        Sniper: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Sniper Scared
+Ninja: Richochet Sniper Scared
+Sniper: Richochet Ninja Scared
+Scared: Richochet Ninja Sniper
+Generated: 2014/08/12 09:36:32.313740205 UTC

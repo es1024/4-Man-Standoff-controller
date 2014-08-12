@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Bomberman Scared
+                 InputAnalyzer: Dd,Dc,Dd,Sb,N,Sb,N,Dd,Sa,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dc,Dd,Sd,N,N,N,N,N,N,N,N,N,N,N,Sd,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sa,N,N,N,N,N,N,N,N,Sc,N,Sb,N,Sc
+Final Health:
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -1
+                     Bomberman: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared PoliticallyCorrectGunman Bomberman
+PoliticallyCorrectGunman: Scared InputAnalyzer Bomberman
+Bomberman: Scared InputAnalyzer PoliticallyCorrectGunman
+Scared: Bomberman InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 06:22:17.187649127 UTC

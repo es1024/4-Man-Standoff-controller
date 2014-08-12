@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Zaenille Scared
+                 InputAnalyzer: Dc,P,Sa
+                     Richochet: Sd,N,Sd
+                      Zaenille: Sc,N,N
+                        Scared: Sc,N,Sa
+Final Health:
+                 InputAnalyzer: -10
+                     Richochet: 2
+                      Zaenille: -4
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille Scared Richochet
+Richochet: Zaenille Scared InputAnalyzer
+Zaenille: Richochet Scared InputAnalyzer
+Scared: Richochet Zaenille InputAnalyzer
+Generated: 2014/08/12 09:32:44.567866673 UTC

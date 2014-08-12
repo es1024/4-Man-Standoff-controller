@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille EmoCowboy AntiGrenadier
+                 InputAnalyzer: Db,Dc,Db,Sa
+                      Zaenille: Sb,N,N,N
+                     EmoCowboy: N,N,N,Sc
+                 AntiGrenadier: N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                      Zaenille: -2
+                     EmoCowboy: -2
+                 AntiGrenadier: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille EmoCowboy AntiGrenadier
+Zaenille: InputAnalyzer EmoCowboy AntiGrenadier
+EmoCowboy: InputAnalyzer Zaenille AntiGrenadier
+AntiGrenadier: InputAnalyzer Zaenille EmoCowboy
+Generated: 2014/08/12 05:59:29.482896749 UTC

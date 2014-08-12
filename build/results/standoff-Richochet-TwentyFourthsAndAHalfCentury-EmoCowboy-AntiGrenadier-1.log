@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury EmoCowboy AntiGrenadier
+                     Richochet: Sc,N,Sd,N,Sd,N,Sb,N,Sd,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,Dd,Da,Dd,Dd,Dd,Dd,Sa,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy AntiGrenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy AntiGrenadier Richochet
+EmoCowboy: TwentyFourthsAndAHalfCentury AntiGrenadier Richochet
+AntiGrenadier: TwentyFourthsAndAHalfCentury EmoCowboy Richochet
+Generated: 2014/08/12 06:03:59.475299444 UTC

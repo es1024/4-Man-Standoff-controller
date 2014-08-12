@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy Ninja Scared
+                     Richochet: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dd,Da,Dd,Dc,Da,Db,Da,Dc,Db,Dc,Dc,Db,Dd
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                     EmoCowboy: -6
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared EmoCowboy Ninja
+EmoCowboy: Scared Richochet Ninja
+Ninja: Scared Richochet EmoCowboy
+Scared: Ninja Richochet EmoCowboy
+Generated: 2014/08/12 05:59:36.187061336 UTC

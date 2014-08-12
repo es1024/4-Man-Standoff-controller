@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Richochet Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,Sd,N,Sc,N,N
+                     Richochet: Sd,N,Sb,N,Sb,N,Sd,N,Sb,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: -1
+                     Richochet: 1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Rule0Bot SimpleShooter
+SimpleShooter: Richochet Rule0Bot Pacifist
+Richochet: SimpleShooter Rule0Bot Pacifist
+Rule0Bot: SimpleShooter Richochet Pacifist
+Generated: 2014/08/12 09:06:18.833806671 UTC

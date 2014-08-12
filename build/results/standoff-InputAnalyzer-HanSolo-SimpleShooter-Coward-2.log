@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo SimpleShooter Coward
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N,N,N
+                       HanSolo: N,Sd,N,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N,Sd,N,Sd
+                        Coward: Sb,N,Sb,N,Sc,N,Dc,Sc,N
+Final Health:
+                 InputAnalyzer: -4
+                       HanSolo: -1
+                 SimpleShooter: 1
+                        Coward: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward HanSolo SimpleShooter
+HanSolo: Coward InputAnalyzer SimpleShooter
+SimpleShooter: Coward InputAnalyzer HanSolo
+Coward: SimpleShooter InputAnalyzer HanSolo
+Generated: 2014/08/12 10:13:03.485517962 UTC

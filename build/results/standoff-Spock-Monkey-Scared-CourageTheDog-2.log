@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Scared CourageTheDog
+                         Spock: Sd,N,N,N,N,N,N,N,Sd,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,Sa,N,Sa,N,Sd
+                 CourageTheDog: Sb,N,N,Db,Da,Dc,Sb,N,Sa,N,Sc,N
+Final Health:
+                         Spock: -1
+                        Monkey: -1
+                        Scared: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Monkey Scared
+Monkey: CourageTheDog Spock Scared
+Scared: CourageTheDog Spock Monkey
+CourageTheDog: Scared Spock Monkey
+Generated: 2014/08/12 10:18:38.701004390 UTC

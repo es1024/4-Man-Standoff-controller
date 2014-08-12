@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Aggressor EmoCowboy
+                     Grenadier: N,P
+                      Pacifist: N,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sd,N
+Final Health:
+                     Grenadier: -9
+                      Pacifist: -1
+                     Aggressor: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Pacifist Aggressor
+Pacifist: EmoCowboy Grenadier Aggressor
+Aggressor: EmoCowboy Grenadier Pacifist
+EmoCowboy: Aggressor Grenadier Pacifist
+Generated: 2014/08/12 06:31:40.241965402 UTC

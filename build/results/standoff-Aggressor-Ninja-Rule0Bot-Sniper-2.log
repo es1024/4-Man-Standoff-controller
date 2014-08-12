@@ -1,0 +1,16 @@
+Standoff between: Aggressor Ninja Rule0Bot Sniper
+                     Aggressor: P,Td
+                         Ninja: Dc,Dd
+                      Rule0Bot: N,Sa
+                        Sniper: Sc,N
+Final Health:
+                     Aggressor: 0
+                         Ninja: 2
+                      Rule0Bot: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper Ninja Rule0Bot
+Ninja: Sniper Aggressor Rule0Bot
+Rule0Bot: Sniper Aggressor Ninja
+Sniper: Rule0Bot Aggressor Ninja
+Generated: 2014/08/12 09:54:47.048816980 UTC

@@ -1,0 +1,16 @@
+Standoff between: Monkey Bomberman Sniper CourageTheDog
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,Sa,N,Sb,N,Db,Sc,N,Dc,Sc,N,Sb,N,Sb
+Final Health:
+                        Monkey: -1
+                     Bomberman: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Sniper CourageTheDog Bomberman
+Bomberman: Sniper CourageTheDog Monkey
+Sniper: Bomberman CourageTheDog Monkey
+CourageTheDog: Bomberman Sniper Monkey
+Generated: 2014/08/12 07:21:26.709391947 UTC

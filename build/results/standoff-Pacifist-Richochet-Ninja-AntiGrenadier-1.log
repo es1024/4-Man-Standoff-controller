@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Ninja AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                         Ninja: Dc,Dc,Dc,Dc,Da,Db,Db,Dc,Dc,Da,Db,Da,Dd,Dd,Db,Db,Db,Dc,Dd,Da,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja AntiGrenadier Richochet
+Richochet: Ninja AntiGrenadier Pacifist
+Ninja: Richochet AntiGrenadier Pacifist
+AntiGrenadier: Richochet Ninja Pacifist
+Generated: 2014/08/12 07:23:34.896807953 UTC

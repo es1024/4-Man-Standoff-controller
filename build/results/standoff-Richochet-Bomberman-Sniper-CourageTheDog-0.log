@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman Sniper CourageTheDog
+                     Richochet: Sd,N,Sb,N,Sc,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sd,N,Sb,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Dc,Sc,N,N,N
+Final Health:
+                     Richochet: 3
+                     Bomberman: -1
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman Sniper CourageTheDog
+Bomberman: Richochet Sniper CourageTheDog
+Sniper: Richochet Bomberman CourageTheDog
+CourageTheDog: Richochet Bomberman Sniper
+Generated: 2014/08/12 09:37:34.929190873 UTC

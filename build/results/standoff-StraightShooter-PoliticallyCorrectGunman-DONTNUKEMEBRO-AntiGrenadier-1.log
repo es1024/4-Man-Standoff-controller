@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Dc,Sa,N,Dc,P,Tc
+                 DONTNUKEMEBRO: Dd,Da,Db,Dd,Db,Db,Da,Da,Db,Dd,Dd,Db,Db,Db,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: 0
+                 DONTNUKEMEBRO: -3
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO AntiGrenadier PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO AntiGrenadier StraightShooter
+DONTNUKEMEBRO: PoliticallyCorrectGunman AntiGrenadier StraightShooter
+AntiGrenadier: PoliticallyCorrectGunman DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/12 08:58:55.349491422 UTC

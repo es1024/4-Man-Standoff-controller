@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Monkey TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,Dd,N
+                     Aggressor: P,Ta,Sc
+                        Monkey: N,P,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Db
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: -1
+                        Monkey: -6
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Monkey TwentyFourthsAndAHalfCentury
+Aggressor: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury
+Monkey: InputAnalyzer Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer Aggressor Monkey
+Generated: 2014/08/12 07:47:33.242024020 UTC

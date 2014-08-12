@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Zaenille CourageTheDog
+                 DONTNUKEMEBRO: Dd,Dd,Dc,Db,Sb,N,Dc,Sd,N
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sb,N,N,Sa,N,Da,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+                      Zaenille: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Zaenille CourageTheDog
+SimpleShooter: DONTNUKEMEBRO Zaenille CourageTheDog
+Zaenille: DONTNUKEMEBRO SimpleShooter CourageTheDog
+CourageTheDog: DONTNUKEMEBRO SimpleShooter Zaenille
+Generated: 2014/08/12 06:41:54.236425522 UTC

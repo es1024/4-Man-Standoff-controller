@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Aggressor CourageTheDog
+                       HanSolo: Sc,N
+                 DONTNUKEMEBRO: Dc,Sc
+                     Aggressor: P,Tb
+                 CourageTheDog: Sa,N
+Final Health:
+                       HanSolo: 0
+                 DONTNUKEMEBRO: -3
+                     Aggressor: -2
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor CourageTheDog HanSolo
+Aggressor: DONTNUKEMEBRO CourageTheDog HanSolo
+CourageTheDog: DONTNUKEMEBRO Aggressor HanSolo
+Generated: 2014/08/12 09:09:29.218668759 UTC

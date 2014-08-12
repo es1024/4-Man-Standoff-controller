@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Monkey Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,Sc,N,Sa,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,Sa,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                        Monkey: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Neo SimpleShooter
+SimpleShooter: Monkey Neo StraightShooter
+Monkey: SimpleShooter Neo StraightShooter
+Neo: SimpleShooter Monkey StraightShooter
+Generated: 2014/08/12 08:56:38.840700700 UTC

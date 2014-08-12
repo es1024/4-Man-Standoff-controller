@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Zaenille Neo
+                 InputAnalyzer: Db,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,Db,Sb
+Final Health:
+                 InputAnalyzer: -4
+                         Spock: -1
+                      Zaenille: -2
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Zaenille Neo
+Spock: InputAnalyzer Zaenille Neo
+Zaenille: InputAnalyzer Spock Neo
+Neo: InputAnalyzer Spock Zaenille
+Generated: 2014/08/12 06:02:45.812301665 UTC

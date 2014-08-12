@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO Aggressor Rule0Bot
+                     Grenadier: N,P,N,N
+                 DONTNUKEMEBRO: Dc,Sc,N,N
+                     Aggressor: P,Tb,N,N
+                      Rule0Bot: N,Sc,N,N
+Final Health:
+                     Grenadier: -4
+                 DONTNUKEMEBRO: -3
+                     Aggressor: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Rule0Bot DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor Rule0Bot Grenadier
+Aggressor: DONTNUKEMEBRO Rule0Bot Grenadier
+Rule0Bot: DONTNUKEMEBRO Aggressor Grenadier
+Generated: 2014/08/12 08:13:09.902838458 UTC

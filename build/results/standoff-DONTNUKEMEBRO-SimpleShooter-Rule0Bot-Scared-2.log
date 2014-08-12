@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Rule0Bot Scared
+                 DONTNUKEMEBRO: Db,Dc,Dd,Dc,P,Tc
+                 SimpleShooter: Sc,N,Sa,N,Sd,N
+                      Rule0Bot: N,N,N,N,N,Sa
+                        Scared: Sc,N,Sa,N,Sb,N
+Final Health:
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: 0
+                      Rule0Bot: -7
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Scared SimpleShooter Rule0Bot
+SimpleShooter: Scared DONTNUKEMEBRO Rule0Bot
+Rule0Bot: Scared DONTNUKEMEBRO SimpleShooter
+Scared: Rule0Bot DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 07:52:42.521069988 UTC

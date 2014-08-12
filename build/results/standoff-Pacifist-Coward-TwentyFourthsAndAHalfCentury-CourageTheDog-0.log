@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward TwentyFourthsAndAHalfCentury CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Da,Db,Da,Db,Da,Da,Da,Db,Da,Da,Da,Db,Da,Da,N,N,N,N
+                 CourageTheDog: N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 3
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward TwentyFourthsAndAHalfCentury CourageTheDog
+Coward: Pacifist TwentyFourthsAndAHalfCentury CourageTheDog
+TwentyFourthsAndAHalfCentury: Pacifist Coward CourageTheDog
+CourageTheDog: Pacifist Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:23:56.035089351 UTC

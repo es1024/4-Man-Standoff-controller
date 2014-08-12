@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Monkey Scared
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sc,N,Sd,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -4
+                        Monkey: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey Scared Zaenille
+Zaenille: Monkey Scared SimpleShooter
+Monkey: Zaenille Scared SimpleShooter
+Scared: Zaenille Monkey SimpleShooter
+Generated: 2014/08/12 10:16:33.847278749 UTC

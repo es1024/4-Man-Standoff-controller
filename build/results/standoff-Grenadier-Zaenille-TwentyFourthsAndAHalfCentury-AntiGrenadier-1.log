@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Grenadier: P,N,N,N
+                      Zaenille: Sb,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Sd
+                 AntiGrenadier: N,Sa,N,N
+Final Health:
+                     Grenadier: -3
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury AntiGrenadier Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury AntiGrenadier Grenadier
+TwentyFourthsAndAHalfCentury: Zaenille AntiGrenadier Grenadier
+AntiGrenadier: Zaenille TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 09:05:35.213235918 UTC

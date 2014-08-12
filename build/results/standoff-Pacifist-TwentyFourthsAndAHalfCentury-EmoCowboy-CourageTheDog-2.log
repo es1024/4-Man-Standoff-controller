@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da,Dd,Da,Da,N,N,N,N,N,N,N,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sb,N,Sb,N,Db,Sb,N,Db,Db,Da,N,Sa,N,Sb
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: CourageTheDog Pacifist EmoCowboy
+EmoCowboy: CourageTheDog Pacifist TwentyFourthsAndAHalfCentury
+CourageTheDog: EmoCowboy Pacifist TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:26:00.364960946 UTC

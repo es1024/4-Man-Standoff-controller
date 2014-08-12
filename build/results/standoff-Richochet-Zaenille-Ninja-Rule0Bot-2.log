@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Ninja Rule0Bot
+                     Richochet: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Dc,Db,Dd,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -2
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Rule0Bot Zaenille Ninja
+Zaenille: Rule0Bot Richochet Ninja
+Ninja: Rule0Bot Richochet Zaenille
+Rule0Bot: Ninja Richochet Zaenille
+Generated: 2014/08/12 06:13:27.554118390 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Monkey Scared
+                        Coward: Sb,N,Sb,N,Sd,N,Dc,Sd
+                     Richochet: Sd,N,Sc,N,N,N,N,N
+                        Monkey: N,N,N,Sb,N,N,N,N
+                        Scared: N,Sa,N,Sa,N,Sc,N,Sc
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+                        Monkey: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Monkey Scared Richochet
+Richochet: Monkey Scared Coward
+Monkey: Richochet Scared Coward
+Scared: Richochet Monkey Coward
+Generated: 2014/08/12 07:16:01.758421916 UTC

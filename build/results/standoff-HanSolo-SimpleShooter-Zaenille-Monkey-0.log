@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Zaenille Monkey
+                       HanSolo: Sb,N,Sb,N,Sb
+                 SimpleShooter: Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                        Monkey: N,Sd,N,N,N
+Final Health:
+                       HanSolo: 1
+                 SimpleShooter: -1
+                      Zaenille: -2
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Zaenille Monkey
+SimpleShooter: HanSolo Zaenille Monkey
+Zaenille: HanSolo SimpleShooter Monkey
+Monkey: HanSolo SimpleShooter Zaenille
+Generated: 2014/08/12 09:44:43.326281731 UTC

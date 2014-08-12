@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Aggressor EmoCowboy
+                      Pacifist: N,N
+                        Coward: Sc,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sd,N
+Final Health:
+                      Pacifist: -3
+                        Coward: 2
+                     Aggressor: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy Coward Aggressor
+Coward: EmoCowboy Pacifist Aggressor
+Aggressor: EmoCowboy Pacifist Coward
+EmoCowboy: Aggressor Pacifist Coward
+Generated: 2014/08/12 10:00:52.884574712 UTC

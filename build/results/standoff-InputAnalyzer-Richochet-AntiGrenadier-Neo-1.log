@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet AntiGrenadier Neo
+                 InputAnalyzer: Dc,P,N,N,N
+                     Richochet: Sa,N,Sd,N,Sc
+                 AntiGrenadier: N,N,Sa,N,N
+                           Neo: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                     Richochet: 2
+                 AntiGrenadier: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Neo Richochet
+Richochet: AntiGrenadier Neo InputAnalyzer
+AntiGrenadier: Richochet Neo InputAnalyzer
+Neo: Richochet AntiGrenadier InputAnalyzer
+Generated: 2014/08/12 08:45:24.185702410 UTC

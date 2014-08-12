@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Zaenille AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                      Zaenille: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier HanSolo Zaenille
+HanSolo: AntiGrenadier Pacifist Zaenille
+Zaenille: AntiGrenadier Pacifist HanSolo
+AntiGrenadier: Zaenille Pacifist HanSolo
+Generated: 2014/08/12 06:03:45.070794900 UTC

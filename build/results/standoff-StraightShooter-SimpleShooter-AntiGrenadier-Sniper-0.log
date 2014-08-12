@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter AntiGrenadier Sniper
+               StraightShooter: Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter AntiGrenadier Sniper
+SimpleShooter: StraightShooter AntiGrenadier Sniper
+AntiGrenadier: StraightShooter SimpleShooter Sniper
+Sniper: StraightShooter SimpleShooter AntiGrenadier
+Generated: 2014/08/12 09:29:54.140627255 UTC

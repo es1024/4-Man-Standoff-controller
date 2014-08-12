@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey TwentyFourthsAndAHalfCentury CourageTheDog
+                        Coward: Sc,N,Sc,N,Db,Dd,Dc,Dd,Db,Dc,Dc,Dc,Dc,Sc,N,Db,N,N
+                        Monkey: N,N,N,N,Dd,Da,Dd,N,Db,Db,Db,Db,Da,Dc,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Db,Dd,Dd,Da,Dd,Da,Db,Sd,N,Sb,N,Sd,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Sa,N,Sb,N,Da,Db,Db,Db,Da,Da,Dc,Da,Sa,N,Sb
+Final Health:
+                        Coward: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Monkey TwentyFourthsAndAHalfCentury
+Monkey: CourageTheDog Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog Coward Monkey
+CourageTheDog: TwentyFourthsAndAHalfCentury Coward Monkey
+Generated: 2014/08/12 08:14:17.505562502 UTC

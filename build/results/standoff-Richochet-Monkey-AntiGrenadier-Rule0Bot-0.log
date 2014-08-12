@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey AntiGrenadier Rule0Bot
+                     Richochet: Sb,N,Sd,N,Sc,N,Sc,N,Sc,N,Sb,N,Sd,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey AntiGrenadier Rule0Bot
+Monkey: Richochet AntiGrenadier Rule0Bot
+AntiGrenadier: Richochet Monkey Rule0Bot
+Rule0Bot: Richochet Monkey AntiGrenadier
+Generated: 2014/08/12 05:58:27.872990519 UTC

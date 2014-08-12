@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Bomberman EmoCowboy
+                 InputAnalyzer: Db,Dd,Da,P,Sb,N
+                         Spock: Sa,N,Sa,N,N,N
+                     Bomberman: N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 0
+                     Bomberman: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Bomberman EmoCowboy
+Spock: InputAnalyzer Bomberman EmoCowboy
+Bomberman: InputAnalyzer Spock EmoCowboy
+EmoCowboy: InputAnalyzer Spock Bomberman
+Generated: 2014/08/12 06:34:32.539539025 UTC

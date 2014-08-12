@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Monkey Ninja
+                 InputAnalyzer: Dd,Sc,N,Dd,Dc,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sa,N,Sa,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Dd,Dc,Da,Dd,Db,Dd,Da,Da,Db,Dc,Db,Da,Da,Dd,Db,Dc,Db,Dd,Dd,Db,Db,Db,Dd
+Final Health:
+                 InputAnalyzer: -1
+                     Richochet: 5
+                        Monkey: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Richochet Monkey
+Richochet: Ninja InputAnalyzer Monkey
+Monkey: Ninja InputAnalyzer Richochet
+Ninja: Monkey InputAnalyzer Richochet
+Generated: 2014/08/12 07:34:59.712663647 UTC

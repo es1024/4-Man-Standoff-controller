@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Ninja Sniper
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                         Ninja: Db,Dc,Dc,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,Sa,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -3
+                     Richochet: 5
+                         Ninja: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Ninja Sniper
+Richochet: StraightShooter Ninja Sniper
+Ninja: StraightShooter Richochet Sniper
+Sniper: StraightShooter Richochet Ninja
+Generated: 2014/08/12 09:16:48.461909411 UTC

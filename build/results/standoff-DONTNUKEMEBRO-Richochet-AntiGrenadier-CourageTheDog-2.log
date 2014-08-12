@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Richochet AntiGrenadier CourageTheDog
+                 DONTNUKEMEBRO: Dd,Db,Dc,Dd,Db,Dd,Dc,Db,Db,Dc,Sb,N,Sb,N,Sb,N,Dc,Dd,Dd,Dd,Dd,Dc,Dc,Dc,Dc,Dd,Dd,Db,Db,Db,Db,Dd,Dd,Db,Sc
+                     Richochet: Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Dc,Dc,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: 1
+                     Richochet: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog Richochet AntiGrenadier
+Richochet: CourageTheDog DONTNUKEMEBRO AntiGrenadier
+AntiGrenadier: CourageTheDog DONTNUKEMEBRO Richochet
+CourageTheDog: AntiGrenadier DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 08:38:01.668286354 UTC

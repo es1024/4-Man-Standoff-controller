@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Aggressor Rule0Bot
+                 InputAnalyzer: Dd,Db
+                       HanSolo: Sd,N
+                     Aggressor: P,Ta
+                      Rule0Bot: N,Sc
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 2
+                     Aggressor: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot HanSolo Aggressor
+HanSolo: Rule0Bot InputAnalyzer Aggressor
+Aggressor: Rule0Bot InputAnalyzer HanSolo
+Rule0Bot: Aggressor InputAnalyzer HanSolo
+Generated: 2014/08/12 07:19:18.910776298 UTC

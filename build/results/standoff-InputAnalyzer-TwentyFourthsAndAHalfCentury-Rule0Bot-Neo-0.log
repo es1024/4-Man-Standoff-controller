@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot Neo
+                 InputAnalyzer: Db,Dd,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Dc,Dc,N,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,Dc,Dc,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,Dc,Dc,N,N
+Final Health:
+                 InputAnalyzer: -3
+  TwentyFourthsAndAHalfCentury: 0
+                      Rule0Bot: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Rule0Bot Neo
+TwentyFourthsAndAHalfCentury: InputAnalyzer Rule0Bot Neo
+Rule0Bot: InputAnalyzer TwentyFourthsAndAHalfCentury Neo
+Neo: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot
+Generated: 2014/08/12 06:36:00.225573405 UTC

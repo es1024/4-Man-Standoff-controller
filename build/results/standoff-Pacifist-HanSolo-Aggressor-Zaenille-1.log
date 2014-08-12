@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Aggressor Zaenille
+                      Pacifist: N,N
+                       HanSolo: Sc,N
+                     Aggressor: P,Tb
+                      Zaenille: Sd,N
+Final Health:
+                      Pacifist: 2
+                       HanSolo: -3
+                     Aggressor: 0
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Zaenille HanSolo
+HanSolo: Aggressor Zaenille Pacifist
+Aggressor: HanSolo Zaenille Pacifist
+Zaenille: HanSolo Aggressor Pacifist
+Generated: 2014/08/12 07:35:50.547959858 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury Sniper
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Sd,N,Sb,N,P,Dc,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Dd,Da,Db,Da,Dd,N,Da,N,Da,Da,Da
+                        Sniper: Sc,N,Sb,N,Sc,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                       HanSolo: -2
+  TwentyFourthsAndAHalfCentury: 2
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper HanSolo TwentyFourthsAndAHalfCentury
+HanSolo: Sniper InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper InputAnalyzer HanSolo
+Sniper: TwentyFourthsAndAHalfCentury InputAnalyzer HanSolo
+Generated: 2014/08/12 06:11:17.478420330 UTC

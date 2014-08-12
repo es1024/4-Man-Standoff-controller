@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy Rule0Bot Neo
+  TwentyFourthsAndAHalfCentury: Db,Dc,Sc,N,Sc,N,N,Sd,N,Sd,N,N,Sc,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Da,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Rule0Bot Neo EmoCowboy
+EmoCowboy: Rule0Bot Neo TwentyFourthsAndAHalfCentury
+Rule0Bot: EmoCowboy Neo TwentyFourthsAndAHalfCentury
+Neo: EmoCowboy Rule0Bot TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:18:25.255946598 UTC

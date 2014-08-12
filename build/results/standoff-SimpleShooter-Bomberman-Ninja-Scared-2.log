@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman Ninja Scared
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sd,N,Sc,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Da,Dd,Da,Da,Dd,Da,Da,N,N
+                        Scared: Sc,N,Sb,N,Sa,N,Sa,N,Sc,N,Sa
+Final Health:
+                 SimpleShooter: -1
+                     Bomberman: -1
+                         Ninja: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Bomberman Ninja
+Bomberman: Scared SimpleShooter Ninja
+Ninja: Scared SimpleShooter Bomberman
+Scared: Ninja SimpleShooter Bomberman
+Generated: 2014/08/12 05:46:41.249545535 UTC

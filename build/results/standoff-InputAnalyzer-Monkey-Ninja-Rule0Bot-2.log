@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Ninja Rule0Bot
+                 InputAnalyzer: Dd,Dc,Dd,P,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,Dc,N,N,N,Db,Da,Da,Dd,Dd,N,N,Dc,N,N,N,N,Da,Dd,N,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,N,N,N,N,Dd,Dd,N,Dc,N,N,N
+                         Ninja: Dd,Da,Da,Db,Dd,Da,Db,Dd,Dc,Db,Da,Da,Dd,Db,Db,Da,Dc,Dd,Db,Dc,Da,Da,Dd,Dd,Dc,Da,Dd,Dc,Db,Da,Dd,Dd,Da,Dd,Da,Db,Dc,Db,Dd,Dd,Da,Dc,Dd,Dd,Da,Dc,Db,Db,Dc,Dc
+                      Rule0Bot: N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                        Monkey: -18
+                         Ninja: -18
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Monkey Ninja
+Monkey: Rule0Bot InputAnalyzer Ninja
+Ninja: Rule0Bot InputAnalyzer Monkey
+Rule0Bot: Ninja InputAnalyzer Monkey
+Generated: 2014/08/12 06:52:45.614979139 UTC

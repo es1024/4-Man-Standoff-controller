@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey AntiGrenadier Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sc
+Final Health:
+               StraightShooter: -1
+                        Monkey: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared Monkey AntiGrenadier
+Monkey: Scared StraightShooter AntiGrenadier
+AntiGrenadier: Scared StraightShooter Monkey
+Scared: AntiGrenadier StraightShooter Monkey
+Generated: 2014/08/12 10:19:21.947597105 UTC

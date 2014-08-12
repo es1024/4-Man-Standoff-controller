@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor EmoCowboy Rule0Bot
+      PoliticallyCorrectGunman: Db,Sd,N
+                     Aggressor: P,Td,Sa
+                     EmoCowboy: Sc,N,N
+                      Rule0Bot: N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 2
+                     EmoCowboy: -2
+                      Rule0Bot: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Aggressor EmoCowboy
+Aggressor: Rule0Bot PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: Rule0Bot PoliticallyCorrectGunman Aggressor
+Rule0Bot: EmoCowboy PoliticallyCorrectGunman Aggressor
+Generated: 2014/08/12 09:02:19.750848034 UTC

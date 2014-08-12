@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Sniper CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Db,Db,Sc,N,Sb,N,Db,Db,Db,Db,Sb
+Final Health:
+                      Pacifist: -3
+                       HanSolo: -1
+                        Sniper: -3
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Sniper CourageTheDog
+HanSolo: Pacifist Sniper CourageTheDog
+Sniper: Pacifist HanSolo CourageTheDog
+CourageTheDog: Pacifist HanSolo Sniper
+Generated: 2014/08/12 08:13:25.702234246 UTC

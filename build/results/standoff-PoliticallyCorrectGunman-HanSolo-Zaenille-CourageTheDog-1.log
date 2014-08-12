@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Zaenille CourageTheDog
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sb,N,Sb,N,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -4
+                       HanSolo: -1
+                      Zaenille: -4
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille CourageTheDog HanSolo
+HanSolo: Zaenille CourageTheDog PoliticallyCorrectGunman
+Zaenille: HanSolo CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: HanSolo Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 05:59:48.558537374 UTC

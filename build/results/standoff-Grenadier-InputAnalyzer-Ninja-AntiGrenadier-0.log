@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Ninja AntiGrenadier
+                     Grenadier: N,N,P,Tb
+                 InputAnalyzer: Da,Dd,P,Dc
+                         Ninja: Db,Db,Da,Dc
+                 AntiGrenadier: N,N,N,Sa
+Final Health:
+                     Grenadier: -3
+                 InputAnalyzer: -9
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Ninja AntiGrenadier
+InputAnalyzer: Grenadier Ninja AntiGrenadier
+Ninja: Grenadier InputAnalyzer AntiGrenadier
+AntiGrenadier: Grenadier InputAnalyzer Ninja
+Generated: 2014/08/12 10:27:57.406019302 UTC

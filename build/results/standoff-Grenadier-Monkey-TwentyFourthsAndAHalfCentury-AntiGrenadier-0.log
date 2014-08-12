@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,P
+  TwentyFourthsAndAHalfCentury: Da,Db,N,N,N,N,N,N,N,N,Sd,N,Sa,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+                     Grenadier: -5
+                        Monkey: -9
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+Monkey: Grenadier TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Grenadier Monkey AntiGrenadier
+AntiGrenadier: Grenadier Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:22:15.868803755 UTC

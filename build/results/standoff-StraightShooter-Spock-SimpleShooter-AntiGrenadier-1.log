@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock SimpleShooter AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sb,N,Sa,N,Sb,N,Sa,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: -1
+                 SimpleShooter: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter AntiGrenadier Spock
+Spock: SimpleShooter AntiGrenadier StraightShooter
+SimpleShooter: Spock AntiGrenadier StraightShooter
+AntiGrenadier: Spock SimpleShooter StraightShooter
+Generated: 2014/08/12 08:16:44.745716116 UTC

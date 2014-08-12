@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Bomberman Sniper
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Sniper Aggressor Bomberman
+Bomberman: Sniper Aggressor TwentyFourthsAndAHalfCentury
+Sniper: Bomberman Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:55:54.311299082 UTC

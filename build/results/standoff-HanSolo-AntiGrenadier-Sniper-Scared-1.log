@@ -1,0 +1,16 @@
+Standoff between: HanSolo AntiGrenadier Sniper Scared
+                       HanSolo: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,Sb,N
+                        Scared: N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sc
+Final Health:
+                       HanSolo: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Scared AntiGrenadier
+AntiGrenadier: Sniper Scared HanSolo
+Sniper: AntiGrenadier Scared HanSolo
+Scared: AntiGrenadier Sniper HanSolo
+Generated: 2014/08/12 07:01:22.401987989 UTC

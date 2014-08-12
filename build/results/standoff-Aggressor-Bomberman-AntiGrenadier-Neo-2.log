@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman AntiGrenadier Neo
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc
+                 AntiGrenadier: N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 0
+                     Bomberman: 2
+                 AntiGrenadier: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo Bomberman AntiGrenadier
+Bomberman: Neo Aggressor AntiGrenadier
+AntiGrenadier: Neo Aggressor Bomberman
+Neo: AntiGrenadier Aggressor Bomberman
+Generated: 2014/08/12 05:56:50.988827710 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman HanSolo AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,Da,Dd,Sa,N,Da,Sd,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman HanSolo AntiGrenadier
+PoliticallyCorrectGunman: Grenadier HanSolo AntiGrenadier
+HanSolo: Grenadier PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: Grenadier PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 09:58:19.715962846 UTC

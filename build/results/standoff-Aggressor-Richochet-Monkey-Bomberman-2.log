@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Monkey Bomberman
+                     Aggressor: P,Td,N
+                     Richochet: Sa,N,Sc
+                        Monkey: N,N,N
+                     Bomberman: N,N,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+                        Monkey: 0
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman Richochet Monkey
+Richochet: Bomberman Aggressor Monkey
+Monkey: Bomberman Aggressor Richochet
+Bomberman: Monkey Aggressor Richochet
+Generated: 2014/08/12 07:33:09.768539418 UTC

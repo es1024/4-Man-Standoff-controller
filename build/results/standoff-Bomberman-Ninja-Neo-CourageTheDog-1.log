@@ -1,0 +1,16 @@
+Standoff between: Bomberman Ninja Neo CourageTheDog
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Dd,Dc,Dd,Dd,Da,Dd,Db,Dc,Db,Dc,Dd,Da,Dd,Dc,Dd,Dc,Dd,Dd,Da,Dd,Db,Da,Db,Da,Db,Da,Db,Da,Dd,Dc,Dd,Dc,Dd,Dd,Da,Dd,Dc,Da,Db,Dc,Db,Dc,Db,Da,Dd,Db,Dc,Db
+                           Neo: N,N,N,N,N,N,N,N,N,N,Da,Da,Da,Da,N,N,N,Da,N,N,N,N,N,N,Da,N,N,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,N,Db,Dc,Db,Sc,N,Db,Sa,N,Db,Sb,N,Db,Dc,Sa,N,Da,Db,Db,Dc,N,Dc,Dc,Sa,N,Dc,Sc,N,Db,Sc,N,Sb,N,Db,Db,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,N,Db
+Final Health:
+                     Bomberman: -1
+                         Ninja: -19
+                           Neo: -1
+                 CourageTheDog: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: Neo CourageTheDog Ninja
+Ninja: Neo CourageTheDog Bomberman
+Neo: Ninja CourageTheDog Bomberman
+CourageTheDog: Ninja Neo Bomberman
+Generated: 2014/08/12 07:43:47.935795396 UTC

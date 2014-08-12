@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Monkey AntiGrenadier CourageTheDog
+                 DONTNUKEMEBRO: Db,Dd,Sd,N,Db,Dd,Dd,Db,Db,Sd,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,Db,N,N,N,N,N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Db,N,N,Sa,N,Db,Db,Sa,N,Db,Dc,Db,Dc,Sc,N,Db,Dc,Dc,Dc,Sc,N,Db,Db,Db,Dc,Dc,N,Dc,Sc,N,Db,Db,Db,Sb,N,Sb,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+                 DONTNUKEMEBRO: -1
+                        Monkey: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: AntiGrenadier CourageTheDog Monkey
+Monkey: AntiGrenadier CourageTheDog DONTNUKEMEBRO
+AntiGrenadier: Monkey CourageTheDog DONTNUKEMEBRO
+CourageTheDog: Monkey AntiGrenadier DONTNUKEMEBRO
+Generated: 2014/08/12 07:37:29.750455379 UTC

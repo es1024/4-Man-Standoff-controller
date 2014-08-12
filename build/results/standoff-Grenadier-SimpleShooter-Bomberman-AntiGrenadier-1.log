@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Bomberman AntiGrenadier
+                     Grenadier: N,P,Tc
+                 SimpleShooter: Sa,N,Sd
+                     Bomberman: N,N,N
+                 AntiGrenadier: N,N,Sa
+Final Health:
+                     Grenadier: -2
+                 SimpleShooter: 2
+                     Bomberman: -3
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman AntiGrenadier SimpleShooter
+SimpleShooter: Bomberman AntiGrenadier Grenadier
+Bomberman: SimpleShooter AntiGrenadier Grenadier
+AntiGrenadier: SimpleShooter Bomberman Grenadier
+Generated: 2014/08/12 07:06:30.149039895 UTC

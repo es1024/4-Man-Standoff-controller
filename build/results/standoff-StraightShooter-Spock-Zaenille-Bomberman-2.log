@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Zaenille Bomberman
+               StraightShooter: Sb,N,Sb,N,Sb
+                         Spock: Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                     Bomberman: N,N,N,N,N
+Final Health:
+               StraightShooter: 5
+                         Spock: -1
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Spock Zaenille
+Spock: Bomberman StraightShooter Zaenille
+Zaenille: Bomberman StraightShooter Spock
+Bomberman: Zaenille StraightShooter Spock
+Generated: 2014/08/12 07:59:30.682962525 UTC

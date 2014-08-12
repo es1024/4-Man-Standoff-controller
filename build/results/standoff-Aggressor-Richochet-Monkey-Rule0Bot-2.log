@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Monkey Rule0Bot
+                     Aggressor: P,Td
+                     Richochet: Sc,N
+                        Monkey: N,Sc
+                      Rule0Bot: N,Sa
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+                        Monkey: -5
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot Richochet Monkey
+Richochet: Rule0Bot Aggressor Monkey
+Monkey: Rule0Bot Aggressor Richochet
+Rule0Bot: Monkey Aggressor Richochet
+Generated: 2014/08/12 07:22:06.064667669 UTC

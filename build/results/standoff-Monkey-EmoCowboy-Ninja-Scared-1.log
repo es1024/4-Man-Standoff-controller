@@ -1,0 +1,16 @@
+Standoff between: Monkey EmoCowboy Ninja Scared
+                        Monkey: N,Db,Dc,Db,Db,Dd,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Db,Db,Dd,Db,Dc,Dd,Db,Da,Dc,Da,Dd,Da,N,N
+                        Scared: Sc,N,Sa,N,Sa,N,N,N,N,N,N,Sc,N,Sc,N,Sa
+Final Health:
+                        Monkey: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Ninja Scared EmoCowboy
+EmoCowboy: Ninja Scared Monkey
+Ninja: EmoCowboy Scared Monkey
+Scared: EmoCowboy Ninja Monkey
+Generated: 2014/08/12 10:24:20.277064931 UTC

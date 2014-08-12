@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Sniper Scared CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N
+                        Scared: Sa,N,Sd,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Da,Sa,N,Da,Sa
+Final Health:
+               StraightShooter: -1
+                        Sniper: -1
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Sniper Scared
+Sniper: CourageTheDog StraightShooter Scared
+Scared: CourageTheDog StraightShooter Sniper
+CourageTheDog: Scared StraightShooter Sniper
+Generated: 2014/08/12 10:26:17.184140642 UTC

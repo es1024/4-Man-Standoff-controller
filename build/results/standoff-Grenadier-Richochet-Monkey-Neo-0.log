@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Monkey Neo
+                     Grenadier: N,P,N,N,N
+                     Richochet: Sa,N,Sc,N,Sd
+                        Monkey: N,Sa,N,N,N
+                           Neo: N,N,Db,Dc,N
+Final Health:
+                     Grenadier: -5
+                     Richochet: 2
+                        Monkey: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Monkey Neo
+Richochet: Grenadier Monkey Neo
+Monkey: Grenadier Richochet Neo
+Neo: Grenadier Richochet Monkey
+Generated: 2014/08/12 07:53:35.828710646 UTC

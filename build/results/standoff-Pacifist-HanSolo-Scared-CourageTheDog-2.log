@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Scared CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc
+                        Scared: Sb,N,Sb,N,Sa,N,Sb
+                 CourageTheDog: Sa,N,Dc,Dc,Sa,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                        Scared: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog HanSolo Scared
+HanSolo: CourageTheDog Pacifist Scared
+Scared: CourageTheDog Pacifist HanSolo
+CourageTheDog: Scared Pacifist HanSolo
+Generated: 2014/08/12 06:26:42.611924462 UTC

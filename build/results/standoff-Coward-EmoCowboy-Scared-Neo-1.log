@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy Scared Neo
+                        Coward: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,Sa
+                           Neo: N,Sa,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     EmoCowboy: -4
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared Neo EmoCowboy
+EmoCowboy: Scared Neo Coward
+Scared: EmoCowboy Neo Coward
+Neo: EmoCowboy Scared Coward
+Generated: 2014/08/12 07:05:29.294704965 UTC

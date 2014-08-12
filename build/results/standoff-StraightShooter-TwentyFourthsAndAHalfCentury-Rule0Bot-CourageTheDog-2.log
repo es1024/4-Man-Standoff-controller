@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Da,Dc,Da,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Db,Sb,N,Da,N,Da,Dc,Sa,N,Sa,N,Sa,N,Dc,Sc,N,Sc
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: CourageTheDog StraightShooter Rule0Bot
+Rule0Bot: CourageTheDog StraightShooter TwentyFourthsAndAHalfCentury
+CourageTheDog: Rule0Bot StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:33:19.476148929 UTC

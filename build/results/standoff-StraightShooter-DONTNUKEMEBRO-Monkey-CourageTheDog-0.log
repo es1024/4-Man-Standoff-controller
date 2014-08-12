@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Monkey CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Da,Dc,Dc,Dc,Da,Da,Dc,Dd,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Dd,Da,Dd,Dc,Da,Dd,Dd,Sd,N,Sd,N,Dc,Da,Sd,N
+                        Monkey: N,Da,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Db,Da,Da,Da,Db,Db,N,Db,Da,Sa,N,Db,Db,Db,Db,Db,Db,Db,Sb,N,Sb,N,Db,Db,Sb,N,Db,Sb
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                        Monkey: -2
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Monkey CourageTheDog
+DONTNUKEMEBRO: StraightShooter Monkey CourageTheDog
+Monkey: StraightShooter DONTNUKEMEBRO CourageTheDog
+CourageTheDog: StraightShooter DONTNUKEMEBRO Monkey
+Generated: 2014/08/12 09:14:01.097609082 UTC

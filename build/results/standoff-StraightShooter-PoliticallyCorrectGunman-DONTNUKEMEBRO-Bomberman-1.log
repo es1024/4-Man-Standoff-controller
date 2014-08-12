@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO Bomberman
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+      PoliticallyCorrectGunman: N,N,N,N,N,Dc,Sd,N,Dd,Dd,Dc,N,Sc,N,N,N,N,N,N,N,N,N,Dd,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Dd,Dd,Db,Dd,Db,Db,Dd,Dd,Da,Db,Db,Da,Da,Sb,N,Da,Db,Da,Dd,Db,Db,Da,Db,Dd,Db,Dd,Da,Db,Dd,Db,Da,Db,Db,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: 3
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Bomberman PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO Bomberman StraightShooter
+DONTNUKEMEBRO: PoliticallyCorrectGunman Bomberman StraightShooter
+Bomberman: PoliticallyCorrectGunman DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/12 09:02:05.850761646 UTC

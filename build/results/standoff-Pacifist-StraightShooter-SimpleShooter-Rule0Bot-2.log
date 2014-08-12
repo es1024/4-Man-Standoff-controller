@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter SimpleShooter Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                 SimpleShooter: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot StraightShooter SimpleShooter
+StraightShooter: Rule0Bot Pacifist SimpleShooter
+SimpleShooter: Rule0Bot Pacifist StraightShooter
+Rule0Bot: SimpleShooter Pacifist StraightShooter
+Generated: 2014/08/12 09:26:01.078501411 UTC

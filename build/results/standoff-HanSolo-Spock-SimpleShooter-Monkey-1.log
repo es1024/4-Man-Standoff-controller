@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock SimpleShooter Monkey
+                       HanSolo: Sc,N,Sd,N,Sd,N,N
+                         Spock: Sc,N,Sa,N,Sa,N,Sd
+                 SimpleShooter: Sa,N,N,N,N,N,N
+                        Monkey: N,Sc,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: 5
+                 SimpleShooter: -1
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Monkey Spock
+Spock: SimpleShooter Monkey HanSolo
+SimpleShooter: Spock Monkey HanSolo
+Monkey: Spock SimpleShooter HanSolo
+Generated: 2014/08/12 05:57:02.858686169 UTC

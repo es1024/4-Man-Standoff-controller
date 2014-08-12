@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Monkey Neo
+                         Spock: Sb,N,Sb,N,Sd,N,N,N,N,N,N,Sd
+                 SimpleShooter: Sd,N,Sc,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,Sc,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Dc,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 5
+                 SimpleShooter: -1
+                        Monkey: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Monkey Neo
+SimpleShooter: Spock Monkey Neo
+Monkey: Spock SimpleShooter Neo
+Neo: Spock SimpleShooter Monkey
+Generated: 2014/08/12 06:13:26.819326810 UTC

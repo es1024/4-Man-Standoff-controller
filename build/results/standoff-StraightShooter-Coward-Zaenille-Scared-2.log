@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Zaenille Scared
+               StraightShooter: Sb,N,Sb,N,Sb
+                        Coward: Sc,N,Sa,N,N
+                      Zaenille: Sc,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                        Coward: -1
+                      Zaenille: -4
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared Coward Zaenille
+Coward: Scared StraightShooter Zaenille
+Zaenille: Scared StraightShooter Coward
+Scared: Zaenille StraightShooter Coward
+Generated: 2014/08/12 05:55:38.939321518 UTC

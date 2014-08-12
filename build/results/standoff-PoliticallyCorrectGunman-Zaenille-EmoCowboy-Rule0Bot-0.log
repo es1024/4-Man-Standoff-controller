@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille EmoCowboy Rule0Bot
+      PoliticallyCorrectGunman: N,Sb,N,Sb,N,Dc,Sd,N,N,N,N,N,N,N,N,Sd,N,Sa
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                     EmoCowboy: -2
+                      Rule0Bot: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille EmoCowboy Rule0Bot
+Zaenille: PoliticallyCorrectGunman EmoCowboy Rule0Bot
+EmoCowboy: PoliticallyCorrectGunman Zaenille Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman Zaenille EmoCowboy
+Generated: 2014/08/12 05:53:53.201999821 UTC

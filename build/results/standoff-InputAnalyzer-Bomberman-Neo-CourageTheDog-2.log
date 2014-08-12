@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Neo CourageTheDog
+                 InputAnalyzer: Dd,P,Sd,N
+                     Bomberman: N,N,N,N
+                           Neo: N,Db,N,Db
+                 CourageTheDog: Sa,N,P,Tc
+Final Health:
+                 InputAnalyzer: -4
+                     Bomberman: -1
+                           Neo: -6
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Bomberman Neo
+Bomberman: CourageTheDog InputAnalyzer Neo
+Neo: CourageTheDog InputAnalyzer Bomberman
+CourageTheDog: Neo InputAnalyzer Bomberman
+Generated: 2014/08/12 06:01:14.491001471 UTC

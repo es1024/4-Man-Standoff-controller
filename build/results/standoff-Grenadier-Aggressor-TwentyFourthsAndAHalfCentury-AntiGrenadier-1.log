@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Grenadier: P,Tc
+                     Aggressor: P,Tc
+  TwentyFourthsAndAHalfCentury: Db,Da
+                 AntiGrenadier: N,Sb
+Final Health:
+                     Grenadier: -1
+                     Aggressor: -3
+  TwentyFourthsAndAHalfCentury: -11
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury AntiGrenadier Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury AntiGrenadier Grenadier
+TwentyFourthsAndAHalfCentury: Aggressor AntiGrenadier Grenadier
+AntiGrenadier: Aggressor TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 09:18:38.094400338 UTC

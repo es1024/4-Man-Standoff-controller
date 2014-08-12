@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet EmoCowboy Scared
+                        Coward: Sc,N,Sb,N,Sb,N,Sb
+                     Richochet: Sd,N,Sd,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                     Richochet: -1
+                     EmoCowboy: -6
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared Richochet EmoCowboy
+Richochet: Scared Coward EmoCowboy
+EmoCowboy: Scared Coward Richochet
+Scared: EmoCowboy Coward Richochet
+Generated: 2014/08/12 08:45:23.143455491 UTC

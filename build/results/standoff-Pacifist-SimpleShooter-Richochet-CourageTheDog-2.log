@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Richochet CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Richochet: Sd,N,Sa,N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Da,Dc,Dc,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 3
+                     Richochet: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog SimpleShooter Richochet
+SimpleShooter: CourageTheDog Pacifist Richochet
+Richochet: CourageTheDog Pacifist SimpleShooter
+CourageTheDog: Richochet Pacifist SimpleShooter
+Generated: 2014/08/12 10:19:24.203742241 UTC

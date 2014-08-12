@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Ninja Sniper
+                     Grenadier: P,N,N
+                 InputAnalyzer: Dc,Da,P
+                         Ninja: Da,Db,Dc
+                        Sniper: Sb,N,Sc
+Final Health:
+                     Grenadier: -4
+                 InputAnalyzer: -6
+                         Ninja: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Sniper InputAnalyzer
+InputAnalyzer: Ninja Sniper Grenadier
+Ninja: InputAnalyzer Sniper Grenadier
+Sniper: InputAnalyzer Ninja Grenadier
+Generated: 2014/08/12 09:46:21.588285612 UTC

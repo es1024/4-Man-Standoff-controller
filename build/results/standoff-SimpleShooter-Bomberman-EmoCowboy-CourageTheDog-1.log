@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman EmoCowboy CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sd,N,Sd,N,Sb,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,Sc,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sc,N,Dc,Da,Sc,N,Sa,N,Sa,N
+Final Health:
+                 SimpleShooter: 1
+                     Bomberman: -1
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy CourageTheDog Bomberman
+Bomberman: EmoCowboy CourageTheDog SimpleShooter
+EmoCowboy: Bomberman CourageTheDog SimpleShooter
+CourageTheDog: Bomberman EmoCowboy SimpleShooter
+Generated: 2014/08/12 07:50:48.611877753 UTC

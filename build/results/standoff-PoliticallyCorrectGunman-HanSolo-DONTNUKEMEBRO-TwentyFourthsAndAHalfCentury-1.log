@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: N,N,Sd,N,N,N,Sc,N,Dc,Sd,N,Db,P,Sb,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Da,Dc,N,Da,Da,Db,N,Db,Da,Db,Da,Db,Da,Sa
+Final Health:
+      PoliticallyCorrectGunman: -3
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury HanSolo
+HanSolo: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+DONTNUKEMEBRO: HanSolo TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: HanSolo DONTNUKEMEBRO PoliticallyCorrectGunman
+Generated: 2014/08/12 08:05:23.655048101 UTC

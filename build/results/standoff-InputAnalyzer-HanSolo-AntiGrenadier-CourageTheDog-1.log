@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo AntiGrenadier CourageTheDog
+                 InputAnalyzer: Dc,Sb,N,Sb,N,P,Dd,Dc
+                       HanSolo: Sc,N,Sc,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sb,N,Sc,N,Da
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: -3
+                 AntiGrenadier: -1
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier CourageTheDog HanSolo
+HanSolo: AntiGrenadier CourageTheDog InputAnalyzer
+AntiGrenadier: HanSolo CourageTheDog InputAnalyzer
+CourageTheDog: HanSolo AntiGrenadier InputAnalyzer
+Generated: 2014/08/12 09:21:35.707780692 UTC

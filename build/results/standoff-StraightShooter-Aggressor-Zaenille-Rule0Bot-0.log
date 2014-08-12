@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Zaenille Rule0Bot
+               StraightShooter: Sc,N,N
+                     Aggressor: P,Ta,Sd
+                      Zaenille: Sc,N,N
+                      Rule0Bot: N,N,N
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 2
+                      Zaenille: -4
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Zaenille Rule0Bot
+Aggressor: StraightShooter Zaenille Rule0Bot
+Zaenille: StraightShooter Aggressor Rule0Bot
+Rule0Bot: StraightShooter Aggressor Zaenille
+Generated: 2014/08/12 09:06:22.118676323 UTC

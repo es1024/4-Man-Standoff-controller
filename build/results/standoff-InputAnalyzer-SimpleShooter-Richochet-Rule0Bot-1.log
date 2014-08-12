@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Richochet Rule0Bot
+                 InputAnalyzer: Dc,Sb,N,P,Sc,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N
+                     Richochet: Sb,N,Sd,N,Sb,N
+                      Rule0Bot: N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -5
+                 SimpleShooter: -1
+                     Richochet: -2
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Rule0Bot SimpleShooter
+SimpleShooter: Richochet Rule0Bot InputAnalyzer
+Richochet: SimpleShooter Rule0Bot InputAnalyzer
+Rule0Bot: SimpleShooter Richochet InputAnalyzer
+Generated: 2014/08/12 10:03:56.402025455 UTC

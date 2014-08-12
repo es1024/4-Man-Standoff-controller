@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Bomberman Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,Db,Da,N,Da,Db,Da,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo Coward Bomberman
+Coward: Neo Pacifist Bomberman
+Bomberman: Neo Pacifist Coward
+Neo: Bomberman Pacifist Coward
+Generated: 2014/08/12 07:52:24.517898213 UTC

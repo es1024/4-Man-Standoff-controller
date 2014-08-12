@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward EmoCowboy CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sc,N,Sa,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sa,N,Da,Da,Da,Da,Sa
+Final Health:
+               StraightShooter: -1
+                        Coward: -1
+                     EmoCowboy: -4
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Coward EmoCowboy
+Coward: CourageTheDog StraightShooter EmoCowboy
+EmoCowboy: CourageTheDog StraightShooter Coward
+CourageTheDog: EmoCowboy StraightShooter Coward
+Generated: 2014/08/12 09:42:17.540995296 UTC

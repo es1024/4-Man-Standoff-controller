@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Spock Bomberman
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Dc,Db,Da,P,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sa
+                     Bomberman: N,N,N,N,Da,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                         Spock: 2
+                     Bomberman: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman InputAnalyzer Spock
+InputAnalyzer: Bomberman StraightShooter Spock
+Spock: Bomberman StraightShooter InputAnalyzer
+Bomberman: Spock StraightShooter InputAnalyzer
+Generated: 2014/08/12 05:45:31.753945489 UTC

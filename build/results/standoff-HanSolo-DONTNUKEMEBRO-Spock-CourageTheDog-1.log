@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Spock CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dc,Dc,Dd,Dd,Da,Dd,Dc,Sd,N,Dd,Dd,Dc,Sd,N,Sa,N,Sa
+                         Spock: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Db,Da,Da,Da,Sb,N,Db,Db,Da,Sb,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+                         Spock: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Spock CourageTheDog HanSolo
+Spock: DONTNUKEMEBRO CourageTheDog HanSolo
+CourageTheDog: DONTNUKEMEBRO Spock HanSolo
+Generated: 2014/08/12 09:36:48.594484794 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Zaenille Neo
+                         Spock: Sc,N,Sc,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                           Neo: N,Sa,N,Sb,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 3
+                      Zaenille: -4
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Zaenille Neo Coward
+Coward: Zaenille Neo Spock
+Zaenille: Coward Neo Spock
+Neo: Coward Zaenille Spock
+Generated: 2014/08/12 10:04:42.825395594 UTC

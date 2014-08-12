@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Ninja Sniper
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Dc,Db,Db,Dc,Db,Db,Dc,Dc,Db,Da,Dc
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Sniper SimpleShooter
+Ninja: TwentyFourthsAndAHalfCentury Sniper SimpleShooter
+Sniper: TwentyFourthsAndAHalfCentury Ninja SimpleShooter
+Generated: 2014/08/12 08:02:14.834824786 UTC

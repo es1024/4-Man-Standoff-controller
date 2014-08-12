@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille AntiGrenadier Rule0Bot
+                     Grenadier: N,N,P,Tc
+                      Zaenille: Sb,N,N,N
+                 AntiGrenadier: N,N,N,Sa
+                      Rule0Bot: N,N,N,N
+Final Health:
+                     Grenadier: 0
+                      Zaenille: -2
+                 AntiGrenadier: -3
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille AntiGrenadier Rule0Bot
+Zaenille: Grenadier AntiGrenadier Rule0Bot
+AntiGrenadier: Grenadier Zaenille Rule0Bot
+Rule0Bot: Grenadier Zaenille AntiGrenadier
+Generated: 2014/08/12 09:28:10.057243957 UTC

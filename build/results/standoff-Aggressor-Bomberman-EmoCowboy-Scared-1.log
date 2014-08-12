@@ -1,0 +1,16 @@
+Standoff between: Aggressor Bomberman EmoCowboy Scared
+                     Aggressor: P,Td
+                     Bomberman: N,N
+                     EmoCowboy: Sc,N
+                        Scared: Sa,N
+Final Health:
+                     Aggressor: 0
+                     Bomberman: 2
+                     EmoCowboy: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy Scared Bomberman
+Bomberman: EmoCowboy Scared Aggressor
+EmoCowboy: Bomberman Scared Aggressor
+Scared: Bomberman EmoCowboy Aggressor
+Generated: 2014/08/12 10:05:55.330506815 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Zaenille Scared
+                     Grenadier: N,N,N
+                     Aggressor: P,Ta,Sd
+                      Zaenille: Sc,N,N
+                        Scared: Sc,N,Sb
+Final Health:
+                     Grenadier: -3
+                     Aggressor: 0
+                      Zaenille: -4
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Zaenille Scared
+Aggressor: Grenadier Zaenille Scared
+Zaenille: Grenadier Aggressor Scared
+Scared: Grenadier Aggressor Zaenille
+Generated: 2014/08/12 09:49:56.283725779 UTC

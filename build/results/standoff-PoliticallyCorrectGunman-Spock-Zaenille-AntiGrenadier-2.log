@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Zaenille AntiGrenadier
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: 5
+                      Zaenille: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Spock Zaenille
+Spock: AntiGrenadier PoliticallyCorrectGunman Zaenille
+Zaenille: AntiGrenadier PoliticallyCorrectGunman Spock
+AntiGrenadier: Zaenille PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 10:34:34.222848387 UTC

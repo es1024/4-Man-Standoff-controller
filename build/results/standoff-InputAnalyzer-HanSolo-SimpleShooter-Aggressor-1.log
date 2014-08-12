@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo SimpleShooter Aggressor
+                 InputAnalyzer: Dc,Db,Sb
+                       HanSolo: Sc,N,N
+                 SimpleShooter: Sa,N,N
+                     Aggressor: P,Tb,Sa
+Final Health:
+                 InputAnalyzer: 0
+                       HanSolo: -3
+                 SimpleShooter: 0
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Aggressor HanSolo
+HanSolo: SimpleShooter Aggressor InputAnalyzer
+SimpleShooter: HanSolo Aggressor InputAnalyzer
+Aggressor: HanSolo SimpleShooter InputAnalyzer
+Generated: 2014/08/12 09:06:23.081155097 UTC

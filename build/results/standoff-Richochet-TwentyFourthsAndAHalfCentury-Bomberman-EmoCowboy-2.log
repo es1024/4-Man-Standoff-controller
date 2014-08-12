@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Bomberman EmoCowboy
+                     Richochet: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,Sd,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: EmoCowboy Richochet Bomberman
+Bomberman: EmoCowboy Richochet TwentyFourthsAndAHalfCentury
+EmoCowboy: Bomberman Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:07:49.415927923 UTC

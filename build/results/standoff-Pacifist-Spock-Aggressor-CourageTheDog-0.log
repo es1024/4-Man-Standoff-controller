@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Aggressor CourageTheDog
+                      Pacifist: N,N,N,N
+                         Spock: Sa,N,N,N
+                     Aggressor: P,Tb,Sd,N
+                 CourageTheDog: Sa,N,Dc,Sc
+Final Health:
+                      Pacifist: -2
+                         Spock: -3
+                     Aggressor: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Aggressor CourageTheDog
+Spock: Pacifist Aggressor CourageTheDog
+Aggressor: Pacifist Spock CourageTheDog
+CourageTheDog: Pacifist Spock Aggressor
+Generated: 2014/08/12 07:48:33.972903052 UTC

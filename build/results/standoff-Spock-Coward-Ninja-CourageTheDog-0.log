@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Ninja CourageTheDog
+                         Spock: Sb,N,Sb,N,Sb,N,N,N,Sc,N,N,N,N,N,N,N,N,Sd
+                        Coward: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Db,Dc,Dc,Da,Dc,Da,Da,Da,Dd,Dc,Da,Dc,Da,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Db,Dc,Dc,Dc,Sc,N,Sa,N,Dc,Dc,Sc,N,Sa,N,N
+Final Health:
+                         Spock: 1
+                        Coward: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Ninja CourageTheDog
+Coward: Spock Ninja CourageTheDog
+Ninja: Spock Coward CourageTheDog
+CourageTheDog: Spock Coward Ninja
+Generated: 2014/08/12 06:55:06.173368989 UTC

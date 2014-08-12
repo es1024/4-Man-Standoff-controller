@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer DONTNUKEMEBRO Richochet
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,P,N,Da,N,N
+                 DONTNUKEMEBRO: Da,Dd,Dd,Sb,N,N,N
+                     Richochet: Sb,N,Sc,N,Sc,N,Sa
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: 0
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO Richochet InputAnalyzer
+InputAnalyzer: DONTNUKEMEBRO Richochet Pacifist
+DONTNUKEMEBRO: InputAnalyzer Richochet Pacifist
+Richochet: InputAnalyzer DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 09:43:15.667373659 UTC

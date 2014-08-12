@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Sniper Scared CourageTheDog
+  TwentyFourthsAndAHalfCentury: Db,N,Dd,N,Dc,Db,Dc,Db,Dc,Db,N,N,N,N,N,N,N,Sc,N,Sb,N,Sc
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,Sa,N,Sb,N,Sa
+                 CourageTheDog: Sb,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Scared CourageTheDog Sniper
+Sniper: Scared CourageTheDog TwentyFourthsAndAHalfCentury
+Scared: Sniper CourageTheDog TwentyFourthsAndAHalfCentury
+CourageTheDog: Sniper Scared TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:39:34.634032374 UTC

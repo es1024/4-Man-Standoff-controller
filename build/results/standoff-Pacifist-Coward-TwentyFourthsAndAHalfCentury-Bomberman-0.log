@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward TwentyFourthsAndAHalfCentury Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,Da,Da,Db,Da,Db,Da,Da,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward TwentyFourthsAndAHalfCentury Bomberman
+Coward: Pacifist TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Pacifist Coward Bomberman
+Bomberman: Pacifist Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:47:39.023233152 UTC

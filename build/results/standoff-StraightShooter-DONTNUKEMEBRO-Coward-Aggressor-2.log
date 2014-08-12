@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Coward Aggressor
+               StraightShooter: Sb,N
+                 DONTNUKEMEBRO: Da,Sd
+                        Coward: Sb,N
+                     Aggressor: P,Tc
+Final Health:
+               StraightShooter: 2
+                 DONTNUKEMEBRO: 0
+                        Coward: -3
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor DONTNUKEMEBRO Coward
+DONTNUKEMEBRO: Aggressor StraightShooter Coward
+Coward: Aggressor StraightShooter DONTNUKEMEBRO
+Aggressor: Coward StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 09:33:23.770228655 UTC

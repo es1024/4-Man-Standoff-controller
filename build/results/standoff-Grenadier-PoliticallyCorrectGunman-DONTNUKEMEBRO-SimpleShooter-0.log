@@ -1,16 +1,16 @@
 Standoff between: Grenadier PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter
-                     Grenadier: P,Tb,N
-      PoliticallyCorrectGunman: Dd,Sa,N
-                 DONTNUKEMEBRO: Dd,Sa,N
-                 SimpleShooter: Sc,N,Sc
+                     Grenadier: P,N,N,N
+      PoliticallyCorrectGunman: Dc,P,N,Sc
+                 DONTNUKEMEBRO: Dd,Sa,N,N
+                 SimpleShooter: Sc,N,Sc,N
 Final Health:
-                     Grenadier: -2
-      PoliticallyCorrectGunman: -3
+                     Grenadier: -3
+      PoliticallyCorrectGunman: -4
                  DONTNUKEMEBRO: 0
-                 SimpleShooter: 2
+                 SimpleShooter: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter
 PoliticallyCorrectGunman: Grenadier DONTNUKEMEBRO SimpleShooter
 DONTNUKEMEBRO: Grenadier PoliticallyCorrectGunman SimpleShooter
 SimpleShooter: Grenadier PoliticallyCorrectGunman DONTNUKEMEBRO
-Generated: 2014/08/11 00:59:43.823736321 UTC
+Generated: 2014/08/12 07:10:58.867674011 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO SimpleShooter TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dd,Da,Dc,P,Sb,N
+                 DONTNUKEMEBRO: Dd,Da,Sc,N,Sa,N
+                 SimpleShooter: Sb,N,Sa,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Dc,Da,Da,N
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury InputAnalyzer SimpleShooter
+SimpleShooter: TwentyFourthsAndAHalfCentury InputAnalyzer DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: SimpleShooter InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 10:07:00.055184044 UTC

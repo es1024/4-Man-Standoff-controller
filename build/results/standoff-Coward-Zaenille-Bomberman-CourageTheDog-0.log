@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Bomberman CourageTheDog
+                        Coward: Sd,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Da,Da,Dc,N,N,N,N
+Final Health:
+                        Coward: 5
+                      Zaenille: -2
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille Bomberman CourageTheDog
+Zaenille: Coward Bomberman CourageTheDog
+Bomberman: Coward Zaenille CourageTheDog
+CourageTheDog: Coward Zaenille Bomberman
+Generated: 2014/08/12 10:48:48.363071576 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Richochet TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: P,Db,Sd
+                       HanSolo: Sc,N,Sc
+                     Richochet: Sa,N,Sb
+  TwentyFourthsAndAHalfCentury: Db,Da,Dc
+Final Health:
+      PoliticallyCorrectGunman: -3
+                       HanSolo: 0
+                     Richochet: -2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet TwentyFourthsAndAHalfCentury HanSolo
+HanSolo: Richochet TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Richochet: HanSolo TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: HanSolo Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 06:51:06.538445333 UTC

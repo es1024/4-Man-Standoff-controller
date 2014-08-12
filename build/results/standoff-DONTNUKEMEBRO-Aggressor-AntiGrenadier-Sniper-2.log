@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Aggressor AntiGrenadier Sniper
+                 DONTNUKEMEBRO: Db,Sb
+                     Aggressor: P,Td
+                 AntiGrenadier: N,Sb
+                        Sniper: Sa,N
+Final Health:
+                 DONTNUKEMEBRO: 0
+                     Aggressor: -2
+                 AntiGrenadier: 2
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Sniper Aggressor AntiGrenadier
+Aggressor: Sniper DONTNUKEMEBRO AntiGrenadier
+AntiGrenadier: Sniper DONTNUKEMEBRO Aggressor
+Sniper: AntiGrenadier DONTNUKEMEBRO Aggressor
+Generated: 2014/08/12 06:54:11.753105918 UTC

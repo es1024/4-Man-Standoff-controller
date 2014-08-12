@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Richochet Bomberman CourageTheDog
+                 DONTNUKEMEBRO: Dd,Dd,Db,Dd,Db,Dd,Dd,Dd,Db,Dc,Sb,N,Dd,Dc,Dc,Dd,Sb
+                     Richochet: Sd,N,Sd,N,Sd,N,Sc,N,Sa,N,Sc,N,Sc,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: 1
+                     Richochet: -1
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Bomberman CourageTheDog Richochet
+Richochet: Bomberman CourageTheDog DONTNUKEMEBRO
+Bomberman: Richochet CourageTheDog DONTNUKEMEBRO
+CourageTheDog: Richochet Bomberman DONTNUKEMEBRO
+Generated: 2014/08/12 09:14:43.072557666 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille AntiGrenadier Neo
+                        Coward: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                      Zaenille: -4
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier Neo Zaenille
+Zaenille: AntiGrenadier Neo Coward
+AntiGrenadier: Zaenille Neo Coward
+Neo: Zaenille AntiGrenadier Coward
+Generated: 2014/08/12 06:06:40.277629299 UTC

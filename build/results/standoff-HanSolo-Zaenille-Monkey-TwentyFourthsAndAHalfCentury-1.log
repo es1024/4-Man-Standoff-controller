@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille Monkey TwentyFourthsAndAHalfCentury
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dc,Da,Sa,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+                      Zaenille: -2
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey TwentyFourthsAndAHalfCentury Zaenille
+Zaenille: Monkey TwentyFourthsAndAHalfCentury HanSolo
+Monkey: Zaenille TwentyFourthsAndAHalfCentury HanSolo
+TwentyFourthsAndAHalfCentury: Zaenille Monkey HanSolo
+Generated: 2014/08/12 08:59:02.405698804 UTC

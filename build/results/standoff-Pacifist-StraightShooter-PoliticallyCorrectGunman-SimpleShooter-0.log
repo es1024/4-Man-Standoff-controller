@@ -1,16 +1,16 @@
 Standoff between: Pacifist StraightShooter PoliticallyCorrectGunman SimpleShooter
-                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
-      PoliticallyCorrectGunman: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 SimpleShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sb,N,Sa,N,Sb,N,Sa,N,Sb,N,Sa
 Final Health:
-                      Pacifist: -15
-               StraightShooter: -17
-      PoliticallyCorrectGunman: -3
-                 SimpleShooter: -15
+                      Pacifist: -1
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: 5
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: StraightShooter PoliticallyCorrectGunman SimpleShooter
 StraightShooter: Pacifist PoliticallyCorrectGunman SimpleShooter
 PoliticallyCorrectGunman: Pacifist StraightShooter SimpleShooter
 SimpleShooter: Pacifist StraightShooter PoliticallyCorrectGunman
-Generated: 2014/08/11 00:59:36.723114535 UTC
+Generated: 2014/08/12 08:54:57.904608230 UTC

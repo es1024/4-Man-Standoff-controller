@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock EmoCowboy CourageTheDog
+                 InputAnalyzer: Dd,P,Dc,N
+                         Spock: Sd,N,Sd,N
+                     EmoCowboy: Sc,N,N,N
+                 CourageTheDog: N,Da,P,Tb
+Final Health:
+                 InputAnalyzer: -4
+                         Spock: -6
+                     EmoCowboy: -2
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Spock EmoCowboy
+Spock: CourageTheDog InputAnalyzer EmoCowboy
+EmoCowboy: CourageTheDog InputAnalyzer Spock
+CourageTheDog: EmoCowboy InputAnalyzer Spock
+Generated: 2014/08/12 08:44:27.640719565 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Rule0Bot CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Db,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: 5
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot CourageTheDog Coward
+Coward: Rule0Bot CourageTheDog StraightShooter
+Rule0Bot: Coward CourageTheDog StraightShooter
+CourageTheDog: Coward Rule0Bot StraightShooter
+Generated: 2014/08/12 10:26:59.193930748 UTC

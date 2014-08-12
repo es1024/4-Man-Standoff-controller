@@ -1,0 +1,16 @@
+Standoff between: Grenadier AntiGrenadier Rule0Bot Scared
+                     Grenadier: P,N,N,N,N
+                 AntiGrenadier: N,Sa,N,N,N
+                      Rule0Bot: N,Sa,N,N,N
+                        Scared: Sc,N,Sa,N,Sb
+Final Health:
+                     Grenadier: -7
+                 AntiGrenadier: 0
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Scared AntiGrenadier
+AntiGrenadier: Rule0Bot Scared Grenadier
+Rule0Bot: AntiGrenadier Scared Grenadier
+Scared: AntiGrenadier Rule0Bot Grenadier
+Generated: 2014/08/12 05:52:10.659384941 UTC

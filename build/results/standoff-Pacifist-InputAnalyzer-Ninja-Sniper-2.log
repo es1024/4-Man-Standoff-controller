@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Ninja Sniper
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dd,P,N,Da,N
+                         Ninja: Db,Db,Db,Dd,Dc
+                        Sniper: Sb,N,Sa,N,Sc
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -1
+                         Ninja: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper InputAnalyzer Ninja
+InputAnalyzer: Sniper Pacifist Ninja
+Ninja: Sniper Pacifist InputAnalyzer
+Sniper: Ninja Pacifist InputAnalyzer
+Generated: 2014/08/12 06:04:42.242366239 UTC

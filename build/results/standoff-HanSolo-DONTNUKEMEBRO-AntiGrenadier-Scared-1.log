@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO AntiGrenadier Scared
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sb
+                 DONTNUKEMEBRO: Da,Da,Sd,N,Dc,Dd,Sd,N,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sb,N,Sa,N,N
+Final Health:
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Scared DONTNUKEMEBRO
+DONTNUKEMEBRO: AntiGrenadier Scared HanSolo
+AntiGrenadier: DONTNUKEMEBRO Scared HanSolo
+Scared: DONTNUKEMEBRO AntiGrenadier HanSolo
+Generated: 2014/08/12 06:12:58.497316003 UTC

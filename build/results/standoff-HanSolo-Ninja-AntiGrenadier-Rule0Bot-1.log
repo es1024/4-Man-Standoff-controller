@@ -1,0 +1,16 @@
+Standoff between: HanSolo Ninja AntiGrenadier Rule0Bot
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Ninja: Dd,Da,Da,Dd,Dc,Dd,Db,Da,Dd,Da,Db,Db,Dd,Da,Dc,Dc,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Rule0Bot Ninja
+Ninja: AntiGrenadier Rule0Bot HanSolo
+AntiGrenadier: Ninja Rule0Bot HanSolo
+Rule0Bot: Ninja AntiGrenadier HanSolo
+Generated: 2014/08/12 09:04:38.965829442 UTC

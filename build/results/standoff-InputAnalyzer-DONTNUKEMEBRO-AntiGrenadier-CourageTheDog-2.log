@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO AntiGrenadier CourageTheDog
+                 InputAnalyzer: Dd,Dc,Dd,Sc,N,Sb,N,Db,Da,Db,Dd,Da,Sc,N,Dc,Sd,N,Sc,N,P,Dd,Db
+                 DONTNUKEMEBRO: Dd,Dd,Sd,N,Da,Da,Da,Sa,N,Dd,Dc,Da,Dc,Da,Da,Dc,Da,Sd,N,Dc,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Db,Db,Dc,Dc,Dc,Da,Dc,Db,Dc,Da,Da,N,Sb,N,Da,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 0
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog DONTNUKEMEBRO AntiGrenadier
+DONTNUKEMEBRO: CourageTheDog InputAnalyzer AntiGrenadier
+AntiGrenadier: CourageTheDog InputAnalyzer DONTNUKEMEBRO
+CourageTheDog: AntiGrenadier InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 07:49:47.208286525 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo AntiGrenadier Sniper Neo
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Dc,Sc,N,Dc,Dc,Sa,N,Sa,N,N,N
+Final Health:
+                       HanSolo: 1
+                 AntiGrenadier: -3
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Sniper Neo
+AntiGrenadier: HanSolo Sniper Neo
+Sniper: HanSolo AntiGrenadier Neo
+Neo: HanSolo AntiGrenadier Sniper
+Generated: 2014/08/12 10:45:23.664807155 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Ninja Neo
+      PoliticallyCorrectGunman: Sc,N,Sa,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd
+                         Ninja: Dc,Db,Dc,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,Db,N,Db,Sb,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                        Coward: 3
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Coward Ninja
+Coward: Neo PoliticallyCorrectGunman Ninja
+Ninja: Neo PoliticallyCorrectGunman Coward
+Neo: Ninja PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 07:47:56.005563309 UTC

@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Coward Ninja
+                 DONTNUKEMEBRO: Db,Db,Db,Db,Sb,N,Sb,N,Sc,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Db,Sd,N,Sd,N,Sd,N,Sd
+                         Ninja: Da,Dc,Dc,Dc,Dc,Dc,Dc,Dd,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Db,Db,Db
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -3
+                        Coward: 1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Ninja SimpleShooter Coward
+SimpleShooter: Ninja DONTNUKEMEBRO Coward
+Coward: Ninja DONTNUKEMEBRO SimpleShooter
+Ninja: Coward DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 09:38:43.870736687 UTC

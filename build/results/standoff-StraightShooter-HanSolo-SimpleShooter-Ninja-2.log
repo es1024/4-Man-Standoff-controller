@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo SimpleShooter Ninja
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd
+                         Ninja: Da,Db,Dc,Dd,Dd,Dd,Dc,Dc,Dc,Db,Db
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                 SimpleShooter: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja HanSolo SimpleShooter
+HanSolo: Ninja StraightShooter SimpleShooter
+SimpleShooter: Ninja StraightShooter HanSolo
+Ninja: SimpleShooter StraightShooter HanSolo
+Generated: 2014/08/12 07:33:09.838455018 UTC

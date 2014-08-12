@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo Sniper
+                 InputAnalyzer: Dc,Db,P,Dd,N
+      PoliticallyCorrectGunman: Da,Dc,Dc,Dd,Sd
+                       HanSolo: Sb,N,Sb,N,Sb
+                        Sniper: Sc,N,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -4
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Sniper PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo Sniper InputAnalyzer
+HanSolo: PoliticallyCorrectGunman Sniper InputAnalyzer
+Sniper: PoliticallyCorrectGunman HanSolo InputAnalyzer
+Generated: 2014/08/12 10:20:30.950152915 UTC

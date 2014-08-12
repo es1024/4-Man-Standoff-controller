@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot
+                     Grenadier: N,N,N,N,N,N,N,P,Tb
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Dd,N,Da,Da,Da
+                      Rule0Bot: N,N,N,N,N,N,N,N,Sa
+Final Health:
+                     Grenadier: -4
+                 SimpleShooter: -3
+  TwentyFourthsAndAHalfCentury: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Rule0Bot Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Grenadier SimpleShooter
+Rule0Bot: TwentyFourthsAndAHalfCentury Grenadier SimpleShooter
+Generated: 2014/08/12 09:52:33.000502514 UTC

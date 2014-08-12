@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Monkey Rule0Bot
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sd
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,N,N,N
+                        Monkey: N,Sd,N,N,N,N,N,Sc,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                 SimpleShooter: -1
+                        Monkey: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Monkey Rule0Bot
+SimpleShooter: HanSolo Monkey Rule0Bot
+Monkey: HanSolo SimpleShooter Rule0Bot
+Rule0Bot: HanSolo SimpleShooter Monkey
+Generated: 2014/08/12 08:00:08.275909352 UTC

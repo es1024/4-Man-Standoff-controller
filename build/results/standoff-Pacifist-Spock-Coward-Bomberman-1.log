@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Coward Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,Sc,N,N,Sc,N,Sc
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: 5
+                        Coward: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Bomberman Spock
+Spock: Coward Bomberman Pacifist
+Coward: Spock Bomberman Pacifist
+Bomberman: Spock Coward Pacifist
+Generated: 2014/08/12 09:56:49.960632692 UTC

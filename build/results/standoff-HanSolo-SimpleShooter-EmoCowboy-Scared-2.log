@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter EmoCowboy Scared
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sa,N,Sa
+                     EmoCowboy: N,N,N,N,Sc,N,N,N,N
+                        Scared: N,N,N,Sb,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: -1
+                     EmoCowboy: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared SimpleShooter EmoCowboy
+SimpleShooter: Scared HanSolo EmoCowboy
+EmoCowboy: Scared HanSolo SimpleShooter
+Scared: EmoCowboy HanSolo SimpleShooter
+Generated: 2014/08/12 06:49:24.801464811 UTC

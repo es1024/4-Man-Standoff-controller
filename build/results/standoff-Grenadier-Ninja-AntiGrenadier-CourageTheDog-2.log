@@ -1,0 +1,16 @@
+Standoff between: Grenadier Ninja AntiGrenadier CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,P,N,N
+                         Ninja: Dd,Db,Da,Dd,Db,Dc,Db,Dd,Dd,Db,Da,Dc,Db,Da,Dc,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+                 CourageTheDog: Sa,N,Db,Db,Sa,N,Db,Sc,N,Db,Db,Dc,Da,Db,P,Tb
+Final Health:
+                     Grenadier: -7
+                         Ninja: -6
+                 AntiGrenadier: 0
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Ninja AntiGrenadier
+Ninja: CourageTheDog Grenadier AntiGrenadier
+AntiGrenadier: CourageTheDog Grenadier Ninja
+CourageTheDog: AntiGrenadier Grenadier Ninja
+Generated: 2014/08/12 07:52:38.341402066 UTC

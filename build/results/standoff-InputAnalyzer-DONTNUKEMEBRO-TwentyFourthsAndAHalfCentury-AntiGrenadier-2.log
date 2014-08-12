@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury AntiGrenadier
+                 InputAnalyzer: Dd,P,Db,Sa,N,N,N
+                 DONTNUKEMEBRO: Dc,Dd,Sa,N,Dd,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,Da,Sb,N,Sd
+                 AntiGrenadier: N,N,Sa,N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                 DONTNUKEMEBRO: 0
+  TwentyFourthsAndAHalfCentury: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: AntiGrenadier InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier InputAnalyzer DONTNUKEMEBRO
+AntiGrenadier: TwentyFourthsAndAHalfCentury InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 05:44:45.792076493 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury CourageTheDog
+                 InputAnalyzer: Dc,Db,Dc,P,Da,Dd
+                       HanSolo: Sc,N,Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Dd,Da,Dd,N
+                 CourageTheDog: Sa,N,Sa,N,P,Tb
+Final Health:
+                 InputAnalyzer: -8
+                       HanSolo: -6
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury CourageTheDog HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury CourageTheDog InputAnalyzer
+TwentyFourthsAndAHalfCentury: HanSolo CourageTheDog InputAnalyzer
+CourageTheDog: HanSolo TwentyFourthsAndAHalfCentury InputAnalyzer
+Generated: 2014/08/12 08:41:57.374165457 UTC

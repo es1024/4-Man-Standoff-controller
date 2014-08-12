@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman EmoCowboy Ninja
+                 InputAnalyzer: Dd,Dc,P,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sc,N,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Da,Dd,Dc,Dd,Dc,Dc,Dc,Dd,Db,Da,Dc,Dd,Db,Dd,Db,Da,Da
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: 2
+                     EmoCowboy: -4
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja PoliticallyCorrectGunman EmoCowboy
+PoliticallyCorrectGunman: Ninja InputAnalyzer EmoCowboy
+EmoCowboy: Ninja InputAnalyzer PoliticallyCorrectGunman
+Ninja: EmoCowboy InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 06:55:08.958610186 UTC

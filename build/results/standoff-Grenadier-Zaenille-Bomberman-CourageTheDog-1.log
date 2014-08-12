@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Bomberman CourageTheDog
+                     Grenadier: P,N,N
+                      Zaenille: Sb,N,N
+                     Bomberman: N,N,N
+                 CourageTheDog: Sc,N,Da
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+                     Bomberman: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman CourageTheDog Zaenille
+Zaenille: Bomberman CourageTheDog Grenadier
+Bomberman: Zaenille CourageTheDog Grenadier
+CourageTheDog: Zaenille Bomberman Grenadier
+Generated: 2014/08/12 06:05:17.905781976 UTC

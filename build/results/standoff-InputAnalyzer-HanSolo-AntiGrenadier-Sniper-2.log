@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo AntiGrenadier Sniper
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                       HanSolo: 5
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper HanSolo AntiGrenadier
+HanSolo: Sniper InputAnalyzer AntiGrenadier
+AntiGrenadier: Sniper InputAnalyzer HanSolo
+Sniper: AntiGrenadier InputAnalyzer HanSolo
+Generated: 2014/08/12 07:04:55.882737063 UTC

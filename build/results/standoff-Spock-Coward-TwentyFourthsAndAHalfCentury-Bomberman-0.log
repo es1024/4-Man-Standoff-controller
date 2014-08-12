@@ -1,0 +1,16 @@
+Standoff between: Spock Coward TwentyFourthsAndAHalfCentury Bomberman
+                         Spock: N,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Db,N,Db,N,Da,N,Db,Sa,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward TwentyFourthsAndAHalfCentury Bomberman
+Coward: Spock TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Spock Coward Bomberman
+Bomberman: Spock Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:22:25.532745745 UTC

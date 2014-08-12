@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter DONTNUKEMEBRO Coward
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 DONTNUKEMEBRO: Db,Db,Dd,Dd,Dd,Da,Db,Db,Db,Db,Db,Dd,Dd,Da,Da,Da,Da,Da,Da,Db,Db,Dd,Da,Da,Db,Dd,Dd,Dd,Db,Da,Db,Db,Dd,Da,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                        Coward: Sa,N,Sa,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -15
+                 DONTNUKEMEBRO: -15
+                        Coward: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO Coward StraightShooter
+StraightShooter: DONTNUKEMEBRO Coward Pacifist
+DONTNUKEMEBRO: StraightShooter Coward Pacifist
+Coward: StraightShooter DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 08:44:56.910864244 UTC

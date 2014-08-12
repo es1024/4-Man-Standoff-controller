@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo Scared
+                 InputAnalyzer: Dc,P,Sa
+      PoliticallyCorrectGunman: Sd,N,N
+                       HanSolo: Sb,N,Sb
+                        Scared: Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -10
+      PoliticallyCorrectGunman: -4
+                       HanSolo: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo Scared InputAnalyzer
+HanSolo: PoliticallyCorrectGunman Scared InputAnalyzer
+Scared: PoliticallyCorrectGunman HanSolo InputAnalyzer
+Generated: 2014/08/12 09:15:46.578904333 UTC

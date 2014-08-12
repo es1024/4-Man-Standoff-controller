@@ -1,0 +1,16 @@
+Standoff between: HanSolo Ninja AntiGrenadier Scared
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                         Ninja: Dd,Dd,Dd,Dc,Da,Db,Db,Da,Dd,Dc,Da,Dd,Da,Dd,Db,Da,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Scared Ninja
+Ninja: AntiGrenadier Scared HanSolo
+AntiGrenadier: Ninja Scared HanSolo
+Scared: Ninja AntiGrenadier HanSolo
+Generated: 2014/08/12 07:37:59.875792335 UTC

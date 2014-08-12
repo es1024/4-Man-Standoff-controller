@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter EmoCowboy
+                 InputAnalyzer: Db,Da,Sa,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sa
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                         Spock: -1
+                 SimpleShooter: 5
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock SimpleShooter EmoCowboy
+Spock: InputAnalyzer SimpleShooter EmoCowboy
+SimpleShooter: InputAnalyzer Spock EmoCowboy
+EmoCowboy: InputAnalyzer Spock SimpleShooter
+Generated: 2014/08/12 08:55:13.628028884 UTC

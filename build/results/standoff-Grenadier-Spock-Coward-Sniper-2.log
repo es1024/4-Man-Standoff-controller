@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Coward Sniper
+                     Grenadier: N,N,P,Tc
+                         Spock: Sd,N,Sd,N
+                        Coward: Sb,N,Sb,N
+                        Sniper: Sa,N,Sa,N
+Final Health:
+                     Grenadier: -2
+                         Spock: -2
+                        Coward: -3
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper Spock Coward
+Spock: Sniper Grenadier Coward
+Coward: Sniper Grenadier Spock
+Sniper: Coward Grenadier Spock
+Generated: 2014/08/12 09:28:03.023649828 UTC

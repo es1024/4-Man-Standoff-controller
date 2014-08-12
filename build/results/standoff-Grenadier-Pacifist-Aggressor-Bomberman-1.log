@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Aggressor Bomberman
+                     Grenadier: P,N,N
+                      Pacifist: N,N,N
+                     Aggressor: P,Tb,Sd
+                     Bomberman: N,N,N
+Final Health:
+                     Grenadier: -4
+                      Pacifist: -3
+                     Aggressor: -1
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Bomberman Pacifist
+Pacifist: Aggressor Bomberman Grenadier
+Aggressor: Pacifist Bomberman Grenadier
+Bomberman: Pacifist Aggressor Grenadier
+Generated: 2014/08/12 08:56:11.434869162 UTC

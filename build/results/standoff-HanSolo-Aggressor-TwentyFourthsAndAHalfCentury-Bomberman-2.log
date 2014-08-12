@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor TwentyFourthsAndAHalfCentury Bomberman
+                       HanSolo: Sd,N,N
+                     Aggressor: P,Ta,Sc
+  TwentyFourthsAndAHalfCentury: Da,Db,Sb
+                     Bomberman: N,N,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Bomberman HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman HanSolo Aggressor
+Bomberman: TwentyFourthsAndAHalfCentury HanSolo Aggressor
+Generated: 2014/08/12 08:35:14.881770238 UTC

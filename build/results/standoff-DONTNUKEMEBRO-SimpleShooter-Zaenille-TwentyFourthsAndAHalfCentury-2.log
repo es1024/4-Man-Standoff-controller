@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+                 DONTNUKEMEBRO: Dc,Db,Dd,Dd,Sb,N,Dc,Dd,Dd,Db,Sb,N,Db,Dd,Sb
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sd,N,Sa,N,Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Db,Da,Db,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury SimpleShooter Zaenille
+SimpleShooter: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO SimpleShooter
+TwentyFourthsAndAHalfCentury: Zaenille DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 07:22:40.010714522 UTC

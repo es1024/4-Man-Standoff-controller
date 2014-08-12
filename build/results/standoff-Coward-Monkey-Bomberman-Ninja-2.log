@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey Bomberman Ninja
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Db,Db,Dd,Dd,Dc,Dd,Db,Db,Dd,Dc,Da,Dc,Dc
+Final Health:
+                        Coward: 5
+                        Monkey: -2
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Monkey Bomberman
+Monkey: Ninja Coward Bomberman
+Bomberman: Ninja Coward Monkey
+Ninja: Bomberman Coward Monkey
+Generated: 2014/08/12 08:38:49.081334514 UTC

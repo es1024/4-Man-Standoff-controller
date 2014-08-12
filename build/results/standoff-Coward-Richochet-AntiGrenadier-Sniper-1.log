@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet AntiGrenadier Sniper
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc
+                     Richochet: Sc,N,Sc,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                     Richochet: -3
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier Sniper Richochet
+Richochet: AntiGrenadier Sniper Coward
+AntiGrenadier: Richochet Sniper Coward
+Sniper: Richochet AntiGrenadier Coward
+Generated: 2014/08/12 06:32:17.103436244 UTC

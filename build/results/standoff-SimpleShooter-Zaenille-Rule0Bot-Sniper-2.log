@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Rule0Bot Sniper
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,Sc,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                      Zaenille: -2
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Zaenille Rule0Bot
+Zaenille: Sniper SimpleShooter Rule0Bot
+Rule0Bot: Sniper SimpleShooter Zaenille
+Sniper: Rule0Bot SimpleShooter Zaenille
+Generated: 2014/08/12 09:44:03.401369701 UTC

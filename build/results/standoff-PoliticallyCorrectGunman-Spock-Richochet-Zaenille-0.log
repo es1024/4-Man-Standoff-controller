@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet Zaenille
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,Sa,N,Sa,N,Sa,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -1
+                     Richochet: 5
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Richochet Zaenille
+Spock: PoliticallyCorrectGunman Richochet Zaenille
+Richochet: PoliticallyCorrectGunman Spock Zaenille
+Zaenille: PoliticallyCorrectGunman Spock Richochet
+Generated: 2014/08/12 06:29:23.492274313 UTC

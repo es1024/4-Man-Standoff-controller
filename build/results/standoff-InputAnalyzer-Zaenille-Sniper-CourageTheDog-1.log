@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Sniper CourageTheDog
+                 InputAnalyzer: Dc,P,Da,Dc
+                      Zaenille: Sb,N,N,N
+                        Sniper: Sa,N,N,N
+                 CourageTheDog: Sa,N,P,Tc
+Final Health:
+                 InputAnalyzer: -6
+                      Zaenille: -2
+                        Sniper: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper CourageTheDog Zaenille
+Zaenille: Sniper CourageTheDog InputAnalyzer
+Sniper: Zaenille CourageTheDog InputAnalyzer
+CourageTheDog: Zaenille Sniper InputAnalyzer
+Generated: 2014/08/12 09:56:01.264469713 UTC

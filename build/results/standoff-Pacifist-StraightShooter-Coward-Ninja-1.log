@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Coward Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sb,N,Sb,N,Sb
+                         Ninja: Dd,Dd,Dc,Dc,Db,Db,Db,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                        Coward: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Ninja StraightShooter
+StraightShooter: Coward Ninja Pacifist
+Coward: StraightShooter Ninja Pacifist
+Ninja: StraightShooter Coward Pacifist
+Generated: 2014/08/12 06:26:44.853270317 UTC

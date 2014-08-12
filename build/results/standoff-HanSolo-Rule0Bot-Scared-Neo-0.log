@@ -1,0 +1,16 @@
+Standoff between: HanSolo Rule0Bot Scared Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,N,Sc,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sd,N,N,N,N,N,N,Sa,N,Sd,N
+                           Neo: N,N,N,N,N,N,N,N,N,Dc,N,Dc,Sa
+Final Health:
+                       HanSolo: -1
+                      Rule0Bot: -1
+                        Scared: -1
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Scared Neo
+Rule0Bot: HanSolo Scared Neo
+Scared: HanSolo Rule0Bot Neo
+Neo: HanSolo Rule0Bot Scared
+Generated: 2014/08/12 06:13:35.158214805 UTC

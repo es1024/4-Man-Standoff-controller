@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille Monkey Rule0Bot
+                     Richochet: Sb,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -4
+                        Monkey: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey Rule0Bot Zaenille
+Zaenille: Monkey Rule0Bot Richochet
+Monkey: Zaenille Rule0Bot Richochet
+Rule0Bot: Zaenille Monkey Richochet
+Generated: 2014/08/12 05:57:07.328577061 UTC

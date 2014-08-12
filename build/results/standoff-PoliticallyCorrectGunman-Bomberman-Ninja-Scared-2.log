@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Ninja Scared
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Da,Db,Dc,Dc,Db,Da,Dd,Da,Db,Da,Dd,Da,Db,Dc
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,Sc,N,N,Sa,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -7
+                         Ninja: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared Bomberman Ninja
+Bomberman: Scared PoliticallyCorrectGunman Ninja
+Ninja: Scared PoliticallyCorrectGunman Bomberman
+Scared: Ninja PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 09:39:28.109907309 UTC

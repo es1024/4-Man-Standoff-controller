@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Aggressor TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Sc,N,N
+                 DONTNUKEMEBRO: Dc,Sc,N
+                     Aggressor: P,Ta,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -3
+                 DONTNUKEMEBRO: 0
+                     Aggressor: -2
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: DONTNUKEMEBRO Aggressor TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: PoliticallyCorrectGunman DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman DONTNUKEMEBRO Aggressor
+Generated: 2014/08/12 09:46:31.730544064 UTC

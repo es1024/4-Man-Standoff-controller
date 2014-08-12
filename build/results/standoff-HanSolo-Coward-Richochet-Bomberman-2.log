@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Richochet Bomberman
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb
+                        Coward: Sc,N,Sc,N,Sc,N,Sa
+                     Richochet: Sd,N,Sa,N,Sa,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 1
+                     Richochet: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Coward Richochet
+Coward: Bomberman HanSolo Richochet
+Richochet: Bomberman HanSolo Coward
+Bomberman: Richochet HanSolo Coward
+Generated: 2014/08/12 08:55:02.867601398 UTC

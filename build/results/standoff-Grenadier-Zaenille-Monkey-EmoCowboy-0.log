@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Monkey EmoCowboy
+                     Grenadier: N,N,N,N,P,Tc
+                      Zaenille: Sb,N,N,N,N,N
+                        Monkey: N,N,N,N,Sd,N
+                     EmoCowboy: N,N,N,Sd,N,N
+Final Health:
+                     Grenadier: 2
+                      Zaenille: -2
+                        Monkey: -3
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Monkey EmoCowboy
+Zaenille: Grenadier Monkey EmoCowboy
+Monkey: Grenadier Zaenille EmoCowboy
+EmoCowboy: Grenadier Zaenille Monkey
+Generated: 2014/08/12 08:55:53.406943014 UTC

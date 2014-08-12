@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter HanSolo Monkey
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                       HanSolo: Sa,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,N,N,N,N,Sc,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -17
+                       HanSolo: -1
+                        Monkey: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter HanSolo Monkey
+StraightShooter: Grenadier HanSolo Monkey
+HanSolo: Grenadier StraightShooter Monkey
+Monkey: Grenadier StraightShooter HanSolo
+Generated: 2014/08/12 06:27:52.372341596 UTC

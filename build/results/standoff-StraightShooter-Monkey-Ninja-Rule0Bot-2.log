@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Ninja Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Dc,Dc,Db,Dd,Dc,Da,Da,Dd,Dd,Dc,Da,Db,Db,Da,Db,Da,Db,Db,Da,Db,Da,Dd,Da,Db,Dc,Db,Dd,Dc,Dc,Db,Db,Da,Dc,Dd,Dd,Dc,Da,Da,Db,Dd,Dc,Da,Db,Db,Dd,Dc,Db,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                        Monkey: -2
+                         Ninja: -15
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot Monkey Ninja
+Monkey: Rule0Bot StraightShooter Ninja
+Ninja: Rule0Bot StraightShooter Monkey
+Rule0Bot: Ninja StraightShooter Monkey
+Generated: 2014/08/12 09:51:02.495139095 UTC

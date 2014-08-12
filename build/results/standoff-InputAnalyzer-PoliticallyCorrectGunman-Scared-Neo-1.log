@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Scared Neo
+                 InputAnalyzer: Dc,P,Sa,N
+      PoliticallyCorrectGunman: Dd,N,N,Sc
+                        Scared: Sd,N,Sa,N
+                           Neo: N,N,N,N
+Final Health:
+                 InputAnalyzer: -10
+      PoliticallyCorrectGunman: 2
+                        Scared: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Scared Neo InputAnalyzer
+Scared: PoliticallyCorrectGunman Neo InputAnalyzer
+Neo: PoliticallyCorrectGunman Scared InputAnalyzer
+Generated: 2014/08/12 06:49:42.969817488 UTC

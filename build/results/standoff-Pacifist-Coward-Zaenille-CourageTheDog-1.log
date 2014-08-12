@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Zaenille CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Da,Da,Sa,N,Dd,Sd,N,Sd,N,Sd,N,Da
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sb,N,Db,Da,Da,N,Db,N,N,Db,N,Db,Db,Sb
+Final Health:
+                      Pacifist: -1
+                        Coward: -1
+                      Zaenille: -2
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille CourageTheDog Coward
+Coward: Zaenille CourageTheDog Pacifist
+Zaenille: Coward CourageTheDog Pacifist
+CourageTheDog: Coward Zaenille Pacifist
+Generated: 2014/08/12 07:04:36.102879669 UTC

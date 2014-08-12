@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman AntiGrenadier Scared
+                 InputAnalyzer: Dd,Dc,P,Da,Sc
+                     Bomberman: N,N,N,N,N
+                 AntiGrenadier: N,N,N,Sa,N
+                        Scared: N,N,Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -5
+                     Bomberman: 0
+                 AntiGrenadier: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Bomberman AntiGrenadier
+Bomberman: Scared InputAnalyzer AntiGrenadier
+AntiGrenadier: Scared InputAnalyzer Bomberman
+Scared: AntiGrenadier InputAnalyzer Bomberman
+Generated: 2014/08/12 08:53:25.722871353 UTC

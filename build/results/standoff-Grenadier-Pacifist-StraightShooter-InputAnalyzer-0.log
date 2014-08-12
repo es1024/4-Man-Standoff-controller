@@ -1,16 +1,16 @@
 Standoff between: Grenadier Pacifist StraightShooter InputAnalyzer
-                     Grenadier: P,Tc,P,Td
-                      Pacifist: N,N,N,N
-               StraightShooter: Sb,N,N,N
-                 InputAnalyzer: Da,Sb,N,Dc
+                     Grenadier: P,Tc,N,N,N,N,N,N,P,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sb,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Sb,N,Dd,Dc,Sb,N,Da,P,N,N
 Final Health:
-                     Grenadier: -1
+                     Grenadier: -7
                       Pacifist: -2
                StraightShooter: -3
-                 InputAnalyzer: -6
+                 InputAnalyzer: -7
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: Pacifist StraightShooter InputAnalyzer
 Pacifist: Grenadier StraightShooter InputAnalyzer
 StraightShooter: Grenadier Pacifist InputAnalyzer
 InputAnalyzer: Grenadier Pacifist StraightShooter
-Generated: 2014/08/11 01:00:15.956080050 UTC
+Generated: 2014/08/12 08:12:18.543718778 UTC

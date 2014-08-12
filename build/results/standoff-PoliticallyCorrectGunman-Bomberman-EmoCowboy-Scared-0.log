@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman EmoCowboy Scared
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,Sd,N,Db,Sd,N,Dd,Dd,N,N,N,N,N,N,N,N,Dc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,Sb,N,Sa,N,Sb,N,Sa,N,Sb,N,N,N,N,N,N,N,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Bomberman: -1
+                     EmoCowboy: -2
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman EmoCowboy Scared
+Bomberman: PoliticallyCorrectGunman EmoCowboy Scared
+EmoCowboy: PoliticallyCorrectGunman Bomberman Scared
+Scared: PoliticallyCorrectGunman Bomberman EmoCowboy
+Generated: 2014/08/12 10:04:11.327711913 UTC

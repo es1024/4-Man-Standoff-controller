@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Zaenille Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sc,N,Dd,Dc,N,N,Da,Da,Da,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Da,N,Da,Da,Da,N,N,N,N,N,N,N,N,N,Da,N,Da,Da,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,Da,Da,N,N,Da,Da,N,N
+Final Health:
+                      Pacifist: -18
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -4
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Zaenille Neo Pacifist
+Zaenille: PoliticallyCorrectGunman Neo Pacifist
+Neo: PoliticallyCorrectGunman Zaenille Pacifist
+Generated: 2014/08/12 07:22:21.130877895 UTC

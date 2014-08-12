@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Ninja CourageTheDog
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Db,Sd
+                     Richochet: Sc,N,Sd,N,Sc,N,N,N,N,N
+                         Ninja: Da,Da,Db,Dd,Dd,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Db,Da,Da,Sa,N,Sa
+Final Health:
+                        Coward: -1
+                     Richochet: -1
+                         Ninja: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja CourageTheDog Richochet
+Richochet: Ninja CourageTheDog Coward
+Ninja: Richochet CourageTheDog Coward
+CourageTheDog: Richochet Ninja Coward
+Generated: 2014/08/12 06:16:33.598393976 UTC

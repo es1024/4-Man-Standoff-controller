@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Richochet Zaenille
+                 DONTNUKEMEBRO: Db,Db,Sc,N,Sc
+                 SimpleShooter: Sc,N,Sc,N,Sa
+                     Richochet: Sa,N,Sa,N,N
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 5
+                     Richochet: -1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Zaenille SimpleShooter Richochet
+SimpleShooter: Zaenille DONTNUKEMEBRO Richochet
+Richochet: Zaenille DONTNUKEMEBRO SimpleShooter
+Zaenille: Richochet DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 05:49:52.260594337 UTC

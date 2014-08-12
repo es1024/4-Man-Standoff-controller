@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward TwentyFourthsAndAHalfCentury Sniper
+                 SimpleShooter: Sc,N,Sd,N,Sb,N,Sd,N,Sb,N,N,N
+                        Coward: Sc,N,Sc,N,Sa,N,Sa,N,Da,Sa,N,Sd
+  TwentyFourthsAndAHalfCentury: Db,N,Da,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: 1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Coward TwentyFourthsAndAHalfCentury
+Coward: Sniper SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper SimpleShooter Coward
+Sniper: TwentyFourthsAndAHalfCentury SimpleShooter Coward
+Generated: 2014/08/12 08:49:44.170927892 UTC

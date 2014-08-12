@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Sa,N,Dc,Sc,N,Sb,N,Dc,Dc,Sc,N,Db,Sb,N,Db,Db,Db,Sb
+Final Health:
+                      Pacifist: -1
+                        Monkey: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Monkey Rule0Bot
+Monkey: CourageTheDog Pacifist Rule0Bot
+Rule0Bot: CourageTheDog Pacifist Monkey
+CourageTheDog: Rule0Bot Pacifist Monkey
+Generated: 2014/08/12 08:26:17.239340914 UTC

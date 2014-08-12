@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Spock CourageTheDog
+               StraightShooter: Sb,N,Sb,N
+                 DONTNUKEMEBRO: Da,Da,P,Tc
+                         Spock: Sd,N,Sd,N
+                 CourageTheDog: Sb,N,Sc,N
+Final Health:
+               StraightShooter: 2
+                 DONTNUKEMEBRO: -2
+                         Spock: -5
+                 CourageTheDog: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: CourageTheDog StraightShooter Spock
+Spock: CourageTheDog StraightShooter DONTNUKEMEBRO
+CourageTheDog: Spock StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 06:07:41.001972497 UTC

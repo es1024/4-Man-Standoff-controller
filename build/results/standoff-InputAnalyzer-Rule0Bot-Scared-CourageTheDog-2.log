@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Rule0Bot Scared CourageTheDog
+                 InputAnalyzer: Dd,Dc,Da,Db,Da,Db,P,N
+                      Rule0Bot: N,N,N,N,N,N,N,Sa
+                        Scared: Sd,N,Sa,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Db,Dc,Da,N
+Final Health:
+                 InputAnalyzer: -7
+                      Rule0Bot: 0
+                        Scared: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Rule0Bot Scared
+Rule0Bot: CourageTheDog InputAnalyzer Scared
+Scared: CourageTheDog InputAnalyzer Rule0Bot
+CourageTheDog: Scared InputAnalyzer Rule0Bot
+Generated: 2014/08/12 09:51:10.694070332 UTC

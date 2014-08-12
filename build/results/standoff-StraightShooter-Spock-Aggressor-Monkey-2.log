@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Aggressor Monkey
+               StraightShooter: Sb,N,Sb
+                         Spock: N,N,N
+                     Aggressor: P,Td,Sa
+                        Monkey: N,N,N
+Final Health:
+               StraightShooter: 0
+                         Spock: 0
+                     Aggressor: 2
+                        Monkey: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Spock Aggressor
+Spock: Monkey StraightShooter Aggressor
+Aggressor: Monkey StraightShooter Spock
+Monkey: Aggressor StraightShooter Spock
+Generated: 2014/08/12 08:06:39.976057121 UTC

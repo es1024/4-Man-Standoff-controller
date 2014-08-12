@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Ninja Scared
+      PoliticallyCorrectGunman: Sd,N,P,Sa
+                      Zaenille: Sb,N,N,N
+                         Ninja: Da,Dc,Db,Dd
+                        Scared: Sa,N,Sc,N
+Final Health:
+      PoliticallyCorrectGunman: -8
+                      Zaenille: -2
+                         Ninja: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Ninja Scared
+Zaenille: PoliticallyCorrectGunman Ninja Scared
+Ninja: PoliticallyCorrectGunman Zaenille Scared
+Scared: PoliticallyCorrectGunman Zaenille Ninja
+Generated: 2014/08/12 06:23:04.217399605 UTC

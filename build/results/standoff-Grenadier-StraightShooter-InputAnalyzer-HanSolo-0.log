@@ -1,16 +1,16 @@
 Standoff between: Grenadier StraightShooter InputAnalyzer HanSolo
-                     Grenadier: P,Tb
-               StraightShooter: Sc,N
-                 InputAnalyzer: Da,Dd
-                       HanSolo: Sa,N
+                     Grenadier: N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+                 InputAnalyzer: Da,Dd,Dc,Db,P,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sb
 Final Health:
-                     Grenadier: 0
-               StraightShooter: -3
-                 InputAnalyzer: 0
+                     Grenadier: -4
+               StraightShooter: 0
+                 InputAnalyzer: -7
                        HanSolo: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: StraightShooter InputAnalyzer HanSolo
 StraightShooter: Grenadier InputAnalyzer HanSolo
 InputAnalyzer: Grenadier StraightShooter HanSolo
 HanSolo: Grenadier StraightShooter InputAnalyzer
-Generated: 2014/08/11 00:59:58.067920847 UTC
+Generated: 2014/08/12 09:14:40.189947474 UTC

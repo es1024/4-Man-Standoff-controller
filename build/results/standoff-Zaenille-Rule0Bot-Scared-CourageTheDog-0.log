@@ -1,0 +1,16 @@
+Standoff between: Zaenille Rule0Bot Scared CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Sc,N,Db,Sc,N,Sb,N,Db,Sc,N,Db,Sb
+Final Health:
+                      Zaenille: -4
+                      Rule0Bot: -1
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Rule0Bot Scared CourageTheDog
+Rule0Bot: Zaenille Scared CourageTheDog
+Scared: Zaenille Rule0Bot CourageTheDog
+CourageTheDog: Zaenille Rule0Bot Scared
+Generated: 2014/08/12 07:36:29.891736224 UTC

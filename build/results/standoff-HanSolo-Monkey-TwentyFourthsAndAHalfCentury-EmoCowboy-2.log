@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+                       HanSolo: Sd,N,Sb,N,Sc,N,Sc,N,Sc
+                        Monkey: N,Sd,N,Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Da,Db,Sa,N,Sa,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy Monkey TwentyFourthsAndAHalfCentury
+Monkey: EmoCowboy HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy HanSolo Monkey
+EmoCowboy: TwentyFourthsAndAHalfCentury HanSolo Monkey
+Generated: 2014/08/12 07:49:30.055958588 UTC

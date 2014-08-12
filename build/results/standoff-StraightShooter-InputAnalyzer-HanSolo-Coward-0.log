@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer HanSolo Coward
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N
+                 InputAnalyzer: Da,Db,Db,Sd,N,P,N,N
+                       HanSolo: Sa,N,Sa,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sb,N,Sb,N
+Final Health:
+               StraightShooter: -2
+                 InputAnalyzer: -5
+                       HanSolo: -3
+                        Coward: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer HanSolo Coward
+InputAnalyzer: StraightShooter HanSolo Coward
+HanSolo: StraightShooter InputAnalyzer Coward
+Coward: StraightShooter InputAnalyzer HanSolo
+Generated: 2014/08/12 06:20:08.386640650 UTC

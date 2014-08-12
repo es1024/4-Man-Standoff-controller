@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey AntiGrenadier CourageTheDog
+                         Spock: Sc,N,Sc,N,Sc,N,Sb,N,N,N,N,N,N,N,N,Sb,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Monkey: N,N,N,Db,Da,Sc,N,N,N,N,N,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Da,Sb,N,Db,Da,Da,Db,Da,Db,Db,Db,Da,Sb,N,Da,Da,Da,Sa,N,Da,Da,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                        Monkey: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier CourageTheDog Monkey
+Monkey: AntiGrenadier CourageTheDog Spock
+AntiGrenadier: Monkey CourageTheDog Spock
+CourageTheDog: Monkey AntiGrenadier Spock
+Generated: 2014/08/12 07:49:17.200544407 UTC

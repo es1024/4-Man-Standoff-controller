@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N
+                 CourageTheDog: Sc,N,Da,Sc,N,Dc,Da,Da,Da,Sa,N,N,Sa,N,Dc,Dc,Sc
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: CourageTheDog StraightShooter Sniper
+Sniper: CourageTheDog StraightShooter TwentyFourthsAndAHalfCentury
+CourageTheDog: Sniper StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:47:26.442199018 UTC

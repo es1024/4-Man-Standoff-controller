@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Aggressor EmoCowboy
+                 SimpleShooter: Sc,N
+                        Coward: Sc,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sd,N
+Final Health:
+                 SimpleShooter: -3
+                        Coward: 2
+                     Aggressor: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Coward Aggressor
+Coward: EmoCowboy SimpleShooter Aggressor
+Aggressor: EmoCowboy SimpleShooter Coward
+EmoCowboy: Aggressor SimpleShooter Coward
+Generated: 2014/08/12 06:59:34.166393422 UTC

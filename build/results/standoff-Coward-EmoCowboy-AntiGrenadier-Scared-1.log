@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy AntiGrenadier Scared
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,Sc,N,Sa,N,N,N,N
+Final Health:
+                        Coward: 3
+                     EmoCowboy: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier Scared EmoCowboy
+EmoCowboy: AntiGrenadier Scared Coward
+AntiGrenadier: EmoCowboy Scared Coward
+Scared: EmoCowboy AntiGrenadier Coward
+Generated: 2014/08/12 09:13:54.145593040 UTC

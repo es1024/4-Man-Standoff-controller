@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sa,N,Sc,N,Sd,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Scared Richochet
+Richochet: Rule0Bot Scared Pacifist
+Rule0Bot: Richochet Scared Pacifist
+Scared: Richochet Rule0Bot Pacifist
+Generated: 2014/08/12 08:41:28.748401669 UTC

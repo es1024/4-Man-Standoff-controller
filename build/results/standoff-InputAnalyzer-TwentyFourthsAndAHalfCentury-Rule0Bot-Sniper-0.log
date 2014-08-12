@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot Sniper
+                 InputAnalyzer: Db,Dd,Db,Sd,N,Db,P,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Dd,Dc,Dc,Dc,Dd,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sa,N,Sa,N
+Final Health:
+                 InputAnalyzer: -7
+  TwentyFourthsAndAHalfCentury: 2
+                      Rule0Bot: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Rule0Bot Sniper
+TwentyFourthsAndAHalfCentury: InputAnalyzer Rule0Bot Sniper
+Rule0Bot: InputAnalyzer TwentyFourthsAndAHalfCentury Sniper
+Sniper: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot
+Generated: 2014/08/12 08:24:46.857544734 UTC

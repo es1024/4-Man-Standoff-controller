@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille TwentyFourthsAndAHalfCentury Neo
+                     Richochet: Sc,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dd,Dd,Dd,Dd,Dd,Da,Dd,Dd,N,N
+                           Neo: N,N,N,Dc,N,Dc,N,Dc,N,Dc,Da,N,N
+Final Health:
+                     Richochet: 5
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Neo Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo Richochet Zaenille
+Neo: TwentyFourthsAndAHalfCentury Richochet Zaenille
+Generated: 2014/08/12 06:22:28.331960710 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey Rule0Bot CourageTheDog
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,N,Da,Sc,N,Dc,Da,Da,Dc,Sc,N,Dc,Sa,N,N
+Final Health:
+                        Coward: 3
+                        Monkey: -1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot CourageTheDog Monkey
+Monkey: Rule0Bot CourageTheDog Coward
+Rule0Bot: Monkey CourageTheDog Coward
+CourageTheDog: Monkey Rule0Bot Coward
+Generated: 2014/08/12 06:12:00.498515028 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Zaenille Bomberman
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sb,N,Sd
+                     Richochet: Sc,N,Sd,N,Sa,N,Sa,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                     Richochet: -1
+                      Zaenille: -4
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille Bomberman Richochet
+Richochet: Zaenille Bomberman SimpleShooter
+Zaenille: Richochet Bomberman SimpleShooter
+Bomberman: Richochet Zaenille SimpleShooter
+Generated: 2014/08/12 06:45:28.158361767 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Rule0Bot Scared CourageTheDog
+      PoliticallyCorrectGunman: P,Tc
+                      Rule0Bot: N,Sa
+                        Scared: Sb,N
+                 CourageTheDog: Sb,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                      Rule0Bot: -2
+                        Scared: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Scared CourageTheDog
+Rule0Bot: PoliticallyCorrectGunman Scared CourageTheDog
+Scared: PoliticallyCorrectGunman Rule0Bot CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman Rule0Bot Scared
+Generated: 2014/08/12 08:49:45.313917967 UTC

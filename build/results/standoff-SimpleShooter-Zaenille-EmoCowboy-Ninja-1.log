@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille EmoCowboy Ninja
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Db,Dc,Dd,Db,Da,Dd,Db
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -4
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Ninja Zaenille
+Zaenille: EmoCowboy Ninja SimpleShooter
+EmoCowboy: Zaenille Ninja SimpleShooter
+Ninja: Zaenille EmoCowboy SimpleShooter
+Generated: 2014/08/12 05:57:21.954771047 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Bomberman Neo
+      PoliticallyCorrectGunman: P,Tb,Dc,N,N,N,N,N,N,N,Dd,N,Sb,N,Sc,N,N,N,N,N,N,N,Sa
+                     Richochet: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,N,N,N,N,N,N,N,Da,Da,N,N,Dc,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Richochet: -3
+                     Bomberman: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Richochet Bomberman
+Richochet: Neo PoliticallyCorrectGunman Bomberman
+Bomberman: Neo PoliticallyCorrectGunman Richochet
+Neo: Bomberman PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 07:59:13.237917912 UTC

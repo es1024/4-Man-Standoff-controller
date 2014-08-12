@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Neo CourageTheDog
+      PoliticallyCorrectGunman: Dd,Sb,N,Sd,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Dd,Sd
+                           Neo: N,Da,Dd,N,N,Dd,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Db,Db,Db,Dc,Sb,N,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: -1
+                           Neo: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo CourageTheDog Coward
+Coward: Neo CourageTheDog PoliticallyCorrectGunman
+Neo: Coward CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Coward Neo PoliticallyCorrectGunman
+Generated: 2014/08/12 07:12:18.149220034 UTC

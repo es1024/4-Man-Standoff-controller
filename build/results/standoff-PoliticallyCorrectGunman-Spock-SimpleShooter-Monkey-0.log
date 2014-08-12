@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock SimpleShooter Monkey
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N
+                         Spock: Sa,N,Sd,N,N,N,Sa
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sb
+                        Monkey: N,N,N,Sb,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                         Spock: -1
+                 SimpleShooter: 5
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock SimpleShooter Monkey
+Spock: PoliticallyCorrectGunman SimpleShooter Monkey
+SimpleShooter: PoliticallyCorrectGunman Spock Monkey
+Monkey: PoliticallyCorrectGunman Spock SimpleShooter
+Generated: 2014/08/12 09:28:39.822258267 UTC

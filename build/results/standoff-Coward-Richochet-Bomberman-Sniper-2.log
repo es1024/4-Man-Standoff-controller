@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Bomberman Sniper
+                        Coward: Sc,N,Sc,N,N,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: 5
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Sniper Richochet Bomberman
+Richochet: Sniper Coward Bomberman
+Bomberman: Sniper Coward Richochet
+Sniper: Bomberman Coward Richochet
+Generated: 2014/08/12 08:21:16.395046879 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Spock Coward
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+      PoliticallyCorrectGunman: N,Sd,N,Dc,Sb,N,N
+                         Spock: Sa,N,Sa,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sb,N,Sa
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -4
+                         Spock: -3
+                        Coward: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Spock Coward
+PoliticallyCorrectGunman: StraightShooter Spock Coward
+Spock: StraightShooter PoliticallyCorrectGunman Coward
+Coward: StraightShooter PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 07:37:38.739383424 UTC

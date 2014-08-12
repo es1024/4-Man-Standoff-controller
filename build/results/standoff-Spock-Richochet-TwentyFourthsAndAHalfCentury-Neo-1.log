@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet TwentyFourthsAndAHalfCentury Neo
+                         Spock: N,N,N,Sc,N,Sc,N,Sc,N,Sd,N,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: N,Dd,N,Dd,Db,Da,Dd,Dd,N,N,N,N,N,N,N
+                           Neo: N,N,N,Da,N,N,N,Da,N,Da,Db,Sb,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: TwentyFourthsAndAHalfCentury Neo Richochet
+Richochet: TwentyFourthsAndAHalfCentury Neo Spock
+TwentyFourthsAndAHalfCentury: Richochet Neo Spock
+Neo: Richochet TwentyFourthsAndAHalfCentury Spock
+Generated: 2014/08/12 08:05:33.409026357 UTC

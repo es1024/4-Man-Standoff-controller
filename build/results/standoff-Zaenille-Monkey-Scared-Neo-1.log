@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey Scared Neo
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,Sd,N,N,N,Dc,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,Sd,N,Sb,N,Sd,N,Sd,N,Sd,N,N,Sd,N,N,N,Sb,N,Sd,N,Sb
+                           Neo: N,N,Db,Dc,Db,Dc,N,Dc,N,Dc,Db,N,N,N,Dc,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+                        Monkey: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Scared Neo Monkey
+Monkey: Scared Neo Zaenille
+Scared: Monkey Neo Zaenille
+Neo: Monkey Scared Zaenille
+Generated: 2014/08/12 10:15:57.558005197 UTC

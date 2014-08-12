@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Monkey Neo
+                       HanSolo: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Sc
+                        Monkey: N,Sa,N,Sa,N,N,N,Sd,N,Db,Db,Sd,N
+                           Neo: N,N,Da,Dc,N,Dc,Dc,Dc,Db,Dc,Dc,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 5
+                        Monkey: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Neo Coward
+Coward: Monkey Neo HanSolo
+Monkey: Coward Neo HanSolo
+Neo: Coward Monkey HanSolo
+Generated: 2014/08/12 05:44:26.385175327 UTC

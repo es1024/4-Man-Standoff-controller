@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman Sniper CourageTheDog
+                        Coward: Sd,N,Sd,N,Dc,Dd,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sb,N,Dc,Da,Dc,Dc,Sc,N,Sb,N,Db,Db,Db,Db,Db,Db,Sc,N,Db,Db,N,Db,Db,Sb
+Final Health:
+                        Coward: -1
+                     Bomberman: -1
+                        Sniper: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Bomberman Sniper CourageTheDog
+Bomberman: Coward Sniper CourageTheDog
+Sniper: Coward Bomberman CourageTheDog
+CourageTheDog: Coward Bomberman Sniper
+Generated: 2014/08/12 08:07:28.519329803 UTC

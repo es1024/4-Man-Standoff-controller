@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock SimpleShooter Bomberman
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sb,N,Sb
+                         Spock: Sc,N,N,N,N,N,Sd,N,Sa,N,Sa
+                 SimpleShooter: Sa,N,Sd,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: 1
+                 SimpleShooter: -1
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Bomberman Spock
+Spock: SimpleShooter Bomberman HanSolo
+SimpleShooter: Spock Bomberman HanSolo
+Bomberman: Spock SimpleShooter HanSolo
+Generated: 2014/08/12 06:46:13.781760592 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist HanSolo Richochet
+                     Grenadier: N,P,N,N
+                      Pacifist: N,N,N,N
+                       HanSolo: Sd,N,Sd,N
+                     Richochet: Sc,N,Sb,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: 0
+                       HanSolo: 0
+                     Richochet: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Pacifist HanSolo
+Pacifist: Richochet Grenadier HanSolo
+HanSolo: Richochet Grenadier Pacifist
+Richochet: HanSolo Grenadier Pacifist
+Generated: 2014/08/12 05:57:44.056093877 UTC

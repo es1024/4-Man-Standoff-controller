@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Monkey Rule0Bot
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Sc,N,P,N,Tb
+                         Spock: N,N,N,N,N,N,Sa,N,Sa,N,Sa
+                        Monkey: N,N,N,N,N,N,N,Sc,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                         Spock: -3
+                        Monkey: -2
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Monkey Rule0Bot
+Spock: PoliticallyCorrectGunman Monkey Rule0Bot
+Monkey: PoliticallyCorrectGunman Spock Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman Spock Monkey
+Generated: 2014/08/12 08:14:44.417887549 UTC

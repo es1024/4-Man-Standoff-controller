@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Zaenille EmoCowboy
+                 DONTNUKEMEBRO: Dd,Dd,Dc,Db,Sb,N,Sb
+                 SimpleShooter: Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 1
+                      Zaenille: -2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Zaenille EmoCowboy
+SimpleShooter: DONTNUKEMEBRO Zaenille EmoCowboy
+Zaenille: DONTNUKEMEBRO SimpleShooter EmoCowboy
+EmoCowboy: DONTNUKEMEBRO SimpleShooter Zaenille
+Generated: 2014/08/12 09:34:44.735521870 UTC

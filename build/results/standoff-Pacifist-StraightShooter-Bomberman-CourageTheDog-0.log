@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Bomberman CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Da,Db,Db,Db,Da,Sb,N,Sb,N,Db,Db,Sa,N,Db,Db,Da,Db,Db,Sa,N,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Bomberman CourageTheDog
+StraightShooter: Pacifist Bomberman CourageTheDog
+Bomberman: Pacifist StraightShooter CourageTheDog
+CourageTheDog: Pacifist StraightShooter Bomberman
+Generated: 2014/08/12 09:46:24.416866841 UTC

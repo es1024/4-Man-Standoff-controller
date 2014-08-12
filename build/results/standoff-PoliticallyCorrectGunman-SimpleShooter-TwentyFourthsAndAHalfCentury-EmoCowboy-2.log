@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy
+      PoliticallyCorrectGunman: N,Sa,N,N,N
+                 SimpleShooter: Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,Da,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: EmoCowboy PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy PoliticallyCorrectGunman SimpleShooter
+EmoCowboy: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 05:59:46.882869426 UTC

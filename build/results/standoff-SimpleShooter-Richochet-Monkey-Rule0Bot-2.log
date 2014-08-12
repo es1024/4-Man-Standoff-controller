@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Monkey Rule0Bot
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sd,N,Sb
+                     Richochet: Sc,N,Sa,N,Sa,N,Sc,N,Sa
+                        Monkey: N,N,N,Sb,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                        Monkey: -1
+                      Rule0Bot: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Richochet Monkey
+Richochet: Rule0Bot SimpleShooter Monkey
+Monkey: Rule0Bot SimpleShooter Richochet
+Rule0Bot: Monkey SimpleShooter Richochet
+Generated: 2014/08/12 05:44:01.617719995 UTC

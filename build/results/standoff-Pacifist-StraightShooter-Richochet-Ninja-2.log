@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Richochet Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+                     Richochet: Sd,N,Sb,N,Sa,N,Sb,N,Sd,N,Sd,N,Sb
+                         Ninja: Db,Db,Db,Dc,Dc,Dd,Dd,Dd,Dd,Dd,Dd,N,N
+Final Health:
+                      Pacifist: -3
+               StraightShooter: -1
+                     Richochet: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja StraightShooter Richochet
+StraightShooter: Ninja Pacifist Richochet
+Richochet: Ninja Pacifist StraightShooter
+Ninja: Richochet Pacifist StraightShooter
+Generated: 2014/08/12 08:56:37.324891050 UTC

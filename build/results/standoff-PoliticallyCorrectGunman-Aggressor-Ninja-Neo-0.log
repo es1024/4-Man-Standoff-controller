@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Ninja Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N
+                     Aggressor: P,Ta,Sc,N,Sc,N,Sd
+                         Ninja: Dc,Da,Db,Dc,Dd,N,N
+                           Neo: N,Dc,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                     Aggressor: 2
+                         Ninja: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Ninja Neo
+Aggressor: PoliticallyCorrectGunman Ninja Neo
+Ninja: PoliticallyCorrectGunman Aggressor Neo
+Neo: PoliticallyCorrectGunman Aggressor Ninja
+Generated: 2014/08/12 07:40:15.255481585 UTC

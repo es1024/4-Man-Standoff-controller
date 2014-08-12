@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Zaenille Neo
+                 SimpleShooter: Sd,N,Sb,N,Sb,N
+                     Richochet: Sd,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N
+                           Neo: N,N,N,Sa,N,Sb
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                      Zaenille: -2
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Zaenille Neo
+Richochet: SimpleShooter Zaenille Neo
+Zaenille: SimpleShooter Richochet Neo
+Neo: SimpleShooter Richochet Zaenille
+Generated: 2014/08/12 10:31:06.327885500 UTC

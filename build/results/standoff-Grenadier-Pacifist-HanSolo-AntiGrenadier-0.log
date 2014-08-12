@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist HanSolo AntiGrenadier
+                     Grenadier: P,Tb,N
+                      Pacifist: N,N,N
+                       HanSolo: Sa,N,Sd
+                 AntiGrenadier: N,Sa,N
+Final Health:
+                     Grenadier: -2
+                      Pacifist: -3
+                       HanSolo: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist HanSolo AntiGrenadier
+Pacifist: Grenadier HanSolo AntiGrenadier
+HanSolo: Grenadier Pacifist AntiGrenadier
+AntiGrenadier: Grenadier Pacifist HanSolo
+Generated: 2014/08/12 05:43:37.102392981 UTC

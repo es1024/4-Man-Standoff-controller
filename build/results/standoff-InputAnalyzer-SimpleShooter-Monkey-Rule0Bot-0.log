@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Monkey Rule0Bot
+                 InputAnalyzer: Db,Dc,Db,Dd,Db,Sc,N,Sa,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sa,N,Sd,N,Sd,N,Sc
+                        Monkey: N,N,N,Db,Dd,N,N,N,Sa,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                 SimpleShooter: 5
+                        Monkey: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Monkey Rule0Bot
+SimpleShooter: InputAnalyzer Monkey Rule0Bot
+Monkey: InputAnalyzer SimpleShooter Rule0Bot
+Rule0Bot: InputAnalyzer SimpleShooter Monkey
+Generated: 2014/08/12 09:42:19.761169421 UTC

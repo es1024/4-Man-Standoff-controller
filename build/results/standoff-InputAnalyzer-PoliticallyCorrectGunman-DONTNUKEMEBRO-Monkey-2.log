@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman DONTNUKEMEBRO Monkey
+                 InputAnalyzer: Dd,Sc,N,Dc,Da,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,Dd,N,Da,P,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Da,Da,Sa,N,Db,Db,Da,Da,Dd,Dd,Sb,N,Dd,Db,Dd,Da,Da,Db,Da,Db,Dd,Db,Da,Db,Da,Dd,Db,Db,Dd,Db,Dd,Dd,Db,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Monkey: N,Dd,Dd,N,N,N,N,Sa,N,N,Dd,N,N,N,Dd,N,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,N,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -1
+                 DONTNUKEMEBRO: -18
+                        Monkey: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey PoliticallyCorrectGunman DONTNUKEMEBRO
+PoliticallyCorrectGunman: Monkey InputAnalyzer DONTNUKEMEBRO
+DONTNUKEMEBRO: Monkey InputAnalyzer PoliticallyCorrectGunman
+Monkey: DONTNUKEMEBRO InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 10:29:13.217267361 UTC

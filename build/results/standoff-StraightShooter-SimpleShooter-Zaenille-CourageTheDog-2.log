@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Zaenille CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                 SimpleShooter: Sc,N,Sa,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Sa,N,Da,Da,Sa
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: -1
+                      Zaenille: -6
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog SimpleShooter Zaenille
+SimpleShooter: CourageTheDog StraightShooter Zaenille
+Zaenille: CourageTheDog StraightShooter SimpleShooter
+CourageTheDog: Zaenille StraightShooter SimpleShooter
+Generated: 2014/08/12 08:32:54.931699312 UTC

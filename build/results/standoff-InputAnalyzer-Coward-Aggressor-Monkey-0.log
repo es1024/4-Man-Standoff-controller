@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Aggressor Monkey
+                 InputAnalyzer: Db,Dc
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                        Monkey: N,P
+Final Health:
+                 InputAnalyzer: -6
+                        Coward: -1
+                     Aggressor: -1
+                        Monkey: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Aggressor Monkey
+Coward: InputAnalyzer Aggressor Monkey
+Aggressor: InputAnalyzer Coward Monkey
+Monkey: InputAnalyzer Coward Aggressor
+Generated: 2014/08/12 09:27:16.964432199 UTC

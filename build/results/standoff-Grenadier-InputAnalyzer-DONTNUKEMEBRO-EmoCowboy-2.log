@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer DONTNUKEMEBRO EmoCowboy
+                     Grenadier: P,Tb
+                 InputAnalyzer: Dd,Dc
+                 DONTNUKEMEBRO: Db,Sa
+                     EmoCowboy: Sd,N
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: EmoCowboy Grenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: EmoCowboy Grenadier InputAnalyzer
+EmoCowboy: DONTNUKEMEBRO Grenadier InputAnalyzer
+Generated: 2014/08/12 06:44:05.885800236 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Zaenille TwentyFourthsAndAHalfCentury
+                        Coward: Sc,N,Sb,N,Sb,N,Sb,N,Sd,N
+                     Richochet: Sc,N,Sd,N,Sd,N,Sa,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,Da,N,Db,N,Da,Sa,N,Sa
+Final Health:
+                        Coward: -1
+                     Richochet: -1
+                      Zaenille: -6
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: TwentyFourthsAndAHalfCentury Richochet Zaenille
+Richochet: TwentyFourthsAndAHalfCentury Coward Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Coward Richochet
+TwentyFourthsAndAHalfCentury: Zaenille Coward Richochet
+Generated: 2014/08/12 08:23:58.968434965 UTC

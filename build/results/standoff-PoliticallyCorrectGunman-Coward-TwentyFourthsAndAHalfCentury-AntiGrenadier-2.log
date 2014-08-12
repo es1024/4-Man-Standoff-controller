@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury AntiGrenadier
+      PoliticallyCorrectGunman: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,Dd,N,N,N,N,N,N,N,N,N,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Coward TwentyFourthsAndAHalfCentury
+Coward: AntiGrenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier PoliticallyCorrectGunman Coward
+AntiGrenadier: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 06:45:27.585729866 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer EmoCowboy Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N
+                 InputAnalyzer: Dc,Sa,N,P,N,Dc
+                     EmoCowboy: N,N,N,N,Sc,N
+                         Ninja: Db,Dc,Dd,Db,Dc,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy Ninja InputAnalyzer
+InputAnalyzer: EmoCowboy Ninja StraightShooter
+EmoCowboy: InputAnalyzer Ninja StraightShooter
+Ninja: InputAnalyzer EmoCowboy StraightShooter
+Generated: 2014/08/12 09:35:32.619716463 UTC

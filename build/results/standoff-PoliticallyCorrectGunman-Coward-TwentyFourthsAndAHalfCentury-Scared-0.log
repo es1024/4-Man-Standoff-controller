@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury Scared
+      PoliticallyCorrectGunman: Sb,N,Sc,N,Sc,N,N,Dc,N,N
+                        Coward: Sd,N,Sd,N,Dd,Dd,Dd,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: Db,N,Dd,N,Dd,Db,Da,Da,Sa,N
+                        Scared: Sb,N,Sa,N,Sc,N,Sa,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: 1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward TwentyFourthsAndAHalfCentury Scared
+Coward: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Coward Scared
+Scared: PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:33:23.188016694 UTC

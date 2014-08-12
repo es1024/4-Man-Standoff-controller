@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Zaenille Ninja
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dd,Da,Db,Db,Da,Dc,Dc,Da,Da,Db,Da,Db,Dd,Da,Da,Db,Da,Da,Dd,Da,Db,Db,Dc,Dd,Db,Da,Dd,Db,Da,Dc,Dd,Da,Da,Db,Da,Da,Db,Dd,Da,Dc,Dd,Dc,Dc,Dd,Dc,Db,Da,Dd
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -18
+                      Zaenille: -4
+                         Ninja: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Zaenille Ninja
+StraightShooter: Grenadier Zaenille Ninja
+Zaenille: Grenadier StraightShooter Ninja
+Ninja: Grenadier StraightShooter Zaenille
+Generated: 2014/08/12 09:17:11.477410345 UTC

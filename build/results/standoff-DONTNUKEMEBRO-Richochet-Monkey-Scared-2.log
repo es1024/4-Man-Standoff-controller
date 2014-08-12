@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Richochet Monkey Scared
+                 DONTNUKEMEBRO: Dd,Dd,Db,Dd,Sb,N,Sb,N,Db,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sc,N,Sa,N,Sd,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,Sa,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,Sa,N,Sc,N,Sb,N,Sc
+Final Health:
+                 DONTNUKEMEBRO: -1
+                     Richochet: -1
+                        Monkey: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Scared Richochet Monkey
+Richochet: Scared DONTNUKEMEBRO Monkey
+Monkey: Scared DONTNUKEMEBRO Richochet
+Scared: Monkey DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 06:23:07.718304721 UTC

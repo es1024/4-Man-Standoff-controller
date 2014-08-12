@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Coward AntiGrenadier
+      PoliticallyCorrectGunman: Db,N,Sa,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd
+                        Coward: Sa,N,Sa,N,Sd,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                       HanSolo: 5
+                        Coward: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward AntiGrenadier HanSolo
+HanSolo: Coward AntiGrenadier PoliticallyCorrectGunman
+Coward: HanSolo AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: HanSolo Coward PoliticallyCorrectGunman
+Generated: 2014/08/12 09:51:40.045077495 UTC

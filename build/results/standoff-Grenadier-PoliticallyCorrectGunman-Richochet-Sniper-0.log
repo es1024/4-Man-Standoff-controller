@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Richochet Sniper
+                     Grenadier: N,N,N,N,P,Tc
+      PoliticallyCorrectGunman: N,N,N,P,Dd,Sb
+                     Richochet: Sb,N,Sd,N,Sb,N
+                        Sniper: Sa,N,Sc,N,Sb,N
+Final Health:
+                     Grenadier: -3
+      PoliticallyCorrectGunman: -11
+                     Richochet: -8
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Richochet Sniper
+PoliticallyCorrectGunman: Grenadier Richochet Sniper
+Richochet: Grenadier PoliticallyCorrectGunman Sniper
+Sniper: Grenadier PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 08:11:13.366379969 UTC

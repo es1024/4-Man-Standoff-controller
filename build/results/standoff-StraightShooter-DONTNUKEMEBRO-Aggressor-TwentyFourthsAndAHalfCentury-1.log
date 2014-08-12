@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Aggressor TwentyFourthsAndAHalfCentury
+               StraightShooter: Sd,N,Sd
+                 DONTNUKEMEBRO: Dc,Sc,N
+                     Aggressor: P,Tb,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Sa
+Final Health:
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor TwentyFourthsAndAHalfCentury StraightShooter
+Aggressor: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury StraightShooter
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO Aggressor StraightShooter
+Generated: 2014/08/12 06:06:46.273541932 UTC

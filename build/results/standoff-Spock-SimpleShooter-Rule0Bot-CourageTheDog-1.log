@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Rule0Bot CourageTheDog
+                         Spock: N,N,N,N,N,N,N,Sc,N,Sd,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sa,N,Sd,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Db,Da,N,Dc,Sc,N,Sb,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot CourageTheDog SimpleShooter
+SimpleShooter: Rule0Bot CourageTheDog Spock
+Rule0Bot: SimpleShooter CourageTheDog Spock
+CourageTheDog: SimpleShooter Rule0Bot Spock
+Generated: 2014/08/12 10:09:42.267697717 UTC

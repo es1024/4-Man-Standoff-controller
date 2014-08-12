@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Monkey TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Richochet: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,Sb,N,N,Dc,Dc,Dc,Da,Da,Da,N,Sb,N,Da,N,Sb,N,Da,N,N,Dc,Sb,N,N,N,Da,N,Sb,N,N,N,Da,N,N,N,Sb,N,N,Dc,Dc
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Db,Dc,Da,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Dc,Dc,Dc,Da,Dc,Dc,Dc,Dc,Dc,Da,Dc,Dc,Dc,Da,Dc,Da,Dc,Dc,Dc,N,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,Dc,Dc,Da,Dc,Dc,Dc
+Final Health:
+               StraightShooter: -19
+                     Richochet: -1
+                        Monkey: -15
+  TwentyFourthsAndAHalfCentury: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Richochet Monkey
+Richochet: TwentyFourthsAndAHalfCentury StraightShooter Monkey
+Monkey: TwentyFourthsAndAHalfCentury StraightShooter Richochet
+TwentyFourthsAndAHalfCentury: Monkey StraightShooter Richochet
+Generated: 2014/08/12 05:47:11.702061267 UTC

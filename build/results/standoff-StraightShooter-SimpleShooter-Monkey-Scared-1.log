@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Monkey Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sa,N,Sc,N,Sa
+                        Monkey: N,Sd,N,N,N,Sc,N
+                        Scared: Sc,N,Sb,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 3
+                        Monkey: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Scared SimpleShooter
+SimpleShooter: Monkey Scared StraightShooter
+Monkey: SimpleShooter Scared StraightShooter
+Scared: SimpleShooter Monkey StraightShooter
+Generated: 2014/08/12 08:36:18.918210439 UTC

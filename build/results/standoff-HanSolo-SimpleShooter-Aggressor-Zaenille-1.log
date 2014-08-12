@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Aggressor Zaenille
+                       HanSolo: Sc,N
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+                      Zaenille: Sd,N
+Final Health:
+                       HanSolo: 0
+                 SimpleShooter: -3
+                     Aggressor: 0
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Zaenille SimpleShooter
+SimpleShooter: Aggressor Zaenille HanSolo
+Aggressor: SimpleShooter Zaenille HanSolo
+Zaenille: SimpleShooter Aggressor HanSolo
+Generated: 2014/08/12 06:57:18.491460038 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Spock Neo
+                 InputAnalyzer: Dc,Dd,P,Dc,N
+      PoliticallyCorrectGunman: N,Sc,N,N,P
+                         Spock: Sb,N,Sb,N,Sb
+                           Neo: N,Da,Da,N,N
+Final Health:
+                 InputAnalyzer: -4
+      PoliticallyCorrectGunman: -10
+                         Spock: -3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Spock Neo InputAnalyzer
+Spock: PoliticallyCorrectGunman Neo InputAnalyzer
+Neo: PoliticallyCorrectGunman Spock InputAnalyzer
+Generated: 2014/08/12 06:36:48.766201407 UTC

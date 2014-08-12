@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Coward Richochet
+                     Grenadier: N,N,N,N,P,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Dd,N,N
+                     Richochet: Sa,N,Sa,N,Sb,N,Sa
+Final Health:
+                     Grenadier: -7
+               StraightShooter: 0
+                        Coward: -1
+                     Richochet: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Coward Richochet
+StraightShooter: Grenadier Coward Richochet
+Coward: Grenadier StraightShooter Richochet
+Richochet: Grenadier StraightShooter Coward
+Generated: 2014/08/12 07:04:53.199618016 UTC

@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Dd,Dc,Sd,N,Sc,N,Sc
+                        Sniper: Sd,N,N,N,N,Sd,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Sc,N,N,N,N
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Sniper CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper CourageTheDog Zaenille
+Sniper: TwentyFourthsAndAHalfCentury CourageTheDog Zaenille
+CourageTheDog: TwentyFourthsAndAHalfCentury Sniper Zaenille
+Generated: 2014/08/12 08:53:01.209108544 UTC

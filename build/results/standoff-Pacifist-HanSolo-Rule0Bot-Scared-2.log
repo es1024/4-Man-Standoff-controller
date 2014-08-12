@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 3
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared HanSolo Rule0Bot
+HanSolo: Scared Pacifist Rule0Bot
+Rule0Bot: Scared Pacifist HanSolo
+Scared: Rule0Bot Pacifist HanSolo
+Generated: 2014/08/12 08:23:59.121342327 UTC

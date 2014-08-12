@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Aggressor Bomberman
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Dd,Dc,P,Sb
+                     Aggressor: P,Td,Sa,N
+                     Bomberman: N,N,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -8
+                     Aggressor: -1
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman InputAnalyzer Aggressor
+InputAnalyzer: Bomberman Pacifist Aggressor
+Aggressor: Bomberman Pacifist InputAnalyzer
+Bomberman: Aggressor Pacifist InputAnalyzer
+Generated: 2014/08/12 10:07:07.701493064 UTC

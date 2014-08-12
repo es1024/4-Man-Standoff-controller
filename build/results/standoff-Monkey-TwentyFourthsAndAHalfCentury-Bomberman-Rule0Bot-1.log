@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+                        Monkey: N,Da,N,Sc,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Sc,N,Sd,N,Sd,N,Sc,N,N,N,N,N,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Bomberman Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Rule0Bot Monkey
+Bomberman: TwentyFourthsAndAHalfCentury Rule0Bot Monkey
+Rule0Bot: TwentyFourthsAndAHalfCentury Bomberman Monkey
+Generated: 2014/08/12 09:52:26.248998503 UTC

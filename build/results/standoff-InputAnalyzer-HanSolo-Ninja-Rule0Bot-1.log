@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Ninja Rule0Bot
+                 InputAnalyzer: Dc,Db,Sc,N,P,Db,N
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd
+                         Ninja: Dc,Dc,Dc,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 2
+                         Ninja: -1
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Rule0Bot HanSolo
+HanSolo: Ninja Rule0Bot InputAnalyzer
+Ninja: HanSolo Rule0Bot InputAnalyzer
+Rule0Bot: HanSolo Ninja InputAnalyzer
+Generated: 2014/08/12 06:44:40.281520267 UTC

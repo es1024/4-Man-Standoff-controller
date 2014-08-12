@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Richochet EmoCowboy
+                 InputAnalyzer: Dd,Dc,Sd,N,Dc,Dd,Sc,N,Sc,N,P,Db,N
+                 DONTNUKEMEBRO: Dd,Da,Sc,N,Sc,N,Dd,Dc,Dc,Dc,Dc,Sa,N
+                     Richochet: Sb,N,Sb,N,Sa,N,Sa,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: -2
+                     Richochet: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy DONTNUKEMEBRO Richochet
+DONTNUKEMEBRO: EmoCowboy InputAnalyzer Richochet
+Richochet: EmoCowboy InputAnalyzer DONTNUKEMEBRO
+EmoCowboy: Richochet InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 05:46:24.751701114 UTC

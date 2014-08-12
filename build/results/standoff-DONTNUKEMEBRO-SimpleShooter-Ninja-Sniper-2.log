@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Ninja Sniper
+                 DONTNUKEMEBRO: Dc,Dc,Sd,N,Sd,N,N
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sc
+                         Ninja: Da,Da,Da,Dc,Dc,Dc,Dc
+                        Sniper: Sa,N,Sa,N,Sa,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 5
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Sniper SimpleShooter Ninja
+SimpleShooter: Sniper DONTNUKEMEBRO Ninja
+Ninja: Sniper DONTNUKEMEBRO SimpleShooter
+Sniper: Ninja DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 07:20:21.771325673 UTC

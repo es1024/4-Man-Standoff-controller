@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Bomberman CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sa,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Dc,N,Da,Da,Db,Db,Da,Sa,N,Da,Da,Db,Da,Da,Db,Db,Db,Db,Sb,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 3
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Bomberman CourageTheDog
+Richochet: Pacifist Bomberman CourageTheDog
+Bomberman: Pacifist Richochet CourageTheDog
+CourageTheDog: Pacifist Richochet Bomberman
+Generated: 2014/08/12 10:27:17.796463477 UTC

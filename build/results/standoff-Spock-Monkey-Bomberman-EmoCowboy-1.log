@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Bomberman EmoCowboy
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,Sc,N,N,Sc,N,Sc,N,N,Sc,N
+                        Monkey: N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -15
+                        Monkey: -15
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman EmoCowboy Monkey
+Monkey: Bomberman EmoCowboy Spock
+Bomberman: Monkey EmoCowboy Spock
+EmoCowboy: Monkey Bomberman Spock
+Generated: 2014/08/12 09:18:36.917218575 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Ninja Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sc,N,Sd,N,Sd,N,Sa,N,Sa,N,Sc,N,Sd,N,Sc,N,Sc
+                         Ninja: Dd,Dc,Dc,Db,Dc,Dc,Dd,Dc,Dc,Dd,Db,Da,Dd,Da,Da,Db,Dd,Dc,Db,Dd,Dc
+                           Neo: N,Da,Db,N,Db,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo Richochet Ninja
+Richochet: Neo Pacifist Ninja
+Ninja: Neo Pacifist Richochet
+Neo: Ninja Pacifist Richochet
+Generated: 2014/08/12 06:45:17.140677978 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury AntiGrenadier Neo
+                     Richochet: Sc,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb
+  TwentyFourthsAndAHalfCentury: N,N,Dd,Dc,Da,Dc,Dd,Dd,Dd,Dd,Da,Dd,Da,N,Da,N,N,N,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,Db,N,Db,N,N,N,Db,Db,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Neo Richochet AntiGrenadier
+AntiGrenadier: Neo Richochet TwentyFourthsAndAHalfCentury
+Neo: AntiGrenadier Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:36:57.714583855 UTC

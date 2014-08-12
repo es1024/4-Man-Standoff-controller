@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Ninja Scared
+                 DONTNUKEMEBRO: Dc,Db,Sd,N,Dd,Dc,Sd,N,Sb
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sa,N,Sc
+                         Ninja: Da,Da,Dd,Dd,Dd,Da,Dc,Dd,Dd
+                        Scared: Sa,N,Sb,N,Sa,N,Sb,N,N
+Final Health:
+                 DONTNUKEMEBRO: 1
+                 SimpleShooter: -1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Scared SimpleShooter Ninja
+SimpleShooter: Scared DONTNUKEMEBRO Ninja
+Ninja: Scared DONTNUKEMEBRO SimpleShooter
+Scared: Ninja DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 08:42:05.963278272 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet TwentyFourthsAndAHalfCentury AntiGrenadier
+                     Aggressor: P,Td
+                     Richochet: Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,N
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+  TwentyFourthsAndAHalfCentury: 0
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: AntiGrenadier Richochet TwentyFourthsAndAHalfCentury
+Richochet: AntiGrenadier Aggressor TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier Aggressor Richochet
+AntiGrenadier: TwentyFourthsAndAHalfCentury Aggressor Richochet
+Generated: 2014/08/12 09:44:29.284678299 UTC

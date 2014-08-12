@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman Rule0Bot Sniper
+                     Richochet: Sb,N,Sd,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: -1
+                     Bomberman: -17
+                      Rule0Bot: -17
+                        Sniper: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Sniper Bomberman Rule0Bot
+Bomberman: Sniper Richochet Rule0Bot
+Rule0Bot: Sniper Richochet Bomberman
+Sniper: Rule0Bot Richochet Bomberman
+Generated: 2014/08/12 09:06:58.915025994 UTC

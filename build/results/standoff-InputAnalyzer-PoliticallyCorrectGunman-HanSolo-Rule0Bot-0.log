@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo Rule0Bot
+                 InputAnalyzer: Db,P,Sd,N
+      PoliticallyCorrectGunman: Da,Sb,N,N
+                       HanSolo: Sa,N,Sa,N
+                      Rule0Bot: N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+      PoliticallyCorrectGunman: -2
+                       HanSolo: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman HanSolo Rule0Bot
+PoliticallyCorrectGunman: InputAnalyzer HanSolo Rule0Bot
+HanSolo: InputAnalyzer PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: InputAnalyzer PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 07:22:02.801271992 UTC

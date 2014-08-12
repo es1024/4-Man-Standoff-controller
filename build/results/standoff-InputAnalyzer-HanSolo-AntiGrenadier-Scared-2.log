@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo AntiGrenadier Scared
+                 InputAnalyzer: Dd,P,Sa
+                       HanSolo: Sd,N,Sd
+                 AntiGrenadier: N,N,Sa
+                        Scared: Sb,N,Sa
+Final Health:
+                 InputAnalyzer: -12
+                       HanSolo: 0
+                 AntiGrenadier: 2
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared HanSolo AntiGrenadier
+HanSolo: Scared InputAnalyzer AntiGrenadier
+AntiGrenadier: Scared InputAnalyzer HanSolo
+Scared: AntiGrenadier InputAnalyzer HanSolo
+Generated: 2014/08/12 09:38:39.362841057 UTC

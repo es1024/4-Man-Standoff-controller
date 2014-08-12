@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Richochet Ninja
+      PoliticallyCorrectGunman: N,N,N
+                     Aggressor: P,Ta,N
+                     Richochet: Sb,N,Sd
+                         Ninja: Dc,Db,Dd
+Final Health:
+      PoliticallyCorrectGunman: -3
+                     Aggressor: 0
+                     Richochet: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Richochet Ninja
+Aggressor: PoliticallyCorrectGunman Richochet Ninja
+Richochet: PoliticallyCorrectGunman Aggressor Ninja
+Ninja: PoliticallyCorrectGunman Aggressor Richochet
+Generated: 2014/08/12 09:42:01.753158525 UTC

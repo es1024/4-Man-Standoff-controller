@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter TwentyFourthsAndAHalfCentury Bomberman
+                 DONTNUKEMEBRO: Db,Sd,N
+                 SimpleShooter: Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd
+                     Bomberman: P,N,N
+Final Health:
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 2
+  TwentyFourthsAndAHalfCentury: 0
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Bomberman SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Bomberman DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman DONTNUKEMEBRO SimpleShooter
+Bomberman: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 05:48:52.383342479 UTC

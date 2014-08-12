@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey AntiGrenadier Neo
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                        Monkey: N,N,Dc,N,N,N,N,Sd,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Neo Monkey
+Monkey: AntiGrenadier Neo HanSolo
+AntiGrenadier: Monkey Neo HanSolo
+Neo: Monkey AntiGrenadier HanSolo
+Generated: 2014/08/12 09:53:27.791138902 UTC

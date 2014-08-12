@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Zaenille Bomberman
+                 DONTNUKEMEBRO: Dd,Dc,Dd,Db,Sb,N,Dc,Dd,Sb,N,Dd
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 1
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Zaenille Bomberman
+SimpleShooter: DONTNUKEMEBRO Zaenille Bomberman
+Zaenille: DONTNUKEMEBRO SimpleShooter Bomberman
+Bomberman: DONTNUKEMEBRO SimpleShooter Zaenille
+Generated: 2014/08/12 07:05:06.429472249 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+                        Coward: Sb,N,Sb,N,Sb,N,Dd,Sd,N,Dd,Dc,Sd,N,Sd,N,Sd,N,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Db,Sa,N,Dc,Sc,N,Da,Dc,Da,Da,Sc,N,Da,Dc,Dc,N,N
+Final Health:
+                        Coward: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Bomberman CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman CourageTheDog Coward
+Bomberman: TwentyFourthsAndAHalfCentury CourageTheDog Coward
+CourageTheDog: TwentyFourthsAndAHalfCentury Bomberman Coward
+Generated: 2014/08/12 05:50:33.139212424 UTC

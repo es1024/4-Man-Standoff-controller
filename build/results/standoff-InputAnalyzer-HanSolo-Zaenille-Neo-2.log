@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Zaenille Neo
+                 InputAnalyzer: Dd,P,Da,Db
+                       HanSolo: Sd,N,Sd,N
+                      Zaenille: Sc,N,N,N
+                           Neo: N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 2
+                      Zaenille: -2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo HanSolo Zaenille
+HanSolo: Neo InputAnalyzer Zaenille
+Zaenille: Neo InputAnalyzer HanSolo
+Neo: Zaenille InputAnalyzer HanSolo
+Generated: 2014/08/12 06:32:00.256329311 UTC

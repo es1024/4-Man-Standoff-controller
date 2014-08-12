@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dc,Sd,N,N,N,N,N,Sd,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury
+PoliticallyCorrectGunman: Pacifist Coward TwentyFourthsAndAHalfCentury
+Coward: Pacifist PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist PoliticallyCorrectGunman Coward
+Generated: 2014/08/12 06:23:05.375534187 UTC

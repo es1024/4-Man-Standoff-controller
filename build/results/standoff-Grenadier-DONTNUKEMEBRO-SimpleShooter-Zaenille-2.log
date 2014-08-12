@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO SimpleShooter Zaenille
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tb
+                 DONTNUKEMEBRO: Dd,Dd,Sc,N,Dc,Dd,Sc,N,Sc,N,Dd,Dd,Dc,Dd,Da,Da,Da,Dc,Da,Sa
+                 SimpleShooter: Sb,N,Sa,N,Sb,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                 DONTNUKEMEBRO: -7
+                 SimpleShooter: -1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Zaenille Grenadier SimpleShooter
+SimpleShooter: Zaenille Grenadier DONTNUKEMEBRO
+Zaenille: SimpleShooter Grenadier DONTNUKEMEBRO
+Generated: 2014/08/12 07:34:51.348709242 UTC

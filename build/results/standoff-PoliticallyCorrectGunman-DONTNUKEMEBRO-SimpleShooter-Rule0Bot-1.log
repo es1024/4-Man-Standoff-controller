@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO SimpleShooter Rule0Bot
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,P,Sd
+                 DONTNUKEMEBRO: Dc,Dc,Dd,Dc,Da,Dd,Sc,N,Da,Dc,Sa
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,Sa,N,Sd,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -9
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: 0
+                      Rule0Bot: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Rule0Bot DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Rule0Bot PoliticallyCorrectGunman
+SimpleShooter: DONTNUKEMEBRO Rule0Bot PoliticallyCorrectGunman
+Rule0Bot: DONTNUKEMEBRO SimpleShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 08:56:35.525575885 UTC

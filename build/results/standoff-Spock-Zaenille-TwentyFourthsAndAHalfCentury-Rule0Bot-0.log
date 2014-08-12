@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille TwentyFourthsAndAHalfCentury Rule0Bot
+                         Spock: N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sd,N,Sb
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sd,N,Sd,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Zaenille TwentyFourthsAndAHalfCentury Rule0Bot
+Zaenille: Spock TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: Spock Zaenille Rule0Bot
+Rule0Bot: Spock Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:05:14.171578963 UTC

@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy Rule0Bot Scared
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sc
+                     EmoCowboy: N,N,N,N,N,Sb,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,Sa,N,Sc,N,Sc,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 3
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: EmoCowboy Rule0Bot Scared
+EmoCowboy: TwentyFourthsAndAHalfCentury Rule0Bot Scared
+Rule0Bot: TwentyFourthsAndAHalfCentury EmoCowboy Scared
+Scared: TwentyFourthsAndAHalfCentury EmoCowboy Rule0Bot
+Generated: 2014/08/12 10:23:44.893050899 UTC

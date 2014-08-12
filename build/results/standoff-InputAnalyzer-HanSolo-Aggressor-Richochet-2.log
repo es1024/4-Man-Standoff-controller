@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Aggressor Richochet
+                 InputAnalyzer: Dd,P
+                       HanSolo: Sd,N
+                     Aggressor: P,Ta
+                     Richochet: Sb,N
+Final Health:
+                 InputAnalyzer: -9
+                       HanSolo: -3
+                     Aggressor: -1
+                     Richochet: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet HanSolo Aggressor
+HanSolo: Richochet InputAnalyzer Aggressor
+Aggressor: Richochet InputAnalyzer HanSolo
+Richochet: Aggressor InputAnalyzer HanSolo
+Generated: 2014/08/12 10:19:19.073653941 UTC

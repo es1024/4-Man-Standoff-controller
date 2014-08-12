@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter HanSolo CourageTheDog
+                     Grenadier: N,N,N,P,Td
+               StraightShooter: Sc,N,Sc,N,Sc
+                       HanSolo: Sa,N,Sa,N,N
+                 CourageTheDog: Sb,N,Sc,N,P
+Final Health:
+                     Grenadier: -5
+               StraightShooter: -3
+                       HanSolo: -1
+                 CourageTheDog: -9
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter HanSolo CourageTheDog
+StraightShooter: Grenadier HanSolo CourageTheDog
+HanSolo: Grenadier StraightShooter CourageTheDog
+CourageTheDog: Grenadier StraightShooter HanSolo
+Generated: 2014/08/12 09:03:10.633937416 UTC

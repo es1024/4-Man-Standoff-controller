@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Bomberman Ninja
+                 InputAnalyzer: Dc,Sb,N,Sd
+                     Aggressor: P,Tc,N,N
+                     Bomberman: N,N,N,N
+                         Ninja: Dc,Db,Da,Dc
+Final Health:
+                 InputAnalyzer: 2
+                     Aggressor: 0
+                     Bomberman: -3
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Ninja Aggressor
+Aggressor: Bomberman Ninja InputAnalyzer
+Bomberman: Aggressor Ninja InputAnalyzer
+Ninja: Aggressor Bomberman InputAnalyzer
+Generated: 2014/08/12 06:07:45.370339823 UTC

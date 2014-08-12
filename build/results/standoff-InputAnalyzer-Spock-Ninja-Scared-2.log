@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Ninja Scared
+                 InputAnalyzer: Dd,Dc,Dd,P,N,N,N
+                         Spock: N,N,N,N,N,N,Sd
+                         Ninja: Dc,Db,Da,Db,Dc,Db,Da
+                        Scared: N,N,N,N,N,N,Sb
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 0
+                         Ninja: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Spock Ninja
+Spock: Scared InputAnalyzer Ninja
+Ninja: Scared InputAnalyzer Spock
+Scared: Ninja InputAnalyzer Spock
+Generated: 2014/08/12 06:18:37.092187487 UTC

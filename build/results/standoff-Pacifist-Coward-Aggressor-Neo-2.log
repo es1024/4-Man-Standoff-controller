@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Aggressor Neo
+                      Pacifist: N,N,N,N,N
+                        Coward: Sc,N,Da,Da,Sa
+                     Aggressor: P,Td,N,N,N
+                           Neo: N,N,N,N,N
+Final Health:
+                      Pacifist: 0
+                        Coward: 2
+                     Aggressor: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo Coward Aggressor
+Coward: Neo Pacifist Aggressor
+Aggressor: Neo Pacifist Coward
+Neo: Aggressor Pacifist Coward
+Generated: 2014/08/12 06:16:30.701863760 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille AntiGrenadier CourageTheDog
+                 InputAnalyzer: Db,Dc,Db,P,Sb,N,N
+                      Zaenille: Sb,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,Sa,N,N
+                 CourageTheDog: N,Da,Dc,N,N,Da,Sc
+Final Health:
+                 InputAnalyzer: -3
+                      Zaenille: -2
+                 AntiGrenadier: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille AntiGrenadier CourageTheDog
+Zaenille: InputAnalyzer AntiGrenadier CourageTheDog
+AntiGrenadier: InputAnalyzer Zaenille CourageTheDog
+CourageTheDog: InputAnalyzer Zaenille AntiGrenadier
+Generated: 2014/08/12 05:58:34.739224513 UTC

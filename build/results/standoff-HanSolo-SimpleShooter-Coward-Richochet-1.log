@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Coward Richochet
+                       HanSolo: Sc,N,Sc,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sd
+                        Coward: Sa,N,Sa,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sb,N,Sb
+Final Health:
+                       HanSolo: -3
+                 SimpleShooter: 1
+                        Coward: -1
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Richochet SimpleShooter
+SimpleShooter: Coward Richochet HanSolo
+Coward: SimpleShooter Richochet HanSolo
+Richochet: SimpleShooter Coward HanSolo
+Generated: 2014/08/12 07:56:16.808732399 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey Rule0Bot Sniper
+                        Coward: Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                        Monkey: -2
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot Sniper Monkey
+Monkey: Rule0Bot Sniper Coward
+Rule0Bot: Monkey Sniper Coward
+Sniper: Monkey Rule0Bot Coward
+Generated: 2014/08/12 08:41:39.767636340 UTC

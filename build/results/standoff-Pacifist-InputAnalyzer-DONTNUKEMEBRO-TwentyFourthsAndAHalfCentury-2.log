@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,P,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Db,Sb,N,Db,Dd,Dd,Dd,Da,Da,Db,Dd,Db,Dd,Da,Db,Db,Da,Dd,Da,Sd
+  TwentyFourthsAndAHalfCentury: Dc,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sc,N,Sc
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury InputAnalyzer DONTNUKEMEBRO
+InputAnalyzer: TwentyFourthsAndAHalfCentury Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury Pacifist InputAnalyzer
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO Pacifist InputAnalyzer
+Generated: 2014/08/12 07:24:37.798931478 UTC

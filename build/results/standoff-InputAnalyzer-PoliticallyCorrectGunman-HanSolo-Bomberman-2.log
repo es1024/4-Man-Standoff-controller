@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman HanSolo Bomberman
+                 InputAnalyzer: Dd,P,N,Da,N
+      PoliticallyCorrectGunman: N,Sa,N,Da,N
+                       HanSolo: Sd,N,Sd,N,Sb
+                     Bomberman: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: 0
+                       HanSolo: 2
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman PoliticallyCorrectGunman HanSolo
+PoliticallyCorrectGunman: Bomberman InputAnalyzer HanSolo
+HanSolo: Bomberman InputAnalyzer PoliticallyCorrectGunman
+Bomberman: HanSolo InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 09:23:16.380409627 UTC

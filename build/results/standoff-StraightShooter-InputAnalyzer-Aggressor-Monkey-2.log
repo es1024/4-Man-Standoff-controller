@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Aggressor Monkey
+               StraightShooter: Sb,N
+                 InputAnalyzer: Dd,Sa
+                     Aggressor: P,Td
+                        Monkey: N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: 0
+                     Aggressor: 2
+                        Monkey: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey InputAnalyzer Aggressor
+InputAnalyzer: Monkey StraightShooter Aggressor
+Aggressor: Monkey StraightShooter InputAnalyzer
+Monkey: Aggressor StraightShooter InputAnalyzer
+Generated: 2014/08/12 08:46:19.405242333 UTC

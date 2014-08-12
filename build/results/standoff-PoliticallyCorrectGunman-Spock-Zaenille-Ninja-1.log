@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Zaenille Ninja
+      PoliticallyCorrectGunman: N,Dc,N,N,Dc,N,N,N,Sb,N,Sd,N,Sc,N,P,Dd,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sc
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Dc,Da,Da,Dc,Dd,Db,Db,Dd,Dc,Da,Dc,Dc,Db,Da,Dd
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: 0
+                      Zaenille: -4
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Ninja Spock
+Spock: Zaenille Ninja PoliticallyCorrectGunman
+Zaenille: Spock Ninja PoliticallyCorrectGunman
+Ninja: Spock Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 10:46:27.513600701 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter DONTNUKEMEBRO EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 DONTNUKEMEBRO: Db,Dd,Dd,Da,Db,Dd,Db,Dd,Da,Db,Db,Dd,Sa,N,Db,Db,Da,Db,Db,Dd,Db,Db,Db,Da,Dd,Dd,Db,Da,Db,Dd,Da,Db,Da,Da,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+               StraightShooter: -18
+                 DONTNUKEMEBRO: -18
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO EmoCowboy StraightShooter
+StraightShooter: DONTNUKEMEBRO EmoCowboy Grenadier
+DONTNUKEMEBRO: StraightShooter EmoCowboy Grenadier
+EmoCowboy: StraightShooter DONTNUKEMEBRO Grenadier
+Generated: 2014/08/12 08:55:52.192855489 UTC

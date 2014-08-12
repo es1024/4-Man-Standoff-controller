@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury Sniper
+      PoliticallyCorrectGunman: Dc,Db,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Ta,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,N,N,N,N,N,N,N,N,Sd
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor TwentyFourthsAndAHalfCentury Sniper
+Aggressor: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Aggressor Sniper
+Sniper: PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:42:38.278055661 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Bomberman Neo
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,N,N,N,Dc,Da,Dc,Dd,Dc,Dd,Dc,Da,N,Dd,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Da,Dc,Da,N,Da,Dc,Da,Dc,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Neo SimpleShooter
+Bomberman: TwentyFourthsAndAHalfCentury Neo SimpleShooter
+Neo: TwentyFourthsAndAHalfCentury Bomberman SimpleShooter
+Generated: 2014/08/12 08:25:35.074465000 UTC

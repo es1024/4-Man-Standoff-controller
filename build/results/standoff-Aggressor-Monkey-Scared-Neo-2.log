@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Scared Neo
+                     Aggressor: P,Td,N
+                        Monkey: N,P,N
+                        Scared: Sa,N,Sb
+                           Neo: N,Db,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: -6
+                        Scared: -1
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo Monkey Scared
+Monkey: Neo Aggressor Scared
+Scared: Neo Aggressor Monkey
+Neo: Scared Aggressor Monkey
+Generated: 2014/08/12 05:46:25.256138028 UTC

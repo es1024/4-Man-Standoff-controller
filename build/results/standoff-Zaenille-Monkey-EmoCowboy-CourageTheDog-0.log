@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey EmoCowboy CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N
+                        Monkey: N,Sa,N,N,N,N,N,Db,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sb,N,Sb,N,Db,Db,Db,Sb
+Final Health:
+                      Zaenille: -4
+                        Monkey: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Monkey EmoCowboy CourageTheDog
+Monkey: Zaenille EmoCowboy CourageTheDog
+EmoCowboy: Zaenille Monkey CourageTheDog
+CourageTheDog: Zaenille Monkey EmoCowboy
+Generated: 2014/08/12 06:23:27.112809848 UTC

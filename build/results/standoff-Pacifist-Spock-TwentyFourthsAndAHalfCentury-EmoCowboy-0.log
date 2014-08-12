@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock TwentyFourthsAndAHalfCentury EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Da,Da,Db,Sb,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock TwentyFourthsAndAHalfCentury EmoCowboy
+Spock: Pacifist TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Pacifist Spock EmoCowboy
+EmoCowboy: Pacifist Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:56:08.463968289 UTC

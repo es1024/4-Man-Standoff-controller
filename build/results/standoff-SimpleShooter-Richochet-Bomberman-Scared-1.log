@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Bomberman Scared
+                 SimpleShooter: Sb,N,Sc,N,Sc,N,Sb,N,Sd,N,Sc
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                     Richochet: -1
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Scared Richochet
+Richochet: Bomberman Scared SimpleShooter
+Bomberman: Richochet Scared SimpleShooter
+Scared: Richochet Bomberman SimpleShooter
+Generated: 2014/08/12 07:48:53.222279798 UTC

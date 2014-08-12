@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Coward Rule0Bot
+                         Spock: Sd,N,N,N,N,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 1
+                 SimpleShooter: -1
+                        Coward: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot SimpleShooter Coward
+SimpleShooter: Rule0Bot Spock Coward
+Coward: Rule0Bot Spock SimpleShooter
+Rule0Bot: Coward Spock SimpleShooter
+Generated: 2014/08/12 08:34:18.464442658 UTC

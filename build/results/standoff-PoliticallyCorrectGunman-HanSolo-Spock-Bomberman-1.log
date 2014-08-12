@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Spock Bomberman
+      PoliticallyCorrectGunman: Sc,N,Sb,N,Db,Sb,N,Dd,N,N,N,N,P,Sc,N
+                       HanSolo: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,P,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: -1
+                         Spock: -1
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Bomberman HanSolo
+HanSolo: Spock Bomberman PoliticallyCorrectGunman
+Spock: HanSolo Bomberman PoliticallyCorrectGunman
+Bomberman: HanSolo Spock PoliticallyCorrectGunman
+Generated: 2014/08/12 08:39:28.784892097 UTC

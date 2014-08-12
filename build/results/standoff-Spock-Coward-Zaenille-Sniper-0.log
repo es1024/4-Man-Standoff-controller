@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Zaenille Sniper
+                         Spock: Sb,N,Sb,N,Sd,N,Sd
+                        Coward: Sd,N,Sa,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Sniper: Sc,N,N,Sb,N,N,N
+Final Health:
+                         Spock: 3
+                        Coward: -1
+                      Zaenille: -4
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Zaenille Sniper
+Coward: Spock Zaenille Sniper
+Zaenille: Spock Coward Sniper
+Sniper: Spock Coward Zaenille
+Generated: 2014/08/12 06:37:23.210423138 UTC

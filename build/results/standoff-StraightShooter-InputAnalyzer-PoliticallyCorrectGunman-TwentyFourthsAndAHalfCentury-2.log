@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb
+                 InputAnalyzer: Dd,Sc,N
+      PoliticallyCorrectGunman: P,Sd,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Da
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -3
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury InputAnalyzer PoliticallyCorrectGunman
+InputAnalyzer: TwentyFourthsAndAHalfCentury StraightShooter PoliticallyCorrectGunman
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury StraightShooter InputAnalyzer
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:46:53.481458171 UTC

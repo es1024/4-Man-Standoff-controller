@@ -1,0 +1,16 @@
+Standoff between: Richochet Rule0Bot Scared Neo
+                     Richochet: Sc,N,Sb,N,Sc,N,Sc,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Db,N,Db,N,Db,Db,Db,Db,Db,N,N,N
+Final Health:
+                     Richochet: 3
+                      Rule0Bot: -1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo Rule0Bot Scared
+Rule0Bot: Neo Richochet Scared
+Scared: Neo Richochet Rule0Bot
+Neo: Scared Richochet Rule0Bot
+Generated: 2014/08/12 10:08:13.035557291 UTC

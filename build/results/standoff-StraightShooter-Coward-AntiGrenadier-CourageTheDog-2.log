@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward AntiGrenadier CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                        Coward: Sc,N,Sc,N,Da,Dd,Da,Dd,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sa,N,Sa,N,Da,Sb
+Final Health:
+               StraightShooter: -1
+                        Coward: -3
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Coward AntiGrenadier
+Coward: CourageTheDog StraightShooter AntiGrenadier
+AntiGrenadier: CourageTheDog StraightShooter Coward
+CourageTheDog: AntiGrenadier StraightShooter Coward
+Generated: 2014/08/12 06:52:34.055295660 UTC

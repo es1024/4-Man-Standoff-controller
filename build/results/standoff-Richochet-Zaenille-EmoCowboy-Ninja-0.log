@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille EmoCowboy Ninja
+                     Richochet: Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                         Ninja: Db,Da,Da,Dc,Dd,Dd,Db
+Final Health:
+                     Richochet: 5
+                      Zaenille: -2
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Zaenille EmoCowboy Ninja
+Zaenille: Richochet EmoCowboy Ninja
+EmoCowboy: Richochet Zaenille Ninja
+Ninja: Richochet Zaenille EmoCowboy
+Generated: 2014/08/12 07:40:58.518062439 UTC

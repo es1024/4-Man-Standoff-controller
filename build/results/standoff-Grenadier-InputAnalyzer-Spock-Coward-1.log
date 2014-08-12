@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Spock Coward
+                     Grenadier: N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Dd,Dc,Sa,N,Sb,N,N,N
+                         Spock: N,N,N,N,Sb,N,Sb,N,Sb
+                        Coward: Sa,N,Sa,N,Sc,N,Sc,N,Sc
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -2
+                         Spock: -1
+                        Coward: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Coward InputAnalyzer
+InputAnalyzer: Spock Coward Grenadier
+Spock: InputAnalyzer Coward Grenadier
+Coward: InputAnalyzer Spock Grenadier
+Generated: 2014/08/12 10:47:58.118195653 UTC

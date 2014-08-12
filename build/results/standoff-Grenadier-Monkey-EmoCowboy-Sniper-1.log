@@ -1,0 +1,16 @@
+Standoff between: Grenadier Monkey EmoCowboy Sniper
+                     Grenadier: P,Td
+                        Monkey: N,P
+                     EmoCowboy: Sc,N
+                        Sniper: Sa,N
+Final Health:
+                     Grenadier: 0
+                        Monkey: 2
+                     EmoCowboy: -2
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Sniper Monkey
+Monkey: EmoCowboy Sniper Grenadier
+EmoCowboy: Monkey Sniper Grenadier
+Sniper: Monkey EmoCowboy Grenadier
+Generated: 2014/08/12 10:46:50.510396533 UTC

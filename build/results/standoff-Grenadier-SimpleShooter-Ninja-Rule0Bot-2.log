@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Ninja Rule0Bot
+                     Grenadier: N,N,N,N,N,N,P,Tb
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N
+                         Ninja: Da,Db,Dc,Dd,Db,Da,Dd,Dc
+                      Rule0Bot: N,N,N,N,N,N,N,Sa
+Final Health:
+                     Grenadier: -2
+                 SimpleShooter: -3
+                         Ninja: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot SimpleShooter Ninja
+SimpleShooter: Rule0Bot Grenadier Ninja
+Ninja: Rule0Bot Grenadier SimpleShooter
+Rule0Bot: Ninja Grenadier SimpleShooter
+Generated: 2014/08/12 09:00:37.848375824 UTC

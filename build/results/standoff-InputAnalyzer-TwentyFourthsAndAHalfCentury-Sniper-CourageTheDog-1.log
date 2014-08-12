@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Sniper CourageTheDog
+                 InputAnalyzer: Dc,Db,P,N,Sb
+  TwentyFourthsAndAHalfCentury: Da,Da,N,Da,Dc
+                        Sniper: Sb,N,Sa,N,Sb
+                 CourageTheDog: Sc,N,Db,P,Ta
+Final Health:
+                 InputAnalyzer: -11
+  TwentyFourthsAndAHalfCentury: -5
+                        Sniper: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper CourageTheDog InputAnalyzer
+Sniper: TwentyFourthsAndAHalfCentury CourageTheDog InputAnalyzer
+CourageTheDog: TwentyFourthsAndAHalfCentury Sniper InputAnalyzer
+Generated: 2014/08/12 09:06:55.485861882 UTC

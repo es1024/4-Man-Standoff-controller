@@ -1,0 +1,16 @@
+Standoff between: Grenadier Ninja AntiGrenadier Scared
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Da,Dd,Da,Dd,Da,Da,N,N,N
+                 AntiGrenadier: N,Sa,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,Sb,N,N,Sc
+Final Health:
+                     Grenadier: -5
+                         Ninja: 0
+                 AntiGrenadier: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Scared Ninja
+Ninja: AntiGrenadier Scared Grenadier
+AntiGrenadier: Ninja Scared Grenadier
+Scared: Ninja AntiGrenadier Grenadier
+Generated: 2014/08/12 07:00:20.645349021 UTC

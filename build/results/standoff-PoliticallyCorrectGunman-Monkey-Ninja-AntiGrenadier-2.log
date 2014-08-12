@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey Ninja AntiGrenadier
+      PoliticallyCorrectGunman: Sc,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,Dd,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Db,Dc,Db,Db,N,Dd,N,N,N,N
+                         Ninja: Dd,Da,Db,Db,Dc,Da,Db,Db,Dd,Da,Db,Dc,Dd,Da,Dd,Da,Dd,Dd,Da,Db,Dd,Da,Dc,Dd,Dc,Dc,Db,Da,Db,Dc,Db,Dc,Dd,Db,Dc,Db,Dc,Dd,Db,Da,Dc,Db,Dd,Dc,Dd,Db,Da,Dc,Dd,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                        Monkey: -15
+                         Ninja: -17
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Monkey Ninja
+Monkey: AntiGrenadier PoliticallyCorrectGunman Ninja
+Ninja: AntiGrenadier PoliticallyCorrectGunman Monkey
+AntiGrenadier: Ninja PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 08:55:21.171917345 UTC

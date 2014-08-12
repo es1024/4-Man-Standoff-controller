@@ -1,0 +1,16 @@
+Standoff between: Bomberman EmoCowboy AntiGrenadier Scared
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,Sa,N,Sc,N,Sc,N,Sa,N,Sc,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: Scared EmoCowboy AntiGrenadier
+EmoCowboy: Scared Bomberman AntiGrenadier
+AntiGrenadier: Scared Bomberman EmoCowboy
+Scared: AntiGrenadier Bomberman EmoCowboy
+Generated: 2014/08/12 08:36:03.450701835 UTC

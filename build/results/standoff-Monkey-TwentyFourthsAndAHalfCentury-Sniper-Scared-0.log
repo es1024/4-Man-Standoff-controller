@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Sniper Scared
+                        Monkey: N,N,N,Dc,Da,Sa,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,Dc,Da,Da,Da,Dd,Dc,Sc,N,Sd
+                        Sniper: Sd,N,Sb,N,Sb,N,N,N,N,N,N
+                        Scared: N,N,Sb,N,Sa,N,Sc,N,Sc,N,Sb
+Final Health:
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: TwentyFourthsAndAHalfCentury Sniper Scared
+TwentyFourthsAndAHalfCentury: Monkey Sniper Scared
+Sniper: Monkey TwentyFourthsAndAHalfCentury Scared
+Scared: Monkey TwentyFourthsAndAHalfCentury Sniper
+Generated: 2014/08/12 05:55:46.246678728 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter EmoCowboy AntiGrenadier
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                 SimpleShooter: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter EmoCowboy AntiGrenadier
+SimpleShooter: HanSolo EmoCowboy AntiGrenadier
+EmoCowboy: HanSolo SimpleShooter AntiGrenadier
+AntiGrenadier: HanSolo SimpleShooter EmoCowboy
+Generated: 2014/08/12 07:08:32.036690616 UTC

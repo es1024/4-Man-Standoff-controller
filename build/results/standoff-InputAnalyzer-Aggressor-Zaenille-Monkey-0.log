@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Zaenille Monkey
+                 InputAnalyzer: Db,Sc,N
+                     Aggressor: P,Ta,Sd
+                      Zaenille: Sc,N,N
+                        Monkey: N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 2
+                      Zaenille: -2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Zaenille Monkey
+Aggressor: InputAnalyzer Zaenille Monkey
+Zaenille: InputAnalyzer Aggressor Monkey
+Monkey: InputAnalyzer Aggressor Zaenille
+Generated: 2014/08/12 10:36:48.751862580 UTC

@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy Sniper CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,N,N,Dc,Dc,Dc,N,Dc,Sc,N,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                      Zaenille: -2
+                     EmoCowboy: -4
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Sniper CourageTheDog EmoCowboy
+EmoCowboy: Sniper CourageTheDog Zaenille
+Sniper: EmoCowboy CourageTheDog Zaenille
+CourageTheDog: EmoCowboy Sniper Zaenille
+Generated: 2014/08/12 06:59:41.018436912 UTC

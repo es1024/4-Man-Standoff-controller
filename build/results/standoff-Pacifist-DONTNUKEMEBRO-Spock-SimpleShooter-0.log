@@ -1,16 +1,16 @@
 Standoff between: Pacifist DONTNUKEMEBRO Spock SimpleShooter
-                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 DONTNUKEMEBRO: Dd,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dd,Dd,Dd,Dd,Dd,Dd,Dc,Dc
-                         Spock: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                 SimpleShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Dd,Dd,Dc,Sd,N,Sd,N,Dc,Dd,Sd
+                         Spock: N,N,N,N,Sa,N,Sa,N,Sa,N,Sb
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sc,N,Sb,N,Sc
 Final Health:
                       Pacifist: -1
-                 DONTNUKEMEBRO: -15
+                 DONTNUKEMEBRO: -1
                          Spock: -1
-                 SimpleShooter: -15
+                 SimpleShooter: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: DONTNUKEMEBRO Spock SimpleShooter
 DONTNUKEMEBRO: Pacifist Spock SimpleShooter
 Spock: Pacifist DONTNUKEMEBRO SimpleShooter
 SimpleShooter: Pacifist DONTNUKEMEBRO Spock
-Generated: 2014/08/11 00:59:04.289249761 UTC
+Generated: 2014/08/12 10:11:33.918291374 UTC

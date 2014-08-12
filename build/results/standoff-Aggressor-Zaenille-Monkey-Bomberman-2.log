@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Monkey Bomberman
+                     Aggressor: P,Td,Sc
+                      Zaenille: Sb,N,N
+                        Monkey: N,P,N
+                     Bomberman: N,N,N
+Final Health:
+                     Aggressor: -1
+                      Zaenille: -2
+                        Monkey: -6
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman Zaenille Monkey
+Zaenille: Bomberman Aggressor Monkey
+Monkey: Bomberman Aggressor Zaenille
+Bomberman: Monkey Aggressor Zaenille
+Generated: 2014/08/12 10:11:33.457252969 UTC

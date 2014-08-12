@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey Scared Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,N,P,N,Sb
+                        Monkey: N,N,N,N,N,N,N,P,Sa
+                        Scared: N,Sa,N,N,N,Sb,N,Sa,N
+                           Neo: N,N,N,N,N,Db,Db,N,Db
+Final Health:
+      PoliticallyCorrectGunman: -10
+                        Monkey: -8
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo Monkey Scared
+Monkey: Neo PoliticallyCorrectGunman Scared
+Scared: Neo PoliticallyCorrectGunman Monkey
+Neo: Scared PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 09:18:33.211270567 UTC

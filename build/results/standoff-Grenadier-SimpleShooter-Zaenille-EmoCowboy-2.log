@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Zaenille EmoCowboy
+                     Grenadier: P,Tb
+                 SimpleShooter: Sc,N
+                      Zaenille: Sc,N
+                     EmoCowboy: Sd,N
+Final Health:
+                     Grenadier: 2
+                 SimpleShooter: -3
+                      Zaenille: -4
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy SimpleShooter Zaenille
+SimpleShooter: EmoCowboy Grenadier Zaenille
+Zaenille: EmoCowboy Grenadier SimpleShooter
+EmoCowboy: Zaenille Grenadier SimpleShooter
+Generated: 2014/08/12 06:27:45.819347452 UTC

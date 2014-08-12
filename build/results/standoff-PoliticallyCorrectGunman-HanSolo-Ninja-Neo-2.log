@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Ninja Neo
+      PoliticallyCorrectGunman: N,P,Sb,N
+                       HanSolo: Sd,N,Sd,N
+                         Ninja: Da,Dd,Da,Dd
+                           Neo: N,Da,N,Dc
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 0
+                         Ninja: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo HanSolo Ninja
+HanSolo: Neo PoliticallyCorrectGunman Ninja
+Ninja: Neo PoliticallyCorrectGunman HanSolo
+Neo: Ninja PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 06:45:30.278503796 UTC

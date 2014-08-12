@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock SimpleShooter Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,N
+                         Spock: Sd,N,Sd,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sa,N,Sd
+                        Sniper: Sc,N,Sb,N,N,Sa,N
+Final Health:
+               StraightShooter: -1
+                         Spock: -3
+                 SimpleShooter: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper Spock SimpleShooter
+Spock: Sniper StraightShooter SimpleShooter
+SimpleShooter: Sniper StraightShooter Spock
+Sniper: SimpleShooter StraightShooter Spock
+Generated: 2014/08/12 09:44:07.488006072 UTC

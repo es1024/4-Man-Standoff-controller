@@ -1,0 +1,16 @@
+Standoff between: HanSolo Bomberman Rule0Bot Sniper
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     Bomberman: -1
+                      Rule0Bot: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Sniper Bomberman
+Bomberman: Rule0Bot Sniper HanSolo
+Rule0Bot: Bomberman Sniper HanSolo
+Sniper: Bomberman Rule0Bot HanSolo
+Generated: 2014/08/12 08:09:37.719107640 UTC

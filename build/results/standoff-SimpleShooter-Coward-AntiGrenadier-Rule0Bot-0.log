@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward AntiGrenadier Rule0Bot
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sb,N,Sb
+                        Coward: Sd,N,Sd,N,Sc,N,Sc,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                        Coward: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Coward AntiGrenadier Rule0Bot
+Coward: SimpleShooter AntiGrenadier Rule0Bot
+AntiGrenadier: SimpleShooter Coward Rule0Bot
+Rule0Bot: SimpleShooter Coward AntiGrenadier
+Generated: 2014/08/12 06:07:51.759901117 UTC

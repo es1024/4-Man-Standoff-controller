@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Richochet Bomberman
+                     Grenadier: N,N,P
+                     Aggressor: P,Td,N
+                     Richochet: Sb,N,Sa
+                     Bomberman: N,N,N
+Final Health:
+                     Grenadier: -6
+                     Aggressor: 0
+                     Richochet: -1
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Aggressor Richochet
+Aggressor: Bomberman Grenadier Richochet
+Richochet: Bomberman Grenadier Aggressor
+Bomberman: Richochet Grenadier Aggressor
+Generated: 2014/08/12 09:09:02.634287124 UTC

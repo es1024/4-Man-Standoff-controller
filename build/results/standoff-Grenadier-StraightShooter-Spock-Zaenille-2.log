@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Spock Zaenille
+                     Grenadier: N,P,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa
+                         Spock: Sd,N,N,N,N,N,Sb
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -5
+               StraightShooter: 0
+                         Spock: 2
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille StraightShooter Spock
+StraightShooter: Zaenille Grenadier Spock
+Spock: Zaenille Grenadier StraightShooter
+Zaenille: Spock Grenadier StraightShooter
+Generated: 2014/08/12 10:22:24.661660097 UTC

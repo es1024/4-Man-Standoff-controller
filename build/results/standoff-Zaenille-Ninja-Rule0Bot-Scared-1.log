@@ -1,0 +1,16 @@
+Standoff between: Zaenille Ninja Rule0Bot Scared
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dd,Dd,Da,Da,Db,Db,Dc,Da,Db,Db,Dc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,Sb,N,Sc,N,Sb,N,Sc,N,Sb
+Final Health:
+                      Zaenille: -2
+                         Ninja: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Rule0Bot Scared Ninja
+Ninja: Rule0Bot Scared Zaenille
+Rule0Bot: Ninja Scared Zaenille
+Scared: Ninja Rule0Bot Zaenille
+Generated: 2014/08/12 07:20:30.119243312 UTC

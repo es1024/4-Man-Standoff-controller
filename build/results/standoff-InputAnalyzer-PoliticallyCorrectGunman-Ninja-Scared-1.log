@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Ninja Scared
+                 InputAnalyzer: Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,Da,N,Sd,N,N,N
+                         Ninja: Dd,Db,Dc,Dd,Da,Dc,Da,Dc,Da,Dd,Da,Dd,Db,Dc,Dc,Db,Dc,Dd,Db,Da
+                        Scared: Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,Sc,N,Sb,N,Sb,N,Sc
+Final Health:
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -1
+                         Ninja: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Ninja Scared InputAnalyzer
+Ninja: PoliticallyCorrectGunman Scared InputAnalyzer
+Scared: PoliticallyCorrectGunman Ninja InputAnalyzer
+Generated: 2014/08/12 10:05:59.478987889 UTC

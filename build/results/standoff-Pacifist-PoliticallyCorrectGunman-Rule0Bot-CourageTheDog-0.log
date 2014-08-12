@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dd,N,N,N,N,N,N,N,N,Sa,N,N,Sd,N,P,Ta
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb
+                 CourageTheDog: Sc,N,Da,Da,N,Da,Sb,N,N,Db,Db,Db,Dc,Da,Dc,P
+Final Health:
+                      Pacifist: -8
+      PoliticallyCorrectGunman: -5
+                      Rule0Bot: -3
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Rule0Bot CourageTheDog
+PoliticallyCorrectGunman: Pacifist Rule0Bot CourageTheDog
+Rule0Bot: Pacifist PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: Pacifist PoliticallyCorrectGunman Rule0Bot
+Generated: 2014/08/12 07:49:06.467405942 UTC

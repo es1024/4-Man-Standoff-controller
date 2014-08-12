@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Sniper Scared
+                     Grenadier: N,N,N,N,N,N,N,N,P,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,N,N,N,N,N,N,N,N,Sa
+                        Scared: N,N,Sa,N,N,Sc,N,Sc,N,Sa,N
+Final Health:
+                     Grenadier: -7
+                      Zaenille: -2
+                        Sniper: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Zaenille Sniper
+Zaenille: Scared Grenadier Sniper
+Sniper: Scared Grenadier Zaenille
+Scared: Sniper Grenadier Zaenille
+Generated: 2014/08/12 10:31:53.027634371 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Zaenille CourageTheDog
+                     Grenadier: N,P,N,N
+                       HanSolo: Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N
+                 CourageTheDog: Sc,N,P,Tb
+Final Health:
+                     Grenadier: -8
+                       HanSolo: -6
+                      Zaenille: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Zaenille CourageTheDog
+HanSolo: Grenadier Zaenille CourageTheDog
+Zaenille: Grenadier HanSolo CourageTheDog
+CourageTheDog: Grenadier HanSolo Zaenille
+Generated: 2014/08/12 09:33:55.640211457 UTC

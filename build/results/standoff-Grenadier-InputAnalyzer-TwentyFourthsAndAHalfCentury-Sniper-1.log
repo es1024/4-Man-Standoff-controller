@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer TwentyFourthsAndAHalfCentury Sniper
+                     Grenadier: N,P,Td
+                 InputAnalyzer: Dc,P,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Dd
+                        Sniper: Sc,N,Sb
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: -6
+  TwentyFourthsAndAHalfCentury: -3
+                        Sniper: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Sniper InputAnalyzer
+InputAnalyzer: TwentyFourthsAndAHalfCentury Sniper Grenadier
+TwentyFourthsAndAHalfCentury: InputAnalyzer Sniper Grenadier
+Sniper: InputAnalyzer TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 07:34:10.070106474 UTC

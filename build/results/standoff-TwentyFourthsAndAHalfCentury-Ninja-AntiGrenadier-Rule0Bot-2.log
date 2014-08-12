@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Ninja AntiGrenadier Rule0Bot
+  TwentyFourthsAndAHalfCentury: Db,Db,Sd,N,Sd,N,Sb,N,Sd,N,N,N,N,N,N,N,N,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                         Ninja: Dc,Da,Da,Dc,Dc,Db,Db,Db,Dc,Da,Db,Db,Da,Dd,Da,Dc,Db,Dd,Dd,Dc,Db,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Rule0Bot Ninja AntiGrenadier
+Ninja: Rule0Bot TwentyFourthsAndAHalfCentury AntiGrenadier
+AntiGrenadier: Rule0Bot TwentyFourthsAndAHalfCentury Ninja
+Rule0Bot: AntiGrenadier TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 05:49:47.476123740 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Aggressor TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: N,N,N
+                       HanSolo: Sa,N,N
+                     Aggressor: P,Tb,Sd
+  TwentyFourthsAndAHalfCentury: Da,Da,Sc
+Final Health:
+      PoliticallyCorrectGunman: 0
+                       HanSolo: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: HanSolo Aggressor TwentyFourthsAndAHalfCentury
+HanSolo: PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: PoliticallyCorrectGunman HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman HanSolo Aggressor
+Generated: 2014/08/12 06:26:48.764163889 UTC

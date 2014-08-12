@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Rule0Bot Sniper
+      PoliticallyCorrectGunman: Sc,N,N,N,Sa,N,N
+                 SimpleShooter: Sd,N,Sd,N,Sa,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sc,N,Sc,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                 SimpleShooter: 5
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Rule0Bot Sniper
+SimpleShooter: PoliticallyCorrectGunman Rule0Bot Sniper
+Rule0Bot: PoliticallyCorrectGunman SimpleShooter Sniper
+Sniper: PoliticallyCorrectGunman SimpleShooter Rule0Bot
+Generated: 2014/08/12 10:45:47.178293097 UTC

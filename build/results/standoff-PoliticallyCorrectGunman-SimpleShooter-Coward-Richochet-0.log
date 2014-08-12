@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Coward Richochet
+      PoliticallyCorrectGunman: N,N,N,N,N,Db,N,Db,Dd
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sa,N,Sc
+                        Coward: Sd,N,Sd,N,Sb,N,Db,Da,Sb
+                     Richochet: Sa,N,Sb,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 1
+                 SimpleShooter: -1
+                        Coward: -1
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: SimpleShooter Coward Richochet
+SimpleShooter: PoliticallyCorrectGunman Coward Richochet
+Coward: PoliticallyCorrectGunman SimpleShooter Richochet
+Richochet: PoliticallyCorrectGunman SimpleShooter Coward
+Generated: 2014/08/12 07:51:35.832079708 UTC

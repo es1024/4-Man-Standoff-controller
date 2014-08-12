@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Ninja Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,Tb
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sa,N
+                         Ninja: Dd,Da,Da,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+                       HanSolo: -5
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Sniper HanSolo
+HanSolo: Ninja Sniper Grenadier
+Ninja: HanSolo Sniper Grenadier
+Sniper: HanSolo Ninja Grenadier
+Generated: 2014/08/12 07:38:10.401143781 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Bomberman Ninja Scared
+                         Spock: Sd,N,N,N,N,N,Sd,N,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Db,Da,Db,Dc,Dd,Db,Dc,Dd,Dc,Db,Db,Dc,Da,Db,Da,Da,Db,Db
+                        Scared: Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 5
+                     Bomberman: -1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared Bomberman Ninja
+Bomberman: Scared Spock Ninja
+Ninja: Scared Spock Bomberman
+Scared: Ninja Spock Bomberman
+Generated: 2014/08/12 10:13:22.425342902 UTC

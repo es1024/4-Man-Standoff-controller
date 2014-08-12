@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Zaenille TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Sb,N,Sb,N,Sd,N,N,Sa,N
+                        Coward: Sa,N,Sa,N,Da,Da,Da,Da,Da
+                      Zaenille: Sc,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Da,N,Db,Db,Da,Da,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+                        Coward: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille TwentyFourthsAndAHalfCentury Coward
+Coward: Zaenille TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Zaenille: Coward TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Coward Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 08:15:44.161191727 UTC

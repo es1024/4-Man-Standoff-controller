@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Rule0Bot CourageTheDog
+                      Pacifist: N,N
+                     Aggressor: P,Td
+                      Rule0Bot: N,Sb
+                 CourageTheDog: Sc,N
+Final Health:
+                      Pacifist: 2
+                     Aggressor: 0
+                      Rule0Bot: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Aggressor Rule0Bot
+Aggressor: CourageTheDog Pacifist Rule0Bot
+Rule0Bot: CourageTheDog Pacifist Aggressor
+CourageTheDog: Rule0Bot Pacifist Aggressor
+Generated: 2014/08/12 08:58:19.027707662 UTC

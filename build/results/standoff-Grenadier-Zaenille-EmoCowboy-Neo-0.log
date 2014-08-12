@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille EmoCowboy Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,Da
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+                     EmoCowboy: -2
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille EmoCowboy Neo
+Zaenille: Grenadier EmoCowboy Neo
+EmoCowboy: Grenadier Zaenille Neo
+Neo: Grenadier Zaenille EmoCowboy
+Generated: 2014/08/12 08:55:05.904923568 UTC

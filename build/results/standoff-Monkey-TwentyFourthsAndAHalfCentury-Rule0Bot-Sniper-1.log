@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Rule0Bot Sniper
+                        Monkey: N,Dc,Da,Dc,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dc,Da,Dd,Da,N,Dc,N,Dd,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 3
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Rule0Bot Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot Sniper Monkey
+Rule0Bot: TwentyFourthsAndAHalfCentury Sniper Monkey
+Sniper: TwentyFourthsAndAHalfCentury Rule0Bot Monkey
+Generated: 2014/08/12 09:41:35.444283530 UTC

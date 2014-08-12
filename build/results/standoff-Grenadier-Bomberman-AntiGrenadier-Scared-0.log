@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman AntiGrenadier Scared
+                     Grenadier: N,N,N,N,N,N,N,N,P,Td
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,Sa
+                        Scared: N,N,N,N,Sb,N,Sa,N,Sc,N
+Final Health:
+                     Grenadier: -2
+                     Bomberman: 0
+                 AntiGrenadier: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman AntiGrenadier Scared
+Bomberman: Grenadier AntiGrenadier Scared
+AntiGrenadier: Grenadier Bomberman Scared
+Scared: Grenadier Bomberman AntiGrenadier
+Generated: 2014/08/12 08:23:09.565120562 UTC

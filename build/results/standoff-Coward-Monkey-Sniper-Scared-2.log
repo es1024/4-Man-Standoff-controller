@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey Sniper Scared
+                        Coward: Sc,N,Sd,N,Sd,N,Dc,Dc,Dc,Dc,Sd,N,Dc,Dc,Dc,Sd,N,Dc,Sd,N,Dc,Dc,Sd,N,Dc,Dc,Sd,N,Dc,Sd,N,Dc,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Dc,Dc,Sd,N
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -19
+                        Monkey: -2
+                        Sniper: -17
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared Monkey Sniper
+Monkey: Scared Coward Sniper
+Sniper: Scared Coward Monkey
+Scared: Sniper Coward Monkey
+Generated: 2014/08/12 07:22:55.458511051 UTC

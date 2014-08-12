@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Richochet Ninja
+                      Pacifist: N,N,N
+                     Aggressor: P,Ta,Sc
+                     Richochet: Sd,N,Sb
+                         Ninja: Db,Da,N
+Final Health:
+                      Pacifist: -3
+                     Aggressor: 0
+                     Richochet: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Richochet Ninja
+Aggressor: Pacifist Richochet Ninja
+Richochet: Pacifist Aggressor Ninja
+Ninja: Pacifist Aggressor Richochet
+Generated: 2014/08/12 10:19:45.283285712 UTC

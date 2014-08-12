@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey AntiGrenadier CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,Db,Db,Dc,N,Db,N,N,N,N,N,Sc,N,Dc,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Db,Sb,N,Db,Dc,Dc,Db,Dc,Dc,Db,Dc,Dc,Db,Db,Db,Dc,Dc,Dc,Dc,Sc,N,Dc,Sb,N,Db,Dc,Db,Sb,N,Dc,Dc,Sc
+Final Health:
+                      Zaenille: -2
+                        Monkey: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog Monkey AntiGrenadier
+Monkey: CourageTheDog Zaenille AntiGrenadier
+AntiGrenadier: CourageTheDog Zaenille Monkey
+CourageTheDog: AntiGrenadier Zaenille Monkey
+Generated: 2014/08/12 06:13:22.219720235 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Ninja AntiGrenadier CourageTheDog
+                     Aggressor: P,Tb,N
+                         Ninja: Da,Dd,N
+                 AntiGrenadier: N,Sa,N
+                 CourageTheDog: Sa,N,Sc
+Final Health:
+                     Aggressor: -2
+                         Ninja: -3
+                 AntiGrenadier: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Ninja AntiGrenadier CourageTheDog
+Ninja: Aggressor AntiGrenadier CourageTheDog
+AntiGrenadier: Aggressor Ninja CourageTheDog
+CourageTheDog: Aggressor Ninja AntiGrenadier
+Generated: 2014/08/12 07:50:42.372886954 UTC

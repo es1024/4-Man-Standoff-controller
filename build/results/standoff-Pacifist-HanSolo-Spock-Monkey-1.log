@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Spock Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                         Spock: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 1
+                         Spock: -1
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Monkey HanSolo
+HanSolo: Spock Monkey Pacifist
+Spock: HanSolo Monkey Pacifist
+Monkey: HanSolo Spock Pacifist
+Generated: 2014/08/12 08:07:45.741055736 UTC

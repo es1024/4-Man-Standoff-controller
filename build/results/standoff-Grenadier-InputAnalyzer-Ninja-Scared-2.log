@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Ninja Scared
+                     Grenadier: P,Td
+                 InputAnalyzer: Dd,Sc
+                         Ninja: Db,Dc
+                        Scared: Sa,N
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: 2
+                         Ninja: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared InputAnalyzer Ninja
+InputAnalyzer: Scared Grenadier Ninja
+Ninja: Scared Grenadier InputAnalyzer
+Scared: Ninja Grenadier InputAnalyzer
+Generated: 2014/08/12 10:04:30.481155906 UTC

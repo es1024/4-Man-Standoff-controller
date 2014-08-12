@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Bomberman Rule0Bot
+                 InputAnalyzer: Dd,Db,Dd,Sc,N,Dd,Sa,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sc,N,N,N,N,N,N,N,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                         Spock: 5
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Spock Bomberman
+Spock: Rule0Bot InputAnalyzer Bomberman
+Bomberman: Rule0Bot InputAnalyzer Spock
+Rule0Bot: Bomberman InputAnalyzer Spock
+Generated: 2014/08/12 06:11:48.617584639 UTC

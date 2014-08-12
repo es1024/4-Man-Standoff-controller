@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Rule0Bot CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                        Coward: Sc,N,Sc,N,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Da,Db,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Da,Sa
+Final Health:
+               StraightShooter: -1
+                        Coward: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Coward Rule0Bot
+Coward: CourageTheDog StraightShooter Rule0Bot
+Rule0Bot: CourageTheDog StraightShooter Coward
+CourageTheDog: Rule0Bot StraightShooter Coward
+Generated: 2014/08/12 10:27:47.080448919 UTC

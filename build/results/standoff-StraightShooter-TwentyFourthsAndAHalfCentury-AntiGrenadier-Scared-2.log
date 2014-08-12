@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury AntiGrenadier Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N
+  TwentyFourthsAndAHalfCentury: N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,Sc,N,Sa,N,Sc,N,Sa,N,Sa,N,Sc
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Scared StraightShooter AntiGrenadier
+AntiGrenadier: Scared StraightShooter TwentyFourthsAndAHalfCentury
+Scared: AntiGrenadier StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:35:12.122280599 UTC

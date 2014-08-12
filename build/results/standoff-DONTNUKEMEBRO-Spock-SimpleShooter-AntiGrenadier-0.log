@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock SimpleShooter AntiGrenadier
+                 DONTNUKEMEBRO: Db,Dd,Sb,N,Dc,Dd,Sc,N,Sc,N,Sc
+                         Spock: Sa,N,Sd,N,Sd,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sa,N,Sa,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: 1
+                         Spock: -1
+                 SimpleShooter: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Spock SimpleShooter AntiGrenadier
+Spock: DONTNUKEMEBRO SimpleShooter AntiGrenadier
+SimpleShooter: DONTNUKEMEBRO Spock AntiGrenadier
+AntiGrenadier: DONTNUKEMEBRO Spock SimpleShooter
+Generated: 2014/08/12 07:05:10.410135069 UTC

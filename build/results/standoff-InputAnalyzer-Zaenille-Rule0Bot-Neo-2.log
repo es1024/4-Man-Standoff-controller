@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Rule0Bot Neo
+                 InputAnalyzer: Dd,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,N,N,N,N,Dc,N,N,N,N,N,N,N,Dc,Dc,Dc,N,Dc,N,Dc,Dc,N,Dc,N,Dc,N,N,N,N,N,N,N,N,Dc,N,Dc,N,N,N,Dc,N,Dc,Dc,Dc,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                      Zaenille: -2
+                      Rule0Bot: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Zaenille Rule0Bot
+Zaenille: Neo InputAnalyzer Rule0Bot
+Rule0Bot: Neo InputAnalyzer Zaenille
+Neo: Rule0Bot InputAnalyzer Zaenille
+Generated: 2014/08/12 07:56:31.848700451 UTC

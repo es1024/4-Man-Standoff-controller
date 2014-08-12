@@ -1,0 +1,16 @@
+Standoff between: Aggressor AntiGrenadier Sniper Neo
+                     Aggressor: P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,Db,Db,N,Db,N,N,Db,Db,Db,Db,Db,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,Db,Db,Db,Db,Db,Db,Db,N,N,N
+Final Health:
+                     Aggressor: -2
+                 AntiGrenadier: -18
+                        Sniper: -3
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper Neo AntiGrenadier
+AntiGrenadier: Sniper Neo Aggressor
+Sniper: AntiGrenadier Neo Aggressor
+Neo: AntiGrenadier Sniper Aggressor
+Generated: 2014/08/12 09:12:14.012817168 UTC

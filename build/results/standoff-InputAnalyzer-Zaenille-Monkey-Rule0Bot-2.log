@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille Monkey Rule0Bot
+                 InputAnalyzer: Dd,P,Sd,N
+                      Zaenille: Sb,N,N,N
+                        Monkey: N,N,N,N
+                      Rule0Bot: N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                      Zaenille: -2
+                        Monkey: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Zaenille Monkey
+Zaenille: Rule0Bot InputAnalyzer Monkey
+Monkey: Rule0Bot InputAnalyzer Zaenille
+Rule0Bot: Monkey InputAnalyzer Zaenille
+Generated: 2014/08/12 06:12:24.627662338 UTC

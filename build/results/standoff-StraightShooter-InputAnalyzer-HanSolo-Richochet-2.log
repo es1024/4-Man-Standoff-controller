@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer HanSolo Richochet
+               StraightShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,P,Db,N,N
+                       HanSolo: Sd,N,Sd,N,Sa
+                     Richochet: Sb,N,Sb,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                       HanSolo: 2
+                     Richochet: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet InputAnalyzer HanSolo
+InputAnalyzer: Richochet StraightShooter HanSolo
+HanSolo: Richochet StraightShooter InputAnalyzer
+Richochet: HanSolo StraightShooter InputAnalyzer
+Generated: 2014/08/12 07:05:43.149472910 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Zaenille CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sa,N,Sa,N,Sd,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,N,Sb,N,Sb,N,Da,Sa
+Final Health:
+                      Pacifist: -1
+                     Richochet: -1
+                      Zaenille: -4
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille CourageTheDog Richochet
+Richochet: Zaenille CourageTheDog Pacifist
+Zaenille: Richochet CourageTheDog Pacifist
+CourageTheDog: Richochet Zaenille Pacifist
+Generated: 2014/08/12 07:06:21.954960225 UTC

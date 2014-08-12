@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey AntiGrenadier Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Da,Db,N,Db,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Db,Db,Db,N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Da,Db,Da,Db,N,Db,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N
+Final Health:
+               StraightShooter: -15
+                        Monkey: -15
+                 AntiGrenadier: -1
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey AntiGrenadier Neo
+Monkey: StraightShooter AntiGrenadier Neo
+AntiGrenadier: StraightShooter Monkey Neo
+Neo: StraightShooter Monkey AntiGrenadier
+Generated: 2014/08/12 07:35:39.652771209 UTC

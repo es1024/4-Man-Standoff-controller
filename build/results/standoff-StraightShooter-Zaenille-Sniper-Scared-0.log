@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Sniper Scared
+               StraightShooter: Sc,N,Sc,N
+                      Zaenille: Sb,N,N,N
+                        Sniper: Sa,N,Sa,N
+                        Scared: N,Sa,N,Sc
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -2
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille Sniper Scared
+Zaenille: StraightShooter Sniper Scared
+Sniper: StraightShooter Zaenille Scared
+Scared: StraightShooter Zaenille Sniper
+Generated: 2014/08/12 06:01:02.092531864 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter Zaenille
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                 DONTNUKEMEBRO: Dc,Dc,Dd,Dd,Sc,N,Da,Da,Da,Da,Da,Da,Da,Da,Da,Dd,Dd,Dc,Dc,Dc,Dd,Dd,Dd,Da,Da,Da,Da,Da,Da,Da,Da,Da,Dd,Dd,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                 DONTNUKEMEBRO: -17
+                 SimpleShooter: -3
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO SimpleShooter Zaenille
+DONTNUKEMEBRO: StraightShooter SimpleShooter Zaenille
+SimpleShooter: StraightShooter DONTNUKEMEBRO Zaenille
+Zaenille: StraightShooter DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 07:17:02.192117801 UTC

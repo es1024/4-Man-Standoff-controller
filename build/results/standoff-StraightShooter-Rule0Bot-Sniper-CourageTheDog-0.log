@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Rule0Bot Sniper CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Db,Da,Db,Db,Db,Sa,N,Db,Db,Db,Db,Db,Db,Sb,N,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+               StraightShooter: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot Sniper CourageTheDog
+Rule0Bot: StraightShooter Sniper CourageTheDog
+Sniper: StraightShooter Rule0Bot CourageTheDog
+CourageTheDog: StraightShooter Rule0Bot Sniper
+Generated: 2014/08/12 07:50:35.880224497 UTC

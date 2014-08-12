@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock AntiGrenadier
+                 InputAnalyzer: Dc,Db,Dc,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dd,Da,Da,Dc,Sa,N,Dd,Sc,N,Da,Dc,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,N,Sb,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,N,Sb,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                 DONTNUKEMEBRO: -1
+                         Spock: -19
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock AntiGrenadier DONTNUKEMEBRO
+DONTNUKEMEBRO: Spock AntiGrenadier InputAnalyzer
+Spock: DONTNUKEMEBRO AntiGrenadier InputAnalyzer
+AntiGrenadier: DONTNUKEMEBRO Spock InputAnalyzer
+Generated: 2014/08/12 10:13:15.860996042 UTC

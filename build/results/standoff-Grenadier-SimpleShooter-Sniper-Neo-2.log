@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Sniper Neo
+                     Grenadier: P,Tb
+                 SimpleShooter: Sc,N
+                        Sniper: Sd,N
+                           Neo: N,Da
+Final Health:
+                     Grenadier: 2
+                 SimpleShooter: -3
+                        Sniper: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo SimpleShooter Sniper
+SimpleShooter: Neo Grenadier Sniper
+Sniper: Neo Grenadier SimpleShooter
+Neo: Sniper Grenadier SimpleShooter
+Generated: 2014/08/12 05:52:35.093758847 UTC

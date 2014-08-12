@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor AntiGrenadier Neo
+      PoliticallyCorrectGunman: N,N,N,Sb,N,Sa
+                     Aggressor: P,Tc,N,N,N,N
+                 AntiGrenadier: N,Sb,N,N,N,N
+                           Neo: N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Aggressor: 0
+                 AntiGrenadier: -3
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Neo Aggressor
+Aggressor: AntiGrenadier Neo PoliticallyCorrectGunman
+AntiGrenadier: Aggressor Neo PoliticallyCorrectGunman
+Neo: Aggressor AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 06:44:25.470259377 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Ninja AntiGrenadier CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Dc,Dc,Dc,Db,Dd,Da,Da,Da,Db,Db,Dc,Da,Dd,Dd,Dd,Db,Dc,Dc,Da,Da,Da,Db,Dc,Dc,Dd,Da,Db,Db,Db,Dc,Da,Dd,Dc,Dd,Da,Db,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,Da,Da,Da,Sb,N,Db,Db,Da,Sb,N,Db,Da,Db,Sc,N,Dc,Db,Da,Da,Da,Sa,N,Da,Dc,Dc,Dc,Db,Db,Sc,N,Sa,N,Db,Db,Sb
+Final Health:
+                      Pacifist: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja AntiGrenadier CourageTheDog
+Ninja: Pacifist AntiGrenadier CourageTheDog
+AntiGrenadier: Pacifist Ninja CourageTheDog
+CourageTheDog: Pacifist Ninja AntiGrenadier
+Generated: 2014/08/12 08:53:57.513975286 UTC

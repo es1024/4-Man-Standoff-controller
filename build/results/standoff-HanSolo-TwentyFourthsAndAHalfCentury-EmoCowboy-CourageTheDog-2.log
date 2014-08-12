@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N,N,N,N,Sa
+                     EmoCowboy: N,Sc,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Sb,N,N,N,N
+Final Health:
+                       HanSolo: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: CourageTheDog TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: CourageTheDog HanSolo EmoCowboy
+EmoCowboy: CourageTheDog HanSolo TwentyFourthsAndAHalfCentury
+CourageTheDog: EmoCowboy HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:09:36.574804574 UTC

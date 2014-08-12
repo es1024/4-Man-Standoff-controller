@@ -1,0 +1,16 @@
+Standoff between: Coward AntiGrenadier Neo CourageTheDog
+                        Coward: Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Da,N,Da,Dd,N,Dd,Da,N,Da,Sa,N,N,Da,Sa,N
+                 CourageTheDog: Sc,N,Db,Da,Da,Da,Dc,Da,Dc,Dc,Dc,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                 AntiGrenadier: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Neo CourageTheDog AntiGrenadier
+AntiGrenadier: Neo CourageTheDog Coward
+Neo: AntiGrenadier CourageTheDog Coward
+CourageTheDog: AntiGrenadier Neo Coward
+Generated: 2014/08/12 05:44:47.085823664 UTC

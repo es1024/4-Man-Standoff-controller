@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman EmoCowboy Sniper
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,Sc,N,N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy Sniper Bomberman
+Bomberman: EmoCowboy Sniper Coward
+EmoCowboy: Bomberman Sniper Coward
+Sniper: Bomberman EmoCowboy Coward
+Generated: 2014/08/12 07:57:51.272397350 UTC

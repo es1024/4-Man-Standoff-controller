@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Monkey Ninja
+                     Grenadier: N,N,P,Td,P,N,N
+                      Zaenille: Sb,N,N,N,N,N,N
+                        Monkey: N,Sb,N,N,N,N,N
+                         Ninja: Dd,Dc,Dd,Dc,N,N,N
+Final Health:
+                     Grenadier: -4
+                      Zaenille: -2
+                        Monkey: -1
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Zaenille Monkey
+Zaenille: Ninja Grenadier Monkey
+Monkey: Ninja Grenadier Zaenille
+Ninja: Monkey Grenadier Zaenille
+Generated: 2014/08/12 07:34:18.869039354 UTC

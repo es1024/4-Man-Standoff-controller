@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO AntiGrenadier Rule0Bot
+                 InputAnalyzer: Dd,Dc,Dd,Dc,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Dc,Dd,Da,Da,Sa,N,Dc,Da,Dc,Da,Da,Da,Dd,Dd,Dc,Dd,Dd,Dd,Dd,Da,Dc,Dc,Da,Dd,Dd,Dd,Dd,Da,Dd,Dd,Da,Da,Da,Sc,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: -18
+                 AntiGrenadier: 0
+                      Rule0Bot: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot DONTNUKEMEBRO AntiGrenadier
+DONTNUKEMEBRO: Rule0Bot InputAnalyzer AntiGrenadier
+AntiGrenadier: Rule0Bot InputAnalyzer DONTNUKEMEBRO
+Rule0Bot: AntiGrenadier InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 07:23:15.437714371 UTC

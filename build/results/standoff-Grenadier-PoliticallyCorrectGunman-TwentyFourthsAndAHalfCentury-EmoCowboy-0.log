@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury EmoCowboy
+                     Grenadier: N,N,P,Tb
+      PoliticallyCorrectGunman: Dd,Da,Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Sb,N
+                     EmoCowboy: Sd,N,N,N
+Final Health:
+                     Grenadier: 2
+      PoliticallyCorrectGunman: -5
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury EmoCowboy
+PoliticallyCorrectGunman: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Grenadier PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: Grenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:52:46.416395573 UTC

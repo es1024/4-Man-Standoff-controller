@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Neo CourageTheDog
+                 DONTNUKEMEBRO: Db,Db,Dc,Dc,Dd,Dd,Db,Dd,Dc,Sb,N,Dd,Dc,Dd,Dc,Sd,N,Db,Dd,Db,Dd,Dc,Db,Db,Db,Sd
+  TwentyFourthsAndAHalfCentury: Dc,Dc,N,N,N,N,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,Db,N,Da,Da,Da,Da,Da,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sb,N,Da,Da,Da,Db,Dc,Sc,N,Dc,Sa,N,Sc,N,Dc,Dc,Sc,N,Da,N,Sa,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: CourageTheDog DONTNUKEMEBRO Neo
+Neo: CourageTheDog DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+CourageTheDog: Neo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:56:54.994465267 UTC

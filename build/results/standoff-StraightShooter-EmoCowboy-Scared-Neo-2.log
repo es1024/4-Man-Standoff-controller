@@ -1,0 +1,16 @@
+Standoff between: StraightShooter EmoCowboy Scared Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sa,N,Sd,N,Sa,N,N,N,N,N,Sa,N,Sd
+                           Neo: N,N,N,N,N,N,Da,N,N,N,N,N,Da,N,N
+Final Health:
+               StraightShooter: -1
+                     EmoCowboy: -4
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo EmoCowboy Scared
+EmoCowboy: Neo StraightShooter Scared
+Scared: Neo StraightShooter EmoCowboy
+Neo: Scared StraightShooter EmoCowboy
+Generated: 2014/08/12 05:56:16.158554548 UTC

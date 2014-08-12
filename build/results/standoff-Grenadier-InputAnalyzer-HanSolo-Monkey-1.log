@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer HanSolo Monkey
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,P,N,N
+                 InputAnalyzer: Dc,P,Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,P,N
+Final Health:
+                     Grenadier: -7
+                 InputAnalyzer: -3
+                       HanSolo: 0
+                        Monkey: -7
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Monkey InputAnalyzer
+InputAnalyzer: HanSolo Monkey Grenadier
+HanSolo: InputAnalyzer Monkey Grenadier
+Monkey: InputAnalyzer HanSolo Grenadier
+Generated: 2014/08/12 08:48:51.648520713 UTC

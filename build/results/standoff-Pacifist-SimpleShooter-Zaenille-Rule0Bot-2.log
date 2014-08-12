@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Zaenille Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot SimpleShooter Zaenille
+SimpleShooter: Rule0Bot Pacifist Zaenille
+Zaenille: Rule0Bot Pacifist SimpleShooter
+Rule0Bot: Zaenille Pacifist SimpleShooter
+Generated: 2014/08/12 10:15:52.439890008 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Spock Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N
+                 InputAnalyzer: Dd,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,N,Sa,N,Sa,N,Sd,N,Sd,N
+                           Neo: N,N,N,N,N,N,N,Sc,N,Sc,N,N,N,Sc
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -2
+                         Spock: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo InputAnalyzer Spock
+InputAnalyzer: Neo StraightShooter Spock
+Spock: Neo StraightShooter InputAnalyzer
+Neo: Spock StraightShooter InputAnalyzer
+Generated: 2014/08/12 05:55:42.716586384 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo SimpleShooter Sniper
+                     Grenadier: N,N,N,N,N,P,N,N
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N
+                 SimpleShooter: Sa,N,Sd,N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                       HanSolo: 0
+                 SimpleShooter: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Sniper HanSolo
+HanSolo: SimpleShooter Sniper Grenadier
+SimpleShooter: HanSolo Sniper Grenadier
+Sniper: HanSolo SimpleShooter Grenadier
+Generated: 2014/08/12 08:25:41.272669181 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Zaenille TwentyFourthsAndAHalfCentury
+                     Grenadier: P,Td
+                        Coward: Sa,N
+                      Zaenille: Sc,N
+  TwentyFourthsAndAHalfCentury: Da,Da
+Final Health:
+                     Grenadier: 0
+                        Coward: 2
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille TwentyFourthsAndAHalfCentury Coward
+Coward: Zaenille TwentyFourthsAndAHalfCentury Grenadier
+Zaenille: Coward TwentyFourthsAndAHalfCentury Grenadier
+TwentyFourthsAndAHalfCentury: Coward Zaenille Grenadier
+Generated: 2014/08/12 08:18:46.815008823 UTC

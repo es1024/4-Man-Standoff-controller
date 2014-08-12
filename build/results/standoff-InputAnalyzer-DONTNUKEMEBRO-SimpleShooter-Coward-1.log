@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO SimpleShooter Coward
+                 InputAnalyzer: Dc,Db,P,Sd,N
+                 DONTNUKEMEBRO: Dd,Dd,Dd,Sa,N
+                 SimpleShooter: Sa,N,Sd,N,Sb
+                        Coward: Sa,N,Sa,N,N
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 2
+                        Coward: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Coward DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Coward InputAnalyzer
+SimpleShooter: DONTNUKEMEBRO Coward InputAnalyzer
+Coward: DONTNUKEMEBRO SimpleShooter InputAnalyzer
+Generated: 2014/08/12 06:08:42.095300468 UTC

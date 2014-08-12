@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Monkey Ninja
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Da,Db,Dc,Dd,Dc,Dd,Dc,Db,Dc
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+                        Monkey: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo Monkey Ninja
+HanSolo: StraightShooter Monkey Ninja
+Monkey: StraightShooter HanSolo Ninja
+Ninja: StraightShooter HanSolo Monkey
+Generated: 2014/08/12 09:40:38.492717480 UTC

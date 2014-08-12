@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Zaenille Bomberman
+                     Grenadier: N,N,N,P,N,N
+                     Richochet: Sd,N,Sd,N,Sd,N
+                      Zaenille: Sc,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                     Richochet: 2
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Bomberman Richochet
+Richochet: Zaenille Bomberman Grenadier
+Zaenille: Richochet Bomberman Grenadier
+Bomberman: Richochet Zaenille Grenadier
+Generated: 2014/08/12 10:18:48.226768179 UTC

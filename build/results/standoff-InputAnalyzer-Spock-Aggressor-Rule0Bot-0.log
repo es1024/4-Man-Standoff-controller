@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Aggressor Rule0Bot
+                 InputAnalyzer: Db,Sc,N
+                         Spock: Sa,N,Sd
+                     Aggressor: P,Ta,N
+                      Rule0Bot: N,Sc,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 2
+                     Aggressor: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Aggressor Rule0Bot
+Spock: InputAnalyzer Aggressor Rule0Bot
+Aggressor: InputAnalyzer Spock Rule0Bot
+Rule0Bot: InputAnalyzer Spock Aggressor
+Generated: 2014/08/12 07:39:08.868039816 UTC

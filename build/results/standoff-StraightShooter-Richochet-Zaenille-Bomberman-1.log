@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Zaenille Bomberman
+               StraightShooter: Sd,N,Sd,N,Sd
+                     Richochet: Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N
+                     Bomberman: N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                      Zaenille: -2
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille Bomberman Richochet
+Richochet: Zaenille Bomberman StraightShooter
+Zaenille: Richochet Bomberman StraightShooter
+Bomberman: Richochet Zaenille StraightShooter
+Generated: 2014/08/12 07:09:34.916230491 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Ninja AntiGrenadier
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sc,N,Sb,N,Sd,N,Sc,N,Sc,N,Sc,N,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,Sc,N
+                         Ninja: Da,Dd,Dc,Dc,Dc,Dc,Da,Dc,Da,Dd,Dd,Dc,Da,Db,Db,Dd,Da,Db,Da,Dd,Db,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey Ninja AntiGrenadier
+Monkey: SimpleShooter Ninja AntiGrenadier
+Ninja: SimpleShooter Monkey AntiGrenadier
+AntiGrenadier: SimpleShooter Monkey Ninja
+Generated: 2014/08/12 09:25:40.454700825 UTC

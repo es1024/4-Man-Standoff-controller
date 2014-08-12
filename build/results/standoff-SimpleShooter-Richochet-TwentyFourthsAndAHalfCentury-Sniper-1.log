@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet TwentyFourthsAndAHalfCentury Sniper
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sc,N,Sd,N,Sc
+                     Richochet: Sa,N,Sc,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Sniper Richochet
+Richochet: TwentyFourthsAndAHalfCentury Sniper SimpleShooter
+TwentyFourthsAndAHalfCentury: Richochet Sniper SimpleShooter
+Sniper: Richochet TwentyFourthsAndAHalfCentury SimpleShooter
+Generated: 2014/08/12 08:39:16.031583877 UTC

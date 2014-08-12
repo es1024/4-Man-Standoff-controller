@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Monkey Ninja
+                 InputAnalyzer: Db,Da,P,N,Sd
+      PoliticallyCorrectGunman: Dc,Sc,N,P,Ta
+                        Monkey: N,Dd,Db,Da,P
+                         Ninja: Dd,Db,Da,Da,Db
+Final Health:
+                 InputAnalyzer: -12
+      PoliticallyCorrectGunman: -4
+                        Monkey: -9
+                         Ninja: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Monkey Ninja
+PoliticallyCorrectGunman: InputAnalyzer Monkey Ninja
+Monkey: InputAnalyzer PoliticallyCorrectGunman Ninja
+Ninja: InputAnalyzer PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 10:01:30.333818611 UTC

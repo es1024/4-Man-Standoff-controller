@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey AntiGrenadier Sniper
+                         Spock: Sd,N,Sd,N,Sb,N,Sb,N,Sd,N,Sd,N,N,N,N,N,Sd,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N
+                        Monkey: N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -17
+                        Monkey: -1
+                 AntiGrenadier: -15
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper Monkey AntiGrenadier
+Monkey: Sniper Spock AntiGrenadier
+AntiGrenadier: Sniper Spock Monkey
+Sniper: AntiGrenadier Spock Monkey
+Generated: 2014/08/12 05:57:14.000676976 UTC

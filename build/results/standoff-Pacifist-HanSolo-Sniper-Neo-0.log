@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Sniper Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                        Sniper: Sb,N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dc,Da,N,N,N,N,N,N,N,N,N,N,Db,N,Db,N,N,Sb,N
+Final Health:
+                      Pacifist: -3
+                       HanSolo: 1
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Sniper Neo
+HanSolo: Pacifist Sniper Neo
+Sniper: Pacifist HanSolo Neo
+Neo: Pacifist HanSolo Sniper
+Generated: 2014/08/12 07:31:06.162620335 UTC

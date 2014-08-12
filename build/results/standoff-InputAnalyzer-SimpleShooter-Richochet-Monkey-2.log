@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Richochet Monkey
+                 InputAnalyzer: Dd,Sc,N,Sb,N,Sb,N,Dc,Sd
+                 SimpleShooter: Sc,N,Sa,N,N,N,N,N,N
+                     Richochet: Sb,N,Sb,N,Sd,N,Sa,N,Sa
+                        Monkey: N,Dd,Dd,Dd,N,Sd,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                 SimpleShooter: -1
+                     Richochet: 1
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey SimpleShooter Richochet
+SimpleShooter: Monkey InputAnalyzer Richochet
+Richochet: Monkey InputAnalyzer SimpleShooter
+Monkey: Richochet InputAnalyzer SimpleShooter
+Generated: 2014/08/12 09:04:44.490646768 UTC

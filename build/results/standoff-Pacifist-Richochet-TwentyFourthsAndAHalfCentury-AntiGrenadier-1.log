@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet TwentyFourthsAndAHalfCentury AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sc,N,Sc,N,Sa,N,Sd,N,Sc,N,Sd,N,Sa,N,Sc,N,Sa,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Db,N,N,Dd,Db,Dd,Da,Da,Da,Da,Db,Da,Da,Sb,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury AntiGrenadier Richochet
+Richochet: TwentyFourthsAndAHalfCentury AntiGrenadier Pacifist
+TwentyFourthsAndAHalfCentury: Richochet AntiGrenadier Pacifist
+AntiGrenadier: Richochet TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 10:15:01.726438488 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Richochet CourageTheDog
+                      Pacifist: N,N
+                     Aggressor: P,Ta
+                     Richochet: Sd,N
+                 CourageTheDog: Sb,N
+Final Health:
+                      Pacifist: -3
+                     Aggressor: 0
+                     Richochet: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Aggressor Richochet
+Aggressor: CourageTheDog Pacifist Richochet
+Richochet: CourageTheDog Pacifist Aggressor
+CourageTheDog: Richochet Pacifist Aggressor
+Generated: 2014/08/12 07:25:06.692247879 UTC

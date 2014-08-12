@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Sniper Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dd,Da,Dd,N,Dd,Dc,Dc,Dc,Dc,Dc,Dd,Dc,Dd,Sd,N
+                        Sniper: Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sc,N,Sb,N,Sb,N,Sc,N,Sb,N,Sc,N,Sb
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Sniper Scared
+TwentyFourthsAndAHalfCentury: Pacifist Sniper Scared
+Sniper: Pacifist TwentyFourthsAndAHalfCentury Scared
+Scared: Pacifist TwentyFourthsAndAHalfCentury Sniper
+Generated: 2014/08/12 05:44:31.018643870 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Richochet Ninja
+                 SimpleShooter: Sd,N,N
+                     Aggressor: P,Ta,N
+                     Richochet: Sb,N,Sd
+                         Ninja: Da,Da,Da
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 0
+                     Richochet: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor Richochet Ninja
+Aggressor: SimpleShooter Richochet Ninja
+Richochet: SimpleShooter Aggressor Ninja
+Ninja: SimpleShooter Aggressor Richochet
+Generated: 2014/08/12 06:04:22.858038195 UTC

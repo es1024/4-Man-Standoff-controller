@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Richochet Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N
+                     Richochet: Sb,N,Sa,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                     Richochet: 5
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey StraightShooter Richochet
+StraightShooter: Monkey Pacifist Richochet
+Richochet: Monkey Pacifist StraightShooter
+Monkey: Richochet Pacifist StraightShooter
+Generated: 2014/08/12 07:39:43.370098263 UTC

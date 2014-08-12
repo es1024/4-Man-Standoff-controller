@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter EmoCowboy AntiGrenadier Sniper
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                     EmoCowboy: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy AntiGrenadier Sniper
+EmoCowboy: SimpleShooter AntiGrenadier Sniper
+AntiGrenadier: SimpleShooter EmoCowboy Sniper
+Sniper: SimpleShooter EmoCowboy AntiGrenadier
+Generated: 2014/08/12 08:01:28.320447224 UTC

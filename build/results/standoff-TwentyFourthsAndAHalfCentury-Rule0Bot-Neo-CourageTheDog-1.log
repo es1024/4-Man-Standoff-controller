@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Rule0Bot Neo CourageTheDog
+  TwentyFourthsAndAHalfCentury: Db,Db,Db,N,N,N,N,N,N,Sc,N,Sb,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,N,N,N,N,N,N,Da,N,N,Dd,N,Dd,N,N,N,N,N,N,N,N,Dd,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Db,Sa,N,Dc,Db,Dc,Dc,Dc,Dc,Da,Dc,Da,Sc,N,Da,Dc,Dc,Sa,N,Db,Db,Dc,Db,Sc,N,Db,Db,Db,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Neo CourageTheDog Rule0Bot
+Rule0Bot: Neo CourageTheDog TwentyFourthsAndAHalfCentury
+Neo: Rule0Bot CourageTheDog TwentyFourthsAndAHalfCentury
+CourageTheDog: Rule0Bot Neo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:19:06.066283471 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet EmoCowboy Rule0Bot
+                     Aggressor: P,Tb
+                     Richochet: Sd,N
+                     EmoCowboy: Sc,N
+                      Rule0Bot: N,N
+Final Health:
+                     Aggressor: 2
+                     Richochet: -3
+                     EmoCowboy: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet EmoCowboy Rule0Bot
+Richochet: Aggressor EmoCowboy Rule0Bot
+EmoCowboy: Aggressor Richochet Rule0Bot
+Rule0Bot: Aggressor Richochet EmoCowboy
+Generated: 2014/08/12 08:10:36.338036861 UTC

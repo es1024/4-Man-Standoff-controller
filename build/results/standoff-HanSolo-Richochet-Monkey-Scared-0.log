@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Monkey Scared
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sd
+                     Richochet: Sc,N,Sd,N,N,N,N
+                        Monkey: N,N,N,Sb,N,Sc,N
+                        Scared: N,N,Sa,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+                        Monkey: -2
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Monkey Scared
+Richochet: HanSolo Monkey Scared
+Monkey: HanSolo Richochet Scared
+Scared: HanSolo Richochet Monkey
+Generated: 2014/08/12 07:39:54.983073609 UTC

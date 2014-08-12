@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Bomberman Rule0Bot
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,Dc,Dc,Dc,N,Sc,N,Db,N,N,N,Dc,Sd,N,P,Sc,N
+                         Spock: Sd,N,N,N,N,Sd,N,Sd,N,Sd,N,N,N,N,N,Sc,N,Sc,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: 0
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Spock Bomberman
+Spock: Rule0Bot PoliticallyCorrectGunman Bomberman
+Bomberman: Rule0Bot PoliticallyCorrectGunman Spock
+Rule0Bot: Bomberman PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 05:58:22.266068460 UTC

@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Sd,N,N,N,N,Sd,N,N,N,N,Sd,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Rule0Bot TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Rule0Bot Zaenille Bomberman
+Bomberman: Rule0Bot Zaenille TwentyFourthsAndAHalfCentury
+Rule0Bot: Bomberman Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:23:59.711998461 UTC

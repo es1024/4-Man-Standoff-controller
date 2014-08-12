@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Coward Sniper
+               StraightShooter: Sc,N,Sc,N,Sc
+                 InputAnalyzer: Da,Db,Db,Dd,P
+                        Coward: Sd,N,Sd,N,Sd
+                        Sniper: Sb,N,Sb,N,Sb
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -7
+                        Coward: -4
+                        Sniper: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer Coward Sniper
+InputAnalyzer: StraightShooter Coward Sniper
+Coward: StraightShooter InputAnalyzer Sniper
+Sniper: StraightShooter InputAnalyzer Coward
+Generated: 2014/08/12 07:45:55.825816727 UTC

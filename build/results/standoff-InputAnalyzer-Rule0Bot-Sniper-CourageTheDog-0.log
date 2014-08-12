@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Rule0Bot Sniper CourageTheDog
+                 InputAnalyzer: Db,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Dc,Sc,N,Sc,N,Db,Db,Sc,N,Db,Db,Sb,N,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                 InputAnalyzer: -4
+                      Rule0Bot: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Sniper CourageTheDog
+Rule0Bot: InputAnalyzer Sniper CourageTheDog
+Sniper: InputAnalyzer Rule0Bot CourageTheDog
+CourageTheDog: InputAnalyzer Rule0Bot Sniper
+Generated: 2014/08/12 09:33:15.089342070 UTC

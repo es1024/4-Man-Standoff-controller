@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Ninja AntiGrenadier
+                        Coward: Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Dd,Dd,Dd,Sd
+                     Richochet: Sa,N,Sc,N,Sd,N,Sd,N,Sa,N,N,N,N,N
+                         Ninja: Db,Db,Dd,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier Richochet Ninja
+Richochet: AntiGrenadier Coward Ninja
+Ninja: AntiGrenadier Coward Richochet
+AntiGrenadier: Ninja Coward Richochet
+Generated: 2014/08/12 06:17:03.595499861 UTC

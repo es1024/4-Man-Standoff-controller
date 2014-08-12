@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Spock EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,P,Tb
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                         Spock: N,N,N,N,N,N,Sd,N,Sa
+                     EmoCowboy: N,N,N,N,Sd,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                       HanSolo: -3
+                         Spock: 2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy HanSolo Spock
+HanSolo: EmoCowboy Grenadier Spock
+Spock: EmoCowboy Grenadier HanSolo
+EmoCowboy: Spock Grenadier HanSolo
+Generated: 2014/08/12 07:30:15.288712730 UTC

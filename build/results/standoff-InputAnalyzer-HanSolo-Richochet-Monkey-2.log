@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Richochet Monkey
+                 InputAnalyzer: Dd,P,Dc,Dd,N
+                       HanSolo: Sd,N,Sd,N,Sc
+                     Richochet: Sa,N,Sa,N,Sb
+                        Monkey: N,Dd,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 0
+                     Richochet: 0
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey HanSolo Richochet
+HanSolo: Monkey InputAnalyzer Richochet
+Richochet: Monkey InputAnalyzer HanSolo
+Monkey: Richochet InputAnalyzer HanSolo
+Generated: 2014/08/12 06:58:06.226879062 UTC

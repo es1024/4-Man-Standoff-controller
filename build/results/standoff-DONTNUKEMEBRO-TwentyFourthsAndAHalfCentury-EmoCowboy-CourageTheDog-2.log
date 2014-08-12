@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+                 DONTNUKEMEBRO: Dc,Dd,Sd,N,Db,Sd,N,Db,Dc,Db,Db,Dc,Db,Dd,Dc,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Dd,Da,Dd,N,N,N,N,N,N,N,N,Sa,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Sa,N,Db,N,Db,Da,N,Sb,N,Db,Da,Db,Sb,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 1
+                     EmoCowboy: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: CourageTheDog DONTNUKEMEBRO EmoCowboy
+EmoCowboy: CourageTheDog DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+CourageTheDog: EmoCowboy DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:02:39.272638820 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO EmoCowboy CourageTheDog
+      PoliticallyCorrectGunman: Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dc,Dd,Dd,Sa,N,Dd,Dd,Sd,N,Dc,Da,Dc,Da,Sd,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Sa,N,Sb,N,Db,Db,Db,Db,Sb,N,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 DONTNUKEMEBRO: -1
+                     EmoCowboy: -6
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: DONTNUKEMEBRO EmoCowboy CourageTheDog
+DONTNUKEMEBRO: PoliticallyCorrectGunman EmoCowboy CourageTheDog
+EmoCowboy: PoliticallyCorrectGunman DONTNUKEMEBRO CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman DONTNUKEMEBRO EmoCowboy
+Generated: 2014/08/12 06:42:57.188339435 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Bomberman Ninja
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                        Monkey: N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dd,Db,Da,Da,Dc,Dd,Da,Dc,Dd,Dc,Dd,Da,Dc
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -2
+                     Bomberman: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Monkey Bomberman
+Monkey: Ninja SimpleShooter Bomberman
+Bomberman: Ninja SimpleShooter Monkey
+Ninja: Bomberman SimpleShooter Monkey
+Generated: 2014/08/12 09:01:59.454595655 UTC

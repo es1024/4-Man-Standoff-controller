@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy AntiGrenadier Neo
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,N,Dc,N,Dc,Dc,N,Dc,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+                     EmoCowboy: -2
+                 AntiGrenadier: -15
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: AntiGrenadier Neo EmoCowboy
+EmoCowboy: AntiGrenadier Neo Zaenille
+AntiGrenadier: EmoCowboy Neo Zaenille
+Neo: EmoCowboy AntiGrenadier Zaenille
+Generated: 2014/08/12 07:35:25.266246217 UTC

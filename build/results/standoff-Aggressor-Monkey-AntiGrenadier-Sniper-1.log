@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey AntiGrenadier Sniper
+                     Aggressor: P,Tc
+                        Monkey: N,Sb
+                 AntiGrenadier: N,Sa
+                        Sniper: Sb,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: -5
+                 AntiGrenadier: -3
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: AntiGrenadier Sniper Monkey
+Monkey: AntiGrenadier Sniper Aggressor
+AntiGrenadier: Monkey Sniper Aggressor
+Sniper: Monkey AntiGrenadier Aggressor
+Generated: 2014/08/12 10:25:11.904091414 UTC

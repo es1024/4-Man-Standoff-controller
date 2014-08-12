@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter TwentyFourthsAndAHalfCentury Bomberman
+                     Grenadier: P,N,N,N
+               StraightShooter: Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Da,Sb
+                     Bomberman: N,N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Bomberman StraightShooter
+StraightShooter: TwentyFourthsAndAHalfCentury Bomberman Grenadier
+TwentyFourthsAndAHalfCentury: StraightShooter Bomberman Grenadier
+Bomberman: StraightShooter TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 10:16:56.397682178 UTC

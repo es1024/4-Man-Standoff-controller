@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Spock Coward
+      PoliticallyCorrectGunman: Dd,Sb,N,Sd,N,Sd,N,Sa
+                 DONTNUKEMEBRO: Dd,Dc,Sd,N,Sd,N,N,N
+                         Spock: Sd,N,Sd,N,Sb,N,Sd,N
+                        Coward: Sb,N,Sb,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -1
+                         Spock: 5
+                        Coward: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Coward PoliticallyCorrectGunman Spock
+Spock: Coward PoliticallyCorrectGunman DONTNUKEMEBRO
+Coward: Spock PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 06:12:52.879322028 UTC

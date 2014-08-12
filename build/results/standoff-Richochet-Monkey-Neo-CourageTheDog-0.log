@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Neo CourageTheDog
+                     Richochet: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sd
+                        Monkey: N,N,N,N,N,N,Db,Db,N,N,N,Sb,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Db,Db,Da,Da,Db,Da,Da,Da,Sa
+Final Health:
+                     Richochet: 3
+                        Monkey: -2
+                           Neo: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey Neo CourageTheDog
+Monkey: Richochet Neo CourageTheDog
+Neo: Richochet Monkey CourageTheDog
+CourageTheDog: Richochet Monkey Neo
+Generated: 2014/08/12 06:18:56.822054296 UTC

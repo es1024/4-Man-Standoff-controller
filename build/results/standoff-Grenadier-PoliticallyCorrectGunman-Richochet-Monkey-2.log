@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Richochet Monkey
+                     Grenadier: N,N,N,N,N,N,P
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Sa
+                     Richochet: Sd,N,Sb,N,Sa,N,Sa
+                        Monkey: N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -7
+      PoliticallyCorrectGunman: 0
+                     Richochet: 2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey PoliticallyCorrectGunman Richochet
+PoliticallyCorrectGunman: Monkey Grenadier Richochet
+Richochet: Monkey Grenadier PoliticallyCorrectGunman
+Monkey: Richochet Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 09:04:33.904690606 UTC

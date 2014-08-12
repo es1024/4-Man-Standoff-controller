@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Rule0Bot Neo
+                     Richochet: Sc,N,Sb,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd
+                        Monkey: N,Sc,N,N,Db,Db,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Db,N,Db,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Neo Monkey Rule0Bot
+Monkey: Neo Richochet Rule0Bot
+Rule0Bot: Neo Richochet Monkey
+Neo: Rule0Bot Richochet Monkey
+Generated: 2014/08/12 08:02:24.374538035 UTC

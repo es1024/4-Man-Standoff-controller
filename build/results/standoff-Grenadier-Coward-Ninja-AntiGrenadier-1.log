@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Ninja AntiGrenadier
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                         Ninja: Da,Dc,Da,Dd,Dd,Da,Da,Dc,Da,Da,Dd,Dd,Db,Dc,Db,Da,Dc,Dc,Db,Db,Dc,Db,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                        Coward: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja AntiGrenadier Coward
+Coward: Ninja AntiGrenadier Grenadier
+Ninja: Coward AntiGrenadier Grenadier
+AntiGrenadier: Coward Ninja Grenadier
+Generated: 2014/08/12 06:18:57.230281728 UTC

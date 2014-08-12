@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury AntiGrenadier
+      PoliticallyCorrectGunman: N,Sa
+                     Aggressor: P,Td
+  TwentyFourthsAndAHalfCentury: Dd,Da
+                 AntiGrenadier: N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -5
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: AntiGrenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier PoliticallyCorrectGunman Aggressor
+AntiGrenadier: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Aggressor
+Generated: 2014/08/12 06:00:27.116071195 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Bomberman CourageTheDog
+                     Aggressor: P,Td
+                      Zaenille: Sb,N
+                     Bomberman: N,N
+                 CourageTheDog: Sc,N
+Final Health:
+                     Aggressor: 2
+                      Zaenille: -2
+                     Bomberman: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Zaenille Bomberman
+Zaenille: CourageTheDog Aggressor Bomberman
+Bomberman: CourageTheDog Aggressor Zaenille
+CourageTheDog: Bomberman Aggressor Zaenille
+Generated: 2014/08/12 08:21:31.298280449 UTC

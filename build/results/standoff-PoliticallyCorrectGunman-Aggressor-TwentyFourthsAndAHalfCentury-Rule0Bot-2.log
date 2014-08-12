@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury Rule0Bot
+      PoliticallyCorrectGunman: Dd,P,Tb
+                     Aggressor: P,Td,N
+  TwentyFourthsAndAHalfCentury: Db,Db,Sa
+                      Rule0Bot: N,Sb,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Rule0Bot PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot PoliticallyCorrectGunman Aggressor
+Rule0Bot: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Aggressor
+Generated: 2014/08/12 10:46:59.387470969 UTC

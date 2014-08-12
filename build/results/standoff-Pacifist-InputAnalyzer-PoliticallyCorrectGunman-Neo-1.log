@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer PoliticallyCorrectGunman Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Dd,Dc,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Da,Da,N,N,Da,Da,N,Da,N,N,Da,N,N,N,N,N,N,N,N,N,Da,N,N,Da,Da,Da,Da,Da,Da,Da,N,N,N,Da,N,N,N,N,N,Da,N,N,Da,Sd
+Final Health:
+                      Pacifist: 5
+                 InputAnalyzer: -2
+      PoliticallyCorrectGunman: -2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Neo InputAnalyzer
+InputAnalyzer: PoliticallyCorrectGunman Neo Pacifist
+PoliticallyCorrectGunman: InputAnalyzer Neo Pacifist
+Neo: InputAnalyzer PoliticallyCorrectGunman Pacifist
+Generated: 2014/08/12 10:48:52.404007536 UTC

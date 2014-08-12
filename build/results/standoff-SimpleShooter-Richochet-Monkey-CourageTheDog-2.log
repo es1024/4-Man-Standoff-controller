@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Monkey CourageTheDog
+                 SimpleShooter: Sc,N,Sd,N,Sb,N,Sd,N,Sd
+                     Richochet: Sc,N,Sa,N,Sa,N,N,N,N
+                        Monkey: N,Sc,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Da,Sb,N,Da,Da,Sa
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                        Monkey: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog Richochet Monkey
+Richochet: CourageTheDog SimpleShooter Monkey
+Monkey: CourageTheDog SimpleShooter Richochet
+CourageTheDog: Monkey SimpleShooter Richochet
+Generated: 2014/08/12 10:30:15.760535998 UTC

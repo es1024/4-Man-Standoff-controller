@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman EmoCowboy CourageTheDog
+                 InputAnalyzer: Db,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Db,Db,Db,Sb,N,Db,Sb,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+                 InputAnalyzer: -2
+                     Bomberman: -1
+                     EmoCowboy: -4
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman EmoCowboy CourageTheDog
+Bomberman: InputAnalyzer EmoCowboy CourageTheDog
+EmoCowboy: InputAnalyzer Bomberman CourageTheDog
+CourageTheDog: InputAnalyzer Bomberman EmoCowboy
+Generated: 2014/08/12 09:24:20.818336054 UTC

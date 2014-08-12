@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Zaenille CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 DONTNUKEMEBRO: Dd,Da,Sd,N,Da,Dc,Dd,Da,Dd,Dd,Dd,Da,Dc,Da,Dc,Da,Dc,Dc,Dc,Dd,Da,Da,Dc,Dc,Dc,Dd,Dd,Da,Da,Dd,Da,Dc,Dc,Dc,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: 5
+                      Zaenille: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Zaenille CourageTheDog StraightShooter
+Zaenille: DONTNUKEMEBRO CourageTheDog StraightShooter
+CourageTheDog: DONTNUKEMEBRO Zaenille StraightShooter
+Generated: 2014/08/12 05:59:00.271865443 UTC

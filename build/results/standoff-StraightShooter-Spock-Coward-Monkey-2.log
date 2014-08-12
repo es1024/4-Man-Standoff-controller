@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Coward Monkey
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N
+                         Spock: N,Sd,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd
+                        Monkey: N,N,N,Sb,N,Sb,N,N,N,Sa,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: -3
+                        Coward: 5
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Spock Coward
+Spock: Monkey StraightShooter Coward
+Coward: Monkey StraightShooter Spock
+Monkey: Coward StraightShooter Spock
+Generated: 2014/08/12 07:08:20.775720051 UTC

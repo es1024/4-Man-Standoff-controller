@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille AntiGrenadier Sniper
+      PoliticallyCorrectGunman: Dd,Sd,N,Sc,N,N,Sb,N,Dc,Sc,N,N,N,N,P,Dc,Sa
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -8
+                      Zaenille: -4
+                 AntiGrenadier: -2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille AntiGrenadier Sniper
+Zaenille: PoliticallyCorrectGunman AntiGrenadier Sniper
+AntiGrenadier: PoliticallyCorrectGunman Zaenille Sniper
+Sniper: PoliticallyCorrectGunman Zaenille AntiGrenadier
+Generated: 2014/08/12 10:45:48.213930723 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer PoliticallyCorrectGunman Aggressor
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dc,Dd,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N
+                     Aggressor: P,Tb,Sc,N,Sa
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Aggressor InputAnalyzer
+InputAnalyzer: PoliticallyCorrectGunman Aggressor Pacifist
+PoliticallyCorrectGunman: InputAnalyzer Aggressor Pacifist
+Aggressor: InputAnalyzer PoliticallyCorrectGunman Pacifist
+Generated: 2014/08/12 09:49:36.462794873 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Bomberman Scared
+                 InputAnalyzer: Db,Sd,N,P,Sb
+                 SimpleShooter: Sd,N,Sc,N,Sa
+                     Bomberman: N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                 SimpleShooter: 0
+                     Bomberman: -2
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Bomberman Scared
+SimpleShooter: InputAnalyzer Bomberman Scared
+Bomberman: InputAnalyzer SimpleShooter Scared
+Scared: InputAnalyzer SimpleShooter Bomberman
+Generated: 2014/08/12 07:20:22.088329562 UTC

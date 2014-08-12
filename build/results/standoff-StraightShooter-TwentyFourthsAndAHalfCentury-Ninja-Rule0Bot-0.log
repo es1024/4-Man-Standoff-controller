@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dc,Da,Dd,Da,Dd,Dd,Dd,Dd,Dd,Da,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,Dd,Dd,Dd,Da,Dd,Da,Dd,Da,Dd,Dd,Dd,Da,Dd,Da,N,Dd,N,N,N,Da,Dd,N,N,Da,Dd
+                         Ninja: Dc,Dd,Dc,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -15
+                         Ninja: -1
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Ninja Rule0Bot
+TwentyFourthsAndAHalfCentury: StraightShooter Ninja Rule0Bot
+Ninja: StraightShooter TwentyFourthsAndAHalfCentury Rule0Bot
+Rule0Bot: StraightShooter TwentyFourthsAndAHalfCentury Ninja
+Generated: 2014/08/12 10:33:36.143696829 UTC

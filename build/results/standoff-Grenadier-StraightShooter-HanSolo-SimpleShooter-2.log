@@ -1,16 +1,16 @@
 Standoff between: Grenadier StraightShooter HanSolo SimpleShooter
-                     Grenadier: P,Tc
-               StraightShooter: Sa,N
-                       HanSolo: Sd,N
-                 SimpleShooter: Sb,N
+                     Grenadier: N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb
+                 SimpleShooter: Sb,N,Sc,N,Sb,N,N
 Final Health:
-                     Grenadier: 0
-               StraightShooter: 0
-                       HanSolo: -3
-                 SimpleShooter: 0
+                     Grenadier: -1
+               StraightShooter: -1
+                       HanSolo: 3
+                 SimpleShooter: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: SimpleShooter StraightShooter HanSolo
 StraightShooter: SimpleShooter Grenadier HanSolo
 HanSolo: SimpleShooter Grenadier StraightShooter
 SimpleShooter: HanSolo Grenadier StraightShooter
-Generated: 2014/08/11 00:59:55.221178846 UTC
+Generated: 2014/08/12 10:06:26.861288113 UTC

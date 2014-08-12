@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Zaenille Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,P,Dd,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -18
+                 InputAnalyzer: -8
+                      Zaenille: -2
+                        Monkey: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey InputAnalyzer Zaenille
+InputAnalyzer: Monkey Pacifist Zaenille
+Zaenille: Monkey Pacifist InputAnalyzer
+Monkey: Zaenille Pacifist InputAnalyzer
+Generated: 2014/08/12 10:46:15.056880920 UTC

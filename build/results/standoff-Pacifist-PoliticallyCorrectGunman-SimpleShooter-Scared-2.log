@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman SimpleShooter Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sa,N,Sd,N,Sb,N,Sa,N,Sd
+                        Scared: Sa,N,N,N,N,N,N,Sc,N,N,N,N,N,Sc,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared PoliticallyCorrectGunman SimpleShooter
+PoliticallyCorrectGunman: Scared Pacifist SimpleShooter
+SimpleShooter: Scared Pacifist PoliticallyCorrectGunman
+Scared: SimpleShooter Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 09:59:39.775069556 UTC

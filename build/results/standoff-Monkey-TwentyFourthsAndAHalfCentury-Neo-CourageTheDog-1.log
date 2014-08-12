@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Neo CourageTheDog
+                        Monkey: N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,Sa,N,Sd,N,Sd,N,Sc,N,Sc,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd
+                           Neo: N,N,N,N,N,Da,N,Dd,Db,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Da,Sa,N,Dc,Sb,N,Dc,Db,Dc,N,Db,Db,N,Db,Db,Db,Db,Db,Db,Db,Sb,N
+Final Health:
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Neo CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo CourageTheDog Monkey
+Neo: TwentyFourthsAndAHalfCentury CourageTheDog Monkey
+CourageTheDog: TwentyFourthsAndAHalfCentury Neo Monkey
+Generated: 2014/08/12 09:05:00.144913883 UTC

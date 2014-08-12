@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Monkey Sniper
+                       HanSolo: Sd,N,Sd,N,Sd
+                 SimpleShooter: Sc,N,Sa,N,N
+                        Monkey: N,Sb,N,Sa,N
+                        Sniper: Sb,N,Sb,N,Sa
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: -1
+                        Monkey: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper SimpleShooter Monkey
+SimpleShooter: Sniper HanSolo Monkey
+Monkey: Sniper HanSolo SimpleShooter
+Sniper: Monkey HanSolo SimpleShooter
+Generated: 2014/08/12 09:29:03.610694417 UTC

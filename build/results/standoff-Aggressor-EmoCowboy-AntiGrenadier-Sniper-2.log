@@ -1,0 +1,16 @@
+Standoff between: Aggressor EmoCowboy AntiGrenadier Sniper
+                     Aggressor: P,Td
+                     EmoCowboy: Sb,N
+                 AntiGrenadier: N,Sa
+                        Sniper: Sc,N
+Final Health:
+                     Aggressor: 0
+                     EmoCowboy: -2
+                 AntiGrenadier: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper EmoCowboy AntiGrenadier
+EmoCowboy: Sniper Aggressor AntiGrenadier
+AntiGrenadier: Sniper Aggressor EmoCowboy
+Sniper: AntiGrenadier Aggressor EmoCowboy
+Generated: 2014/08/12 08:26:35.694214793 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer AntiGrenadier Sniper
+                     Grenadier: P,Tc
+                 InputAnalyzer: Da,Sc
+                 AntiGrenadier: N,Sa
+                        Sniper: Sb,N
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: 0
+                 AntiGrenadier: -5
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer AntiGrenadier Sniper
+InputAnalyzer: Grenadier AntiGrenadier Sniper
+AntiGrenadier: Grenadier InputAnalyzer Sniper
+Sniper: Grenadier InputAnalyzer AntiGrenadier
+Generated: 2014/08/12 08:20:27.731135600 UTC

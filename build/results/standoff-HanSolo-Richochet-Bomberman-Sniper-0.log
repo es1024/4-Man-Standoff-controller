@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Bomberman Sniper
+                       HanSolo: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sc,N,Sd,N,Sd,N,Sc,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 1
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Bomberman Sniper
+Richochet: HanSolo Bomberman Sniper
+Bomberman: HanSolo Richochet Sniper
+Sniper: HanSolo Richochet Bomberman
+Generated: 2014/08/12 09:35:13.417609292 UTC

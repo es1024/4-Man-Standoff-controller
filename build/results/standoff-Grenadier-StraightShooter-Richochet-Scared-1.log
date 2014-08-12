@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Richochet Scared
+                     Grenadier: P,Tc
+               StraightShooter: Sd,N
+                     Richochet: Sd,N
+                        Scared: Sb,N
+Final Health:
+                     Grenadier: 2
+               StraightShooter: 0
+                     Richochet: -3
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Scared StraightShooter
+StraightShooter: Richochet Scared Grenadier
+Richochet: StraightShooter Scared Grenadier
+Scared: StraightShooter Richochet Grenadier
+Generated: 2014/08/12 10:48:56.013985269 UTC

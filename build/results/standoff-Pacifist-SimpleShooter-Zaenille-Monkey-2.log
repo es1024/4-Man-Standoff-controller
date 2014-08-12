@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Zaenille Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Sd,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey SimpleShooter Zaenille
+SimpleShooter: Monkey Pacifist Zaenille
+Zaenille: Monkey Pacifist SimpleShooter
+Monkey: Zaenille Pacifist SimpleShooter
+Generated: 2014/08/12 08:29:05.175346446 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sb,N,Sd,N,Sd,N,Sb
+  TwentyFourthsAndAHalfCentury: Da,Dd,N,N,Da,N,N,N,Da,Dd,Da,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Da,Dc,Dd,Dc,Dd,Dd,Da,Dd,Db,N,N
+Final Health:
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury EmoCowboy Ninja
+TwentyFourthsAndAHalfCentury: SimpleShooter EmoCowboy Ninja
+EmoCowboy: SimpleShooter TwentyFourthsAndAHalfCentury Ninja
+Ninja: SimpleShooter TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 07:56:04.468308465 UTC

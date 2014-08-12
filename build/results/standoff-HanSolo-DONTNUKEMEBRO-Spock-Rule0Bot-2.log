@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Spock Rule0Bot
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Dd,Dd,Da,Sa,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sb,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+                         Spock: 1
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Rule0Bot HanSolo Spock
+Spock: Rule0Bot HanSolo DONTNUKEMEBRO
+Rule0Bot: Spock HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 10:45:57.312764255 UTC

@@ -1,16 +1,16 @@
 Standoff between: PoliticallyCorrectGunman HanSolo DONTNUKEMEBRO SimpleShooter
-      PoliticallyCorrectGunman: Sc,N,P,Td
-                       HanSolo: Sd,N,Sd,N
-                 DONTNUKEMEBRO: Db,Sa,N,Sa
-                 SimpleShooter: Sb,N,Sb,N
+      PoliticallyCorrectGunman: P,N,N
+                       HanSolo: Sd,N,Sd
+                 DONTNUKEMEBRO: Db,Sa,N
+                 SimpleShooter: Sb,N,Sc
 Final Health:
-      PoliticallyCorrectGunman: -2
-                       HanSolo: -2
+      PoliticallyCorrectGunman: -3
+                       HanSolo: 0
                  DONTNUKEMEBRO: 0
-                 SimpleShooter: -7
+                 SimpleShooter: -2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 PoliticallyCorrectGunman: SimpleShooter HanSolo DONTNUKEMEBRO
 HanSolo: SimpleShooter PoliticallyCorrectGunman DONTNUKEMEBRO
 DONTNUKEMEBRO: SimpleShooter PoliticallyCorrectGunman HanSolo
 SimpleShooter: DONTNUKEMEBRO PoliticallyCorrectGunman HanSolo
-Generated: 2014/08/11 00:58:37.717374077 UTC
+Generated: 2014/08/12 08:30:01.119161833 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Spock EmoCowboy
+      PoliticallyCorrectGunman: Sb,N,Sd,N,N,N,Sb,N,Sc
+                       HanSolo: Sc,N,Sc,N,N,N,N,N,N
+                         Spock: Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 5
+                       HanSolo: -1
+                         Spock: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock EmoCowboy HanSolo
+HanSolo: Spock EmoCowboy PoliticallyCorrectGunman
+Spock: HanSolo EmoCowboy PoliticallyCorrectGunman
+EmoCowboy: HanSolo Spock PoliticallyCorrectGunman
+Generated: 2014/08/12 06:09:19.346411714 UTC

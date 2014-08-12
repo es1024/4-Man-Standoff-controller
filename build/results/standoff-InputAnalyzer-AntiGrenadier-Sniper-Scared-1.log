@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer AntiGrenadier Sniper Scared
+                 InputAnalyzer: Dc,P,Sa
+                 AntiGrenadier: N,N,Sa
+                        Sniper: Sa,N,Sd
+                        Scared: Sc,N,Sa
+Final Health:
+                 InputAnalyzer: -12
+                 AntiGrenadier: 2
+                        Sniper: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Sniper Scared AntiGrenadier
+AntiGrenadier: Sniper Scared InputAnalyzer
+Sniper: AntiGrenadier Scared InputAnalyzer
+Scared: AntiGrenadier Sniper InputAnalyzer
+Generated: 2014/08/12 10:02:43.264335801 UTC

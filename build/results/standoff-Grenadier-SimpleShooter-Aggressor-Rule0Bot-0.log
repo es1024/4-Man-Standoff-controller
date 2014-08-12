@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Aggressor Rule0Bot
+                     Grenadier: N,N
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Ta
+                      Rule0Bot: N,Sc
+Final Health:
+                     Grenadier: -3
+                 SimpleShooter: 2
+                     Aggressor: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Aggressor Rule0Bot
+SimpleShooter: Grenadier Aggressor Rule0Bot
+Aggressor: Grenadier SimpleShooter Rule0Bot
+Rule0Bot: Grenadier SimpleShooter Aggressor
+Generated: 2014/08/12 08:51:06.734733400 UTC

@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy AntiGrenadier CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Dc,Sb,N,Dc,Sb,N,Db,Db,Sb,N,Sc,N,Dc,Dc,Sc,N,Dc,Sc
+Final Health:
+                      Zaenille: -4
+                     EmoCowboy: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog EmoCowboy AntiGrenadier
+EmoCowboy: CourageTheDog Zaenille AntiGrenadier
+AntiGrenadier: CourageTheDog Zaenille EmoCowboy
+CourageTheDog: AntiGrenadier Zaenille EmoCowboy
+Generated: 2014/08/12 06:25:01.623809085 UTC

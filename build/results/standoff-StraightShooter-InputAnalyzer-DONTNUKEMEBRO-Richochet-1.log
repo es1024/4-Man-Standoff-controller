@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO Richochet
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,P,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dd,Dd,Sb,N,Db,Db,Db,Dd,Db,Db,Dd,Da,Db,Dd,Db,Da,Dd,Dd,Da,Dd,Da,Da,Da,Da,Dd,Da,Da,Dd,Da,Da,Dd,Dd,Dd,Sa
+                     Richochet: Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 2
+                     Richochet: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Richochet InputAnalyzer
+InputAnalyzer: DONTNUKEMEBRO Richochet StraightShooter
+DONTNUKEMEBRO: InputAnalyzer Richochet StraightShooter
+Richochet: InputAnalyzer DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/12 09:44:45.743549165 UTC

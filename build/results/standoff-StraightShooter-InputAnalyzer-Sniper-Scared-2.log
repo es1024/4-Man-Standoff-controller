@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Sniper Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N,N
+                 InputAnalyzer: Dd,Db,Sb,N,N,N,N
+                        Sniper: Sd,N,Sa,N,Sa,N,N
+                        Scared: Sc,N,Sa,N,Sc,N,Sc
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -4
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared InputAnalyzer Sniper
+InputAnalyzer: Scared StraightShooter Sniper
+Sniper: Scared StraightShooter InputAnalyzer
+Scared: Sniper StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:47:54.229433360 UTC

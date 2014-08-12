@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Monkey Scared
+      PoliticallyCorrectGunman: Dc,Sd,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sc,N,Sc,N,Sc,N,Sd
+                        Monkey: N,Sa,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,Sb,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: 3
+                        Monkey: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Monkey Scared
+Richochet: PoliticallyCorrectGunman Monkey Scared
+Monkey: PoliticallyCorrectGunman Richochet Scared
+Scared: PoliticallyCorrectGunman Richochet Monkey
+Generated: 2014/08/12 07:24:36.815781405 UTC

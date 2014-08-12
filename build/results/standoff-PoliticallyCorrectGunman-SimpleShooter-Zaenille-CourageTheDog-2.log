@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Zaenille CourageTheDog
+      PoliticallyCorrectGunman: N,Dc,N,N,Dd,Sa,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Db,N,Db,Db,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: 1
+                      Zaenille: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog SimpleShooter Zaenille
+SimpleShooter: CourageTheDog PoliticallyCorrectGunman Zaenille
+Zaenille: CourageTheDog PoliticallyCorrectGunman SimpleShooter
+CourageTheDog: Zaenille PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 08:30:42.345379227 UTC

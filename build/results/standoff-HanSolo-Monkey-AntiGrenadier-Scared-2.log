@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey AntiGrenadier Scared
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Monkey: -2
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared Monkey AntiGrenadier
+Monkey: Scared HanSolo AntiGrenadier
+AntiGrenadier: Scared HanSolo Monkey
+Scared: AntiGrenadier HanSolo Monkey
+Generated: 2014/08/12 07:41:53.788417127 UTC

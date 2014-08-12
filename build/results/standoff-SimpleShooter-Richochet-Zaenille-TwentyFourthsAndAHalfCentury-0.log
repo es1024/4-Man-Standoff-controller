@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Zaenille TwentyFourthsAndAHalfCentury
+                 SimpleShooter: Sd,N,Sd,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N
+                     Richochet: Sc,N,Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Db,N,Da,N,Db,N,Da,N,Da,N,Da,Sb
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Zaenille TwentyFourthsAndAHalfCentury
+Richochet: SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: SimpleShooter Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: SimpleShooter Richochet Zaenille
+Generated: 2014/08/12 06:56:29.479315361 UTC

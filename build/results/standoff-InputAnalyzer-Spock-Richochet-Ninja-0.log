@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Richochet Ninja
+                 InputAnalyzer: Db,Dd,Sb,N,P,Sa,N,N,N
+                         Spock: N,Sa,N,N,N,N,N,N,N
+                     Richochet: Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                         Ninja: Db,Da,Dd,Dc,Dc,Dc,Dc,Dd,Da
+Final Health:
+                 InputAnalyzer: -8
+                         Spock: -1
+                     Richochet: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Richochet Ninja
+Spock: InputAnalyzer Richochet Ninja
+Richochet: InputAnalyzer Spock Ninja
+Ninja: InputAnalyzer Spock Richochet
+Generated: 2014/08/12 10:15:43.630002298 UTC

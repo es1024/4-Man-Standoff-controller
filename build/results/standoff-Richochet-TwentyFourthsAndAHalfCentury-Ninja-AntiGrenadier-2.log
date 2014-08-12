@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Ninja AntiGrenadier
+                     Richochet: Sd,N,Sc,N,Sc,N,Sd,N,Sd,N,Sb,N,Sc,N,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Da,Dd,Dd,Dc,Dc,Dd,Dd,Dc,Da,Dc,Da,Sa,N,Sa,N,Sa
+                         Ninja: Dc,Da,Dc,Db,Dd,Dd,Da,Da,Db,Db,Dd,Da,Dc,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: 1
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: AntiGrenadier TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: AntiGrenadier Richochet Ninja
+Ninja: AntiGrenadier Richochet TwentyFourthsAndAHalfCentury
+AntiGrenadier: Ninja Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:52:50.783691173 UTC

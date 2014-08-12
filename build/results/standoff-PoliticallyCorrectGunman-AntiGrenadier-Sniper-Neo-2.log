@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman AntiGrenadier Sniper Neo
+      PoliticallyCorrectGunman: N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,Db,Db,Db,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,N,N,Db,N,Db,N,N,Db,N,Db,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 AntiGrenadier: -17
+                        Sniper: -15
+                           Neo: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Neo AntiGrenadier Sniper
+AntiGrenadier: Neo PoliticallyCorrectGunman Sniper
+Sniper: Neo PoliticallyCorrectGunman AntiGrenadier
+Neo: Sniper PoliticallyCorrectGunman AntiGrenadier
+Generated: 2014/08/12 06:36:07.035094778 UTC

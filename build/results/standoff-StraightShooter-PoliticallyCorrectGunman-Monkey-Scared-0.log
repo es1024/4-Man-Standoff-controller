@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Monkey Scared
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,Sb,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,Sb,N,Sb,N,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -2
+                        Monkey: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Monkey Scared
+PoliticallyCorrectGunman: StraightShooter Monkey Scared
+Monkey: StraightShooter PoliticallyCorrectGunman Scared
+Scared: StraightShooter PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 08:13:54.162990614 UTC

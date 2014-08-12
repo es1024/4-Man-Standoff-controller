@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman HanSolo Scared
+                     Grenadier: N,P,N,N
+      PoliticallyCorrectGunman: N,N,P,N
+                       HanSolo: Sb,N,Sb,N
+                        Scared: Sa,N,Sa,N
+Final Health:
+                     Grenadier: -8
+      PoliticallyCorrectGunman: -8
+                       HanSolo: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: HanSolo Scared Grenadier
+HanSolo: PoliticallyCorrectGunman Scared Grenadier
+Scared: PoliticallyCorrectGunman HanSolo Grenadier
+Generated: 2014/08/12 09:13:57.087450391 UTC

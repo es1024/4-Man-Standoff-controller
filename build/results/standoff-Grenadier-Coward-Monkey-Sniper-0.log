@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Monkey Sniper
+                     Grenadier: P,Tb
+                        Coward: Sd,N
+                        Monkey: N,Sd
+                        Sniper: Sa,N
+Final Health:
+                     Grenadier: 0
+                        Coward: -3
+                        Monkey: 2
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward Monkey Sniper
+Coward: Grenadier Monkey Sniper
+Monkey: Grenadier Coward Sniper
+Sniper: Grenadier Coward Monkey
+Generated: 2014/08/12 08:05:22.217812628 UTC

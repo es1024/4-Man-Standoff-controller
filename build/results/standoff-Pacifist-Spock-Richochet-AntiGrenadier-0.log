@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Richochet AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sd,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                     Richochet: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Richochet AntiGrenadier
+Spock: Pacifist Richochet AntiGrenadier
+Richochet: Pacifist Spock AntiGrenadier
+AntiGrenadier: Pacifist Spock Richochet
+Generated: 2014/08/12 08:03:30.640515134 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter TwentyFourthsAndAHalfCentury Ninja
+                     Grenadier: N,N,N,N,N,N,N,P,Tb
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,Da,Da,Da
+                         Ninja: Dc,Dd,Dc,Dd,Db,Da,Dc,Dc,Dc
+Final Health:
+                     Grenadier: 0
+                 SimpleShooter: -3
+  TwentyFourthsAndAHalfCentury: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Ninja Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Grenadier SimpleShooter
+Ninja: TwentyFourthsAndAHalfCentury Grenadier SimpleShooter
+Generated: 2014/08/12 06:38:05.151800161 UTC

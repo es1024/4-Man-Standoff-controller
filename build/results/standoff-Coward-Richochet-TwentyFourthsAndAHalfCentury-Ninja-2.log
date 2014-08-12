@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet TwentyFourthsAndAHalfCentury Ninja
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Db,Sb,N,Sb,N,Sd,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sd
+                     Richochet: Sc,N,Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Db,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Dd,Dd,Dd,Db,Dc,Dc,Da,Dd,Dc,Dc,Db,Dd,Db,Db,Da,Db,Db,Dd,Dd,Dc,Dd,Da,Db
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Ninja Richochet TwentyFourthsAndAHalfCentury
+Richochet: Ninja Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Coward Richochet
+Ninja: TwentyFourthsAndAHalfCentury Coward Richochet
+Generated: 2014/08/12 07:26:20.802523330 UTC

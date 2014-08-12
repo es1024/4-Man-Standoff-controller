@@ -1,0 +1,16 @@
+Standoff between: Spock Coward TwentyFourthsAndAHalfCentury CourageTheDog
+                         Spock: N,Sc,N,N,Sb,N,N,Sb
+                        Coward: Sc,N,Sc,N,Sa,N,Da,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Db,Sb,N,Db,Sa,N,Db
+Final Health:
+                         Spock: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Coward TwentyFourthsAndAHalfCentury
+Coward: CourageTheDog Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog Spock Coward
+CourageTheDog: TwentyFourthsAndAHalfCentury Spock Coward
+Generated: 2014/08/12 06:48:25.878189301 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Richochet AntiGrenadier
+                 InputAnalyzer: Dd,P,N,N,N
+                         Spock: Sd,N,Sd,N,Sd
+                     Richochet: Sa,N,Sa,N,Sb
+                 AntiGrenadier: N,N,Sa,N,N
+Final Health:
+                 InputAnalyzer: -7
+                         Spock: 0
+                     Richochet: 2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Spock Richochet
+Spock: AntiGrenadier InputAnalyzer Richochet
+Richochet: AntiGrenadier InputAnalyzer Spock
+AntiGrenadier: Richochet InputAnalyzer Spock
+Generated: 2014/08/12 08:53:39.457105340 UTC

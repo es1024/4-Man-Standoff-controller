@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo EmoCowboy AntiGrenadier
+                 InputAnalyzer: Db,P,Sb,N
+                       HanSolo: Sa,N,Sa,N
+                     EmoCowboy: N,N,N,Sc
+                 AntiGrenadier: N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -5
+                       HanSolo: 0
+                     EmoCowboy: -5
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo EmoCowboy AntiGrenadier
+HanSolo: InputAnalyzer EmoCowboy AntiGrenadier
+EmoCowboy: InputAnalyzer HanSolo AntiGrenadier
+AntiGrenadier: InputAnalyzer HanSolo EmoCowboy
+Generated: 2014/08/12 09:49:18.317897213 UTC

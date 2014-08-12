@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO Aggressor CourageTheDog
+                      Pacifist: N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Sc,N,N,N
+                     Aggressor: P,Tb,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Sa
+Final Health:
+                      Pacifist: 0
+                 DONTNUKEMEBRO: -3
+                     Aggressor: -2
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor CourageTheDog Pacifist
+Aggressor: DONTNUKEMEBRO CourageTheDog Pacifist
+CourageTheDog: DONTNUKEMEBRO Aggressor Pacifist
+Generated: 2014/08/12 06:22:17.334157302 UTC

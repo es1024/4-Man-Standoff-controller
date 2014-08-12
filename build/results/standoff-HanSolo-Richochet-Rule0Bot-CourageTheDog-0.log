@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Rule0Bot CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd,N
+                     Richochet: Sc,N,Sa,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sa,N,N,Sc,N,Da,Da,Da,Sa
+Final Health:
+                       HanSolo: -1
+                     Richochet: -1
+                      Rule0Bot: -3
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Rule0Bot CourageTheDog
+Richochet: HanSolo Rule0Bot CourageTheDog
+Rule0Bot: HanSolo Richochet CourageTheDog
+CourageTheDog: HanSolo Richochet Rule0Bot
+Generated: 2014/08/12 08:04:14.781519114 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman Ninja Sniper
+                     Richochet: Sc,N,Sc,N,Sd,N,Sb,N,Sc,N,Sd,N,Sc,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Db,Dd,Dd,Db,Db,Dd,Dc,Dd,Dc,Dc,Dd,N,N
+                        Sniper: Sa,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                     Bomberman: -3
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Bomberman Ninja Sniper
+Bomberman: Richochet Ninja Sniper
+Ninja: Richochet Bomberman Sniper
+Sniper: Richochet Bomberman Ninja
+Generated: 2014/08/12 05:59:36.345897967 UTC

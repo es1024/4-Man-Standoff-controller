@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Neo CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sd
+                        Monkey: N,Sb,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sc,N,Sc,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -2
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo CourageTheDog Monkey
+Monkey: Neo CourageTheDog SimpleShooter
+Neo: Monkey CourageTheDog SimpleShooter
+CourageTheDog: Monkey Neo SimpleShooter
+Generated: 2014/08/12 06:56:08.704848479 UTC

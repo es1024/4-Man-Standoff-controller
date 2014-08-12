@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Richochet Monkey
+                        Coward: Sb,N
+                     Aggressor: P,Tc
+                     Richochet: Sa,N
+                        Monkey: N,Sa
+Final Health:
+                        Coward: -2
+                     Aggressor: 0
+                     Richochet: -3
+                        Monkey: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet Monkey Aggressor
+Aggressor: Richochet Monkey Coward
+Richochet: Aggressor Monkey Coward
+Monkey: Aggressor Richochet Coward
+Generated: 2014/08/12 08:52:44.367659253 UTC

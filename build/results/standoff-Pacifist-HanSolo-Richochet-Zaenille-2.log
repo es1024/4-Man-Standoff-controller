@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Richochet Zaenille
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sa,N,Sa,N,N
+                     Richochet: Sb,N,Sb,N,Sb,N,Sa
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                     Richochet: 5
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille HanSolo Richochet
+HanSolo: Zaenille Pacifist Richochet
+Richochet: Zaenille Pacifist HanSolo
+Zaenille: Richochet Pacifist HanSolo
+Generated: 2014/08/12 07:08:21.555250044 UTC

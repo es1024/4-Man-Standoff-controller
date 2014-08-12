@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Rule0Bot Neo
+                     Grenadier: N,N,N,N,N,N,N,N,P,N,N,N,N,N
+                         Spock: Sd,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,Sa,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Db,N,N,Da,N,N,N
+Final Health:
+                     Grenadier: -3
+                         Spock: 2
+                      Rule0Bot: 0
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Spock Rule0Bot
+Spock: Neo Grenadier Rule0Bot
+Rule0Bot: Neo Grenadier Spock
+Neo: Rule0Bot Grenadier Spock
+Generated: 2014/08/12 08:19:45.019197003 UTC

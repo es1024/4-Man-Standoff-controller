@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Monkey CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Dc,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Dc,Dc,N,N,Da,N,N,N,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sa,N,Da,Dc,Da,Dc,Da,Da,Dc,Da,Sa,N,Dc,N,Sc,N,Dc,Da,Dc,Dc,Sa,N,Dc,Sc,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,N,Sc
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                        Monkey: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey CourageTheDog PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Monkey CourageTheDog Pacifist
+Monkey: PoliticallyCorrectGunman CourageTheDog Pacifist
+CourageTheDog: PoliticallyCorrectGunman Monkey Pacifist
+Generated: 2014/08/12 07:04:37.042922118 UTC

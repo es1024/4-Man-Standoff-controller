@@ -1,16 +1,16 @@
 Standoff between: Pacifist InputAnalyzer HanSolo SimpleShooter
-                      Pacifist: N,N,N,N,N,N
-                 InputAnalyzer: Dc,Sa,N,P,Sc,N
-                       HanSolo: Sb,N,Sb,N,Sb,N
-                 SimpleShooter: Sa,N,Sa,N,Sa,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Dd,Dc,Dd,Dc,Sd,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sd
+                 SimpleShooter: Sa,N,Sc,N,Sc,N,Sb,N,Sa,N,Sc
 Final Health:
                       Pacifist: -1
-                 InputAnalyzer: -5
-                       HanSolo: 0
-                 SimpleShooter: 2
+                 InputAnalyzer: -1
+                       HanSolo: -1
+                 SimpleShooter: 1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: HanSolo SimpleShooter InputAnalyzer
 InputAnalyzer: HanSolo SimpleShooter Pacifist
 HanSolo: InputAnalyzer SimpleShooter Pacifist
 SimpleShooter: InputAnalyzer HanSolo Pacifist
-Generated: 2014/08/11 00:59:18.752191847 UTC
+Generated: 2014/08/12 05:59:31.382574634 UTC

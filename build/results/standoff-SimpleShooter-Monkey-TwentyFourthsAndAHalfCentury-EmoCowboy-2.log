@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+                 SimpleShooter: Sc,N,Sb,N,Sc,N,Sc,N,Sc,N,Sb,N,Sc,N,Sb
+                        Monkey: N,N,N,N,N,Da,N,Da,N,N,Db,N,Db,Sc,N
+  TwentyFourthsAndAHalfCentury: N,Db,N,Db,Da,Db,Da,Db,Db,Db,Da,Db,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Monkey TwentyFourthsAndAHalfCentury
+Monkey: EmoCowboy SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy SimpleShooter Monkey
+EmoCowboy: TwentyFourthsAndAHalfCentury SimpleShooter Monkey
+Generated: 2014/08/12 10:27:33.993501609 UTC

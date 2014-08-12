@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet TwentyFourthsAndAHalfCentury EmoCowboy
+                     Grenadier: N,P,Tb
+                     Richochet: Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da
+                     EmoCowboy: Sd,N,N
+Final Health:
+                     Grenadier: 2
+                     Richochet: -3
+  TwentyFourthsAndAHalfCentury: -2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Richochet TwentyFourthsAndAHalfCentury
+Richochet: EmoCowboy Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Grenadier Richochet
+EmoCowboy: TwentyFourthsAndAHalfCentury Grenadier Richochet
+Generated: 2014/08/12 07:29:35.954020705 UTC

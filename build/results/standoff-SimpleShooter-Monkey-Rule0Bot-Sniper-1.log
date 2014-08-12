@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Rule0Bot Sniper
+                 SimpleShooter: Sb,N,Sd,N,Sb,N,Sd,N,Sd
+                        Monkey: N,Sc,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,Sb,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot Sniper Monkey
+Monkey: Rule0Bot Sniper SimpleShooter
+Rule0Bot: Monkey Sniper SimpleShooter
+Sniper: Monkey Rule0Bot SimpleShooter
+Generated: 2014/08/12 09:06:17.889329612 UTC

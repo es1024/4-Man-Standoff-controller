@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo EmoCowboy Sniper
+      PoliticallyCorrectGunman: N,Dd,N,N,Dc,N,Sd,N,Sa
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                       HanSolo: 5
+                     EmoCowboy: -4
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper HanSolo EmoCowboy
+HanSolo: Sniper PoliticallyCorrectGunman EmoCowboy
+EmoCowboy: Sniper PoliticallyCorrectGunman HanSolo
+Sniper: EmoCowboy PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 10:16:03.107547882 UTC

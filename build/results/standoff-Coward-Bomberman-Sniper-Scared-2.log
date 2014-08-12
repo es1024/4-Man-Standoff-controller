@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman Sniper Scared
+                        Coward: Sc,N,Sc,N,Sc,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sd,N,Sb,N,N,N
+                        Scared: N,Sa,N,Sb,N,Sa,N,Sa
+Final Health:
+                        Coward: -1
+                     Bomberman: -1
+                        Sniper: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Scared Bomberman Sniper
+Bomberman: Scared Coward Sniper
+Sniper: Scared Coward Bomberman
+Scared: Sniper Coward Bomberman
+Generated: 2014/08/12 06:41:33.491392865 UTC

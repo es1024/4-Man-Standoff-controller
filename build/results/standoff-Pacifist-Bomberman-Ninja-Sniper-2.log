@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman Ninja Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Dc,Dc,Db,Dd,Dc,Da,Db,Dd,Db,Dc,Db,Db,Da,Dc,Dd,Da,Dc,Dd,Dd,Dc,Dd,Dd,Da,Dd,Dc,Dc,Db,Db,Dc,Dc,Dd,Dd,Da,Da,Da,Dd,Db,Da,Db,Dd,Dc,Da,Dd,Db,Dd,Da,Da,Db
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Bomberman: -15
+                         Ninja: -15
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper Bomberman Ninja
+Bomberman: Sniper Pacifist Ninja
+Ninja: Sniper Pacifist Bomberman
+Sniper: Ninja Pacifist Bomberman
+Generated: 2014/08/12 08:21:33.572762650 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Richochet Zaenille
+                     Grenadier: N,P,N,N
+                 InputAnalyzer: Dd,P,Dc,Da
+                     Richochet: Sd,N,Sb,N
+                      Zaenille: Sd,N,N,N
+Final Health:
+                     Grenadier: -4
+                 InputAnalyzer: -4
+                     Richochet: -1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille InputAnalyzer Richochet
+InputAnalyzer: Zaenille Grenadier Richochet
+Richochet: Zaenille Grenadier InputAnalyzer
+Zaenille: Richochet Grenadier InputAnalyzer
+Generated: 2014/08/12 09:35:00.653978660 UTC

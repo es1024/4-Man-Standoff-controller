@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Richochet Ninja
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Dc,Sc
+                     Richochet: Sd,N,Sa,N,Sd,N,Sb,N,Sb,N,Sb,N
+                         Ninja: Dc,Dc,Da,Da,Db,Dd,Dd,Da,Da,N,N,N
+Final Health:
+                         Spock: -1
+                        Coward: 1
+                     Richochet: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Ninja Coward
+Coward: Richochet Ninja Spock
+Richochet: Coward Ninja Spock
+Ninja: Coward Richochet Spock
+Generated: 2014/08/12 09:11:22.428149933 UTC

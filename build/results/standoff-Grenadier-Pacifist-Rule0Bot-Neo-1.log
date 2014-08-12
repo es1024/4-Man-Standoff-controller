@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Rule0Bot Neo
+                     Grenadier: P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,Da,Da,N,N,N,N,N,N,Da,N,N,N,Da,Da,Da,Da,Da,N,N,N,N,N,N,N,N,N,N,Da,N,N,N,N,Da,N,N,N,N,N,N,N,N,Da,Da,N,Da,Da,N,N
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -18
+                      Rule0Bot: -3
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Neo Pacifist
+Pacifist: Rule0Bot Neo Grenadier
+Rule0Bot: Pacifist Neo Grenadier
+Neo: Pacifist Rule0Bot Grenadier
+Generated: 2014/08/12 10:15:09.420431169 UTC

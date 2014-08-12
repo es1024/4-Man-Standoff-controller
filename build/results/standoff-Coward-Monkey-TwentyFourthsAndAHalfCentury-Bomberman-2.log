@@ -1,0 +1,16 @@
+Standoff between: Coward Monkey TwentyFourthsAndAHalfCentury Bomberman
+                        Coward: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Db,Da,Dd,Dd,Dd,Da,Db,Dd,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Bomberman Monkey TwentyFourthsAndAHalfCentury
+Monkey: Bomberman Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Coward Monkey
+Bomberman: TwentyFourthsAndAHalfCentury Coward Monkey
+Generated: 2014/08/12 06:00:33.036728145 UTC

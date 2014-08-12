@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury Sniper
+      PoliticallyCorrectGunman: N,Db,Sb,N,N,P,Sd,N
+                        Monkey: N,Da,Da,Sb,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Db,Db,Da,Dd,Sd,N
+                        Sniper: Sb,N,Sc,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 0
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey TwentyFourthsAndAHalfCentury Sniper
+Monkey: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Sniper
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Monkey Sniper
+Sniper: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:09:56.345123464 UTC

@@ -1,16 +1,16 @@
 Standoff between: Pacifist StraightShooter Spock SimpleShooter
-                      Pacifist: N,N,N,N,N
-               StraightShooter: Sd,N,Sd,N,Sd
-                         Spock: Sb,N,Sb,N,Sb
-                 SimpleShooter: Sa,N,Sa,N,Sa
+                      Pacifist: N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,N
+                         Spock: Sb,N,Sb,N,Sb,N,Sa
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,N
 Final Health:
                       Pacifist: -1
                StraightShooter: -1
-                         Spock: 5
+                         Spock: 3
                  SimpleShooter: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: Spock SimpleShooter StraightShooter
 StraightShooter: Spock SimpleShooter Pacifist
 Spock: StraightShooter SimpleShooter Pacifist
 SimpleShooter: StraightShooter Spock Pacifist
-Generated: 2014/08/11 00:59:31.158975660 UTC
+Generated: 2014/08/12 05:49:52.575305856 UTC

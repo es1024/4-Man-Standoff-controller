@@ -1,0 +1,16 @@
+Standoff between: Ninja Rule0Bot Scared CourageTheDog
+                         Ninja: Db,Db,Dd,Dc,Da,Db,Dc,Dc,Db,Dc,Dd,Db,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sd,N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Db,Dc,Dc,Sc,N,Sc,N,Db,Sa,N,Db,N,Db,Sb,N,Db,Db,Sb
+Final Health:
+                         Ninja: -1
+                      Rule0Bot: -1
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Ninja: CourageTheDog Rule0Bot Scared
+Rule0Bot: CourageTheDog Ninja Scared
+Scared: CourageTheDog Ninja Rule0Bot
+CourageTheDog: Scared Ninja Rule0Bot
+Generated: 2014/08/12 09:52:28.893979751 UTC

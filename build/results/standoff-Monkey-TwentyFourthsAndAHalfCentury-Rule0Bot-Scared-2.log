@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Rule0Bot Scared
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,Sb,N,N,Dc,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dc,Dc,Dd,N,Da,N,Dc,Dd,Dc,Dd,Dc,Da,Dc,Dc,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sb,N,N,Sb,N,Sb,N,Sa,N,Sa,N,Sb,N,N,N,N,Sc
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Scared TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: Scared Monkey Rule0Bot
+Rule0Bot: Scared Monkey TwentyFourthsAndAHalfCentury
+Scared: Rule0Bot Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:36:55.448538196 UTC

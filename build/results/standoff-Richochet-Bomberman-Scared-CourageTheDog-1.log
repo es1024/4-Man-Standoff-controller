@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman Scared CourageTheDog
+                     Richochet: Sd,N,Sc,N,Sc,N,Sd,N,Sb,N,Sb,N,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Db,N,Da,Db,Da,Da,Db,Sa,N,Da,Sa
+Final Health:
+                     Richochet: -1
+                     Bomberman: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared CourageTheDog Bomberman
+Bomberman: Scared CourageTheDog Richochet
+Scared: Bomberman CourageTheDog Richochet
+CourageTheDog: Bomberman Scared Richochet
+Generated: 2014/08/12 06:20:24.633736821 UTC

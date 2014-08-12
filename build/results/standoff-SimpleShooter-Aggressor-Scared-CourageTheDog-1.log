@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Scared CourageTheDog
+                 SimpleShooter: Sb,N
+                     Aggressor: P,Tc
+                        Scared: Sb,N
+                 CourageTheDog: Sa,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: -2
+                        Scared: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared CourageTheDog Aggressor
+Aggressor: Scared CourageTheDog SimpleShooter
+Scared: Aggressor CourageTheDog SimpleShooter
+CourageTheDog: Aggressor Scared SimpleShooter
+Generated: 2014/08/12 10:08:56.433724380 UTC

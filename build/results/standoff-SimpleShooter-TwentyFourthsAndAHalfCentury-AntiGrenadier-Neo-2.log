@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier Neo
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,Db,Sa,N
+Final Health:
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Neo TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Neo SimpleShooter AntiGrenadier
+AntiGrenadier: Neo SimpleShooter TwentyFourthsAndAHalfCentury
+Neo: AntiGrenadier SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:24:55.515818584 UTC

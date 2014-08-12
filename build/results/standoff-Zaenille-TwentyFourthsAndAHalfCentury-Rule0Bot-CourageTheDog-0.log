@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Dd,Dc,Sc,N,Sd,N,Sd,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Db,Sc,N,Dc,Sc,N,Db,N,Db,Sb,N,Sb,N,Db,Db,Db,Db,Db,Sb
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+TwentyFourthsAndAHalfCentury: Zaenille Rule0Bot CourageTheDog
+Rule0Bot: Zaenille TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: Zaenille TwentyFourthsAndAHalfCentury Rule0Bot
+Generated: 2014/08/12 05:56:17.623079468 UTC

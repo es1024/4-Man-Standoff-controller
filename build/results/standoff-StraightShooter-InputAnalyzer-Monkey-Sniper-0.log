@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Monkey Sniper
+               StraightShooter: Sc,N,Sc,N,Sc,N
+                 InputAnalyzer: Da,Dd,Db,P,Sb,N
+                        Monkey: N,Sc,N,N,N,N
+                        Sniper: Sc,N,N,N,N,Sa
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -8
+                        Monkey: -2
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer Monkey Sniper
+InputAnalyzer: StraightShooter Monkey Sniper
+Monkey: StraightShooter InputAnalyzer Sniper
+Sniper: StraightShooter InputAnalyzer Monkey
+Generated: 2014/08/12 07:06:35.341982924 UTC

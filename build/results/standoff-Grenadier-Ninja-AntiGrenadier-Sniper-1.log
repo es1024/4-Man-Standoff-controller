@@ -1,0 +1,16 @@
+Standoff between: Grenadier Ninja AntiGrenadier Sniper
+                     Grenadier: P,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Da,Da,Db,N,N
+                 AntiGrenadier: N,Sa,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sb,N,Sc
+Final Health:
+                     Grenadier: -5
+                         Ninja: 0
+                 AntiGrenadier: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Sniper Ninja
+Ninja: AntiGrenadier Sniper Grenadier
+AntiGrenadier: Ninja Sniper Grenadier
+Sniper: Ninja AntiGrenadier Grenadier
+Generated: 2014/08/12 06:52:46.775853808 UTC

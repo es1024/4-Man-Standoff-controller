@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Bomberman Scared
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sd,N,Sb
+                        Coward: Sc,N,Sc,N,Sa,N,Da,Dd,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+                     Bomberman: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Scared Coward Bomberman
+Coward: Scared SimpleShooter Bomberman
+Bomberman: Scared SimpleShooter Coward
+Scared: Bomberman SimpleShooter Coward
+Generated: 2014/08/12 10:19:46.795122449 UTC

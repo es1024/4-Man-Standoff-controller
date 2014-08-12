@@ -1,0 +1,16 @@
+Standoff between: Pacifist Ninja Rule0Bot CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Da,Dd,Db,Db,Dc,Dd,Da,Dd,Db,Dc,Dd,Da,Da,Db,Db,Dd,Da,Dd,Db,Dc,Db,Db,Da,Da,Db,Dc,Dc,Da,Dc,Da,Db,Dc,Dd,Db,Dd,Dc
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Sa,N,Da,Da,Dc,Sa,N,Dc,Db,Db,Sc,N,Dc,Dc,Sb,N,Db,Db,Dc,Sc,N,Db,Sb,N,Db,Dc,N,Sc,N,Db,Sb,N,Db,Db,Sb
+Final Health:
+                      Pacifist: -1
+                         Ninja: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Rule0Bot CourageTheDog
+Ninja: Pacifist Rule0Bot CourageTheDog
+Rule0Bot: Pacifist Ninja CourageTheDog
+CourageTheDog: Pacifist Ninja Rule0Bot
+Generated: 2014/08/12 09:06:11.644728742 UTC

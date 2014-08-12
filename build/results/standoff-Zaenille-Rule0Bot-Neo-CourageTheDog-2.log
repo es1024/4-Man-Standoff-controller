@@ -1,0 +1,16 @@
+Standoff between: Zaenille Rule0Bot Neo CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Db,Db,Db,N,Db,N,N,N,N,N,N,N,N,Db,Db,Db,Db,Db,Db,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,Db,Sc,N,Dc,Sb,N,Db,Dc,N,Dc,Dc,Sb,N,Dc,Dc,Dc,Dc,Db,Db,Dc,Sb,N,Sc,N,Dc,Sc
+Final Health:
+                      Zaenille: -4
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog Rule0Bot Neo
+Rule0Bot: CourageTheDog Zaenille Neo
+Neo: CourageTheDog Zaenille Rule0Bot
+CourageTheDog: Neo Zaenille Rule0Bot
+Generated: 2014/08/12 10:18:58.985150179 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Scared CourageTheDog
+                 InputAnalyzer: Dc,Db,Dc,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Da,Dc,Da,Dc,Da,Da,Dc,Dc,Dc,Da,Sd,N,Da,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N,N,Sb,N,Sd,N,Sd
+                 CourageTheDog: Sa,N,Sa,N,Sa,N,Sc,N,Dc,Sb,N,Dc,Db,Sb,N,Sc,N
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Scared CourageTheDog InputAnalyzer
+Scared: DONTNUKEMEBRO CourageTheDog InputAnalyzer
+CourageTheDog: DONTNUKEMEBRO Scared InputAnalyzer
+Generated: 2014/08/12 09:21:23.778000081 UTC

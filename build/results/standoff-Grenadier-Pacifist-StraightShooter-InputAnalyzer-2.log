@@ -1,16 +1,16 @@
 Standoff between: Grenadier Pacifist StraightShooter InputAnalyzer
-                     Grenadier: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
-               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
-                 InputAnalyzer: Dc,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Grenadier: N,N,N,N
+                      Pacifist: N,N,N,N
+               StraightShooter: Sa,N,Sa,N
+                 InputAnalyzer: Dc,P,Sc,N
 Final Health:
                      Grenadier: -2
-                      Pacifist: -18
-               StraightShooter: -18
-                 InputAnalyzer: -3
+                      Pacifist: 2
+               StraightShooter: 0
+                 InputAnalyzer: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: InputAnalyzer Pacifist StraightShooter
 Pacifist: InputAnalyzer Grenadier StraightShooter
 StraightShooter: InputAnalyzer Grenadier Pacifist
 InputAnalyzer: StraightShooter Grenadier Pacifist
-Generated: 2014/08/11 01:00:25.616662494 UTC
+Generated: 2014/08/12 08:12:34.566399995 UTC

@@ -1,0 +1,16 @@
+Standoff between: Aggressor Rule0Bot Neo CourageTheDog
+                     Aggressor: P,Tb,N,N,N,N,N
+                      Rule0Bot: N,Sa,N,N,N,N,N
+                           Neo: N,N,N,Dd,N,Dd,N
+                 CourageTheDog: Sa,N,Dc,Sc,N,Dc,Sc
+Final Health:
+                     Aggressor: -2
+                      Rule0Bot: -3
+                           Neo: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot Neo CourageTheDog
+Rule0Bot: Aggressor Neo CourageTheDog
+Neo: Aggressor Rule0Bot CourageTheDog
+CourageTheDog: Aggressor Rule0Bot Neo
+Generated: 2014/08/12 06:02:55.486722605 UTC

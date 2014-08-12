@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Bomberman Rule0Bot
+                 SimpleShooter: Sb,N,Sd,N
+                     Richochet: Sa,N,Sc,N
+                     Bomberman: N,P,N,N
+                      Rule0Bot: N,N,Sc,N
+Final Health:
+                 SimpleShooter: 0
+                     Richochet: 0
+                     Bomberman: -5
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Rule0Bot Richochet
+Richochet: Bomberman Rule0Bot SimpleShooter
+Bomberman: Richochet Rule0Bot SimpleShooter
+Rule0Bot: Richochet Bomberman SimpleShooter
+Generated: 2014/08/12 06:56:23.727283859 UTC

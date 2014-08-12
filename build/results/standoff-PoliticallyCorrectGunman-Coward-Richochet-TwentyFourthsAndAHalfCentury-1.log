@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Richochet TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Sc,N,Sb,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,N
+                     Richochet: Sa,N,Sd,N,Sb,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: Dc,N,Dc,N,N,N,Dc,Sc,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                        Coward: -1
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet TwentyFourthsAndAHalfCentury Coward
+Coward: Richochet TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Richochet: Coward TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Coward Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 08:25:18.106103172 UTC

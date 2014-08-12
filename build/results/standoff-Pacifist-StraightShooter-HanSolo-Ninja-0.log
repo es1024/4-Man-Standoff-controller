@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter HanSolo Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Db,Db,Dc,Dc,Dd,Dc,Dc,Db,Dd,Dc,Dc,Db,Dd,Dc,Db,Dd,Dc,Da,Db,Dd,Da,Dc,Dc,Da,Db,Db,Db,Dc,Da,Da,Dc,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Da,Da,Da,Db,Db,Dd,Db,Db,Da,Da
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -15
+                       HanSolo: -1
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter HanSolo Ninja
+StraightShooter: Pacifist HanSolo Ninja
+HanSolo: Pacifist StraightShooter Ninja
+Ninja: Pacifist StraightShooter HanSolo
+Generated: 2014/08/12 06:15:29.755775257 UTC

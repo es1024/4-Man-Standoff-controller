@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor TwentyFourthsAndAHalfCentury Scared
+                        Coward: Sd,N,N
+                     Aggressor: P,Ta,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N
+                        Scared: N,N,N
+Final Health:
+                        Coward: -3
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Aggressor TwentyFourthsAndAHalfCentury Scared
+Aggressor: Coward TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Coward Aggressor Scared
+Scared: Coward Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:17:31.592749502 UTC

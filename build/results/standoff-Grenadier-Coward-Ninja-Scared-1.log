@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Ninja Scared
+                     Grenadier: P,Tc,N
+                        Coward: Sa,N,Sd
+                         Ninja: Dd,Db,N
+                        Scared: Sc,N,Sb
+Final Health:
+                     Grenadier: 0
+                        Coward: 0
+                         Ninja: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Scared Coward
+Coward: Ninja Scared Grenadier
+Ninja: Coward Scared Grenadier
+Scared: Coward Ninja Grenadier
+Generated: 2014/08/12 05:44:40.645750068 UTC

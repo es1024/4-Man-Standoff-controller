@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist SimpleShooter Neo
+                     Grenadier: P,N,N,N,N
+                      Pacifist: N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sb
+                           Neo: N,N,N,N,N
+Final Health:
+                     Grenadier: -3
+                      Pacifist: 0
+                 SimpleShooter: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Neo Pacifist
+Pacifist: SimpleShooter Neo Grenadier
+SimpleShooter: Pacifist Neo Grenadier
+Neo: Pacifist SimpleShooter Grenadier
+Generated: 2014/08/12 08:27:58.068244572 UTC

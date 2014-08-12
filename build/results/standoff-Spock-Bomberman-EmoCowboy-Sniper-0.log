@@ -1,0 +1,16 @@
+Standoff between: Spock Bomberman EmoCowboy Sniper
+                         Spock: N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -15
+                     Bomberman: -1
+                     EmoCowboy: -2
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman EmoCowboy Sniper
+Bomberman: Spock EmoCowboy Sniper
+EmoCowboy: Spock Bomberman Sniper
+Sniper: Spock Bomberman EmoCowboy
+Generated: 2014/08/12 08:36:48.515872808 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Monkey TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Sa,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Zaenille Monkey
+Zaenille: TwentyFourthsAndAHalfCentury Pacifist Monkey
+Monkey: TwentyFourthsAndAHalfCentury Pacifist Zaenille
+TwentyFourthsAndAHalfCentury: Monkey Pacifist Zaenille
+Generated: 2014/08/12 09:32:42.698847638 UTC

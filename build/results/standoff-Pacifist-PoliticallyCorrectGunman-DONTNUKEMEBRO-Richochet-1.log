@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO Richochet
+                      Pacifist: N,N,N,N
+      PoliticallyCorrectGunman: Dd,P,Sa,N
+                 DONTNUKEMEBRO: Da,Dd,Sb,N
+                     Richochet: Sa,N,Sc,N
+Final Health:
+                      Pacifist: -2
+      PoliticallyCorrectGunman: -3
+                 DONTNUKEMEBRO: 0
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO Richochet PoliticallyCorrectGunman
+PoliticallyCorrectGunman: DONTNUKEMEBRO Richochet Pacifist
+DONTNUKEMEBRO: PoliticallyCorrectGunman Richochet Pacifist
+Richochet: PoliticallyCorrectGunman DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 08:53:15.508647477 UTC

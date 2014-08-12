@@ -1,11 +1,11 @@
 Standoff between: Pacifist InputAnalyzer DONTNUKEMEBRO Spock
-                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
-                 InputAnalyzer: Da,Dd,Sa,N,Dd,Sa,N,P,Dc,Db,N,N,N
-                 DONTNUKEMEBRO: Da,Da,Da,Da,Da,Da,Da,Db,Sb,N,Db,Db,Db
-                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sc
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Da,Dd,P,Sc,N
+                 DONTNUKEMEBRO: Dd,Da,Da,Sb,N
+                         Spock: Sa,N,Sa,N,Sb
 Final Health:
-                      Pacifist: -1
-                 InputAnalyzer: -1
+                      Pacifist: -2
+                 InputAnalyzer: -5
                  DONTNUKEMEBRO: 0
                          Spock: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
@@ -13,4 +13,4 @@ Pacifist: InputAnalyzer DONTNUKEMEBRO Spock
 InputAnalyzer: Pacifist DONTNUKEMEBRO Spock
 DONTNUKEMEBRO: Pacifist InputAnalyzer Spock
 Spock: Pacifist InputAnalyzer DONTNUKEMEBRO
-Generated: 2014/08/11 00:59:18.940703288 UTC
+Generated: 2014/08/12 08:37:56.945201079 UTC

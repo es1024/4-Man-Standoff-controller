@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Ninja Rule0Bot
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                         Ninja: Dc,Db,Da,Da,Dd,Dc,Da,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                     Richochet: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Ninja Rule0Bot
+Richochet: PoliticallyCorrectGunman Ninja Rule0Bot
+Ninja: PoliticallyCorrectGunman Richochet Rule0Bot
+Rule0Bot: PoliticallyCorrectGunman Richochet Ninja
+Generated: 2014/08/12 07:39:35.724563725 UTC

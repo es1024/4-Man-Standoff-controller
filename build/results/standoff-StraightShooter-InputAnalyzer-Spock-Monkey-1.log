@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Spock Monkey
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Da,Db,Dd,Da,P,Sa
+                         Spock: Sb,N,Sb,N,Sb,N,Sb
+                        Monkey: N,Sd,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -7
+                         Spock: 2
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Monkey InputAnalyzer
+InputAnalyzer: Spock Monkey StraightShooter
+Spock: InputAnalyzer Monkey StraightShooter
+Monkey: InputAnalyzer Spock StraightShooter
+Generated: 2014/08/12 05:43:44.647779490 UTC

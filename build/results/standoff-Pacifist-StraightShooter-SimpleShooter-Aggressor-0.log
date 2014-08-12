@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter SimpleShooter Aggressor
+                      Pacifist: N,N
+               StraightShooter: Sc,N
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Ta
+Final Health:
+                      Pacifist: -3
+               StraightShooter: 2
+                 SimpleShooter: 0
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter SimpleShooter Aggressor
+StraightShooter: Pacifist SimpleShooter Aggressor
+SimpleShooter: Pacifist StraightShooter Aggressor
+Aggressor: Pacifist StraightShooter SimpleShooter
+Generated: 2014/08/12 07:15:42.882908997 UTC

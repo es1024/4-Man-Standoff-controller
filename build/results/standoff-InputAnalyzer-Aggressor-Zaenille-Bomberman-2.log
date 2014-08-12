@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Zaenille Bomberman
+                 InputAnalyzer: Dd,Sb
+                     Aggressor: P,Td
+                      Zaenille: Sc,N
+                     Bomberman: N,N
+Final Health:
+                 InputAnalyzer: 2
+                     Aggressor: 0
+                      Zaenille: -2
+                     Bomberman: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Aggressor Zaenille
+Aggressor: Bomberman InputAnalyzer Zaenille
+Zaenille: Bomberman InputAnalyzer Aggressor
+Bomberman: Zaenille InputAnalyzer Aggressor
+Generated: 2014/08/12 09:35:59.191295850 UTC

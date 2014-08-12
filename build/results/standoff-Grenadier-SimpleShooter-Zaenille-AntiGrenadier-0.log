@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Zaenille AntiGrenadier
+                     Grenadier: N,N,N,P,Tb
+                 SimpleShooter: Sd,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                 AntiGrenadier: N,N,N,N,Sa
+Final Health:
+                     Grenadier: -2
+                 SimpleShooter: -3
+                      Zaenille: -2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Zaenille AntiGrenadier
+SimpleShooter: Grenadier Zaenille AntiGrenadier
+Zaenille: Grenadier SimpleShooter AntiGrenadier
+AntiGrenadier: Grenadier SimpleShooter Zaenille
+Generated: 2014/08/12 09:44:37.412956864 UTC

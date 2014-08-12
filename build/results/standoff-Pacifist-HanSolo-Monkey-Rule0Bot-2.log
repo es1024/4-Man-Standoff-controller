@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Monkey Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                        Monkey: N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                        Monkey: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot HanSolo Monkey
+HanSolo: Rule0Bot Pacifist Monkey
+Monkey: Rule0Bot Pacifist HanSolo
+Rule0Bot: Monkey Pacifist HanSolo
+Generated: 2014/08/12 08:52:33.726987498 UTC

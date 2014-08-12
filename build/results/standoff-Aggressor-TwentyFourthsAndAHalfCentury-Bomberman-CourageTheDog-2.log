@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+                     Aggressor: P,Td,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Sc
+                     Bomberman: N,N,N
+                 CourageTheDog: Sa,N,N
+Final Health:
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     Bomberman: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: CourageTheDog Aggressor Bomberman
+Bomberman: CourageTheDog Aggressor TwentyFourthsAndAHalfCentury
+CourageTheDog: Bomberman Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:45:28.199235633 UTC

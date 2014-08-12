@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey TwentyFourthsAndAHalfCentury Sniper
+                 SimpleShooter: Sc,N,Sb,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+                        Monkey: N,Dd,Db,Sc,N,Sc,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Da,Db,Dd,Db,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Monkey TwentyFourthsAndAHalfCentury
+Monkey: Sniper SimpleShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper SimpleShooter Monkey
+Sniper: TwentyFourthsAndAHalfCentury SimpleShooter Monkey
+Generated: 2014/08/12 08:59:36.203184321 UTC

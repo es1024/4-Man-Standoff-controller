@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Bomberman CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sc,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                       HanSolo: 3
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog HanSolo Bomberman
+HanSolo: CourageTheDog Grenadier Bomberman
+Bomberman: CourageTheDog Grenadier HanSolo
+CourageTheDog: Bomberman Grenadier HanSolo
+Generated: 2014/08/12 06:35:18.626446188 UTC

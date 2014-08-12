@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Rule0Bot Scared
+                     Aggressor: P,Tc
+                     Richochet: Sd,N
+                      Rule0Bot: N,Sa
+                        Scared: N,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+                      Rule0Bot: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot Scared Richochet
+Richochet: Rule0Bot Scared Aggressor
+Rule0Bot: Richochet Scared Aggressor
+Scared: Richochet Rule0Bot Aggressor
+Generated: 2014/08/12 08:17:23.578923961 UTC

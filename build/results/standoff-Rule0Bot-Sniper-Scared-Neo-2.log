@@ -1,0 +1,16 @@
+Standoff between: Rule0Bot Sniper Scared Neo
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sc,N,Sd,N,Sa,N,N,N,N,Sd,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sa,N,Sb,N,N,N,Sd,N,Sb,N,Sd,N,Sd
+                           Neo: N,Da,Db,Da,Db,Da,N,N,N,Db,N,Db,N,N,Dc,N,N
+Final Health:
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Rule0Bot: Neo Sniper Scared
+Sniper: Neo Rule0Bot Scared
+Scared: Neo Rule0Bot Sniper
+Neo: Scared Rule0Bot Sniper
+Generated: 2014/08/12 09:30:49.699548791 UTC

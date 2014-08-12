@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Monkey Sniper
+                       HanSolo: Sc,N,Sc,N,Sc
+                     Richochet: Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sb
+Final Health:
+                       HanSolo: 5
+                     Richochet: -1
+                        Monkey: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Sniper Richochet
+Richochet: Monkey Sniper HanSolo
+Monkey: Richochet Sniper HanSolo
+Sniper: Richochet Monkey HanSolo
+Generated: 2014/08/12 08:17:40.934298406 UTC

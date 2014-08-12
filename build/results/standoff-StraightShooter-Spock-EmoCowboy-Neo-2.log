@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock EmoCowboy Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                         Spock: N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Sb,N,N,N,N,Da,Sa,N,N,N,N,N,N,N,Sa,N,N,N,N,N,Sa
+Final Health:
+               StraightShooter: -1
+                         Spock: -1
+                     EmoCowboy: -2
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Spock EmoCowboy
+Spock: Neo StraightShooter EmoCowboy
+EmoCowboy: Neo StraightShooter Spock
+Neo: EmoCowboy StraightShooter Spock
+Generated: 2014/08/12 06:08:37.711687096 UTC

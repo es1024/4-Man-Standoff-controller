@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Coward Sniper
+                 DONTNUKEMEBRO: Dc,Dc,Db,Db,P,Td
+                 SimpleShooter: Sd,N,Sa,N,Sc,N
+                        Coward: Sd,N,Sd,N,Sb,N
+                        Sniper: Sc,N,Sa,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 0
+                        Coward: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Coward Sniper
+SimpleShooter: DONTNUKEMEBRO Coward Sniper
+Coward: DONTNUKEMEBRO SimpleShooter Sniper
+Sniper: DONTNUKEMEBRO SimpleShooter Coward
+Generated: 2014/08/12 07:39:50.476174766 UTC

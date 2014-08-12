@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Monkey Scared
+                 InputAnalyzer: Dd,Sc,N,P,Sc,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sc,N,N,N,N,N,Dd,N,N,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: 0
+                        Monkey: -1
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared PoliticallyCorrectGunman Monkey
+PoliticallyCorrectGunman: Scared InputAnalyzer Monkey
+Monkey: Scared InputAnalyzer PoliticallyCorrectGunman
+Scared: Monkey InputAnalyzer PoliticallyCorrectGunman
+Generated: 2014/08/12 09:59:38.361072102 UTC

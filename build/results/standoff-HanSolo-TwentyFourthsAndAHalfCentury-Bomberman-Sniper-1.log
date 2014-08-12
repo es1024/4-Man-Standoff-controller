@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Bomberman Sniper
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Dc,Dc,N,N,N,N,N,N,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,Sc,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: 1
+                     Bomberman: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman Sniper TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Sniper HanSolo
+Bomberman: TwentyFourthsAndAHalfCentury Sniper HanSolo
+Sniper: TwentyFourthsAndAHalfCentury Bomberman HanSolo
+Generated: 2014/08/12 08:37:47.046743748 UTC

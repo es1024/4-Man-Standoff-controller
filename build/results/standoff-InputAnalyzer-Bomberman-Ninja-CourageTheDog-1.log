@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Bomberman Ninja CourageTheDog
+                 InputAnalyzer: Dc,Db,Sc,N,Da,P,Da,Dd
+                     Bomberman: N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Da,Dc,Db,Dc,Da,Dc
+                 CourageTheDog: Sc,N,Db,Sa,N,Da,P,Tb
+Final Health:
+                 InputAnalyzer: -6
+                     Bomberman: -6
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja CourageTheDog Bomberman
+Bomberman: Ninja CourageTheDog InputAnalyzer
+Ninja: Bomberman CourageTheDog InputAnalyzer
+CourageTheDog: Bomberman Ninja InputAnalyzer
+Generated: 2014/08/12 07:50:34.059512451 UTC

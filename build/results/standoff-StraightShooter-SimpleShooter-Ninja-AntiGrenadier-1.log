@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Ninja AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sa,N,Sc,N,Sa,N,Sc,N,Sc
+                         Ninja: Dc,Dd,Da,Da,Db,Dc,Dc,Dc,Da,Db,Db,Db,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja AntiGrenadier SimpleShooter
+SimpleShooter: Ninja AntiGrenadier StraightShooter
+Ninja: SimpleShooter AntiGrenadier StraightShooter
+AntiGrenadier: SimpleShooter Ninja StraightShooter
+Generated: 2014/08/12 08:26:28.592501882 UTC

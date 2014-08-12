@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Spock Coward
+                      Pacifist: N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N
+                         Spock: Sb,N,Sa,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sc,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -4
+                         Spock: -1
+                        Coward: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Coward PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Spock Coward Pacifist
+Spock: PoliticallyCorrectGunman Coward Pacifist
+Coward: PoliticallyCorrectGunman Spock Pacifist
+Generated: 2014/08/12 10:03:02.395753542 UTC

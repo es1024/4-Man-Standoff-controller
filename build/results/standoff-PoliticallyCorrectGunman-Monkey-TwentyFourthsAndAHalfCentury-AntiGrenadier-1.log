@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+      PoliticallyCorrectGunman: N,N,Dd,Sd,N,N,N,N,N,N,N,N,N,P,N
+                        Monkey: N,N,Db,Dd,N,N,N,N,N,N,N,N,N,N,Sa
+  TwentyFourthsAndAHalfCentury: Dd,Db,Sa,N,Sd,N,N,N,N,N,N,Sb,N,Sa,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -9
+                        Monkey: 0
+  TwentyFourthsAndAHalfCentury: 2
+                 AntiGrenadier: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury AntiGrenadier Monkey
+Monkey: TwentyFourthsAndAHalfCentury AntiGrenadier PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Monkey AntiGrenadier PoliticallyCorrectGunman
+AntiGrenadier: Monkey TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 07:47:27.604385478 UTC

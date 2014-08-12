@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock SimpleShooter Rule0Bot
+                 InputAnalyzer: Db,Sd,N,Dc,Db,P,Sb,N
+                         Spock: Sa,N,Sd,N,Sa,N,N,N
+                 SimpleShooter: Sd,N,Sb,N,Sa,N,Sb,N
+                      Rule0Bot: N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: -1
+                 SimpleShooter: 2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock SimpleShooter Rule0Bot
+Spock: InputAnalyzer SimpleShooter Rule0Bot
+SimpleShooter: InputAnalyzer Spock Rule0Bot
+Rule0Bot: InputAnalyzer Spock SimpleShooter
+Generated: 2014/08/12 10:23:55.976087654 UTC

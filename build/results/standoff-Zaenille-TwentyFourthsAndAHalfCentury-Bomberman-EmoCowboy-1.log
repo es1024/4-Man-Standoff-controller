@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Bomberman EmoCowboy
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,Sd,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Bomberman EmoCowboy TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman EmoCowboy Zaenille
+Bomberman: TwentyFourthsAndAHalfCentury EmoCowboy Zaenille
+EmoCowboy: TwentyFourthsAndAHalfCentury Bomberman Zaenille
+Generated: 2014/08/12 06:54:20.165427168 UTC

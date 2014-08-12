@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Sniper CourageTheDog
+                 InputAnalyzer: Dd,P,Da,Db
+                     Richochet: Sc,N,Sc,N
+                        Sniper: Sd,N,Sa,N
+                 CourageTheDog: Sc,N,P,Tb
+Final Health:
+                 InputAnalyzer: -6
+                     Richochet: -6
+                        Sniper: -1
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Richochet Sniper
+Richochet: CourageTheDog InputAnalyzer Sniper
+Sniper: CourageTheDog InputAnalyzer Richochet
+CourageTheDog: Sniper InputAnalyzer Richochet
+Generated: 2014/08/12 05:51:40.867351796 UTC

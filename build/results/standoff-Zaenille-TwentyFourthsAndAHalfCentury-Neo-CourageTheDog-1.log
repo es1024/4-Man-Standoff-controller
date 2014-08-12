@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Neo CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Dc,Dd,Dc,Dc,Dc,Sc,N,N,Sd,N,Sd,N
+                           Neo: N,Db,N,Db,Dd,N,Dd,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Db,Db,Sc,N,Sc,N,Sb,N,Sb
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Neo CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo CourageTheDog Zaenille
+Neo: TwentyFourthsAndAHalfCentury CourageTheDog Zaenille
+CourageTheDog: TwentyFourthsAndAHalfCentury Neo Zaenille
+Generated: 2014/08/12 10:11:19.827220901 UTC

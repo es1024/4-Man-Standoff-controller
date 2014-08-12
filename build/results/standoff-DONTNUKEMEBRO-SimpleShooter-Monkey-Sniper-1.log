@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Monkey Sniper
+                 DONTNUKEMEBRO: Dc,Db,P,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc
+                        Monkey: N,N,Db,P,N
+                        Sniper: Sa,N,Sa,N,N
+Final Health:
+                 DONTNUKEMEBRO: -7
+                 SimpleShooter: -1
+                        Monkey: -6
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Monkey Sniper SimpleShooter
+SimpleShooter: Monkey Sniper DONTNUKEMEBRO
+Monkey: SimpleShooter Sniper DONTNUKEMEBRO
+Sniper: SimpleShooter Monkey DONTNUKEMEBRO
+Generated: 2014/08/12 09:29:49.094120117 UTC

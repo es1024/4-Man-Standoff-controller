@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Ninja Scared
+                     Grenadier: P,Tc,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Sd
+                         Ninja: Dc,Db,N
+                        Scared: Sa,N,Sb
+Final Health:
+                     Grenadier: 0
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Scared Grenadier
+Ninja: TwentyFourthsAndAHalfCentury Scared Grenadier
+Scared: TwentyFourthsAndAHalfCentury Ninja Grenadier
+Generated: 2014/08/12 09:49:44.414369204 UTC

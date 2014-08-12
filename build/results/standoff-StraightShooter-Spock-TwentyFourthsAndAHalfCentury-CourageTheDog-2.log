@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock TwentyFourthsAndAHalfCentury CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,N,Dd,Sa,N,Sa,N,Sa
+                 CourageTheDog: Sc,N,Sc,N,Da,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Spock TwentyFourthsAndAHalfCentury
+Spock: CourageTheDog StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog StraightShooter Spock
+CourageTheDog: TwentyFourthsAndAHalfCentury StraightShooter Spock
+Generated: 2014/08/12 05:53:15.345576734 UTC

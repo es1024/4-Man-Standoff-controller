@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury Rule0Bot
+                 InputAnalyzer: Dd,Dc,Dd,P,Sa,N
+                       HanSolo: Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Db,Dd,Da,Sb
+                      Rule0Bot: N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -10
+                       HanSolo: 0
+  TwentyFourthsAndAHalfCentury: 2
+                      Rule0Bot: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot HanSolo TwentyFourthsAndAHalfCentury
+HanSolo: Rule0Bot InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot InputAnalyzer HanSolo
+Rule0Bot: TwentyFourthsAndAHalfCentury InputAnalyzer HanSolo
+Generated: 2014/08/12 08:35:28.491731845 UTC

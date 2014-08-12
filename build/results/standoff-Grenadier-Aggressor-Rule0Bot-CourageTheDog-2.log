@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Rule0Bot CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,Tc
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sb,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                     Aggressor: -2
+                      Rule0Bot: -6
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Aggressor Rule0Bot
+Aggressor: CourageTheDog Grenadier Rule0Bot
+Rule0Bot: CourageTheDog Grenadier Aggressor
+CourageTheDog: Rule0Bot Grenadier Aggressor
+Generated: 2014/08/12 10:19:19.907762899 UTC

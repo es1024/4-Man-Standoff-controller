@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey AntiGrenadier CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Dc,Db,Da,Dc,Dc,Sa,N,Dc,Dc,Da,Dc,Sa,N,Dc,Da,Da,Da,Dc,Sa,N,Sc
+Final Health:
+               StraightShooter: -1
+                        Monkey: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Monkey AntiGrenadier
+Monkey: CourageTheDog StraightShooter AntiGrenadier
+AntiGrenadier: CourageTheDog StraightShooter Monkey
+CourageTheDog: AntiGrenadier StraightShooter Monkey
+Generated: 2014/08/12 08:31:12.797787706 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Sniper CourageTheDog
+                 InputAnalyzer: Db,P,Sa
+      PoliticallyCorrectGunman: N,N,Dc
+                        Sniper: Sb,N,Sb
+                 CourageTheDog: Sc,N,P
+Final Health:
+                 InputAnalyzer: -8
+      PoliticallyCorrectGunman: 0
+                        Sniper: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Sniper CourageTheDog
+PoliticallyCorrectGunman: InputAnalyzer Sniper CourageTheDog
+Sniper: InputAnalyzer PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: InputAnalyzer PoliticallyCorrectGunman Sniper
+Generated: 2014/08/12 07:17:56.102830545 UTC

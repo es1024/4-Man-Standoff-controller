@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Coward Aggressor
+                 InputAnalyzer: Dc,Db,Sb
+                       HanSolo: Sc,N,N
+                        Coward: Sa,N,N
+                     Aggressor: P,Tb,Sa
+Final Health:
+                 InputAnalyzer: 0
+                       HanSolo: -3
+                        Coward: 0
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Aggressor HanSolo
+HanSolo: Coward Aggressor InputAnalyzer
+Coward: HanSolo Aggressor InputAnalyzer
+Aggressor: HanSolo Coward InputAnalyzer
+Generated: 2014/08/12 06:19:23.541806545 UTC

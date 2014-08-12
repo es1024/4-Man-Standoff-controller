@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy Sniper Scared
+                       HanSolo: Sd,N,Sd,N,Sc,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N
+                        Sniper: Sb,N,N,Sd,N,N,N
+                        Scared: Sb,N,Sc,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                     EmoCowboy: -6
+                        Sniper: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Scared EmoCowboy Sniper
+EmoCowboy: Scared HanSolo Sniper
+Sniper: Scared HanSolo EmoCowboy
+Scared: Sniper HanSolo EmoCowboy
+Generated: 2014/08/12 08:17:59.929408881 UTC

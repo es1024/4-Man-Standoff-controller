@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Bomberman Neo
+                 InputAnalyzer: Db,Dc,Db,P,Sc,N
+      PoliticallyCorrectGunman: Sd,N,Sb,N,N,N
+                     Bomberman: N,N,N,N,N,N
+                           Neo: N,N,N,Dc,N,Dc
+Final Health:
+                 InputAnalyzer: -1
+      PoliticallyCorrectGunman: -2
+                     Bomberman: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Bomberman Neo
+PoliticallyCorrectGunman: InputAnalyzer Bomberman Neo
+Bomberman: InputAnalyzer PoliticallyCorrectGunman Neo
+Neo: InputAnalyzer PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 09:59:57.179237801 UTC

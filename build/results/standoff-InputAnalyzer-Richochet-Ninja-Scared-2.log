@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Ninja Scared
+                 InputAnalyzer: Dd,Sc,N,P,Sb,N
+                     Richochet: Sc,N,Sc,N,Sd,N
+                         Ninja: Dd,Db,Db,Da,Da,Dd
+                        Scared: Sa,N,Sb,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                     Richochet: -2
+                         Ninja: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Richochet Ninja
+Richochet: Scared InputAnalyzer Ninja
+Ninja: Scared InputAnalyzer Richochet
+Scared: Ninja InputAnalyzer Richochet
+Generated: 2014/08/12 08:56:04.148031933 UTC

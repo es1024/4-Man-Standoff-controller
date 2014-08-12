@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Sniper CourageTheDog
+                     Aggressor: P,Tb
+                        Monkey: N,N
+                        Sniper: Sd,N
+                 CourageTheDog: N,P
+Final Health:
+                     Aggressor: -1
+                        Monkey: -6
+                        Sniper: -1
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Monkey Sniper
+Monkey: CourageTheDog Aggressor Sniper
+Sniper: CourageTheDog Aggressor Monkey
+CourageTheDog: Sniper Aggressor Monkey
+Generated: 2014/08/12 10:34:07.694300565 UTC

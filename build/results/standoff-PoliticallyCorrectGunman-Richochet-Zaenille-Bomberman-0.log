@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Zaenille Bomberman
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N
+                     Richochet: Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Richochet: 5
+                      Zaenille: -4
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Zaenille Bomberman
+Richochet: PoliticallyCorrectGunman Zaenille Bomberman
+Zaenille: PoliticallyCorrectGunman Richochet Bomberman
+Bomberman: PoliticallyCorrectGunman Richochet Zaenille
+Generated: 2014/08/12 10:19:44.694945023 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+                     Grenadier: P,Td,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,N,N,N,N,N,N,Sa
+                         Ninja: Db,Dc,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja CourageTheDog Grenadier
+Ninja: TwentyFourthsAndAHalfCentury CourageTheDog Grenadier
+CourageTheDog: TwentyFourthsAndAHalfCentury Ninja Grenadier
+Generated: 2014/08/12 06:12:37.918791919 UTC

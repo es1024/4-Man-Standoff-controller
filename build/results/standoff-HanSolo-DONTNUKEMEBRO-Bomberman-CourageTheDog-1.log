@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Bomberman CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Dd,Da,Dc,Dc,Dd,Da,Dd,Da,Da,Dd,Da,Sd,N,Da,Dd,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Sa,N,Sa,N,Sa,N,Db,Sb,N,Db,Db,Sb,N,Sb
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: 1
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Bomberman CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Bomberman CourageTheDog HanSolo
+Bomberman: DONTNUKEMEBRO CourageTheDog HanSolo
+CourageTheDog: DONTNUKEMEBRO Bomberman HanSolo
+Generated: 2014/08/12 05:53:35.754775548 UTC

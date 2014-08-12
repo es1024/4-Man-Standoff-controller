@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter DONTNUKEMEBRO AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Db,Db,Db,Dd,Dd,Da,Dd,Dd,Dd,Da,Db,Dd,Dd,Db,Db,Da,Db,Da,Db,Db,Db,Db,Db,Db,Dd,Dd,Da,Da,Db,Db,Db,Db,Db,Db,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -15
+                 AntiGrenadier: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier StraightShooter DONTNUKEMEBRO
+StraightShooter: AntiGrenadier Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: AntiGrenadier Pacifist StraightShooter
+AntiGrenadier: DONTNUKEMEBRO Pacifist StraightShooter
+Generated: 2014/08/12 08:29:32.080841868 UTC

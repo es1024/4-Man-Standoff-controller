@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock EmoCowboy Sniper
+               StraightShooter: Sb,N,Sb,N,Sb
+                         Spock: Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N
+                        Sniper: Sa,N,N,N,N
+Final Health:
+               StraightShooter: 3
+                         Spock: -1
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper Spock EmoCowboy
+Spock: Sniper StraightShooter EmoCowboy
+EmoCowboy: Sniper StraightShooter Spock
+Sniper: EmoCowboy StraightShooter Spock
+Generated: 2014/08/12 07:39:58.514020611 UTC

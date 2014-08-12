@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Monkey Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Richochet: Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Sb,N,N,N,Sb,N,Da,Da,N,N,N,N,N,N,N,N,Da,N,Da,N,N,N,Sb,N,N,N,N,N,Sb,N,N,N,Da,Da,Sb,N,N,N,Sb,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Dc,Da,Dc,Da,Dc,Da,Dc,Da,Dc,N,N,N,N,N,Dc,Da,Dc,Da,Dc,Da,N,Da,N,Da,Dc,N,N,N,Dc,Da,Dc,Da,Dc,Da,Dc,Da,N,N,N,N,Dc,N,N,N,Dc,Sd,N
+Final Health:
+               StraightShooter: -17
+                     Richochet: -1
+                        Monkey: -17
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Richochet Monkey
+Richochet: Neo StraightShooter Monkey
+Monkey: Neo StraightShooter Richochet
+Neo: Monkey StraightShooter Richochet
+Generated: 2014/08/12 09:45:31.935896525 UTC

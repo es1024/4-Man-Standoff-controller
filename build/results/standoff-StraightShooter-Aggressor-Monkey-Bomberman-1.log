@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Monkey Bomberman
+               StraightShooter: Sd,N,Sd
+                     Aggressor: P,Tc,Sa
+                        Monkey: N,Sd,N
+                     Bomberman: N,N,N
+Final Health:
+               StraightShooter: 0
+                     Aggressor: 2
+                        Monkey: -3
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Bomberman Aggressor
+Aggressor: Monkey Bomberman StraightShooter
+Monkey: Aggressor Bomberman StraightShooter
+Bomberman: Aggressor Monkey StraightShooter
+Generated: 2014/08/12 07:42:40.359927426 UTC

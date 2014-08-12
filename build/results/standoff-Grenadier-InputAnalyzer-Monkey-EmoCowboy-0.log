@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Monkey EmoCowboy
+                     Grenadier: P,N,N
+                 InputAnalyzer: Da,Sc,N
+                        Monkey: N,N,N
+                     EmoCowboy: Sd,N,N
+Final Health:
+                     Grenadier: -1
+                 InputAnalyzer: 2
+                        Monkey: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Monkey EmoCowboy
+InputAnalyzer: Grenadier Monkey EmoCowboy
+Monkey: Grenadier InputAnalyzer EmoCowboy
+EmoCowboy: Grenadier InputAnalyzer Monkey
+Generated: 2014/08/12 08:05:21.043636407 UTC

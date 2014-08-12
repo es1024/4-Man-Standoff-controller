@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Bomberman Rule0Bot
+                     Grenadier: P,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N
+                      Rule0Bot: N,Sa,N,N,N,N,N
+Final Health:
+                     Grenadier: -7
+                        Coward: 2
+                     Bomberman: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Bomberman Rule0Bot Coward
+Coward: Bomberman Rule0Bot Grenadier
+Bomberman: Coward Rule0Bot Grenadier
+Rule0Bot: Coward Bomberman Grenadier
+Generated: 2014/08/12 06:22:51.462732354 UTC

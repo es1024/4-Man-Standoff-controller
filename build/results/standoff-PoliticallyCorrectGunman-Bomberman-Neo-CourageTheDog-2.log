@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Neo CourageTheDog
+      PoliticallyCorrectGunman: N,N,N,Sd,N,P,Db,N
+                     Bomberman: N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,Db,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Da,Sa,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -5
+                     Bomberman: 0
+                           Neo: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Bomberman Neo
+Bomberman: CourageTheDog PoliticallyCorrectGunman Neo
+Neo: CourageTheDog PoliticallyCorrectGunman Bomberman
+CourageTheDog: Neo PoliticallyCorrectGunman Bomberman
+Generated: 2014/08/12 08:05:26.533968760 UTC

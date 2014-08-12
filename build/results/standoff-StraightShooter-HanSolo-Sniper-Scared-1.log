@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Sniper Scared
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sa,N,Sa
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N
+                        Scared: N,N,Sa,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+                        Sniper: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper Scared HanSolo
+HanSolo: Sniper Scared StraightShooter
+Sniper: HanSolo Scared StraightShooter
+Scared: HanSolo Sniper StraightShooter
+Generated: 2014/08/12 07:45:53.235099166 UTC

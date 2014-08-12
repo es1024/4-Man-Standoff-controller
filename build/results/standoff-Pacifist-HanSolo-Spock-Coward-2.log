@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Spock Coward
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,N,N,N
+                         Spock: N,N,Sd,N,Sb,N,Sa,N,Sa
+                        Coward: Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                         Spock: 5
+                        Coward: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward HanSolo Spock
+HanSolo: Coward Pacifist Spock
+Spock: Coward Pacifist HanSolo
+Coward: Spock Pacifist HanSolo
+Generated: 2014/08/12 06:30:04.419481810 UTC

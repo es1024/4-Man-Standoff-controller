@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman HanSolo Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,Da,Dc,N,Da,Dc,Dc,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb,N,Sb
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo PoliticallyCorrectGunman HanSolo
+PoliticallyCorrectGunman: Neo Pacifist HanSolo
+HanSolo: Neo Pacifist PoliticallyCorrectGunman
+Neo: HanSolo Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 10:29:47.995003360 UTC

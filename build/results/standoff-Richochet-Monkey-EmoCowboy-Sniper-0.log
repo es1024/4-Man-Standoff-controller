@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey EmoCowboy Sniper
+                     Richochet: Sb,N,Sd,N,Sb,N,Sd,N,Sd
+                        Monkey: N,N,N,N,Sc,N,N,N,N
+                     EmoCowboy: N,N,N,Sc,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,Sb,N,N,N
+Final Health:
+                     Richochet: 5
+                        Monkey: -1
+                     EmoCowboy: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey EmoCowboy Sniper
+Monkey: Richochet EmoCowboy Sniper
+EmoCowboy: Richochet Monkey Sniper
+Sniper: Richochet Monkey EmoCowboy
+Generated: 2014/08/12 08:28:19.195123366 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward EmoCowboy CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Da,Sd,N,Da,Sd,N,Dd,Da,Sd,N,Da,Da,Da,Da,Da,Da,Sd,N
+                     EmoCowboy: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,N,Db,Db,Sb,N,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,N,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                     Grenadier: -1
+                        Coward: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy CourageTheDog Coward
+Coward: EmoCowboy CourageTheDog Grenadier
+EmoCowboy: Coward CourageTheDog Grenadier
+CourageTheDog: Coward EmoCowboy Grenadier
+Generated: 2014/08/12 08:20:24.279545342 UTC

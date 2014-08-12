@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter EmoCowboy AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sd
+                     EmoCowboy: N,N,N,N,Sc,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier SimpleShooter EmoCowboy
+SimpleShooter: AntiGrenadier Pacifist EmoCowboy
+EmoCowboy: AntiGrenadier Pacifist SimpleShooter
+AntiGrenadier: EmoCowboy Pacifist SimpleShooter
+Generated: 2014/08/12 06:46:49.668160264 UTC

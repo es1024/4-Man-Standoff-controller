@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer SimpleShooter Ninja
+                     Grenadier: N,N,N,N,N,N
+                 InputAnalyzer: Dd,Sc,N,P,Sc,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N
+                         Ninja: Db,Dc,Da,Da,Db,Dd
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: -3
+                 SimpleShooter: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja InputAnalyzer SimpleShooter
+InputAnalyzer: Ninja Grenadier SimpleShooter
+SimpleShooter: Ninja Grenadier InputAnalyzer
+Ninja: SimpleShooter Grenadier InputAnalyzer
+Generated: 2014/08/12 06:29:03.081475077 UTC

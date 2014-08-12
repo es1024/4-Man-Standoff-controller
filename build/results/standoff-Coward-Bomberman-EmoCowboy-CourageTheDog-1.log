@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman EmoCowboy CourageTheDog
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sb,N,Sa,N,Sa
+Final Health:
+                        Coward: -1
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy CourageTheDog Bomberman
+Bomberman: EmoCowboy CourageTheDog Coward
+EmoCowboy: Bomberman CourageTheDog Coward
+CourageTheDog: Bomberman EmoCowboy Coward
+Generated: 2014/08/12 08:21:23.471305889 UTC

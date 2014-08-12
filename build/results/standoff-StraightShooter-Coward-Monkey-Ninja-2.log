@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Monkey Ninja
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sc,N,Sc,N,Da,Dc,Da,Dc,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,Dd,Da,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Da,Dc,Dc,Db,Db,Da,Dd,Dd,Db,Dc,Da,Dd,Dd,Db,Dc,Db,Da,Dd,Dd,Dc,Dc,Dd,Dc,Db,Da,Db,Dc,Dd,Dd,Dc,Dd,Dd,Dc,Da,Da,Dc,Da,Da,Da,Da,Db,Dc,Dd,Da,Da,Db,Dc,Db
+Final Health:
+               StraightShooter: -15
+                        Coward: -1
+                        Monkey: -1
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Coward Monkey
+Coward: Ninja StraightShooter Monkey
+Monkey: Ninja StraightShooter Coward
+Ninja: Monkey StraightShooter Coward
+Generated: 2014/08/12 06:39:51.302182540 UTC

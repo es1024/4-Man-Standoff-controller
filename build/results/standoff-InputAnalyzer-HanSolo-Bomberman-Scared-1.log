@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Bomberman Scared
+                 InputAnalyzer: Dc,P,Da,Sd
+                       HanSolo: Sc,N,Sc,N
+                     Bomberman: N,N,N,N
+                        Scared: Sc,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 2
+                     Bomberman: -1
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Scared HanSolo
+HanSolo: Bomberman Scared InputAnalyzer
+Bomberman: HanSolo Scared InputAnalyzer
+Scared: HanSolo Bomberman InputAnalyzer
+Generated: 2014/08/12 10:05:08.480923010 UTC

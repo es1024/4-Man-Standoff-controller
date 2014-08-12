@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Bomberman Ninja
+                     Grenadier: N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Dc,Dd,Db,Db,Da,Db,Dd,Da,Dc,Dc,Da,Db,Dd,Dc,Da,Dd,Db,Db,Da,Db,Da,Dc,Dd,Dd,Dd,Db,Dd,Db,Dd,Db,Da,Dd,Dd,Db,Dd,Dc,Da,Db,Dd,Dc,Da,Db,Dd,Dc,Dd,Db,Da,Db
+Final Health:
+                     Grenadier: -7
+               StraightShooter: -18
+                     Bomberman: -18
+                         Ninja: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja StraightShooter Bomberman
+StraightShooter: Ninja Grenadier Bomberman
+Bomberman: Ninja Grenadier StraightShooter
+Ninja: Bomberman Grenadier StraightShooter
+Generated: 2014/08/12 06:13:16.926907143 UTC

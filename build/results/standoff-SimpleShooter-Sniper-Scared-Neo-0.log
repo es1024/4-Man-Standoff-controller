@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Sniper Scared Neo
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sb,N,Sb
+                        Sniper: Sd,N,N,N,N,Sc,N,N,N
+                        Scared: Sd,N,Sb,N,Sa,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 3
+                        Sniper: -1
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper Scared Neo
+Sniper: SimpleShooter Scared Neo
+Scared: SimpleShooter Sniper Neo
+Neo: SimpleShooter Sniper Scared
+Generated: 2014/08/12 10:27:22.515717438 UTC

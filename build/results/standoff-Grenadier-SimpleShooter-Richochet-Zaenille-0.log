@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Richochet Zaenille
+                     Grenadier: P,N,N
+                 SimpleShooter: Sd,N,Sc
+                     Richochet: Sd,N,Sa
+                      Zaenille: Sd,N,N
+Final Health:
+                     Grenadier: -3
+                 SimpleShooter: 2
+                     Richochet: 0
+                      Zaenille: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Richochet Zaenille
+SimpleShooter: Grenadier Richochet Zaenille
+Richochet: Grenadier SimpleShooter Zaenille
+Zaenille: Grenadier SimpleShooter Richochet
+Generated: 2014/08/12 08:31:23.831667499 UTC

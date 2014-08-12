@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille Sniper Scared
+                     Aggressor: P,Td
+                      Zaenille: Sb,N
+                        Sniper: Sb,N
+                        Scared: Sc,N
+Final Health:
+                     Aggressor: 2
+                      Zaenille: -4
+                        Sniper: 0
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper Scared Zaenille
+Zaenille: Sniper Scared Aggressor
+Sniper: Zaenille Scared Aggressor
+Scared: Zaenille Sniper Aggressor
+Generated: 2014/08/12 09:55:56.440249770 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Monkey Sniper
+               StraightShooter: Sd,N
+                     Aggressor: P,Ta
+                        Monkey: N,Sc
+                        Sniper: Sc,N
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 2
+                        Monkey: -5
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Sniper Aggressor
+Aggressor: Monkey Sniper StraightShooter
+Monkey: Aggressor Sniper StraightShooter
+Sniper: Aggressor Monkey StraightShooter
+Generated: 2014/08/12 10:48:16.175171763 UTC

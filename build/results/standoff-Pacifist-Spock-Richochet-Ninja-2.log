@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Richochet Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sb,N,Sb,N,Sd,N,Sb,N,Sa,N,Sd,N,Sa,N,Sa
+                         Ninja: Dd,Db,Dd,Db,Dd,Da,Db,Da,Da,Dc,Db,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                     Richochet: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Spock Richochet
+Spock: Ninja Pacifist Richochet
+Richochet: Ninja Pacifist Spock
+Ninja: Richochet Pacifist Spock
+Generated: 2014/08/12 10:23:29.974303246 UTC

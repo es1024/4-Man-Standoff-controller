@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Richochet EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sc,N,Sc
+                     Richochet: Sa,N,Sb,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                     Richochet: 1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Richochet EmoCowboy
+HanSolo: Pacifist Richochet EmoCowboy
+Richochet: Pacifist HanSolo EmoCowboy
+EmoCowboy: Pacifist HanSolo Richochet
+Generated: 2014/08/12 09:56:03.344290494 UTC

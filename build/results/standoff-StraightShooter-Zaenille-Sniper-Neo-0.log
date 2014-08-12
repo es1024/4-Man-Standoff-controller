@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille Sniper Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,Da,N,N,N,Da,N,N,Sa
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -2
+                        Sniper: -1
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille Sniper Neo
+Zaenille: StraightShooter Sniper Neo
+Sniper: StraightShooter Zaenille Neo
+Neo: StraightShooter Zaenille Sniper
+Generated: 2014/08/12 09:17:34.202908878 UTC

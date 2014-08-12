@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Scared CourageTheDog
+                     Aggressor: P,Tc
+  TwentyFourthsAndAHalfCentury: Dc,Da
+                        Scared: Sd,N
+                 CourageTheDog: Sb,N
+Final Health:
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: CourageTheDog Aggressor Scared
+Scared: CourageTheDog Aggressor TwentyFourthsAndAHalfCentury
+CourageTheDog: Scared Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:40:28.657978415 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo SimpleShooter Aggressor
+               StraightShooter: Sc,N
+                       HanSolo: Sa,N
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Tb
+Final Health:
+               StraightShooter: 0
+                       HanSolo: -3
+                 SimpleShooter: 0
+                     Aggressor: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo SimpleShooter Aggressor
+HanSolo: StraightShooter SimpleShooter Aggressor
+SimpleShooter: StraightShooter HanSolo Aggressor
+Aggressor: StraightShooter HanSolo SimpleShooter
+Generated: 2014/08/12 08:30:12.534395138 UTC

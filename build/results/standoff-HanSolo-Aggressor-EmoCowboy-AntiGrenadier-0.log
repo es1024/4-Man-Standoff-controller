@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor EmoCowboy AntiGrenadier
+                       HanSolo: Sb,N
+                     Aggressor: P,Ta
+                     EmoCowboy: Sc,N
+                 AntiGrenadier: N,Sb
+Final Health:
+                       HanSolo: -3
+                     Aggressor: -2
+                     EmoCowboy: -2
+                 AntiGrenadier: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor EmoCowboy AntiGrenadier
+Aggressor: HanSolo EmoCowboy AntiGrenadier
+EmoCowboy: HanSolo Aggressor AntiGrenadier
+AntiGrenadier: HanSolo Aggressor EmoCowboy
+Generated: 2014/08/12 09:30:39.814318552 UTC

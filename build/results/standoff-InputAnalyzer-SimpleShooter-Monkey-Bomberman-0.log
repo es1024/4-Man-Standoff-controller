@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Monkey Bomberman
+                 InputAnalyzer: Db,Dc,Db,Dd,Sc,N,P,N,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sd,N,Sa
+                        Monkey: N,N,N,N,Dd,Sc,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                 SimpleShooter: 2
+                        Monkey: -2
+                     Bomberman: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Monkey Bomberman
+SimpleShooter: InputAnalyzer Monkey Bomberman
+Monkey: InputAnalyzer SimpleShooter Bomberman
+Bomberman: InputAnalyzer SimpleShooter Monkey
+Generated: 2014/08/12 06:15:35.599718074 UTC

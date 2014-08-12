@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Coward Zaenille
+                         Spock: Sb,N,Sb,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sc,N,N,N,N
+                        Coward: Sd,N,Sb,N,Sa,N,Sa
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+                         Spock: 1
+                 SimpleShooter: -1
+                        Coward: -1
+                      Zaenille: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: SimpleShooter Coward Zaenille
+SimpleShooter: Spock Coward Zaenille
+Coward: Spock SimpleShooter Zaenille
+Zaenille: Spock SimpleShooter Coward
+Generated: 2014/08/12 07:56:10.964500602 UTC

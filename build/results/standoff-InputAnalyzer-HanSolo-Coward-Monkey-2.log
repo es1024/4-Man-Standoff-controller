@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Coward Monkey
+                 InputAnalyzer: Dd,P,N,N
+                       HanSolo: Sd,N,Sa,N
+                        Coward: Sb,N,Sb,N
+                        Monkey: N,Sd,N,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: -2
+                        Coward: 2
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey HanSolo Coward
+HanSolo: Monkey InputAnalyzer Coward
+Coward: Monkey InputAnalyzer HanSolo
+Monkey: Coward InputAnalyzer HanSolo
+Generated: 2014/08/12 06:14:32.002819962 UTC

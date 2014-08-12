@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Zaenille Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                 SimpleShooter: -1
+                      Zaenille: -6
+                        Sniper: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper SimpleShooter Zaenille
+SimpleShooter: Sniper StraightShooter Zaenille
+Zaenille: Sniper StraightShooter SimpleShooter
+Sniper: Zaenille StraightShooter SimpleShooter
+Generated: 2014/08/12 07:48:00.264248529 UTC

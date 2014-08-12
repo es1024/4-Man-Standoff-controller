@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy Ninja CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dd,Da,Dc,Da,Dc,Dc,Da,Dc,Db,Da,Da,Dc,Db,Db,Da
+                 CourageTheDog: Sb,N,Sb,N,Sb,N,Sc,N,N,Dc,Sc,N,Dc,Dc,Dc,Sc
+Final Health:
+                      Zaenille: -2
+                     EmoCowboy: -1
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Ninja CourageTheDog EmoCowboy
+EmoCowboy: Ninja CourageTheDog Zaenille
+Ninja: EmoCowboy CourageTheDog Zaenille
+CourageTheDog: EmoCowboy Ninja Zaenille
+Generated: 2014/08/12 08:55:02.504433493 UTC

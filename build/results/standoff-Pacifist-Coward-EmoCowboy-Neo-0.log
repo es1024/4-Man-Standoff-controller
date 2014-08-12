@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward EmoCowboy Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Dd,Dd,Dd,Sa,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N,Sb,N,N,Db,Sb,N,N,N,Db,Sb
+Final Health:
+                      Pacifist: -1
+                        Coward: -1
+                     EmoCowboy: -2
+                           Neo: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward EmoCowboy Neo
+Coward: Pacifist EmoCowboy Neo
+EmoCowboy: Pacifist Coward Neo
+Neo: Pacifist Coward EmoCowboy
+Generated: 2014/08/12 09:59:01.666847874 UTC

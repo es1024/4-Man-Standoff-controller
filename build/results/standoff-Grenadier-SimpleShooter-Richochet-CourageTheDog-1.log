@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Richochet CourageTheDog
+                     Grenadier: P,N,N
+                 SimpleShooter: Sa,N,Sd
+                     Richochet: Sa,N,Sb
+                 CourageTheDog: Sc,N,Da
+Final Health:
+                     Grenadier: -5
+                 SimpleShooter: 0
+                     Richochet: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet CourageTheDog SimpleShooter
+SimpleShooter: Richochet CourageTheDog Grenadier
+Richochet: SimpleShooter CourageTheDog Grenadier
+CourageTheDog: SimpleShooter Richochet Grenadier
+Generated: 2014/08/12 09:01:38.864748960 UTC

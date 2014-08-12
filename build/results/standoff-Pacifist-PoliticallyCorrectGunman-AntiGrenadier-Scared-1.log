@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman AntiGrenadier Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sc,N,Sa,N,Sa,N,N,Sc
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: AntiGrenadier Scared Pacifist
+AntiGrenadier: PoliticallyCorrectGunman Scared Pacifist
+Scared: PoliticallyCorrectGunman AntiGrenadier Pacifist
+Generated: 2014/08/12 07:32:10.301885458 UTC

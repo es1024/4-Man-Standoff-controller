@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Spock CourageTheDog
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Da,P,Db,Sc
+                         Spock: Sa,N,Sa,N
+                 CourageTheDog: Sa,N,P,Tb
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -9
+                         Spock: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Spock CourageTheDog
+InputAnalyzer: Pacifist Spock CourageTheDog
+Spock: Pacifist InputAnalyzer CourageTheDog
+CourageTheDog: Pacifist InputAnalyzer Spock
+Generated: 2014/08/12 08:17:03.991726133 UTC

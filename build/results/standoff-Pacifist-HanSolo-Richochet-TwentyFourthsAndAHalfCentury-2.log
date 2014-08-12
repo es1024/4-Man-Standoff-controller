@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Richochet TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sc,N,Sc,N,Sc
+                     Richochet: Sd,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury HanSolo Richochet
+HanSolo: TwentyFourthsAndAHalfCentury Pacifist Richochet
+Richochet: TwentyFourthsAndAHalfCentury Pacifist HanSolo
+TwentyFourthsAndAHalfCentury: Richochet Pacifist HanSolo
+Generated: 2014/08/12 08:56:39.310513638 UTC

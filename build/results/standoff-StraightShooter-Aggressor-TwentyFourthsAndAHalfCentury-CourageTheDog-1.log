@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor TwentyFourthsAndAHalfCentury CourageTheDog
+               StraightShooter: Sd,N
+                     Aggressor: P,Tc
+  TwentyFourthsAndAHalfCentury: Dd,Db
+                 CourageTheDog: Sa,N
+Final Health:
+               StraightShooter: 0
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury CourageTheDog Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury CourageTheDog StraightShooter
+TwentyFourthsAndAHalfCentury: Aggressor CourageTheDog StraightShooter
+CourageTheDog: Aggressor TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 06:06:44.411782332 UTC

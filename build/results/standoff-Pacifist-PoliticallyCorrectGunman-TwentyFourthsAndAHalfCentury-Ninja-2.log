@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N,N,N,N,N,Dd,N,Dc,Dc,Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,N,N,N,N,N,Sb,N,Sa,N,Sd,N,Sd,N,Sa,N,Sd
+                         Ninja: Dc,Da,Db,Dc,Da,Dc,Dc,Db,Da,Dc,Dd,Db,Db,Da,Da,Db,Dd,Dc,Db,Da,Da
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+PoliticallyCorrectGunman: Ninja Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Pacifist PoliticallyCorrectGunman
+Ninja: TwentyFourthsAndAHalfCentury Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 07:45:05.094475260 UTC

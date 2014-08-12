@@ -1,0 +1,16 @@
+Standoff between: Monkey Scared Neo CourageTheDog
+                        Monkey: N,N,N,Dc,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,Sd,N,Sc,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,Sd,N,Sd
+                           Neo: N,Da,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Db,Da,Sa,N,Db,Sc,N,Db,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                        Monkey: -2
+                        Scared: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: CourageTheDog Scared Neo
+Scared: CourageTheDog Monkey Neo
+Neo: CourageTheDog Monkey Scared
+CourageTheDog: Neo Monkey Scared
+Generated: 2014/08/12 10:19:23.542689504 UTC

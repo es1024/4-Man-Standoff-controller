@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Coward Rule0Bot
+               StraightShooter: Sd,N,Sd,N,Sd
+                       HanSolo: Sc,N,Sc,N,Sc
+                        Coward: Sa,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+                        Coward: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Coward Rule0Bot HanSolo
+HanSolo: Coward Rule0Bot StraightShooter
+Coward: HanSolo Rule0Bot StraightShooter
+Rule0Bot: HanSolo Coward StraightShooter
+Generated: 2014/08/12 06:15:39.091778131 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Richochet Ninja
+                 InputAnalyzer: Dc,P,Da,Dd
+                       HanSolo: Sc,N,Sc,N
+                     Richochet: Sb,N,Sd,N
+                         Ninja: Da,Da,Dd,Dd
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 0
+                     Richochet: -2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Ninja HanSolo
+HanSolo: Richochet Ninja InputAnalyzer
+Richochet: HanSolo Ninja InputAnalyzer
+Ninja: HanSolo Richochet InputAnalyzer
+Generated: 2014/08/12 06:25:12.890387455 UTC

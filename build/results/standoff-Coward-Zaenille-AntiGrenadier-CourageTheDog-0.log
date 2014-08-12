@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille AntiGrenadier CourageTheDog
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Sa,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                      Zaenille: -2
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille AntiGrenadier CourageTheDog
+Zaenille: Coward AntiGrenadier CourageTheDog
+AntiGrenadier: Coward Zaenille CourageTheDog
+CourageTheDog: Coward Zaenille AntiGrenadier
+Generated: 2014/08/12 08:00:32.305545608 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Monkey Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                        Monkey: N,N,Da,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Db,Dd,Dc,Da,Dc,Db,Dd,Db,Da,Dc,Db,Dd,Da,Da,Dc,Dd,Dd,Dd,Dc,Da,Dc,Db,Da,Dc,Dd,Dc,Db,Dd,Dc,Db,Dc,Da,Db,Dc,Dc,Db,Dd,Dd,Da,Da,Dd,Dd,Dd,Dc,Da,Dd,Dd,Db
+Final Health:
+                      Pacifist: -15
+               StraightShooter: -15
+                        Monkey: -1
+                         Ninja: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter Monkey Ninja
+StraightShooter: Pacifist Monkey Ninja
+Monkey: Pacifist StraightShooter Ninja
+Ninja: Pacifist StraightShooter Monkey
+Generated: 2014/08/12 10:30:16.239021274 UTC

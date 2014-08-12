@@ -1,0 +1,16 @@
+Standoff between: Spock EmoCowboy AntiGrenadier Neo
+                         Spock: N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,Sc,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,Sc,N,Sc,N
+                     EmoCowboy: N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,Da,N,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,Da,Sa,N,Sa,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+                         Spock: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Neo EmoCowboy
+EmoCowboy: AntiGrenadier Neo Spock
+AntiGrenadier: EmoCowboy Neo Spock
+Neo: EmoCowboy AntiGrenadier Spock
+Generated: 2014/08/12 08:59:00.167139205 UTC

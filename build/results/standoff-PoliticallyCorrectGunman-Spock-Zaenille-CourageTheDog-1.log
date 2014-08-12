@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Zaenille CourageTheDog
+      PoliticallyCorrectGunman: N,N,Dd,Sb,N,Db,Sd,N,Sd,N,Dc,P,Td
+                         Spock: N,Sc,N,Sc,N,Sa,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Sa,N,Db,Sb,N,Da,Da,Da,Da,P
+Final Health:
+      PoliticallyCorrectGunman: -3
+                         Spock: -1
+                      Zaenille: -2
+                 CourageTheDog: -11
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille CourageTheDog Spock
+Spock: Zaenille CourageTheDog PoliticallyCorrectGunman
+Zaenille: Spock CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: Spock Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 09:59:01.244912988 UTC

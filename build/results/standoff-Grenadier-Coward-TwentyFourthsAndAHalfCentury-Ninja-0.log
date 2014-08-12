@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward TwentyFourthsAndAHalfCentury Ninja
+                     Grenadier: N,N,N,N,P,Tb,P
+                        Coward: Sd,N,Sd,N,Sd,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Db,Da,Sa
+                         Ninja: Db,Da,Dd,Dc,Db,Dc,N
+Final Health:
+                     Grenadier: -6
+                        Coward: -3
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward TwentyFourthsAndAHalfCentury Ninja
+Coward: Grenadier TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Grenadier Coward Ninja
+Ninja: Grenadier Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:01:29.637312568 UTC

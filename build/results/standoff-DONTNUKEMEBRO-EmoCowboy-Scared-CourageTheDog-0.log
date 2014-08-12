@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO EmoCowboy Scared CourageTheDog
+                 DONTNUKEMEBRO: Dc,Dc,Sd,N,Dd,Db,Db,Dc,Db,Dd,Db,Dc,Dd,Sc,N,Dd,Dd,Db,Sd
+                     EmoCowboy: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sa,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Dc,Dc,Dc,Da,Dc,Da,Da,Da,Sc,N,Sc,N,Da,Sa,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: 1
+                     EmoCowboy: -2
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: EmoCowboy Scared CourageTheDog
+EmoCowboy: DONTNUKEMEBRO Scared CourageTheDog
+Scared: DONTNUKEMEBRO EmoCowboy CourageTheDog
+CourageTheDog: DONTNUKEMEBRO EmoCowboy Scared
+Generated: 2014/08/12 08:57:15.921841388 UTC

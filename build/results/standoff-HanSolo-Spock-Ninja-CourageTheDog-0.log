@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Ninja CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Db,Da,Dc,Dc,Dd,Db,Dc,Db,Da,Dd,Dc,Db,Da,Db
+                 CourageTheDog: Sb,N,Db,Sa,N,Sa,N,Dc,Dc,Dc,Dc,Dc,Dc,Sc,N,Sc
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock Ninja CourageTheDog
+Spock: HanSolo Ninja CourageTheDog
+Ninja: HanSolo Spock CourageTheDog
+CourageTheDog: HanSolo Spock Ninja
+Generated: 2014/08/12 07:17:56.656837522 UTC

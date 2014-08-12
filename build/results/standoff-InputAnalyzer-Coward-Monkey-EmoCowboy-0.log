@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Monkey EmoCowboy
+                 InputAnalyzer: Db,Dc,Db,Sd,N,P,Sa
+                        Coward: Sd,N,Sd,N,Sc,N,Sc
+                        Monkey: N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                        Coward: 2
+                        Monkey: -2
+                     EmoCowboy: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Monkey EmoCowboy
+Coward: InputAnalyzer Monkey EmoCowboy
+Monkey: InputAnalyzer Coward EmoCowboy
+EmoCowboy: InputAnalyzer Coward Monkey
+Generated: 2014/08/12 09:55:06.057694752 UTC

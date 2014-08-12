@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Rule0Bot CourageTheDog
+                 InputAnalyzer: Dd,P,Sa
+                     Richochet: Sd,N,Sa
+                      Rule0Bot: N,N,Sa
+                 CourageTheDog: Sa,N,P
+Final Health:
+                 InputAnalyzer: -15
+                     Richochet: -1
+                      Rule0Bot: -1
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Richochet Rule0Bot
+Richochet: CourageTheDog InputAnalyzer Rule0Bot
+Rule0Bot: CourageTheDog InputAnalyzer Richochet
+CourageTheDog: Rule0Bot InputAnalyzer Richochet
+Generated: 2014/08/12 09:23:17.841569380 UTC

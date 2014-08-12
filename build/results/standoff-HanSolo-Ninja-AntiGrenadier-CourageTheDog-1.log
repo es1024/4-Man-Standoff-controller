@@ -1,0 +1,16 @@
+Standoff between: HanSolo Ninja AntiGrenadier CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sb
+                         Ninja: Db,Da,Dc,Dd,Db,Db,Dd,Da,Da,Dd,Db,Dd,Da,Da,Dd,Dd,Dd,Dc,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Db,Da,Da,Sa,N,Sa,N,Db,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier CourageTheDog Ninja
+Ninja: AntiGrenadier CourageTheDog HanSolo
+AntiGrenadier: Ninja CourageTheDog HanSolo
+CourageTheDog: Ninja AntiGrenadier HanSolo
+Generated: 2014/08/12 05:59:56.516057135 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO SimpleShooter AntiGrenadier
+                 InputAnalyzer: Dd,Dc,Dd,Db,Dc,Dd,Sc,N,Dc,Sd,N,Sb,N,Dc,Dd,P,Db
+                 DONTNUKEMEBRO: Dc,Dc,Sc,N,Sc,N,Dd,Da,Da,Da,Da,Da,Da,Sa,N,Dd,Sa
+                 SimpleShooter: Sb,N,Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -1
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: AntiGrenadier InputAnalyzer SimpleShooter
+SimpleShooter: AntiGrenadier InputAnalyzer DONTNUKEMEBRO
+AntiGrenadier: SimpleShooter InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:59:17.935873552 UTC

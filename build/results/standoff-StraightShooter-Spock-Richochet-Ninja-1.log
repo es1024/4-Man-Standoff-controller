@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Richochet Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                         Spock: Sc,N,Sc,N,Sc,N,Sa,N,Sa
+                     Richochet: Sb,N,Sd,N,Sa,N,N,N,N
+                         Ninja: Dd,Dd,Db,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 3
+                     Richochet: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Ninja Spock
+Spock: Richochet Ninja StraightShooter
+Richochet: Spock Ninja StraightShooter
+Ninja: Spock Richochet StraightShooter
+Generated: 2014/08/12 09:00:00.994953306 UTC

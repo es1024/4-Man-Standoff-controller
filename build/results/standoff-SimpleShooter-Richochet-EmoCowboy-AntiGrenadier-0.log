@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet EmoCowboy AntiGrenadier
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sc,N,Sb,N,Sb
+                     Richochet: Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sa
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                     EmoCowboy: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet EmoCowboy AntiGrenadier
+Richochet: SimpleShooter EmoCowboy AntiGrenadier
+EmoCowboy: SimpleShooter Richochet AntiGrenadier
+AntiGrenadier: SimpleShooter Richochet EmoCowboy
+Generated: 2014/08/12 10:02:23.558137180 UTC

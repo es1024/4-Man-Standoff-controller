@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+                         Spock: N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,Sb,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,Dc,Dc,Da,Dc,Da,N,Da,Dc,Dc,Dc,Da,Dc,Da,Dc,Da,Sc,N,N
+                         Ninja: Dd,Db,Dc,Da,Db,Dc,Db,Dc,Db,Da,Dc,Da,Dc,Db,Dd,Dd,Da,Da,Dd,Db,Db
+                 CourageTheDog: Sa,N,Sc,N,Da,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 3
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: CourageTheDog Spock Ninja
+Ninja: CourageTheDog Spock TwentyFourthsAndAHalfCentury
+CourageTheDog: Ninja Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:28:01.207192958 UTC

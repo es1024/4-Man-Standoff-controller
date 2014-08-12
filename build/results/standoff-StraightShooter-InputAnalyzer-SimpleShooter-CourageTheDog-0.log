@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer SimpleShooter CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N
+                 InputAnalyzer: Da,Db,Db,Sc,N,P,Dc,Sd
+                 SimpleShooter: Sd,N,Sa,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Da,Db,Sb,N,Sa
+Final Health:
+               StraightShooter: -2
+                 InputAnalyzer: -5
+                 SimpleShooter: -1
+                 CourageTheDog: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer SimpleShooter CourageTheDog
+InputAnalyzer: StraightShooter SimpleShooter CourageTheDog
+SimpleShooter: StraightShooter InputAnalyzer CourageTheDog
+CourageTheDog: StraightShooter InputAnalyzer SimpleShooter
+Generated: 2014/08/12 07:20:19.592404629 UTC

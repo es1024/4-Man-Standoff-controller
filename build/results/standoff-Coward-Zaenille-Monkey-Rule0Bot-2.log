@@ -1,0 +1,16 @@
+Standoff between: Coward Zaenille Monkey Rule0Bot
+                        Coward: Sc,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                        Monkey: N,Sc,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+                      Zaenille: -2
+                        Monkey: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Rule0Bot Zaenille Monkey
+Zaenille: Rule0Bot Coward Monkey
+Monkey: Rule0Bot Coward Zaenille
+Rule0Bot: Monkey Coward Zaenille
+Generated: 2014/08/12 10:17:40.503679042 UTC

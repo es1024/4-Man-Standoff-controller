@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer EmoCowboy Ninja CourageTheDog
+                 InputAnalyzer: Dc,Sb,N,Dd,Dc,Sb,N,Dc,Db,Dd,Dc,Da,Db,P,Sa,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Da,Dd,Db,Db,Db,Dc,Db,Dd,Da,Dd,Db,Db,Dd,Db
+                 CourageTheDog: Sb,N,Dc,Da,Sa,N,Sa,N,Da,Da,Dc,Da,Dc,Dc,P,Tc
+Final Health:
+                 InputAnalyzer: -8
+                     EmoCowboy: -4
+                         Ninja: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja CourageTheDog EmoCowboy
+EmoCowboy: Ninja CourageTheDog InputAnalyzer
+Ninja: EmoCowboy CourageTheDog InputAnalyzer
+CourageTheDog: EmoCowboy Ninja InputAnalyzer
+Generated: 2014/08/12 08:31:53.867362084 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sa,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Da,Sc,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward Neo CourageTheDog
+Coward: Pacifist Neo CourageTheDog
+Neo: Pacifist Coward CourageTheDog
+CourageTheDog: Pacifist Coward Neo
+Generated: 2014/08/12 06:42:14.118351385 UTC

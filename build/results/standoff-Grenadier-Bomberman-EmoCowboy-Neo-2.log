@@ -1,0 +1,16 @@
+Standoff between: Grenadier Bomberman EmoCowboy Neo
+                     Grenadier: N,N,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,Db,N,N,N,N,N,N,Db,Db,Db,Db,Db,N,N,N,N,N,N,Db,N,Db,N,Db,Db,N,N,N,Db,N,N,Db,N,Db,Db,N,Db,N,N,N,N,N,N,Db,Db,Db,Sd
+Final Health:
+                     Grenadier: -1
+                     Bomberman: 2
+                     EmoCowboy: -2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Bomberman EmoCowboy
+Bomberman: Neo Grenadier EmoCowboy
+EmoCowboy: Neo Grenadier Bomberman
+Neo: EmoCowboy Grenadier Bomberman
+Generated: 2014/08/12 07:55:29.084692482 UTC

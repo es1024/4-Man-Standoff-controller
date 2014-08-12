@@ -1,16 +1,16 @@
 Standoff between: Pacifist StraightShooter PoliticallyCorrectGunman SimpleShooter
-                      Pacifist: N,N,N,N,N,N,N
-               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
-      PoliticallyCorrectGunman: Da,Db,Sb,N,Db,N,Sc
-                 SimpleShooter: Sa,N,Sa,N,Sa,N,N
+                      Pacifist: N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N
+      PoliticallyCorrectGunman: N,Sa,N,P,N,N
+                 SimpleShooter: Sa,N,Sc,N,Sb,N
 Final Health:
-                      Pacifist: -1
-               StraightShooter: 3
-      PoliticallyCorrectGunman: -2
+                      Pacifist: -2
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -3
                  SimpleShooter: -1
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: PoliticallyCorrectGunman SimpleShooter StraightShooter
 StraightShooter: PoliticallyCorrectGunman SimpleShooter Pacifist
 PoliticallyCorrectGunman: StraightShooter SimpleShooter Pacifist
 SimpleShooter: StraightShooter PoliticallyCorrectGunman Pacifist
-Generated: 2014/08/11 00:59:37.645245696 UTC
+Generated: 2014/08/12 08:55:04.364840705 UTC

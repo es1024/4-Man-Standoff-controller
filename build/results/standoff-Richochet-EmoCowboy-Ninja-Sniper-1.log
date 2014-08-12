@@ -1,0 +1,16 @@
+Standoff between: Richochet EmoCowboy Ninja Sniper
+                     Richochet: Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd,N,Sc,N,Sd
+                     EmoCowboy: N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Db,Da,Dc,Dc,Dc,Da,Da,Dd,Dc,Dd,Db,N,N
+                        Sniper: Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 3
+                     EmoCowboy: -6
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Sniper EmoCowboy
+EmoCowboy: Ninja Sniper Richochet
+Ninja: EmoCowboy Sniper Richochet
+Sniper: EmoCowboy Ninja Richochet
+Generated: 2014/08/12 06:11:05.786127327 UTC

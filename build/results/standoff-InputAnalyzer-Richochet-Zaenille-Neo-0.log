@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Zaenille Neo
+                 InputAnalyzer: Db,Sd,N,Dd,Db,Dc,Db,Dd,Sc,N,P
+                     Richochet: Sd,N,Sa,N,Sd,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Da,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -7
+                     Richochet: 2
+                      Zaenille: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Zaenille Neo
+Richochet: InputAnalyzer Zaenille Neo
+Zaenille: InputAnalyzer Richochet Neo
+Neo: InputAnalyzer Richochet Zaenille
+Generated: 2014/08/12 07:29:49.585282372 UTC

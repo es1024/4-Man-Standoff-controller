@@ -1,16 +1,16 @@
 Standoff between: Grenadier InputAnalyzer HanSolo DONTNUKEMEBRO
-                     Grenadier: P,Tc,N
-                 InputAnalyzer: Dc,Da,Sb
-                       HanSolo: Sb,N,N
-                 DONTNUKEMEBRO: Dc,Sa,N
+                     Grenadier: P,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sd
+                 DONTNUKEMEBRO: Db,Sa,N,Db,Db
 Final Health:
-                     Grenadier: 0
-                 InputAnalyzer: -2
-                       HanSolo: -3
-                 DONTNUKEMEBRO: 2
+                     Grenadier: -5
+                 InputAnalyzer: 0
+                       HanSolo: 2
+                 DONTNUKEMEBRO: 0
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: HanSolo DONTNUKEMEBRO InputAnalyzer
 InputAnalyzer: HanSolo DONTNUKEMEBRO Grenadier
 HanSolo: InputAnalyzer DONTNUKEMEBRO Grenadier
 DONTNUKEMEBRO: InputAnalyzer HanSolo Grenadier
-Generated: 2014/08/11 00:59:50.008769916 UTC
+Generated: 2014/08/12 09:47:34.833512018 UTC

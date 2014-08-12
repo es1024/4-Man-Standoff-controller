@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Scared Neo
+                     Aggressor: P,Tb,Sc
+                     Richochet: Sd,N,N
+                        Scared: N,N,N
+                           Neo: N,N,N
+Final Health:
+                     Aggressor: 2
+                     Richochet: -3
+                        Scared: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo Richochet Scared
+Richochet: Neo Aggressor Scared
+Scared: Neo Aggressor Richochet
+Neo: Scared Aggressor Richochet
+Generated: 2014/08/12 10:22:20.151725870 UTC

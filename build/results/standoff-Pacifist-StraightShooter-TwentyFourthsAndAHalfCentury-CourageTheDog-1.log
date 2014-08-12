@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter TwentyFourthsAndAHalfCentury CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Db,Da,Dd,N,N,N,N,N,N,N,N,N,N,Da,Da,Da,Db,Da,Db,Da,Db,Da,Db,Da,Db,Da,Da,Da,N,N,N,N,N,N,N,N,Db,Da,Da,Da,Da,Da,Db,Da,Da,Da,Db,Da,Da,Da
+                 CourageTheDog: Sa,N,Db,N,Da,N,Db,Db,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -17
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -15
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury CourageTheDog StraightShooter
+StraightShooter: TwentyFourthsAndAHalfCentury CourageTheDog Pacifist
+TwentyFourthsAndAHalfCentury: StraightShooter CourageTheDog Pacifist
+CourageTheDog: StraightShooter TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 09:36:52.911508782 UTC

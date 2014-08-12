@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille EmoCowboy Rule0Bot
+                       HanSolo: Sb,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                      Zaenille: -4
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Zaenille EmoCowboy Rule0Bot
+Zaenille: HanSolo EmoCowboy Rule0Bot
+EmoCowboy: HanSolo Zaenille Rule0Bot
+Rule0Bot: HanSolo Zaenille EmoCowboy
+Generated: 2014/08/12 10:03:31.781440230 UTC

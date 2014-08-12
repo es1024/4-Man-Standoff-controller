@@ -1,0 +1,16 @@
+Standoff between: Spock EmoCowboy Scared CourageTheDog
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sd,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Da,Sa,N,Da,N,Sa
+Final Health:
+                         Spock: -1
+                     EmoCowboy: -4
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Scared CourageTheDog EmoCowboy
+EmoCowboy: Scared CourageTheDog Spock
+Scared: EmoCowboy CourageTheDog Spock
+CourageTheDog: EmoCowboy Scared Spock
+Generated: 2014/08/12 07:51:30.179013809 UTC

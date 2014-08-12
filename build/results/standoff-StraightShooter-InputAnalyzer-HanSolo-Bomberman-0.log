@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer HanSolo Bomberman
+               StraightShooter: Sc,N,Sc
+                 InputAnalyzer: Da,P,Sb
+                       HanSolo: Sa,N,Sa
+                     Bomberman: N,N,N
+Final Health:
+               StraightShooter: -2
+                 InputAnalyzer: -8
+                       HanSolo: -2
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: InputAnalyzer HanSolo Bomberman
+InputAnalyzer: StraightShooter HanSolo Bomberman
+HanSolo: StraightShooter InputAnalyzer Bomberman
+Bomberman: StraightShooter InputAnalyzer HanSolo
+Generated: 2014/08/12 08:19:52.389972210 UTC

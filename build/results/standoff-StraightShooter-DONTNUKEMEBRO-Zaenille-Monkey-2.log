@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Zaenille Monkey
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Da,Dc,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Monkey: N,N,Dc,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                      Zaenille: -2
+                        Monkey: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey DONTNUKEMEBRO Zaenille
+DONTNUKEMEBRO: Monkey StraightShooter Zaenille
+Zaenille: Monkey StraightShooter DONTNUKEMEBRO
+Monkey: Zaenille StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 08:24:08.958809392 UTC

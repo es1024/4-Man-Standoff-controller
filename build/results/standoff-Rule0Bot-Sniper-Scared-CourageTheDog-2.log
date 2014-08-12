@@ -1,0 +1,16 @@
+Standoff between: Rule0Bot Sniper Scared CourageTheDog
+                      Rule0Bot: N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sa,N,Sd,N,Sd
+                        Scared: Sa,N,Sd,N,Sb,N,Sa
+                 CourageTheDog: Sb,N,Sc,N,Db,Dc,Sb
+Final Health:
+                      Rule0Bot: -1
+                        Sniper: -1
+                        Scared: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Rule0Bot: CourageTheDog Sniper Scared
+Sniper: CourageTheDog Rule0Bot Scared
+Scared: CourageTheDog Rule0Bot Sniper
+CourageTheDog: Scared Rule0Bot Sniper
+Generated: 2014/08/12 10:01:37.525730848 UTC

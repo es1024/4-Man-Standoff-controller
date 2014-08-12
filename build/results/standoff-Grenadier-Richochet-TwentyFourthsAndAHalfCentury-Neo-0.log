@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet TwentyFourthsAndAHalfCentury Neo
+                     Grenadier: N,N,N,N,P,N,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Da,Dd,Da,Db,Sb
+                           Neo: N,N,N,N,Dc,Dc,Dc,N
+Final Health:
+                     Grenadier: -5
+                     Richochet: 0
+  TwentyFourthsAndAHalfCentury: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet TwentyFourthsAndAHalfCentury Neo
+Richochet: Grenadier TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: Grenadier Richochet Neo
+Neo: Grenadier Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:14:34.243026175 UTC

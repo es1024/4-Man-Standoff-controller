@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Aggressor Ninja Sniper
+      PoliticallyCorrectGunman: N,N,N
+                     Aggressor: P,Ta,Sd
+                         Ninja: Db,Db,N
+                        Sniper: Sc,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                     Aggressor: 2
+                         Ninja: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Ninja Sniper
+Aggressor: PoliticallyCorrectGunman Ninja Sniper
+Ninja: PoliticallyCorrectGunman Aggressor Sniper
+Sniper: PoliticallyCorrectGunman Aggressor Ninja
+Generated: 2014/08/12 08:03:04.386263784 UTC

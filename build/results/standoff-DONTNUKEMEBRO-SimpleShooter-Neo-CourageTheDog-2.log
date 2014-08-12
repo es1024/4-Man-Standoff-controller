@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Neo CourageTheDog
+                 DONTNUKEMEBRO: Db,Dd,Sd,N,Sd,N,Db,Dc,Db,Dc,Sb
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sc,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Db,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 3
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog SimpleShooter Neo
+SimpleShooter: CourageTheDog DONTNUKEMEBRO Neo
+Neo: CourageTheDog DONTNUKEMEBRO SimpleShooter
+CourageTheDog: Neo DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 09:59:37.620969274 UTC

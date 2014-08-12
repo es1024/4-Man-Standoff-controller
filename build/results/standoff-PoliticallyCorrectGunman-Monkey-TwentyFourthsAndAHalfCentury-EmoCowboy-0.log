@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+      PoliticallyCorrectGunman: Sb,N,Sd,N,Dd,Sb,N,N,N,N,N,N,N,Db,Dc,Sa
+                        Monkey: N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Db,Da,Db,Db,Db,N,N,N,N,N,N,N,Sb,N,Sa
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey TwentyFourthsAndAHalfCentury EmoCowboy
+Monkey: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Monkey EmoCowboy
+EmoCowboy: PoliticallyCorrectGunman Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:15:19.900684683 UTC

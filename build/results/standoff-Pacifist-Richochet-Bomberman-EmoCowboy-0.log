@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Bomberman EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sd,N,Sd,N,Sd,N,Sc,N,Sa,N,Sa,N,Sc,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                     Bomberman: -1
+                     EmoCowboy: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Bomberman EmoCowboy
+Richochet: Pacifist Bomberman EmoCowboy
+Bomberman: Pacifist Richochet EmoCowboy
+EmoCowboy: Pacifist Richochet Bomberman
+Generated: 2014/08/12 06:18:53.307738038 UTC

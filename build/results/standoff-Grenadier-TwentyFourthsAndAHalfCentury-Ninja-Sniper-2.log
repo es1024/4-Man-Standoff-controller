@@ -1,0 +1,16 @@
+Standoff between: Grenadier TwentyFourthsAndAHalfCentury Ninja Sniper
+                     Grenadier: P,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Da,Dd,Sd
+                         Ninja: Da,Dd,Da,N
+                        Sniper: Sb,N,Sc,N
+Final Health:
+                     Grenadier: -1
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Sniper Grenadier Ninja
+Ninja: Sniper Grenadier TwentyFourthsAndAHalfCentury
+Sniper: Ninja Grenadier TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:13:00.507712262 UTC

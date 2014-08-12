@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Rule0Bot CourageTheDog
+                         Spock: N,N,N,Sd,N,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N
+                        Monkey: N,N,N,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Db,Sb,N,Da,Da,Dc,Dc,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -17
+                        Monkey: -1
+                      Rule0Bot: -15
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Monkey Rule0Bot
+Monkey: CourageTheDog Spock Rule0Bot
+Rule0Bot: CourageTheDog Spock Monkey
+CourageTheDog: Rule0Bot Spock Monkey
+Generated: 2014/08/12 10:36:54.772940996 UTC

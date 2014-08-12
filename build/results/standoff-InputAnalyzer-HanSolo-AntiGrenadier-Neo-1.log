@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo AntiGrenadier Neo
+                 InputAnalyzer: Dc,P,Dc,N,N
+                       HanSolo: Sc,N,Sc,N,Sd
+                 AntiGrenadier: N,N,Sa,N,N
+                           Neo: N,N,Da,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 2
+                 AntiGrenadier: -2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Neo HanSolo
+HanSolo: AntiGrenadier Neo InputAnalyzer
+AntiGrenadier: HanSolo Neo InputAnalyzer
+Neo: HanSolo AntiGrenadier InputAnalyzer
+Generated: 2014/08/12 09:17:41.492025280 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dd,P,Db,Da,N
+                      Zaenille: Sc,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Db,Da,Sa
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury InputAnalyzer Zaenille
+InputAnalyzer: TwentyFourthsAndAHalfCentury Pacifist Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Pacifist InputAnalyzer
+TwentyFourthsAndAHalfCentury: Zaenille Pacifist InputAnalyzer
+Generated: 2014/08/12 07:28:25.375891041 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Ninja CourageTheDog
+                 InputAnalyzer: Dc,Da,P,Dd,N
+                 DONTNUKEMEBRO: Dd,Dd,Da,Sa,N
+                         Ninja: Dd,Db,Da,Da,Db
+                 CourageTheDog: Sc,N,Db,P,Ta
+Final Health:
+                 InputAnalyzer: -11
+                 DONTNUKEMEBRO: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Ninja CourageTheDog InputAnalyzer
+Ninja: DONTNUKEMEBRO CourageTheDog InputAnalyzer
+CourageTheDog: DONTNUKEMEBRO Ninja InputAnalyzer
+Generated: 2014/08/12 06:49:21.792200487 UTC

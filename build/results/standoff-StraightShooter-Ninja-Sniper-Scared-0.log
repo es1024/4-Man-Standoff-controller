@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Ninja Sniper Scared
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                         Ninja: Da,Dd,Dc,Db,Dd,Dd,Dc,Dd,Dd,Db,Dd,Dd,Dc,Db,Dd,Dd,Dd,Dc,Db,N,N
+                        Sniper: Sd,N,Sa,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,Sa,N,Sb,N,Sb,N,Sa
+Final Health:
+               StraightShooter: -1
+                         Ninja: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja Sniper Scared
+Ninja: StraightShooter Sniper Scared
+Sniper: StraightShooter Ninja Scared
+Scared: StraightShooter Ninja Sniper
+Generated: 2014/08/12 07:42:31.995327234 UTC

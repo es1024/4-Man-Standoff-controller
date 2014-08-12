@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+                 InputAnalyzer: Db,Dd,P,Sb,N
+                        Monkey: N,N,N,P,Sb
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Db
+                 AntiGrenadier: N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -6
+                        Monkey: -11
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey TwentyFourthsAndAHalfCentury AntiGrenadier
+Monkey: InputAnalyzer TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: InputAnalyzer Monkey AntiGrenadier
+AntiGrenadier: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:49:13.942984787 UTC

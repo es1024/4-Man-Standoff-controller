@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter HanSolo Scared
+                     Grenadier: P,N,N
+               StraightShooter: Sa,N,Sa
+                       HanSolo: Sd,N,Sd
+                        Scared: Sb,N,Sa
+Final Health:
+                     Grenadier: -7
+               StraightShooter: 0
+                       HanSolo: 2
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared StraightShooter HanSolo
+StraightShooter: Scared Grenadier HanSolo
+HanSolo: Scared Grenadier StraightShooter
+Scared: HanSolo Grenadier StraightShooter
+Generated: 2014/08/12 05:54:06.531133810 UTC

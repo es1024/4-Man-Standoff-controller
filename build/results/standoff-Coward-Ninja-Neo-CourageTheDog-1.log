@@ -1,0 +1,16 @@
+Standoff between: Coward Ninja Neo CourageTheDog
+                        Coward: Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sd,N
+                         Ninja: Db,Da,Db,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Dd,N,Dd,N,Dd,N,Sa
+                 CourageTheDog: Sb,N,Dc,Dc,Da,Da,Dc,Sa,N,Dc,Sa,N
+Final Health:
+                        Coward: -1
+                         Ninja: -1
+                           Neo: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Neo CourageTheDog Ninja
+Ninja: Neo CourageTheDog Coward
+Neo: Ninja CourageTheDog Coward
+CourageTheDog: Ninja Neo Coward
+Generated: 2014/08/12 08:32:49.028314273 UTC

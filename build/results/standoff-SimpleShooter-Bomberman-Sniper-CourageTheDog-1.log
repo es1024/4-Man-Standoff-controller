@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman Sniper CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Dc,Db,Dc,Dc,Sb,N,Dc,Dc,Dc,Dc,N,Dc,Dc,Dc,Dc,Sc,N,Dc,Sc,N,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                 SimpleShooter: -3
+                     Bomberman: -1
+                        Sniper: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper CourageTheDog Bomberman
+Bomberman: Sniper CourageTheDog SimpleShooter
+Sniper: Bomberman CourageTheDog SimpleShooter
+CourageTheDog: Bomberman Sniper SimpleShooter
+Generated: 2014/08/12 06:11:54.978694541 UTC

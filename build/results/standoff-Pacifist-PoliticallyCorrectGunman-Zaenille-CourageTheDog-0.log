@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Zaenille CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sa,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Da,Da,Da,Da,Da,Da,Da,Da,Da,Sa,N,Da,N,Da,N,Sa
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -4
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Zaenille CourageTheDog
+PoliticallyCorrectGunman: Pacifist Zaenille CourageTheDog
+Zaenille: Pacifist PoliticallyCorrectGunman CourageTheDog
+CourageTheDog: Pacifist PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 05:51:23.326575252 UTC

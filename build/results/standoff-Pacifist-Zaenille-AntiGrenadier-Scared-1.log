@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille AntiGrenadier Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sc,N,Sa,N,Sa,N,Sc
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Scared Zaenille
+Zaenille: AntiGrenadier Scared Pacifist
+AntiGrenadier: Zaenille Scared Pacifist
+Scared: Zaenille AntiGrenadier Pacifist
+Generated: 2014/08/12 06:28:48.642027586 UTC

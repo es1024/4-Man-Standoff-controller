@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Ninja Sniper Scared
+  TwentyFourthsAndAHalfCentury: Dc,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Da,Dc,Dc,Da,Dd,Da,Dc,Da,Dd,Db,Da,Dc,Dc,Da,Dc,N,N
+                        Sniper: Sb,N,Sa,N,Sd,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sb,N,Sb,N,Sc
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Ninja Sniper Scared
+Ninja: TwentyFourthsAndAHalfCentury Sniper Scared
+Sniper: TwentyFourthsAndAHalfCentury Ninja Scared
+Scared: TwentyFourthsAndAHalfCentury Ninja Sniper
+Generated: 2014/08/12 06:31:41.695026982 UTC

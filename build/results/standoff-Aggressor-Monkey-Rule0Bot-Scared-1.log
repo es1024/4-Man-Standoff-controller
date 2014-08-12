@@ -1,0 +1,16 @@
+Standoff between: Aggressor Monkey Rule0Bot Scared
+                     Aggressor: P,Td
+                        Monkey: N,Sc
+                      Rule0Bot: N,Sa
+                        Scared: Sc,N
+Final Health:
+                     Aggressor: 0
+                        Monkey: 2
+                      Rule0Bot: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Rule0Bot Scared Monkey
+Monkey: Rule0Bot Scared Aggressor
+Rule0Bot: Monkey Scared Aggressor
+Scared: Monkey Rule0Bot Aggressor
+Generated: 2014/08/12 06:35:42.879730909 UTC

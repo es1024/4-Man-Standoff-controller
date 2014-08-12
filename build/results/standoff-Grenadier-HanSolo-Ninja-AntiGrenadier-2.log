@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Ninja AntiGrenadier
+                     Grenadier: P,Tb
+                       HanSolo: Sd,N
+                         Ninja: Dd,Dd
+                 AntiGrenadier: N,Sa
+Final Health:
+                     Grenadier: 0
+                       HanSolo: -3
+                         Ninja: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier HanSolo Ninja
+HanSolo: AntiGrenadier Grenadier Ninja
+Ninja: AntiGrenadier Grenadier HanSolo
+AntiGrenadier: Ninja Grenadier HanSolo
+Generated: 2014/08/12 06:45:30.648389971 UTC

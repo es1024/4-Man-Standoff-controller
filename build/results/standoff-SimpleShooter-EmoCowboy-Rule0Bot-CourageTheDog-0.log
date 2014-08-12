@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter EmoCowboy Rule0Bot CourageTheDog
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: N,Sb,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Da,Sc,N,Da,Sc,N
+Final Health:
+                 SimpleShooter: 5
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: EmoCowboy Rule0Bot CourageTheDog
+EmoCowboy: SimpleShooter Rule0Bot CourageTheDog
+Rule0Bot: SimpleShooter EmoCowboy CourageTheDog
+CourageTheDog: SimpleShooter EmoCowboy Rule0Bot
+Generated: 2014/08/12 10:14:07.608767626 UTC

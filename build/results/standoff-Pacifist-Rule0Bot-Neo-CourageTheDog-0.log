@@ -1,0 +1,16 @@
+Standoff between: Pacifist Rule0Bot Neo CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Dd,Dd,Db,Dd,Dd,Dd,N,N,N,N,N,N,N,Da,Dd,Da,Dd,Dd,N,Dd,N,N,N,N,N,Dd,Dd,N,N,N,N,Sd,N,Dd,N,N,Dd,N
+                 CourageTheDog: N,Da,Dc,Sc,N,Db,Da,Sb,N,Db,Dc,Dc,Sb,N,Da,Sb,N,Da,Sa,N,Sc,N,Da,Da,Da,Sc,N,Sc,N,Da,Da,Da,Da,Sa,N,Dc,Sa,N,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Neo CourageTheDog
+Rule0Bot: Pacifist Neo CourageTheDog
+Neo: Pacifist Rule0Bot CourageTheDog
+CourageTheDog: Pacifist Rule0Bot Neo
+Generated: 2014/08/12 10:33:50.572086027 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury EmoCowboy Scared
+                         Spock: Sb,N,Sb,N,Sb,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: Dd,N,Da,N,Dd,N,Dd,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sb,N,Sa,N,Sa
+Final Health:
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: TwentyFourthsAndAHalfCentury EmoCowboy Scared
+TwentyFourthsAndAHalfCentury: Spock EmoCowboy Scared
+EmoCowboy: Spock TwentyFourthsAndAHalfCentury Scared
+Scared: Spock TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 10:46:57.422423974 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter TwentyFourthsAndAHalfCentury Neo
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,Sa,N,N,Da,Sa
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter TwentyFourthsAndAHalfCentury Neo
+SimpleShooter: HanSolo TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: HanSolo SimpleShooter Neo
+Neo: HanSolo SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:56:05.491041039 UTC

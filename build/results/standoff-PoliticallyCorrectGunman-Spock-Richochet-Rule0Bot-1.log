@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet Rule0Bot
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Dc,N,Dc,Sc,N,Sb,N,N,Sc,N,Dd,N,Dd,N,N,N,N,N,P,Sb,N
+                         Spock: Sc,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sb,N,Sb,N,Sb,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                         Spock: -1
+                     Richochet: -1
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Rule0Bot Spock
+Spock: Richochet Rule0Bot PoliticallyCorrectGunman
+Richochet: Spock Rule0Bot PoliticallyCorrectGunman
+Rule0Bot: Spock Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 08:51:04.382694145 UTC

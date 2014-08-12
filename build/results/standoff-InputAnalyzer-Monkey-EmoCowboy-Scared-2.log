@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey EmoCowboy Scared
+                 InputAnalyzer: Dd,Dc,Sa,N,N,N,N
+                        Monkey: N,Dd,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sb,N,Sb
+Final Health:
+                 InputAnalyzer: -4
+                        Monkey: -1
+                     EmoCowboy: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Monkey EmoCowboy
+Monkey: Scared InputAnalyzer EmoCowboy
+EmoCowboy: Scared InputAnalyzer Monkey
+Scared: EmoCowboy InputAnalyzer Monkey
+Generated: 2014/08/12 09:39:50.194812406 UTC

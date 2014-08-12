@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey Sniper CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,Dc,Sc,N,N,N,N,Db,Db,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,Db,Dc,Db,Db,Dc,Dc,Sc,N,Db,Db,Db,Db,Db,Db,Db,Sb,N,Sb
+Final Health:
+                      Zaenille: -4
+                        Monkey: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: CourageTheDog Monkey Sniper
+Monkey: CourageTheDog Zaenille Sniper
+Sniper: CourageTheDog Zaenille Monkey
+CourageTheDog: Sniper Zaenille Monkey
+Generated: 2014/08/12 10:14:18.922874559 UTC

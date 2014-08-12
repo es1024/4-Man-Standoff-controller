@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Bomberman Ninja
+                 InputAnalyzer: Dc,Db,Dc,Db,Dc,Db,Dc,P,N,Dc
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Da,Dd,Dc,Da,Dc,Da,Dd,Da
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 2
+                     Bomberman: -1
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Ninja HanSolo
+HanSolo: Bomberman Ninja InputAnalyzer
+Bomberman: HanSolo Ninja InputAnalyzer
+Ninja: HanSolo Bomberman InputAnalyzer
+Generated: 2014/08/12 06:00:48.426494231 UTC

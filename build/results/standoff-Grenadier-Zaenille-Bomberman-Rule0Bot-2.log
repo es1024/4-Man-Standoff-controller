@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Bomberman Rule0Bot
+                     Grenadier: N,N,N,N,P,Td,P,Tc
+                      Zaenille: Sb,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+                     Bomberman: -6
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Zaenille Bomberman
+Zaenille: Rule0Bot Grenadier Bomberman
+Bomberman: Rule0Bot Grenadier Zaenille
+Rule0Bot: Bomberman Grenadier Zaenille
+Generated: 2014/08/12 06:10:15.165034749 UTC

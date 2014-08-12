@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Monkey Bomberman
+                     Grenadier: P,Tc
+                      Zaenille: Sb,N
+                        Monkey: N,P
+                     Bomberman: N,N
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+                        Monkey: -9
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Monkey Bomberman
+Zaenille: Grenadier Monkey Bomberman
+Monkey: Grenadier Zaenille Bomberman
+Bomberman: Grenadier Zaenille Monkey
+Generated: 2014/08/12 10:07:07.049392606 UTC

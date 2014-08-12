@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Zaenille Sniper
+                     Grenadier: N,N,P,Tb
+      PoliticallyCorrectGunman: N,Da,Da,Da
+                      Zaenille: Sc,N,N,N
+                        Sniper: Sa,N,N,N
+Final Health:
+                     Grenadier: 0
+      PoliticallyCorrectGunman: -3
+                      Zaenille: -2
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Zaenille Sniper
+PoliticallyCorrectGunman: Grenadier Zaenille Sniper
+Zaenille: Grenadier PoliticallyCorrectGunman Sniper
+Sniper: Grenadier PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 09:46:18.591294412 UTC

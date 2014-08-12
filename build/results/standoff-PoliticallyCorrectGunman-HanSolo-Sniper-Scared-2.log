@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Sniper Scared
+      PoliticallyCorrectGunman: N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                        Sniper: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 3
+                        Sniper: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared HanSolo Sniper
+HanSolo: Scared PoliticallyCorrectGunman Sniper
+Sniper: Scared PoliticallyCorrectGunman HanSolo
+Scared: Sniper PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 06:24:58.368351070 UTC

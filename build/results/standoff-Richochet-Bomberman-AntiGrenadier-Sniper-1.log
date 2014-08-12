@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman AntiGrenadier Sniper
+                     Richochet: Sb,N,Sb,N,Sd,N,Sc,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,Sb,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: AntiGrenadier Sniper Bomberman
+Bomberman: AntiGrenadier Sniper Richochet
+AntiGrenadier: Bomberman Sniper Richochet
+Sniper: Bomberman AntiGrenadier Richochet
+Generated: 2014/08/12 06:53:07.883831126 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Bomberman Sniper
+                 InputAnalyzer: Dc,Db,P,Sc,N
+                 DONTNUKEMEBRO: Da,Dc,Sd,N,Da
+                     Bomberman: N,N,N,N,N
+                        Sniper: Sb,N,Sc,N,Sc
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: 0
+                     Bomberman: -4
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Sniper DONTNUKEMEBRO
+DONTNUKEMEBRO: Bomberman Sniper InputAnalyzer
+Bomberman: DONTNUKEMEBRO Sniper InputAnalyzer
+Sniper: DONTNUKEMEBRO Bomberman InputAnalyzer
+Generated: 2014/08/12 05:52:44.506924090 UTC

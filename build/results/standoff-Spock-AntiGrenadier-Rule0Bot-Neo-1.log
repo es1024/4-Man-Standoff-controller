@@ -1,0 +1,16 @@
+Standoff between: Spock AntiGrenadier Rule0Bot Neo
+                         Spock: N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,Sc,N,N,N,N,N,N,Sc,N,P,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Da,N,N,N,Da,Db,Da,N,N,N,N,N,N,N,Da,N,N,Da,N,N,N,Da,Db,Da,N,N,N,N,N,N,N,N,N,N,Da,Db,Da,N,Sd
+Final Health:
+                         Spock: -3
+                 AntiGrenadier: 2
+                      Rule0Bot: -1
+                           Neo: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot Neo AntiGrenadier
+AntiGrenadier: Rule0Bot Neo Spock
+Rule0Bot: AntiGrenadier Neo Spock
+Neo: AntiGrenadier Rule0Bot Spock
+Generated: 2014/08/12 07:29:19.178633363 UTC

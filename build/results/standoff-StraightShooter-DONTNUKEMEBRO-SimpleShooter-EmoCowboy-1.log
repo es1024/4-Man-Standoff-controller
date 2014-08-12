@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter EmoCowboy
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Dd,Dd,Sc,N,Dd,Dd,Sc,N,Dc,Dd,Sc
+                 SimpleShooter: Sa,N,Sb,N,Sa,N,Sb,N,Sa,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter EmoCowboy DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter EmoCowboy StraightShooter
+SimpleShooter: DONTNUKEMEBRO EmoCowboy StraightShooter
+EmoCowboy: DONTNUKEMEBRO SimpleShooter StraightShooter
+Generated: 2014/08/12 07:40:53.855295559 UTC

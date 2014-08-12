@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor TwentyFourthsAndAHalfCentury Ninja
+                     Grenadier: N,P
+                     Aggressor: P,Ta
+  TwentyFourthsAndAHalfCentury: Da,Db
+                         Ninja: Dc,Dd
+Final Health:
+                     Grenadier: -9
+                     Aggressor: -1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor TwentyFourthsAndAHalfCentury Ninja
+Aggressor: Grenadier TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Grenadier Aggressor Ninja
+Ninja: Grenadier Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:48:04.580411349 UTC

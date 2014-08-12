@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO SimpleShooter Monkey
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dc,Dd,Dc,Da,Dc,Dc,Sc,N,Dd,Dc,Sa
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,Sb,N,Sd,N,N,N
+Final Health:
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Monkey DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Monkey HanSolo
+SimpleShooter: DONTNUKEMEBRO Monkey HanSolo
+Monkey: DONTNUKEMEBRO SimpleShooter HanSolo
+Generated: 2014/08/12 07:38:59.551224119 UTC

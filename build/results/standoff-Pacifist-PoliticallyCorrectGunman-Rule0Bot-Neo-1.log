@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Rule0Bot Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Da,N,N,N,Da,N,N,N,N,Da,N,Da,N,N,Da,Da,N,N,N,N,N,N,N,N,N,Da,N,N,Da,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,Sd,N
+Final Health:
+                      Pacifist: -15
+      PoliticallyCorrectGunman: -2
+                      Rule0Bot: -15
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Rule0Bot Neo Pacifist
+Rule0Bot: PoliticallyCorrectGunman Neo Pacifist
+Neo: PoliticallyCorrectGunman Rule0Bot Pacifist
+Generated: 2014/08/12 08:01:37.644981306 UTC

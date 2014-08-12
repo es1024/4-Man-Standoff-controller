@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO Zaenille
+               StraightShooter: Sc,N,Sc,N
+      PoliticallyCorrectGunman: N,Dc,P,Ta
+                 DONTNUKEMEBRO: Da,Dd,Sa,N
+                      Zaenille: Sd,N,N,N
+Final Health:
+               StraightShooter: -5
+      PoliticallyCorrectGunman: 2
+                 DONTNUKEMEBRO: 0
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman DONTNUKEMEBRO Zaenille
+PoliticallyCorrectGunman: StraightShooter DONTNUKEMEBRO Zaenille
+DONTNUKEMEBRO: StraightShooter PoliticallyCorrectGunman Zaenille
+Zaenille: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 07:08:26.261311172 UTC

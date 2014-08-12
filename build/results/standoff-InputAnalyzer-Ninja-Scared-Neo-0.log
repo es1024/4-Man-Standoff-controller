@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Ninja Scared Neo
+                 InputAnalyzer: Db,Dd,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Da,Dc,Da,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,Sd,N,Sd
+                           Neo: N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,Db,N
+Final Health:
+                 InputAnalyzer: -5
+                         Ninja: 0
+                        Scared: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Scared Neo
+Ninja: InputAnalyzer Scared Neo
+Scared: InputAnalyzer Ninja Neo
+Neo: InputAnalyzer Ninja Scared
+Generated: 2014/08/12 08:06:52.216375633 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Richochet Zaenille
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,N,N,N
+                     Richochet: Sb,N,Sa,N,Sb,N,Sb,N,Sa,N,Sa
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                     Richochet: 5
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Zaenille StraightShooter
+StraightShooter: Richochet Zaenille Pacifist
+Richochet: StraightShooter Zaenille Pacifist
+Zaenille: StraightShooter Richochet Pacifist
+Generated: 2014/08/12 06:41:21.322187321 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Neo CourageTheDog
+                 InputAnalyzer: Db,Sd,N,Dd,P,Sc,N
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sa
+                           Neo: N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Sb,N,P,Tb
+Final Health:
+                 InputAnalyzer: -8
+                 SimpleShooter: -8
+                           Neo: -1
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Neo CourageTheDog
+SimpleShooter: InputAnalyzer Neo CourageTheDog
+Neo: InputAnalyzer SimpleShooter CourageTheDog
+CourageTheDog: InputAnalyzer SimpleShooter Neo
+Generated: 2014/08/12 08:02:18.126926863 UTC

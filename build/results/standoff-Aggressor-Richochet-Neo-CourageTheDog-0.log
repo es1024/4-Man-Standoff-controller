@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Neo CourageTheDog
+                     Aggressor: P,Tb,N,N,N,N
+                     Richochet: Sa,N,N,N,N,N
+                           Neo: N,Da,Dd,N,Dd,N
+                 CourageTheDog: Sa,N,Dc,Dc,Dc,Sc
+Final Health:
+                     Aggressor: -2
+                     Richochet: -3
+                           Neo: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Richochet Neo CourageTheDog
+Richochet: Aggressor Neo CourageTheDog
+Neo: Aggressor Richochet CourageTheDog
+CourageTheDog: Aggressor Richochet Neo
+Generated: 2014/08/12 08:05:18.741626332 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Monkey AntiGrenadier
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sd,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -2
+                        Monkey: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: AntiGrenadier Zaenille Monkey
+Zaenille: AntiGrenadier SimpleShooter Monkey
+Monkey: AntiGrenadier SimpleShooter Zaenille
+AntiGrenadier: Monkey SimpleShooter Zaenille
+Generated: 2014/08/12 09:19:04.535962711 UTC

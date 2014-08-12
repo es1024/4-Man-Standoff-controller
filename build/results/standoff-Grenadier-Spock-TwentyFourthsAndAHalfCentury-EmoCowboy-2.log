@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock TwentyFourthsAndAHalfCentury EmoCowboy
+                     Grenadier: N,N,N,N,N,N,N,N,N,P
+                         Spock: N,N,N,N,N,Sd,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Sa,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -7
+                         Spock: -2
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Spock TwentyFourthsAndAHalfCentury
+Spock: EmoCowboy Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Grenadier Spock
+EmoCowboy: TwentyFourthsAndAHalfCentury Grenadier Spock
+Generated: 2014/08/12 07:42:39.808715055 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Monkey Scared
+                     Grenadier: P,Tb,N,N
+                       HanSolo: Sa,N,N,N
+                        Monkey: N,P,N,N
+                        Scared: Sa,N,N,N
+Final Health:
+                     Grenadier: -2
+                       HanSolo: -3
+                        Monkey: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Monkey Scared
+HanSolo: Grenadier Monkey Scared
+Monkey: Grenadier HanSolo Scared
+Scared: Grenadier HanSolo Monkey
+Generated: 2014/08/12 09:01:01.328978684 UTC

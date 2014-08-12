@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Zaenille Sniper
+                 InputAnalyzer: Db,Da,P,Db,N
+                 SimpleShooter: Sd,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                        Sniper: Sb,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 0
+                      Zaenille: -2
+                        Sniper: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Zaenille Sniper
+SimpleShooter: InputAnalyzer Zaenille Sniper
+Zaenille: InputAnalyzer SimpleShooter Sniper
+Sniper: InputAnalyzer SimpleShooter Zaenille
+Generated: 2014/08/12 07:16:00.768802632 UTC

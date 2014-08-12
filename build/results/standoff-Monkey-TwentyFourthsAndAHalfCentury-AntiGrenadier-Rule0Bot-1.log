@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury AntiGrenadier Rule0Bot
+                        Monkey: N,Da,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Sa,N,Sa,N,Sc,N,Sc,N,N,N,N,N,N,Sd,N,Sa,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 5
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: AntiGrenadier Rule0Bot TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: AntiGrenadier Rule0Bot Monkey
+AntiGrenadier: TwentyFourthsAndAHalfCentury Rule0Bot Monkey
+Rule0Bot: TwentyFourthsAndAHalfCentury AntiGrenadier Monkey
+Generated: 2014/08/12 08:55:06.498363684 UTC

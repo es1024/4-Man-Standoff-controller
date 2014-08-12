@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Neo CourageTheDog
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,N,Sb,N,Sb
+                        Coward: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Dc,Sa
+                           Neo: N,N,Db,Dd,Db,N,N,Sa,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Dc,Dc,Db,N,N,N,N,N
+Final Health:
+                         Spock: 1
+                        Coward: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Coward Neo
+Coward: CourageTheDog Spock Neo
+Neo: CourageTheDog Spock Coward
+CourageTheDog: Neo Spock Coward
+Generated: 2014/08/12 09:42:09.075158014 UTC

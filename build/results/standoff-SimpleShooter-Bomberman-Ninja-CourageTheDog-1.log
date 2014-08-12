@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman Ninja CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sc,N,Sd,N,Sd,N,Sd,N,Sc,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Db,Db,Dd,Dd,Dc,Db,Da,Dc,Dc,Db,Dd,Db,Db,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Db,Sb,N,Dc,Dc,Da,Dc,Da,Dc,Sb,N,Sc,N,Da,Da,Sa
+Final Health:
+                 SimpleShooter: 1
+                     Bomberman: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja CourageTheDog Bomberman
+Bomberman: Ninja CourageTheDog SimpleShooter
+Ninja: Bomberman CourageTheDog SimpleShooter
+CourageTheDog: Bomberman Ninja SimpleShooter
+Generated: 2014/08/12 09:40:45.966027339 UTC

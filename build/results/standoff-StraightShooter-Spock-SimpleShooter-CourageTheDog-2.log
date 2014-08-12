@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock SimpleShooter CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,N
+                         Spock: Sd,N,Sd,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sa,N,Sd
+                 CourageTheDog: Sa,N,Da,Sc,N,Sc,N
+Final Health:
+               StraightShooter: -1
+                         Spock: -1
+                 SimpleShooter: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Spock SimpleShooter
+Spock: CourageTheDog StraightShooter SimpleShooter
+SimpleShooter: CourageTheDog StraightShooter Spock
+CourageTheDog: SimpleShooter StraightShooter Spock
+Generated: 2014/08/12 10:20:37.377644185 UTC

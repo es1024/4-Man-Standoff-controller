@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Zaenille Monkey
+                 InputAnalyzer: Db,Dd,Sb,N,P,Db,Sd
+                 DONTNUKEMEBRO: Dd,Dd,Da,Da,Sa,N,Da
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Monkey: N,Sc,N,N,Da,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 2
+                      Zaenille: -2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Zaenille Monkey
+DONTNUKEMEBRO: InputAnalyzer Zaenille Monkey
+Zaenille: InputAnalyzer DONTNUKEMEBRO Monkey
+Monkey: InputAnalyzer DONTNUKEMEBRO Zaenille
+Generated: 2014/08/12 07:46:12.897799937 UTC

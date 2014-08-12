@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman SimpleShooter Ninja
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Dd,N,N,Dd,Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Db,Da,Dc,Dd,Dd,Dc,Dc,Dd,Dc,Dd,Da,Da,Db,Dd,Da,Da,Da,Db,Db,Dd,Da,Dc,Da,Dd,Dd,Da,Dc,Dd,Dd,Da,Dc,Db,Dd,Da,Dd,Db,Da,Dd,Db,Da,Db,Db,Dc,Da,Db,Dd,Da,Dc
+Final Health:
+               StraightShooter: -15
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: -1
+                         Ninja: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman SimpleShooter Ninja
+PoliticallyCorrectGunman: StraightShooter SimpleShooter Ninja
+SimpleShooter: StraightShooter PoliticallyCorrectGunman Ninja
+Ninja: StraightShooter PoliticallyCorrectGunman SimpleShooter
+Generated: 2014/08/12 06:42:08.464877183 UTC

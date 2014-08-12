@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Spock Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Sa,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,Sb,N,Sb,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                         Spock: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Rule0Bot StraightShooter Spock
+Spock: Rule0Bot StraightShooter DONTNUKEMEBRO
+Rule0Bot: Spock StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 09:44:54.378315401 UTC

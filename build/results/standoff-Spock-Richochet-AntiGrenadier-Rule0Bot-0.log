@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet AntiGrenadier Rule0Bot
+                         Spock: N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sc,N,Sa,N,Sd,N,Sd,N,Sc,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet AntiGrenadier Rule0Bot
+Richochet: Spock AntiGrenadier Rule0Bot
+AntiGrenadier: Spock Richochet Rule0Bot
+Rule0Bot: Spock Richochet AntiGrenadier
+Generated: 2014/08/12 05:58:58.158649087 UTC

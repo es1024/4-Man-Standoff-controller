@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+                        Monkey: N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,Da,Dc,Dc,Dc,Dd,N,N,Dc,N,N,N,Sd,N,Sd,N,Sd,N,Sd,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sa,N,Sb,N,Sb,N,Sc,N,N,Sc,N,Db,Sc,N,Db,Sb,N,Db,Db,Sb
+Final Health:
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Rule0Bot CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot CourageTheDog Monkey
+Rule0Bot: TwentyFourthsAndAHalfCentury CourageTheDog Monkey
+CourageTheDog: TwentyFourthsAndAHalfCentury Rule0Bot Monkey
+Generated: 2014/08/12 07:15:13.811986947 UTC

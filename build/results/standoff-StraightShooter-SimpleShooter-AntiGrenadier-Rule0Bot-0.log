@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter AntiGrenadier Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 5
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter AntiGrenadier Rule0Bot
+SimpleShooter: StraightShooter AntiGrenadier Rule0Bot
+AntiGrenadier: StraightShooter SimpleShooter Rule0Bot
+Rule0Bot: StraightShooter SimpleShooter AntiGrenadier
+Generated: 2014/08/12 08:42:57.431837418 UTC

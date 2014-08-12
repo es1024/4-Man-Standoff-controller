@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille TwentyFourthsAndAHalfCentury Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Rule0Bot Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Rule0Bot Pacifist
+TwentyFourthsAndAHalfCentury: Zaenille Rule0Bot Pacifist
+Rule0Bot: Zaenille TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 08:26:05.164568792 UTC

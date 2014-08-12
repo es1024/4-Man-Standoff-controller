@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Zaenille Neo
+                 InputAnalyzer: Db,P,Sb,N
+      PoliticallyCorrectGunman: N,N,P,Tc
+                      Zaenille: Sc,N,N,N
+                           Neo: N,N,Db,Db
+Final Health:
+                 InputAnalyzer: -4
+      PoliticallyCorrectGunman: -3
+                      Zaenille: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Zaenille Neo
+PoliticallyCorrectGunman: InputAnalyzer Zaenille Neo
+Zaenille: InputAnalyzer PoliticallyCorrectGunman Neo
+Neo: InputAnalyzer PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 08:26:37.504728619 UTC

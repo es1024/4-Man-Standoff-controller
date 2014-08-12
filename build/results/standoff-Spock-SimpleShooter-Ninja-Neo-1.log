@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Ninja Neo
+                         Spock: Sc,N,Sc,N,Sc,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,Sd
+                         Ninja: Dc,Da,Dc,Da,Dc,N,N,N,N
+                           Neo: N,N,Da,N,N,Sa,N,Sb,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 3
+                         Ninja: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja Neo SimpleShooter
+SimpleShooter: Ninja Neo Spock
+Ninja: SimpleShooter Neo Spock
+Neo: SimpleShooter Ninja Spock
+Generated: 2014/08/12 07:25:57.564351797 UTC

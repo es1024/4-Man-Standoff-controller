@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter TwentyFourthsAndAHalfCentury Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,Dd,Da,Dd,Da,Da,Da,Da,Da,Da,Db,Da,Da,N,Da,N,N,N,N,Da,Db,Da,Db,Da,Db,Da,Db,Da,Db,Da,N,N,Da,N,Db,Da,Db,Da,Da,Da,Db,Da,Da,Da,Da,Da,N,N,N,N
+                        Scared: N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -15
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -15
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Scared StraightShooter
+StraightShooter: TwentyFourthsAndAHalfCentury Scared Pacifist
+TwentyFourthsAndAHalfCentury: StraightShooter Scared Pacifist
+Scared: StraightShooter TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 09:35:27.408808193 UTC

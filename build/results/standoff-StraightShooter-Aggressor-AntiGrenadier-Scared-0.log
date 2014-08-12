@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor AntiGrenadier Scared
+               StraightShooter: Sc,N
+                     Aggressor: P,Ta
+                 AntiGrenadier: N,Sb
+                        Scared: N,N
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 0
+                 AntiGrenadier: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor AntiGrenadier Scared
+Aggressor: StraightShooter AntiGrenadier Scared
+AntiGrenadier: StraightShooter Aggressor Scared
+Scared: StraightShooter Aggressor AntiGrenadier
+Generated: 2014/08/12 08:21:58.494946215 UTC

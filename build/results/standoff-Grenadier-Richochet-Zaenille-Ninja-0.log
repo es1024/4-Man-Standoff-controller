@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Zaenille Ninja
+                     Grenadier: P,N,N
+                     Richochet: Sc,N,Sd
+                      Zaenille: Sc,N,N
+                         Ninja: Da,Dd,Da
+Final Health:
+                     Grenadier: -1
+                     Richochet: 2
+                      Zaenille: -4
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet Zaenille Ninja
+Richochet: Grenadier Zaenille Ninja
+Zaenille: Grenadier Richochet Ninja
+Ninja: Grenadier Richochet Zaenille
+Generated: 2014/08/12 10:01:31.690403371 UTC

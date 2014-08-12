@@ -1,0 +1,16 @@
+Standoff between: Monkey TwentyFourthsAndAHalfCentury Scared Neo
+                        Monkey: N,Dc,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dd,Dd,Dd,N,N,N,N,N,N,Dd,Dd,Dc,Dd,Dd,Dd,Dc,Dd,Dc,Sd,N,N
+                        Scared: Sb,N,Sa,N,Sd,N,Sb,N,N,Sd,N,Sd,N,Sb,N,Sb,N,Sd,N,N,N,N,Sb
+                           Neo: N,Da,Da,N,N,N,N,N,N,Dc,N,N,N,Dc,Db,Dc,N,Dc,Db,N,N,N,N
+Final Health:
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Scared Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Scared Neo Monkey
+Scared: TwentyFourthsAndAHalfCentury Neo Monkey
+Neo: TwentyFourthsAndAHalfCentury Scared Monkey
+Generated: 2014/08/12 10:15:36.868511380 UTC

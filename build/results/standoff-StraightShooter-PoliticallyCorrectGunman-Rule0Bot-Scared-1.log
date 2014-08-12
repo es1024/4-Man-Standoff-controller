@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Rule0Bot Scared
+               StraightShooter: Sd,N,Sd
+      PoliticallyCorrectGunman: P,N,N
+                      Rule0Bot: N,Sb,N
+                        Scared: Sa,N,Sb
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -5
+                      Rule0Bot: 2
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Rule0Bot Scared StraightShooter
+Rule0Bot: PoliticallyCorrectGunman Scared StraightShooter
+Scared: PoliticallyCorrectGunman Rule0Bot StraightShooter
+Generated: 2014/08/12 08:32:00.139358959 UTC

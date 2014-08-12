@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Scared Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,Sa,N,N,N,N,N,Sd,N,Sa,N,Sd
+                           Neo: N,Db,Db,N,N,N,N,N,Da,N,Da,Sa,N
+Final Health:
+               StraightShooter: -1
+                        Monkey: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Monkey Scared
+Monkey: Neo StraightShooter Scared
+Scared: Neo StraightShooter Monkey
+Neo: Scared StraightShooter Monkey
+Generated: 2014/08/12 08:41:10.508154794 UTC

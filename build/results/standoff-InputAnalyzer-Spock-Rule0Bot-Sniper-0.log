@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Rule0Bot Sniper
+                 InputAnalyzer: Db,Dd,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sc,N,Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,Sa,N,N,N,N,N,N,Sa,N,Sa,N,N,Sa,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                         Spock: -15
+                      Rule0Bot: -1
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Rule0Bot Sniper
+Spock: InputAnalyzer Rule0Bot Sniper
+Rule0Bot: InputAnalyzer Spock Sniper
+Sniper: InputAnalyzer Spock Rule0Bot
+Generated: 2014/08/12 07:14:58.344698621 UTC

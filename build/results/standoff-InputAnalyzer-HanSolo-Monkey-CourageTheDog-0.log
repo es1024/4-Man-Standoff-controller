@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Monkey CourageTheDog
+                 InputAnalyzer: Db,Dd,Da,Db,Dd,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,Db,N,N,N,Da,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sb,N,Da,Sc,N,Db,Sc,N,Db,Db,Sb,N,Db,Sb
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: -1
+                        Monkey: -3
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Monkey CourageTheDog
+HanSolo: InputAnalyzer Monkey CourageTheDog
+Monkey: InputAnalyzer HanSolo CourageTheDog
+CourageTheDog: InputAnalyzer HanSolo Monkey
+Generated: 2014/08/12 09:43:02.141342893 UTC

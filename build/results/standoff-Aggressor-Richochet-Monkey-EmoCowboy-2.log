@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Monkey EmoCowboy
+                     Aggressor: P,Tb,Sc
+                     Richochet: Sd,N,N
+                        Monkey: N,Sd,N
+                     EmoCowboy: Sd,N,N
+Final Health:
+                     Aggressor: 2
+                     Richochet: -3
+                        Monkey: 0
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: EmoCowboy Richochet Monkey
+Richochet: EmoCowboy Aggressor Monkey
+Monkey: EmoCowboy Aggressor Richochet
+EmoCowboy: Monkey Aggressor Richochet
+Generated: 2014/08/12 05:50:31.429439083 UTC

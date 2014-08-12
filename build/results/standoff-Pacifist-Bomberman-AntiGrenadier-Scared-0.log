@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman AntiGrenadier Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sb,N,Sc,N,Sb,N,Sa,N,N,N,N,N,N,Sc
+Final Health:
+                      Pacifist: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman AntiGrenadier Scared
+Bomberman: Pacifist AntiGrenadier Scared
+AntiGrenadier: Pacifist Bomberman Scared
+Scared: Pacifist Bomberman AntiGrenadier
+Generated: 2014/08/12 08:16:51.854582579 UTC

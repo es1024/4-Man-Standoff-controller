@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Richochet Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+                        Sniper: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -5
+                         Spock: -1
+                     Richochet: 5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Richochet Sniper
+Spock: Pacifist Richochet Sniper
+Richochet: Pacifist Spock Sniper
+Sniper: Pacifist Spock Richochet
+Generated: 2014/08/12 08:26:57.524224152 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Ninja CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd
+                         Ninja: Db,Db,Da,Dc,Dd,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Sb,N,Da,Db,Db,Db,Db,Db,Db,Sb,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja CourageTheDog SimpleShooter
+SimpleShooter: Ninja CourageTheDog HanSolo
+Ninja: SimpleShooter CourageTheDog HanSolo
+CourageTheDog: SimpleShooter Ninja HanSolo
+Generated: 2014/08/12 07:37:34.898908644 UTC

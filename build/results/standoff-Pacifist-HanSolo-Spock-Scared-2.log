@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Spock Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,Sa,N,Sd,N,Sd
+                        Scared: Sa,N,Sc,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                         Spock: -1
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared HanSolo Spock
+HanSolo: Scared Pacifist Spock
+Spock: Scared Pacifist HanSolo
+Scared: Spock Pacifist HanSolo
+Generated: 2014/08/12 07:41:53.741491731 UTC

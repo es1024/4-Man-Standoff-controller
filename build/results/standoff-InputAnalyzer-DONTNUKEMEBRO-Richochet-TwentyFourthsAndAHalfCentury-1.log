@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Richochet TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dc,P,Da,Sc
+                 DONTNUKEMEBRO: Dc,Dd,Sa,N
+                     Richochet: Sd,N,Sb,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Da
+Final Health:
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 0
+                     Richochet: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+DONTNUKEMEBRO: Richochet TwentyFourthsAndAHalfCentury InputAnalyzer
+Richochet: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury InputAnalyzer
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO Richochet InputAnalyzer
+Generated: 2014/08/12 10:34:33.507018706 UTC

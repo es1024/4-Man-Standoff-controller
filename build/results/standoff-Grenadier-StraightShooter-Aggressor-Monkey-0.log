@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Aggressor Monkey
+                     Grenadier: P,Tb
+               StraightShooter: Sc,N
+                     Aggressor: P,Ta
+                        Monkey: N,Sc
+Final Health:
+                     Grenadier: -6
+               StraightShooter: -6
+                     Aggressor: -5
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Aggressor Monkey
+StraightShooter: Grenadier Aggressor Monkey
+Aggressor: Grenadier StraightShooter Monkey
+Monkey: Grenadier StraightShooter Aggressor
+Generated: 2014/08/12 09:12:10.897381875 UTC

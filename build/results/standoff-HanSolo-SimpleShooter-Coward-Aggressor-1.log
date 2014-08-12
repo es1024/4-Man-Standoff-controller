@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Coward Aggressor
+                       HanSolo: Sc,N
+                 SimpleShooter: Sa,N
+                        Coward: Sa,N
+                     Aggressor: P,Tb
+Final Health:
+                       HanSolo: -2
+                 SimpleShooter: -3
+                        Coward: 0
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward Aggressor SimpleShooter
+SimpleShooter: Coward Aggressor HanSolo
+Coward: SimpleShooter Aggressor HanSolo
+Aggressor: SimpleShooter Coward HanSolo
+Generated: 2014/08/12 07:35:55.518203141 UTC

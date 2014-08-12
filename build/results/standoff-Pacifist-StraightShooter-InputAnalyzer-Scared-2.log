@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer Scared
+                      Pacifist: N,N,N,N
+               StraightShooter: Sa,N,Sa,N
+                 InputAnalyzer: Dd,P,Sd,N
+                        Scared: N,N,Sc,N
+Final Health:
+                      Pacifist: -2
+               StraightShooter: 2
+                 InputAnalyzer: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared StraightShooter InputAnalyzer
+StraightShooter: Scared Pacifist InputAnalyzer
+InputAnalyzer: Scared Pacifist StraightShooter
+Scared: InputAnalyzer Pacifist StraightShooter
+Generated: 2014/08/12 06:48:16.696092172 UTC

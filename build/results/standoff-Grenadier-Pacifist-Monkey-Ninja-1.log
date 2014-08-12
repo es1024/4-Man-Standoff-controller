@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Monkey Ninja
+                     Grenadier: P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,Db,N,N,N,N,Da,N,N,Da,Dc,Da,Da,N,Da,N,N,Dc,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dc,Da,Dd,Dc,Da,Dc,Dd,Da,Dc,Da,Db,Dd,Da,Dc,Da,Dc,Dd,Db,Dd,Da,Db,Dd,Db,Dc,Da,Dc,Da,Dd,Db,Dd,Da,Dd,Dd,Db,Dc,Dc,Da,Dc,Db,Dd,Da,Dd,Db,Dc,Db,Dd,Da,Da
+Final Health:
+                     Grenadier: -1
+                      Pacifist: -18
+                        Monkey: -18
+                         Ninja: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Ninja Pacifist
+Pacifist: Monkey Ninja Grenadier
+Monkey: Pacifist Ninja Grenadier
+Ninja: Pacifist Monkey Grenadier
+Generated: 2014/08/12 10:48:41.336637712 UTC

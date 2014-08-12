@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Ninja Scared
+                       HanSolo: Sb,N,Sb,N,Sb,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,N,N,N
+                         Ninja: Dd,Dc,Da,Dc,Dd,Db,Db,Da,Dc
+                        Scared: Sc,N,Sc,N,Sc,N,Sc,N,Sc
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock Ninja Scared
+Spock: HanSolo Ninja Scared
+Ninja: HanSolo Spock Scared
+Scared: HanSolo Spock Ninja
+Generated: 2014/08/12 09:01:40.477429141 UTC

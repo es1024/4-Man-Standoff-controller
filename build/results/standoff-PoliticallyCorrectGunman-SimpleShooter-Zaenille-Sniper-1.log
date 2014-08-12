@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Zaenille Sniper
+      PoliticallyCorrectGunman: Sd,N,Dc,Sd,N,N,N
+                 SimpleShooter: Sa,N,Sa,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: 3
+                      Zaenille: -2
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille Sniper SimpleShooter
+SimpleShooter: Zaenille Sniper PoliticallyCorrectGunman
+Zaenille: SimpleShooter Sniper PoliticallyCorrectGunman
+Sniper: SimpleShooter Zaenille PoliticallyCorrectGunman
+Generated: 2014/08/12 06:41:47.543570079 UTC

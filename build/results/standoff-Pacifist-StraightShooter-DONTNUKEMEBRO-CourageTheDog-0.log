@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter DONTNUKEMEBRO CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+                 DONTNUKEMEBRO: Db,Dd,P,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Db,Db,Da,N,Db,Db,N,Db,Da,N,Da,Db,Db,Db,Db,Sa,N,Sb
+Final Health:
+                      Pacifist: 0
+               StraightShooter: 0
+                 DONTNUKEMEBRO: -7
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: StraightShooter DONTNUKEMEBRO CourageTheDog
+StraightShooter: Pacifist DONTNUKEMEBRO CourageTheDog
+DONTNUKEMEBRO: Pacifist StraightShooter CourageTheDog
+CourageTheDog: Pacifist StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 07:28:18.850075761 UTC

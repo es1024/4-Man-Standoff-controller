@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock AntiGrenadier Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Da,Dc,Da,Dc,Da,Dc,N,N,Da,Dc,N,N,N,N,N,N,N,N,Da,N,Da,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                         Spock: -1
+                 AntiGrenadier: -15
+                           Neo: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Spock AntiGrenadier
+Spock: Neo StraightShooter AntiGrenadier
+AntiGrenadier: Neo StraightShooter Spock
+Neo: AntiGrenadier StraightShooter Spock
+Generated: 2014/08/12 06:29:52.839925555 UTC

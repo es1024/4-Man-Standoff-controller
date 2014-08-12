@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Zaenille AntiGrenadier
+                         Spock: Sc,N,Sc,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                      Zaenille: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Zaenille AntiGrenadier SimpleShooter
+SimpleShooter: Zaenille AntiGrenadier Spock
+Zaenille: SimpleShooter AntiGrenadier Spock
+AntiGrenadier: SimpleShooter Zaenille Spock
+Generated: 2014/08/12 06:09:29.867103927 UTC

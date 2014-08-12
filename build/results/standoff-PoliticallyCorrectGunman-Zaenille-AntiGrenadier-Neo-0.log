@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille AntiGrenadier Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,Dd,Dd,N,N,N,Db,Sb,N,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Db,Sb,N,Db,Db,Dc,N,N,N,N,N,N,N,N,N,Sd,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Dc,N,Dc,N,N,Dc,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,Dc,N,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc
+Final Health:
+      PoliticallyCorrectGunman: -15
+                      Zaenille: -2
+                 AntiGrenadier: -15
+                           Neo: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille AntiGrenadier Neo
+Zaenille: PoliticallyCorrectGunman AntiGrenadier Neo
+AntiGrenadier: PoliticallyCorrectGunman Zaenille Neo
+Neo: PoliticallyCorrectGunman Zaenille AntiGrenadier
+Generated: 2014/08/12 07:51:33.864987044 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Bomberman AntiGrenadier
+                        Coward: Sc,N,Sc,N,Sc,N,Db,Sb,N,Sb,N,Sb
+                     Richochet: Sd,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+                     Bomberman: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier Richochet Bomberman
+Richochet: AntiGrenadier Coward Bomberman
+Bomberman: AntiGrenadier Coward Richochet
+AntiGrenadier: Bomberman Coward Richochet
+Generated: 2014/08/12 07:31:04.961980577 UTC

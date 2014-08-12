@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Zaenille AntiGrenadier
+                        Coward: Sb,N
+                     Aggressor: P,Td
+                      Zaenille: Sc,N
+                 AntiGrenadier: N,Sb
+Final Health:
+                        Coward: 2
+                     Aggressor: -2
+                      Zaenille: -2
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille AntiGrenadier Aggressor
+Aggressor: Zaenille AntiGrenadier Coward
+Zaenille: Aggressor AntiGrenadier Coward
+AntiGrenadier: Aggressor Zaenille Coward
+Generated: 2014/08/12 10:26:55.664264733 UTC

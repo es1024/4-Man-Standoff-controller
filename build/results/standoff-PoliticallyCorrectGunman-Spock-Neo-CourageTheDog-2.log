@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Neo CourageTheDog
+      PoliticallyCorrectGunman: Sb,N,Sb,N,N,Sc,N,N,Dc,Db,N,Sa
+                         Spock: Sd,N,Sd,N,N,N,N,N,N,N,N,N
+                           Neo: N,Sd,N,N,Da,Da,Sa,N,N,Da,Da,Da
+                 CourageTheDog: Sb,N,Dc,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                           Neo: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog Spock Neo
+Spock: CourageTheDog PoliticallyCorrectGunman Neo
+Neo: CourageTheDog PoliticallyCorrectGunman Spock
+CourageTheDog: Neo PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 10:47:18.151684476 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO SimpleShooter Bomberman
+                 InputAnalyzer: Db,Dd,Sb,N,Sd,N
+                 DONTNUKEMEBRO: Da,Da,Dc,Da,P,Td
+                 SimpleShooter: Sd,N,Sb,N,Sa,N
+                     Bomberman: N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: 0
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: 2
+                     Bomberman: -7
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO SimpleShooter Bomberman
+DONTNUKEMEBRO: InputAnalyzer SimpleShooter Bomberman
+SimpleShooter: InputAnalyzer DONTNUKEMEBRO Bomberman
+Bomberman: InputAnalyzer DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 09:44:26.782707023 UTC

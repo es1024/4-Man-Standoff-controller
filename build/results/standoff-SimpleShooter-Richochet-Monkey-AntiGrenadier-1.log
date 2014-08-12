@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Monkey AntiGrenadier
+                 SimpleShooter: Sb,N,Sc,N,Sb,N,Sc,N,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa,N,Sc
+                        Monkey: N,N,N,Sd,N,Sa,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: 1
+                        Monkey: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Monkey AntiGrenadier Richochet
+Richochet: Monkey AntiGrenadier SimpleShooter
+Monkey: Richochet AntiGrenadier SimpleShooter
+AntiGrenadier: Richochet Monkey SimpleShooter
+Generated: 2014/08/12 05:53:54.318680027 UTC

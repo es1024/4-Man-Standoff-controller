@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Ninja Rule0Bot CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sb,N,Sd,N,Sb,N,Sd
+                         Ninja: Dd,Dd,Dc,Dc,Da,Dd,Dd,Dd,Dc,Da,Dc,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sc,N,Sb,N,Sc,N,Db,Da,Da,Sc
+Final Health:
+                 SimpleShooter: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot CourageTheDog Ninja
+Ninja: Rule0Bot CourageTheDog SimpleShooter
+Rule0Bot: Ninja CourageTheDog SimpleShooter
+CourageTheDog: Ninja Rule0Bot SimpleShooter
+Generated: 2014/08/12 06:46:53.616626274 UTC

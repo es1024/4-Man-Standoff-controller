@@ -1,0 +1,16 @@
+Standoff between: Richochet Ninja AntiGrenadier Rule0Bot
+                     Richochet: Sc,N,Sb,N,Sd,N,Sb,N,Sc,N,Sc,N,Sd,N,Sd,N,Sb,N,Sb
+                         Ninja: Db,Dc,Db,Da,Db,Da,Db,Db,Dd,Dd,Db,Db,Dd,Dd,Da,Db,Da,Da,Dc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja AntiGrenadier Rule0Bot
+Ninja: Richochet AntiGrenadier Rule0Bot
+AntiGrenadier: Richochet Ninja Rule0Bot
+Rule0Bot: Richochet Ninja AntiGrenadier
+Generated: 2014/08/12 09:47:54.247110210 UTC

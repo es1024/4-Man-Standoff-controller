@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Zaenille TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dc,Sb,N,Dd,Da,Dd,Db,Dd,Da,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,N,N,Db,Da,N,N,N,N,Sb
+Final Health:
+                 InputAnalyzer: -1
+                 SimpleShooter: 1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille TwentyFourthsAndAHalfCentury SimpleShooter
+SimpleShooter: Zaenille TwentyFourthsAndAHalfCentury InputAnalyzer
+Zaenille: SimpleShooter TwentyFourthsAndAHalfCentury InputAnalyzer
+TwentyFourthsAndAHalfCentury: SimpleShooter Zaenille InputAnalyzer
+Generated: 2014/08/12 10:33:34.259961178 UTC

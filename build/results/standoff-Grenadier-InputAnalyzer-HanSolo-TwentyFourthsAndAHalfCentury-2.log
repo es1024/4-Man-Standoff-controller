@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,P
+                 InputAnalyzer: Dd,P,Dd,Db,N
+                       HanSolo: Sd,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,Db,N
+Final Health:
+                     Grenadier: -6
+                 InputAnalyzer: -1
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury InputAnalyzer HanSolo
+InputAnalyzer: TwentyFourthsAndAHalfCentury Grenadier HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury Grenadier InputAnalyzer
+TwentyFourthsAndAHalfCentury: HanSolo Grenadier InputAnalyzer
+Generated: 2014/08/12 10:06:48.846944017 UTC

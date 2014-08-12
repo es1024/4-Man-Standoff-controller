@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Aggressor Sniper
+                      Pacifist: N,N
+                       HanSolo: Sd,N
+                     Aggressor: P,Ta
+                        Sniper: Sc,N
+Final Health:
+                      Pacifist: -3
+                       HanSolo: 2
+                     Aggressor: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper HanSolo Aggressor
+HanSolo: Sniper Pacifist Aggressor
+Aggressor: Sniper Pacifist HanSolo
+Sniper: Aggressor Pacifist HanSolo
+Generated: 2014/08/12 09:26:16.154959834 UTC

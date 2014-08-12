@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury Bomberman Scared
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,Dc,Dd,Dc,Dc,Dc,Dc,Dd,N,N,N,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Dc,N,N,Dc,N,N,Sd,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,Sb,N,N,Sb,N,Sc,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,Sb,N,Sc,N,N,N,Sb
+Final Health:
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Scared TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Scared Zaenille Bomberman
+Bomberman: Scared Zaenille TwentyFourthsAndAHalfCentury
+Scared: Bomberman Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:22:58.202998982 UTC

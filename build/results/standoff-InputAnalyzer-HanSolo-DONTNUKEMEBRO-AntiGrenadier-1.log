@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo DONTNUKEMEBRO AntiGrenadier
+                 InputAnalyzer: Dc,Db,P,Dc,Sd
+                       HanSolo: Sc,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Db,Db,Sb,N,Sb
+                 AntiGrenadier: N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: -2
+                 DONTNUKEMEBRO: -2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO AntiGrenadier HanSolo
+HanSolo: DONTNUKEMEBRO AntiGrenadier InputAnalyzer
+DONTNUKEMEBRO: HanSolo AntiGrenadier InputAnalyzer
+AntiGrenadier: HanSolo DONTNUKEMEBRO InputAnalyzer
+Generated: 2014/08/12 07:18:38.931340850 UTC

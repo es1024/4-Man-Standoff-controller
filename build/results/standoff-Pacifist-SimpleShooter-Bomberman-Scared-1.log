@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Bomberman Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sa,N,Sd,N,Sc,N,Sa,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,N,N,N,N,N,N,N,Sb,N,Sc
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 1
+                     Bomberman: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman Scared SimpleShooter
+SimpleShooter: Bomberman Scared Pacifist
+Bomberman: SimpleShooter Scared Pacifist
+Scared: SimpleShooter Bomberman Pacifist
+Generated: 2014/08/12 08:09:30.851471828 UTC

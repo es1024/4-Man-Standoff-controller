@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock EmoCowboy CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Db,Sb,N,Db,Db,Db,Db,Da,Db,Db,Db,Sb,N,Db,Db,Da,Sb,N,Sa,N,Da,Da,Sa,N,Sa
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                     EmoCowboy: -6
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy CourageTheDog Spock
+Spock: EmoCowboy CourageTheDog Pacifist
+EmoCowboy: Spock CourageTheDog Pacifist
+CourageTheDog: Spock EmoCowboy Pacifist
+Generated: 2014/08/12 10:03:42.751398208 UTC

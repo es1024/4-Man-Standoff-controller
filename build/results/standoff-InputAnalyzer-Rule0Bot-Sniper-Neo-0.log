@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Rule0Bot Sniper Neo
+                 InputAnalyzer: Db,Sc,N,Dd,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,Dc,Dc,Dc,N,N,N,N,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,Dc,N,N,Dc,Dc,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                      Rule0Bot: -15
+                        Sniper: -19
+                           Neo: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Sniper Neo
+Rule0Bot: InputAnalyzer Sniper Neo
+Sniper: InputAnalyzer Rule0Bot Neo
+Neo: InputAnalyzer Rule0Bot Sniper
+Generated: 2014/08/12 08:12:20.062224915 UTC

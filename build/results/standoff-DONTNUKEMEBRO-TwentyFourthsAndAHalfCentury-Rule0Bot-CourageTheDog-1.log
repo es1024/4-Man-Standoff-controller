@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Rule0Bot CourageTheDog
+                 DONTNUKEMEBRO: Db,Dc,Db,Dd,Db,Db,Db,Db,Dc,Dd,Db,Dd,Dc,Dd,Db,Dc,Db,Db,Sd,N,Db,Dc,Sd,N,Dc
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N,N,N,N,N,Dd,Da,Da,Da,Dd,Sd,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sc,N,Sb,N,Sc,N,Sb,N,Sc,N,Da,Sb,N,Sa,N,Da,Da,Sa,N,Da,Da,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Rule0Bot CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot CourageTheDog DONTNUKEMEBRO
+Rule0Bot: TwentyFourthsAndAHalfCentury CourageTheDog DONTNUKEMEBRO
+CourageTheDog: TwentyFourthsAndAHalfCentury Rule0Bot DONTNUKEMEBRO
+Generated: 2014/08/12 08:16:44.026068092 UTC

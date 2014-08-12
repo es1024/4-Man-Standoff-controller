@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Richochet Zaenille AntiGrenadier
+                 DONTNUKEMEBRO: Db,Db,Sb,N,Dc,Db,Db,Db,Sb,N,Sb
+                     Richochet: Sa,N,Sd,N,Sd,N,Sa,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: 3
+                     Richochet: -1
+                      Zaenille: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: AntiGrenadier Richochet Zaenille
+Richochet: AntiGrenadier DONTNUKEMEBRO Zaenille
+Zaenille: AntiGrenadier DONTNUKEMEBRO Richochet
+AntiGrenadier: Zaenille DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 10:18:38.416913986 UTC

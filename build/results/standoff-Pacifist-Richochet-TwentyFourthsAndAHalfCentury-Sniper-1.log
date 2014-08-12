@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet TwentyFourthsAndAHalfCentury Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sc,N,Sc,N,Sd,N,Sc,N,Sa,N,Sd,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,Da,Dd,Da,Da,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sc,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 3
+  TwentyFourthsAndAHalfCentury: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Sniper Richochet
+Richochet: TwentyFourthsAndAHalfCentury Sniper Pacifist
+TwentyFourthsAndAHalfCentury: Richochet Sniper Pacifist
+Sniper: Richochet TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 07:32:52.503436084 UTC

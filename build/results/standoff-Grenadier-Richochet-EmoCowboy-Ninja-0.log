@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet EmoCowboy Ninja
+                     Grenadier: P,Tb,P,Td
+                     Richochet: Sd,N,N,N
+                     EmoCowboy: Sc,N,N,N
+                         Ninja: Db,Da,Db,Dc
+Final Health:
+                     Grenadier: -1
+                     Richochet: -3
+                     EmoCowboy: -2
+                         Ninja: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet EmoCowboy Ninja
+Richochet: Grenadier EmoCowboy Ninja
+EmoCowboy: Grenadier Richochet Ninja
+Ninja: Grenadier Richochet EmoCowboy
+Generated: 2014/08/12 09:24:09.105231342 UTC

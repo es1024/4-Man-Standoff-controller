@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille EmoCowboy CourageTheDog
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Sa
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sa,N,Da,Da,Sa,N,Da,Da
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -2
+                     EmoCowboy: -4
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Zaenille EmoCowboy CourageTheDog
+Zaenille: PoliticallyCorrectGunman EmoCowboy CourageTheDog
+EmoCowboy: PoliticallyCorrectGunman Zaenille CourageTheDog
+CourageTheDog: PoliticallyCorrectGunman Zaenille EmoCowboy
+Generated: 2014/08/12 09:18:20.918151758 UTC

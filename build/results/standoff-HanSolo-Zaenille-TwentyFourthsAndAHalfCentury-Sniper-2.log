@@ -1,0 +1,16 @@
+Standoff between: HanSolo Zaenille TwentyFourthsAndAHalfCentury Sniper
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,N,N,N,N,N,N,Sa,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Sniper HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper HanSolo Zaenille
+Sniper: TwentyFourthsAndAHalfCentury HanSolo Zaenille
+Generated: 2014/08/12 07:17:28.930670046 UTC

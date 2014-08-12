@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter PoliticallyCorrectGunman Richochet
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sc,N,Sb,N,Sc,N,Sb,N,Sc,N,Sb
+Final Health:
+                      Pacifist: -3
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -1
+                     Richochet: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet StraightShooter PoliticallyCorrectGunman
+StraightShooter: Richochet Pacifist PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Richochet Pacifist StraightShooter
+Richochet: PoliticallyCorrectGunman Pacifist StraightShooter
+Generated: 2014/08/12 07:17:38.870452790 UTC

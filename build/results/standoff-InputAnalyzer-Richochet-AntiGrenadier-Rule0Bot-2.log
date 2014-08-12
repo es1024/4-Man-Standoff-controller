@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet AntiGrenadier Rule0Bot
+                 InputAnalyzer: Dd,Sb,N,Da,Dc,P,Sa
+                     Richochet: Sa,N,Sc,N,Sd,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,Sa
+Final Health:
+                 InputAnalyzer: -12
+                     Richochet: 0
+                 AntiGrenadier: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Richochet AntiGrenadier
+Richochet: Rule0Bot InputAnalyzer AntiGrenadier
+AntiGrenadier: Rule0Bot InputAnalyzer Richochet
+Rule0Bot: AntiGrenadier InputAnalyzer Richochet
+Generated: 2014/08/12 08:27:18.182742951 UTC

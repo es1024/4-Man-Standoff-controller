@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Aggressor EmoCowboy
+                 InputAnalyzer: Dc,Db
+                 SimpleShooter: Sa,N
+                     Aggressor: P,Tb
+                     EmoCowboy: Sd,N
+Final Health:
+                 InputAnalyzer: 0
+                 SimpleShooter: -3
+                     Aggressor: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor EmoCowboy SimpleShooter
+SimpleShooter: Aggressor EmoCowboy InputAnalyzer
+Aggressor: SimpleShooter EmoCowboy InputAnalyzer
+EmoCowboy: SimpleShooter Aggressor InputAnalyzer
+Generated: 2014/08/12 06:39:10.086297311 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Spock Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dc,Da,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,Sa,N,Sa,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,Dc,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -2
+                         Spock: -1
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Spock Neo
+InputAnalyzer: Pacifist Spock Neo
+Spock: Pacifist InputAnalyzer Neo
+Neo: Pacifist InputAnalyzer Spock
+Generated: 2014/08/12 06:17:12.114153581 UTC

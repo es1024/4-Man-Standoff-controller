@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Sniper Scared
+                 InputAnalyzer: Db,P,N,Dd
+                        Monkey: N,Sb,N,N
+                        Sniper: Sb,N,N,N
+                        Scared: Sc,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                        Monkey: -2
+                        Sniper: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Sniper Scared
+Monkey: InputAnalyzer Sniper Scared
+Sniper: InputAnalyzer Monkey Scared
+Scared: InputAnalyzer Monkey Sniper
+Generated: 2014/08/12 08:52:53.267942740 UTC

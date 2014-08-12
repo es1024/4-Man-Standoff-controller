@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Neo CourageTheDog
+                         Spock: Sc,N,Sc,N,Sd,N,Sd,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,Sa,N,Sd
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Da,Da,Db,Sb,N,Db,Sb
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Neo CourageTheDog SimpleShooter
+SimpleShooter: Neo CourageTheDog Spock
+Neo: SimpleShooter CourageTheDog Spock
+CourageTheDog: SimpleShooter Neo Spock
+Generated: 2014/08/12 09:57:29.041150458 UTC

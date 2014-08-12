@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille Sniper CourageTheDog
+                         Spock: Sd,N,Sd,N,Sc,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Sc,N,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                      Zaenille: -2
+                        Sniper: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: CourageTheDog Zaenille Sniper
+Zaenille: CourageTheDog Spock Sniper
+Sniper: CourageTheDog Spock Zaenille
+CourageTheDog: Sniper Spock Zaenille
+Generated: 2014/08/12 07:42:48.670634730 UTC

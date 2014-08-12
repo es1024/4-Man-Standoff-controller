@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury EmoCowboy Scared CourageTheDog
+  TwentyFourthsAndAHalfCentury: Dd,N,Sd,N,Sc,N,Sc
+                     EmoCowboy: Sb,N,N,N,N,N,N
+                        Scared: N,N,Sd,N,Sa,N,Sa
+                 CourageTheDog: N,Dc,Sc,N,Da,Dc,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Scared CourageTheDog EmoCowboy
+EmoCowboy: Scared CourageTheDog TwentyFourthsAndAHalfCentury
+Scared: EmoCowboy CourageTheDog TwentyFourthsAndAHalfCentury
+CourageTheDog: EmoCowboy Scared TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:33:46.816884900 UTC

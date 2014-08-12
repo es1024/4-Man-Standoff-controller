@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Aggressor CourageTheDog
+                 InputAnalyzer: Dd,Dc
+                         Spock: Sd,N
+                     Aggressor: P,Ta
+                 CourageTheDog: Sc,N
+Final Health:
+                 InputAnalyzer: -3
+                         Spock: 2
+                     Aggressor: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Spock Aggressor
+Spock: CourageTheDog InputAnalyzer Aggressor
+Aggressor: CourageTheDog InputAnalyzer Spock
+CourageTheDog: Aggressor InputAnalyzer Spock
+Generated: 2014/08/12 07:04:37.313623677 UTC

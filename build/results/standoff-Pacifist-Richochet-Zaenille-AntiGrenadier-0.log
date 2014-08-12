@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Zaenille AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                      Zaenille: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Zaenille AntiGrenadier
+Richochet: Pacifist Zaenille AntiGrenadier
+Zaenille: Pacifist Richochet AntiGrenadier
+AntiGrenadier: Pacifist Richochet Zaenille
+Generated: 2014/08/12 08:27:07.804390619 UTC

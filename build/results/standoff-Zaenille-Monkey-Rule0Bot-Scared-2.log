@@ -1,0 +1,16 @@
+Standoff between: Zaenille Monkey Rule0Bot Scared
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,Sc,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,Sb,N,Sc,N,Sb,N,Sb
+Final Health:
+                      Zaenille: -2
+                        Monkey: -1
+                      Rule0Bot: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Scared Monkey Rule0Bot
+Monkey: Scared Zaenille Rule0Bot
+Rule0Bot: Scared Zaenille Monkey
+Scared: Rule0Bot Zaenille Monkey
+Generated: 2014/08/12 10:10:41.524670533 UTC

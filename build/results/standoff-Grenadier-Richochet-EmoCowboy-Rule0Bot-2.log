@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet EmoCowboy Rule0Bot
+                     Grenadier: N,P,Tb
+                     Richochet: Sd,N,Sa
+                     EmoCowboy: Sc,N,N
+                      Rule0Bot: N,N,N
+Final Health:
+                     Grenadier: 0
+                     Richochet: -3
+                     EmoCowboy: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Richochet EmoCowboy
+Richochet: Rule0Bot Grenadier EmoCowboy
+EmoCowboy: Rule0Bot Grenadier Richochet
+Rule0Bot: EmoCowboy Grenadier Richochet
+Generated: 2014/08/12 07:29:37.995075450 UTC

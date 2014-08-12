@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Neo CourageTheDog
+               StraightShooter: Sd,N
+                     Aggressor: P,Tc
+                           Neo: N,N
+                 CourageTheDog: Sb,N
+Final Health:
+               StraightShooter: 2
+                     Aggressor: 0
+                           Neo: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo CourageTheDog Aggressor
+Aggressor: Neo CourageTheDog StraightShooter
+Neo: Aggressor CourageTheDog StraightShooter
+CourageTheDog: Aggressor Neo StraightShooter
+Generated: 2014/08/12 09:14:11.056473791 UTC

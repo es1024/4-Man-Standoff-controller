@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward EmoCowboy AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd
+                        Coward: Sa,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: 5
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy AntiGrenadier Coward
+Coward: EmoCowboy AntiGrenadier StraightShooter
+EmoCowboy: Coward AntiGrenadier StraightShooter
+AntiGrenadier: Coward EmoCowboy StraightShooter
+Generated: 2014/08/12 10:26:11.362233601 UTC

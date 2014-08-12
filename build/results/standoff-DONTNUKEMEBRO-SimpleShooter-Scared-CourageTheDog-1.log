@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Scared CourageTheDog
+                 DONTNUKEMEBRO: Dc,Dd,P,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc
+                        Scared: Sa,N,Sd,N,Sb
+                 CourageTheDog: Sa,N,Sa,N,N
+Final Health:
+                 DONTNUKEMEBRO: -7
+                 SimpleShooter: 0
+                        Scared: 0
+                 CourageTheDog: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Scared CourageTheDog SimpleShooter
+SimpleShooter: Scared CourageTheDog DONTNUKEMEBRO
+Scared: SimpleShooter CourageTheDog DONTNUKEMEBRO
+CourageTheDog: SimpleShooter Scared DONTNUKEMEBRO
+Generated: 2014/08/12 08:35:13.311710775 UTC

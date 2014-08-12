@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Richochet Sniper
+                      Pacifist: N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,N
+                     Richochet: Sb,N,Sa,N,Sd,N,Sd
+                        Sniper: Sc,N,Sb,N,Sb,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: -1
+                     Richochet: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Sniper Coward
+Coward: Richochet Sniper Pacifist
+Richochet: Coward Sniper Pacifist
+Sniper: Coward Richochet Pacifist
+Generated: 2014/08/12 07:50:21.162231119 UTC

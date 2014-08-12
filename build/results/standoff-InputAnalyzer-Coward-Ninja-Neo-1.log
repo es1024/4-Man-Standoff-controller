@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Ninja Neo
+                 InputAnalyzer: Dc,P,Da,Dd,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Dd,Dd,Dd,Sd,N,Sc
+                         Ninja: Dd,Db,Dc,Db,Db,Dd,Da,Db,Dd,Da
+                           Neo: N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                        Coward: 2
+                         Ninja: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja Neo Coward
+Coward: Ninja Neo InputAnalyzer
+Ninja: Coward Neo InputAnalyzer
+Neo: Coward Ninja InputAnalyzer
+Generated: 2014/08/12 06:00:10.680146842 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury AntiGrenadier Rule0Bot
+                 SimpleShooter: Sc,N,Sb,N,Sb,N,Sb,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: N,Dc,Da,Dd,Da,Dd,Da,Dd,Dc,Dd,Dd,Dc,Dc,Dc,Dc,Dd,Dc,N,N,N,Dd,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Rule0Bot TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Rule0Bot SimpleShooter AntiGrenadier
+AntiGrenadier: Rule0Bot SimpleShooter TwentyFourthsAndAHalfCentury
+Rule0Bot: AntiGrenadier SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:03:51.465237778 UTC

@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter TwentyFourthsAndAHalfCentury Scared
+                 DONTNUKEMEBRO: Dc,Dc,Sb,N,Dc,Dc,Sb,N,Db,Db,Db,Dc,Dd,Db,Dc,Dd,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sd
+                        Scared: Sc,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury Scared SimpleShooter
+SimpleShooter: TwentyFourthsAndAHalfCentury Scared DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: SimpleShooter Scared DONTNUKEMEBRO
+Scared: SimpleShooter TwentyFourthsAndAHalfCentury DONTNUKEMEBRO
+Generated: 2014/08/12 06:38:52.489532192 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock TwentyFourthsAndAHalfCentury Scared
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sb,N,Sb,N
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,Sd,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,N,Db,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: 1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury Scared Spock
+Spock: TwentyFourthsAndAHalfCentury Scared HanSolo
+TwentyFourthsAndAHalfCentury: Spock Scared HanSolo
+Scared: Spock TwentyFourthsAndAHalfCentury HanSolo
+Generated: 2014/08/12 09:39:32.269308218 UTC

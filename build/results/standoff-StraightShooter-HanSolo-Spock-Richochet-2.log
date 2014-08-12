@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Spock Richochet
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+                     Richochet: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -1
+                         Spock: 5
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet HanSolo Spock
+HanSolo: Richochet StraightShooter Spock
+Spock: Richochet StraightShooter HanSolo
+Richochet: Spock StraightShooter HanSolo
+Generated: 2014/08/12 07:09:59.918089247 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey TwentyFourthsAndAHalfCentury Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,Db,N,N,N,N,N,N,Sd,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Db,Db,N,N,N,Sa,N,Sd,N,Sd,N,Sb,N,Sa
+                        Scared: Sb,N,Sa,N,N,N,N,Sc,N,Sb,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 3
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Scared Monkey
+Monkey: TwentyFourthsAndAHalfCentury Scared Pacifist
+TwentyFourthsAndAHalfCentury: Monkey Scared Pacifist
+Scared: Monkey TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 06:49:33.458020152 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo SimpleShooter Scared
+                 InputAnalyzer: Db,Sd,N,Dc,Db,Dc,Db,Sc,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sc
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sa,N,Sd,N,Sb
+                        Scared: N,N,N,N,N,N,N,N,Sc,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: -1
+                 SimpleShooter: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo SimpleShooter Scared
+HanSolo: InputAnalyzer SimpleShooter Scared
+SimpleShooter: InputAnalyzer HanSolo Scared
+Scared: InputAnalyzer HanSolo SimpleShooter
+Generated: 2014/08/12 07:08:08.058048514 UTC

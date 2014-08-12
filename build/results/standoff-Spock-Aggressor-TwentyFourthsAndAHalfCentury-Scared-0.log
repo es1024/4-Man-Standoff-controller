@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor TwentyFourthsAndAHalfCentury Scared
+                         Spock: Sb,N,N,N,N,N,N
+                     Aggressor: P,Ta,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,Sc
+Final Health:
+                         Spock: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Aggressor TwentyFourthsAndAHalfCentury Scared
+Aggressor: Spock TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Spock Aggressor Scared
+Scared: Spock Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:44:54.110757815 UTC

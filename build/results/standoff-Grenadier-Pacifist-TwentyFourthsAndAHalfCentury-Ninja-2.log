@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist TwentyFourthsAndAHalfCentury Ninja
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,P,Tb
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,Sa,N,Sd,N
+                         Ninja: Dc,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Db,Dc,Da,Db,Da,Dc
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -3
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Pacifist TwentyFourthsAndAHalfCentury
+Pacifist: Ninja Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Grenadier Pacifist
+Ninja: TwentyFourthsAndAHalfCentury Grenadier Pacifist
+Generated: 2014/08/12 06:24:58.689177281 UTC

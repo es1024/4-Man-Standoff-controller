@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Richochet Ninja
+                     Grenadier: N,P,N,N
+                       HanSolo: Sd,N,Sd,N
+                     Richochet: Sa,N,Sb,N
+                         Ninja: Da,Dc,Db,Dd
+Final Health:
+                     Grenadier: -3
+                       HanSolo: 0
+                     Richochet: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja HanSolo Richochet
+HanSolo: Ninja Grenadier Richochet
+Richochet: Ninja Grenadier HanSolo
+Ninja: Richochet Grenadier HanSolo
+Generated: 2014/08/12 07:40:51.483302621 UTC

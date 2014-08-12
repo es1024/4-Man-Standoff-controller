@@ -1,0 +1,16 @@
+Standoff between: Richochet TwentyFourthsAndAHalfCentury Ninja Sniper
+                     Richochet: Sd,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Dc,Dc,Dc,Dc,Dd,Dd,Sd,N,N,Sc,N,Sd
+                         Ninja: Dc,Dd,Db,Db,Da,Dc,Dc,Db,Dd,Da,Da,Dd,Da,N
+                        Sniper: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,Sc,N
+Final Health:
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Sniper TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Sniper Richochet Ninja
+Ninja: Sniper Richochet TwentyFourthsAndAHalfCentury
+Sniper: Ninja Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:21:52.888140276 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Aggressor Zaenille
+                      Pacifist: N,N,N
+                 InputAnalyzer: Dc,Sd,N
+                     Aggressor: P,Tb,Sa
+                      Zaenille: Sd,N,N
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -3
+                     Aggressor: 2
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor Zaenille InputAnalyzer
+InputAnalyzer: Aggressor Zaenille Pacifist
+Aggressor: InputAnalyzer Zaenille Pacifist
+Zaenille: InputAnalyzer Aggressor Pacifist
+Generated: 2014/08/12 10:27:26.037783707 UTC

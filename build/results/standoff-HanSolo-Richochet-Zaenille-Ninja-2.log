@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet Zaenille Ninja
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb
+                     Richochet: Sa,N,Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                         Ninja: Dc,Da,Db,Dd,Dd,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 3
+                      Zaenille: -2
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Richochet Zaenille
+Richochet: Ninja HanSolo Zaenille
+Zaenille: Ninja HanSolo Richochet
+Ninja: Zaenille HanSolo Richochet
+Generated: 2014/08/12 07:21:44.570712972 UTC

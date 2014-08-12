@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Bomberman AntiGrenadier
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                     Bomberman: N,N
+                 AntiGrenadier: N,Sb
+Final Health:
+                        Coward: -3
+                     Aggressor: 0
+                     Bomberman: 2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Aggressor Bomberman AntiGrenadier
+Aggressor: Coward Bomberman AntiGrenadier
+Bomberman: Coward Aggressor AntiGrenadier
+AntiGrenadier: Coward Aggressor Bomberman
+Generated: 2014/08/12 10:05:14.110980400 UTC

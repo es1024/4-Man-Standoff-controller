@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+      PoliticallyCorrectGunman: Sd,N,Dd,Dd,Sc,N,Sa,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Dd,Da,Da,Dd,N,Sd,N,N,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Sa,N,Da,Da,Db,Db,Sb,N,Db,Db,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: EmoCowboy CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy CourageTheDog PoliticallyCorrectGunman
+EmoCowboy: TwentyFourthsAndAHalfCentury CourageTheDog PoliticallyCorrectGunman
+CourageTheDog: TwentyFourthsAndAHalfCentury EmoCowboy PoliticallyCorrectGunman
+Generated: 2014/08/12 08:38:47.124307024 UTC

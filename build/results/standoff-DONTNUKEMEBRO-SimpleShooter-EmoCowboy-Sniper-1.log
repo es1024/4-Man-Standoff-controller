@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter EmoCowboy Sniper
+                 DONTNUKEMEBRO: Db,Dc,P,Tb
+                 SimpleShooter: Sa,N,Sd,N
+                     EmoCowboy: Sc,N,N,N
+                        Sniper: Sa,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: 0
+                 SimpleShooter: -3
+                     EmoCowboy: -2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: EmoCowboy Sniper SimpleShooter
+SimpleShooter: EmoCowboy Sniper DONTNUKEMEBRO
+EmoCowboy: SimpleShooter Sniper DONTNUKEMEBRO
+Sniper: SimpleShooter EmoCowboy DONTNUKEMEBRO
+Generated: 2014/08/12 10:29:31.337896315 UTC

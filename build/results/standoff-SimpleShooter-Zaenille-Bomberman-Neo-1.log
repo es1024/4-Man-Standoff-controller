@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille Bomberman Neo
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,P,N,N
+                           Neo: N,N,Da,N,Da,Dc,Da,N,N
+Final Health:
+                 SimpleShooter: 2
+                      Zaenille: -4
+                     Bomberman: -1
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Neo Zaenille
+Zaenille: Bomberman Neo SimpleShooter
+Bomberman: Zaenille Neo SimpleShooter
+Neo: Zaenille Bomberman SimpleShooter
+Generated: 2014/08/12 08:29:39.515620031 UTC

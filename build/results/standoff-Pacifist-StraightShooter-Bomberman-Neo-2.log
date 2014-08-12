@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Bomberman Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,Db,Dc,Db,Dc,N,N,N,N,N,N,N,Dc,N,N,N,Dc,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,Db,N,N,Dc,Sd,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -15
+                     Bomberman: -15
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo StraightShooter Bomberman
+StraightShooter: Neo Pacifist Bomberman
+Bomberman: Neo Pacifist StraightShooter
+Neo: Bomberman Pacifist StraightShooter
+Generated: 2014/08/12 06:05:20.685855772 UTC

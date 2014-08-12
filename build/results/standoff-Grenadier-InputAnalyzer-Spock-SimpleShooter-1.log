@@ -1,16 +1,16 @@
 Standoff between: Grenadier InputAnalyzer Spock SimpleShooter
-                     Grenadier: P,Tc,N,N,N,N
-                 InputAnalyzer: Dc,Sa,N,P,Sc,N
-                         Spock: Sb,N,N,N,N,N
-                 SimpleShooter: Sa,N,Sa,N,Sa,N
+                     Grenadier: N,N,P,N
+                 InputAnalyzer: Dc,Sa,N,Sd
+                         Spock: Sb,N,Sa,N
+                 SimpleShooter: Sa,N,Sc,N
 Final Health:
-                     Grenadier: -2
-                 InputAnalyzer: -4
-                         Spock: -3
-                 SimpleShooter: -1
+                     Grenadier: -7
+                 InputAnalyzer: 2
+                         Spock: 0
+                 SimpleShooter: 0
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: Spock SimpleShooter InputAnalyzer
 InputAnalyzer: Spock SimpleShooter Grenadier
 Spock: InputAnalyzer SimpleShooter Grenadier
 SimpleShooter: InputAnalyzer Spock Grenadier
-Generated: 2014/08/11 00:59:48.273915769 UTC
+Generated: 2014/08/12 10:34:54.854117182 UTC

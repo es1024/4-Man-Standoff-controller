@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward EmoCowboy Rule0Bot
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N,Sd
+                        Coward: Sd,N,Sa,N,Dd,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 3
+                        Coward: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Coward EmoCowboy Rule0Bot
+Coward: HanSolo EmoCowboy Rule0Bot
+EmoCowboy: HanSolo Coward Rule0Bot
+Rule0Bot: HanSolo Coward EmoCowboy
+Generated: 2014/08/12 06:13:37.322413507 UTC

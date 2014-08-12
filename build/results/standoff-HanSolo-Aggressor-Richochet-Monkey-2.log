@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Richochet Monkey
+                       HanSolo: Sd,N,N
+                     Aggressor: P,Ta,Sc
+                     Richochet: Sd,N,Sb
+                        Monkey: N,N,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 0
+                     Richochet: 0
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Aggressor Richochet
+Aggressor: Monkey HanSolo Richochet
+Richochet: Monkey HanSolo Aggressor
+Monkey: Richochet HanSolo Aggressor
+Generated: 2014/08/12 08:53:57.665495432 UTC

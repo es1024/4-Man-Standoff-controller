@@ -1,0 +1,16 @@
+Standoff between: Pacifist Zaenille Monkey CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,Sc
+                 CourageTheDog: Sa,N,Dc,Da,Da,Da,Dc,Dc,Dc,Sc,N,Sa,N,Dc,Dc,Sc,N
+Final Health:
+                      Pacifist: -1
+                      Zaenille: -2
+                        Monkey: -2
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey CourageTheDog Zaenille
+Zaenille: Monkey CourageTheDog Pacifist
+Monkey: Zaenille CourageTheDog Pacifist
+CourageTheDog: Zaenille Monkey Pacifist
+Generated: 2014/08/12 08:40:28.733347006 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Ninja AntiGrenadier CourageTheDog
+                         Spock: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Db,Dd,Da,Da,Db,Dd,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sb,N,Sa,N,Dc,Sb,N,Sa,N,Dc,Sc,N,N,Sc,N,Dc,Dc,Dc,Sc
+Final Health:
+                         Spock: -1
+                         Ninja: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Ninja AntiGrenadier CourageTheDog
+Ninja: Spock AntiGrenadier CourageTheDog
+AntiGrenadier: Spock Ninja CourageTheDog
+CourageTheDog: Spock Ninja AntiGrenadier
+Generated: 2014/08/12 07:35:39.818712158 UTC

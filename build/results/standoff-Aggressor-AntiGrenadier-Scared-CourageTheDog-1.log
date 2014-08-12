@@ -1,0 +1,16 @@
+Standoff between: Aggressor AntiGrenadier Scared CourageTheDog
+                     Aggressor: P,Tc
+                 AntiGrenadier: N,Sa
+                        Scared: Sd,N
+                 CourageTheDog: Sb,N
+Final Health:
+                     Aggressor: 0
+                 AntiGrenadier: 0
+                        Scared: -3
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Scared CourageTheDog AntiGrenadier
+AntiGrenadier: Scared CourageTheDog Aggressor
+Scared: AntiGrenadier CourageTheDog Aggressor
+CourageTheDog: AntiGrenadier Scared Aggressor
+Generated: 2014/08/12 06:22:13.373254045 UTC

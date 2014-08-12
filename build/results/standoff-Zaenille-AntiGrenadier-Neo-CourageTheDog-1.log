@@ -1,0 +1,16 @@
+Standoff between: Zaenille AntiGrenadier Neo CourageTheDog
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,Dd,Dd,Dd,N,N,Dd,N,N,Dd,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Sb,N,Sb,N,Db,Dc,Db,Db,Dc,Sb,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc,N,Sc,N,Dc,Dc,Dc,Sc,N,Dc,Sc
+Final Health:
+                      Zaenille: -2
+                 AntiGrenadier: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Neo CourageTheDog AntiGrenadier
+AntiGrenadier: Neo CourageTheDog Zaenille
+Neo: AntiGrenadier CourageTheDog Zaenille
+CourageTheDog: AntiGrenadier Neo Zaenille
+Generated: 2014/08/12 06:29:14.169115311 UTC

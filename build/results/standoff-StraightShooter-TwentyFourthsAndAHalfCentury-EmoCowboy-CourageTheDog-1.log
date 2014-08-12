@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury EmoCowboy CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,Dd,N,N,N,Sa,N,Sa
+                     EmoCowboy: N,N,Sc,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,N,Db,Db,Db,N,N,N
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     EmoCowboy: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: EmoCowboy CourageTheDog TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy CourageTheDog StraightShooter
+EmoCowboy: TwentyFourthsAndAHalfCentury CourageTheDog StraightShooter
+CourageTheDog: TwentyFourthsAndAHalfCentury EmoCowboy StraightShooter
+Generated: 2014/08/12 07:04:42.264248112 UTC

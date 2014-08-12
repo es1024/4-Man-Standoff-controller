@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Neo CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Dc,Dc,Db,Da,Db,Db,Db,Da,Db,Db,Db,Db,Sb,N,Sb,N,N,Db,Db,Db,Db,Sb
+Final Health:
+               StraightShooter: -1
+                         Spock: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Neo CourageTheDog
+Spock: StraightShooter Neo CourageTheDog
+Neo: StraightShooter Spock CourageTheDog
+CourageTheDog: StraightShooter Spock Neo
+Generated: 2014/08/12 07:52:22.020254950 UTC

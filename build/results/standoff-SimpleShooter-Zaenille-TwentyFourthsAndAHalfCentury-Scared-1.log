@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille TwentyFourthsAndAHalfCentury Scared
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sc,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Dd,N,Dd,N,Dd,N,Da
+                        Scared: Sc,N,Sa,N,Sa,N,Sc,N,Sa
+Final Health:
+                 SimpleShooter: -1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Scared Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Scared SimpleShooter
+TwentyFourthsAndAHalfCentury: Zaenille Scared SimpleShooter
+Scared: Zaenille TwentyFourthsAndAHalfCentury SimpleShooter
+Generated: 2014/08/12 09:13:15.524344523 UTC

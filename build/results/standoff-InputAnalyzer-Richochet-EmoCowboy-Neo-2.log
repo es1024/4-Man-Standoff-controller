@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet EmoCowboy Neo
+                 InputAnalyzer: Dd,Sc,N,Db,Da,P,N,N
+                     Richochet: Sc,N,Sd,N,Sa,N,Sd,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N
+                           Neo: N,Da,N,Da,Db,Da,N,Da
+Final Health:
+                 InputAnalyzer: -3
+                     Richochet: 2
+                     EmoCowboy: -4
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Richochet EmoCowboy
+Richochet: Neo InputAnalyzer EmoCowboy
+EmoCowboy: Neo InputAnalyzer Richochet
+Neo: EmoCowboy InputAnalyzer Richochet
+Generated: 2014/08/12 09:00:06.945110743 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward Monkey TwentyFourthsAndAHalfCentury
+                     Grenadier: N,N,N,N,N,N,P,N,N,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sa,N,Sa,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Da,Da,Da,Db,Sb
+Final Health:
+                     Grenadier: -5
+                        Coward: 0
+                        Monkey: -1
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Coward Monkey
+Coward: TwentyFourthsAndAHalfCentury Grenadier Monkey
+Monkey: TwentyFourthsAndAHalfCentury Grenadier Coward
+TwentyFourthsAndAHalfCentury: Monkey Grenadier Coward
+Generated: 2014/08/12 07:34:55.320807225 UTC

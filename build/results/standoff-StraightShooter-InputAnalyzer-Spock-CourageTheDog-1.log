@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Spock CourageTheDog
+               StraightShooter: Sd,N,Sd
+                 InputAnalyzer: Dc,P,Sb
+                         Spock: Sb,N,Sb
+                 CourageTheDog: Sb,N,P
+Final Health:
+               StraightShooter: -1
+                 InputAnalyzer: -13
+                         Spock: -1
+                 CourageTheDog: -8
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock CourageTheDog InputAnalyzer
+InputAnalyzer: Spock CourageTheDog StraightShooter
+Spock: InputAnalyzer CourageTheDog StraightShooter
+CourageTheDog: InputAnalyzer Spock StraightShooter
+Generated: 2014/08/12 07:59:57.696719512 UTC

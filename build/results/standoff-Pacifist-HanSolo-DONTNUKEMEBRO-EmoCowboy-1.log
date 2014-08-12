@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo DONTNUKEMEBRO EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Db,Db,Sb,N,Sb,N,Sb
+                     EmoCowboy: N,N,Sd,N,N,N,N
+Final Health:
+                      Pacifist: 5
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO EmoCowboy HanSolo
+HanSolo: DONTNUKEMEBRO EmoCowboy Pacifist
+DONTNUKEMEBRO: HanSolo EmoCowboy Pacifist
+EmoCowboy: HanSolo DONTNUKEMEBRO Pacifist
+Generated: 2014/08/12 06:51:43.621629073 UTC

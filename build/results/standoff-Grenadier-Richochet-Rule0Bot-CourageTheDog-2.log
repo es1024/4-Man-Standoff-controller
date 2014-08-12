@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Rule0Bot CourageTheDog
+                     Grenadier: N,P,Tb
+                     Richochet: Sd,N,Sc
+                      Rule0Bot: N,N,Sa
+                 CourageTheDog: Sa,N,P
+Final Health:
+                     Grenadier: -5
+                     Richochet: -6
+                      Rule0Bot: -3
+                 CourageTheDog: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: CourageTheDog Richochet Rule0Bot
+Richochet: CourageTheDog Grenadier Rule0Bot
+Rule0Bot: CourageTheDog Grenadier Richochet
+CourageTheDog: Rule0Bot Grenadier Richochet
+Generated: 2014/08/12 10:22:04.504094943 UTC

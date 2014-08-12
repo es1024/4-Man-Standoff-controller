@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Richochet Scared
+                 InputAnalyzer: Db,P,N
+                 DONTNUKEMEBRO: Dd,Da,Sa
+                     Richochet: Sa,N,Sb
+                        Scared: Sc,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 0
+                     Richochet: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: DONTNUKEMEBRO Richochet Scared
+DONTNUKEMEBRO: InputAnalyzer Richochet Scared
+Richochet: InputAnalyzer DONTNUKEMEBRO Scared
+Scared: InputAnalyzer DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 08:16:55.589971421 UTC

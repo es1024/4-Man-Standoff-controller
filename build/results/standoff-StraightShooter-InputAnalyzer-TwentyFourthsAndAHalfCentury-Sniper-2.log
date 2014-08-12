@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer TwentyFourthsAndAHalfCentury Sniper
+               StraightShooter: Sb,N,Sb,N,Sb
+                 InputAnalyzer: Dd,Dc,P,Sd,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sb
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -9
+  TwentyFourthsAndAHalfCentury: 2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper InputAnalyzer TwentyFourthsAndAHalfCentury
+InputAnalyzer: Sniper StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper StraightShooter InputAnalyzer
+Sniper: TwentyFourthsAndAHalfCentury StraightShooter InputAnalyzer
+Generated: 2014/08/12 06:01:32.327662864 UTC

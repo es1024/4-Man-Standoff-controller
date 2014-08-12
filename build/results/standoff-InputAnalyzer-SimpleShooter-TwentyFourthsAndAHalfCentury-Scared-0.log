@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury Scared
+                 InputAnalyzer: Db,P,Sd,N
+                 SimpleShooter: Sd,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Da,N,N,N
+                        Scared: Sc,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                 SimpleShooter: 2
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter TwentyFourthsAndAHalfCentury Scared
+SimpleShooter: InputAnalyzer TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: InputAnalyzer SimpleShooter Scared
+Scared: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:28:49.076526860 UTC

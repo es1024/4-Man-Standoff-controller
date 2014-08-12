@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Spock Coward
+                 InputAnalyzer: Db,P,Sa,N,N
+                       HanSolo: Sa,N,Sa,N,Sd
+                         Spock: Sa,N,Sa,N,N
+                        Coward: Sc,N,Sc,N,Sb
+Final Health:
+                 InputAnalyzer: -12
+                       HanSolo: 0
+                         Spock: -2
+                        Coward: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Spock Coward
+HanSolo: InputAnalyzer Spock Coward
+Spock: InputAnalyzer HanSolo Coward
+Coward: InputAnalyzer HanSolo Spock
+Generated: 2014/08/12 09:46:30.140384325 UTC

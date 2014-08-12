@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Coward Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                           Neo: N,Db,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                        Coward: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo PoliticallyCorrectGunman Coward
+PoliticallyCorrectGunman: Neo Pacifist Coward
+Coward: Neo Pacifist PoliticallyCorrectGunman
+Neo: Coward Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 09:03:00.037076694 UTC

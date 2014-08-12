@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Scared
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dc,Da,Dc,Dd,Da,Da,Sd,N,Sd,N,Da,Da,Sa
+  TwentyFourthsAndAHalfCentury: Da,Db,Dd,Db,Db,Db,Db,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,Sb,N,Sa,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: TwentyFourthsAndAHalfCentury Scared DONTNUKEMEBRO
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury Scared HanSolo
+TwentyFourthsAndAHalfCentury: DONTNUKEMEBRO Scared HanSolo
+Scared: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury HanSolo
+Generated: 2014/08/12 05:48:26.063861665 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward EmoCowboy Neo CourageTheDog
+                        Coward: Sc,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sb,N,N,N,N,N,N
+                           Neo: N,Sa,N,Dd,N,Dd,N
+                 CourageTheDog: Sc,N,Dc,Sa,N,Da,Sa
+Final Health:
+                        Coward: -1
+                     EmoCowboy: -2
+                           Neo: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog EmoCowboy Neo
+EmoCowboy: CourageTheDog Coward Neo
+Neo: CourageTheDog Coward EmoCowboy
+CourageTheDog: Neo Coward EmoCowboy
+Generated: 2014/08/12 08:56:07.119867660 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury EmoCowboy Neo
+      PoliticallyCorrectGunman: N,Dc,N,Sa,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,Da,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Da,N,Sb,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: 3
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury EmoCowboy Neo
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman EmoCowboy Neo
+EmoCowboy: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Neo
+Neo: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury EmoCowboy
+Generated: 2014/08/12 07:13:04.096503812 UTC

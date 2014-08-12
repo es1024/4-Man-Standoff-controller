@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Coward Monkey
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sb,N,Sa,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: -3
+                        Coward: -1
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: SimpleShooter Coward Monkey
+SimpleShooter: HanSolo Coward Monkey
+Coward: HanSolo SimpleShooter Monkey
+Monkey: HanSolo SimpleShooter Coward
+Generated: 2014/08/12 08:44:06.714391424 UTC

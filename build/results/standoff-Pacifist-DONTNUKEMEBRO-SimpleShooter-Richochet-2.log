@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO SimpleShooter Richochet
+                      Pacifist: N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dd,P,Tc
+                 SimpleShooter: Sb,N,Sa,N
+                     Richochet: Sb,N,Sb,N
+Final Health:
+                      Pacifist: 0
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: -3
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Richochet Pacifist SimpleShooter
+SimpleShooter: Richochet Pacifist DONTNUKEMEBRO
+Richochet: SimpleShooter Pacifist DONTNUKEMEBRO
+Generated: 2014/08/12 08:20:21.308165857 UTC

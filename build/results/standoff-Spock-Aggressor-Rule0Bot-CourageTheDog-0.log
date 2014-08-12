@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor Rule0Bot CourageTheDog
+                         Spock: Sb,N
+                     Aggressor: P,Ta
+                      Rule0Bot: N,Sb
+                 CourageTheDog: Sc,N
+Final Health:
+                         Spock: -3
+                     Aggressor: -2
+                      Rule0Bot: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Aggressor Rule0Bot CourageTheDog
+Aggressor: Spock Rule0Bot CourageTheDog
+Rule0Bot: Spock Aggressor CourageTheDog
+CourageTheDog: Spock Aggressor Rule0Bot
+Generated: 2014/08/12 08:46:41.748250071 UTC

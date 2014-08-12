@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Rule0Bot Neo
+                 InputAnalyzer: Db,Dd,P,Sb,N
+      PoliticallyCorrectGunman: N,N,N,N,P
+                      Rule0Bot: N,N,N,Sa,N
+                           Neo: N,N,N,Dc,Db
+Final Health:
+                 InputAnalyzer: -6
+      PoliticallyCorrectGunman: -6
+                      Rule0Bot: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: PoliticallyCorrectGunman Rule0Bot Neo
+PoliticallyCorrectGunman: InputAnalyzer Rule0Bot Neo
+Rule0Bot: InputAnalyzer PoliticallyCorrectGunman Neo
+Neo: InputAnalyzer PoliticallyCorrectGunman Rule0Bot
+Generated: 2014/08/12 10:23:30.077985596 UTC

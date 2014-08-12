@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Bomberman CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,N,N
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Da,Sb,N,Da,Da,Da,Sa,N,Da
+Final Health:
+                     Grenadier: -3
+                      Pacifist: 0
+                     Bomberman: 0
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Pacifist Bomberman CourageTheDog
+Pacifist: Grenadier Bomberman CourageTheDog
+Bomberman: Grenadier Pacifist CourageTheDog
+CourageTheDog: Grenadier Pacifist Bomberman
+Generated: 2014/08/12 06:18:00.251966841 UTC

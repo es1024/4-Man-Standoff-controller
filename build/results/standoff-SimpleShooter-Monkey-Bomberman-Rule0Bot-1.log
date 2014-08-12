@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Monkey Bomberman Rule0Bot
+                 SimpleShooter: Sb,N,Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sd,N,Sc
+                        Monkey: N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 5
+                        Monkey: -2
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Rule0Bot Monkey
+Monkey: Bomberman Rule0Bot SimpleShooter
+Bomberman: Monkey Rule0Bot SimpleShooter
+Rule0Bot: Monkey Bomberman SimpleShooter
+Generated: 2014/08/12 09:44:13.158112203 UTC

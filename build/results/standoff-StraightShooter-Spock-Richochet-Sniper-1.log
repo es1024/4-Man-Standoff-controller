@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Richochet Sniper
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd
+                         Spock: Sc,N,Sd,N,Sc,N,Sa
+                     Richochet: Sd,N,Sa,N,Sb,N,N
+                        Sniper: Sa,N,Sc,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 3
+                     Richochet: -1
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Sniper Spock
+Spock: Richochet Sniper StraightShooter
+Richochet: Spock Sniper StraightShooter
+Sniper: Spock Richochet StraightShooter
+Generated: 2014/08/12 07:27:40.468633810 UTC

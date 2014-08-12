@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Monkey TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Sd,N,Dd,P,Sa,N
+                        Monkey: N,N,Da,N,N,N,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,Da,Sa,N,Sc,N,Sc,N
+Final Health:
+                      Pacifist: -4
+                 InputAnalyzer: -1
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury InputAnalyzer Monkey
+InputAnalyzer: TwentyFourthsAndAHalfCentury Pacifist Monkey
+Monkey: TwentyFourthsAndAHalfCentury Pacifist InputAnalyzer
+TwentyFourthsAndAHalfCentury: Monkey Pacifist InputAnalyzer
+Generated: 2014/08/12 08:26:05.159025429 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward Rule0Bot Scared
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sb,N,Sb,N,Sb
+                        Coward: Sd,N,Sd,N,Sc,N,Sc,N,Da,Sa,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                        Coward: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Coward Rule0Bot Scared
+Coward: SimpleShooter Rule0Bot Scared
+Rule0Bot: SimpleShooter Coward Scared
+Scared: SimpleShooter Coward Rule0Bot
+Generated: 2014/08/12 09:08:43.970841650 UTC

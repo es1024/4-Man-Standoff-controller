@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock SimpleShooter Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sa,N,Sd
+                 SimpleShooter: Sb,N,Sa,N,Sb,N,Sa,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                 SimpleShooter: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman Spock SimpleShooter
+Spock: Bomberman Pacifist SimpleShooter
+SimpleShooter: Bomberman Pacifist Spock
+Bomberman: SimpleShooter Pacifist Spock
+Generated: 2014/08/12 07:29:31.468019428 UTC

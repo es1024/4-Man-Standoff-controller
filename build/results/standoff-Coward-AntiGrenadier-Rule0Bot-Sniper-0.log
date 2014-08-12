@@ -1,0 +1,16 @@
+Standoff between: Coward AntiGrenadier Rule0Bot Sniper
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier Rule0Bot Sniper
+AntiGrenadier: Coward Rule0Bot Sniper
+Rule0Bot: Coward AntiGrenadier Sniper
+Sniper: Coward AntiGrenadier Rule0Bot
+Generated: 2014/08/12 09:06:18.507726020 UTC

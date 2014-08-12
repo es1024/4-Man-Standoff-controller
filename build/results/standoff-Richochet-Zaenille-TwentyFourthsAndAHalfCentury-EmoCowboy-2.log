@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille TwentyFourthsAndAHalfCentury EmoCowboy
+                     Richochet: Sb,N,Sc,N,Sc,N,Sc
+                      Zaenille: Sb,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Sa,N,Sa,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                     Richochet: 1
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: EmoCowboy Richochet TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Richochet Zaenille
+EmoCowboy: TwentyFourthsAndAHalfCentury Richochet Zaenille
+Generated: 2014/08/12 09:44:32.509197866 UTC

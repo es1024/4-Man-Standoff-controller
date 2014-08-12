@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Ninja Scared
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,P,Tc
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                         Ninja: Dd,Da,Da,Dc,Db,Dc,Da,Dd,Dc,Db,Dc,Db,Da,Da,Dd,Da,Dc
+                        Scared: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: 0
+               StraightShooter: 0
+                         Ninja: -3
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Scared StraightShooter
+StraightShooter: Ninja Scared Grenadier
+Ninja: StraightShooter Scared Grenadier
+Scared: StraightShooter Ninja Grenadier
+Generated: 2014/08/12 08:21:08.677843791 UTC

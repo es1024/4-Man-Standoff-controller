@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO SimpleShooter Sniper
+                     Grenadier: N,N,N,N
+                 DONTNUKEMEBRO: Dc,Da,P,Tc
+                 SimpleShooter: Sb,N,Sa,N
+                        Sniper: Sb,N,Sb,N
+Final Health:
+                     Grenadier: 0
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: -3
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Sniper DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Sniper Grenadier SimpleShooter
+SimpleShooter: Sniper Grenadier DONTNUKEMEBRO
+Sniper: SimpleShooter Grenadier DONTNUKEMEBRO
+Generated: 2014/08/12 07:14:20.929303613 UTC

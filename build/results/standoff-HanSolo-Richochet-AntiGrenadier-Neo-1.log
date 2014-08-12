@@ -1,0 +1,16 @@
+Standoff between: HanSolo Richochet AntiGrenadier Neo
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sb,N,Sb
+                     Richochet: Sa,N,Sd,N,Sc,N,Sd,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                     Richochet: 1
+                 AntiGrenadier: -3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Neo Richochet
+Richochet: AntiGrenadier Neo HanSolo
+AntiGrenadier: Richochet Neo HanSolo
+Neo: Richochet AntiGrenadier HanSolo
+Generated: 2014/08/12 08:21:12.631956940 UTC

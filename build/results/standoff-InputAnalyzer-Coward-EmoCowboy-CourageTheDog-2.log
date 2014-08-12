@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward EmoCowboy CourageTheDog
+                 InputAnalyzer: Dd,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Dd,Dc,Dc,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Sb,N,Db,Db,Db,Db,Db,Db,Sb,N,Db,Db,Db,Sb
+Final Health:
+                 InputAnalyzer: -4
+                        Coward: -1
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Coward EmoCowboy
+Coward: CourageTheDog InputAnalyzer EmoCowboy
+EmoCowboy: CourageTheDog InputAnalyzer Coward
+CourageTheDog: EmoCowboy InputAnalyzer Coward
+Generated: 2014/08/12 05:58:59.062681517 UTC

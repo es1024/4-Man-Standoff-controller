@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Neo CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N
+                        Monkey: N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,Da,N,N,N,N,Sd,N,Dd,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Da,Dc,Dc,Sc,N,Da,Sa,N,Sa,N,Dc,Sc,N,Dc,Sc,N,Sc
+Final Health:
+               StraightShooter: -1
+                        Monkey: -1
+                           Neo: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Monkey Neo
+Monkey: CourageTheDog StraightShooter Neo
+Neo: CourageTheDog StraightShooter Monkey
+CourageTheDog: Neo StraightShooter Monkey
+Generated: 2014/08/12 07:56:35.913593071 UTC

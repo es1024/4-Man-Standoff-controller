@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Zaenille Ninja
+               StraightShooter: Sc,N,N,N,N
+                     Aggressor: P,Ta,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                         Ninja: Db,Db,Db,Db,Dd
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 2
+                      Zaenille: -4
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Zaenille Ninja
+Aggressor: StraightShooter Zaenille Ninja
+Zaenille: StraightShooter Aggressor Ninja
+Ninja: StraightShooter Aggressor Zaenille
+Generated: 2014/08/12 06:51:07.531630256 UTC

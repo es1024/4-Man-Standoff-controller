@@ -5,9 +5,9 @@ math.randomseed(os.time())
 info=arg[2]
 
 function tablelength(T)
-    local count = 0
-    for _ in pairs(T) do count = count + 1 end
-    return count
+  local count = 0
+  for _ in pairs(T) do count = count + 1 end
+  return count
 end
 
 function parseEnemies(s) -- Makes sense of the input Data
@@ -29,30 +29,49 @@ end
 function analyseEnemies(ps)
     moveList={{},{}}
     sFlag = 0
-    for i=2,4 do
-        pHealth = ps[i][1]
-        lan=tablelength(ps[i])
-        lAction=ps[i][lan]
+    if tablelength(ps[1])>=35 then
+        for i = 2, 4 do
+            if ps[i][1]>0 then
+                table.insert(moveList[1], "S"..i-1)
+                table.insert(moveList[2], 100)
 
-        if pHealth <= 0 then
-        else
-            if lAction=="P" then -- Doesn't Like it when people goes nuclear
-                table.insert(moveList[1], tostring("S"..i-1))
-                h=8-pHealth
-                table.insert(moveList[2], h)
             end
+        end
+    elseif tablelength(ps[1])>=42 then
+        table.insert(moveList[1], "P")
+        table.insert(moveList[2], 100)
+    elseif tablelength(ps[1])>=48 then
+        table.insert(moveList[1], "S0")
+        table.insert(moveList[2], 100)
 
-            if lAction=="S0" then -- takes notice when someone shoots at him
-                sFlag = sFlag +1
-                if pHealt == 2 or 1 then
-                    table.insert(moveList[1],tostring("S".. i-1))
-                    table.insert(moveList[2], 2)
-                else
-                    table.insert(moveList[1],tostring("D"..i-1))
-                    table.insert(moveList[2], 3)
+
+    else
+        for i=2,4 do
+            pHealth = ps[i][1]
+            lan=tablelength(ps[i])
+            lAction=ps[i][lan]
+            llAction=ps[i][lan-1]
+
+            if pHealth <= 0 then
+            else
+                if lAction=="P" then -- Doesn't Like it when people goes nuclear
+                    table.insert(moveList[1], tostring("S"..i-1))
+                    h=8-pHealth
+                    table.insert(moveList[2], h)
                 end
-            end
 
+                if llAction=="S0" then -- takes notice when someone shoots at him
+                    sFlag = sFlag +1
+                    if pHealt == 2 or 1 then
+                        table.insert(moveList[1],tostring("S".. i-1))
+                        table.insert(moveList[2], 2)
+                    else
+                        table.insert(moveList[1],tostring("D"..i-1))
+                        table.insert(moveList[2], 3)
+                    end
+                end
+
+            end
         end
     end
     nmla = tablelength(ps[1])
@@ -90,6 +109,17 @@ function analyseEnemies(ps)
     r=math.random(3)
     table.insert(moveList[1], "D"..r) -- random ducking if all else fails
     table.insert(moveList[2], 1)
+    lan=tablelength(ps[1])
+        lAction=ps[1][lan]
+        if lAction =="P" then
+            for i = 2, 4 do
+                if ps[i][1]>0 then
+                    table.insert(moveList[1], "T"..i-1)
+                    table.insert(moveList[2], 100)
+
+                end
+            end
+        end
     return moveList
 end
 
@@ -104,6 +134,7 @@ function makeMove(mList) -- picks the highest rated move
             m = mList[1][i]
         end
     end
+
     print(m)
 end
 

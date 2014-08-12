@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Scared
+                     Grenadier: N,P,Tb,N
+                 DONTNUKEMEBRO: Dc,Dc,Sa,N
+  TwentyFourthsAndAHalfCentury: Da,Db,Db,Sd
+                        Scared: Sa,N,Sa,N
+Final Health:
+                     Grenadier: -4
+                 DONTNUKEMEBRO: -3
+  TwentyFourthsAndAHalfCentury: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Scared
+DONTNUKEMEBRO: Grenadier TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Grenadier DONTNUKEMEBRO Scared
+Scared: Grenadier DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:13:44.993580945 UTC

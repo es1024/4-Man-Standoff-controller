@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock TwentyFourthsAndAHalfCentury CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,Sd,N,Sc,N,Sc,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Dd,Da,Dd,Da,Db,Da,N,N,N,N,N,N,Sb,N,Sa,N,N,N,N
+                 CourageTheDog: Sc,N,Sc,N,Db,Db,N,Dc,Dc,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: 3
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Spock TwentyFourthsAndAHalfCentury
+Spock: CourageTheDog Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: CourageTheDog Pacifist Spock
+CourageTheDog: TwentyFourthsAndAHalfCentury Pacifist Spock
+Generated: 2014/08/12 06:31:00.299588411 UTC

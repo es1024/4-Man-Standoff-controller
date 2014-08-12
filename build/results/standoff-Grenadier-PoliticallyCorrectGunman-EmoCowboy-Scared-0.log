@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman EmoCowboy Scared
+                     Grenadier: N,N,P,Td
+      PoliticallyCorrectGunman: N,Dd,N,N
+                     EmoCowboy: Sc,N,N,N
+                        Scared: Sb,N,Sa,N
+Final Health:
+                     Grenadier: 0
+      PoliticallyCorrectGunman: 0
+                     EmoCowboy: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman EmoCowboy Scared
+PoliticallyCorrectGunman: Grenadier EmoCowboy Scared
+EmoCowboy: Grenadier PoliticallyCorrectGunman Scared
+Scared: Grenadier PoliticallyCorrectGunman EmoCowboy
+Generated: 2014/08/12 07:58:42.701713879 UTC

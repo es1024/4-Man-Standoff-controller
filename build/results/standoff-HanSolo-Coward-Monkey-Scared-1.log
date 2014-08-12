@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Monkey Scared
+                       HanSolo: Sc,N,Sc,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sc
+                        Monkey: N,N,N,N,N,N,N,N,N,Sd,N
+                        Scared: Sa,N,N,Sb,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 3
+                        Monkey: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey Scared Coward
+Coward: Monkey Scared HanSolo
+Monkey: Coward Scared HanSolo
+Scared: Coward Monkey HanSolo
+Generated: 2014/08/12 06:30:00.506933611 UTC

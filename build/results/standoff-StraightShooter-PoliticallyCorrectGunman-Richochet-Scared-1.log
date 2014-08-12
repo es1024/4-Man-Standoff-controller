@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Richochet Scared
+               StraightShooter: Sd,N,Sd,N
+      PoliticallyCorrectGunman: N,P,Dc,Sa
+                     Richochet: Sb,N,Sa,N
+                        Scared: Sa,N,Sb,N
+Final Health:
+               StraightShooter: -4
+      PoliticallyCorrectGunman: -5
+                     Richochet: 2
+                        Scared: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Scared PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Richochet Scared StraightShooter
+Richochet: PoliticallyCorrectGunman Scared StraightShooter
+Scared: PoliticallyCorrectGunman Richochet StraightShooter
+Generated: 2014/08/12 08:45:52.621549757 UTC

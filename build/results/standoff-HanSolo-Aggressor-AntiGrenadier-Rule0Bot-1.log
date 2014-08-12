@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor AntiGrenadier Rule0Bot
+                       HanSolo: Sc,N
+                     Aggressor: P,Td
+                 AntiGrenadier: N,Sb
+                      Rule0Bot: N,Sb
+Final Health:
+                       HanSolo: 2
+                     Aggressor: -2
+                 AntiGrenadier: 0
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Rule0Bot Aggressor
+Aggressor: AntiGrenadier Rule0Bot HanSolo
+AntiGrenadier: Aggressor Rule0Bot HanSolo
+Rule0Bot: Aggressor AntiGrenadier HanSolo
+Generated: 2014/08/12 08:57:05.525460134 UTC

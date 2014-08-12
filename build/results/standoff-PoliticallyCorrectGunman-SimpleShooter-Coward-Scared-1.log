@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Coward Scared
+      PoliticallyCorrectGunman: Db,Sb,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sc
+                        Coward: Sa,N,Sa,N,Sd,N,Sb
+                        Scared: Sa,N,Sc,N,Sb,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 SimpleShooter: -1
+                        Coward: 1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Coward Scared SimpleShooter
+SimpleShooter: Coward Scared PoliticallyCorrectGunman
+Coward: SimpleShooter Scared PoliticallyCorrectGunman
+Scared: SimpleShooter Coward PoliticallyCorrectGunman
+Generated: 2014/08/12 06:22:22.948284960 UTC

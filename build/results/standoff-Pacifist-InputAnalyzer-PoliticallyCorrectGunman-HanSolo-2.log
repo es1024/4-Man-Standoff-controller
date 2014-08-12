@@ -1,16 +1,16 @@
 Standoff between: Pacifist InputAnalyzer PoliticallyCorrectGunman HanSolo
-                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
-                 InputAnalyzer: Dd,Sc,N,Dc,Dd,Dc,Sa,N,Db,P,Sd
-      PoliticallyCorrectGunman: Sd,N,Sd,N,N,N,N,N,N,N,N
-                       HanSolo: Sc,N,Sc,N,Sa,N,Sa,N,Sb,N,Sb
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Da,Db,Da,P,Sc,N
+      PoliticallyCorrectGunman: P,Dd,Td,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,N,N,N
 Final Health:
                       Pacifist: -1
-                 InputAnalyzer: 1
-      PoliticallyCorrectGunman: -1
-                       HanSolo: -1
+                 InputAnalyzer: -4
+      PoliticallyCorrectGunman: -2
+                       HanSolo: -3
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Pacifist: HanSolo InputAnalyzer PoliticallyCorrectGunman
 InputAnalyzer: HanSolo Pacifist PoliticallyCorrectGunman
 PoliticallyCorrectGunman: HanSolo Pacifist InputAnalyzer
 HanSolo: PoliticallyCorrectGunman Pacifist InputAnalyzer
-Generated: 2014/08/11 00:59:27.022286588 UTC
+Generated: 2014/08/12 08:14:51.804294771 UTC

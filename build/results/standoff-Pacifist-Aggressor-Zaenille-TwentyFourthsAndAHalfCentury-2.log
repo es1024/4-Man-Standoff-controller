@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Zaenille TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N
+                     Aggressor: P,Td,Sa
+                      Zaenille: Sc,N,N
+  TwentyFourthsAndAHalfCentury: Da,Da,N
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 2
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Aggressor Zaenille
+Aggressor: TwentyFourthsAndAHalfCentury Pacifist Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Pacifist Aggressor
+TwentyFourthsAndAHalfCentury: Zaenille Pacifist Aggressor
+Generated: 2014/08/12 06:47:36.490988817 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter TwentyFourthsAndAHalfCentury Scared
+                     Grenadier: N,N,N,N,N,P,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sa,N
+  TwentyFourthsAndAHalfCentury: Dd,N,N,N,N,Da,Db,Da
+                        Scared: N,N,N,N,N,Sb,N,Sa
+Final Health:
+                     Grenadier: -7
+                 SimpleShooter: 0
+  TwentyFourthsAndAHalfCentury: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Scared SimpleShooter
+SimpleShooter: TwentyFourthsAndAHalfCentury Scared Grenadier
+TwentyFourthsAndAHalfCentury: SimpleShooter Scared Grenadier
+Scared: SimpleShooter TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 09:00:43.437719267 UTC

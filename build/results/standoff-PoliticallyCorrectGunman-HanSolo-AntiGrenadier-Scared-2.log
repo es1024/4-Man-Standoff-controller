@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo AntiGrenadier Scared
+      PoliticallyCorrectGunman: Dc,N,Dd,N,N,N,N,N,Db,Db,Dc,P,Db,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sa,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N
+                        Scared: N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -7
+                       HanSolo: 2
+                 AntiGrenadier: 0
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Scared HanSolo AntiGrenadier
+HanSolo: Scared PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: Scared PoliticallyCorrectGunman HanSolo
+Scared: AntiGrenadier PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 07:03:08.864911808 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Coward Ninja AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                         Ninja: Da,Da,Da,Da,Da,Dc,Dc,Dc,Dd,Dd,Dd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                        Coward: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Ninja AntiGrenadier Coward
+Coward: Ninja AntiGrenadier StraightShooter
+Ninja: Coward AntiGrenadier StraightShooter
+AntiGrenadier: Coward Ninja StraightShooter
+Generated: 2014/08/12 07:18:38.332161731 UTC

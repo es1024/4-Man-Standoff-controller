@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey Rule0Bot Scared
+                 InputAnalyzer: Db,P,Da,Sb
+                        Monkey: N,Db,Db,Sa
+                      Rule0Bot: N,N,Sa,N
+                        Scared: Sc,N,Sa,N
+Final Health:
+                 InputAnalyzer: -7
+                        Monkey: 0
+                      Rule0Bot: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Rule0Bot Scared
+Monkey: InputAnalyzer Rule0Bot Scared
+Rule0Bot: InputAnalyzer Monkey Scared
+Scared: InputAnalyzer Monkey Rule0Bot
+Generated: 2014/08/12 06:02:00.655785941 UTC

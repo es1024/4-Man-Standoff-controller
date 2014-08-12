@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Monkey Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dd,Da,Dd,Sa,N,P,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Dc,Db,Dc,Db,Db,Da,Dd
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -1
+                        Monkey: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Monkey Ninja
+InputAnalyzer: Pacifist Monkey Ninja
+Monkey: Pacifist InputAnalyzer Ninja
+Ninja: Pacifist InputAnalyzer Monkey
+Generated: 2014/08/12 09:12:37.325572885 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Bomberman EmoCowboy Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Db,N,Db,N,Db,N,N,N,N,N,N,N,N,N,Db,N,Db,N,Db,N,Db,N,N,N,N,N,N,N,Db,N,N,N,Db,N,Db,N,N,N,N,N,Sd,N
+Final Health:
+                      Pacifist: -15
+                     Bomberman: -15
+                     EmoCowboy: -2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman EmoCowboy Neo
+Bomberman: Pacifist EmoCowboy Neo
+EmoCowboy: Pacifist Bomberman Neo
+Neo: Pacifist Bomberman EmoCowboy
+Generated: 2014/08/12 06:50:10.069872870 UTC

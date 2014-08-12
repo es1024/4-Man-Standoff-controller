@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock Bomberman
+                 InputAnalyzer: Dc,Db,P,Dc,Db
+                 DONTNUKEMEBRO: Da,Dd,Sc,N,Sc
+                         Spock: Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: -4
+                         Spock: -2
+                     Bomberman: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Bomberman DONTNUKEMEBRO
+DONTNUKEMEBRO: Spock Bomberman InputAnalyzer
+Spock: DONTNUKEMEBRO Bomberman InputAnalyzer
+Bomberman: DONTNUKEMEBRO Spock InputAnalyzer
+Generated: 2014/08/12 10:07:59.800524675 UTC

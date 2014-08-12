@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock SimpleShooter Sniper
+                 DONTNUKEMEBRO: Dd,Db,Sc,N,Dd,Dc,Db,Db,Db,Dd,Sb,N,Sb
+                         Spock: Sc,N,Sc,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+                 SimpleShooter: Sa,N,Sd,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: 1
+                 SimpleShooter: -5
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter Sniper Spock
+Spock: SimpleShooter Sniper DONTNUKEMEBRO
+SimpleShooter: Spock Sniper DONTNUKEMEBRO
+Sniper: Spock SimpleShooter DONTNUKEMEBRO
+Generated: 2014/08/12 07:42:45.171568694 UTC

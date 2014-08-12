@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo TwentyFourthsAndAHalfCentury Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: Dd,Da,Da,Da,Da,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sa,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Sniper HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury Sniper Pacifist
+TwentyFourthsAndAHalfCentury: HanSolo Sniper Pacifist
+Sniper: HanSolo TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 09:25:09.801648643 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo DONTNUKEMEBRO Richochet
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sa,N,Sc,N,Sc,N,Sc
+                 DONTNUKEMEBRO: Db,Db,Dd,Db,Db,Dd,Dd,Dd,Db,Db,Sb,N,Sb
+                     Richochet: Sb,N,Sa,N,Sa,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+                 DONTNUKEMEBRO: 1
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet HanSolo DONTNUKEMEBRO
+HanSolo: Richochet Pacifist DONTNUKEMEBRO
+DONTNUKEMEBRO: Richochet Pacifist HanSolo
+Richochet: DONTNUKEMEBRO Pacifist HanSolo
+Generated: 2014/08/12 07:19:22.496412836 UTC

@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet EmoCowboy AntiGrenadier
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Richochet: Sc,N,Sa,N,Sd,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                     Richochet: 5
+                     EmoCowboy: -4
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: AntiGrenadier Richochet EmoCowboy
+Richochet: AntiGrenadier Spock EmoCowboy
+EmoCowboy: AntiGrenadier Spock Richochet
+AntiGrenadier: EmoCowboy Spock Richochet
+Generated: 2014/08/12 06:51:08.959579087 UTC

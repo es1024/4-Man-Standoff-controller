@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter EmoCowboy CourageTheDog
+                 DONTNUKEMEBRO: Dc,Dd,Sd,N,Db,Sd,N,Dd,Db,Dc,Sb
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sc,N,Sa,N,Sa
+                     EmoCowboy: N,N,N,N,N,N,Sc,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sa,N,Db,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 3
+                     EmoCowboy: -4
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: SimpleShooter EmoCowboy CourageTheDog
+SimpleShooter: DONTNUKEMEBRO EmoCowboy CourageTheDog
+EmoCowboy: DONTNUKEMEBRO SimpleShooter CourageTheDog
+CourageTheDog: DONTNUKEMEBRO SimpleShooter EmoCowboy
+Generated: 2014/08/12 08:01:37.626288706 UTC

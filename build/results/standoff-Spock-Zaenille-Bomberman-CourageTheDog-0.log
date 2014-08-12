@@ -1,0 +1,16 @@
+Standoff between: Spock Zaenille Bomberman CourageTheDog
+                         Spock: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Da,Da,Sa,N,Sc,N,Dc,Dc,N,Dc,Sc,N,Dc,Dc,Dc,Sc
+Final Health:
+                         Spock: -1
+                      Zaenille: -4
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Zaenille Bomberman CourageTheDog
+Zaenille: Spock Bomberman CourageTheDog
+Bomberman: Spock Zaenille CourageTheDog
+CourageTheDog: Spock Zaenille Bomberman
+Generated: 2014/08/12 07:51:47.144928670 UTC

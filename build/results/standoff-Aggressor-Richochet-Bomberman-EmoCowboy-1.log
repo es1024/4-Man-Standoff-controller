@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Bomberman EmoCowboy
+                     Aggressor: P,Tb
+                     Richochet: Sc,N
+                     Bomberman: N,N
+                     EmoCowboy: Sd,N
+Final Health:
+                     Aggressor: 2
+                     Richochet: -3
+                     Bomberman: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Bomberman EmoCowboy Richochet
+Richochet: Bomberman EmoCowboy Aggressor
+Bomberman: Richochet EmoCowboy Aggressor
+EmoCowboy: Richochet Bomberman Aggressor
+Generated: 2014/08/12 06:38:07.421552172 UTC

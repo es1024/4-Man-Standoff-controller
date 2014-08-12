@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Ninja AntiGrenadier
+                       HanSolo: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Ta,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dc,Dd,Dd,Da,Dc,Db,Da,Da,Db,Db,Dd,Dd,Db,Dc,Da,Dd,Dc,Dc,Dd,Dc,Dc,Dc,Dd,Dd,Da,Da,Da,Db,Db,Da,Da,Dc,Dc,Dc,Dc,Dd,Dd,Da,Da,Dc,Db,Dd,Dd,Da,Da,Db,Da,Dc,Db
+                 AntiGrenadier: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: -2
+                         Ninja: -18
+                 AntiGrenadier: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor Ninja AntiGrenadier
+Aggressor: HanSolo Ninja AntiGrenadier
+Ninja: HanSolo Aggressor AntiGrenadier
+AntiGrenadier: HanSolo Aggressor Ninja
+Generated: 2014/08/12 10:22:13.680670754 UTC

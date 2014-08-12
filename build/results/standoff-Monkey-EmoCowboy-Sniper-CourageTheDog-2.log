@@ -1,0 +1,16 @@
+Standoff between: Monkey EmoCowboy Sniper CourageTheDog
+                        Monkey: N,Sa,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,N,Dc,Sc,N,Dc,Sc
+Final Health:
+                        Monkey: -2
+                     EmoCowboy: -2
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: CourageTheDog EmoCowboy Sniper
+EmoCowboy: CourageTheDog Monkey Sniper
+Sniper: CourageTheDog Monkey EmoCowboy
+CourageTheDog: Sniper Monkey EmoCowboy
+Generated: 2014/08/12 06:30:47.409042053 UTC

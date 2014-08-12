@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter Richochet Monkey
+                     Grenadier: P,N,N
+               StraightShooter: Sc,N,Sc
+                     Richochet: Sd,N,Sb
+                        Monkey: N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: 0
+                     Richochet: -2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter Richochet Monkey
+StraightShooter: Grenadier Richochet Monkey
+Richochet: Grenadier StraightShooter Monkey
+Monkey: Grenadier StraightShooter Richochet
+Generated: 2014/08/12 05:43:37.993627886 UTC

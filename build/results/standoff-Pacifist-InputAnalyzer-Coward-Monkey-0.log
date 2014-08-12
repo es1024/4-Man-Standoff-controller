@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Coward Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dc,Da,Sd,N,Sa,N,Dd,Sc,N,N,N,N
+                        Coward: Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sa,N,Sa
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -1
+                        Coward: 3
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Coward Monkey
+InputAnalyzer: Pacifist Coward Monkey
+Coward: Pacifist InputAnalyzer Monkey
+Monkey: Pacifist InputAnalyzer Coward
+Generated: 2014/08/12 07:54:30.844280299 UTC

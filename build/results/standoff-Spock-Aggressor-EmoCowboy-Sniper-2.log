@@ -1,0 +1,16 @@
+Standoff between: Spock Aggressor EmoCowboy Sniper
+                         Spock: Sd,N
+                     Aggressor: P,Td
+                     EmoCowboy: Sc,N
+                        Sniper: Sa,N
+Final Health:
+                         Spock: 0
+                     Aggressor: 2
+                     EmoCowboy: -2
+                        Sniper: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Sniper Aggressor EmoCowboy
+Aggressor: Sniper Spock EmoCowboy
+EmoCowboy: Sniper Spock Aggressor
+Sniper: EmoCowboy Spock Aggressor
+Generated: 2014/08/12 05:44:51.056773494 UTC

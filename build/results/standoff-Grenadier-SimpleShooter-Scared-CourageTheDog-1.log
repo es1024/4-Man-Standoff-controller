@@ -1,0 +1,16 @@
+Standoff between: Grenadier SimpleShooter Scared CourageTheDog
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sc,N,Sa,N,Sd,N,Sd,N
+                        Scared: N,N,N,Sb,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Sb,N,Dc,Sc,N,Sc,N,Db,Sa,N,Sb
+Final Health:
+                     Grenadier: -1
+                 SimpleShooter: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared CourageTheDog SimpleShooter
+SimpleShooter: Scared CourageTheDog Grenadier
+Scared: SimpleShooter CourageTheDog Grenadier
+CourageTheDog: SimpleShooter Scared Grenadier
+Generated: 2014/08/12 07:11:47.876544762 UTC

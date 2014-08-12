@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Richochet Zaenille Scared
+      PoliticallyCorrectGunman: Sb,N,Sc,N,N
+                     Richochet: Sa,N,Sa,N,Sd
+                      Zaenille: Sc,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Richochet: -1
+                      Zaenille: -2
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Zaenille Scared
+Richochet: PoliticallyCorrectGunman Zaenille Scared
+Zaenille: PoliticallyCorrectGunman Richochet Scared
+Scared: PoliticallyCorrectGunman Richochet Zaenille
+Generated: 2014/08/12 10:26:04.874151923 UTC

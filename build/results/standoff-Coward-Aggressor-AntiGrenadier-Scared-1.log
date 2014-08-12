@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor AntiGrenadier Scared
+                        Coward: Sb,N,Dd,Db,Dd,Sd
+                     Aggressor: P,Tc,N,N,N,N
+                 AntiGrenadier: N,Sb,N,N,N,N
+                        Scared: N,N,Sa,N,Sa,N
+Final Health:
+                        Coward: 2
+                     Aggressor: -2
+                 AntiGrenadier: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: AntiGrenadier Scared Aggressor
+Aggressor: AntiGrenadier Scared Coward
+AntiGrenadier: Aggressor Scared Coward
+Scared: Aggressor AntiGrenadier Coward
+Generated: 2014/08/12 06:19:26.161565588 UTC

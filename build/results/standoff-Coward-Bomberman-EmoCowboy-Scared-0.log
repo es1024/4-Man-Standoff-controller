@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman EmoCowboy Scared
+                        Coward: Sd,N,Sb,N,Sb,N,Dd,Sb,N,Sb,N,Sb,N,Dd,Dd,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,Sa,N,Sa
+Final Health:
+                        Coward: -1
+                     Bomberman: -1
+                     EmoCowboy: -2
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Bomberman EmoCowboy Scared
+Bomberman: Coward EmoCowboy Scared
+EmoCowboy: Coward Bomberman Scared
+Scared: Coward Bomberman EmoCowboy
+Generated: 2014/08/12 09:46:15.211190269 UTC

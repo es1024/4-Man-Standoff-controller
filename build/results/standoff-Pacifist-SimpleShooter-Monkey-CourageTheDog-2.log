@@ -1,0 +1,16 @@
+Standoff between: Pacifist SimpleShooter Monkey CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,Sc,N,Sd,N,Sc
+                        Monkey: N,N,N,Db,Db,N,N,Db,Dc,Sd,N
+                 CourageTheDog: N,Db,Db,Sa,N,Da,Db,Dc,Da,Sa,N
+Final Health:
+                      Pacifist: -1
+                 SimpleShooter: 5
+                        Monkey: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog SimpleShooter Monkey
+SimpleShooter: CourageTheDog Pacifist Monkey
+Monkey: CourageTheDog Pacifist SimpleShooter
+CourageTheDog: Monkey Pacifist SimpleShooter
+Generated: 2014/08/12 07:06:28.941962311 UTC

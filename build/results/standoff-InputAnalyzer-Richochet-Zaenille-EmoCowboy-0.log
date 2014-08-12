@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Zaenille EmoCowboy
+                 InputAnalyzer: Db,Sa
+                     Richochet: Sc,N
+                      Zaenille: Sc,N
+                     EmoCowboy: Sd,N
+Final Health:
+                 InputAnalyzer: -2
+                     Richochet: 5
+                      Zaenille: -4
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Zaenille EmoCowboy
+Richochet: InputAnalyzer Zaenille EmoCowboy
+Zaenille: InputAnalyzer Richochet EmoCowboy
+EmoCowboy: InputAnalyzer Richochet Zaenille
+Generated: 2014/08/12 09:37:38.281296698 UTC

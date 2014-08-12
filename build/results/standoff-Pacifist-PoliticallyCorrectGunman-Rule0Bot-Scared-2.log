@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Rule0Bot Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sa,N,N,Sa,N,Sd,N,N,N,N,N,N,N,P,Sa,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sc,N,Sb,N,N,N,N,N,N,N,Sc,N,Sb,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -5
+                      Rule0Bot: -2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared PoliticallyCorrectGunman Rule0Bot
+PoliticallyCorrectGunman: Scared Pacifist Rule0Bot
+Rule0Bot: Scared Pacifist PoliticallyCorrectGunman
+Scared: Rule0Bot Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 10:21:04.830481642 UTC

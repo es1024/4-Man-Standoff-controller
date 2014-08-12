@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter SimpleShooter Scared
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 SimpleShooter: Sa,N,Sb,N,Sa,N,Sb,N,Sa,N,Sb
+                        Scared: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -1
+                 SimpleShooter: 5
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Scared StraightShooter
+StraightShooter: SimpleShooter Scared Grenadier
+SimpleShooter: StraightShooter Scared Grenadier
+Scared: StraightShooter SimpleShooter Grenadier
+Generated: 2014/08/12 08:17:47.914731878 UTC

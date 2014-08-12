@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury Sniper
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dd,Dc,Sd,N,P,Dd,Sc
+  TwentyFourthsAndAHalfCentury: Da,Db,Dd,Da,Db,N,Dd
+                        Sniper: Sc,N,Sa,N,Sb,N,Sb
+Final Health:
+                      Pacifist: 0
+                 InputAnalyzer: -5
+  TwentyFourthsAndAHalfCentury: -2
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Sniper InputAnalyzer TwentyFourthsAndAHalfCentury
+InputAnalyzer: Sniper Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Pacifist InputAnalyzer
+Sniper: TwentyFourthsAndAHalfCentury Pacifist InputAnalyzer
+Generated: 2014/08/12 10:21:08.305665937 UTC

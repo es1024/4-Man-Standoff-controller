@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Rule0Bot Scared
+                 InputAnalyzer: Dc,Db,P,Sc,N
+                 DONTNUKEMEBRO: Dd,Dd,Sd,N,Da
+                      Rule0Bot: N,N,N,Sa,N
+                        Scared: Sb,N,Sa,N,Sa
+Final Health:
+                 InputAnalyzer: -7
+                 DONTNUKEMEBRO: 2
+                      Rule0Bot: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Scared DONTNUKEMEBRO
+DONTNUKEMEBRO: Rule0Bot Scared InputAnalyzer
+Rule0Bot: DONTNUKEMEBRO Scared InputAnalyzer
+Scared: DONTNUKEMEBRO Rule0Bot InputAnalyzer
+Generated: 2014/08/12 09:08:56.107976991 UTC

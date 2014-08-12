@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Richochet Zaenille
+                     Grenadier: P,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sc
+                     Richochet: Sd,N,Sa,N,Sb
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+                     Grenadier: -7
+                         Spock: 0
+                     Richochet: 0
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Richochet Zaenille
+Spock: Grenadier Richochet Zaenille
+Richochet: Grenadier Spock Zaenille
+Zaenille: Grenadier Spock Richochet
+Generated: 2014/08/12 09:36:04.322735308 UTC

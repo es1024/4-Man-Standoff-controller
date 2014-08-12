@@ -1,0 +1,16 @@
+Standoff between: EmoCowboy Ninja AntiGrenadier CourageTheDog
+                     EmoCowboy: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Dd,Db,Da,Da,Dc,Da,Db,Dd,Dd,Dd,Da,Dd,Db,Dc,Db,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sb,N,Sc,N,Db,Db,Sb,N,Db,Dc,Db,Dc,Dc,Db,Sb,N,Sc,N,Sc
+Final Health:
+                     EmoCowboy: -2
+                         Ninja: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+EmoCowboy: CourageTheDog Ninja AntiGrenadier
+Ninja: CourageTheDog EmoCowboy AntiGrenadier
+AntiGrenadier: CourageTheDog EmoCowboy Ninja
+CourageTheDog: AntiGrenadier EmoCowboy Ninja
+Generated: 2014/08/12 09:46:12.814533265 UTC

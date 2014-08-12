@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock Coward AntiGrenadier
+                 DONTNUKEMEBRO: Dd,Dc,Db,Db,Dc,Dd,Dd,Db,Sc,N,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: -1
+                        Coward: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: AntiGrenadier Spock Coward
+Spock: AntiGrenadier DONTNUKEMEBRO Coward
+Coward: AntiGrenadier DONTNUKEMEBRO Spock
+AntiGrenadier: Coward DONTNUKEMEBRO Spock
+Generated: 2014/08/12 07:10:17.388767336 UTC

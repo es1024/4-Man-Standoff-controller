@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Coward TwentyFourthsAndAHalfCentury Ninja
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Db,Dd,Dd,Dd,N,Dd,Db,Sb,N,Sb
+                         Ninja: Da,Dc,Da,Dc,Db,Dd,Dc,Dd,Dc,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury Ninja Coward
+Coward: TwentyFourthsAndAHalfCentury Ninja SimpleShooter
+TwentyFourthsAndAHalfCentury: Coward Ninja SimpleShooter
+Ninja: Coward TwentyFourthsAndAHalfCentury SimpleShooter
+Generated: 2014/08/12 09:33:22.127913652 UTC

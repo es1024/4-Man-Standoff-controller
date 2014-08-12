@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet TwentyFourthsAndAHalfCentury Scared
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sb,N,Sc
+                     Richochet: Sd,N,Sd,N,Sa,N,Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: Db,N,Db,N,Db,N,Db,N,Db
+                        Scared: Sa,N,Sb,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet TwentyFourthsAndAHalfCentury Scared
+Richochet: SimpleShooter TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: SimpleShooter Richochet Scared
+Scared: SimpleShooter Richochet TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:14:34.209937222 UTC

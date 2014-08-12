@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO Sniper CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Dc,Dd,Sd,N,Dd,Dc,Dd,Da,Sa
+                        Sniper: Sd,N,Sd,N,Sd,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Sa,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                 DONTNUKEMEBRO: -1
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper CourageTheDog DONTNUKEMEBRO
+DONTNUKEMEBRO: Sniper CourageTheDog HanSolo
+Sniper: DONTNUKEMEBRO CourageTheDog HanSolo
+CourageTheDog: DONTNUKEMEBRO Sniper HanSolo
+Generated: 2014/08/12 08:53:41.771181537 UTC

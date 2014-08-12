@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo EmoCowboy Ninja
+               StraightShooter: Sc,N,Sc,N,Sc,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Db,Dc,Dd,Da,Da,Dd,Dc,Dd,Db,Dc
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+                     EmoCowboy: -4
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: HanSolo EmoCowboy Ninja
+HanSolo: StraightShooter EmoCowboy Ninja
+EmoCowboy: StraightShooter HanSolo Ninja
+Ninja: StraightShooter HanSolo EmoCowboy
+Generated: 2014/08/12 08:09:18.576148240 UTC

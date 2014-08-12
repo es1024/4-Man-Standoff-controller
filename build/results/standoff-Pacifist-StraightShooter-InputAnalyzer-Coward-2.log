@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer Coward
+                      Pacifist: N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,N,N
+                 InputAnalyzer: Dd,Sb,N,Sb,N,Sc
+                        Coward: Sb,N,Sb,N,Sa,N
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                 InputAnalyzer: -2
+                        Coward: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward StraightShooter InputAnalyzer
+StraightShooter: Coward Pacifist InputAnalyzer
+InputAnalyzer: Coward Pacifist StraightShooter
+Coward: InputAnalyzer Pacifist StraightShooter
+Generated: 2014/08/12 07:10:44.610644115 UTC

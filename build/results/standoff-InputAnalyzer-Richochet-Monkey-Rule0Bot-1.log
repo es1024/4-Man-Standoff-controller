@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Monkey Rule0Bot
+                 InputAnalyzer: Dc,P,Da,Dd
+                     Richochet: Sd,N,Sc,N
+                        Monkey: N,Sd,N,N
+                      Rule0Bot: N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -3
+                     Richochet: 2
+                        Monkey: 0
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Rule0Bot Richochet
+Richochet: Monkey Rule0Bot InputAnalyzer
+Monkey: Richochet Rule0Bot InputAnalyzer
+Rule0Bot: Richochet Monkey InputAnalyzer
+Generated: 2014/08/12 08:00:50.853448365 UTC

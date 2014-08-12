@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor TwentyFourthsAndAHalfCentury Rule0Bot
+               StraightShooter: Sd,N
+                     Aggressor: P,Tc
+  TwentyFourthsAndAHalfCentury: Dd,Db
+                      Rule0Bot: N,Sb
+Final Health:
+               StraightShooter: 2
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Rule0Bot Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury Rule0Bot StraightShooter
+TwentyFourthsAndAHalfCentury: Aggressor Rule0Bot StraightShooter
+Rule0Bot: Aggressor TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 08:26:36.657751318 UTC

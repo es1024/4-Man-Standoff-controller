@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey Bomberman CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sc,N,Da,N,Dc,Sc,N,Da,Sa,N,Da,Da,Sb,N,Da,Da,Da,Da,Sa
+Final Health:
+                      Pacifist: -1
+                        Monkey: -2
+                     Bomberman: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Bomberman CourageTheDog Monkey
+Monkey: Bomberman CourageTheDog Pacifist
+Bomberman: Monkey CourageTheDog Pacifist
+CourageTheDog: Monkey Bomberman Pacifist
+Generated: 2014/08/12 07:37:40.679519002 UTC

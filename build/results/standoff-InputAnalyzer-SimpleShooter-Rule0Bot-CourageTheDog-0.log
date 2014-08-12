@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Rule0Bot CourageTheDog
+                 InputAnalyzer: Db,Sd,N,P,Db,N
+                 SimpleShooter: Sd,N,Sc,N,Sa,N
+                      Rule0Bot: N,N,N,N,Sa,N
+                 CourageTheDog: Sb,N,Db,Dc,P,Ta
+Final Health:
+                 InputAnalyzer: -11
+                 SimpleShooter: -3
+                      Rule0Bot: -3
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Rule0Bot CourageTheDog
+SimpleShooter: InputAnalyzer Rule0Bot CourageTheDog
+Rule0Bot: InputAnalyzer SimpleShooter CourageTheDog
+CourageTheDog: InputAnalyzer SimpleShooter Rule0Bot
+Generated: 2014/08/12 07:25:03.796280276 UTC

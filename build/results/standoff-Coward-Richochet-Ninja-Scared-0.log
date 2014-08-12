@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Ninja Scared
+                        Coward: Sd,N,Sd,N,Sd,N,Sc,N,Sb
+                     Richochet: Sa,N,Sc,N,Sc,N,Sc,N,Sa
+                         Ninja: Db,Dc,Db,Dd,Da,Da,Dc,N,N
+                        Scared: Sc,N,Sb,N,Sb,N,N,N,N
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+                         Ninja: -3
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet Ninja Scared
+Richochet: Coward Ninja Scared
+Ninja: Coward Richochet Scared
+Scared: Coward Richochet Ninja
+Generated: 2014/08/12 07:22:22.791829812 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared
+                     Grenadier: N,N,N,N,N,N,P
+      PoliticallyCorrectGunman: Sa,N,N,N,N,Sb,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Sa,N,Sa
+                        Scared: N,N,N,N,Sc,N,Sc
+Final Health:
+                     Grenadier: -7
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: -2
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Scared
+PoliticallyCorrectGunman: Grenadier TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Grenadier PoliticallyCorrectGunman Scared
+Scared: Grenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:05:29.668624724 UTC

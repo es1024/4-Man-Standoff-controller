@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer HanSolo Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dc,Da,Sd,N,Sa,N,P,Sa,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sb,N,Sb,N
+                        Monkey: N,N,N,N,Sd,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -5
+                       HanSolo: 2
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer HanSolo Monkey
+InputAnalyzer: Pacifist HanSolo Monkey
+HanSolo: Pacifist InputAnalyzer Monkey
+Monkey: Pacifist InputAnalyzer HanSolo
+Generated: 2014/08/12 08:54:37.909372912 UTC

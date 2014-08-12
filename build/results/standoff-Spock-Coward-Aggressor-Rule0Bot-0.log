@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Aggressor Rule0Bot
+                         Spock: Sb,N
+                        Coward: Sd,N
+                     Aggressor: P,Ta
+                      Rule0Bot: N,Sc
+Final Health:
+                         Spock: -3
+                        Coward: 0
+                     Aggressor: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Aggressor Rule0Bot
+Coward: Spock Aggressor Rule0Bot
+Aggressor: Spock Coward Rule0Bot
+Rule0Bot: Spock Coward Aggressor
+Generated: 2014/08/12 09:12:12.834749909 UTC

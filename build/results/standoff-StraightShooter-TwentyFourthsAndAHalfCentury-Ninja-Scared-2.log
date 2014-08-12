@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Ninja Scared
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+  TwentyFourthsAndAHalfCentury: N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Dd,Dd,Dc,Db,Da,Db,Db,Dc,Dc,Dd,Da,N,N
+                        Scared: N,Sc,N,N,N,N,Sa,N,Sa,N,Sc,N,Sc,N,Sa
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Scared StraightShooter Ninja
+Ninja: Scared StraightShooter TwentyFourthsAndAHalfCentury
+Scared: Ninja StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:33:20.142091071 UTC

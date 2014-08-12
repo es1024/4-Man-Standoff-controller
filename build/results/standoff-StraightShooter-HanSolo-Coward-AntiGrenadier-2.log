@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo Coward AntiGrenadier
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,N
+                       HanSolo: Sd,N,Sd,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sa,N,Sa,N,Sa,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: -3
+                        Coward: 5
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: AntiGrenadier HanSolo Coward
+HanSolo: AntiGrenadier StraightShooter Coward
+Coward: AntiGrenadier StraightShooter HanSolo
+AntiGrenadier: Coward StraightShooter HanSolo
+Generated: 2014/08/12 09:56:47.429080273 UTC

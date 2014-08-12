@@ -1,16 +1,16 @@
 Standoff between: Grenadier StraightShooter InputAnalyzer DONTNUKEMEBRO
-                     Grenadier: P,Td,N,N
-               StraightShooter: Sa,N,Sa,N
-                 InputAnalyzer: Dd,P,Db,Dd
-                 DONTNUKEMEBRO: Dc,Sa,N,N
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa
+                 InputAnalyzer: Dd,P,Dc,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Db,Sc,N,Dc,Dc,Dc,Dc,Da,Db,Db,Dc,Db,Db,Dc,Db,Da,Db,Dc,Db,Dc,Da,Db,Dc,Da,Dc,Db,Dc,Db,Db,Db,Db,Da,Da,Sb
 Final Health:
                      Grenadier: -2
-               StraightShooter: -1
-                 InputAnalyzer: -4
-                 DONTNUKEMEBRO: -3
+               StraightShooter: 0
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 Grenadier: DONTNUKEMEBRO StraightShooter InputAnalyzer
 StraightShooter: DONTNUKEMEBRO Grenadier InputAnalyzer
 InputAnalyzer: DONTNUKEMEBRO Grenadier StraightShooter
 DONTNUKEMEBRO: InputAnalyzer Grenadier StraightShooter
-Generated: 2014/08/11 00:59:59.677557894 UTC
+Generated: 2014/08/12 05:54:31.610237902 UTC

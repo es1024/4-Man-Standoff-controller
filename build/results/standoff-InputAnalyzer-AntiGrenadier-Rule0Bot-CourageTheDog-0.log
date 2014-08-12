@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer AntiGrenadier Rule0Bot CourageTheDog
+                 InputAnalyzer: Db,P,Db,N
+                 AntiGrenadier: N,N,Sa,N
+                      Rule0Bot: N,N,Sa,N
+                 CourageTheDog: Sb,N,P,Ta
+Final Health:
+                 InputAnalyzer: -11
+                 AntiGrenadier: -3
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Rule0Bot CourageTheDog
+AntiGrenadier: InputAnalyzer Rule0Bot CourageTheDog
+Rule0Bot: InputAnalyzer AntiGrenadier CourageTheDog
+CourageTheDog: InputAnalyzer AntiGrenadier Rule0Bot
+Generated: 2014/08/12 06:43:44.408082376 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Aggressor TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Dd,Dc,P
+                         Spock: Sd,N,Sa
+                     Aggressor: P,Td,Sa
+  TwentyFourthsAndAHalfCentury: Db,Da,N
+Final Health:
+                 InputAnalyzer: -8
+                         Spock: -1
+                     Aggressor: -1
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: TwentyFourthsAndAHalfCentury Spock Aggressor
+Spock: TwentyFourthsAndAHalfCentury InputAnalyzer Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury InputAnalyzer Spock
+TwentyFourthsAndAHalfCentury: Aggressor InputAnalyzer Spock
+Generated: 2014/08/12 07:44:55.707637888 UTC

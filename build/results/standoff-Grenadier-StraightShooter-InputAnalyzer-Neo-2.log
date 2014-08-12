@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter InputAnalyzer Neo
+                     Grenadier: N,N,N,N
+               StraightShooter: Sa,N,Sa,N
+                 InputAnalyzer: Dd,P,Sd,N
+                           Neo: N,N,N,N
+Final Health:
+                     Grenadier: -2
+               StraightShooter: 2
+                 InputAnalyzer: -1
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo StraightShooter InputAnalyzer
+StraightShooter: Neo Grenadier InputAnalyzer
+InputAnalyzer: Neo Grenadier StraightShooter
+Neo: InputAnalyzer Grenadier StraightShooter
+Generated: 2014/08/12 07:31:28.302140000 UTC

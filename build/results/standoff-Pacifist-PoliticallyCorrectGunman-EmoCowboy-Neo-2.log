@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman EmoCowboy Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Da,N,Dc,N,N,Dc,N,N,N,N,N,N,N,N,P,Ta,Sc,N,P,Sb
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,Db,Db,N,N,N,N,N,N,N,N,Db,Db,Db,N,N,Db,Db
+Final Health:
+                      Pacifist: -3
+      PoliticallyCorrectGunman: -8
+                     EmoCowboy: -2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo PoliticallyCorrectGunman EmoCowboy
+PoliticallyCorrectGunman: Neo Pacifist EmoCowboy
+EmoCowboy: Neo Pacifist PoliticallyCorrectGunman
+Neo: EmoCowboy Pacifist PoliticallyCorrectGunman
+Generated: 2014/08/12 07:36:46.598003760 UTC

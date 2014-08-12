@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Zaenille AntiGrenadier
+                        Coward: Sb,N,Sb,N,Sb,N,Sd
+                     Richochet: Sd,N,Sa,N,Sd,N,N
+                      Zaenille: Sc,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+                        Coward: 3
+                     Richochet: -1
+                      Zaenille: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Zaenille AntiGrenadier Richochet
+Richochet: Zaenille AntiGrenadier Coward
+Zaenille: Richochet AntiGrenadier Coward
+AntiGrenadier: Richochet Zaenille Coward
+Generated: 2014/08/12 08:39:56.258415988 UTC

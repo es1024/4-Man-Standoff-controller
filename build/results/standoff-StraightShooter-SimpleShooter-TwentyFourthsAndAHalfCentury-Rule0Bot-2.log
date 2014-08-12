@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 SimpleShooter: Sc,N,Sa,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Dd,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Dd,Da,Dd,Dd,Dd,Da,Dd,Dd,Dd,Da,Dd,Da,Dd,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -17
+                 SimpleShooter: -1
+  TwentyFourthsAndAHalfCentury: -17
+                      Rule0Bot: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Rule0Bot StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot StraightShooter SimpleShooter
+Rule0Bot: TwentyFourthsAndAHalfCentury StraightShooter SimpleShooter
+Generated: 2014/08/12 10:29:41.564323366 UTC

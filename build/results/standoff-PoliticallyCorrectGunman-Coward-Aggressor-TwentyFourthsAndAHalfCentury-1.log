@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward Aggressor TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Db,N,Sc
+                        Coward: Sa,N,N
+                     Aggressor: P,Tb,Sd
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da
+Final Health:
+      PoliticallyCorrectGunman: 2
+                        Coward: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor TwentyFourthsAndAHalfCentury Coward
+Coward: Aggressor TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Aggressor: Coward TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Coward Aggressor PoliticallyCorrectGunman
+Generated: 2014/08/12 09:37:30.820126783 UTC

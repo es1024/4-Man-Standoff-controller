@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey TwentyFourthsAndAHalfCentury Bomberman
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                        Monkey: N,N,N,Sd,N,Da,Db,Da,Da,N,N,Da,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,N,N,Sd,N,N,Db,Sd,N,Da,N,N,N,N,N,N,N,N,N,N,N,Sd
+  TwentyFourthsAndAHalfCentury: N,N,N,Db,Da,Db,Da,Db,Da,Db,Da,Db,Db,Db,Da,N,N,N,N,N,N,N,N,N,N,N,Da,Db,Da,Db,Db,Db,Da,Db,Da,Db,Da,Db,Db,N,N,N,N,N,N,N,N,N,N,Db
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                        Monkey: -15
+  TwentyFourthsAndAHalfCentury: -15
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Bomberman Monkey
+Monkey: TwentyFourthsAndAHalfCentury Bomberman StraightShooter
+TwentyFourthsAndAHalfCentury: Monkey Bomberman StraightShooter
+Bomberman: Monkey TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 10:08:37.533141688 UTC

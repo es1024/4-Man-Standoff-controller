@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dc,Dc,N,N,N,N,N,N,Da,N,Dd,Dd,Da,Dd,Da,Dd,Dd,Dd,Da,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N,Dd,Dd,Dd,Dd,Dd,Dd,Da,Dd,Da,Dd,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+  TwentyFourthsAndAHalfCentury: -15
+                     Bomberman: -1
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Bomberman Rule0Bot
+TwentyFourthsAndAHalfCentury: StraightShooter Bomberman Rule0Bot
+Bomberman: StraightShooter TwentyFourthsAndAHalfCentury Rule0Bot
+Rule0Bot: StraightShooter TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 08:06:41.744399138 UTC

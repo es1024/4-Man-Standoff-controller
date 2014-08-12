@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Spock Bomberman
+               StraightShooter: Sd,N,Sd
+      PoliticallyCorrectGunman: P,Td,N
+                         Spock: Sb,N,Sa
+                     Bomberman: N,N,N
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: 0
+                         Spock: 2
+                     Bomberman: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Spock Bomberman PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Spock Bomberman StraightShooter
+Spock: PoliticallyCorrectGunman Bomberman StraightShooter
+Bomberman: PoliticallyCorrectGunman Spock StraightShooter
+Generated: 2014/08/12 08:05:09.975680019 UTC

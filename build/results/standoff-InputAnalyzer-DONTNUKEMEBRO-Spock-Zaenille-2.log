@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock Zaenille
+                 InputAnalyzer: Dd,Dc,Dd,Dc,Dd,Dc,Dd,Sc,N,Sd,N,Dc,Dd,Sc,N,P,Db,Da
+                 DONTNUKEMEBRO: Dc,Da,Da,Da,Da,Da,Dc,Dc,Dd,Da,Dc,Da,Dc,Dd,Dd,Da,Sa,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                      Zaenille: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                 DONTNUKEMEBRO: 2
+                         Spock: -2
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Zaenille InputAnalyzer Spock
+Spock: Zaenille InputAnalyzer DONTNUKEMEBRO
+Zaenille: Spock InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:13:07.779403147 UTC

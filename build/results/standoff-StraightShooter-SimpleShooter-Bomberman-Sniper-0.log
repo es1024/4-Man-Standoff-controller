@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Bomberman Sniper
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sd,N,Sa,N,Sd
+                     Bomberman: N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,Sc,N,Sa
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: 3
+                     Bomberman: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Bomberman Sniper
+SimpleShooter: StraightShooter Bomberman Sniper
+Bomberman: StraightShooter SimpleShooter Sniper
+Sniper: StraightShooter SimpleShooter Bomberman
+Generated: 2014/08/12 08:09:48.847582996 UTC

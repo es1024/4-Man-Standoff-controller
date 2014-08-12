@@ -1,0 +1,16 @@
+Standoff between: AntiGrenadier Rule0Bot Neo CourageTheDog
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Dd,Dd,N,N,N,N,N,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,Dd,N,N,Dd,N,Dd,Da,Dd,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,N,Sa,N,N,Db,Da,Sc,N,Dc,Db,Sb,N,Dc,Sa,N,Dc,Dc,Dc,Sb,N,Da,Sc,N,Sc,N,Da,Dc,Da,Dc,Dc,Da,Sc,N,Da,Sa,N,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+AntiGrenadier: Rule0Bot Neo CourageTheDog
+Rule0Bot: AntiGrenadier Neo CourageTheDog
+Neo: AntiGrenadier Rule0Bot CourageTheDog
+CourageTheDog: AntiGrenadier Rule0Bot Neo
+Generated: 2014/08/12 07:48:08.695444180 UTC

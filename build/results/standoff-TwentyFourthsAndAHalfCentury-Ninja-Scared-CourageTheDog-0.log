@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Ninja Scared CourageTheDog
+  TwentyFourthsAndAHalfCentury: Db,Db,Dc,Dd,Dd,Db,Dc,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Db,Dd,Dc,Db,Da,Db,Da,Db,Dd,Dc,Db,Dd,Db,Dd,Da,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,Sb,N,Sd,N,Sd
+                 CourageTheDog: Sa,N,Db,Da,Sc,N,Sb,N,N,Da,Dc,Db,Sa,N,Db,Dc,Db,Dc,Dc,Sc,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                         Ninja: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Ninja Scared CourageTheDog
+Ninja: TwentyFourthsAndAHalfCentury Scared CourageTheDog
+Scared: TwentyFourthsAndAHalfCentury Ninja CourageTheDog
+CourageTheDog: TwentyFourthsAndAHalfCentury Ninja Scared
+Generated: 2014/08/12 06:39:47.498471692 UTC

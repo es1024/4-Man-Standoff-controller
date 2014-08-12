@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Aggressor Ninja
+                      Pacifist: N,N,N
+               StraightShooter: Sa,N,Sa
+                     Aggressor: P,Td,Sb
+                         Ninja: Dd,Dd,N
+Final Health:
+                      Pacifist: 0
+               StraightShooter: 0
+                     Aggressor: 2
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja StraightShooter Aggressor
+StraightShooter: Ninja Pacifist Aggressor
+Aggressor: Ninja Pacifist StraightShooter
+Ninja: Aggressor Pacifist StraightShooter
+Generated: 2014/08/12 07:17:00.262195948 UTC

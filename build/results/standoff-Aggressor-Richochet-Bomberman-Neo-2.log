@@ -1,0 +1,16 @@
+Standoff between: Aggressor Richochet Bomberman Neo
+                     Aggressor: P,Td,N
+                     Richochet: Sa,N,Sc
+                     Bomberman: N,N,N
+                           Neo: N,N,N
+Final Health:
+                     Aggressor: 0
+                     Richochet: 2
+                     Bomberman: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Neo Richochet Bomberman
+Richochet: Neo Aggressor Bomberman
+Bomberman: Neo Aggressor Richochet
+Neo: Bomberman Aggressor Richochet
+Generated: 2014/08/12 09:34:45.002368589 UTC

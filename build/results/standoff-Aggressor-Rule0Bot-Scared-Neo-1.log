@@ -1,0 +1,16 @@
+Standoff between: Aggressor Rule0Bot Scared Neo
+                     Aggressor: P,Tc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Da,Da,N,N,Da,Da,Da,N,N,N,N,N,N,N,N,N,N,Da,Da,Da,Da,N,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,Da,Da,Da,N,Da,N,Da
+Final Health:
+                     Aggressor: 0
+                      Rule0Bot: -18
+                        Scared: -3
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Scared Neo Rule0Bot
+Rule0Bot: Scared Neo Aggressor
+Scared: Rule0Bot Neo Aggressor
+Neo: Rule0Bot Scared Aggressor
+Generated: 2014/08/12 08:19:39.154934766 UTC

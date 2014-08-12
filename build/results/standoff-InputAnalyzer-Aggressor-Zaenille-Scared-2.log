@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Zaenille Scared
+                 InputAnalyzer: Dd,Sb
+                     Aggressor: P,Td
+                      Zaenille: Sc,N
+                        Scared: N,N
+Final Health:
+                 InputAnalyzer: 2
+                     Aggressor: 0
+                      Zaenille: -2
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Scared Aggressor Zaenille
+Aggressor: Scared InputAnalyzer Zaenille
+Zaenille: Scared InputAnalyzer Aggressor
+Scared: Zaenille InputAnalyzer Aggressor
+Generated: 2014/08/12 06:08:07.529450637 UTC

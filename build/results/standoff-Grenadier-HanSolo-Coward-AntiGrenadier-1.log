@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Coward AntiGrenadier
+                     Grenadier: N,P,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sd
+                        Coward: Sa,N,Sa,N,N
+                 AntiGrenadier: N,N,Sa,N,N
+Final Health:
+                     Grenadier: -7
+                       HanSolo: 2
+                        Coward: -2
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward AntiGrenadier HanSolo
+HanSolo: Coward AntiGrenadier Grenadier
+Coward: HanSolo AntiGrenadier Grenadier
+AntiGrenadier: HanSolo Coward Grenadier
+Generated: 2014/08/12 10:17:50.430875109 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter Richochet Zaenille
+      PoliticallyCorrectGunman: N,N,Sd,N,Dd,Sa,N
+                 SimpleShooter: Sa,N,Sc,N,Sc,N,Sc
+                     Richochet: Sa,N,Sb,N,Sb,N,Sb
+                      Zaenille: Sd,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: -1
+                     Richochet: -1
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Richochet Zaenille SimpleShooter
+SimpleShooter: Richochet Zaenille PoliticallyCorrectGunman
+Richochet: SimpleShooter Zaenille PoliticallyCorrectGunman
+Zaenille: SimpleShooter Richochet PoliticallyCorrectGunman
+Generated: 2014/08/12 08:34:37.818856412 UTC

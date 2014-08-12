@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo TwentyFourthsAndAHalfCentury EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Dd,N,Db,Da,Da,Da,Da,Sb,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: 1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: EmoCowboy HanSolo TwentyFourthsAndAHalfCentury
+HanSolo: EmoCowboy Pacifist TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Pacifist HanSolo
+EmoCowboy: TwentyFourthsAndAHalfCentury Pacifist HanSolo
+Generated: 2014/08/12 05:46:04.022765579 UTC

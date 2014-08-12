@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman HanSolo Zaenille
+               StraightShooter: Sb,N,Sb,N,Sb
+      PoliticallyCorrectGunman: Sd,N,N,P,Sd
+                       HanSolo: Sd,N,Sa,N,Sa
+                      Zaenille: Sd,N,N,N,N
+Final Health:
+               StraightShooter: -2
+      PoliticallyCorrectGunman: -7
+                       HanSolo: 2
+                      Zaenille: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille PoliticallyCorrectGunman HanSolo
+PoliticallyCorrectGunman: Zaenille StraightShooter HanSolo
+HanSolo: Zaenille StraightShooter PoliticallyCorrectGunman
+Zaenille: HanSolo StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 10:11:35.244045994 UTC

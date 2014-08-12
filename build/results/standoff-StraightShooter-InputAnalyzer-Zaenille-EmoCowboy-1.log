@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer Zaenille EmoCowboy
+               StraightShooter: Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,Db,Db,P,Sb
+                      Zaenille: Sc,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N
+Final Health:
+               StraightShooter: 2
+                 InputAnalyzer: -8
+                      Zaenille: -2
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Zaenille EmoCowboy InputAnalyzer
+InputAnalyzer: Zaenille EmoCowboy StraightShooter
+Zaenille: InputAnalyzer EmoCowboy StraightShooter
+EmoCowboy: InputAnalyzer Zaenille StraightShooter
+Generated: 2014/08/12 08:16:15.834793520 UTC

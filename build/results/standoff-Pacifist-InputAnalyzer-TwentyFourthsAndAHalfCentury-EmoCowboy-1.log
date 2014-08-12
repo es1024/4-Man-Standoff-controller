@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury EmoCowboy
+                      Pacifist: N,N,N,N,N,N
+                 InputAnalyzer: Dc,Da,P,Sc,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N
+                     EmoCowboy: N,N,N,N,N,Sd
+Final Health:
+                      Pacifist: 2
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury EmoCowboy InputAnalyzer
+InputAnalyzer: TwentyFourthsAndAHalfCentury EmoCowboy Pacifist
+TwentyFourthsAndAHalfCentury: InputAnalyzer EmoCowboy Pacifist
+EmoCowboy: InputAnalyzer TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 09:57:39.983308239 UTC

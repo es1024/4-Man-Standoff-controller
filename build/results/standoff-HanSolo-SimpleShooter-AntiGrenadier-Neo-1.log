@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter AntiGrenadier Neo
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sb
+                 SimpleShooter: Sa,N,Sd,N,Sa,N,Sd,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Da,Dc,Da,Sb,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Neo SimpleShooter
+SimpleShooter: AntiGrenadier Neo HanSolo
+AntiGrenadier: SimpleShooter Neo HanSolo
+Neo: SimpleShooter AntiGrenadier HanSolo
+Generated: 2014/08/12 08:41:55.274587665 UTC

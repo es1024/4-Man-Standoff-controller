@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Monkey CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                     Richochet: Sd,N,Sc,N,Sa,N,Sd,N,Sd
+                        Monkey: N,Sb,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Db,Db,Sa,N,Sa
+Final Health:
+               StraightShooter: -1
+                     Richochet: 1
+                        Monkey: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Richochet Monkey CourageTheDog
+Richochet: StraightShooter Monkey CourageTheDog
+Monkey: StraightShooter Richochet CourageTheDog
+CourageTheDog: StraightShooter Richochet Monkey
+Generated: 2014/08/12 10:04:20.713885611 UTC

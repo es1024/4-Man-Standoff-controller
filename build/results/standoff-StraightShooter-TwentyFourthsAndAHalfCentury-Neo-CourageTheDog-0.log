@@ -1,0 +1,16 @@
+Standoff between: StraightShooter TwentyFourthsAndAHalfCentury Neo CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: N,Dc,Dd,Dc,Dd,Dd,Da,Dd,Da,N,N,N,N,N,N,Dd,Da,Dd,Da,Dd,Dd,Dd,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,Dd,N,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sc,N,Da,Db,Db,Sb,N,Sb,N,Sa,N,Db,Da,Da,Db,Sa,N,Da,Da,Da,Da,Db,Da,Da,Da,Sb,N,Da,Da,Da,Da,Da,Da,Da,Da,Da,Sa
+Final Health:
+               StraightShooter: -1
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Neo CourageTheDog
+TwentyFourthsAndAHalfCentury: StraightShooter Neo CourageTheDog
+Neo: StraightShooter TwentyFourthsAndAHalfCentury CourageTheDog
+CourageTheDog: StraightShooter TwentyFourthsAndAHalfCentury Neo
+Generated: 2014/08/12 09:12:24.865072668 UTC

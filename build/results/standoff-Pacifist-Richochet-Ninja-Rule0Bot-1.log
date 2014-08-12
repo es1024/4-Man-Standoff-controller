@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Ninja Rule0Bot
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                         Ninja: Dc,Dc,Dc,Dd,Da,Da,Da,Da,Dd,Dd,Dd,Da,Da,Dc,Dc,Db,Da
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                         Ninja: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja Rule0Bot Richochet
+Richochet: Ninja Rule0Bot Pacifist
+Ninja: Richochet Rule0Bot Pacifist
+Rule0Bot: Richochet Ninja Pacifist
+Generated: 2014/08/12 10:34:55.863340788 UTC

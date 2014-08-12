@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter AntiGrenadier Sniper CourageTheDog
+                 SimpleShooter: Sb,N,Sd,N,Sd,N,Sc,N,Sd,N,Sd,N,Sd,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Da,Dc,Sa,N,Dc,Sc,N,Da,Da,Sa,N,N
+Final Health:
+                 SimpleShooter: 1
+                 AntiGrenadier: -1
+                        Sniper: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Sniper CourageTheDog AntiGrenadier
+AntiGrenadier: Sniper CourageTheDog SimpleShooter
+Sniper: AntiGrenadier CourageTheDog SimpleShooter
+CourageTheDog: AntiGrenadier Sniper SimpleShooter
+Generated: 2014/08/12 07:34:57.793273302 UTC

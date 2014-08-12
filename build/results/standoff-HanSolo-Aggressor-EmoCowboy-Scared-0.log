@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor EmoCowboy Scared
+                       HanSolo: Sb,N
+                     Aggressor: P,Ta
+                     EmoCowboy: N,Sc
+                        Scared: N,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 0
+                     EmoCowboy: -5
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor EmoCowboy Scared
+Aggressor: HanSolo EmoCowboy Scared
+EmoCowboy: HanSolo Aggressor Scared
+Scared: HanSolo Aggressor EmoCowboy
+Generated: 2014/08/12 07:15:38.982674409 UTC

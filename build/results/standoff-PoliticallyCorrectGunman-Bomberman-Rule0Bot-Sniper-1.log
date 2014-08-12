@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Rule0Bot Sniper
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,Sb,N,N,N,Dc,Sd,N,Db,Sb,N,Db,Dc,P,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                     Bomberman: -1
+                      Rule0Bot: 0
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot Sniper Bomberman
+Bomberman: Rule0Bot Sniper PoliticallyCorrectGunman
+Rule0Bot: Bomberman Sniper PoliticallyCorrectGunman
+Sniper: Bomberman Rule0Bot PoliticallyCorrectGunman
+Generated: 2014/08/12 10:49:00.194930859 UTC

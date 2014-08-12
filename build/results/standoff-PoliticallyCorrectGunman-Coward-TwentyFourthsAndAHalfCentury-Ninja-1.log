@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Coward TwentyFourthsAndAHalfCentury Ninja
+      PoliticallyCorrectGunman: Sc,N,P,Sc,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,Dd,Db,N,N,N,N
+                         Ninja: Db,Dc,Db,Da,Dc,Db,Db,Dd,Dd
+Final Health:
+      PoliticallyCorrectGunman: -7
+                        Coward: 2
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Ninja Coward
+Coward: TwentyFourthsAndAHalfCentury Ninja PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Coward Ninja PoliticallyCorrectGunman
+Ninja: Coward TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 07:31:11.748070067 UTC

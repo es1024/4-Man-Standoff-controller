@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Spock Ninja
+                 InputAnalyzer: Dd,Da,Dc,Sb,N,Sb,N,Sa,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Da,Da,Sa,N,Sa,N,Da,Sc
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb
+                         Ninja: Db,Da,Da,Da,Dc,Dc,Db,N,N,N,N
+Final Health:
+                 InputAnalyzer: -4
+                 DONTNUKEMEBRO: -1
+                         Spock: 3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Ninja DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: Ninja InputAnalyzer Spock
+Spock: Ninja InputAnalyzer DONTNUKEMEBRO
+Ninja: Spock InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 10:02:41.023859758 UTC

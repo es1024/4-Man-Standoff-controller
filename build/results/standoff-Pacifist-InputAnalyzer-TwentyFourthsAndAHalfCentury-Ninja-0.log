@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury Ninja
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 InputAnalyzer: Da,Dd,Da,Dd,Sa,N,Da,Sd,N,Dd,Db,Sc,N,Dc,Sd,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Sb,N,Sb,N,Sa,N,Sd,N,Sb,N,Sb,N,Sa,N,Sd,N,Sd
+                         Ninja: Da,Dd,Db,Da,Dd,Db,Dc,Dc,Da,Dd,Db,Dc,Dc,Dd,Db,Db,Dc,Dc,Dd,Db,Dd,Da
+Final Health:
+                      Pacifist: -1
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer TwentyFourthsAndAHalfCentury Ninja
+InputAnalyzer: Pacifist TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Pacifist InputAnalyzer Ninja
+Ninja: Pacifist InputAnalyzer TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:18:45.042758439 UTC

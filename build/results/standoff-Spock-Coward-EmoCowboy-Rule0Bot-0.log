@@ -1,0 +1,16 @@
+Standoff between: Spock Coward EmoCowboy Rule0Bot
+                         Spock: Sb,N,Sb,N,Sb,N,N,Sd,N,N,Sd
+                        Coward: Sd,N,Sa,N,Sa,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: 1
+                        Coward: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward EmoCowboy Rule0Bot
+Coward: Spock EmoCowboy Rule0Bot
+EmoCowboy: Spock Coward Rule0Bot
+Rule0Bot: Spock Coward EmoCowboy
+Generated: 2014/08/12 06:50:05.854973600 UTC

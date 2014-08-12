@@ -1,0 +1,16 @@
+Standoff between: Grenadier Zaenille Ninja Rule0Bot
+                     Grenadier: P,Tc,P,Td
+                      Zaenille: Sb,N,N,N
+                         Ninja: Da,Dd,N,N
+                      Rule0Bot: N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Zaenille: -2
+                         Ninja: -3
+                      Rule0Bot: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Zaenille Ninja Rule0Bot
+Zaenille: Grenadier Ninja Rule0Bot
+Ninja: Grenadier Zaenille Rule0Bot
+Rule0Bot: Grenadier Zaenille Ninja
+Generated: 2014/08/12 06:14:37.315527774 UTC

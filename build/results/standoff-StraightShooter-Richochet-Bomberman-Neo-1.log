@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Bomberman Neo
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                     Richochet: Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: 5
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Neo Richochet
+Richochet: Bomberman Neo StraightShooter
+Bomberman: Richochet Neo StraightShooter
+Neo: Richochet Bomberman StraightShooter
+Generated: 2014/08/12 10:23:16.864350923 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Zaenille CourageTheDog
+                 InputAnalyzer: Dd,Da,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sd,N,Sd,N,Dc,Dd,Dc,Dc,Sd,N,Dc,Dc,Dc,Sd,N,Dc,Sd,N,Dc
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Sb,N,Db,Db,Sb,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sb
+Final Health:
+                 InputAnalyzer: -4
+                        Coward: -1
+                      Zaenille: -4
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Coward Zaenille
+Coward: CourageTheDog InputAnalyzer Zaenille
+Zaenille: CourageTheDog InputAnalyzer Coward
+CourageTheDog: Zaenille InputAnalyzer Coward
+Generated: 2014/08/12 08:37:59.032331303 UTC

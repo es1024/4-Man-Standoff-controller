@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Spock Richochet
+                     Grenadier: P,Tb
+                 InputAnalyzer: Da,Sd
+                         Spock: Sa,N
+                     Richochet: Sa,N
+Final Health:
+                     Grenadier: -2
+                 InputAnalyzer: -3
+                         Spock: 2
+                     Richochet: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Spock Richochet
+InputAnalyzer: Grenadier Spock Richochet
+Spock: Grenadier InputAnalyzer Richochet
+Richochet: Grenadier InputAnalyzer Spock
+Generated: 2014/08/12 09:57:56.213747598 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor AntiGrenadier Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,N,N
+                     Aggressor: P,Tc,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,Sb,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,Da
+Final Health:
+                     Grenadier: -4
+                     Aggressor: 0
+                 AntiGrenadier: -3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: AntiGrenadier Neo Aggressor
+Aggressor: AntiGrenadier Neo Grenadier
+AntiGrenadier: Aggressor Neo Grenadier
+Neo: Aggressor AntiGrenadier Grenadier
+Generated: 2014/08/12 06:03:40.652147704 UTC

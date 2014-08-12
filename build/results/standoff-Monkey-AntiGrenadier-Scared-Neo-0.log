@@ -1,0 +1,16 @@
+Standoff between: Monkey AntiGrenadier Scared Neo
+                        Monkey: N,N,N,N,N,N,Db,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,Sb,N,Sa,N,Sd,N,Sd,N,N,N,N,N,N,N,N,Sd,N,Sb,N,Sd,N,Sa,N,N,N,N,N,N,N,N,Sd,N,Sa
+                           Neo: N,N,N,N,N,Db,N,N,Dc,N,N,N,N,N,N,N,N,N,N,Dc,N,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -1
+                 AntiGrenadier: -1
+                        Scared: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: AntiGrenadier Scared Neo
+AntiGrenadier: Monkey Scared Neo
+Scared: Monkey AntiGrenadier Neo
+Neo: Monkey AntiGrenadier Scared
+Generated: 2014/08/12 06:39:46.158313285 UTC

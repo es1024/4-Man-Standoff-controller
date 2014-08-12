@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Ninja Scared
+                 InputAnalyzer: Db,Sd,N,Db,Dd,Db,Dd,P,Dc,Sa
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sa,N,Sd,N
+                         Ninja: Dd,Dc,Dc,Da,Dc,Dd,Dd,Db,Dc,Dd
+                        Scared: N,N,N,Sa,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                 SimpleShooter: 2
+                         Ninja: -2
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Ninja Scared
+SimpleShooter: InputAnalyzer Ninja Scared
+Ninja: InputAnalyzer SimpleShooter Scared
+Scared: InputAnalyzer SimpleShooter Ninja
+Generated: 2014/08/12 07:50:36.347789555 UTC

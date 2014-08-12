@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+                 DONTNUKEMEBRO: Dc,Dd,Dc,Dd,Db,Dc,Dd,Db,Dd,Db,Dc,Dc,Dd,Db,Dd,Dd,Dc,Db,Dc,Db,Dd,Dd,Dd,Dc,Sb
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dd,Dc,Dc,N,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Sc,N,Da,N,N,Dc,Da,Dc,Da,Db,Sb,N,Da,N,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: 1
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: CourageTheDog DONTNUKEMEBRO Bomberman
+Bomberman: CourageTheDog DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+CourageTheDog: Bomberman DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:50:57.702350617 UTC

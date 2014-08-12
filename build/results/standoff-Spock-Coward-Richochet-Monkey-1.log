@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Richochet Monkey
+                         Spock: Sc,N,Sc,N,Sd,N
+                        Coward: Sa,N,Sa,N,Sa,N
+                     Richochet: Sd,N,Sb,N,N,N
+                        Monkey: N,Sc,N,Sc,N,Sd
+Final Health:
+                         Spock: -1
+                        Coward: 3
+                     Richochet: -1
+                        Monkey: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Richochet Monkey Coward
+Coward: Richochet Monkey Spock
+Richochet: Coward Monkey Spock
+Monkey: Coward Richochet Spock
+Generated: 2014/08/12 10:22:54.372818780 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Spock TwentyFourthsAndAHalfCentury
+      PoliticallyCorrectGunman: Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                         Spock: Sd,N,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Da,Da,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 5
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury HanSolo Spock
+HanSolo: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Spock
+Spock: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman HanSolo
+TwentyFourthsAndAHalfCentury: Spock PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 10:02:34.468348979 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer HanSolo Coward
+                     Grenadier: N,N,P,N,N
+                 InputAnalyzer: Dc,Sa,N,N,N
+                       HanSolo: Sb,N,Sb,N,Sd
+                        Coward: Sa,N,Sa,N,Sc
+Final Health:
+                     Grenadier: -7
+                 InputAnalyzer: 0
+                       HanSolo: 0
+                        Coward: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo Coward InputAnalyzer
+InputAnalyzer: HanSolo Coward Grenadier
+HanSolo: InputAnalyzer Coward Grenadier
+Coward: InputAnalyzer HanSolo Grenadier
+Generated: 2014/08/12 08:20:30.862096581 UTC

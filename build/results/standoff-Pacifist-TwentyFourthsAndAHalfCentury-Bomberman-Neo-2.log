@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Bomberman Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Sd,N,Sc,N,N,N,N,N,N,Sc,N,Sc,N,Sa,N,N,Sa,N,N,Sd,N,Sd,N,Sa,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,Db,Da,N,N,N,N,N,N,N,Db,Da,N,N,N,N,N,N,N,N,N,N,N,Da,N,Sb,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 3
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Neo Pacifist Bomberman
+Bomberman: Neo Pacifist TwentyFourthsAndAHalfCentury
+Neo: Bomberman Pacifist TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:31:49.248251962 UTC

@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet Ninja Rule0Bot
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                     Richochet: Sd,N,Sd,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dd,Db,Db,Dc,Dd,Dd,Dc,Da,Dc,Dd,Dd,Dd,Dc,Dc,Dc,Dc,Da,Dd,Dd,Dd,Db,Db,Dc,Dc,Dc,Dc,Dc,Dd,Dd,Dd,Db,Db,Dc,Dc,Da,Da,Db,Db,Dd,Db,Db,Dc,Dc,Da,Da,Dc,Db,Dd,Dd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                     Richochet: -1
+                         Ninja: -17
+                      Rule0Bot: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Rule0Bot Richochet Ninja
+Richochet: Rule0Bot StraightShooter Ninja
+Ninja: Rule0Bot StraightShooter Richochet
+Rule0Bot: Ninja StraightShooter Richochet
+Generated: 2014/08/12 06:57:24.142484067 UTC

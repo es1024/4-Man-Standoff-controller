@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer PoliticallyCorrectGunman Monkey Neo
+                 InputAnalyzer: Dc,Db,P,N,Sa,N,N
+      PoliticallyCorrectGunman: Dc,Dd,Sa,N,Sc,N,Sb
+                        Monkey: N,Dc,Db,N,N,N,N
+                           Neo: N,Da,N,N,N,Dc,N
+Final Health:
+                 InputAnalyzer: -8
+      PoliticallyCorrectGunman: -2
+                        Monkey: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Neo PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Monkey Neo InputAnalyzer
+Monkey: PoliticallyCorrectGunman Neo InputAnalyzer
+Neo: PoliticallyCorrectGunman Monkey InputAnalyzer
+Generated: 2014/08/12 06:48:47.349050981 UTC

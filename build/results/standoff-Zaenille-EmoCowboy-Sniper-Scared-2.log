@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy Sniper Scared
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,Sc,N,N,N,N,Sc
+Final Health:
+                      Zaenille: -4
+                     EmoCowboy: -4
+                        Sniper: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Scared EmoCowboy Sniper
+EmoCowboy: Scared Zaenille Sniper
+Sniper: Scared Zaenille EmoCowboy
+Scared: Sniper Zaenille EmoCowboy
+Generated: 2014/08/12 08:53:06.661963737 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Coward Richochet
+                 InputAnalyzer: Db,Sd,N,Sd,N,Sd,N
+                         Spock: N,N,N,N,Sc,N,Sc
+                        Coward: Sd,N,Sd,N,Sb,N,Sb
+                     Richochet: Sc,N,Sb,N,N,N,N
+Final Health:
+                 InputAnalyzer: 5
+                         Spock: -1
+                        Coward: -1
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Coward Richochet
+Spock: InputAnalyzer Coward Richochet
+Coward: InputAnalyzer Spock Richochet
+Richochet: InputAnalyzer Spock Coward
+Generated: 2014/08/12 10:10:31.570013261 UTC

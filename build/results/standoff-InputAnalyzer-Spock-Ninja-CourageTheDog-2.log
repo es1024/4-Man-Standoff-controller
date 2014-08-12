@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Ninja CourageTheDog
+                 InputAnalyzer: Dd,P,N,Dd
+                         Spock: Sd,N,Sd,N
+                         Ninja: Da,Dd,Da,Dd
+                 CourageTheDog: Sb,N,P,Tb
+Final Health:
+                 InputAnalyzer: -4
+                         Spock: -8
+                         Ninja: -1
+                 CourageTheDog: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: CourageTheDog Spock Ninja
+Spock: CourageTheDog InputAnalyzer Ninja
+Ninja: CourageTheDog InputAnalyzer Spock
+CourageTheDog: Ninja InputAnalyzer Spock
+Generated: 2014/08/12 09:08:10.509523900 UTC

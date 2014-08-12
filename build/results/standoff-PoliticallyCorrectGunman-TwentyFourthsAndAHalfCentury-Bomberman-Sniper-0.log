@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman Sniper
+      PoliticallyCorrectGunman: Db,Sc,N,Db,N,N,N,N,Sb,N,Dd,N,Sa,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dc,Dc,Da,N,N,Dc,N,N,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sa,N,Sc,N,Sc,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: 3
+                     Bomberman: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Bomberman Sniper
+TwentyFourthsAndAHalfCentury: PoliticallyCorrectGunman Bomberman Sniper
+Bomberman: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Sniper
+Sniper: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 07:04:48.881740388 UTC

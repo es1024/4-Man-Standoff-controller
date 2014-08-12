@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter TwentyFourthsAndAHalfCentury EmoCowboy
+                     Grenadier: N,P,N,N
+               StraightShooter: Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: Db,Da,N,N
+                     EmoCowboy: Sd,N,N,N
+Final Health:
+                     Grenadier: -1
+               StraightShooter: 2
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter TwentyFourthsAndAHalfCentury EmoCowboy
+StraightShooter: Grenadier TwentyFourthsAndAHalfCentury EmoCowboy
+TwentyFourthsAndAHalfCentury: Grenadier StraightShooter EmoCowboy
+EmoCowboy: Grenadier StraightShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 07:25:02.383728946 UTC

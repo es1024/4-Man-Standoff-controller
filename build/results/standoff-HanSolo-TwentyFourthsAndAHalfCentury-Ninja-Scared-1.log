@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Ninja Scared
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dd,N,N,N,N,N,N,Sa,N,Sa
+                         Ninja: Dc,Db,Dc,N,N,N,N,N,N,N,N,N
+                        Scared: Sc,N,Sb,N,N,Sb,N,N,Sa,N,N,N
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: 1
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Ninja Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja Scared HanSolo
+Ninja: TwentyFourthsAndAHalfCentury Scared HanSolo
+Scared: TwentyFourthsAndAHalfCentury Ninja HanSolo
+Generated: 2014/08/12 09:25:34.178164619 UTC

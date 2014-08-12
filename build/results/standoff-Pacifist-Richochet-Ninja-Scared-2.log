@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Ninja Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sd,N,Sd,N,Sa,N,Sd,N,Sa,N,Sc,N,Sc,N,Sc
+                         Ninja: Da,Dd,Dd,Dc,Dc,Db,Db,Dc,Dc,Db,Da,Da,Db,Dd,Dc
+                        Scared: Sa,N,Sb,N,Sc,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 3
+                         Ninja: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Scared Richochet Ninja
+Richochet: Scared Pacifist Ninja
+Ninja: Scared Pacifist Richochet
+Scared: Ninja Pacifist Richochet
+Generated: 2014/08/12 06:40:24.018737888 UTC

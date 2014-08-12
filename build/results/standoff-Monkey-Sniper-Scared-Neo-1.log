@@ -1,0 +1,16 @@
+Standoff between: Monkey Sniper Scared Neo
+                        Monkey: N,N,N,Sd,N,N,N,Sb,N,N,Sa,N
+                        Sniper: Sc,N,Sd,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,Sd,N,Sa,N,Sb,N,N,Sa,N,Sb
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -2
+                        Sniper: -1
+                        Scared: 3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Scared Neo Sniper
+Sniper: Scared Neo Monkey
+Scared: Sniper Neo Monkey
+Neo: Sniper Scared Monkey
+Generated: 2014/08/12 07:53:44.399548269 UTC

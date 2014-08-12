@@ -1,0 +1,16 @@
+Standoff between: Aggressor Ninja Rule0Bot CourageTheDog
+                     Aggressor: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Dd,Dc,Da,Da,Db,Dd,Dc,Dc,Db,Dc,Da,Dc,Dc,Db,Dd,Db,Db,Dd,Dd,Dc,Dd,Dd,Db,Db,Db,Db,Dd,Dd,Dc,Db,Da,Dc,Dc,Dc,Dc,Db,Db,Db,Dc,Dd,Dd,Dd,Db,Db,Db,Dd,Dc,Dc,Dc
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Aggressor: 0
+                         Ninja: -18
+                      Rule0Bot: -18
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: CourageTheDog Ninja Rule0Bot
+Ninja: CourageTheDog Aggressor Rule0Bot
+Rule0Bot: CourageTheDog Aggressor Ninja
+CourageTheDog: Rule0Bot Aggressor Ninja
+Generated: 2014/08/12 10:45:29.727366117 UTC

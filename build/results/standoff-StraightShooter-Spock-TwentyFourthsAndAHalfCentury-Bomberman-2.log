@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock TwentyFourthsAndAHalfCentury Bomberman
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                         Spock: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Dd,Da,Dd,Da,Dd,Dd,Dd,Dd,N,N,N,N,N,N,N,Dd,Dd,Da,Dd,Dd,Dd,Dd,Dd,Dd,Dd,N,N,N,N,Da,Dd,Da,Dd,Da,Dd,N,N,N,N,N,N,N,N,N,Dd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -15
+                     Bomberman: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Bomberman Spock TwentyFourthsAndAHalfCentury
+Spock: Bomberman StraightShooter TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman StraightShooter Spock
+Bomberman: TwentyFourthsAndAHalfCentury StraightShooter Spock
+Generated: 2014/08/12 08:00:46.512771381 UTC

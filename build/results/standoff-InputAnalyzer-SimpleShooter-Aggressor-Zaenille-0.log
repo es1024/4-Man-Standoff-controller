@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter Aggressor Zaenille
+                 InputAnalyzer: Db,P
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Ta
+                      Zaenille: Sd,N
+Final Health:
+                 InputAnalyzer: -9
+                 SimpleShooter: -1
+                     Aggressor: -1
+                      Zaenille: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter Aggressor Zaenille
+SimpleShooter: InputAnalyzer Aggressor Zaenille
+Aggressor: InputAnalyzer SimpleShooter Zaenille
+Zaenille: InputAnalyzer SimpleShooter Aggressor
+Generated: 2014/08/12 10:03:00.226318524 UTC

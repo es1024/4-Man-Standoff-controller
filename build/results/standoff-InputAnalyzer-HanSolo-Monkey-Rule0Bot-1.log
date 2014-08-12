@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Monkey Rule0Bot
+                 InputAnalyzer: Dc,P,Dc,N,N
+                       HanSolo: Sc,N,Sc,N,Sd
+                        Monkey: N,N,N,N,N
+                      Rule0Bot: N,N,Sa,N,N
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 2
+                        Monkey: -2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Rule0Bot HanSolo
+HanSolo: Monkey Rule0Bot InputAnalyzer
+Monkey: HanSolo Rule0Bot InputAnalyzer
+Rule0Bot: HanSolo Monkey InputAnalyzer
+Generated: 2014/08/12 08:37:24.369472922 UTC

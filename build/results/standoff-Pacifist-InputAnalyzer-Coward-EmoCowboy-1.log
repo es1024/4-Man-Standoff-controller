@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Coward EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Dc,Sa,N,Da,P,Db,Da
+                        Coward: Sa,N,Sb,N,Sb,N,Sb
+                     EmoCowboy: Sd,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -2
+                 InputAnalyzer: -7
+                        Coward: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Coward EmoCowboy InputAnalyzer
+InputAnalyzer: Coward EmoCowboy Pacifist
+Coward: InputAnalyzer EmoCowboy Pacifist
+EmoCowboy: InputAnalyzer Coward Pacifist
+Generated: 2014/08/12 07:12:14.059985341 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Rule0Bot Scared
+                 SimpleShooter: Sd,N,Sc,N,Sc,N,Sb,N,N
+                     Richochet: Sa,N,Sd,N,Sc,N,Sa,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,N,N,N,Sa,N,N,Sb
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Rule0Bot Scared
+Richochet: SimpleShooter Rule0Bot Scared
+Rule0Bot: SimpleShooter Richochet Scared
+Scared: SimpleShooter Richochet Rule0Bot
+Generated: 2014/08/12 06:08:20.221762106 UTC

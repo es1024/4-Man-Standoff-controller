@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo TwentyFourthsAndAHalfCentury Bomberman
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sc,N,Sd,N,N,Sd,N,Sd,N,Sa,N,Sa,N,Sa
+  TwentyFourthsAndAHalfCentury: Dd,Da,Dd,Dd,Db,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,Da,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Bomberman HanSolo
+HanSolo: TwentyFourthsAndAHalfCentury Bomberman Pacifist
+TwentyFourthsAndAHalfCentury: HanSolo Bomberman Pacifist
+Bomberman: HanSolo TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 07:28:30.488828730 UTC

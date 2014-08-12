@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor Richochet CourageTheDog
+                       HanSolo: Sc,N
+                     Aggressor: P,Ta
+                     Richochet: Sd,N
+                 CourageTheDog: Sb,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: 0
+                     Richochet: 0
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet CourageTheDog Aggressor
+Aggressor: Richochet CourageTheDog HanSolo
+Richochet: Aggressor CourageTheDog HanSolo
+CourageTheDog: Aggressor Richochet HanSolo
+Generated: 2014/08/12 09:52:30.628980220 UTC

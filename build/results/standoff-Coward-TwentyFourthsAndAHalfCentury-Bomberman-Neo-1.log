@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Bomberman Neo
+                        Coward: Sb,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Da,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Bomberman Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Neo Coward
+Bomberman: TwentyFourthsAndAHalfCentury Neo Coward
+Neo: TwentyFourthsAndAHalfCentury Bomberman Coward
+Generated: 2014/08/12 10:06:56.154223498 UTC

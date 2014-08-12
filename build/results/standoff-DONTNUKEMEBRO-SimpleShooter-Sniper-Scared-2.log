@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Sniper Scared
+                 DONTNUKEMEBRO: Dc,Dd,Db,Db,Sb,N,Dd,N
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,N,N
+                        Sniper: Sd,N,Sb,N,Sb,N,Sa,N
+                        Scared: N,Sb,N,Sa,N,Sa,N,Sc
+Final Health:
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: -3
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Scared SimpleShooter Sniper
+SimpleShooter: Scared DONTNUKEMEBRO Sniper
+Sniper: Scared DONTNUKEMEBRO SimpleShooter
+Scared: Sniper DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 07:52:29.083486859 UTC

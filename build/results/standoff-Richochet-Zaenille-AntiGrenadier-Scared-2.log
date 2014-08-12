@@ -1,0 +1,16 @@
+Standoff between: Richochet Zaenille AntiGrenadier Scared
+                     Richochet: Sd,N,Sc,N,Sc,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,Sa,N,Sa,N,Sa
+Final Health:
+                     Richochet: -1
+                      Zaenille: -4
+                 AntiGrenadier: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Scared Zaenille AntiGrenadier
+Zaenille: Scared Richochet AntiGrenadier
+AntiGrenadier: Scared Richochet Zaenille
+Scared: AntiGrenadier Richochet Zaenille
+Generated: 2014/08/12 05:52:21.896140843 UTC

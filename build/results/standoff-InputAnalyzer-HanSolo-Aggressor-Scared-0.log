@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Aggressor Scared
+                 InputAnalyzer: Db,Dd,N
+                       HanSolo: Sa,N,N
+                     Aggressor: P,Ta,Sd
+                        Scared: Sb,N,Sc
+Final Health:
+                 InputAnalyzer: -3
+                       HanSolo: 0
+                     Aggressor: 0
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo Aggressor Scared
+HanSolo: InputAnalyzer Aggressor Scared
+Aggressor: InputAnalyzer HanSolo Scared
+Scared: InputAnalyzer HanSolo Aggressor
+Generated: 2014/08/12 06:07:41.445525713 UTC

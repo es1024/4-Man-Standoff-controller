@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo Coward Rule0Bot
+      PoliticallyCorrectGunman: Sc,N,N,Db,P,Sb,N
+                       HanSolo: Sd,N,Sd,N,Sd,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -3
+                       HanSolo: -1
+                        Coward: 0
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot HanSolo Coward
+HanSolo: Rule0Bot PoliticallyCorrectGunman Coward
+Coward: Rule0Bot PoliticallyCorrectGunman HanSolo
+Rule0Bot: Coward PoliticallyCorrectGunman HanSolo
+Generated: 2014/08/12 09:24:58.829167718 UTC

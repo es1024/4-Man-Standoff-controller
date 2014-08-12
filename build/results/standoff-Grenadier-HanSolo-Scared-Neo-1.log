@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Scared Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,P,Tb
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd,N,Sa,N
+                        Scared: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Da,N,Da,Da,N,N,N
+Final Health:
+                     Grenadier: 0
+                       HanSolo: -3
+                        Scared: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Neo HanSolo
+HanSolo: Scared Neo Grenadier
+Scared: HanSolo Neo Grenadier
+Neo: HanSolo Scared Grenadier
+Generated: 2014/08/12 06:15:34.389136557 UTC

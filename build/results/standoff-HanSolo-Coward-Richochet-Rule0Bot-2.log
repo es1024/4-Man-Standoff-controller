@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Richochet Rule0Bot
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb
+                        Coward: Sc,N,Sc,N,Sc,N,Sa
+                     Richochet: Sa,N,Sd,N,Sb,N,N
+                      Rule0Bot: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 1
+                        Coward: -1
+                     Richochet: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot Coward Richochet
+Coward: Rule0Bot HanSolo Richochet
+Richochet: Rule0Bot HanSolo Coward
+Rule0Bot: Richochet HanSolo Coward
+Generated: 2014/08/12 07:13:56.442496279 UTC

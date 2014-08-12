@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Richochet CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N
+                     Richochet: Sb,N,Sa,N,Sd,N,Sb,N,Sd,N,Sd,N,Sd
+                 CourageTheDog: Sb,N,Da,Dc,Dc,Dc,Dc,Dc,Sc,N,Sc,N,Sc
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                     Richochet: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Richochet CourageTheDog
+Spock: Pacifist Richochet CourageTheDog
+Richochet: Pacifist Spock CourageTheDog
+CourageTheDog: Pacifist Spock Richochet
+Generated: 2014/08/12 10:04:33.377430314 UTC

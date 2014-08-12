@@ -1,0 +1,16 @@
+Standoff between: Monkey EmoCowboy Scared CourageTheDog
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,Dc,Da,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sd,N,N,N,N,N,N,N,Sd,N,Sa,N,Sd,N,Sa
+                 CourageTheDog: Sb,N,Sa,N,Da,Sc,N,Dc,Da,Dc,Dc,Dc,Da,N,N
+Final Health:
+                        Monkey: -1
+                     EmoCowboy: -4
+                        Scared: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Scared CourageTheDog EmoCowboy
+EmoCowboy: Scared CourageTheDog Monkey
+Scared: EmoCowboy CourageTheDog Monkey
+CourageTheDog: EmoCowboy Scared Monkey
+Generated: 2014/08/12 07:47:38.535024226 UTC

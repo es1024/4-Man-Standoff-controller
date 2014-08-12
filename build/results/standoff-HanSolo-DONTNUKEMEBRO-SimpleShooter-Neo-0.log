@@ -1,0 +1,16 @@
+Standoff between: HanSolo DONTNUKEMEBRO SimpleShooter Neo
+                       HanSolo: Sb,N,Sb,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dd,Sa,N,Sa,N,Da,Dc,Dc,Da,Da
+                 SimpleShooter: Sd,N,Sa,N,Sd,N,Sd,N,Sd,N,Sb
+                           Neo: N,N,N,Sa,N,N,Dc,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+                 SimpleShooter: 5
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: DONTNUKEMEBRO SimpleShooter Neo
+DONTNUKEMEBRO: HanSolo SimpleShooter Neo
+SimpleShooter: HanSolo DONTNUKEMEBRO Neo
+Neo: HanSolo DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 05:47:06.668912876 UTC

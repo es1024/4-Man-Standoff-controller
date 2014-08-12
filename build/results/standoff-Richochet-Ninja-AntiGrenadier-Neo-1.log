@@ -1,0 +1,16 @@
+Standoff between: Richochet Ninja AntiGrenadier Neo
+                     Richochet: Sb,N,Sd,N,Sd,N,Sb,N,Sd,N,Sb,N,Sb,N,Sc,N,Sb,N,Sb,N,Sc,N,Sc,N,Sb
+                         Ninja: Da,Dc,Dd,Da,Dd,Dc,Da,Db,Dd,Da,Da,Db,Dd,Dc,Dc,Dd,Da,Da,Dc,Db,Db,Db,Dd,Da,Db
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: AntiGrenadier Neo Ninja
+Ninja: AntiGrenadier Neo Richochet
+AntiGrenadier: Ninja Neo Richochet
+Neo: Ninja AntiGrenadier Richochet
+Generated: 2014/08/12 07:52:05.916736227 UTC

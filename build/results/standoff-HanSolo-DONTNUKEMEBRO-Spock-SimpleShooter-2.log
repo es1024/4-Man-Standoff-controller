@@ -1,16 +1,16 @@
 Standoff between: HanSolo DONTNUKEMEBRO Spock SimpleShooter
-                       HanSolo: Sd,N,Sb,N,Sc,N,Sc,N,Sc
-                 DONTNUKEMEBRO: Da,Sd,N,N,N,N,N,N,N
-                         Spock: Sd,N,Sb,N,Sd,N,Sd,N,Sd
-                 SimpleShooter: Sb,N,N,N,N,N,N,N,N
+                       HanSolo: Sd,N,Sd,N,Sb,N,Sb
+                 DONTNUKEMEBRO: Da,Dc,Sd,N,Dd,Da,Sa
+                         Spock: Sd,N,Sd,N,Sa,N,Sa
+                 SimpleShooter: Sb,N,Sa,N,N,N,N
 Final Health:
-                       HanSolo: 5
+                       HanSolo: -3
                  DONTNUKEMEBRO: -1
-                         Spock: -1
-                 SimpleShooter: -1
+                         Spock: 5
+                 SimpleShooter: -5
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
 HanSolo: SimpleShooter DONTNUKEMEBRO Spock
 DONTNUKEMEBRO: SimpleShooter HanSolo Spock
 Spock: SimpleShooter HanSolo DONTNUKEMEBRO
 SimpleShooter: Spock HanSolo DONTNUKEMEBRO
-Generated: 2014/08/11 00:58:42.692526444 UTC
+Generated: 2014/08/12 06:49:26.735436387 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Richochet Monkey
+                      Pacifist: N,N,N,N,N
+                 InputAnalyzer: Dc,P,Db,Dd,N
+                     Richochet: Sb,N,Sa,N,Sd
+                        Monkey: N,Dc,N,Sa,N
+Final Health:
+                      Pacifist: -2
+                 InputAnalyzer: -1
+                     Richochet: 2
+                        Monkey: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Monkey InputAnalyzer
+InputAnalyzer: Richochet Monkey Pacifist
+Richochet: InputAnalyzer Monkey Pacifist
+Monkey: InputAnalyzer Richochet Pacifist
+Generated: 2014/08/12 09:45:43.567875800 UTC

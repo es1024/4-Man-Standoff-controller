@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Bomberman CourageTheDog
+      PoliticallyCorrectGunman: Dc,Db,N,N,N,N,N,N,N,Sc,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dd,Dc,Sd,N,Da,Sd,N,Dd,Dd,Dd,Dc,Dd,Dc,Dd,Dc,Dd,Da,Dc,Dc,Dc,Sd,N,Dd,Dd,Da,Da,Dc,Da,Dc,Dc,Dc,Dd,Da,Sd,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Sb,N,Sa,N,Da,Db,Sa,N,Sa,N,Dc,Dc,Sc,N,N,Sb,N,Db,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Db,Dc,Db,Sb,N,Db,N,Db,Db,Sb
+Final Health:
+      PoliticallyCorrectGunman: -1
+                 DONTNUKEMEBRO: -1
+                     Bomberman: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: CourageTheDog DONTNUKEMEBRO Bomberman
+DONTNUKEMEBRO: CourageTheDog PoliticallyCorrectGunman Bomberman
+Bomberman: CourageTheDog PoliticallyCorrectGunman DONTNUKEMEBRO
+CourageTheDog: Bomberman PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 06:18:30.043741012 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Richochet Scared
+                 InputAnalyzer: Db,P,Sa,N,N
+                         Spock: Sa,N,Sa,N,Sa
+                     Richochet: Sa,N,Sa,N,N
+                        Scared: Sc,N,Sa,N,Sb
+Final Health:
+                 InputAnalyzer: -14
+                         Spock: 0
+                     Richochet: 0
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Richochet Scared
+Spock: InputAnalyzer Richochet Scared
+Richochet: InputAnalyzer Spock Scared
+Scared: InputAnalyzer Spock Richochet
+Generated: 2014/08/12 09:36:04.361612391 UTC

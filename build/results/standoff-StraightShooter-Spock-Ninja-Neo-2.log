@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Ninja Neo
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                         Spock: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Dd,Dc,Dd,Dc,Dd,Da,Dd,Db,Dc,Dd,Da,Dd,Da,Da,Dd,Dc,Da,Dd,Dc,Da,Dd,Da,Db,Da,Db,Da,Dd,Da,Db,Db,Da,Db,Da,Dd,Db,Dc,Dd,Dc,Da,Db,Da,Da,Db,Dc,Dd,Da,Db,Da
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,Dc,Da,N,N,Dc,N,N,N,N,N,N,Da,N,N,N,N,N,N,N,N,N,N,N,N,N,Da,Dc,N,N,Da,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -15
+                         Spock: -1
+                         Ninja: -15
+                           Neo: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Neo Spock Ninja
+Spock: Neo StraightShooter Ninja
+Ninja: Neo StraightShooter Spock
+Neo: Ninja StraightShooter Spock
+Generated: 2014/08/12 08:13:28.305121095 UTC

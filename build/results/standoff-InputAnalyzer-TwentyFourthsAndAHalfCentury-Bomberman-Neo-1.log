@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer TwentyFourthsAndAHalfCentury Bomberman Neo
+                 InputAnalyzer: Dc,Db,Sd,N,Da,Dd,Da,Db,Sd,N,Dc,P,Sb,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Sd,N,Sd,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Da,N,Dc,Da,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+  TwentyFourthsAndAHalfCentury: 0
+                     Bomberman: 2
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Neo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Neo InputAnalyzer
+Bomberman: TwentyFourthsAndAHalfCentury Neo InputAnalyzer
+Neo: TwentyFourthsAndAHalfCentury Bomberman InputAnalyzer
+Generated: 2014/08/12 10:05:02.439731085 UTC

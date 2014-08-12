@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Monkey Rule0Bot
+                 InputAnalyzer: Dc,Db,Da,Sd
+                     Aggressor: P,Tc,N,N
+                        Monkey: N,Dc,N,N
+                      Rule0Bot: N,Sb,N,N
+Final Health:
+                 InputAnalyzer: 2
+                     Aggressor: 0
+                        Monkey: -3
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Rule0Bot Aggressor
+Aggressor: Monkey Rule0Bot InputAnalyzer
+Monkey: Aggressor Rule0Bot InputAnalyzer
+Rule0Bot: Aggressor Monkey InputAnalyzer
+Generated: 2014/08/12 05:49:55.084824123 UTC

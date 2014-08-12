@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet TwentyFourthsAndAHalfCentury Rule0Bot
+                 InputAnalyzer: Dd,Sc,N,Sb,N,Db,Sa,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc,N,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: Da,Da,Dd,Dd,Dd,Dd,Da,Dd,Dd,Dd,Db,Dd,Dd,Sb,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                     Richochet: 1
+  TwentyFourthsAndAHalfCentury: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Rule0Bot Richochet TwentyFourthsAndAHalfCentury
+Richochet: Rule0Bot InputAnalyzer TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Rule0Bot InputAnalyzer Richochet
+Rule0Bot: TwentyFourthsAndAHalfCentury InputAnalyzer Richochet
+Generated: 2014/08/12 08:18:53.211035384 UTC

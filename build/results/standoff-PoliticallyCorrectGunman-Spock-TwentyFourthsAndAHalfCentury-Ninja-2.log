@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock TwentyFourthsAndAHalfCentury Ninja
+      PoliticallyCorrectGunman: N,Sb,N,Db,P,Db,N
+                         Spock: Sd,N,Sd,N,Sd,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Db,Da,Db,Dd,N
+                         Ninja: Db,Da,Dc,Da,Dc,Dc,Db
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: 0
+  TwentyFourthsAndAHalfCentury: 2
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Ninja Spock TwentyFourthsAndAHalfCentury
+Spock: Ninja PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Ninja PoliticallyCorrectGunman Spock
+Ninja: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 06:30:25.653229743 UTC

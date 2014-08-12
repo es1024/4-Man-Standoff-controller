@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja
+                     Grenadier: N,P,N,N
+      PoliticallyCorrectGunman: P,Sc,N,N
+  TwentyFourthsAndAHalfCentury: Da,Dd,Dd,N
+                         Ninja: Dc,Dd,Dc,Db
+Final Health:
+                     Grenadier: -4
+      PoliticallyCorrectGunman: -1
+  TwentyFourthsAndAHalfCentury: 0
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury Ninja
+PoliticallyCorrectGunman: Grenadier TwentyFourthsAndAHalfCentury Ninja
+TwentyFourthsAndAHalfCentury: Grenadier PoliticallyCorrectGunman Ninja
+Ninja: Grenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:48:09.780585822 UTC

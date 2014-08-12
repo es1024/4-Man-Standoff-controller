@@ -1,0 +1,16 @@
+Standoff between: Grenadier Coward AntiGrenadier Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,Td
+                        Coward: Sc,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,Da,N,N,Db
+Final Health:
+                     Grenadier: -4
+                        Coward: 2
+                 AntiGrenadier: -1
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Coward AntiGrenadier
+Coward: Neo Grenadier AntiGrenadier
+AntiGrenadier: Neo Grenadier Coward
+Neo: AntiGrenadier Grenadier Coward
+Generated: 2014/08/12 07:00:30.961788873 UTC

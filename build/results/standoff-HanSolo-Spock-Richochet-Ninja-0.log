@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Richochet Ninja
+                       HanSolo: Sb,N,Sb,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N
+                     Richochet: Sa,N,Sb,N,Sd,N,Sd,N,Sd
+                         Ninja: Db,Dd,Dc,Da,Dd,Dd,Dd,Dc,Da
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                     Richochet: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock Richochet Ninja
+Spock: HanSolo Richochet Ninja
+Richochet: HanSolo Spock Ninja
+Ninja: HanSolo Spock Richochet
+Generated: 2014/08/12 05:44:08.107571245 UTC

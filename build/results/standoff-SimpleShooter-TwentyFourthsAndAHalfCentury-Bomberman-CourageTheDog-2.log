@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter TwentyFourthsAndAHalfCentury Bomberman CourageTheDog
+                 SimpleShooter: Sc,N,Sd,N,Sc,N,Sb,N,Sd,N,Sd,N,Sc,N,Sb,N,Sd
+  TwentyFourthsAndAHalfCentury: Dc,Dc,Dc,Dc,Dd,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Dc,Dc,N,Db,Db,Da,Dc,Db,Db,Dc,Da,Db,Da,Sa
+Final Health:
+                 SimpleShooter: 3
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: CourageTheDog TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: CourageTheDog SimpleShooter Bomberman
+Bomberman: CourageTheDog SimpleShooter TwentyFourthsAndAHalfCentury
+CourageTheDog: Bomberman SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:53:23.961324996 UTC

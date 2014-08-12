@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Richochet Ninja
+      PoliticallyCorrectGunman: Sc,N,P,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sd
+                     Richochet: Sa,N,Sa,N,N,N,N
+                         Ninja: Db,Dc,Da,Db,Db,Dc,Dc
+Final Health:
+      PoliticallyCorrectGunman: -9
+                         Spock: 2
+                     Richochet: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Spock Richochet Ninja
+Spock: PoliticallyCorrectGunman Richochet Ninja
+Richochet: PoliticallyCorrectGunman Spock Ninja
+Ninja: PoliticallyCorrectGunman Spock Richochet
+Generated: 2014/08/12 08:46:34.916460334 UTC

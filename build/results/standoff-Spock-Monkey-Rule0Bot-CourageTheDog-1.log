@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Rule0Bot CourageTheDog
+                         Spock: Sc,N,Sc,N,Sc,N,Sb,N,Sb,N,Sc,N,Sc,N,N
+                        Monkey: N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Db,Db,Da,Sa,N,Db,Db,Da,Da,Sa,N,Da,Sa
+Final Health:
+                         Spock: -1
+                        Monkey: -1
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot CourageTheDog Monkey
+Monkey: Rule0Bot CourageTheDog Spock
+Rule0Bot: Monkey CourageTheDog Spock
+CourageTheDog: Monkey Rule0Bot Spock
+Generated: 2014/08/12 10:34:08.064746229 UTC

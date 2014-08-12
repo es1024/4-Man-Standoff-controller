@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Spock Scared CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                         Spock: Sc,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sa,N,Sa
+                        Scared: Sd,N,N,N,N,N,N,N,N,Sb,N,Sb,N,N,N,N
+                 CourageTheDog: Sa,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                         Spock: 1
+                        Scared: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Scared CourageTheDog Spock
+Spock: Scared CourageTheDog StraightShooter
+Scared: Spock CourageTheDog StraightShooter
+CourageTheDog: Spock Scared StraightShooter
+Generated: 2014/08/12 07:36:39.979989665 UTC

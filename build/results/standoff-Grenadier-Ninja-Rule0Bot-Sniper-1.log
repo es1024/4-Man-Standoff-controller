@@ -1,0 +1,16 @@
+Standoff between: Grenadier Ninja Rule0Bot Sniper
+                     Grenadier: N,N,P,N,N,N,N
+                         Ninja: Dd,Da,Dc,Da,Da,N,N
+                      Rule0Bot: N,N,N,Sa,N,N,N
+                        Sniper: Sa,N,Sa,N,Sb,N,Sc
+Final Health:
+                     Grenadier: -7
+                         Ninja: 0
+                      Rule0Bot: 0
+                        Sniper: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot Sniper Ninja
+Ninja: Rule0Bot Sniper Grenadier
+Rule0Bot: Ninja Sniper Grenadier
+Sniper: Ninja Rule0Bot Grenadier
+Generated: 2014/08/12 10:36:27.580288472 UTC

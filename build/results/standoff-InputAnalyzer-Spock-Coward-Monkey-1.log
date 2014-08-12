@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Coward Monkey
+                 InputAnalyzer: Dc,Db,Da,Sd,N,Sa,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,Sc
+                        Coward: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sb,N,Db,Da,Sb
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                         Spock: 1
+                        Coward: -1
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Coward Monkey Spock
+Spock: Coward Monkey InputAnalyzer
+Coward: Spock Monkey InputAnalyzer
+Monkey: Spock Coward InputAnalyzer
+Generated: 2014/08/12 08:47:16.914743264 UTC

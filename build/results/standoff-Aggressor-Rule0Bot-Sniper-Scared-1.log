@@ -1,0 +1,16 @@
+Standoff between: Aggressor Rule0Bot Sniper Scared
+                     Aggressor: P,Tc
+                      Rule0Bot: N,Sa
+                        Sniper: Sd,N
+                        Scared: Sb,N
+Final Health:
+                     Aggressor: 0
+                      Rule0Bot: 0
+                        Sniper: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper Scared Rule0Bot
+Rule0Bot: Sniper Scared Aggressor
+Sniper: Rule0Bot Scared Aggressor
+Scared: Rule0Bot Sniper Aggressor
+Generated: 2014/08/12 06:24:08.561488900 UTC

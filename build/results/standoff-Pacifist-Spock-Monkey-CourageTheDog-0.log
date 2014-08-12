@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Monkey CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,N,N,N,N,N,Sa,N,Sc,N,Sc,N,Sa,N,Sa,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Db,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sb,N,N,Dc,Dc,N,Db,Sc,N,Db,Db,Dc,Sb,N,Db,Db,Sb
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+                        Monkey: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Monkey CourageTheDog
+Spock: Pacifist Monkey CourageTheDog
+Monkey: Pacifist Spock CourageTheDog
+CourageTheDog: Pacifist Spock Monkey
+Generated: 2014/08/12 07:06:36.918093752 UTC

@@ -1,0 +1,16 @@
+Standoff between: HanSolo EmoCowboy Rule0Bot CourageTheDog
+                       HanSolo: Sc,N,Sc,N,Sc
+                     EmoCowboy: N,Sb,N,N,N
+                      Rule0Bot: N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Rule0Bot CourageTheDog EmoCowboy
+EmoCowboy: Rule0Bot CourageTheDog HanSolo
+Rule0Bot: EmoCowboy CourageTheDog HanSolo
+CourageTheDog: EmoCowboy Rule0Bot HanSolo
+Generated: 2014/08/12 07:53:25.561312669 UTC

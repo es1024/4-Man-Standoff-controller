@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Sniper Scared
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd
+  TwentyFourthsAndAHalfCentury: Dd,N,Dd,N,Dd,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N
+                        Scared: Sb,N,Sa,N,Sa,N,Sa
+Final Health:
+                       HanSolo: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Sniper Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Scared HanSolo
+Sniper: TwentyFourthsAndAHalfCentury Scared HanSolo
+Scared: TwentyFourthsAndAHalfCentury Sniper HanSolo
+Generated: 2014/08/12 07:26:52.575375673 UTC

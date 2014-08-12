@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman HanSolo AntiGrenadier Neo
+      PoliticallyCorrectGunman: Sb,N,Sc,N,P,N,N
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N
+                           Neo: N,Dc,Da,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                       HanSolo: 0
+                 AntiGrenadier: -1
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Neo HanSolo
+HanSolo: AntiGrenadier Neo PoliticallyCorrectGunman
+AntiGrenadier: HanSolo Neo PoliticallyCorrectGunman
+Neo: HanSolo AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 07:05:06.920144288 UTC

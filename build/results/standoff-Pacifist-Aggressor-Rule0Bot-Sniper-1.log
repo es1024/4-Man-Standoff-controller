@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Rule0Bot Sniper
+                      Pacifist: N,N
+                     Aggressor: P,Td
+                      Rule0Bot: N,Sb
+                        Sniper: Sc,N
+Final Health:
+                      Pacifist: 2
+                     Aggressor: 0
+                      Rule0Bot: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Rule0Bot Sniper Aggressor
+Aggressor: Rule0Bot Sniper Pacifist
+Rule0Bot: Aggressor Sniper Pacifist
+Sniper: Aggressor Rule0Bot Pacifist
+Generated: 2014/08/12 08:22:03.471068387 UTC

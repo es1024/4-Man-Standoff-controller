@@ -1,0 +1,16 @@
+Standoff between: Bomberman AntiGrenadier Scared CourageTheDog
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sa,N,N,N,N,N,Sd,N,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N,Sa
+                 CourageTheDog: Sb,N,Db,Sc,N,Db,Dc,N,Dc,Dc,Da,Sb,N,Dc,Dc,Sa,N,Dc,Dc,Dc,Da,Dc,Da,N,N,N,N,N,N,N
+Final Health:
+                     Bomberman: -1
+                 AntiGrenadier: -1
+                        Scared: 3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: Scared CourageTheDog AntiGrenadier
+AntiGrenadier: Scared CourageTheDog Bomberman
+Scared: AntiGrenadier CourageTheDog Bomberman
+CourageTheDog: AntiGrenadier Scared Bomberman
+Generated: 2014/08/12 10:16:23.770186824 UTC

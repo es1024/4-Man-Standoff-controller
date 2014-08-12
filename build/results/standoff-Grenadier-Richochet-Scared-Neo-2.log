@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Scared Neo
+                     Grenadier: P,Td
+                     Richochet: Sc,N
+                        Scared: Sa,N
+                           Neo: N,Da
+Final Health:
+                     Grenadier: 0
+                     Richochet: 2
+                        Scared: 0
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo Richochet Scared
+Richochet: Neo Grenadier Scared
+Scared: Neo Grenadier Richochet
+Neo: Scared Grenadier Richochet
+Generated: 2014/08/12 09:30:00.728034881 UTC

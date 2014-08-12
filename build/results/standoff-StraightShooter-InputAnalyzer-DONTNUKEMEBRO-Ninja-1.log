@@ -1,0 +1,16 @@
+Standoff between: StraightShooter InputAnalyzer DONTNUKEMEBRO Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer: Dc,P,Dd,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Da,Sb,N,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Da,Da,Da,Da,Da,Db,Db,Dd,Dd,Da,Db,Da,Db,Dd,Dd,Da,Da,Dd,Dd,Db,Da,Da,Sa
+                         Ninja: Dc,Dd,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+                 InputAnalyzer: -3
+                 DONTNUKEMEBRO: 2
+                         Ninja: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: DONTNUKEMEBRO Ninja InputAnalyzer
+InputAnalyzer: DONTNUKEMEBRO Ninja StraightShooter
+DONTNUKEMEBRO: InputAnalyzer Ninja StraightShooter
+Ninja: InputAnalyzer DONTNUKEMEBRO StraightShooter
+Generated: 2014/08/12 08:04:01.409414293 UTC

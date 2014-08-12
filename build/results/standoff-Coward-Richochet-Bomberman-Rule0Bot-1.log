@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Bomberman Rule0Bot
+                        Coward: Sb,N,Sb,N,Db,Sb,N,Sd,N,Dd,Dd,Dd,Dd,Dd,Sd,N,Dd,Dd,Sd,N,Sc,N,Sc,N,Sc
+                     Richochet: Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 1
+                     Richochet: -1
+                     Bomberman: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Bomberman Rule0Bot Richochet
+Richochet: Bomberman Rule0Bot Coward
+Bomberman: Richochet Rule0Bot Coward
+Rule0Bot: Richochet Bomberman Coward
+Generated: 2014/08/12 09:51:45.695621673 UTC

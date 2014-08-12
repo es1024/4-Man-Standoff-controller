@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Ninja CourageTheDog
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,Sb,N,Sc,N,Sb
+                     Richochet: Sa,N,Sa,N,Sd,N,Sc,N,Sc,N,Sa
+                         Ninja: Da,Da,Da,Da,Db,Db,Db,Da,Da,N,N
+                 CourageTheDog: Sc,N,Dc,Sc,N,N,N,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                         Ninja: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Ninja CourageTheDog
+Richochet: SimpleShooter Ninja CourageTheDog
+Ninja: SimpleShooter Richochet CourageTheDog
+CourageTheDog: SimpleShooter Richochet Ninja
+Generated: 2014/08/12 08:06:19.929568991 UTC

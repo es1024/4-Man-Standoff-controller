@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Sniper Scared
+                 InputAnalyzer: Db,Dd,P,N,N
+                     Richochet: Sd,N,Sc,N,Sa
+                        Sniper: Sd,N,Sd,N,N
+                        Scared: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -3
+                     Richochet: 2
+                        Sniper: 0
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet Sniper Scared
+Richochet: InputAnalyzer Sniper Scared
+Sniper: InputAnalyzer Richochet Scared
+Scared: InputAnalyzer Richochet Sniper
+Generated: 2014/08/12 06:26:13.375502109 UTC

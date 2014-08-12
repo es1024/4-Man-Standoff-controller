@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Richochet AntiGrenadier Neo
+                 DONTNUKEMEBRO: Db,Dc,Db,Dc,Dd,Dd,Sb,N,Dc,Dc,Sb,N,Dc,Dd,Dd,N,N
+                     Richochet: Sd,N,Sc,N,Sa,N,Sd,N,Sa,N,Sd,N,Sc,N,Sa,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,Da,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                     Richochet: 1
+                 AntiGrenadier: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Neo Richochet AntiGrenadier
+Richochet: Neo DONTNUKEMEBRO AntiGrenadier
+AntiGrenadier: Neo DONTNUKEMEBRO Richochet
+Neo: AntiGrenadier DONTNUKEMEBRO Richochet
+Generated: 2014/08/12 07:31:50.317371668 UTC

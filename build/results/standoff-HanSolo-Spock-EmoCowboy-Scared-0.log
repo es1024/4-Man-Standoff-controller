@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock EmoCowboy Scared
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sd,N
+                         Spock: Sa,N,N,Sa,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N
+                        Scared: Sc,N,N,N,N,N,N,Sa
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                     EmoCowboy: -4
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock EmoCowboy Scared
+Spock: HanSolo EmoCowboy Scared
+EmoCowboy: HanSolo Spock Scared
+Scared: HanSolo Spock EmoCowboy
+Generated: 2014/08/12 08:20:13.691832373 UTC

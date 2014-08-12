@@ -1,0 +1,16 @@
+Standoff between: Spock TwentyFourthsAndAHalfCentury Bomberman Ninja
+                         Spock: N,N,N,Sc,N,Sc,N,Sc,N,Sd,N,Sc,N,N,N,N,N,N,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N,Sa,N,Sd,N,Sc,N,Sd,N,Sa,N,N,N,N,N,N,N,Sa
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Dd,Db,Dc,Da,Dd,Db,Dc,Db,Dd,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -3
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman Ninja TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Bomberman Ninja Spock
+Bomberman: TwentyFourthsAndAHalfCentury Ninja Spock
+Ninja: TwentyFourthsAndAHalfCentury Bomberman Spock
+Generated: 2014/08/12 07:58:27.871450762 UTC

@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Monkey Ninja
+                 SimpleShooter: Sc,N,Sb
+                     Aggressor: P,Td,Sa
+                        Monkey: N,N,N
+                         Ninja: Da,Da,N
+Final Health:
+                 SimpleShooter: 0
+                     Aggressor: 0
+                        Monkey: 0
+                         Ninja: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Ninja Aggressor Monkey
+Aggressor: Ninja SimpleShooter Monkey
+Monkey: Ninja SimpleShooter Aggressor
+Ninja: Monkey SimpleShooter Aggressor
+Generated: 2014/08/12 10:08:31.810654460 UTC

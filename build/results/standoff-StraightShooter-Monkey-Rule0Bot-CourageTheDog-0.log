@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Monkey Rule0Bot CourageTheDog
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N
+                        Monkey: N,N,N,N,Db,Db,N,N,N,N,N,N,N,N,N,N,N,Db,N,Sa,N,N,N,Sb
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Da,Db,Db,Da,N,Sa,N,Da,Da,Da,Db,Db,Sa,N,Db,Db,Sa,N,Db,Db,Sb,N
+Final Health:
+               StraightShooter: -1
+                        Monkey: -2
+                      Rule0Bot: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey Rule0Bot CourageTheDog
+Monkey: StraightShooter Rule0Bot CourageTheDog
+Rule0Bot: StraightShooter Monkey CourageTheDog
+CourageTheDog: StraightShooter Monkey Rule0Bot
+Generated: 2014/08/12 10:33:51.271106413 UTC

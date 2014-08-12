@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist TwentyFourthsAndAHalfCentury EmoCowboy
+                     Grenadier: N,P,N,N,N,N
+                      Pacifist: N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,Sb
+                     EmoCowboy: N,Sd,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                      Pacifist: 0
+  TwentyFourthsAndAHalfCentury: 2
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: EmoCowboy Pacifist TwentyFourthsAndAHalfCentury
+Pacifist: EmoCowboy Grenadier TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: EmoCowboy Grenadier Pacifist
+EmoCowboy: TwentyFourthsAndAHalfCentury Grenadier Pacifist
+Generated: 2014/08/12 10:31:49.300335199 UTC

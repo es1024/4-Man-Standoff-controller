@@ -1,0 +1,16 @@
+Standoff between: Bomberman EmoCowboy Ninja CourageTheDog
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Da,Dc,Da,Db,Db,Dd,Dc,Dd,Db,Da,Dc,Da,Dd,Dc,Db,Da,Da,Db,Da,Dc,Db,Da,Db,Da,Dc,Dd,Dc,Dd,Da,Db,Dd,Db,Da,Dc,Dd,Dc
+                 CourageTheDog: Sb,N,Da,Da,Sa,N,Sa,N,Dc,Da,Dc,Da,Sa,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc,N,Dc,Sc,N,Sc,N,Dc,Dc,Sc,N,Dc,Dc,Sc
+Final Health:
+                     Bomberman: -1
+                     EmoCowboy: -4
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Bomberman: EmoCowboy Ninja CourageTheDog
+EmoCowboy: Bomberman Ninja CourageTheDog
+Ninja: Bomberman EmoCowboy CourageTheDog
+CourageTheDog: Bomberman EmoCowboy Ninja
+Generated: 2014/08/12 05:52:32.471684127 UTC

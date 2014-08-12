@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock TwentyFourthsAndAHalfCentury EmoCowboy
+      PoliticallyCorrectGunman: Dc,P,N,N
+                         Spock: Sc,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Db,N
+                     EmoCowboy: Sd,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: 2
+  TwentyFourthsAndAHalfCentury: 0
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury EmoCowboy Spock
+Spock: TwentyFourthsAndAHalfCentury EmoCowboy PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Spock EmoCowboy PoliticallyCorrectGunman
+EmoCowboy: Spock TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 06:37:50.425893419 UTC

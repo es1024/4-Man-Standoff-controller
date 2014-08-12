@@ -1,11 +1,11 @@
 Standoff between: InputAnalyzer HanSolo DONTNUKEMEBRO Spock
-                 InputAnalyzer: Dc,P,Da,Dd
+                 InputAnalyzer: Dc,P,Da,Dc
                        HanSolo: Sc,N,Sc,N
-                 DONTNUKEMEBRO: Da,Sb,N,Sb
-                         Spock: Sb,N,Sb,N
+                 DONTNUKEMEBRO: Da,Da,Sa,N
+                         Spock: Sb,N,N,N
 Final Health:
-                 InputAnalyzer: -1
-                       HanSolo: -1
+                 InputAnalyzer: -3
+                       HanSolo: 0
                  DONTNUKEMEBRO: -2
                          Spock: 2
 <Player>: <Enemy 1> <Enemy 2> <Enemy 3>
@@ -13,4 +13,4 @@ InputAnalyzer: DONTNUKEMEBRO Spock HanSolo
 HanSolo: DONTNUKEMEBRO Spock InputAnalyzer
 DONTNUKEMEBRO: HanSolo Spock InputAnalyzer
 Spock: HanSolo DONTNUKEMEBRO InputAnalyzer
-Generated: 2014/08/11 00:58:37.947392659 UTC
+Generated: 2014/08/12 09:50:01.671149615 UTC

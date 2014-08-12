@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock Zaenille Scared
+                      Pacifist: N,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Scared: Sb,N,Sb,N,Sa,N,Sb
+Final Health:
+                      Pacifist: -3
+                         Spock: -1
+                      Zaenille: -2
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock Zaenille Scared
+Spock: Pacifist Zaenille Scared
+Zaenille: Pacifist Spock Scared
+Scared: Pacifist Spock Zaenille
+Generated: 2014/08/12 08:11:29.827764775 UTC

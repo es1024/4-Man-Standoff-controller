@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer Richochet
+                      Pacifist: N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa
+                 InputAnalyzer: Dd,Db,Sc,N,N,N,N,N,N
+                     Richochet: Sc,N,Sb,N,Sa,N,Sb,N,Sb
+Final Health:
+                      Pacifist: -3
+               StraightShooter: -1
+                 InputAnalyzer: -2
+                     Richochet: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet StraightShooter InputAnalyzer
+StraightShooter: Richochet Pacifist InputAnalyzer
+InputAnalyzer: Richochet Pacifist StraightShooter
+Richochet: InputAnalyzer Pacifist StraightShooter
+Generated: 2014/08/12 10:02:06.124474428 UTC

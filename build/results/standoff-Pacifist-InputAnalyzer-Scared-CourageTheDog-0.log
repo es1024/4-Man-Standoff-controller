@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Scared CourageTheDog
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Da,P,Db,Sc
+                        Scared: Sa,N,Sb,N
+                 CourageTheDog: Sa,N,P,Tb
+Final Health:
+                      Pacifist: -5
+                 InputAnalyzer: -11
+                        Scared: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: InputAnalyzer Scared CourageTheDog
+InputAnalyzer: Pacifist Scared CourageTheDog
+Scared: Pacifist InputAnalyzer CourageTheDog
+CourageTheDog: Pacifist InputAnalyzer Scared
+Generated: 2014/08/12 09:03:06.910691159 UTC

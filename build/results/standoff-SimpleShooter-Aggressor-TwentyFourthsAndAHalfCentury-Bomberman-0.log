@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor TwentyFourthsAndAHalfCentury Bomberman
+                 SimpleShooter: Sd,N,N
+                     Aggressor: P,Ta,Sc
+  TwentyFourthsAndAHalfCentury: Db,Dd,Sb
+                     Bomberman: N,N,N
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 0
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor TwentyFourthsAndAHalfCentury Bomberman
+Aggressor: SimpleShooter TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: SimpleShooter Aggressor Bomberman
+Bomberman: SimpleShooter Aggressor TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 10:26:49.525377076 UTC

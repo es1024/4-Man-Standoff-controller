@@ -1,0 +1,16 @@
+Standoff between: HanSolo SimpleShooter Monkey AntiGrenadier
+                       HanSolo: Sc,N,Sc,N,Sc,N,Sd
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sa
+                        Monkey: N,Sa,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                 SimpleShooter: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Monkey AntiGrenadier SimpleShooter
+SimpleShooter: Monkey AntiGrenadier HanSolo
+Monkey: SimpleShooter AntiGrenadier HanSolo
+AntiGrenadier: SimpleShooter Monkey HanSolo
+Generated: 2014/08/12 06:15:42.524660643 UTC

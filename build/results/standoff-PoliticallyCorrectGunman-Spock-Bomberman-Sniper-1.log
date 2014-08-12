@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Bomberman Sniper
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,N,N,N,N,Sc,N,Sa,N,Sa,N,Sc,N,Sc,N,N,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,Sc,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,Sb,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: -17
+                     Bomberman: -1
+                        Sniper: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman Sniper Spock
+Spock: Bomberman Sniper PoliticallyCorrectGunman
+Bomberman: Spock Sniper PoliticallyCorrectGunman
+Sniper: Spock Bomberman PoliticallyCorrectGunman
+Generated: 2014/08/12 09:04:38.067666690 UTC

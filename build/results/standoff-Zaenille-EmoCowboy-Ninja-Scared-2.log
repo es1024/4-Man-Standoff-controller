@@ -1,0 +1,16 @@
+Standoff between: Zaenille EmoCowboy Ninja Scared
+                      Zaenille: Sa,N,N,N,N,N,N
+                     EmoCowboy: Sb,N,N,N,N,N,N
+                         Ninja: Dc,Da,Db,Dc,Dc,Db,Db
+                        Scared: Sa,N,Sc,N,Sc,N,Sc
+Final Health:
+                      Zaenille: -4
+                     EmoCowboy: -2
+                         Ninja: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: Scared EmoCowboy Ninja
+EmoCowboy: Scared Zaenille Ninja
+Ninja: Scared Zaenille EmoCowboy
+Scared: Ninja Zaenille EmoCowboy
+Generated: 2014/08/12 10:16:02.814663138 UTC

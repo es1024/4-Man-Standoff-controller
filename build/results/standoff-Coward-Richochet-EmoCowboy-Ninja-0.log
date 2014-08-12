@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet EmoCowboy Ninja
+                        Coward: Sd,N,Sb,N,Sb,N,Sb
+                     Richochet: Sc,N,Sa,N,Sa,N,Sa
+                     EmoCowboy: Sc,N,N,N,N,N,N
+                         Ninja: Dd,Dc,Da,Db,Dc,Dd,Dd
+Final Health:
+                        Coward: -1
+                     Richochet: -1
+                     EmoCowboy: -4
+                         Ninja: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet EmoCowboy Ninja
+Richochet: Coward EmoCowboy Ninja
+EmoCowboy: Coward Richochet Ninja
+Ninja: Coward Richochet EmoCowboy
+Generated: 2014/08/12 06:10:34.963611397 UTC

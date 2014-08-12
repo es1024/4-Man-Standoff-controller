@@ -1,0 +1,16 @@
+Standoff between: Spock Richochet Bomberman Scared
+                         Spock: Sc,N,Sc,N,Sb
+                     Richochet: Sc,N,Sa,N,Sa
+                     Bomberman: N,N,N,N,N
+                        Scared: Sb,N,Sa,N,Sb
+Final Health:
+                         Spock: -1
+                     Richochet: -1
+                     Bomberman: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Bomberman Scared Richochet
+Richochet: Bomberman Scared Spock
+Bomberman: Richochet Scared Spock
+Scared: Richochet Bomberman Spock
+Generated: 2014/08/12 09:04:47.133548752 UTC

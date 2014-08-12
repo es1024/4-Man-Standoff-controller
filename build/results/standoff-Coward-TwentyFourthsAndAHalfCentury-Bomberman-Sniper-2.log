@@ -1,0 +1,16 @@
+Standoff between: Coward TwentyFourthsAndAHalfCentury Bomberman Sniper
+                        Coward: Sc,N,Sc,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Da,Dc,Dc,N,Da,Dd,Dd,Dd,Dd,Dd,Da,Dd,Da,Dd,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Sniper TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: Sniper Coward Bomberman
+Bomberman: Sniper Coward TwentyFourthsAndAHalfCentury
+Sniper: Bomberman Coward TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:49:32.830227689 UTC

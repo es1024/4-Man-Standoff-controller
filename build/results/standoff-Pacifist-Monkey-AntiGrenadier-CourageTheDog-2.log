@@ -1,0 +1,16 @@
+Standoff between: Pacifist Monkey AntiGrenadier CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,Db,Db,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Db,Sc,N,Db,Db,Da,Sb,N,Da,Db,Db,Da,Sc,N,Sc,N,Da,Da,Sa,N,Db,Db,Sa,N,Sa,N,Sb
+Final Health:
+                      Pacifist: -1
+                        Monkey: -1
+                 AntiGrenadier: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog Monkey AntiGrenadier
+Monkey: CourageTheDog Pacifist AntiGrenadier
+AntiGrenadier: CourageTheDog Pacifist Monkey
+CourageTheDog: AntiGrenadier Pacifist Monkey
+Generated: 2014/08/12 09:46:35.404544276 UTC

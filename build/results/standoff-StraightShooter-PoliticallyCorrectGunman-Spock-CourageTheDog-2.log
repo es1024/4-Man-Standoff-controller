@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Spock CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb
+      PoliticallyCorrectGunman: N,Sd,N,N,Sb,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sd,N,Sd,N,Sb,N,N,N,N,N,N,N,Sa,N,Sa
+                 CourageTheDog: Sa,N,Db,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -6
+                         Spock: 5
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog PoliticallyCorrectGunman Spock
+PoliticallyCorrectGunman: CourageTheDog StraightShooter Spock
+Spock: CourageTheDog StraightShooter PoliticallyCorrectGunman
+CourageTheDog: Spock StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 06:02:37.122451768 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist TwentyFourthsAndAHalfCentury Sniper Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,Sc,N,Sa,N,Sc,N,Sa,N,Sc
+                        Sniper: Sb,N,Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,Sa,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+  TwentyFourthsAndAHalfCentury: 3
+                        Sniper: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Sniper Neo
+TwentyFourthsAndAHalfCentury: Pacifist Sniper Neo
+Sniper: Pacifist TwentyFourthsAndAHalfCentury Neo
+Neo: Pacifist TwentyFourthsAndAHalfCentury Sniper
+Generated: 2014/08/12 08:06:17.348092958 UTC

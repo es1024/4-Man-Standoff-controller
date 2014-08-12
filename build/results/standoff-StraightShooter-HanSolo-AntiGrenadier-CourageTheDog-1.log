@@ -1,0 +1,16 @@
+Standoff between: StraightShooter HanSolo AntiGrenadier CourageTheDog
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sa,N,Sa,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Db,Da,Da,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                       HanSolo: 5
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: AntiGrenadier CourageTheDog HanSolo
+HanSolo: AntiGrenadier CourageTheDog StraightShooter
+AntiGrenadier: HanSolo CourageTheDog StraightShooter
+CourageTheDog: HanSolo AntiGrenadier StraightShooter
+Generated: 2014/08/12 10:48:25.344210075 UTC

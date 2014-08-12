@@ -1,0 +1,16 @@
+Standoff between: Richochet Monkey Rule0Bot CourageTheDog
+                     Richochet: Sc,N,Sb,N,Sc,N,Sd,N,Sb,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,Da,Da,Sc,N,Sd,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Da,Da,Dc,Db,Db,Db,Db,Sb,N,Da,Da,Sa,N
+Final Health:
+                     Richochet: 1
+                        Monkey: -1
+                      Rule0Bot: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Monkey Rule0Bot CourageTheDog
+Monkey: Richochet Rule0Bot CourageTheDog
+Rule0Bot: Richochet Monkey CourageTheDog
+CourageTheDog: Richochet Monkey Rule0Bot
+Generated: 2014/08/12 09:22:13.127757440 UTC

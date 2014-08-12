@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Spock Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,N,N,Dd,Dd,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa,N,Sa,N,N,Sa,N,N,N,N,N,Sa,N,Sa,N
+                           Neo: N,Dc,Db,Dc,N,Dc,N,Dc,N,N,N,N,N,N,N,N,N,N,Sc,N,Sc,N,N,N,N,N,N,N,N,N,N,N,Dc,N,N,Sc
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                         Spock: -1
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Spock Neo
+PoliticallyCorrectGunman: Pacifist Spock Neo
+Spock: Pacifist PoliticallyCorrectGunman Neo
+Neo: Pacifist PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 06:21:12.962995387 UTC

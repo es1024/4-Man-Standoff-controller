@@ -1,0 +1,16 @@
+Standoff between: Monkey Ninja AntiGrenadier Rule0Bot
+                        Monkey: N,N,Dd,N,N,N,N,N,N,N,Db,Dc,Dc,N,N,N,N,N,Db,Dd,Dd,N,N,N,N,N,N,N,N,N,N,N,N,N,Dd,Dc,Dd,N,Db,N,Dd,N,N,Da,Dc,Dc,Dc,N,N,N
+                         Ninja: Da,Dd,Da,Dc,Dc,Db,Dd,Da,Dd,Db,Dc,Dc,Da,Da,Dc,Dd,Db,Db,Dd,Dd,Dc,Da,Db,Dd,Dc,Db,Dc,Da,Dc,Da,Db,Da,Db,Dd,Dc,Dd,Db,Db,Db,Dd,Dd,Db,Da,Dc,Dc,Dc,Db,Db,Db,Dc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Monkey: -15
+                         Ninja: -15
+                 AntiGrenadier: -15
+                      Rule0Bot: -15
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Monkey: Rule0Bot Ninja AntiGrenadier
+Ninja: Rule0Bot Monkey AntiGrenadier
+AntiGrenadier: Rule0Bot Monkey Ninja
+Rule0Bot: AntiGrenadier Monkey Ninja
+Generated: 2014/08/12 10:45:21.071314079 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Monkey EmoCowboy
+                     Grenadier: P,Tb
+                     Aggressor: P,Ta
+                        Monkey: N,P
+                     EmoCowboy: Sd,N
+Final Health:
+                     Grenadier: -9
+                     Aggressor: -9
+                        Monkey: -7
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Aggressor Monkey EmoCowboy
+Aggressor: Grenadier Monkey EmoCowboy
+Monkey: Grenadier Aggressor EmoCowboy
+EmoCowboy: Grenadier Aggressor Monkey
+Generated: 2014/08/12 08:43:26.496571433 UTC

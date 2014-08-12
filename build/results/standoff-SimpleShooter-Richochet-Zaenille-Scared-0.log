@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet Zaenille Scared
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sb
+                     Richochet: Sd,N,Sd,N,Sa,N,Sa
+                      Zaenille: Sc,N,N,N,N,N,N
+                        Scared: Sc,N,Sa,N,N,N,N
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+                      Zaenille: -4
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Richochet Zaenille Scared
+Richochet: SimpleShooter Zaenille Scared
+Zaenille: SimpleShooter Richochet Scared
+Scared: SimpleShooter Richochet Zaenille
+Generated: 2014/08/12 06:37:20.992257484 UTC

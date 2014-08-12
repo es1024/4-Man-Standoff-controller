@@ -1,0 +1,16 @@
+Standoff between: Pacifist Richochet Zaenille Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                     Richochet: 5
+                      Zaenille: -2
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey Richochet Zaenille
+Richochet: Monkey Pacifist Zaenille
+Zaenille: Monkey Pacifist Richochet
+Monkey: Zaenille Pacifist Richochet
+Generated: 2014/08/12 09:54:59.357818333 UTC

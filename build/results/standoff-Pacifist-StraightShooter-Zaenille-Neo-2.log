@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter Zaenille Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Da,N,N,Db,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sb,N,N,Db,Sb,N,N,N,N,Db,Sb
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -1
+                      Zaenille: -2
+                           Neo: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Neo StraightShooter Zaenille
+StraightShooter: Neo Pacifist Zaenille
+Zaenille: Neo Pacifist StraightShooter
+Neo: Zaenille Pacifist StraightShooter
+Generated: 2014/08/12 07:51:51.024458220 UTC

@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Rule0Bot CourageTheDog
+                        Coward: Sd,N,Sd,N,Sc,N,Sb,N,Sb,N,Sb
+                     Richochet: Sd,N,Sc,N,Sc,N,Sa,N,Sa,N,Sa
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: N,Sc,N,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: -1
+                      Rule0Bot: -3
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet Rule0Bot CourageTheDog
+Richochet: Coward Rule0Bot CourageTheDog
+Rule0Bot: Coward Richochet CourageTheDog
+CourageTheDog: Coward Richochet Rule0Bot
+Generated: 2014/08/12 07:28:58.766014781 UTC

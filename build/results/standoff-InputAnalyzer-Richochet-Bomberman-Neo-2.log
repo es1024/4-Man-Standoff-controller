@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Richochet Bomberman Neo
+                 InputAnalyzer: Dd,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sd,N,Sc,N,Sd,N,Sd,N,Sc,N,Sc,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,Db,N,Db,Dc,Db,Dc,Db,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                     Richochet: 3
+                     Bomberman: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo Richochet Bomberman
+Richochet: Neo InputAnalyzer Bomberman
+Bomberman: Neo InputAnalyzer Richochet
+Neo: Bomberman InputAnalyzer Richochet
+Generated: 2014/08/12 06:18:28.233578182 UTC

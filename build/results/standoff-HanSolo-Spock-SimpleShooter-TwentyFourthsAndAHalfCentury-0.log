@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock SimpleShooter TwentyFourthsAndAHalfCentury
+                       HanSolo: Sb,N,Sb,N,Sb,N,Sc,N,Sc
+                         Spock: Sa,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sd,N,Sd,N,Sa,N,Sd,N,Sa
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                         Spock: -1
+                 SimpleShooter: 1
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Spock SimpleShooter TwentyFourthsAndAHalfCentury
+Spock: HanSolo SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: HanSolo Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: HanSolo Spock SimpleShooter
+Generated: 2014/08/12 09:15:31.217628216 UTC

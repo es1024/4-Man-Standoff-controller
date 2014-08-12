@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO AntiGrenadier Sniper
+      PoliticallyCorrectGunman: Dd,N,Sd,N,N,Db,P,Tb
+                 DONTNUKEMEBRO: Dc,Dd,Da,Dc,Dc,Dc,Dd,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,Sa,N,Sc,N,Sc,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -3
+                 AntiGrenadier: -1
+                        Sniper: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: DONTNUKEMEBRO AntiGrenadier Sniper
+DONTNUKEMEBRO: PoliticallyCorrectGunman AntiGrenadier Sniper
+AntiGrenadier: PoliticallyCorrectGunman DONTNUKEMEBRO Sniper
+Sniper: PoliticallyCorrectGunman DONTNUKEMEBRO AntiGrenadier
+Generated: 2014/08/12 08:29:31.404378523 UTC

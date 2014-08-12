@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Zaenille AntiGrenadier CourageTheDog
+                 SimpleShooter: Sd,N,Sc,N,Sd,N,Sd
+                      Zaenille: Sb,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Da,Sc,N,Dc,Sc
+Final Health:
+                 SimpleShooter: 5
+                      Zaenille: -4
+                 AntiGrenadier: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Zaenille AntiGrenadier CourageTheDog
+Zaenille: SimpleShooter AntiGrenadier CourageTheDog
+AntiGrenadier: SimpleShooter Zaenille CourageTheDog
+CourageTheDog: SimpleShooter Zaenille AntiGrenadier
+Generated: 2014/08/12 07:09:40.412853252 UTC

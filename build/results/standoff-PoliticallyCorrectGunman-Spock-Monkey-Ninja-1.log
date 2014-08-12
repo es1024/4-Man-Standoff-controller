@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Monkey Ninja
+      PoliticallyCorrectGunman: N,Sd,N,Dc,N,N,N,N,N,N,Sc,N,N,N,N,Sd,N,Db,Sc,N,N,N,N,P,N,N
+                         Spock: Sc,N,Sc,N,N,N,N,N,N,Sc,N,Sd,N,Sd,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N
+                        Monkey: N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Dc,Dc,Db,Db,Dd,Db,Db,Dd,Da,Dc,Da,Db,Dc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -1
+                         Spock: 2
+                        Monkey: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Monkey Ninja Spock
+Spock: Monkey Ninja PoliticallyCorrectGunman
+Monkey: Spock Ninja PoliticallyCorrectGunman
+Ninja: Spock Monkey PoliticallyCorrectGunman
+Generated: 2014/08/12 08:53:16.436393773 UTC

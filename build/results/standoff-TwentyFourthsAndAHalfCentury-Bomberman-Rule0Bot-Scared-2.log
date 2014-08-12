@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman Rule0Bot Scared
+  TwentyFourthsAndAHalfCentury: Db,Db,N,N,N,N,N,N,N,Sd,N,Sc,N,Sb,N,Sb,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,Sb,N,Sc,N,Sa,N,Sc,N,Sa
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                      Rule0Bot: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Scared Bomberman Rule0Bot
+Bomberman: Scared TwentyFourthsAndAHalfCentury Rule0Bot
+Rule0Bot: Scared TwentyFourthsAndAHalfCentury Bomberman
+Scared: Rule0Bot TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 06:36:02.031643745 UTC

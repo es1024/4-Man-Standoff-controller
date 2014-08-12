@@ -1,0 +1,16 @@
+Standoff between: Pacifist AntiGrenadier Scared CourageTheDog
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sb,N,Sd,N,Sb,N,Sd,N,Sa,N,N,N,N,N,N,N,N,N,Sd,N,Sd,N,Sd
+                 CourageTheDog: Sc,N,Dc,Dc,Db,Da,Da,Da,Da,Db,Db,Sb,N,Da,Sa,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -1
+                 AntiGrenadier: -1
+                        Scared: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog AntiGrenadier Scared
+AntiGrenadier: CourageTheDog Pacifist Scared
+Scared: CourageTheDog Pacifist AntiGrenadier
+CourageTheDog: Scared Pacifist AntiGrenadier
+Generated: 2014/08/12 05:54:47.305837989 UTC

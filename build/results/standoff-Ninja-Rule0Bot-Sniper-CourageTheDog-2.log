@@ -1,0 +1,16 @@
+Standoff between: Ninja Rule0Bot Sniper CourageTheDog
+                         Ninja: Da,Dc,Dd,Dd,Da,Db,Dd,Dc,Dd,Da,Da,Dd,Dc,Da,Da,Db,Dd,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Dc,Da,Dc,Dc,Da,Sa,N,Dc,Sa,N,Dc,Da,Sa,N,Sc,N,Sc,N,Sc
+Final Health:
+                         Ninja: -1
+                      Rule0Bot: -1
+                        Sniper: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Ninja: CourageTheDog Rule0Bot Sniper
+Rule0Bot: CourageTheDog Ninja Sniper
+Sniper: CourageTheDog Ninja Rule0Bot
+CourageTheDog: Sniper Ninja Rule0Bot
+Generated: 2014/08/12 09:07:13.522215699 UTC

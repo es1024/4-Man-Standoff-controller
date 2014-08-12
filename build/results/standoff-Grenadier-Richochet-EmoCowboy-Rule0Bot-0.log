@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet EmoCowboy Rule0Bot
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sc,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: N,N,N,N,N,N,N,N,Sc,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -1
+                     Richochet: 5
+                     EmoCowboy: -2
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet EmoCowboy Rule0Bot
+Richochet: Grenadier EmoCowboy Rule0Bot
+EmoCowboy: Grenadier Richochet Rule0Bot
+Rule0Bot: Grenadier Richochet EmoCowboy
+Generated: 2014/08/12 07:29:17.438680314 UTC

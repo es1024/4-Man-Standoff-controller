@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Ninja AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Dc,Dc,Dd,Sa,N,Sa,N,Sc,N,Dc,N,Da,Sd,N,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dd,Db,Da,Dc,Dd,Da,Da,Da,Dd,Dc,Db,Dd,Db,Dd,Da,Dd,Db,Dc,Dc,Db,Da,Dc,Dd,Da,Db,Dc,Dc,Db,Db,Dc,Dc,Da,Da,Dc,Dc,Db,Db,Dd,Dd,Db,Da,Dd,Dc,Da,Dd,Da,Db,Dc,Da,Da
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -19
+      PoliticallyCorrectGunman: -2
+                         Ninja: -17
+                 AntiGrenadier: -17
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Ninja AntiGrenadier PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Ninja AntiGrenadier Pacifist
+Ninja: PoliticallyCorrectGunman AntiGrenadier Pacifist
+AntiGrenadier: PoliticallyCorrectGunman Ninja Pacifist
+Generated: 2014/08/12 09:31:45.569784080 UTC

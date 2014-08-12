@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Bomberman Neo
+                 InputAnalyzer: Dc,P,N,Da,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sc
+                     Bomberman: N,N,N,N,N,N,N
+                           Neo: N,N,Da,Da,N,N,N
+Final Health:
+                 InputAnalyzer: -5
+                        Coward: 2
+                     Bomberman: 0
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Neo Coward
+Coward: Bomberman Neo InputAnalyzer
+Bomberman: Coward Neo InputAnalyzer
+Neo: Coward Bomberman InputAnalyzer
+Generated: 2014/08/12 07:00:30.688786515 UTC

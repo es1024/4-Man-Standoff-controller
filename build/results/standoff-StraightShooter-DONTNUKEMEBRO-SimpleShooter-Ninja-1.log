@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 DONTNUKEMEBRO: Da,Da,Da,Da,Da,Da,Sc,N,Dc,Da,Sc,N,Sc
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,Sa,N,Sb,N,Sb,N,Sa
+                         Ninja: Da,Da,Db,Dc,Dc,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: 1
+                 SimpleShooter: -1
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Ninja DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Ninja StraightShooter
+SimpleShooter: DONTNUKEMEBRO Ninja StraightShooter
+Ninja: DONTNUKEMEBRO SimpleShooter StraightShooter
+Generated: 2014/08/12 10:35:47.847456037 UTC

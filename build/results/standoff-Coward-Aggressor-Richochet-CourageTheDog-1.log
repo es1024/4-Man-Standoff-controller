@@ -1,0 +1,16 @@
+Standoff between: Coward Aggressor Richochet CourageTheDog
+                        Coward: Sb,N
+                     Aggressor: P,Tc
+                     Richochet: Sa,N
+                 CourageTheDog: Sa,N
+Final Health:
+                        Coward: -2
+                     Aggressor: 0
+                     Richochet: -3
+                 CourageTheDog: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: Richochet CourageTheDog Aggressor
+Aggressor: Richochet CourageTheDog Coward
+Richochet: Aggressor CourageTheDog Coward
+CourageTheDog: Aggressor Richochet Coward
+Generated: 2014/08/12 08:10:41.102804984 UTC

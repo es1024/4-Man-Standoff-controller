@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer SimpleShooter Richochet
+                     Grenadier: N,N,P,Tc
+                 InputAnalyzer: Dc,Da,Sb,N
+                 SimpleShooter: Sa,N,Sd,N
+                     Richochet: Sc,N,Sb,N
+Final Health:
+                     Grenadier: 0
+                 InputAnalyzer: -4
+                 SimpleShooter: -5
+                     Richochet: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: SimpleShooter Richochet InputAnalyzer
+InputAnalyzer: SimpleShooter Richochet Grenadier
+SimpleShooter: InputAnalyzer Richochet Grenadier
+Richochet: InputAnalyzer SimpleShooter Grenadier
+Generated: 2014/08/12 06:59:43.515509166 UTC

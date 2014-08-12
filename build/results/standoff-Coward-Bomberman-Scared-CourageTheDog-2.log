@@ -1,0 +1,16 @@
+Standoff between: Coward Bomberman Scared CourageTheDog
+                        Coward: Sc,N,Sc,N,Sc,N,Sb,N,Sd,N,Sd,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sb,N,Sd,N,Sd,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Db,Db,Dc,Sb,N,Da,Da,Sa,N,Sa
+Final Health:
+                        Coward: -1
+                     Bomberman: -1
+                        Scared: -1
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: CourageTheDog Bomberman Scared
+Bomberman: CourageTheDog Coward Scared
+Scared: CourageTheDog Coward Bomberman
+CourageTheDog: Scared Coward Bomberman
+Generated: 2014/08/12 10:09:08.932220740 UTC

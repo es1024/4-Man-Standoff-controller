@@ -1,0 +1,16 @@
+Standoff between: StraightShooter SimpleShooter Coward Monkey
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N
+                 SimpleShooter: Sc,N,Sa,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                 SimpleShooter: -3
+                        Coward: 3
+                        Monkey: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Monkey SimpleShooter Coward
+SimpleShooter: Monkey StraightShooter Coward
+Coward: Monkey StraightShooter SimpleShooter
+Monkey: Coward StraightShooter SimpleShooter
+Generated: 2014/08/12 10:30:58.077318407 UTC

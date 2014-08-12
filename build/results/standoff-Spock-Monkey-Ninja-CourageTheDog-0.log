@@ -1,0 +1,16 @@
+Standoff between: Spock Monkey Ninja CourageTheDog
+                         Spock: Sb,N,Sc,N,Sc,N,Sb,N,Sb,N,Sb
+                        Monkey: N,Sb,N,N,N,N,N,N,N,N,N
+                         Ninja: Db,Da,Db,Dd,Dd,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Dc,Da,Sa,N,Da,Da,Sa,N,Sa
+Final Health:
+                         Spock: -1
+                        Monkey: -2
+                         Ninja: -1
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Monkey Ninja CourageTheDog
+Monkey: Spock Ninja CourageTheDog
+Ninja: Spock Monkey CourageTheDog
+CourageTheDog: Spock Monkey Ninja
+Generated: 2014/08/12 08:28:49.764297953 UTC

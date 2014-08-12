@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter Coward Richochet
+                         Spock: Sc,N,N,N,N,N,N
+                 SimpleShooter: Sa,N,Sd,N,Sd,N,Sc
+                        Coward: Sa,N,Sd,N,Dd,Sb,N
+                     Richochet: Sa,N,Sc,N,Sb,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 1
+                        Coward: -1
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Richochet SimpleShooter
+SimpleShooter: Coward Richochet Spock
+Coward: SimpleShooter Richochet Spock
+Richochet: SimpleShooter Coward Spock
+Generated: 2014/08/12 08:40:23.439542681 UTC

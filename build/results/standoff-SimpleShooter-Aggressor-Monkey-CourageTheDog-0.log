@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Aggressor Monkey CourageTheDog
+                 SimpleShooter: Sd,N
+                     Aggressor: P,Ta
+                        Monkey: N,P
+                 CourageTheDog: Sb,N
+Final Health:
+                 SimpleShooter: -3
+                     Aggressor: 0
+                        Monkey: 2
+                 CourageTheDog: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Aggressor Monkey CourageTheDog
+Aggressor: SimpleShooter Monkey CourageTheDog
+Monkey: SimpleShooter Aggressor CourageTheDog
+CourageTheDog: SimpleShooter Aggressor Monkey
+Generated: 2014/08/12 09:58:01.622423442 UTC

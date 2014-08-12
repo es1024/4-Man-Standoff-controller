@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor Monkey Bomberman
+                     Grenadier: N,N,P,N,N
+                     Aggressor: P,Tc,Sd,N,Sa
+                        Monkey: N,N,N,N,N
+                     Bomberman: N,N,N,N,N
+Final Health:
+                     Grenadier: -6
+                     Aggressor: -1
+                        Monkey: -3
+                     Bomberman: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Monkey Bomberman Aggressor
+Aggressor: Monkey Bomberman Grenadier
+Monkey: Aggressor Bomberman Grenadier
+Bomberman: Aggressor Monkey Grenadier
+Generated: 2014/08/12 06:52:38.681574287 UTC

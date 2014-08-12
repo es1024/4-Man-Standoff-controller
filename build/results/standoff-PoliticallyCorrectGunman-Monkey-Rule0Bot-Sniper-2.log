@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Monkey Rule0Bot Sniper
+      PoliticallyCorrectGunman: N,N,N,N,N,N,Sb,N,N,N,Db,Sc,N,Sd,N,Db,N,N,N,N,N,N,Sc,N,Db,P,Dc,Td
+                        Monkey: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sa,N,Sb,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sc,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: 0
+                        Monkey: -3
+                      Rule0Bot: -1
+                        Sniper: -5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Sniper Monkey Rule0Bot
+Monkey: Sniper PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: Sniper PoliticallyCorrectGunman Monkey
+Sniper: Rule0Bot PoliticallyCorrectGunman Monkey
+Generated: 2014/08/12 05:58:56.378909457 UTC

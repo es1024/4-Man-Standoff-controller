@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury
+                      Pacifist: N,N,N,N
+      PoliticallyCorrectGunman: N,Sa,N,N
+                     Aggressor: P,Ta,Sb,N
+  TwentyFourthsAndAHalfCentury: Db,Dc,Dc,Sc
+Final Health:
+                      Pacifist: -5
+      PoliticallyCorrectGunman: 0
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury
+PoliticallyCorrectGunman: Pacifist Aggressor TwentyFourthsAndAHalfCentury
+Aggressor: Pacifist PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Pacifist PoliticallyCorrectGunman Aggressor
+Generated: 2014/08/12 05:54:58.415891570 UTC

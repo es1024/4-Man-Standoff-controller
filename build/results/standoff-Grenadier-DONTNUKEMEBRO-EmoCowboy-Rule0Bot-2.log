@@ -1,0 +1,16 @@
+Standoff between: Grenadier DONTNUKEMEBRO EmoCowboy Rule0Bot
+                     Grenadier: P,Td
+                 DONTNUKEMEBRO: Dd,Sa
+                     EmoCowboy: Sc,N
+                      Rule0Bot: N,N
+Final Health:
+                     Grenadier: 0
+                 DONTNUKEMEBRO: 2
+                     EmoCowboy: -2
+                      Rule0Bot: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Rule0Bot DONTNUKEMEBRO EmoCowboy
+DONTNUKEMEBRO: Rule0Bot Grenadier EmoCowboy
+EmoCowboy: Rule0Bot Grenadier DONTNUKEMEBRO
+Rule0Bot: EmoCowboy Grenadier DONTNUKEMEBRO
+Generated: 2014/08/12 05:47:43.442741897 UTC

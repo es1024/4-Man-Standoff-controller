@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock TwentyFourthsAndAHalfCentury Scared
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sa,N,N,Sa,N,N,N,N,Sa,N,Sc,N,Sd,N
+  TwentyFourthsAndAHalfCentury: Da,Da,N,N,N,N,N,N,Sd,N,Sb,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,Sb,N,Sc,N,Sc,N,Sb
+Final Health:
+                      Pacifist: -1
+                         Spock: -1
+  TwentyFourthsAndAHalfCentury: -1
+                        Scared: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Spock TwentyFourthsAndAHalfCentury Scared
+Spock: Pacifist TwentyFourthsAndAHalfCentury Scared
+TwentyFourthsAndAHalfCentury: Pacifist Spock Scared
+Scared: Pacifist Spock TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:28:27.726429484 UTC

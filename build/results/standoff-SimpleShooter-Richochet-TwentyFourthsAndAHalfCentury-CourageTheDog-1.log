@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Richochet TwentyFourthsAndAHalfCentury CourageTheDog
+                 SimpleShooter: Sb,N,Sc,N,Sd,N,Sc,N,Sb,N
+                     Richochet: Sd,N,Sd,N,Sc,N,Sc,N,Sa,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Db,N,Da,Dd,Da,Sd
+                 CourageTheDog: Sb,N,Db,Dc,Sa,N,Da,Sa,N,Sc
+Final Health:
+                 SimpleShooter: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: TwentyFourthsAndAHalfCentury CourageTheDog Richochet
+Richochet: TwentyFourthsAndAHalfCentury CourageTheDog SimpleShooter
+TwentyFourthsAndAHalfCentury: Richochet CourageTheDog SimpleShooter
+CourageTheDog: Richochet TwentyFourthsAndAHalfCentury SimpleShooter
+Generated: 2014/08/12 10:14:56.814051232 UTC

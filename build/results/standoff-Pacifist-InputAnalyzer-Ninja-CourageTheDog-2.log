@@ -1,0 +1,16 @@
+Standoff between: Pacifist InputAnalyzer Ninja CourageTheDog
+                      Pacifist: N,N,N,N
+                 InputAnalyzer: Dd,P,Db,N
+                         Ninja: Dd,Dd,Dd,Dd
+                 CourageTheDog: Sa,N,P,Tc
+Final Health:
+                      Pacifist: -3
+                 InputAnalyzer: -4
+                         Ninja: -6
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: CourageTheDog InputAnalyzer Ninja
+InputAnalyzer: CourageTheDog Pacifist Ninja
+Ninja: CourageTheDog Pacifist InputAnalyzer
+CourageTheDog: Ninja Pacifist InputAnalyzer
+Generated: 2014/08/12 08:12:16.905649260 UTC

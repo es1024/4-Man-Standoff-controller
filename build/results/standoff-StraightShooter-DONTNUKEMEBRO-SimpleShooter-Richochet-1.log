@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO SimpleShooter Richochet
+               StraightShooter: Sd,N,Sd,N,Sd,N
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Dc,P,Ta
+                 SimpleShooter: Sa,N,Sb,N,Sa,N
+                     Richochet: Sc,N,Sb,N,Sb,N
+Final Health:
+               StraightShooter: -7
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: 0
+                     Richochet: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: SimpleShooter Richochet DONTNUKEMEBRO
+DONTNUKEMEBRO: SimpleShooter Richochet StraightShooter
+SimpleShooter: DONTNUKEMEBRO Richochet StraightShooter
+Richochet: DONTNUKEMEBRO SimpleShooter StraightShooter
+Generated: 2014/08/12 07:23:09.118056249 UTC

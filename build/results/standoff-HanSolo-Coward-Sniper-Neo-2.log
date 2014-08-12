@@ -1,0 +1,16 @@
+Standoff between: HanSolo Coward Sniper Neo
+                       HanSolo: Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N
+                        Coward: Sc,N,Sc,N,Sc,N,Sa,N,Da,Dc,Da,Sa
+                        Sniper: Sb,N,Sa,N,Sd,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -1
+                        Coward: 1
+                        Sniper: -1
+                           Neo: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Neo Coward Sniper
+Coward: Neo HanSolo Sniper
+Sniper: Neo HanSolo Coward
+Neo: Sniper HanSolo Coward
+Generated: 2014/08/12 08:52:27.665965792 UTC

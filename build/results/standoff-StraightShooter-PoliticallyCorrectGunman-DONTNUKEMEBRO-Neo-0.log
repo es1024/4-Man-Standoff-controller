@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,N,Sd,N,P,Sc,N
+                 DONTNUKEMEBRO: Db,Db,Sa,N,Sa,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,Da,N,Db,N
+Final Health:
+               StraightShooter: -2
+      PoliticallyCorrectGunman: -1
+                 DONTNUKEMEBRO: -1
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman DONTNUKEMEBRO Neo
+PoliticallyCorrectGunman: StraightShooter DONTNUKEMEBRO Neo
+DONTNUKEMEBRO: StraightShooter PoliticallyCorrectGunman Neo
+Neo: StraightShooter PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 08:55:05.336944851 UTC

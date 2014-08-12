@@ -1,0 +1,16 @@
+Standoff between: Grenadier InputAnalyzer Spock Rule0Bot
+                     Grenadier: N,P,N,N,N,N
+                 InputAnalyzer: Da,Dc,Db,P,Db,Dd
+                         Spock: Sa,N,Sa,N,N,N
+                      Rule0Bot: N,N,Sa,N,N,N
+Final Health:
+                     Grenadier: -7
+                 InputAnalyzer: -4
+                         Spock: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Spock Rule0Bot
+InputAnalyzer: Grenadier Spock Rule0Bot
+Spock: Grenadier InputAnalyzer Rule0Bot
+Rule0Bot: Grenadier InputAnalyzer Spock
+Generated: 2014/08/12 10:24:36.331046225 UTC

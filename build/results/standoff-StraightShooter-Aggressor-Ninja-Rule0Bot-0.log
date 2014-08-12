@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Ninja Rule0Bot
+               StraightShooter: Sc,N
+                     Aggressor: P,Ta
+                         Ninja: Db,Db
+                      Rule0Bot: N,Sb
+Final Health:
+               StraightShooter: -3
+                     Aggressor: 0
+                         Ninja: 0
+                      Rule0Bot: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Aggressor Ninja Rule0Bot
+Aggressor: StraightShooter Ninja Rule0Bot
+Ninja: StraightShooter Aggressor Rule0Bot
+Rule0Bot: StraightShooter Aggressor Ninja
+Generated: 2014/08/12 09:38:48.914303317 UTC

@@ -1,0 +1,16 @@
+Standoff between: Richochet Ninja Neo CourageTheDog
+                     Richochet: Sb,N,Sc,N,Sb,N,Sd,N,Sc,N,Sc,N,Sd,N,Sd
+                         Ninja: Dc,Dd,Dc,Dd,Db,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Dc,Dc,Dc,Dc,Dc,Da,Da,Dc,Dc,Sa,N,Sa,N
+Final Health:
+                     Richochet: 1
+                         Ninja: -1
+                           Neo: -1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: Ninja Neo CourageTheDog
+Ninja: Richochet Neo CourageTheDog
+Neo: Richochet Ninja CourageTheDog
+CourageTheDog: Richochet Ninja Neo
+Generated: 2014/08/12 08:25:46.378627843 UTC

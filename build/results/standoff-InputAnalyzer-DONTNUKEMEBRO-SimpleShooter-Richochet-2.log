@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO SimpleShooter Richochet
+                 InputAnalyzer: Dd,P,N,Db
+                 DONTNUKEMEBRO: Da,Da,Sa,N
+                 SimpleShooter: Sb,N,Sa,N
+                     Richochet: Sc,N,Sb,N
+Final Health:
+                 InputAnalyzer: -5
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: 0
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Richochet DONTNUKEMEBRO SimpleShooter
+DONTNUKEMEBRO: Richochet InputAnalyzer SimpleShooter
+SimpleShooter: Richochet InputAnalyzer DONTNUKEMEBRO
+Richochet: SimpleShooter InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 06:31:52.219215890 UTC

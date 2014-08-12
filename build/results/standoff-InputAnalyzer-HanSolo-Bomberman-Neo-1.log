@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Bomberman Neo
+                 InputAnalyzer: Dc,P,Dc,Db,N
+                       HanSolo: Sc,N,Sc,N,Sd
+                     Bomberman: N,N,N,N,N
+                           Neo: N,N,Da,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 2
+                     Bomberman: -2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Neo HanSolo
+HanSolo: Bomberman Neo InputAnalyzer
+Bomberman: HanSolo Neo InputAnalyzer
+Neo: HanSolo Bomberman InputAnalyzer
+Generated: 2014/08/12 05:58:24.048219033 UTC

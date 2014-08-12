@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sc,N,Da,Sd,N,Da,Sc,N,Da,P,Dd
+                 DONTNUKEMEBRO: Dd,Dd,Sb,N,Db,Db,Db,Da,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,Sb
+Final Health:
+                      Pacifist: 2
+      PoliticallyCorrectGunman: -7
+                 DONTNUKEMEBRO: 0
+                 AntiGrenadier: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman DONTNUKEMEBRO AntiGrenadier
+PoliticallyCorrectGunman: Pacifist DONTNUKEMEBRO AntiGrenadier
+DONTNUKEMEBRO: Pacifist PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 05:54:57.495747860 UTC

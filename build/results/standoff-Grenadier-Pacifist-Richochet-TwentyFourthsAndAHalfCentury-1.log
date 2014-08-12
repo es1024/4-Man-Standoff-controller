@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist Richochet TwentyFourthsAndAHalfCentury
+                     Grenadier: N,P,Tc
+                      Pacifist: N,N,N
+                     Richochet: Sb,N,Sa
+  TwentyFourthsAndAHalfCentury: Dc,Da,Da
+Final Health:
+                     Grenadier: 0
+                      Pacifist: 0
+                     Richochet: -3
+  TwentyFourthsAndAHalfCentury: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Richochet TwentyFourthsAndAHalfCentury Pacifist
+Pacifist: Richochet TwentyFourthsAndAHalfCentury Grenadier
+Richochet: Pacifist TwentyFourthsAndAHalfCentury Grenadier
+TwentyFourthsAndAHalfCentury: Pacifist Richochet Grenadier
+Generated: 2014/08/12 06:50:29.052394222 UTC

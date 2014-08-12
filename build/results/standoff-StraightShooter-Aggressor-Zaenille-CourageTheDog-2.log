@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Aggressor Zaenille CourageTheDog
+               StraightShooter: Sb,N
+                     Aggressor: P,Td
+                      Zaenille: Sc,N
+                 CourageTheDog: Sb,N
+Final Health:
+               StraightShooter: 2
+                     Aggressor: -2
+                      Zaenille: -2
+                 CourageTheDog: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Aggressor Zaenille
+Aggressor: CourageTheDog StraightShooter Zaenille
+Zaenille: CourageTheDog StraightShooter Aggressor
+CourageTheDog: Zaenille StraightShooter Aggressor
+Generated: 2014/08/12 08:57:19.851436654 UTC

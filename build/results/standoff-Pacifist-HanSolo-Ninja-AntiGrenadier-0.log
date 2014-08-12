@@ -1,0 +1,16 @@
+Standoff between: Pacifist HanSolo Ninja AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                         Ninja: Da,Dc,Dc,Dc,Db,Db,Da,Da,Da,Dd,Dc,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                       HanSolo: 5
+                         Ninja: -1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: HanSolo Ninja AntiGrenadier
+HanSolo: Pacifist Ninja AntiGrenadier
+Ninja: Pacifist HanSolo AntiGrenadier
+AntiGrenadier: Pacifist HanSolo Ninja
+Generated: 2014/08/12 10:05:17.104722462 UTC

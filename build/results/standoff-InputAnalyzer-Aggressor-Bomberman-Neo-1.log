@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Bomberman Neo
+                 InputAnalyzer: Dc,Db,P,Sa
+                     Aggressor: P,Tc,Sd,N
+                     Bomberman: N,N,N,N
+                           Neo: N,N,N,N
+Final Health:
+                 InputAnalyzer: -8
+                     Aggressor: -1
+                     Bomberman: -3
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Bomberman Neo Aggressor
+Aggressor: Bomberman Neo InputAnalyzer
+Bomberman: Aggressor Neo InputAnalyzer
+Neo: Aggressor Bomberman InputAnalyzer
+Generated: 2014/08/12 08:05:50.827634744 UTC

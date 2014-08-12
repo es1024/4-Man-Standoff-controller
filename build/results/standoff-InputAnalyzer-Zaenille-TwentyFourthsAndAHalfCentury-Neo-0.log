@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury Neo
+                 InputAnalyzer: Db,Sd,N,P,Sd,N
+                      Zaenille: Sb,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,N,N,N,N,N
+                           Neo: N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 2
+                           Neo: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Zaenille TwentyFourthsAndAHalfCentury Neo
+Zaenille: InputAnalyzer TwentyFourthsAndAHalfCentury Neo
+TwentyFourthsAndAHalfCentury: InputAnalyzer Zaenille Neo
+Neo: InputAnalyzer Zaenille TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:33:02.689870426 UTC

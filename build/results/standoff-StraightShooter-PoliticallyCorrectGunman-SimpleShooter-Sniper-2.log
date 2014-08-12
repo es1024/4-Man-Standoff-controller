@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman SimpleShooter Sniper
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter: Sb,N,Sa,N,Sd,N,Sa,N,Sd,N,Sd
+                        Sniper: Sc,N,N,N,N,N,N,Sa,N,N,N
+Final Health:
+               StraightShooter: -1
+      PoliticallyCorrectGunman: -6
+                 SimpleShooter: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: Sniper PoliticallyCorrectGunman SimpleShooter
+PoliticallyCorrectGunman: Sniper StraightShooter SimpleShooter
+SimpleShooter: Sniper StraightShooter PoliticallyCorrectGunman
+Sniper: SimpleShooter StraightShooter PoliticallyCorrectGunman
+Generated: 2014/08/12 05:49:07.886977784 UTC

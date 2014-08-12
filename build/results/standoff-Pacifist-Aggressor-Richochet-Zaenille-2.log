@@ -1,0 +1,16 @@
+Standoff between: Pacifist Aggressor Richochet Zaenille
+                      Pacifist: N,N
+                     Aggressor: P,Tc
+                     Richochet: Sa,N
+                      Zaenille: Sd,N
+Final Health:
+                      Pacifist: 0
+                     Aggressor: 2
+                     Richochet: -3
+                      Zaenille: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Zaenille Aggressor Richochet
+Aggressor: Zaenille Pacifist Richochet
+Richochet: Zaenille Pacifist Aggressor
+Zaenille: Richochet Pacifist Aggressor
+Generated: 2014/08/12 08:09:40.391406330 UTC

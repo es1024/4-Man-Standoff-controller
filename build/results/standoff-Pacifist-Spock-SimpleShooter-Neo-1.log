@@ -1,0 +1,16 @@
+Standoff between: Pacifist Spock SimpleShooter Neo
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,N,Sc,N,Sc,N,Sd,N,Sd,N,Sa,N,N,Sa
+                 SimpleShooter: Sa,N,Sd,N,Sb,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,Da,Da,N,Da,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                         Spock: 3
+                 SimpleShooter: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: SimpleShooter Neo Spock
+Spock: SimpleShooter Neo Pacifist
+SimpleShooter: Spock Neo Pacifist
+Neo: Spock SimpleShooter Pacifist
+Generated: 2014/08/12 10:32:11.468646565 UTC

@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward Aggressor Richochet
+                      Pacifist: N,N
+                        Coward: Sc,N
+                     Aggressor: P,Td
+                     Richochet: Sa,N
+Final Health:
+                      Pacifist: 0
+                        Coward: 2
+                     Aggressor: 0
+                     Richochet: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Richochet Coward Aggressor
+Coward: Richochet Pacifist Aggressor
+Aggressor: Richochet Pacifist Coward
+Richochet: Aggressor Pacifist Coward
+Generated: 2014/08/12 06:32:33.570854405 UTC

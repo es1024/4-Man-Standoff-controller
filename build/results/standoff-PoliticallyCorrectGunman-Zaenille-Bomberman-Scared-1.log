@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille Bomberman Scared
+      PoliticallyCorrectGunman: Sa,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N
+                        Scared: Sb,N,Sc,N,Sc,N,Sc
+Final Health:
+      PoliticallyCorrectGunman: -2
+                      Zaenille: -4
+                     Bomberman: -1
+                        Scared: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman Scared Zaenille
+Zaenille: Bomberman Scared PoliticallyCorrectGunman
+Bomberman: Zaenille Scared PoliticallyCorrectGunman
+Scared: Zaenille Bomberman PoliticallyCorrectGunman
+Generated: 2014/08/12 05:48:01.062168712 UTC

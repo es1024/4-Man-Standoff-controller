@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Bomberman EmoCowboy CourageTheDog
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,Sc,N,N,N,N,N,N,N
+                 CourageTheDog: Sb,N,Sa,N,Sa,N,Da,Da,Sa
+Final Health:
+               StraightShooter: -1
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 CourageTheDog: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: CourageTheDog Bomberman EmoCowboy
+Bomberman: CourageTheDog StraightShooter EmoCowboy
+EmoCowboy: CourageTheDog StraightShooter Bomberman
+CourageTheDog: EmoCowboy StraightShooter Bomberman
+Generated: 2014/08/12 06:25:00.265770135 UTC

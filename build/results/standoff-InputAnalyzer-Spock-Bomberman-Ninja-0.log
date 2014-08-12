@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock Bomberman Ninja
+                 InputAnalyzer: Db,P,Sa,N,N,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sc,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Db,Dd,Da,Da,Db,Dd,Dd
+Final Health:
+                 InputAnalyzer: -10
+                         Spock: 2
+                     Bomberman: 0
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Spock Bomberman Ninja
+Spock: InputAnalyzer Bomberman Ninja
+Bomberman: InputAnalyzer Spock Ninja
+Ninja: InputAnalyzer Spock Bomberman
+Generated: 2014/08/12 10:27:13.157489342 UTC

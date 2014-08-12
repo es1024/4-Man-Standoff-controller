@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Spock EmoCowboy Ninja
+                 InputAnalyzer: Dc,Db,Dc,Db,Sc,N,P,N,Sc,N,N,N,N,N,N,N,N,N
+                         Spock: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,N,N,N,N,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dd,Dc,Db,Db,Dc,Dc,Db,Dd,Db,Dd,Dc,Db,Dc,Db,Dc,Da
+Final Health:
+                 InputAnalyzer: -1
+                         Spock: 2
+                     EmoCowboy: -4
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: EmoCowboy Ninja Spock
+Spock: EmoCowboy Ninja InputAnalyzer
+EmoCowboy: Spock Ninja InputAnalyzer
+Ninja: Spock EmoCowboy InputAnalyzer
+Generated: 2014/08/12 09:02:11.262356012 UTC

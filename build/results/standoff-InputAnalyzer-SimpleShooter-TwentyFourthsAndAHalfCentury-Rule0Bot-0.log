@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot
+                 InputAnalyzer: Db,Dc,Db,Sc,N,Dc,P,Db,Dd
+                 SimpleShooter: Sd,N,Sc,N,Sa,N,Sd,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,Dd,Da,Dd,Dd,Db,Da,Db
+                      Rule0Bot: N,N,N,N,N,N,N,Sa,N
+Final Health:
+                 InputAnalyzer: -5
+                 SimpleShooter: 2
+  TwentyFourthsAndAHalfCentury: 0
+                      Rule0Bot: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: SimpleShooter TwentyFourthsAndAHalfCentury Rule0Bot
+SimpleShooter: InputAnalyzer TwentyFourthsAndAHalfCentury Rule0Bot
+TwentyFourthsAndAHalfCentury: InputAnalyzer SimpleShooter Rule0Bot
+Rule0Bot: InputAnalyzer SimpleShooter TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 09:55:13.260969371 UTC

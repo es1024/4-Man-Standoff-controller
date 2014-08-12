@@ -1,0 +1,16 @@
+Standoff between: Pacifist DONTNUKEMEBRO SimpleShooter EmoCowboy
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Dc,Dc,Dc,Dd,Sc,N,Sc,N,Dc,Da,Sc,N,Sc,N,Dd,Dd,Dd,Da,Dc,Dc,Dc,Da,Da,Da,Dc,Dc,Dd,Dd,Da,Da,Dc,Dd,Da,Dd,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                 SimpleShooter: Sd,N,Sb,N,Sb,N,Sa,N,Sb,N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -17
+                 DONTNUKEMEBRO: -19
+                 SimpleShooter: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: DONTNUKEMEBRO SimpleShooter EmoCowboy
+DONTNUKEMEBRO: Pacifist SimpleShooter EmoCowboy
+SimpleShooter: Pacifist DONTNUKEMEBRO EmoCowboy
+EmoCowboy: Pacifist DONTNUKEMEBRO SimpleShooter
+Generated: 2014/08/12 08:42:19.905537593 UTC

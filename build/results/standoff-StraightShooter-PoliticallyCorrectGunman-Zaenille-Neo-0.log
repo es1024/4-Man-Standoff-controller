@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Zaenille Neo
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N
+      PoliticallyCorrectGunman: Dc,Sd,N,P,Da,N,N,N,N,N,N,N
+                      Zaenille: Sc,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Db,N,N,N,N,N,N,Da,N,Da,Sa
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -1
+                      Zaenille: -4
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Zaenille Neo
+PoliticallyCorrectGunman: StraightShooter Zaenille Neo
+Zaenille: StraightShooter PoliticallyCorrectGunman Neo
+Neo: StraightShooter PoliticallyCorrectGunman Zaenille
+Generated: 2014/08/12 10:48:51.116304832 UTC

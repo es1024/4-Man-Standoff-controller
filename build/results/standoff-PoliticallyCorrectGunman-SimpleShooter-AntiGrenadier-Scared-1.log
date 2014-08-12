@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman SimpleShooter AntiGrenadier Scared
+      PoliticallyCorrectGunman: P,Tc
+                 SimpleShooter: Sa,N
+                 AntiGrenadier: N,Sa
+                        Scared: Sb,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 SimpleShooter: 0
+                 AntiGrenadier: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: AntiGrenadier Scared SimpleShooter
+SimpleShooter: AntiGrenadier Scared PoliticallyCorrectGunman
+AntiGrenadier: SimpleShooter Scared PoliticallyCorrectGunman
+Scared: SimpleShooter AntiGrenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 09:24:05.837221725 UTC

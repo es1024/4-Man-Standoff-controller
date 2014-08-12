@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman Richochet Neo
+                      Pacifist: N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sa,N,N,N,Da,P,Sb,N
+                     Richochet: Sb,N,Sa,N,Sd,N,Sa,N
+                           Neo: N,N,N,N,Dc,Db,Dc,Sc
+Final Health:
+                      Pacifist: -4
+      PoliticallyCorrectGunman: -8
+                     Richochet: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman Richochet Neo
+PoliticallyCorrectGunman: Pacifist Richochet Neo
+Richochet: Pacifist PoliticallyCorrectGunman Neo
+Neo: Pacifist PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 06:06:11.457165302 UTC

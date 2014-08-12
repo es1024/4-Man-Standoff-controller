@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Coward Aggressor AntiGrenadier
+                 InputAnalyzer: Dd,Db,P
+                        Coward: Sc,N,Sa
+                     Aggressor: P,Td,N
+                 AntiGrenadier: N,Sc,N
+Final Health:
+                 InputAnalyzer: -6
+                        Coward: -1
+                     Aggressor: -2
+                 AntiGrenadier: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: AntiGrenadier Coward Aggressor
+Coward: AntiGrenadier InputAnalyzer Aggressor
+Aggressor: AntiGrenadier InputAnalyzer Coward
+AntiGrenadier: Aggressor InputAnalyzer Coward
+Generated: 2014/08/12 09:41:37.043725339 UTC

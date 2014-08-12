@@ -1,0 +1,16 @@
+Standoff between: Grenadier Aggressor TwentyFourthsAndAHalfCentury Sniper
+                     Grenadier: N,N,N,N,N,N,N,N,N,N,P,N,N
+                     Aggressor: P,Tc,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                     Aggressor: 0
+  TwentyFourthsAndAHalfCentury: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury Sniper Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury Sniper Grenadier
+TwentyFourthsAndAHalfCentury: Aggressor Sniper Grenadier
+Sniper: Aggressor TwentyFourthsAndAHalfCentury Grenadier
+Generated: 2014/08/12 08:18:41.551910941 UTC

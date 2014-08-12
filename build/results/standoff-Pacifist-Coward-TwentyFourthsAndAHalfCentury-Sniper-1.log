@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward TwentyFourthsAndAHalfCentury Sniper
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Da,Dc,Sc,N
+  TwentyFourthsAndAHalfCentury: N,Da,Db,N,Dd,Dd,Db,Dd,Db,Sb,N,Sb,N,Sb
+                        Sniper: Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: -1
+  TwentyFourthsAndAHalfCentury: 3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: TwentyFourthsAndAHalfCentury Sniper Coward
+Coward: TwentyFourthsAndAHalfCentury Sniper Pacifist
+TwentyFourthsAndAHalfCentury: Coward Sniper Pacifist
+Sniper: Coward TwentyFourthsAndAHalfCentury Pacifist
+Generated: 2014/08/12 07:39:05.823054352 UTC

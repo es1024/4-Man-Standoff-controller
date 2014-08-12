@@ -1,0 +1,16 @@
+Standoff between: Grenadier Richochet Ninja Rule0Bot
+                     Grenadier: N,P,N,N,N
+                     Richochet: Sa,N,Sc,N,Sd
+                         Ninja: Dd,Dd,Da,Dc,N
+                      Rule0Bot: N,N,Sa,N,N
+Final Health:
+                     Grenadier: -5
+                     Richochet: 2
+                         Ninja: 0
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Ninja Rule0Bot Richochet
+Richochet: Ninja Rule0Bot Grenadier
+Ninja: Richochet Rule0Bot Grenadier
+Rule0Bot: Richochet Ninja Grenadier
+Generated: 2014/08/12 06:43:15.675927757 UTC

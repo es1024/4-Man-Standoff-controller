@@ -1,0 +1,16 @@
+Standoff between: HanSolo Spock Richochet Sniper
+                       HanSolo: Sc,N,Sc,N,Sd,N,Sd,N,Sd
+                         Spock: Sc,N,Sc,N,N,N,N,N,N
+                     Richochet: Sb,N,Sb,N,N,N,N,N,N
+                        Sniper: Sb,N,Sb,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                         Spock: -3
+                     Richochet: -3
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Richochet Sniper Spock
+Spock: Richochet Sniper HanSolo
+Richochet: Spock Sniper HanSolo
+Sniper: Spock Richochet HanSolo
+Generated: 2014/08/12 06:57:11.362140445 UTC

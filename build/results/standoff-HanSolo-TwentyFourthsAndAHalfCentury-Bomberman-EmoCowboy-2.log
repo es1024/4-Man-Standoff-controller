@@ -1,0 +1,16 @@
+Standoff between: HanSolo TwentyFourthsAndAHalfCentury Bomberman EmoCowboy
+                       HanSolo: Sd,N,N,Sd,N,Sb,N,Sb,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc,N,Sc
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Dc,Dc,Dc,Da,Dc,Da,Dc,Dc,Dc,N,N,N,N,N,N,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: N,N,N,Sd,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                     EmoCowboy: -4
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: EmoCowboy TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: EmoCowboy HanSolo Bomberman
+Bomberman: EmoCowboy HanSolo TwentyFourthsAndAHalfCentury
+EmoCowboy: Bomberman HanSolo TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 06:23:53.492144806 UTC

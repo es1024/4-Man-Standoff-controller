@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO SimpleShooter Monkey Scared
+                 DONTNUKEMEBRO: Dc,Dc,P,Tb
+                 SimpleShooter: Sa,N,Sd,N
+                        Monkey: N,N,N,Sb
+                        Scared: Sa,N,Sb,N
+Final Health:
+                 DONTNUKEMEBRO: -2
+                 SimpleShooter: -7
+                        Monkey: 2
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Monkey Scared SimpleShooter
+SimpleShooter: Monkey Scared DONTNUKEMEBRO
+Monkey: SimpleShooter Scared DONTNUKEMEBRO
+Scared: SimpleShooter Monkey DONTNUKEMEBRO
+Generated: 2014/08/12 10:36:24.824111045 UTC

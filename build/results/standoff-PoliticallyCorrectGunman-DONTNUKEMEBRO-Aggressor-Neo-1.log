@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman DONTNUKEMEBRO Aggressor Neo
+      PoliticallyCorrectGunman: N,N,N,N,N,N,N,N,Db,Sb,N,Dd,N,N,N,Sa
+                 DONTNUKEMEBRO: Dd,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Tb,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,N,N,N,N,N,Da,N,N,Da,N,N,Da,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: -3
+                     Aggressor: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Neo DONTNUKEMEBRO
+DONTNUKEMEBRO: Aggressor Neo PoliticallyCorrectGunman
+Aggressor: DONTNUKEMEBRO Neo PoliticallyCorrectGunman
+Neo: DONTNUKEMEBRO Aggressor PoliticallyCorrectGunman
+Generated: 2014/08/12 07:57:10.012723551 UTC

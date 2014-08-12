@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter InputAnalyzer Aggressor
+                      Pacifist: N,N,N
+               StraightShooter: Sa,N,Sa
+                 InputAnalyzer: Dd,Sa,N
+                     Aggressor: P,Tc,Sb
+Final Health:
+                      Pacifist: -2
+               StraightShooter: 0
+                 InputAnalyzer: -3
+                     Aggressor: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Aggressor StraightShooter InputAnalyzer
+StraightShooter: Aggressor Pacifist InputAnalyzer
+InputAnalyzer: Aggressor Pacifist StraightShooter
+Aggressor: InputAnalyzer Pacifist StraightShooter
+Generated: 2014/08/12 08:13:10.671114682 UTC

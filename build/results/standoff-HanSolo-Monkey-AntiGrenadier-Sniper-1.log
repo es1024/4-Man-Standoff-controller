@@ -1,0 +1,16 @@
+Standoff between: HanSolo Monkey AntiGrenadier Sniper
+                       HanSolo: Sc,N,Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb
+                        Monkey: N,Sc,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: 5
+                        Monkey: -1
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Sniper Monkey
+Monkey: AntiGrenadier Sniper HanSolo
+AntiGrenadier: Monkey Sniper HanSolo
+Sniper: Monkey AntiGrenadier HanSolo
+Generated: 2014/08/12 07:33:23.831871565 UTC

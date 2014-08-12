@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Spock Aggressor Richochet
+      PoliticallyCorrectGunman: N,P,Td
+                         Spock: Sc,N,N
+                     Aggressor: P,Tb,N
+                     Richochet: Sc,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -3
+                         Spock: -3
+                     Aggressor: -2
+                     Richochet: -6
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Aggressor Richochet Spock
+Spock: Aggressor Richochet PoliticallyCorrectGunman
+Aggressor: Spock Richochet PoliticallyCorrectGunman
+Richochet: Spock Aggressor PoliticallyCorrectGunman
+Generated: 2014/08/12 07:24:36.331802582 UTC

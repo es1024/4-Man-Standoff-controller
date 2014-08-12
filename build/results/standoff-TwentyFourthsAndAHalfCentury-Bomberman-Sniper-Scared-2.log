@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman Sniper Scared
+  TwentyFourthsAndAHalfCentury: Dc,Db,Db,Db,Dc,Db,Db,N,N,N,N,N,Sc,N,Sc
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sd,N,Sb,N,Sa,N,Sb,N,N,N,N,N,N,N,Sa
+                        Scared: Sc,N,Sa,N,Sb,N,N,N,N,N,N,N,N,Sa,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: -1
+                     Bomberman: -1
+                        Sniper: -1
+                        Scared: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: Scared Bomberman Sniper
+Bomberman: Scared TwentyFourthsAndAHalfCentury Sniper
+Sniper: Scared TwentyFourthsAndAHalfCentury Bomberman
+Scared: Sniper TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 08:39:29.417374678 UTC

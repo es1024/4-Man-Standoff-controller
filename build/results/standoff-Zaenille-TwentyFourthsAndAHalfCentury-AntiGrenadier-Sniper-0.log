@@ -1,0 +1,16 @@
+Standoff between: Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier Sniper
+                      Zaenille: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Sd,N,Sc,N,Sc,N,Sc,N,Sd,N,Sd
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 3
+                 AntiGrenadier: -1
+                        Sniper: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Zaenille: TwentyFourthsAndAHalfCentury AntiGrenadier Sniper
+TwentyFourthsAndAHalfCentury: Zaenille AntiGrenadier Sniper
+AntiGrenadier: Zaenille TwentyFourthsAndAHalfCentury Sniper
+Sniper: Zaenille TwentyFourthsAndAHalfCentury AntiGrenadier
+Generated: 2014/08/12 08:58:15.605150583 UTC

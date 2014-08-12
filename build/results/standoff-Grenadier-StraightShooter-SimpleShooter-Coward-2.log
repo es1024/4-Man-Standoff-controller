@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter SimpleShooter Coward
+                     Grenadier: N,P,N,N
+               StraightShooter: Sa,N,Sa,N
+                 SimpleShooter: Sb,N,Sd,N
+                        Coward: Sb,N,Sb,N
+Final Health:
+                     Grenadier: -5
+               StraightShooter: -1
+                 SimpleShooter: 2
+                        Coward: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Coward StraightShooter SimpleShooter
+StraightShooter: Coward Grenadier SimpleShooter
+SimpleShooter: Coward Grenadier StraightShooter
+Coward: SimpleShooter Grenadier StraightShooter
+Generated: 2014/08/12 06:04:29.758455621 UTC

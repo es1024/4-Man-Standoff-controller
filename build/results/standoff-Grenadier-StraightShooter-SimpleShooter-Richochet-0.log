@@ -1,0 +1,16 @@
+Standoff between: Grenadier StraightShooter SimpleShooter Richochet
+                     Grenadier: N,N,N,N,N,N,N,N,N
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc
+                 SimpleShooter: Sd,N,Sb,N,Sd,N,N,N,N
+                     Richochet: Sa,N,Sa,N,Sa,N,Sb,N,Sb
+Final Health:
+                     Grenadier: -1
+               StraightShooter: -1
+                 SimpleShooter: -1
+                     Richochet: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: StraightShooter SimpleShooter Richochet
+StraightShooter: Grenadier SimpleShooter Richochet
+SimpleShooter: Grenadier StraightShooter Richochet
+Richochet: Grenadier StraightShooter SimpleShooter
+Generated: 2014/08/12 08:12:05.384410442 UTC

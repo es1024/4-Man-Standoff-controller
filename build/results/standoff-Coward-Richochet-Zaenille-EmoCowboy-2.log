@@ -1,0 +1,16 @@
+Standoff between: Coward Richochet Zaenille EmoCowboy
+                        Coward: Sc,N,Sc,N,Db,Sc,N,Sb,N
+                     Richochet: Sa,N,Sa,N,Sc,N,Sc,N,Sa
+                      Zaenille: N,N,Da,Da,Da,Da,Da,N,N
+                     EmoCowboy: Sd,N,N,N,N,N,N,N,N
+Final Health:
+                        Coward: -1
+                     Richochet: 3
+                      Zaenille: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Coward: EmoCowboy Richochet Zaenille
+Richochet: EmoCowboy Coward Zaenille
+Zaenille: EmoCowboy Coward Richochet
+EmoCowboy: Zaenille Coward Richochet
+Generated: 2014/08/12 05:43:56.529091204 UTC

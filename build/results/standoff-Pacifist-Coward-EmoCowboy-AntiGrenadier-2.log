@@ -1,0 +1,16 @@
+Standoff between: Pacifist Coward EmoCowboy AntiGrenadier
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Sd,N,Sd,N,Sd
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                      Pacifist: -1
+                        Coward: 5
+                     EmoCowboy: -4
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: AntiGrenadier Coward EmoCowboy
+Coward: AntiGrenadier Pacifist EmoCowboy
+EmoCowboy: AntiGrenadier Pacifist Coward
+AntiGrenadier: EmoCowboy Pacifist Coward
+Generated: 2014/08/12 08:46:38.807598725 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier Pacifist InputAnalyzer Richochet
+                     Grenadier: N,N,N,N,N,P,Tc
+                      Pacifist: N,N,N,N,N,N,N
+                 InputAnalyzer: Db,Dd,Db,Sa,N,Db,Sc
+                     Richochet: Sb,N,Sb,N,Sb,N,Sc
+Final Health:
+                     Grenadier: 0
+                      Pacifist: -1
+                 InputAnalyzer: -12
+                     Richochet: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: InputAnalyzer Richochet Pacifist
+Pacifist: InputAnalyzer Richochet Grenadier
+InputAnalyzer: Pacifist Richochet Grenadier
+Richochet: Pacifist InputAnalyzer Grenadier
+Generated: 2014/08/12 10:07:45.242173039 UTC

@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Zaenille TwentyFourthsAndAHalfCentury Rule0Bot
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,Sa,N,N,N,N,N,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Db,Dd,N,Da,Sa,N,N,Sa,N,Sd,N,Sd,N,Sd
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -4
+                      Zaenille: -4
+  TwentyFourthsAndAHalfCentury: 5
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Rule0Bot Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Rule0Bot PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Zaenille Rule0Bot PoliticallyCorrectGunman
+Rule0Bot: Zaenille TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman
+Generated: 2014/08/12 09:07:07.610987260 UTC

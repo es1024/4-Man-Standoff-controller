@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter TwentyFourthsAndAHalfCentury Neo
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,Sc,N,Sd
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sa,N,Sc,N,Sa
+  TwentyFourthsAndAHalfCentury: Dd,N,N,Dd,N,N,N,N,Da,N,N
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+  TwentyFourthsAndAHalfCentury: -1
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Neo SimpleShooter TwentyFourthsAndAHalfCentury
+SimpleShooter: Neo Spock TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Neo Spock SimpleShooter
+Neo: TwentyFourthsAndAHalfCentury Spock SimpleShooter
+Generated: 2014/08/12 07:15:00.554722863 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+                 InputAnalyzer: Db,Sa,N,N,N,N,N,N
+                       HanSolo: Sa,N,Sc,N,Sc,N,Sc,N
+                 DONTNUKEMEBRO: Da,Db,Dd,Dd,Sb,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Dc,Da,Dc,Dc,Db,N,Dc,Sb
+Final Health:
+                 InputAnalyzer: -2
+                       HanSolo: -1
+                 DONTNUKEMEBRO: -1
+  TwentyFourthsAndAHalfCentury: 5
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: HanSolo DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+HanSolo: InputAnalyzer DONTNUKEMEBRO TwentyFourthsAndAHalfCentury
+DONTNUKEMEBRO: InputAnalyzer HanSolo TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: InputAnalyzer HanSolo DONTNUKEMEBRO
+Generated: 2014/08/12 09:48:54.747351520 UTC

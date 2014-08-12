@@ -1,0 +1,16 @@
+Standoff between: HanSolo Aggressor AntiGrenadier Neo
+                       HanSolo: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     Aggressor: P,Ta,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,Dc,N,N,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,Dc,Dc,N,N,N,Dc,N,N,Dc,Dc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                       HanSolo: -3
+                     Aggressor: -2
+                 AntiGrenadier: -18
+                           Neo: -18
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: Aggressor AntiGrenadier Neo
+Aggressor: HanSolo AntiGrenadier Neo
+AntiGrenadier: HanSolo Aggressor Neo
+Neo: HanSolo Aggressor AntiGrenadier
+Generated: 2014/08/12 06:56:10.019378617 UTC

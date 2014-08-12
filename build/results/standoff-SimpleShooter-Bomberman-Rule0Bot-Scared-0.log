@@ -1,0 +1,16 @@
+Standoff between: SimpleShooter Bomberman Rule0Bot Scared
+                 SimpleShooter: Sd,N,Sc,N,Sb,N,Sd,N,Sc,N,Sd,N,Sc,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: N,N,N,N,N,Sa,N,Sa,N,Sb,N,N,N,N,N
+Final Health:
+                 SimpleShooter: 1
+                     Bomberman: -1
+                      Rule0Bot: -1
+                        Scared: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+SimpleShooter: Bomberman Rule0Bot Scared
+Bomberman: SimpleShooter Rule0Bot Scared
+Rule0Bot: SimpleShooter Bomberman Scared
+Scared: SimpleShooter Bomberman Rule0Bot
+Generated: 2014/08/12 06:36:45.562395914 UTC

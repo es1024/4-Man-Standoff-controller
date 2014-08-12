@@ -1,0 +1,16 @@
+Standoff between: StraightShooter PoliticallyCorrectGunman Richochet Rule0Bot
+               StraightShooter: Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc,N,Sc
+      PoliticallyCorrectGunman: Sc,N,Sa,N,Sc,N,N,Dc,N,Da,P,N,Da
+                     Richochet: Sd,N,Sb,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: 0
+      PoliticallyCorrectGunman: -3
+                     Richochet: -1
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: PoliticallyCorrectGunman Richochet Rule0Bot
+PoliticallyCorrectGunman: StraightShooter Richochet Rule0Bot
+Richochet: StraightShooter PoliticallyCorrectGunman Rule0Bot
+Rule0Bot: StraightShooter PoliticallyCorrectGunman Richochet
+Generated: 2014/08/12 06:49:40.687618399 UTC

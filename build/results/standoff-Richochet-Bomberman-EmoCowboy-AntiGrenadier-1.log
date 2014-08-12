@@ -1,0 +1,16 @@
+Standoff between: Richochet Bomberman EmoCowboy AntiGrenadier
+                     Richochet: Sb,N,Sd,N,Sb,N,Sd,N,Sd,N,Sb
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Richochet: 5
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Richochet: EmoCowboy AntiGrenadier Bomberman
+Bomberman: EmoCowboy AntiGrenadier Richochet
+EmoCowboy: Bomberman AntiGrenadier Richochet
+AntiGrenadier: Bomberman EmoCowboy Richochet
+Generated: 2014/08/12 07:34:38.290003497 UTC

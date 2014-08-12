@@ -1,0 +1,16 @@
+Standoff between: HanSolo AntiGrenadier Scared CourageTheDog
+                       HanSolo: Sb,N,Sb,N,Sc,N,Sc,N,Sc,N
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,Sd,N,Sa,N,Sd,N,Sd,N
+                 CourageTheDog: Sb,N,Da,Da,Da,Dc,Dc,Da,Dc,Sa
+Final Health:
+                       HanSolo: -1
+                 AntiGrenadier: -1
+                        Scared: -1
+                 CourageTheDog: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+HanSolo: AntiGrenadier Scared CourageTheDog
+AntiGrenadier: HanSolo Scared CourageTheDog
+Scared: HanSolo AntiGrenadier CourageTheDog
+CourageTheDog: HanSolo AntiGrenadier Scared
+Generated: 2014/08/12 05:49:04.791877401 UTC

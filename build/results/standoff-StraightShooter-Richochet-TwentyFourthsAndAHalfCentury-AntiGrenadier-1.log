@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Richochet TwentyFourthsAndAHalfCentury AntiGrenadier
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,N,N,N,N
+                     Richochet: Sa,N,Sd,N,Sa,N,Sa,N,Sc,N,Sc,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,Da,N,Db,Sb,N,Sb,N,Sb
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                     Richochet: -1
+  TwentyFourthsAndAHalfCentury: 1
+                 AntiGrenadier: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury AntiGrenadier Richochet
+Richochet: TwentyFourthsAndAHalfCentury AntiGrenadier StraightShooter
+TwentyFourthsAndAHalfCentury: Richochet AntiGrenadier StraightShooter
+AntiGrenadier: Richochet TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 10:32:42.223670514 UTC

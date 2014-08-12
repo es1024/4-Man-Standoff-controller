@@ -1,0 +1,16 @@
+Standoff between: StraightShooter DONTNUKEMEBRO Spock TwentyFourthsAndAHalfCentury
+               StraightShooter: Sb,N,Sb,N,Sb,N,Sb,N,N
+                 DONTNUKEMEBRO: Da,Da,Sa,N,Sa,N,Sa,N,N
+                         Spock: Sd,N,Sd,N,Sd,N,Sd,N,Sd
+  TwentyFourthsAndAHalfCentury: Db,Db,Dc,N,Db,N,Dc,Sc,N
+Final Health:
+               StraightShooter: -1
+                 DONTNUKEMEBRO: -1
+                         Spock: 3
+  TwentyFourthsAndAHalfCentury: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury DONTNUKEMEBRO Spock
+DONTNUKEMEBRO: TwentyFourthsAndAHalfCentury StraightShooter Spock
+Spock: TwentyFourthsAndAHalfCentury StraightShooter DONTNUKEMEBRO
+TwentyFourthsAndAHalfCentury: Spock StraightShooter DONTNUKEMEBRO
+Generated: 2014/08/12 06:39:05.633194347 UTC

@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo SimpleShooter Neo
+                     Grenadier: N,P,N,N
+                       HanSolo: Sa,N,Sa,N
+                 SimpleShooter: Sd,N,Sb,N
+                           Neo: N,N,Dc,N
+Final Health:
+                     Grenadier: -5
+                       HanSolo: 0
+                 SimpleShooter: 2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: HanSolo SimpleShooter Neo
+HanSolo: Grenadier SimpleShooter Neo
+SimpleShooter: Grenadier HanSolo Neo
+Neo: Grenadier HanSolo SimpleShooter
+Generated: 2014/08/12 10:32:14.311762796 UTC

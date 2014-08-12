@@ -1,0 +1,16 @@
+Standoff between: Spock SimpleShooter AntiGrenadier Rule0Bot
+                         Spock: Sd,N,N,N,Sd,N,N,Sd,N,Sd,N
+                 SimpleShooter: Sc,N,Sa,N,Sc,N,Sa,N,Sc,N,Sa
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                         Spock: -1
+                 SimpleShooter: 5
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Rule0Bot SimpleShooter AntiGrenadier
+SimpleShooter: Rule0Bot Spock AntiGrenadier
+AntiGrenadier: Rule0Bot Spock SimpleShooter
+Rule0Bot: AntiGrenadier Spock SimpleShooter
+Generated: 2014/08/12 09:46:15.814851772 UTC

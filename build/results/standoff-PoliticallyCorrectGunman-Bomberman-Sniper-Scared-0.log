@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman Bomberman Sniper Scared
+      PoliticallyCorrectGunman: Dd,P,Tc
+                     Bomberman: N,N,N
+                        Sniper: Sa,N,Sb
+                        Scared: Sb,N,Sa
+Final Health:
+      PoliticallyCorrectGunman: -2
+                     Bomberman: -2
+                        Sniper: -3
+                        Scared: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Bomberman Sniper Scared
+Bomberman: PoliticallyCorrectGunman Sniper Scared
+Sniper: PoliticallyCorrectGunman Bomberman Scared
+Scared: PoliticallyCorrectGunman Bomberman Sniper
+Generated: 2014/08/12 09:03:06.914814687 UTC

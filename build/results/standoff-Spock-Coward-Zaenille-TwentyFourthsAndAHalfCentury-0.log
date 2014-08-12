@@ -1,0 +1,16 @@
+Standoff between: Spock Coward Zaenille TwentyFourthsAndAHalfCentury
+                         Spock: Sb,N,Sb,N,Sb,N
+                        Coward: Sd,N,Sa,N,Sa,N
+                      Zaenille: Sc,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Da,N,Da,N,Da,Sa
+Final Health:
+                         Spock: -1
+                        Coward: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Spock: Coward Zaenille TwentyFourthsAndAHalfCentury
+Coward: Spock Zaenille TwentyFourthsAndAHalfCentury
+Zaenille: Spock Coward TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Spock Coward Zaenille
+Generated: 2014/08/12 10:47:23.157563376 UTC

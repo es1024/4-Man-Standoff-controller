@@ -1,0 +1,16 @@
+Standoff between: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO Coward
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+      PoliticallyCorrectGunman: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 DONTNUKEMEBRO: Da,Da,Sd,N,Dd,Da,Db,Db,Dd,Da,Db,Dd,Da,Db,Dd,Db,Db,Da,Db,Db,Da,Db,Da,Dd,Db,Da,Da,Da,Db,Db,Dd,Dd,Db,Db,Sd,N,Sd,N,Sd,N,Sd
+                        Coward: Sc,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Dc,Dc,Dc,Sa,N
+Final Health:
+                      Pacifist: -1
+      PoliticallyCorrectGunman: -2
+                 DONTNUKEMEBRO: 3
+                        Coward: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: PoliticallyCorrectGunman DONTNUKEMEBRO Coward
+PoliticallyCorrectGunman: Pacifist DONTNUKEMEBRO Coward
+DONTNUKEMEBRO: Pacifist PoliticallyCorrectGunman Coward
+Coward: Pacifist PoliticallyCorrectGunman DONTNUKEMEBRO
+Generated: 2014/08/12 10:06:10.532264540 UTC

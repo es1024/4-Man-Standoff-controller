@@ -1,0 +1,16 @@
+Standoff between: Aggressor TwentyFourthsAndAHalfCentury Sniper Scared
+                     Aggressor: P,Tc
+  TwentyFourthsAndAHalfCentury: Dc,Da
+                        Sniper: Sd,N
+                        Scared: Sb,N
+Final Health:
+                     Aggressor: 2
+  TwentyFourthsAndAHalfCentury: 0
+                        Sniper: -3
+                        Scared: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: Sniper Scared TwentyFourthsAndAHalfCentury
+TwentyFourthsAndAHalfCentury: Sniper Scared Aggressor
+Sniper: TwentyFourthsAndAHalfCentury Scared Aggressor
+Scared: TwentyFourthsAndAHalfCentury Sniper Aggressor
+Generated: 2014/08/12 07:20:28.011423278 UTC

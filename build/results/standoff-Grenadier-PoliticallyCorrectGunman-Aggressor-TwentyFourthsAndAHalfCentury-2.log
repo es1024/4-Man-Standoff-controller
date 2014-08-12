@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Aggressor TwentyFourthsAndAHalfCentury
+                     Grenadier: N,P,Tb
+      PoliticallyCorrectGunman: N,Sd,N
+                     Aggressor: P,Td,Sa
+  TwentyFourthsAndAHalfCentury: Da,Db,N
+Final Health:
+                     Grenadier: -3
+      PoliticallyCorrectGunman: -6
+                     Aggressor: -1
+  TwentyFourthsAndAHalfCentury: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: TwentyFourthsAndAHalfCentury PoliticallyCorrectGunman Aggressor
+PoliticallyCorrectGunman: TwentyFourthsAndAHalfCentury Grenadier Aggressor
+Aggressor: TwentyFourthsAndAHalfCentury Grenadier PoliticallyCorrectGunman
+TwentyFourthsAndAHalfCentury: Aggressor Grenadier PoliticallyCorrectGunman
+Generated: 2014/08/12 09:03:49.884727736 UTC

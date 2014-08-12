@@ -1,0 +1,16 @@
+Standoff between: Pacifist StraightShooter PoliticallyCorrectGunman Monkey
+                      Pacifist: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+               StraightShooter: Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,Sa,N
+      PoliticallyCorrectGunman: N,N,Sd,N,Sd,N,Da,N,Sa,N,N,Da,Sa,N,Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey: N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,Sa,N,N,N,N,N,N,N,N,N,N,N,Sa,N,Sa
+Final Health:
+                      Pacifist: -1
+               StraightShooter: -15
+      PoliticallyCorrectGunman: -2
+                        Monkey: -19
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Pacifist: Monkey StraightShooter PoliticallyCorrectGunman
+StraightShooter: Monkey Pacifist PoliticallyCorrectGunman
+PoliticallyCorrectGunman: Monkey Pacifist StraightShooter
+Monkey: PoliticallyCorrectGunman Pacifist StraightShooter
+Generated: 2014/08/12 06:26:33.232147995 UTC

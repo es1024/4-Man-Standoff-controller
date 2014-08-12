@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Bomberman EmoCowboy CourageTheDog
+                 DONTNUKEMEBRO: Dd,Db,Dd,Db,Dd,Dc,Dc,Db,Db,Sd,N,Dc,Dd,Db,Dc,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sc,N,Sb,N,Da,Sb,N,Sa,N,Db,Db,Sb,N,Sa,N,Sa
+Final Health:
+                 DONTNUKEMEBRO: -1
+                     Bomberman: -1
+                     EmoCowboy: -4
+                 CourageTheDog: 1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: Bomberman EmoCowboy CourageTheDog
+Bomberman: DONTNUKEMEBRO EmoCowboy CourageTheDog
+EmoCowboy: DONTNUKEMEBRO Bomberman CourageTheDog
+CourageTheDog: DONTNUKEMEBRO Bomberman EmoCowboy
+Generated: 2014/08/12 08:24:48.747485474 UTC

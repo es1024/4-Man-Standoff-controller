@@ -1,0 +1,16 @@
+Standoff between: Aggressor Zaenille TwentyFourthsAndAHalfCentury Sniper
+                     Aggressor: P,Td
+                      Zaenille: Sb,N
+  TwentyFourthsAndAHalfCentury: N,N
+                        Sniper: Sc,N
+Final Health:
+                     Aggressor: 2
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 0
+                        Sniper: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Aggressor: TwentyFourthsAndAHalfCentury Sniper Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Sniper Aggressor
+TwentyFourthsAndAHalfCentury: Zaenille Sniper Aggressor
+Sniper: Zaenille TwentyFourthsAndAHalfCentury Aggressor
+Generated: 2014/08/12 08:27:56.948288316 UTC

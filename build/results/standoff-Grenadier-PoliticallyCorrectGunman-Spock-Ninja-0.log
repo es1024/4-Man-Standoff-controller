@@ -1,0 +1,16 @@
+Standoff between: Grenadier PoliticallyCorrectGunman Spock Ninja
+                     Grenadier: N,N,P,N,N,N,N,N,N
+      PoliticallyCorrectGunman: N,Sa,N,Dc,Sd,N,N,N,N
+                         Spock: Sa,N,Sa,N,Sa,N,Sb,N,Sd
+                         Ninja: Da,Dc,Dd,Da,Db,Da,Dd,Dc,Db
+Final Health:
+                     Grenadier: -7
+      PoliticallyCorrectGunman: 0
+                         Spock: 2
+                         Ninja: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: PoliticallyCorrectGunman Spock Ninja
+PoliticallyCorrectGunman: Grenadier Spock Ninja
+Spock: Grenadier PoliticallyCorrectGunman Ninja
+Ninja: Grenadier PoliticallyCorrectGunman Spock
+Generated: 2014/08/12 05:44:16.719375953 UTC

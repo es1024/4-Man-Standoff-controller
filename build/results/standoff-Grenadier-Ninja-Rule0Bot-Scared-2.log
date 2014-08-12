@@ -1,0 +1,16 @@
+Standoff between: Grenadier Ninja Rule0Bot Scared
+                     Grenadier: P,Td,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                         Ninja: Dc,Da,Dc,Dd,Da,Db,Dc,Dc,Da,Dd,Da,Dc,Db,Dd,Da,Dc,Dc,Dc,Db,Dd,Dc,Db,Dc,Da,Dc,Dd,Db,Dc,Da,Dc,Db,Dc,Da,Dc,Db,Db,Dd,Dd,Db,Dd,Dc,Da,Dc,Db,Dd,Db,Db,Dc,Da,Dc
+                      Rule0Bot: N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Scared: Sa,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -2
+                         Ninja: -18
+                      Rule0Bot: -18
+                        Scared: -3
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Scared Ninja Rule0Bot
+Ninja: Scared Grenadier Rule0Bot
+Rule0Bot: Scared Grenadier Ninja
+Scared: Rule0Bot Grenadier Ninja
+Generated: 2014/08/12 10:45:33.926778576 UTC

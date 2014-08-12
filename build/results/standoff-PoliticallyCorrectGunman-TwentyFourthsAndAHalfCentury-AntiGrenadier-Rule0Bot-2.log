@@ -1,0 +1,16 @@
+Standoff between: PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury AntiGrenadier Rule0Bot
+      PoliticallyCorrectGunman: Sc,N,Sb,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: Dd,Dd,Dc,Dc,Dd,Sd,N,Sc,N,Sd,N,Sd,N,N,N,N,N,Sc
+                 AntiGrenadier: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Rule0Bot: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+      PoliticallyCorrectGunman: -2
+  TwentyFourthsAndAHalfCentury: 3
+                 AntiGrenadier: -1
+                      Rule0Bot: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+PoliticallyCorrectGunman: Rule0Bot TwentyFourthsAndAHalfCentury AntiGrenadier
+TwentyFourthsAndAHalfCentury: Rule0Bot PoliticallyCorrectGunman AntiGrenadier
+AntiGrenadier: Rule0Bot PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Rule0Bot: AntiGrenadier PoliticallyCorrectGunman TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 08:53:21.258699710 UTC

@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer HanSolo Monkey Neo
+                 InputAnalyzer: Dc,P,Dc,Da,N
+                       HanSolo: Sc,N,Sc,N,Sd
+                        Monkey: N,N,N,N,N
+                           Neo: N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -1
+                       HanSolo: 2
+                        Monkey: -2
+                           Neo: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey Neo HanSolo
+HanSolo: Monkey Neo InputAnalyzer
+Monkey: HanSolo Neo InputAnalyzer
+Neo: HanSolo Monkey InputAnalyzer
+Generated: 2014/08/12 07:05:21.379577079 UTC

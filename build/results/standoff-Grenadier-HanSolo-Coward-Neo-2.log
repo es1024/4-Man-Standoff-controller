@@ -1,0 +1,16 @@
+Standoff between: Grenadier HanSolo Coward Neo
+                     Grenadier: N,N,N,N,N,N,N,N,N,P,Tc
+                       HanSolo: Sd,N,Sd,N,Sd,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Sa
+                           Neo: N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                     Grenadier: -4
+                       HanSolo: -1
+                        Coward: -3
+                           Neo: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Neo HanSolo Coward
+HanSolo: Neo Grenadier Coward
+Coward: Neo Grenadier HanSolo
+Neo: Coward Grenadier HanSolo
+Generated: 2014/08/12 09:48:59.767486469 UTC

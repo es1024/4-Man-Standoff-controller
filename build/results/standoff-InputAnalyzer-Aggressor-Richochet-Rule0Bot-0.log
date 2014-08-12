@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Aggressor Richochet Rule0Bot
+                 InputAnalyzer: Db,Dc
+                     Aggressor: P,Ta
+                     Richochet: Sd,N
+                      Rule0Bot: N,Sb
+Final Health:
+                 InputAnalyzer: -3
+                     Aggressor: 0
+                     Richochet: 2
+                      Rule0Bot: 0
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Aggressor Richochet Rule0Bot
+Aggressor: InputAnalyzer Richochet Rule0Bot
+Richochet: InputAnalyzer Aggressor Rule0Bot
+Rule0Bot: InputAnalyzer Aggressor Richochet
+Generated: 2014/08/12 05:44:08.015360055 UTC

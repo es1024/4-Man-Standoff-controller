@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer DONTNUKEMEBRO Bomberman Neo
+                 InputAnalyzer: Dd,Sc,N,Dc,Da,Dc,Sb,N,Dd,Dc,P,Db,Sa
+                 DONTNUKEMEBRO: Dd,Da,Dd,Dc,Da,Da,Dc,Dc,Sa,N,Dd,Sa,N
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N
+                           Neo: N,N,N,Db,Db,Db,N,Db,Db,N,Db,Db,Da
+Final Health:
+                 InputAnalyzer: -8
+                 DONTNUKEMEBRO: 0
+                     Bomberman: 0
+                           Neo: 2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Neo DONTNUKEMEBRO Bomberman
+DONTNUKEMEBRO: Neo InputAnalyzer Bomberman
+Bomberman: Neo InputAnalyzer DONTNUKEMEBRO
+Neo: Bomberman InputAnalyzer DONTNUKEMEBRO
+Generated: 2014/08/12 08:24:06.833782213 UTC

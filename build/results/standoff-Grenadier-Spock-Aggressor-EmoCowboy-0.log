@@ -1,0 +1,16 @@
+Standoff between: Grenadier Spock Aggressor EmoCowboy
+                     Grenadier: P,N
+                         Spock: Sa,N
+                     Aggressor: P,Tb
+                     EmoCowboy: Sd,N
+Final Health:
+                     Grenadier: -6
+                         Spock: -6
+                     Aggressor: -1
+                     EmoCowboy: -2
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+Grenadier: Spock Aggressor EmoCowboy
+Spock: Grenadier Aggressor EmoCowboy
+Aggressor: Grenadier Spock EmoCowboy
+EmoCowboy: Grenadier Spock Aggressor
+Generated: 2014/08/12 08:56:43.490752520 UTC

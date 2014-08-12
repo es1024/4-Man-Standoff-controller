@@ -1,0 +1,16 @@
+Standoff between: TwentyFourthsAndAHalfCentury Bomberman EmoCowboy CourageTheDog
+  TwentyFourthsAndAHalfCentury: Dc,Db,Dd,Db,Db,N,N,N,N,N,Sd,N,Sd,N,Sd,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                     EmoCowboy: Sc,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog: Sa,N,Sa,N,Sa,N,Da,Sb,N,Da,Sb,N,Db,Db,Da,Sb,N
+Final Health:
+  TwentyFourthsAndAHalfCentury: 1
+                     Bomberman: -1
+                     EmoCowboy: -2
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+TwentyFourthsAndAHalfCentury: CourageTheDog Bomberman EmoCowboy
+Bomberman: CourageTheDog TwentyFourthsAndAHalfCentury EmoCowboy
+EmoCowboy: CourageTheDog TwentyFourthsAndAHalfCentury Bomberman
+CourageTheDog: EmoCowboy TwentyFourthsAndAHalfCentury Bomberman
+Generated: 2014/08/12 06:19:43.108484416 UTC

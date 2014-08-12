@@ -1,0 +1,16 @@
+Standoff between: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury Bomberman
+                 InputAnalyzer: Db,Sd,N,Dc,Db,Dd,Sa,N,N,N,N,N,N,N
+                        Monkey: N,Db,N,Db,Dd,N,N,N,N,N,N,N,Sb,N
+  TwentyFourthsAndAHalfCentury: Db,Dd,Db,Dd,Sd,N,N,N,N,N,N,Sb,N,Sd
+                     Bomberman: N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Final Health:
+                 InputAnalyzer: -2
+                        Monkey: -2
+  TwentyFourthsAndAHalfCentury: 5
+                     Bomberman: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+InputAnalyzer: Monkey TwentyFourthsAndAHalfCentury Bomberman
+Monkey: InputAnalyzer TwentyFourthsAndAHalfCentury Bomberman
+TwentyFourthsAndAHalfCentury: InputAnalyzer Monkey Bomberman
+Bomberman: InputAnalyzer Monkey TwentyFourthsAndAHalfCentury
+Generated: 2014/08/12 05:56:15.908577206 UTC

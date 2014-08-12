@@ -1,0 +1,16 @@
+Standoff between: StraightShooter Zaenille TwentyFourthsAndAHalfCentury Ninja
+               StraightShooter: Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+                      Zaenille: Sb,N,N,N,N,N,N,N,N,N,N,N,N,N
+  TwentyFourthsAndAHalfCentury: N,N,N,N,N,N,N,N,N,Sa,N,Sa,N,Sa
+                         Ninja: Dc,Db,Da,Dd,Dc,Db,Dc,N,N,N,N,N,N,N
+Final Health:
+               StraightShooter: -1
+                      Zaenille: -2
+  TwentyFourthsAndAHalfCentury: 5
+                         Ninja: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+StraightShooter: TwentyFourthsAndAHalfCentury Ninja Zaenille
+Zaenille: TwentyFourthsAndAHalfCentury Ninja StraightShooter
+TwentyFourthsAndAHalfCentury: Zaenille Ninja StraightShooter
+Ninja: Zaenille TwentyFourthsAndAHalfCentury StraightShooter
+Generated: 2014/08/12 07:40:42.478430912 UTC

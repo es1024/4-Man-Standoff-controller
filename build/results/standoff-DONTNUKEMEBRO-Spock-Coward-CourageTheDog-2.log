@@ -1,0 +1,16 @@
+Standoff between: DONTNUKEMEBRO Spock Coward CourageTheDog
+                 DONTNUKEMEBRO: Dc,Dc,Db,Db,Sd,N,Dc,Dd,Sc,N,Sc,N,Db
+                         Spock: Sd,N,Sd,N,Sd,N,N,N,N,N,N,N,N
+                        Coward: Sb,N,Sb,N,Sb,N,Sa,N,Sa,N,Da,Db,Sa
+                 CourageTheDog: Sc,N,Sa,N,Da,N,N,N,N,N,N,N,N
+Final Health:
+                 DONTNUKEMEBRO: -1
+                         Spock: -1
+                        Coward: 1
+                 CourageTheDog: -1
+<Player>: <Enemy 1> <Enemy 2> <Enemy 3>
+DONTNUKEMEBRO: CourageTheDog Spock Coward
+Spock: CourageTheDog DONTNUKEMEBRO Coward
+Coward: CourageTheDog DONTNUKEMEBRO Spock
+CourageTheDog: Coward DONTNUKEMEBRO Spock
+Generated: 2014/08/12 10:09:52.377869952 UTC
