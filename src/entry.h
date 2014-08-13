@@ -6,11 +6,11 @@
 
 class move;
 class entry{
-	const char *command, *name;
+	const char *command, *arg, *name;
 	std::atomic<int> score;
 	
 	public:
-		entry(const char *command, const char *name);
+		entry(const char *command, const char *arg, const char *name);
 		entry(const entry &) = default;
 		
 		move run(int id, const std::string &args) const;

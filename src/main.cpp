@@ -7,46 +7,50 @@
 #include <iostream>
 #include <fstream>
 #include <iomanip>
+#include <unistd.h>
 
 // minimum 4
+// classpath: players/.
 const char *entry_info[] = { 
-	"Grenadier",					"java -cp ./players/Grenadier Grenadier", 
-	"Pacifist",						"./players/Pacifist/Pacifist", 
-	"StraightShooter",				"perl ./players/StraightShooter/StraightShooter.perl",
-	"InputAnalyzer",				"./players/InputAnalyzer/InputAnalyzer", 
-	"PoliticallyCorrectGunman",		"python ./players/PoliticallyCorrectGunman/politicallycorrectgunman.py",
-	"HanSolo",						"python2 ./players/HanSolo/hansolo.py",
-	"DONTNUKEMEBRO",				"lua ./players/DONTNUKEMEBRO/DONTNUKEMEBRO.lua",
-	"Spock",						"python ./players/Spock/Spock.py",
-	"SimpleShooter",				"perl ./players/SimpleShooter/SimpleShooter.perl",
-	"Coward",						"perl ./players/Coward/Coward.perl",
-	"Aggressor",					"./players/Aggressor/Aggressor",
-	"Richochet",					"perl ./players/Richochet/Richochet.perl",
-	"Zaenille",						"./players/Zaenille/Zaenille",
-	"Monkey",						"python ./players/Monkey/monkey.py",
-	"TwentyFourthsAndAHalfCentury",	"python ./players/TwentyFourthsAndAHalfCentury/TwentyFourthsAndAHalfCentury.py",
-	"Bomberman",					"Rscript ./players/Bomberman/Bomberman.R",
-	"EmoCowboy",					"python ./players/EmoCowboy/EmoCowboy.py",
-	"Ninja",						"lua ./players/Ninja/ninja.lua",
-	"AntiGrenadier",				"lua ./players/AntiGrenadier/AntiGrenadier.lua",
-	"Rule0Bot",						"python ./players/Rule0Bot/rule0bot.py",
-	"Sniper",						"lua ./players/Sniper/Sniper.lua",
-	"TakeEmWithMe",					"vb?? ./players/TakeEmWithMe/TakeEmWithMe.vb",
-	"Scared",						"python ./players/Scared/scared.py",
-	"Neo",							"java -cp ./players/Neo Neo",
+	"Grenadier",					"java",		"Grenadier", 
+	"Pacifist",						"",			"./players/Pacifist/Pacifist", 
+	"StraightShooter",				"",			"./players/StraightShooter/StraightShooter.perl",
+	"InputAnalyzer",				"",			"./players/InputAnalyzer/InputAnalyzer", 
+	"PoliticallyCorrectGunman",		"python",	"./players/PoliticallyCorrectGunman/politicallycorrectgunman.py",
+	"HanSolo",						"python2",	"./players/HanSolo/hansolo.py",
+	"DONTNUKEMEBRO",				"lua",		"./players/DONTNUKEMEBRO/DONTNUKEMEBRO.lua",
+	"Spock",						"python",	"./players/Spock/Spock.py",
+	"SimpleShooter",				"",			"./players/SimpleShooter/SimpleShooter.perl",
+	"Coward",						"",			"./players/Coward/Coward.perl",
+	"Aggressor",					"",			"./players/Aggressor/Aggressor",
+	"Richochet",					"",			"./players/Richochet/Richochet.perl",
+	"Zaenille",						"",			"./players/Zaenille/Zaenille",
+	"Monkey",						"python",	"./players/Monkey/monkey.py",
+	"TwentyFourthsAndAHalfCentury",	"python",	"./players/TwentyFourthsAndAHalfCentury/TwentyFourthsAndAHalfCentury.py",
+	"Bomberman",					"Rscript",	"./players/Bomberman/Bomberman.R",
+	"EmoCowboy",					"python",	"./players/EmoCowboy/EmoCowboy.py",
+	"Ninja",						"lua",		"./players/Ninja/ninja.lua",
+	"AntiGrenadier",				"lua",		"./players/AntiGrenadier/AntiGrenadier.lua",
+	"Rule0Bot",						"python2",	"./players/Rule0Bot/rule0bot.py",
+	"Sniper",						"lua",		"./players/Sniper/Sniper.lua",
+	// not used - compile error
+//	"TakeEmWithMe",					"vb??",		"./players/TakeEmWithMe/TakeEmWithMe.vb",
+	"Scared",						"python",	"./players/Scared/scared.py",
+	"Neo",							"java",		"Neo",
+	"CourageTheDog",				"python2",	"./players/CourageTheDog/CourageTheDog.py"
 };
 
-const int num_threads = 64;
+const int num_threads = 4;
 const int num_repeats = 3;
-const int num_entries = sizeof(entry_info)/sizeof(entry_info[0])/2;
+const int num_entries = sizeof(entry_info)/sizeof(entry_info[0])/3;
 
-int main(){
+int main(int argc, char **argv){
 	// clear results directory
 	system("rm -rf ./results/*");
 	
 	entry *entries[num_entries];
 	for(int i = 0; i < num_entries; ++i)
-		entries[i] = new entry(entry_info[2*i+1], entry_info[2*i]);
+		entries[i] = new entry(entry_info[3*i+1], entry_info[3*i+2], entry_info[3*i]);
 	
 	
 	auto p = new pool<standoff, num_threads, num_repeats>();
@@ -63,7 +67,11 @@ int main(){
 		//standoff(tmp[0],tmp[1],tmp[2],tmp[3])();
 	}while(std::next_permutation(v.begin(), v.end()));
 	
+	p->shuffle();
+//	if(argc == 2) for(int i = 0; i < 1000*argc; ++i) p->pop();
 	p->init();
+//	process<standoff,num_threads,num_repeats>(p);
+//	while(p->num_jobs()) ;// sleep(2000);
 	delete p; // force join
 
 	// sort entries by score

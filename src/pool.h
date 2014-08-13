@@ -3,9 +3,10 @@
 #define POOL_H
 
 #include <thread>
-#include <queue>
+#include <deque>
 #include <mutex>
 #include <vector>
+#include <algorithm>
 
 template<class s, int n, int repeats>
 class pool;
@@ -24,7 +25,7 @@ void process(pool<s,n,repeats> *p){
 
 template<class s, int n, int repeats>
 class pool{
-	std::queue<s*> jobs;
+	std::deque<s*> jobs;
 	std::thread *threads[n];
 	std::mutex mtx;
 	volatile int num, idc;
@@ -41,6 +42,10 @@ class pool{
 			}
 		}
 		
+		void shuffle(){
+			std::shuffle(jobs.begin(), jobs.end(), std::default_random_engine(0xBAADF00D));
+		}
+		
 		void init(){
 			for(int i = 0; i < n; ++i){
 				threads[i] = new std::thread(process<s,n,repeats>, this);
@@ -51,7 +56,7 @@ class pool{
 		
 		void push(s *job){
 			mtx.lock();
-			jobs.push(job);
+			jobs.push_back(job);
 			++num;
 			//(*job)();
 			//delete job;
@@ -61,7 +66,7 @@ class pool{
 			mtx.lock();
 			num += jobs.size();
 			for(s *j:jobs)
-				this->jobs.push(j);
+				this->jobs.push_back(j);
 			mtx.unlock();
 		}
 		s *pop(){
@@ -71,7 +76,7 @@ class pool{
 				tmp = jobs.front();
 				tmp->id = idc++;
 				--num;
-				jobs.pop();
+				jobs.pop_front();
 			}
 			mtx.unlock();
 			return tmp;
