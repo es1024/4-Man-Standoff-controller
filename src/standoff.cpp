@@ -119,8 +119,9 @@ void standoff::operator()(int which){
 	
 	// log entire standoff - commented out because total size of logs scales terribly with more players
 	std::ofstream log;
-	std::string logfile = "results/" + std::string("standoff-") + entries[0]->get_name() + "-" + entries[1]->get_name() + "-" + entries[2]->get_name() + "-" + entries[3]->get_name() + "-" + std::to_string(which) + ".log";
+	std::string logfile = "results/" + std::string("standoff-") + entries[0]->get_name() + "-" + entries[1]->get_name() + "-" + entries[2]->get_name() + "-" + entries[3]->get_name() + ".log";
 	log.open(logfile, std::ofstream::out | std::ofstream::app);
+	log << "Standoff " << std::to_string(which) + '\n';
 	do4 log << std::setw(30) << entries[i]->get_name() << " (" << health[i] << "): " << mvs[i].substr(1) << '\n';
 	log.close();
 }

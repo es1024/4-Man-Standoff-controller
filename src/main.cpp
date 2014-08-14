@@ -6,6 +6,8 @@
 #include <algorithm>
 #include <iostream>
 #include <fstream>
+#include <cstdio>
+#include <cassert>
 #include <iomanip>
 #include <unistd.h>
 
@@ -45,6 +47,7 @@ const int num_repeats = 3;
 const int num_entries = sizeof(entry_info)/sizeof(entry_info[0])/3;
 
 int main(int argc, char **argv){
+	assert(argc == 3);
 	// clear results directory
 	system("rm -rf ./results/*");
 	
@@ -58,17 +61,24 @@ int main(int argc, char **argv){
 	// Generate every combination of 4 and push onto stack
 	std::vector<bool> v(num_entries);
 	std::fill(v.begin() + num_entries - 4, v.end(), true);
+	int start, end;
+	std::sscanf(argv[1], "%d", &start);
+	std::sscanf(argv[2], "%d", &end);
+	
+	int which = 0;
 	do{
-		entry *tmp[4]; int i = 0;
-		for(int j = 0; j < num_entries; ++j)
-			if(v[j])
-				tmp[i++] = entries[j];
-		p->push(new standoff(tmp[0], tmp[1], tmp[2], tmp[3]));
-		//standoff(tmp[0],tmp[1],tmp[2],tmp[3])();
+		if(start <= which && which < end){
+			entry *tmp[4]; int i = 0;
+			for(int j = 0; j < num_entries; ++j)
+				if(v[j])
+					tmp[i++] = entries[j];
+			p->push(new standoff(tmp[0], tmp[1], tmp[2], tmp[3]));
+			//standoff(tmp[0],tmp[1],tmp[2],tmp[3])();
+		}
+		++which;
 	}while(std::next_permutation(v.begin(), v.end()));
 	
 	p->shuffle();
-//	if(argc == 2) for(int i = 0; i < 1000*argc; ++i) p->pop();
 	p->init();
 //	process<standoff,num_threads,num_repeats>(p);
 //	while(p->num_jobs()) ;// sleep(2000);
