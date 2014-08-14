@@ -20,8 +20,7 @@ class standoff{
 	   GRENADE_UNTHROWN_DAMAGE =   6, // damage done to player with unthrown grenade
 			   STARTING_HEALTH =   5, // starting health for each player
 			ZERO_HEALTH_POINTS =  35, // points if you end with 0 health
-			 SOLE_WINNER_BONUS =   2, // bonus if you are the only winner (no ties)
-			 TIED_WINNER_BONUS =   1, // bonus if you are a winner and there is a tie
+				PLACE_BONUS[4] = {4,2,1,0}, // bonus for (n+1)th place in standoff
 			         MAX_TURNS =  50, // max turns before truck comes in
 				  TRUCK_DAMAGE =  20; // damage done by truck
 };

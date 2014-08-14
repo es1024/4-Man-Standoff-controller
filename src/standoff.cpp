@@ -104,17 +104,17 @@ void standoff::operator()(int which){
 	if(turn == MAX_TURNS && ((health[0] > 0) + (health[1] > 0) + (health[2] > 0) + (health[3] > 0)) > 1)
 		do4 if(health[i] > 0) health[i] -= TRUCK_DAMAGE;
 	
-	int max_health = std::max(std::max(health[0],health[1]),std::max(health[2],health[3]));
-	// count number of winners
-	int num_win = 0;
-	do4 if(max_health == health[i]) ++num_win;
+	// calculate 1st, 2nd, 3rd, 4th healths
+	std::vector<int> healths;
+	do4 healths.push_back(health[i]*2);
+	std::sort(healths.begin(), healths.end());
+	std::reverse(healths.begin(), healths.end());
+	// ++ makes the all but the last of a string of duplicates impossible to obtain; therefore, if two people tie for first, they both get second.
+	for(int i = 1; i < 4; ++i) if(healths[i] == healths[i-1]) healths[i-1]++;
 	// give points
-	do4{ if(max_health == health[i]){
-			if(num_win == 1)
-				entries[i]->add_score(SOLE_WINNER_BONUS + ZERO_HEALTH_POINTS + health[i]);
-			else
-				entries[i]->add_score(TIED_WINNER_BONUS + ZERO_HEALTH_POINTS + health[i]);
-		}else entries[i]->add_score(ZERO_HEALTH_POINTS + health[i]);
+	do4{
+		int place = std::find(healths.begin(), healths.end(), 2*health[i]) - healths.begin();
+		entries[i]->add_score(ZERO_HEALTH_POINTS + health[i] + PLACE_BONUS[place]);
 	}
 	
 	// log entire standoff - commented out because total size of logs scales terribly with more players
