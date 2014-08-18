@@ -49,7 +49,7 @@ const int num_entries = sizeof(entry_info)/sizeof(entry_info[0])/3;
 int main(int argc, char **argv){
 	assert(argc == 3);
 	// clear results directory
-	system("rm -rf ./results/*");
+	system("for fn in ./results/* ; do rm -rf \"$fn\"; done");
 	
 	entry *entries[num_entries];
 	for(int i = 0; i < num_entries; ++i)
