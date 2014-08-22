@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-2): N,N,N,P,Td
+                 SimpleShooter (2): Sd,N,Sc,N,Sd
+                     Richochet (0): Sa,N,Sa,N,Sd
+                         Osama (-7): Dc,Db,Db,Db,Db
+Standoff 1
+                 InputAnalyzer (-7): N,Sd,N,Sc,N,N,Sd,N,P
+                 SimpleShooter (-1): Sa,N,Sd,N,Sd,N,Sc,N,N
+                     Richochet (-2): Sa,N,Sb,N,Sb,N,Sb,N,Sa
+                         Osama (-1): Da,Da,Da,Da,Da,Db,Db,N,N
+Standoff 2
+                 InputAnalyzer (-5): N,Db,Dc,Dd,N,N,P,Sb,N
+                 SimpleShooter (0): Sc,N,Sa,N,Sc,N,Sd,N,Sc
+                     Richochet (-4): Sd,N,Sa,N,Sa,N,Sd,N,Sd
+                         Osama (-2): Db,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc

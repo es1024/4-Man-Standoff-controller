@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-5): N,Dc,Db,P,N,Dd
+                 SimpleShooter (2): Sd,N,Sa,N,Sd,N
+                        Monkey (0): N,N,N,N,N,N
+                        Scared (-2): Sc,N,Sa,N,Sa,N
+Standoff 1
+                 InputAnalyzer (-5): N,N,Sc,N,N,P,Dd,N
+                 SimpleShooter (-1): Sa,N,Sd,N,Sd,N,N,N
+                        Monkey (-2): N,Sa,N,N,N,Sb,N,Dd
+                        Scared (-2): Sc,N,Sb,N,Sb,N,Sa,N
+Standoff 2
+                 InputAnalyzer (-7): N,Db,Dd,Sb,N,Sd,N,N,P,Db,Dd
+                 SimpleShooter (-2): Sc,N,Sa,N,Sd,N,Sc,N,Sc,N,Sa
+                        Monkey (-1): N,N,N,Dd,Dd,Dd,Sd,N,N,N,N
+                        Scared (-1): Sb,N,Sa,N,Sc,N,Sa,N,N,N,N

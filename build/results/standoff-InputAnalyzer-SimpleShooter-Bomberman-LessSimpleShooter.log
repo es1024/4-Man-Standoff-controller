@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (2): N,Dc
+                 SimpleShooter (-3): Sd,N
+                     Bomberman (0): P,Tb
+             LessSimpleShooter (0): Sc,N
+Standoff 1
+                 InputAnalyzer (-2): N,Dc,N
+                 SimpleShooter (-3): Sa,N,N
+                     Bomberman (0): P,Tb,Db
+             LessSimpleShooter (2): Sa,N,Sc
+Standoff 2
+                 InputAnalyzer (2): N,Dc
+                 SimpleShooter (0): Sc,N
+                     Bomberman (0): P,Td
+             LessSimpleShooter (-3): Sb,N

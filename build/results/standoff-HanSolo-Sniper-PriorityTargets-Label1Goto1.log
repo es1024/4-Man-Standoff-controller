@@ -1,0 +1,15 @@
+Standoff 0
+                       HanSolo (-3): Sb,N,Sb,N
+                        Sniper (-2): Sa,N,Sa,N
+               PriorityTargets (2): Db,Sa,N,P
+                   Label1Goto1 (-1): Da,P,Sa,N
+Standoff 1
+                       HanSolo (-3): Sc,N,Sc,N
+                        Sniper (-5): Sa,N,Sc,N
+               PriorityTargets (-8): Da,Sb,N,P
+                   Label1Goto1 (-4): Dc,P,Sb,N
+Standoff 2
+                       HanSolo (0): Sd,N,Sd,N
+                        Sniper (2): Sc,N,Sc,N
+               PriorityTargets (-1): Dd,Sa,N,N
+                   Label1Goto1 (-3): Da,P,Sc,N

@@ -1,0 +1,15 @@
+Standoff 0
+                        Monkey (0): N,Sc,N,Sc,N
+                        Scared (-2): Sc,N,Sc,N,N
+                   Label1Goto1 (-7): Dd,P,Sb,N,N
+             LessSimpleShooter (2): Sc,N,Sb,N,Sa
+Standoff 1
+                        Monkey (-2): N,Sa,N,N
+                        Scared (0): Sa,N,Sc,N
+                   Label1Goto1 (-5): Db,P,Sb,N
+             LessSimpleShooter (2): Sa,N,Sc,N
+Standoff 2
+                        Monkey (-6): N,Db,P,Sb
+                        Scared (-7): Sc,N,Sc,N
+                   Label1Goto1 (-6): Db,P,Sb,N
+             LessSimpleShooter (-1): Sb,N,Sa,N

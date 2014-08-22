@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (0): N,Dc,Dd,Dd
+                     Richochet (2): Sc,N,Sd,N
+                    LateBoomer (-2): Da,Sa,N,Sa
+                   Label1Goto1 (-3): Da,P,Sc,N
+Standoff 1
+                 InputAnalyzer (-6): N,P,Dd,Dd
+                     Richochet (-5): Sd,N,Sa,N
+                    LateBoomer (-1): Db,Sb,N,Sd
+                   Label1Goto1 (-8): Da,P,Sb,N
+Standoff 2
+                 InputAnalyzer (0): N,N,Dd,Dd,N
+                     Richochet (2): Sd,N,Sd,N,Sc
+                    LateBoomer (0): Dd,Sd,N,Sa,N
+                   Label1Goto1 (-7): Dc,P,Sa,N,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-4): N,P,Dd,Dd
+                   Equivocator (-7): Sd,N,Sd,N
+               PriorityTargets (-1): Da,Sb,N,Sb
+                   Label1Goto1 (-8): Dc,P,Sb,N
+Standoff 1
+                 InputAnalyzer (-5): N,Sd,N,Dd
+                   Equivocator (-3): Sa,N,Sa,N
+               PriorityTargets (-6): Da,Sb,N,P
+                   Label1Goto1 (-6): Dc,P,Sc,N
+Standoff 2
+                 InputAnalyzer (2): N,Sb,N,Dd
+                   Equivocator (-2): Sc,N,Sc,N
+               PriorityTargets (-1): Da,Sb,N,N
+                   Label1Goto1 (-1): Db,P,Sc,N

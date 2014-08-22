@@ -1,0 +1,15 @@
+Standoff 0
+                     Bomberman (-3): P,Tb
+                        Sniper (-6): Sa,N
+                        Scared (-1): Sd,N
+               PriorityTargets (-6): Da,P
+Standoff 1
+                     Bomberman (-1): P,Tc
+                        Sniper (-3): Sd,N
+                        Scared (-6): Sb,N
+               PriorityTargets (-6): Dc,P
+Standoff 2
+                     Bomberman (0): P,Tb,N
+                        Sniper (-5): Sa,N,N
+                        Scared (-6): Sb,N,Sd
+               PriorityTargets (-3): Db,P,Tc

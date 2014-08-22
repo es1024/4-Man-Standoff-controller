@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-5): N,Dd,Dd,Dd
+               PriorityTargets (-6): Dd,Sa,N,P
+                    LateBoomer (-1): Da,Sa,N,Sb
+                   Label1Goto1 (-4): Da,P,Sa,N
+Standoff 1
+                 InputAnalyzer (-7): N,P,Dd,Dd
+               PriorityTargets (-9): Dc,Sc,N,P
+                    LateBoomer (-8): Db,Sb,N,Sd
+                   Label1Goto1 (-9): Dc,P,Sc,N
+Standoff 2
+                 InputAnalyzer (0): N,N,Dd,Dd
+               PriorityTargets (2): Dc,Sd,N,P
+                    LateBoomer (0): Dd,Sd,N,Sa
+                   Label1Goto1 (-5): Db,P,Sc,N

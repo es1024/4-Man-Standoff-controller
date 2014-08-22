@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (0): N,Dd,Sb
+                 SimpleShooter (-3): Sd,N,N
+                     Richochet (2): Sd,N,Sa
+                     Bomberman (-2): P,Tb,N
+Standoff 1
+                 InputAnalyzer (-2): N,Dd,N,N
+                 SimpleShooter (-3): Sa,N,N,N
+                     Richochet (0): Sa,N,Sd,N
+                     Bomberman (2): P,Tb,Dc,Sc
+Standoff 2
+                 InputAnalyzer (0): N,Dd,Sd
+                 SimpleShooter (2): Sc,N,Sa
+                     Richochet (-5): Sd,N,N
+                     Bomberman (0): P,Tc,N

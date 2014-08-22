@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (-2): Sc,N,Sc,N
+                 InputAnalyzer (2): N,Dc,Dd,Dd
+                     Richochet (-2): Sd,N,Sa,N
+                   Label1Goto1 (-3): Da,P,Sa,N
+Standoff 1
+               StraightShooter (-2): Sd,N,Sd,N
+                 InputAnalyzer (0): N,Dd,Dd,Dd
+                     Richochet (2): Sb,N,Sa,N
+                   Label1Goto1 (-5): Dc,P,Sa,N
+Standoff 2
+               StraightShooter (-2): Sb,N,Sb,N
+                 InputAnalyzer (-1): N,Sa,N,N
+                     Richochet (2): Sb,N,Sd,N
+                   Label1Goto1 (-3): Db,P,Sa,N

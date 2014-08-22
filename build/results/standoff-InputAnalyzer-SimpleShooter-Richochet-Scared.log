@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-9): N,Dd,P,Sc,N
+                 SimpleShooter (-2): Sd,N,Sa,N,Sd
+                     Richochet (-2): Sb,N,Sb,N,Sa
+                        Scared (-2): Sc,N,Sa,N,Sa
+Standoff 1
+                 InputAnalyzer (-1): N,Sb,N,N,N,N,N
+                 SimpleShooter (-1): Sa,N,Sa,N,Sd,N,Sc
+                     Richochet (-1): Sd,N,Sa,N,Sd,N,Sb
+                        Scared (-1): Sc,N,Sc,N,Sb,N,N
+Standoff 2
+                 InputAnalyzer (-7): N,N,Dd,P,N
+                 SimpleShooter (-2): Sc,N,Sd,N,Sd
+                     Richochet (-2): Sa,N,Sa,N,Sb
+                        Scared (-2): Sc,N,Sb,N,Sa

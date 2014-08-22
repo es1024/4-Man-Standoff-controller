@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-3): N,Db,N
+                     Aggressor (0): P,Ta,N
+                      Observer (0): Da,Sb,N
+                   Label1Goto1 (2): Da,P,Sc
+Standoff 1
+                 InputAnalyzer (-1): N,Db,Dd,Dd
+                     Aggressor (0): P,Tc,N,N
+                      Observer (-3): Dd,Sb,N,N
+                   Label1Goto1 (-4): Db,P,Sa,N
+Standoff 2
+                 InputAnalyzer (-1): N,Db
+                     Aggressor (-3): P,Td
+                      Observer (-1): Dd,Sb
+                   Label1Goto1 (-9): Dc,P

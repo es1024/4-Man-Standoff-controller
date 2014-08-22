@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sd,N,Sb,N,Sb
+                     Richochet (-1): Sa,N,Sc,N,Sc,N,Sa
+                        Sniper (-1): Sb,N,Sd,N,Sa,N,N
+               PriorityTargets (-1): Db,Sc,N,N,N,N,N
+Standoff 1
+                 SimpleShooter (5): Sb,N,Sb,N,Sc
+                     Richochet (-1): Sd,N,Sd,N,Sc
+                        Sniper (-1): Sd,N,Sd,N,Sb
+               PriorityTargets (-1): Db,Sc,N,N,N
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sd,N,N
+                     Richochet (-1): Sc,N,Sa,N,Sc
+                        Sniper (-1): Sa,N,Sb,N,Sb
+               PriorityTargets (3): Dc,Sb,N,Sa,N

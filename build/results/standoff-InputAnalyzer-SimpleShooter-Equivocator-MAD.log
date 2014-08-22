@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (2): N,P,Dd
+                 SimpleShooter (0): Sd,N,Sc
+                   Equivocator (-5): Sd,N,Sb
+                           MAD (-2): N,P,Tc
+Standoff 1
+                 InputAnalyzer (-2): N,Dd,Dd,N,N
+                 SimpleShooter (0): Sa,N,Sd,N,Sc
+                   Equivocator (0): Sa,N,Sd,N,Sb
+                           MAD (-5): P,Da,N,N,N
+Standoff 2
+                 InputAnalyzer (-2): N,Db,Dd,Dd,Dd
+                 SimpleShooter (-2): Sc,N,Sa,N,Sd
+                   Equivocator (0): Sb,N,Sb,N,Sa
+                           MAD (-3): N,N,P,N,N

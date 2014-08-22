@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,P,Sd
+                      Observer (2): Dd,Sc,N
+                     BiasedOne (0): Sa,N,Sa
+                    LateBoomer (0): Da,Sa,N
+Standoff 1
+                 InputAnalyzer (-3): N,Dd,P,Sc,N
+                      Observer (-1): Da,Sc,N,N,N
+                     BiasedOne (-2): Sb,N,Sb,N,Sb
+                    LateBoomer (2): Db,Sb,N,Sa,N
+Standoff 2
+                 InputAnalyzer (-3): N,Db,Sc,N,Dd
+                      Observer (2): Dd,Sc,N,Dd,Sd
+                     BiasedOne (-1): Sd,N,Sd,N,N
+                    LateBoomer (-2): Dc,Sc,N,P,Ta

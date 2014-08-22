@@ -1,0 +1,15 @@
+Standoff 0
+                      Pacifist (0): N,N,N,N
+                 AntiGrenadier (-2): N,N,Sd,N
+               PriorityTargets (2): Da,Sa,N,Sb
+                   Label1Goto1 (-3): Da,P,Sb,N
+Standoff 1
+                      Pacifist (0): N,N,N,N
+                 AntiGrenadier (-2): N,N,Sd,N
+               PriorityTargets (2): Dd,Sb,N,Sb
+                   Label1Goto1 (-3): Db,P,Sa,N
+Standoff 2
+                      Pacifist (-6): N,N,N,N,N,N,N
+                 AntiGrenadier (-2): N,N,Sd,N,N,N,N
+               PriorityTargets (-1): Db,Sd,N,Sb,N,P,Ta
+                   Label1Goto1 (-5): Da,P,Sb,N,N,N,N

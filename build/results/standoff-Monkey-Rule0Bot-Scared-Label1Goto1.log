@@ -1,0 +1,15 @@
+Standoff 0
+                        Monkey (-6): N,Db,P,Sd
+                      Rule0Bot (-1): N,N,Sd,N
+                        Scared (-3): Sa,N,Sd,N
+                   Label1Goto1 (-10): Db,P,Sc,N
+Standoff 1
+                        Monkey (-2): N,Sa,N,N
+                      Rule0Bot (0): N,N,N,N
+                        Scared (2): Sa,N,Sd,N
+                   Label1Goto1 (-3): Dc,P,Sb,N
+Standoff 2
+                        Monkey (0): N,Da,N,Sb,N
+                      Rule0Bot (-4): N,N,Sd,N,N
+                        Scared (2): Sb,N,Sd,N,Sa
+                   Label1Goto1 (-5): Da,P,Sb,N,N

@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (0): N,Db,N
+                        Coward (0): Sd,N,Sd
+                        Scared (2): Sb,N,Sd
+                   Label1Goto1 (-7): Dc,P,Sa
+Standoff 1
+      PoliticallyCorrectGunman (-1): N,Dd,Sb,N
+                        Coward (-2): Sa,N,Sa,N
+                        Scared (2): Sa,N,Sd,N
+                   Label1Goto1 (-3): Db,P,Sb,N
+Standoff 2
+      PoliticallyCorrectGunman (-3): P,Dd,Td
+                        Coward (-1): Sc,N,Sc
+                        Scared (-7): Sa,N,Sd
+                   Label1Goto1 (-11): Dc,P,Sc

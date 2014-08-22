@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (2): N,N,Dc,Dc
+                        Scared (-2): Sd,N,Sc,N
+                   Label1Goto1 (-5): Da,P,Sb,N
+             LessSimpleShooter (0): Sc,N,Sb,N
+Standoff 1
+                 InputAnalyzer (-2): N,N,Dc,Dc
+                        Scared (2): Sa,N,Sc,N
+                   Label1Goto1 (-5): Db,P,Sd,N
+             LessSimpleShooter (0): Sa,N,Sc,N
+Standoff 2
+                 InputAnalyzer (-6): N,P,Dc,Dc
+                        Scared (-5): Sa,N,Sc,N
+                   Label1Goto1 (-8): Da,P,Sb,N
+             LessSimpleShooter (-1): Sb,N,Sc,N

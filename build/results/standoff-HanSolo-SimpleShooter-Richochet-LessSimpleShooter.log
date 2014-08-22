@@ -1,0 +1,15 @@
+Standoff 0
+                       HanSolo (-1): Sb,N,Sb,N,N,N,N
+                 SimpleShooter (-1): Sd,N,Sa,N,N,N,N
+                     Richochet (-1): Sb,N,Sa,N,Sd,N,Sd
+             LessSimpleShooter (-1): Sc,N,Sa,N,Sc,N,Sc
+Standoff 1
+                       HanSolo (-1): Sc,N,N,N,N,N,N
+                 SimpleShooter (-1): Sa,N,Sd,N,Sc,N,Sd
+                     Richochet (-1): Sa,N,Sd,N,Sb,N,N
+             LessSimpleShooter (-1): Sa,N,Sb,N,Sc,N,Sb
+Standoff 2
+                       HanSolo (-1): Sd,N,Sd,N,Sb
+                 SimpleShooter (-1): Sc,N,Sa,N,Sc
+                     Richochet (1): Sb,N,Sd,N,Sa
+             LessSimpleShooter (-1): Sb,N,Sa,N,N

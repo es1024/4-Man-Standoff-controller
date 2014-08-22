@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (2): Sd,N,Sc
+                        Scared (0): Sd,N,Sd
+                      Observer (0): Da,Da,Sd
+                   Label1Goto1 (-7): Db,P,Sb
+Standoff 1
+                 SimpleShooter (2): Sb,N,Sd
+                        Scared (0): Sc,N,Sd
+                      Observer (-2): Da,Db,Sd
+                   Label1Goto1 (-7): Db,P,Sc
+Standoff 2
+                 SimpleShooter (0): Sc,N,Sb,N
+                        Scared (0): Sc,N,Sd,N
+                      Observer (-2): Dd,Da,Sd,N
+                   Label1Goto1 (-5): Db,P,Sa,N

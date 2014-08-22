@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (0): Sc,N,Sc
+                        Coward (0): Sd,N,Sd
+                   Label1Goto1 (-7): Db,P,Sa
+             LessSimpleShooter (-2): Sc,N,Sb
+Standoff 1
+               StraightShooter (-1): Sd,N,Sd,N
+                        Coward (0): Sa,N,Sa,N
+                   Label1Goto1 (-3): Db,P,Sb,N
+             LessSimpleShooter (-2): Sa,N,Sc,N
+Standoff 2
+               StraightShooter (-2): Sb,N,Sb,N
+                        Coward (-2): Sc,N,Da,Dc
+                   Label1Goto1 (-3): Da,P,Sa,N
+             LessSimpleShooter (2): Sb,N,Sa,N

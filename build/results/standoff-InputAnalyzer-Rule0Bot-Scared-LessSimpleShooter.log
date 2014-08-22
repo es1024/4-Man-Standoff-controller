@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,N,N,P,N
+                      Rule0Bot (0): N,N,N,N,Sa
+                        Scared (-2): Sb,N,Sd,N,Sa
+             LessSimpleShooter (0): Sc,N,Sa,N,Sc
+Standoff 1
+                 InputAnalyzer (-7): N,P,Sc
+                      Rule0Bot (2): N,N,Sa
+                        Scared (-2): Sd,N,Sa
+             LessSimpleShooter (0): Sa,N,Sc
+Standoff 2
+                 InputAnalyzer (-6): N,Sb,N,P,Tb
+                      Rule0Bot (-7): N,N,N,N,Sa
+                        Scared (0): Sa,N,Sd,N,Sa
+             LessSimpleShooter (0): Sb,N,Sc,N,Sa

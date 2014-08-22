@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-5): N,Dc,P,Sc,N
+                      Rule0Bot (0): N,N,N,Sa,N
+                        Scared (-2): Sa,N,Sb,N,Sd
+               PriorityTargets (2): Dc,Sc,N,P,Dc
+Standoff 1
+                 InputAnalyzer (-5): N,P,Sc,N
+                      Rule0Bot (-2): N,N,Sa,N
+                        Scared (-2): Sb,N,Sa,N
+               PriorityTargets (2): Da,Sc,N,Sb
+Standoff 2
+                 InputAnalyzer (-8): N,N,Dd,Dc,N,Sd,N,N,P,Sd
+                      Rule0Bot (-3): N,N,N,N,N,N,N,N,N,N
+                        Scared (-1): Sb,N,Sd,N,Sa,N,N,N,N,N
+               PriorityTargets (-10): Db,Sc,N,Sc,N,Sc,N,Sa,N,P

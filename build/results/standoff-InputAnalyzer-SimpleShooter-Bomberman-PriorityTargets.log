@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,Dc,Dd
+                 SimpleShooter (-3): Sd,N,N
+                     Bomberman (-6): P,Tb,Dd
+               PriorityTargets (-1): Db,P,Tc
+Standoff 1
+                 InputAnalyzer (0): N,Dc,N
+                 SimpleShooter (-3): Sa,N,N
+                     Bomberman (-6): P,Tb,Db
+               PriorityTargets (-1): Dc,P,Tc
+Standoff 2
+                 InputAnalyzer (-6): N,Dc,Dd
+                 SimpleShooter (-3): Sc,N,N
+                     Bomberman (0): P,Tb,N
+               PriorityTargets (-1): Dc,P,Ta

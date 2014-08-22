@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,Dd,P
+                     Richochet (0): Sa,N,Sc
+                     BiasedOne (-2): Sa,N,Sa
+             LessSimpleShooter (2): Sc,N,Sb
+Standoff 1
+                 InputAnalyzer (-1): N,Sb,N,N,N,N,N
+                     Richochet (-1): Sa,N,Sa,N,N,N,N
+                     BiasedOne (-1): Sb,N,Sb,N,Sb,N,Sb
+             LessSimpleShooter (5): Sa,N,Sc,N,Sc,N,Sc
+Standoff 2
+                 InputAnalyzer (-5): N,Sc,N,N,P,Db,Sd
+                     Richochet (0): Sd,N,Sa,N,Sc,N,Sc
+                     BiasedOne (-4): Sd,N,Sd,N,Sd,N,Sd
+             LessSimpleShooter (-1): Sb,N,Sa,N,N,N,N

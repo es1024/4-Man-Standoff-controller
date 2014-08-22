@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,Sc,N,Db,Dc,Dd,N,N,N,N
+                 SimpleShooter (-1): Sd,N,Sa,N,Sd,N,Sa,N,Sd,N
+                      Observer (1): Db,Db,Dd,Da,Dd,Da,Dd,Db,Dd,Sb
+             LessSimpleShooter (-1): Sc,N,Sb,N,Sb,N,Sa,N,Sc,N
+Standoff 1
+                 InputAnalyzer (-4): N,P,Tb
+                 SimpleShooter (-3): Sa,N,Sd
+                      Observer (0): Dd,Db,Sa
+             LessSimpleShooter (0): Sa,N,Sc
+Standoff 2
+                 InputAnalyzer (-7): N,Db,Sc,N,N,N,N,Dc,P
+                 SimpleShooter (-1): Sc,N,Sa,N,Sd,N,Sd,N,N
+                      Observer (-2): Dd,Dd,Db,Dd,Db,Da,Db,Da,Da
+             LessSimpleShooter (-2): Sb,N,Sa,N,Sb,N,Sb,N,Sa

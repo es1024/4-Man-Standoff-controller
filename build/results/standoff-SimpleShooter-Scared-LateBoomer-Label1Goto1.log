@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-2): Sd,N,Sd,N
+                        Scared (0): Sc,N,Sd,N
+                    LateBoomer (0): Da,Sa,N,Sb
+                   Label1Goto1 (-5): Da,P,Sa,N
+Standoff 1
+                 SimpleShooter (0): Sb,N,Sd,N
+                        Scared (-1): Sc,N,Sd,N
+                    LateBoomer (2): Db,Sb,N,Sa
+                   Label1Goto1 (-5): Db,P,Sb,N
+Standoff 2
+                 SimpleShooter (-2): Sc,N,Sb,N
+                        Scared (0): Sa,N,Sd,N
+                    LateBoomer (-2): Dd,Sd,N,Sa
+                   Label1Goto1 (-5): Da,P,Sc,N

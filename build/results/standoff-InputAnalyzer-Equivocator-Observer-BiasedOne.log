@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,N,Sb,N,N,N,N,N,N,N,N
+                   Equivocator (1): Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                      Observer (-1): Da,Db,Dd,Da,Dd,Db,Dd,Db,Dd,Sb,N
+                     BiasedOne (-1): Sa,N,Sa,N,Sa,N,Sa,N,Sa,N,N
+Standoff 1
+                 InputAnalyzer (-4): N,N,P,Tc
+                   Equivocator (-2): Sa,N,Sa,N
+                      Observer (-3): Da,Db,Dd,Sa
+                     BiasedOne (2): Sb,N,Sb,N
+Standoff 2
+                 InputAnalyzer (-5): N,P,N,N,N
+                   Equivocator (2): Sc,N,Sa,N,Sd
+                      Observer (-1): Da,Dd,Sa,N,N
+                     BiasedOne (0): Sc,N,Sc,N,Sc

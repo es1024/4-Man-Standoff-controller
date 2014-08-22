@@ -1,0 +1,15 @@
+Standoff 0
+                     Richochet (0): Sb,N,Sd
+                      Rule0Bot (0): N,N,Sd
+                        Scared (0): Sa,N,Sd
+                   Label1Goto1 (-7): Db,P,Sc
+Standoff 1
+                     Richochet (0): Sd,N,Sd,N,N
+                      Rule0Bot (0): N,N,Sd,N,N
+                        Scared (2): Sd,N,Sd,N,Sb
+                   Label1Goto1 (-9): Dc,P,Sa,N,N
+Standoff 2
+                     Richochet (0): Sc,N,Sc
+                      Rule0Bot (2): N,N,Sd
+                        Scared (-2): Sd,N,Sd
+                   Label1Goto1 (-7): Db,P,Sa

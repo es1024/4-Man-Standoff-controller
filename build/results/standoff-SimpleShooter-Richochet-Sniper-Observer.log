@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sd,N,Sc,N,N
+                     Richochet (-1): Sa,N,Sa,N,Sd,N,Sd
+                        Sniper (3): Sb,N,Sb,N,Sa,N,Sb
+                      Observer (-1): Da,Da,Dc,Da,Dc,Db,Dc
+Standoff 1
+                 SimpleShooter (-1): Sb,N,Sc,N,N,N,N
+                     Richochet (-1): Sa,N,Sa,N,Sc,N,Sc
+                        Sniper (-1): Sd,N,Sa,N,Sb,N,Sb
+                      Observer (3): Db,Db,Da,Db,Dc,Db,Dc
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sb,N,Sd,N,N,N,N,N
+                     Richochet (-1): Sd,N,Sa,N,Sd,N,Sd,N,N,N
+                        Sniper (-1): Sa,N,Sb,N,Sa,N,Sb,N,Sd,N
+                      Observer (1): Db,Dc,Db,Dc,Db,Dc,Db,Sc,N,Sc

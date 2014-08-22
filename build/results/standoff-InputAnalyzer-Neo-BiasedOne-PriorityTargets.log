@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-5): N,P,N,Db,N
+                           Neo (2): Dd,Dd,Dc,Dd,Sd
+                     BiasedOne (-2): Sa,N,Sa,N,N
+               PriorityTargets (0): Dc,Sc,N,Sc,N
+Standoff 1
+                 InputAnalyzer (-1): N,P,N,N
+                           Neo (-2): Da,Da,Da,Da
+                     BiasedOne (0): Sb,N,Sb,N
+               PriorityTargets (2): Da,Sc,N,P
+Standoff 2
+                 InputAnalyzer (-5): N,Sb,N,Sd,N,N,Sb,N,N,P,Dc,N
+                           Neo (0): Dc,Da,Dc,Da,Dc,Da,Dc,Sa,N,Da,Dc,Da
+                     BiasedOne (0): Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N
+               PriorityTargets (-1): Db,Sc,N,Sa,N,N,N,N,N,N,N,N

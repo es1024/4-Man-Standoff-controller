@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,Sc,N,N,Dc,Dd,Sb,N,N,N
+                     Richochet (-1): Sc,N,Sd,N,Sa,N,Sa,N,N,N
+                           Neo (-1): Dd,Dd,Db,Dd,Db,Dd,Db,Dd,Sd,N
+               PriorityTargets (1): Dc,Sb,N,Sa,N,Sb,N,Sc,N,Sc
+Standoff 1
+                 InputAnalyzer (-3): N,Sd,N,P,Dc,Tb
+                     Richochet (-8): Sc,N,Sd,N,Sc,N
+                           Neo (-5): Da,Da,Db,Da,Da,Da
+               PriorityTargets (-8): Dc,Sb,N,Sa,N,P
+Standoff 2
+                 InputAnalyzer (-7): N,N,Sc,N,P
+                     Richochet (0): Sd,N,Sa,N,Sa
+                           Neo (0): Db,Da,Db,Dd,Db
+               PriorityTargets (0): Dc,Sb,N,Sa,N

@@ -1,0 +1,15 @@
+Standoff 0
+                        Sniper (0): Sd,N,Sd
+                        Scared (0): Sd,N,Sd
+               PriorityTargets (2): Dd,Sa,N
+                   Label1Goto1 (-9): Dc,P,Sb
+Standoff 1
+                        Sniper (0): Sd,N,Sb,N
+                        Scared (-4): Sc,N,Sd,N
+               PriorityTargets (0): Dd,Sb,N,Sb
+                   Label1Goto1 (-5): Dc,P,Sa,N
+Standoff 2
+                        Sniper (-2): Sd,N,Sc,N
+                        Scared (0): Sd,N,Sd,N
+               PriorityTargets (0): Dd,Sa,N,Sb
+                   Label1Goto1 (-5): Da,P,Sa,N

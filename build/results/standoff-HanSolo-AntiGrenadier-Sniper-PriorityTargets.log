@@ -1,0 +1,15 @@
+Standoff 0
+                       HanSolo (-1): Sb,N,Sb,N,Sb,N,N,N
+                 AntiGrenadier (-1): N,N,N,N,N,N,N,N
+                        Sniper (-1): Sa,N,Sd,N,Sa,N,Sd,N
+               PriorityTargets (1): Dc,Sc,N,Sa,N,Sc,N,Sc
+Standoff 1
+                       HanSolo (-1): Sc,N,Sc,N,Sd,N,N,N,N,N,N,N
+                 AntiGrenadier (-1): N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper (-1): Sa,N,Sd,N,N,N,N,N,N,N,N,N
+               PriorityTargets (1): Db,Sc,N,Sa,N,Sa,N,Sb,N,Sb,N,Sb
+Standoff 2
+                       HanSolo (3): Sd,N,Sd,N,Sb,N,Sb,N,Sb,N,Sc,N,Sc
+                 AntiGrenadier (-3): N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Sniper (-1): Sa,N,Sd,N,Sd,N,Sd,N,Sb,N,Sd,N,Sd
+               PriorityTargets (-1): Db,Sc,N,N,N,N,N,N,N,N,N,N,N

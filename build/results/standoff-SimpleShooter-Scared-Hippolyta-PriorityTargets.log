@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sc,N,Sb,N,Sb
+                        Scared (-1): Sa,N,Sc,N,Sc,N,Sa
+                     Hippolyta (-1): Sd,N,Sd,N,Sd,N,N
+               PriorityTargets (-1): Da,Sb,N,Sa,N,N,N
+Standoff 1
+                 SimpleShooter (-1): Sb,N,Sd,N,Sb
+                        Scared (-1): Sc,N,Sd,N,Sc
+                     Hippolyta (-1): Sa,N,Sa,N,Sa
+               PriorityTargets (1): Da,Sb,N,Sc,N
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sd,N,Sc
+                        Scared (-1): Sc,N,Sd,N,Sa
+                     Hippolyta (-1): Sb,N,Sb,N,Sb
+               PriorityTargets (1): Da,Sa,N,Sa,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-2): N,P,Td
+                        Scared (0): Sc,N,Sa
+                      Observer (-2): Da,Db,Sa
+             LessSimpleShooter (-3): Sc,N,Sb
+Standoff 1
+                 InputAnalyzer (-5): N,P,Db,Sc
+                        Scared (2): Sd,N,Sa,N
+                      Observer (-2): Dd,Db,Sa,N
+             LessSimpleShooter (0): Sa,N,Sc,N
+Standoff 2
+                 InputAnalyzer (-7): N,P,N
+                        Scared (0): Sa,N,Sa
+                      Observer (0): Da,Dd,Sa
+             LessSimpleShooter (2): Sb,N,Sc

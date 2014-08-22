@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-3): Sd,N
+                     Richochet (2): Sc,N
+                      Rule0Bot (0): N,Sd
+                           MAD (-2): P,Ta
+Standoff 1
+                 SimpleShooter (2): Sb,N,Sc
+                     Richochet (-5): Sd,N,N
+                      Rule0Bot (0): N,Sd,N
+                           MAD (-2): P,Tb,N
+Standoff 2
+                 SimpleShooter (2): Sc,N,Sb
+                     Richochet (0): Sc,N,Sd
+                      Rule0Bot (-2): N,Sd,N
+                           MAD (-3): P,Dc,N

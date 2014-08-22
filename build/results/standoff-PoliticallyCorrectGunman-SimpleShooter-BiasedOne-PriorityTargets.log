@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (0): P,Tb,N
+                 SimpleShooter (-3): Sd,N,N
+                     BiasedOne (-6): Sa,N,Sa
+               PriorityTargets (-1): Db,P,Tc
+Standoff 1
+      PoliticallyCorrectGunman (-1): Sd,N,Db,N,Sc,N
+                 SimpleShooter (-1): Sa,N,Sa,N,Sa,N
+                     BiasedOne (-1): Sb,N,Sb,N,Sb,N
+               PriorityTargets (3): Db,Sc,N,Sc,N,Sa
+Standoff 2
+      PoliticallyCorrectGunman (-11): P,Dc,Sc
+                 SimpleShooter (-1): Sc,N,Sa
+                     BiasedOne (-5): Sd,N,Sd
+               PriorityTargets (-5): Da,P,Ta

@@ -1,0 +1,15 @@
+Standoff 0
+                        Scared (0): Sd,N,Sd
+                 CourageTheDog (2): Sa,N,P
+                      Observer (0): Db,Da,Sd
+                   Label1Goto1 (-7): Db,P,Sc
+Standoff 1
+                        Scared (0): Sc,N,Sd
+                 CourageTheDog (2): Sd,N,P
+                      Observer (0): Dd,Db,Sd
+                   Label1Goto1 (-7): Dc,P,Sa
+Standoff 2
+                        Scared (-1): Sc,N,Sd,N
+                 CourageTheDog (-1): Sc,N,P,Tc
+                      Observer (-10): Db,Da,Sd,N
+                   Label1Goto1 (-8): Db,P,Sc,N

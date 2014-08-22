@@ -1,0 +1,15 @@
+Standoff 0
+                      Rule0Bot (-1): N,N,Sd,N
+                     BiasedOne (0): Sa,N,Sa,N
+               PriorityTargets (2): Dd,Sb,N,P
+                   Label1Goto1 (-3): Dc,P,Sa,N
+Standoff 1
+                      Rule0Bot (0): N,N,Sd,N
+                     BiasedOne (0): Sc,N,Sc,N
+               PriorityTargets (-2): Db,Sb,N,Sa
+                   Label1Goto1 (-3): Db,P,Sc,N
+Standoff 2
+                      Rule0Bot (0): N,N,Sd,N
+                     BiasedOne (-2): Sd,N,Sd,N
+               PriorityTargets (2): Da,Sb,N,Sa
+                   Label1Goto1 (-7): Dc,P,Sb,N

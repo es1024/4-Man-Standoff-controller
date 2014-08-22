@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-2): N,Sd,N,Dd,N
+                           Neo (-6): Dd,Dd,Dd,Dc,Dc
+               PriorityTargets (-1): Dd,Sa,N,P,Tb
+                   Label1Goto1 (-3): Db,P,Sa,N,N
+Standoff 1
+                 InputAnalyzer (-1): N,Db,Dd,Dd,Dc,Dc
+                           Neo (0): Da,Da,Da,Da,N,N
+               PriorityTargets (-4): Da,Sb,N,P,N,N
+                   Label1Goto1 (-1): Db,P,Sa,N,N,N
+Standoff 2
+                 InputAnalyzer (-1): N,N,Dd,Dd,Dd
+                           Neo (-6): Dc,Dc,Da,Dc,Dc
+               PriorityTargets (-1): Da,Sd,N,P,Tb
+                   Label1Goto1 (-3): Db,P,Sa,N,N

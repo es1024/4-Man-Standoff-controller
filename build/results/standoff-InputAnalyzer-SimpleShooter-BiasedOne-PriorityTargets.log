@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,N,Sb,N,Sb,N
+                 SimpleShooter (-1): Sd,N,Sc,N,Sd,N
+                     BiasedOne (-1): Sa,N,Sa,N,Sa,N
+               PriorityTargets (1): Dc,Sb,N,Sc,N,Sc
+Standoff 1
+                 InputAnalyzer (-6): N,P,N,Dc
+                 SimpleShooter (-5): Sa,N,Sd,N
+                     BiasedOne (-3): Sb,N,Sb,N
+               PriorityTargets (-6): Db,Sc,N,P
+Standoff 2
+                 InputAnalyzer (-7): N,N,N,N,Sd,N,P,Sc,N
+                 SimpleShooter (0): Sc,N,Sa,N,Sa,N,Sc,N,Sa
+                     BiasedOne (-1): Sd,N,Sd,N,Sd,N,Sd,N,N
+               PriorityTargets (-3): Da,Sb,N,Sc,N,N,N,N,N

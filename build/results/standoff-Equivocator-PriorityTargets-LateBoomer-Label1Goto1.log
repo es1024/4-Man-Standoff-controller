@@ -1,0 +1,15 @@
+Standoff 0
+                   Equivocator (-4): Sd,N,Sd,N
+               PriorityTargets (-2): Dd,Sa,N,Sa
+                    LateBoomer (2): Da,Sa,N,Sb
+                   Label1Goto1 (-3): Da,P,Sb,N
+Standoff 1
+                   Equivocator (-2): Sb,N,Sb,N
+               PriorityTargets (-1): Dc,Sa,N,N
+                    LateBoomer (2): Db,Sb,N,Sd
+                   Label1Goto1 (-3): Db,P,Sa,N
+Standoff 2
+                   Equivocator (0): Sc,N,Sc,N
+               PriorityTargets (2): Da,Sa,N,P
+                    LateBoomer (-1): Dd,Sd,N,N
+                   Label1Goto1 (-3): Db,P,Sc,N

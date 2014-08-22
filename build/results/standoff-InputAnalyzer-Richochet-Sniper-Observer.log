@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (0): N,P,Td
+                     Richochet (0): Sd,N,Sc
+                        Sniper (0): Sb,N,Sd
+                      Observer (-5): Db,Db,Sa
+Standoff 1
+                 InputAnalyzer (-1): N,Sd,N,Dc,Sd,N,Sd,N,N,N,N
+                     Richochet (-1): Sd,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc
+                        Sniper (-1): Sb,N,Sd,N,Sd,N,Sa,N,Sb,N,Sb
+                      Observer (-1): Dc,Db,Dc,Da,Da,N,N,N,N,N,N
+Standoff 2
+                 InputAnalyzer (-2): N,Db,Sc,N,Db,P,Td
+                     Richochet (2): Sd,N,Sc,N,Sa,N,Sa
+                        Sniper (-2): Sa,N,Sd,N,Sd,N,Sd
+                      Observer (-1): Da,Dc,Db,Dc,Db,N,N

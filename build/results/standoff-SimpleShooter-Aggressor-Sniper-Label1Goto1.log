@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (0): Sd,N,N
+                     Aggressor (-3): P,Tc,Sd
+                        Sniper (-3): Sa,N,N
+                   Label1Goto1 (-6): Da,P,Sb
+Standoff 1
+                 SimpleShooter (-3): Sb,N,Sd
+                     Aggressor (-2): P,Tc,N
+                        Sniper (-3): Sb,N,N
+                   Label1Goto1 (-6): Da,P,Sa
+Standoff 2
+                 SimpleShooter (-3): Sc,N
+                     Aggressor (-1): P,Td
+                        Sniper (-3): Sa,N
+                   Label1Goto1 (-9): Db,P

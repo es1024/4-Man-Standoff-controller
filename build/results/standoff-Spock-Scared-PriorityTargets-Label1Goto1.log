@@ -1,0 +1,15 @@
+Standoff 0
+                         Spock (0): Sb,N,Sb,N
+                        Scared (-4): Sd,N,Sd,N
+               PriorityTargets (0): Da,Sa,N,Sb
+                   Label1Goto1 (-3): Db,P,Sc,N
+Standoff 1
+                         Spock (0): Sc,N,Sc,N
+                        Scared (-2): Sc,N,Sd,N
+               PriorityTargets (-2): Db,Sb,N,Sb
+                   Label1Goto1 (-3): Db,P,Sa,N
+Standoff 2
+                         Spock (-2): Sd,N,Sd,N
+                        Scared (0): Sd,N,Sd,N
+               PriorityTargets (2): Db,Sa,N,Sb
+                   Label1Goto1 (-7): Db,P,Sa,N

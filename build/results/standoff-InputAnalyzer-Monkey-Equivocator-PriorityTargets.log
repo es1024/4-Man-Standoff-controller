@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-4): N,Sc,N,P,N,Td
+                        Monkey (2): N,N,N,Sd,N,Sa
+                   Equivocator (-2): Sd,N,Sd,N,Sa,N
+               PriorityTargets (-1): Da,Sc,N,Sa,N,N
+Standoff 1
+                 InputAnalyzer (-7): N,P,Sc,N,N
+                        Monkey (-4): N,N,P,Sa,N
+                   Equivocator (-4): Sa,N,Sa,N,N
+               PriorityTargets (-1): Db,Sc,N,Sc,N
+Standoff 2
+                 InputAnalyzer (-7): N,N,Sd,N,Dd,Dc,P
+                        Monkey (-2): N,Sb,N,N,N,N,N
+                   Equivocator (-2): Sb,N,Sa,N,Sa,N,Sa
+               PriorityTargets (0): Db,Sc,N,Sc,N,Da,Dc

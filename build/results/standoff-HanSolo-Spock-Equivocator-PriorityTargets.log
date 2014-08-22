@@ -1,0 +1,15 @@
+Standoff 0
+                       HanSolo (-1): Sb,N,Sb,N,Sb
+                         Spock (-1): Sa,N,Sa,N,Sa
+                   Equivocator (1): Sd,N,Sd,N,Sd
+               PriorityTargets (-1): Da,Sc,N,Sc,N
+Standoff 1
+                       HanSolo (-1): Sc,N,Sc,N,Sd,N
+                         Spock (-1): Sc,N,Sc,N,Sa,N
+                   Equivocator (-3): Sa,N,Sa,N,N,N
+               PriorityTargets (3): Da,Sb,N,Sb,N,Sb
+Standoff 2
+                       HanSolo (3): Sd,N,Sd,N,Sb,N,Sc
+                         Spock (-3): Sd,N,Sd,N,Sc,N,N
+                   Equivocator (-1): Sb,N,Sb,N,Sb,N,Sa
+               PriorityTargets (-1): Da,Sc,N,N,N,N,N

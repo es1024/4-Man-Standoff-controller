@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (0): Sd,N,Sc,N
+                     Richochet (2): Sa,N,Sc,N
+                      Observer (-1): Dd,Da,Sd,N
+                   Label1Goto1 (-5): Db,P,Sc,N
+Standoff 1
+                 SimpleShooter (0): Sb,N,Sc,N
+                     Richochet (0): Sd,N,Sa,N
+                      Observer (-2): Db,Db,Sd,N
+                   Label1Goto1 (-5): Da,P,Sc,N
+Standoff 2
+                 SimpleShooter (0): Sc,N,Sc,N
+                     Richochet (2): Sd,N,Sc,N
+                      Observer (-2): Da,Da,Sd,N
+                   Label1Goto1 (-3): Db,P,Sa,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sc,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier (-1): N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog (-1): Sb,N,Da,Sa,N,Db,Sd,N,Sb,N,N,N
+               PriorityTargets (1): Dc,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sb
+Standoff 1
+                 SimpleShooter (1): Sb,N,Sb,N,Sd,N,Sd,N,Sc
+                 AntiGrenadier (-1): N,N,N,N,N,N,N,N,N
+                 CourageTheDog (-1): Sd,N,Db,Sb,N,Da,Sd,N,Sa
+               PriorityTargets (-3): Db,Sc,N,Sa,N,Sc,N,N,N
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sb,N,Sd,N,Sc,N,N,N,N,N,N,N,N,N
+                 AntiGrenadier (-1): N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                 CourageTheDog (-1): Sd,N,Db,Dd,Dd,Dd,Dd,Db,Dd,Dd,Db,Dd,Sb,N,N,N
+               PriorityTargets (3): Dc,Sa,N,Sc,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc,N,Sb

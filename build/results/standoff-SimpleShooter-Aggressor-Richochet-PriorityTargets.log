@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-3): Sd,N
+                     Aggressor (-1): P,Tc
+                     Richochet (-6): Sa,N
+               PriorityTargets (-6): Db,P
+Standoff 1
+                 SimpleShooter (-6): Sb,N,Sd
+                     Aggressor (0): P,Tc,N
+                     Richochet (-3): Sd,N,N
+               PriorityTargets (-3): Dc,P,Ta
+Standoff 2
+                 SimpleShooter (-1): Sc,N
+                     Aggressor (-1): P,Td
+                     Richochet (-3): Sd,N
+               PriorityTargets (-9): Dc,P

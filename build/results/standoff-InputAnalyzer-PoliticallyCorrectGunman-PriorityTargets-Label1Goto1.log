@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,Dc,Dd,Dd
+      PoliticallyCorrectGunman (-1): N,Sc,N,Sd
+               PriorityTargets (-8): Db,Sa,N,P
+                   Label1Goto1 (-6): Dc,P,Sc,N
+Standoff 1
+                 InputAnalyzer (-4): N,P,Dd,Dd
+      PoliticallyCorrectGunman (-3): Sd,N,Sc,N
+               PriorityTargets (-3): Dd,Sb,N,Sd
+                   Label1Goto1 (-6): Db,P,Sa,N
+Standoff 2
+                 InputAnalyzer (-3): N,Db,Dd,Dd
+      PoliticallyCorrectGunman (-3): Sa,N,Dc,Dd
+               PriorityTargets (-6): Da,Sb,N,P
+                   Label1Goto1 (-4): Db,P,Sc,N

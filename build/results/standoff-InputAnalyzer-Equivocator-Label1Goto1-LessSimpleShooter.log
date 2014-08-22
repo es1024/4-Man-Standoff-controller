@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (0): N,Sc,N,Dc
+                   Equivocator (0): Sd,N,Sa,N
+                   Label1Goto1 (-3): Dd,P,Sd,N
+             LessSimpleShooter (-2): Sc,N,Sb,N
+Standoff 1
+                 InputAnalyzer (-1): N,Sd,N,N
+                   Equivocator (2): Sa,N,Sc,N
+                   Label1Goto1 (-5): Da,P,Sa,N
+             LessSimpleShooter (0): Sa,N,Sc,N
+Standoff 2
+                 InputAnalyzer (0): N,N,Dc,Dc
+                   Equivocator (0): Sc,N,Sc,N
+                   Label1Goto1 (-3): Db,P,Sa,N
+             LessSimpleShooter (2): Sb,N,Sa,N

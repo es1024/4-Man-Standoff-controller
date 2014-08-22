@@ -1,0 +1,15 @@
+Standoff 0
+                        Monkey (0): N,N,N,Sc,N
+                        Scared (2): Sd,N,Sd,N,Sa
+                        Darwin (0): Sd,N,Sd,N,N
+                   Label1Goto1 (-7): Db,P,Sc,N,N
+Standoff 1
+                        Monkey (-12): N,N,P
+                        Scared (-1): Sa,N,Sd
+                        Darwin (-1): Sa,N,Sa
+                   Label1Goto1 (-6): Db,P,Sa
+Standoff 2
+                        Monkey (-11): N,N,P,Sa
+                        Scared (-3): Sc,N,Sd,N
+                        Darwin (-3): Sa,N,Sa,N
+                   Label1Goto1 (-6): Db,P,Sb,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,N,N,Sc,N,N,N
+                     Richochet (1): Sd,N,Sa,N,Sa,N,Sc
+                        Darwin (-1): Sd,N,Sd,N,Sa,N,Sb
+             LessSimpleShooter (-1): Sc,N,Sb,N,N,N,N
+Standoff 1
+                 InputAnalyzer (-9): N,Db,P
+                     Richochet (2): Sd,N,Sa
+                        Darwin (0): Sa,N,Sa
+             LessSimpleShooter (0): Sa,N,Sc
+Standoff 2
+                 InputAnalyzer (-1): N,Sc,N,Sc,N,Db,Dd
+                     Richochet (1): Sd,N,Sd,N,Sa,N,Sc
+                        Darwin (-1): Sd,N,Sd,N,Sb,N,Sa
+             LessSimpleShooter (-3): Sb,N,Sa,N,N,N,N

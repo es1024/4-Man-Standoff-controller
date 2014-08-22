@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (0): P,Tb
+                        Sniper (-3): Sc,N
+                        Scared (0): Sa,N
+               PriorityTargets (2): Dc,P
+Standoff 1
+      PoliticallyCorrectGunman (1): Sc,N,N,N,N,Sd
+                        Sniper (-1): Sd,N,Sd,N,Sc,N
+                        Scared (-1): Sa,N,Sb,N,Sa,N
+               PriorityTargets (-1): Dc,Sb,N,Sc,N,Sb
+Standoff 2
+      PoliticallyCorrectGunman (-11): P,Sa
+                        Sniper (-1): Sd,N
+                        Scared (-1): Sd,N
+               PriorityTargets (-6): Dc,P

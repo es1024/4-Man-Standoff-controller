@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-3): N,Dc,N
+                 SimpleShooter (-5): Sd,N,Sd
+                     Aggressor (-1): P,Ta,Sb
+                   Label1Goto1 (-6): Db,P,Sb
+Standoff 1
+                 InputAnalyzer (0): N,Dc,N
+                 SimpleShooter (-3): Sa,N,N
+                     Aggressor (-3): P,Tb,Sd
+                   Label1Goto1 (-6): Da,P,Sc
+Standoff 2
+                 InputAnalyzer (-1): N,Dc
+                 SimpleShooter (-1): Sc,N
+                     Aggressor (-3): P,Td
+                   Label1Goto1 (-9): Db,P

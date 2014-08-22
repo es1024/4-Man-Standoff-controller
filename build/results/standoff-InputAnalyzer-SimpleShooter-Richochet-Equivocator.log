@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (1): N,Sd,N,N,N,N,P
+                 SimpleShooter (-1): Sd,N,Sc,N,Sa,N,Sd
+                     Richochet (-1): Sa,N,Sb,N,N,N,N
+                   Equivocator (-1): Sc,N,Sc,N,Sb,N,Sb
+Standoff 1
+                 InputAnalyzer (-1): N,Sb,N,N,N,N,N
+                 SimpleShooter (-1): Sa,N,Sd,N,Sd,N,N
+                     Richochet (-1): Sb,N,Sa,N,Sb,N,Sd
+                   Equivocator (-1): Sa,N,Sc,N,Sc,N,Sc
+Standoff 2
+                 InputAnalyzer (-3): N,P,N,Sb
+                 SimpleShooter (-4): Sc,N,Sd,N
+                     Richochet (0): Sa,N,Sd,N
+                   Equivocator (-2): Sb,N,Sb,N

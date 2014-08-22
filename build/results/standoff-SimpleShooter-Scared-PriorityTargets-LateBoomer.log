@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-2): Sd,N,Sc,N,Sd
+                        Scared (-5): Sd,N,Sc,N,Sd
+               PriorityTargets (-2): Da,Sa,N,Sb,N
+                    LateBoomer (-4): Da,Sa,N,P,Tb
+Standoff 1
+                 SimpleShooter (1): Sb,N,Sd,N,Sc,N
+                        Scared (-1): Sc,N,Sd,N,N,N
+               PriorityTargets (-1): Da,Sa,N,Sa,N,Sd
+                    LateBoomer (-1): Db,Sb,N,Sb,N,Sc
+Standoff 2
+                 SimpleShooter (-5): Sc,N,Sb,N,Sb
+                        Scared (-2): Sd,N,Sc,N,Sd
+               PriorityTargets (-2): Da,Sa,N,Sd,N
+                    LateBoomer (-4): Dc,Sc,N,P,Ta

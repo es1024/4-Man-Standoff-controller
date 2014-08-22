@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-8): Sd,N
+                     Richochet (-1): Sa,N
+                     Bomberman (-1): P,Ta
+                   Label1Goto1 (-6): Db,P
+Standoff 1
+                 SimpleShooter (-1): Sb,N
+                     Richochet (-8): Sd,N
+                     Bomberman (-1): P,Tb
+                   Label1Goto1 (-6): Da,P
+Standoff 2
+                 SimpleShooter (-3): Sc,N,Sb
+                     Richochet (-3): Sc,N,Sc
+                     Bomberman (-7): P,N,Td
+                   Label1Goto1 (-9): Da,P,Sa

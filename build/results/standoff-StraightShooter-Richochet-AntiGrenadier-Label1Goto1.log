@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (0): Sc,N,Sc,N
+                     Richochet (2): Sc,N,Sd,N
+                 AntiGrenadier (-1): N,N,Sd,N
+                   Label1Goto1 (-5): Da,P,Sa,N
+Standoff 1
+               StraightShooter (0): Sd,N,Sd
+                     Richochet (2): Sd,N,Sc
+                 AntiGrenadier (0): N,N,Sd
+                   Label1Goto1 (-9): Dc,P,Sa
+Standoff 2
+               StraightShooter (2): Sb,N,Sb,N
+                     Richochet (-1): Sc,N,Sd,N
+                 AntiGrenadier (0): N,N,Sd,N
+                   Label1Goto1 (-5): Da,P,Sb,N

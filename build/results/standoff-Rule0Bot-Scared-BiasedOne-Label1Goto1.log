@@ -1,0 +1,15 @@
+Standoff 0
+                      Rule0Bot (-2): N,N,Sd,N
+                        Scared (2): Sc,N,Sd,N
+                     BiasedOne (-2): Sa,N,Sa,N
+                   Label1Goto1 (-5): Db,P,Sc,N
+Standoff 1
+                      Rule0Bot (0): N,N,Sd,N
+                        Scared (-2): Sa,N,Sd,N
+                     BiasedOne (0): Sb,N,Sb,N
+                   Label1Goto1 (-5): Db,P,Sc,N
+Standoff 2
+                      Rule0Bot (0): N,N,Sd
+                        Scared (0): Sa,N,Sd
+                     BiasedOne (2): Sd,N,Sd
+                   Label1Goto1 (-7): Dc,P,Sb

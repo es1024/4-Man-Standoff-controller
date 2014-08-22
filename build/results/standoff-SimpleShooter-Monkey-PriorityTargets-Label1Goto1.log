@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (0): Sd,N,Sd,N
+                        Monkey (-5): N,N,N,Sb
+               PriorityTargets (2): Dd,Sa,N,Sd
+                   Label1Goto1 (-5): Da,P,Sb,N
+Standoff 1
+                 SimpleShooter (-2): Sb,N,Sd,N
+                        Monkey (-2): N,Sb,N,N
+               PriorityTargets (0): Db,Sa,N,Sa
+                   Label1Goto1 (-3): Da,P,Sc,N
+Standoff 2
+                 SimpleShooter (0): Sc,N,Sb,N
+                        Monkey (0): N,Sc,N,Sc
+               PriorityTargets (-1): Dd,Sa,N,N
+                   Label1Goto1 (-1): Db,P,Sc,N

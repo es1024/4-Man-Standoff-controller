@@ -1,0 +1,15 @@
+Standoff 0
+                        Monkey (-5): N,Dd,Dd,Sa,N
+                           Neo (-6): Dd,Dd,Dd,Dc,Dc
+               PriorityTargets (-1): Da,Sa,N,P,Tb
+                   Label1Goto1 (-1): Da,P,Sa,N,N
+Standoff 1
+                        Monkey (0): N,N,Sb,N
+                           Neo (0): Da,Da,Da,Dc
+               PriorityTargets (2): Da,Sb,N,P
+                   Label1Goto1 (-1): Dc,P,Sa,N
+Standoff 2
+                        Monkey (0): N,Da,Dc,N,N
+                           Neo (-6): Dc,Dc,Da,Dc,Dc
+               PriorityTargets (-1): Da,Sd,N,P,Tb
+                   Label1Goto1 (-3): Db,P,Sa,N,N

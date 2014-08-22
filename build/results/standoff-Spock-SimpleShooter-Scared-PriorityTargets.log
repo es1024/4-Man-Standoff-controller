@@ -1,0 +1,15 @@
+Standoff 0
+                         Spock (-1): Sb,N,Sb,N,Sb,N,Sc
+                 SimpleShooter (-1): Sd,N,Sc,N,Sc,N,N
+                        Scared (-1): Sd,N,Sd,N,Sd,N,Sa
+               PriorityTargets (-1): Dc,Sa,N,Sa,N,N,N
+Standoff 1
+                         Spock (-1): Sc,N,Sc,N,Sc
+                 SimpleShooter (1): Sa,N,Sd,N,Sa
+                        Scared (-1): Sa,N,Sd,N,Sd
+               PriorityTargets (-1): Dc,Sb,N,Sb,N
+Standoff 2
+                         Spock (1): Sd,N,Sd,N,Sd
+                 SimpleShooter (-1): Sc,N,Sc,N,Sc
+                        Scared (-1): Sa,N,Sb,N,Sb
+               PriorityTargets (-1): Db,Sb,N,Sa,N

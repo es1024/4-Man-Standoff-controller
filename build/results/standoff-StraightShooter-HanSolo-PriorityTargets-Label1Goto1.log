@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (-1): Sc,N,Sc,N
+                       HanSolo (-3): Sa,N,Sa,N
+               PriorityTargets (-8): Db,Sb,N,P
+                   Label1Goto1 (-4): Dc,P,Sa,N
+Standoff 1
+               StraightShooter (2): Sd,N,Sd,N
+                       HanSolo (0): Sc,N,Sc,N
+               PriorityTargets (-1): Dd,Sb,N,N
+                   Label1Goto1 (-3): Da,P,Sc,N
+Standoff 2
+               StraightShooter (0): Sb,N,Sb,N
+                       HanSolo (-4): Sd,N,Sd,N
+               PriorityTargets (0): Da,Sa,N,Sb
+                   Label1Goto1 (-3): Db,P,Sc,N

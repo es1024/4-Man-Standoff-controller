@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (-2): N,Sc,N
+                 SimpleShooter (2): Sd,N,Sa
+                        Scared (0): Sd,N,Sd
+                   Label1Goto1 (-7): Da,P,Sa
+Standoff 1
+      PoliticallyCorrectGunman (-1): Sd,N,Dc,N
+                 SimpleShooter (2): Sa,N,Sc,N
+                        Scared (0): Sa,N,Sd,N
+                   Label1Goto1 (-5): Db,P,Sa,N
+Standoff 2
+      PoliticallyCorrectGunman (0): N,Db,N,N
+                 SimpleShooter (0): Sc,N,Sd,N
+                        Scared (0): Sa,N,Sd,N
+                   Label1Goto1 (-5): Dc,P,Sb,N

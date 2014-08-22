@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sd,N,N
+                 AntiGrenadier (-3): N,N,N,N,Sd
+               PriorityTargets (2): Db,Sa,N,Sa,N
+                    LateBoomer (-2): Da,Sa,N,P,Tb
+Standoff 1
+                 SimpleShooter (-2): Sb,N,Sd,N,Sc
+                 AntiGrenadier (-2): N,N,N,N,Sd
+               PriorityTargets (-5): Dd,Sa,N,Sa,N
+                    LateBoomer (-2): Db,Sb,N,P,Tc
+Standoff 2
+                 SimpleShooter (0): Sc,N,Sb,N,Sc
+                 AntiGrenadier (0): N,N,N,N,Sd
+               PriorityTargets (-7): Da,Sa,N,Sd,N
+                    LateBoomer (-2): Dc,Sc,N,P,Tc

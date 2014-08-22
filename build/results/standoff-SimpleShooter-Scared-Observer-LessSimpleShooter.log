@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sb,N,Sc,N,Sd
+                        Scared (1): Sd,N,Sa,N,Sc,N,Sa
+                      Observer (-1): Da,Da,Dd,Da,Dd,N,N
+             LessSimpleShooter (-1): Sc,N,Sb,N,Sc,N,Sa
+Standoff 1
+                 SimpleShooter (-1): Sb,N,Sd,N,Sb,N,Sd
+                        Scared (-1): Sa,N,Sc,N,Sd,N,N
+                      Observer (1): Db,Db,Da,Db,Da,Dd,Da
+             LessSimpleShooter (-1): Sa,N,Sc,N,Sb,N,Sa
+Standoff 2
+                 SimpleShooter (1): Sc,N,Sd,N,Sc,N,Sc
+                        Scared (-1): Sa,N,Sd,N,Sc,N,Sd
+                      Observer (-1): Dd,Dd,Db,Dd,Db,Dd,Db
+             LessSimpleShooter (-1): Sb,N,Sb,N,Sa,N,Sb

@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (-1): Dd,P,Db,N
+                 SimpleShooter (-2): Sd,N,Sa,N
+                        Darwin (0): Sb,N,Sd,N
+               PriorityTargets (-2): Dc,Sc,N,Sb
+Standoff 1
+      PoliticallyCorrectGunman (-2): Dd,Sa,N,N,N,N,N
+                 SimpleShooter (-1): Sa,N,Sd,N,Sd,N,N
+                        Darwin (1): Sa,N,Sb,N,Sb,N,Sd
+               PriorityTargets (-1): Db,Sb,N,Sc,N,Sc,N
+Standoff 2
+      PoliticallyCorrectGunman (-4): Sa,N,N,N,N,N
+                 SimpleShooter (-1): Sc,N,Sd,N,Sd,N
+                        Darwin (-1): Sa,N,Sb,N,Sb,N
+               PriorityTargets (1): Db,Sb,N,Sc,N,Sc

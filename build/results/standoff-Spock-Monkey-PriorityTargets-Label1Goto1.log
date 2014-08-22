@@ -1,0 +1,15 @@
+Standoff 0
+                         Spock (-2): Sb,N,Sb,N
+                        Monkey (-2): N,Sb,N,N
+               PriorityTargets (2): Dd,Sa,N,P
+                   Label1Goto1 (-1): Dc,P,Sa,N
+Standoff 1
+                         Spock (-6): Sc,N,Sc,N
+                        Monkey (-9): N,N,P,Sc
+               PriorityTargets (-11): Da,Sa,N,P
+                   Label1Goto1 (-7): Db,P,Sb,N
+Standoff 2
+                         Spock (-2): Sd,N,Sd,N
+                        Monkey (2): N,Sd,N,N
+               PriorityTargets (0): Db,Sa,N,Sa
+                   Label1Goto1 (-5): Da,P,Sc,N

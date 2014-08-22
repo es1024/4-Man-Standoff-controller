@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sc,N,Sc,N,Sb,N,Sb
+                     Richochet (-1): Sd,N,Sa,N,Sd,N,Sc,N,Sa
+                 AntiGrenadier (-1): N,N,N,N,N,N,N,N,N
+               PriorityTargets (-1): Dc,Sa,N,Sb,N,N,N,N,N
+Standoff 1
+                 SimpleShooter (-1): Sb,N,Sd,N,Sc,N,N,N,N,N
+                     Richochet (-1): Sa,N,Sa,N,N,N,N,N,N,N
+                 AntiGrenadier (-1): N,N,N,N,N,N,N,N,N,N
+               PriorityTargets (3): Dc,Sb,N,Sb,N,Sa,N,Sc,N,Sc
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sd,N,Sc,N,N,N
+                     Richochet (-1): Sa,N,Sa,N,Sc,N,Sd,N
+                 AntiGrenadier (-1): N,N,N,N,N,N,N,N
+               PriorityTargets (1): Dc,Sb,N,Sb,N,Sa,N,Sb

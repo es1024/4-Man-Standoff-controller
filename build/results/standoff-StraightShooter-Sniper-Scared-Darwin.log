@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (-1): Sc,N,Sc,N,Sc
+                        Sniper (-1): Sd,N,Sa,N,N
+                        Scared (-1): Sb,N,Sa,N,Sd
+                        Darwin (1): Sb,N,Sb,N,Sa
+Standoff 1
+               StraightShooter (-1): Sd,N,Sd,N,Sd
+                        Sniper (-1): Sd,N,Sd,N,Sa
+                        Scared (5): Sa,N,Sa,N,Sb
+                        Darwin (-3): Sb,N,Sb,N,N
+Standoff 2
+               StraightShooter (-3): Sb,N,Sb,N,N
+                        Sniper (-1): Sd,N,Sa,N,Sd
+                        Scared (5): Sa,N,Sd,N,Sd
+                        Darwin (-3): Sa,N,Sa,N,Sb

@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,Dc
+                     Richochet (-1): Sc,N
+           ManipulativeBastard (-3): P,Td
+                   Label1Goto1 (-9): Dc,P
+Standoff 1
+                 InputAnalyzer (-3): N,Dc,N
+                     Richochet (-1): Sd,N,Sd
+           ManipulativeBastard (-3): P,Ta,Sd
+                   Label1Goto1 (-8): Db,P,Sc
+Standoff 2
+                 InputAnalyzer (-1): N,Dc,Dd,Dd
+                     Richochet (-3): Sc,N,N,N
+           ManipulativeBastard (0): P,Tb,N,N
+                   Label1Goto1 (-4): Db,P,Sa,N

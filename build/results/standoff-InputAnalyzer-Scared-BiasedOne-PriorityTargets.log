@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,P,Dd
+                        Scared (0): Sc,N,Sa
+                     BiasedOne (0): Sa,N,Sa
+               PriorityTargets (2): Dc,Sb,N
+Standoff 1
+                 InputAnalyzer (-5): N,P,N,Dc
+                        Scared (-4): Sa,N,Sa,N
+                     BiasedOne (0): Sb,N,Sb,N
+               PriorityTargets (2): Db,Sc,N,Sb
+Standoff 2
+                 InputAnalyzer (-5): N,P,Dc,N
+                        Scared (0): Sa,N,Sa,N
+                     BiasedOne (0): Sd,N,Sd,N
+               PriorityTargets (-2): Db,Sc,N,Sb

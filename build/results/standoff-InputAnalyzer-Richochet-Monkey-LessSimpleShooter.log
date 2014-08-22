@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-3): N,P,Sb,N
+                     Richochet (-4): Sa,N,Sc,N
+                        Monkey (-2): N,N,N,Sb
+             LessSimpleShooter (2): Sc,N,Sb,N
+Standoff 1
+                 InputAnalyzer (-7): N,P,N,N,N
+                     Richochet (0): Sa,N,Sc,N,Sd
+                        Monkey (-2): N,Sa,N,N,N
+             LessSimpleShooter (0): Sa,N,Sc,N,Sb
+Standoff 2
+                 InputAnalyzer (-8): N,N,N,P,Sc,N
+                     Richochet (-3): Sd,N,Sd,N,Sa,N
+                        Monkey (-11): N,N,N,N,P,Sc
+             LessSimpleShooter (-5): Sb,N,Sa,N,Sc,N

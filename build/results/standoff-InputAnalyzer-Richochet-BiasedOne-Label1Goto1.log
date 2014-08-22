@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,Dc,Dd,N
+                     Richochet (2): Sd,N,Sa,N
+                     BiasedOne (0): Sa,N,Sa,N
+                   Label1Goto1 (-1): Db,P,Sc,N
+Standoff 1
+                 InputAnalyzer (-8): N,P,Dd,Dd
+                     Richochet (-1): Sa,N,Sa,N
+                     BiasedOne (-1): Sb,N,Sb,N
+                   Label1Goto1 (-4): Db,P,Sb,N
+Standoff 2
+                 InputAnalyzer (0): N,Db,Dd,Dd,N
+                     Richochet (2): Sa,N,Sd,N,Sc
+                     BiasedOne (0): Sd,N,Sd,N,Sd
+                   Label1Goto1 (-5): Dc,P,Sa,N,N

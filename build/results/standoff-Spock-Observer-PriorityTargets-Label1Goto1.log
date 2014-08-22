@@ -1,0 +1,15 @@
+Standoff 0
+                         Spock (-1): Sb,N,Sb,N
+                      Observer (-2): Dd,Sa,N,Sd
+               PriorityTargets (2): Da,Sa,N,P
+                   Label1Goto1 (-3): Da,P,Sa,N
+Standoff 1
+                         Spock (-2): Sc,N,Sc,N
+                      Observer (2): Dc,Sa,N,Sd
+               PriorityTargets (-1): Db,Sa,N,N
+                   Label1Goto1 (-3): Da,P,Sc,N
+Standoff 2
+                         Spock (-2): Sd,N,Sd,N
+                      Observer (0): Dc,Sa,N,Sd
+               PriorityTargets (2): Da,Sa,N,Db
+                   Label1Goto1 (-7): Db,P,Sb,N

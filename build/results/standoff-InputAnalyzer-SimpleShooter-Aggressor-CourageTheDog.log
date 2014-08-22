@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-3): N,Dc
+                 SimpleShooter (0): Sd,N
+                     Aggressor (2): P,Ta
+                 CourageTheDog (0): Sb,N
+Standoff 1
+                 InputAnalyzer (0): N,Dc
+                 SimpleShooter (0): Sa,N
+                     Aggressor (2): P,Td
+                 CourageTheDog (-3): Sb,N
+Standoff 2
+                 InputAnalyzer (0): N,Dc,Sd
+                 SimpleShooter (2): Sc,N,Sa
+                     Aggressor (-2): P,Td,N
+                 CourageTheDog (-3): Sc,N,N

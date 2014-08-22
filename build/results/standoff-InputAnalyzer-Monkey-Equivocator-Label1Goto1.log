@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,P,Dd,Db
+                        Monkey (-7): N,Dc,P,Sc
+                   Equivocator (-8): Sd,N,Sd,N
+                   Label1Goto1 (-9): Dc,P,Sc,N
+Standoff 1
+                 InputAnalyzer (-2): N,Sd,N,Dd
+                        Monkey (0): N,Sa,N,N
+                   Equivocator (0): Sa,N,Sb,N
+                   Label1Goto1 (-3): Dc,P,Sc,N
+Standoff 2
+                 InputAnalyzer (0): N,Db,Dd,Dd
+                        Monkey (0): N,N,Db,Db
+                   Equivocator (0): Sb,N,Sa,N
+                   Label1Goto1 (-1): Da,P,Sc,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (0): Sd,N,Sc,N
+                 AntiGrenadier (-2): N,N,Sd,N
+               PriorityTargets (0): Dd,Sa,N,Sb
+                   Label1Goto1 (-5): Dc,P,Sb,N
+Standoff 1
+                 SimpleShooter (-2): Sb,N,Sd,N
+                 AntiGrenadier (-2): N,N,Sd,N
+               PriorityTargets (2): Dd,Sa,N,Sa
+                   Label1Goto1 (-5): Db,P,Sb,N
+Standoff 2
+                 SimpleShooter (0): Sc,N,Sc,N
+                 AntiGrenadier (0): N,N,Sd,N
+               PriorityTargets (-2): Da,Sa,N,Sb
+                   Label1Goto1 (-3): Dc,P,Sc,N

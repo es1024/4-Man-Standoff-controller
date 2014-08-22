@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (-1): Sb,N,N,N
+                 SimpleShooter (0): Sd,N,Sa,N
+                   Label1Goto1 (-3): Da,P,Sa,N
+             LessSimpleShooter (0): Sc,N,Sa,N
+Standoff 1
+      PoliticallyCorrectGunman (0): Db,Sb,N,Db
+                 SimpleShooter (-2): Sa,N,Sd,N
+                   Label1Goto1 (-3): Dd,P,Sb,N
+             LessSimpleShooter (0): Sa,N,Sc,N
+Standoff 2
+      PoliticallyCorrectGunman (-2): Db,Sd,N,Dd
+                 SimpleShooter (0): Sc,N,Sc,N
+                   Label1Goto1 (-3): Db,P,Sa,N
+             LessSimpleShooter (0): Sb,N,Sa,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-5): N,P,N,N
+                      Rule0Bot (0): N,N,Sa,N
+                      Observer (0): Db,Sd,N,Sa
+             LessSimpleShooter (0): Sc,N,Sb,N
+Standoff 1
+                 InputAnalyzer (-1): N,N,Sc,N,Sd,N,Dd,Sb,N,N,Dd,Sb,N,N
+                      Rule0Bot (-1): N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                      Observer (1): Da,Sd,N,Dd,Da,Dd,Da,Da,Dd,Da,Da,Da,Dd,Sd
+             LessSimpleShooter (-1): Sa,N,Sc,N,Sb,N,Sa,N,Sa,N,Sa,N,Sa,N
+Standoff 2
+                 InputAnalyzer (-5): N,N,N,Dd,Db,P,Sb,N
+                      Rule0Bot (-2): N,N,N,N,N,N,N,N
+                      Observer (0): Dd,Sd,N,Sd,N,Sd,N,Sa
+             LessSimpleShooter (-1): Sb,N,Sa,N,Sc,N,N,N

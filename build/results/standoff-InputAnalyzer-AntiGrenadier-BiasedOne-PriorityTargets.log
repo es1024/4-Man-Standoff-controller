@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,Dc,Db,N,Sb,N,N,N,N,N
+                 AntiGrenadier (-1): N,N,N,N,N,N,N,N,N,N
+                     BiasedOne (-1): Sa,N,Sa,N,Sa,N,N,N,N,N
+               PriorityTargets (5): Db,Sc,N,Sc,N,Sc,N,Sb,N,Sb
+Standoff 1
+                 InputAnalyzer (-2): N,N,N,Dc,Sd,N,Db,P,Tb
+                 AntiGrenadier (-1): N,N,N,N,N,N,N,N,N
+                     BiasedOne (-2): Sb,N,Sb,N,Sb,N,Sb,N,Sb
+               PriorityTargets (0): Dc,Sc,N,Sc,N,Sa,N,Sa,N
+Standoff 2
+                 InputAnalyzer (0): N,N,Sd,N,N,P,Td
+                 AntiGrenadier (2): N,N,N,N,N,N,Sa
+                     BiasedOne (0): Sd,N,Sd,N,Sd,N,Sd
+               PriorityTargets (-1): Db,Sc,N,N,N,N,N

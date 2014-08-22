@@ -1,0 +1,15 @@
+Standoff 0
+                       HanSolo (-3): Sb,N,Sb,N
+                        Darwin (-2): Sa,N,Sa,N
+               PriorityTargets (2): Da,Sa,N,P
+                   Label1Goto1 (-1): Da,P,Sa,N
+Standoff 1
+                       HanSolo (2): Sc,N,Sc,N
+                        Darwin (-2): Sc,N,Sc,N
+               PriorityTargets (-3): Dd,Sb,N,N
+                   Label1Goto1 (-1): Db,P,Sb,N
+Standoff 2
+                       HanSolo (0): Sd,N,Sd,N
+                        Darwin (2): Sc,N,Sc,N
+               PriorityTargets (-1): Dd,Sa,N,N
+                   Label1Goto1 (-3): Da,P,Sc,N

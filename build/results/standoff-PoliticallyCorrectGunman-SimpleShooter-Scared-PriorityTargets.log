@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (-11): P,Sa
+                 SimpleShooter (-1): Sd,N
+                        Scared (-1): Sd,N
+               PriorityTargets (-6): Db,P
+Standoff 1
+      PoliticallyCorrectGunman (-1): Sd,N,Sc,N,Db,N,N
+                 SimpleShooter (-1): Sa,N,Sa,N,Sa,N,N
+                        Scared (1): Sb,N,Sd,N,Sa,N,Sd
+               PriorityTargets (-1): Dc,Sc,N,Sb,N,Sb,N
+Standoff 2
+      PoliticallyCorrectGunman (-7): Sb,N,Dd,P,N
+                 SimpleShooter (-2): Sc,N,Sc,N,Sd
+                        Scared (-2): Sd,N,Sa,N,Sa
+               PriorityTargets (-2): Db,Sa,N,Sb,N

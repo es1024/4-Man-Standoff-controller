@@ -1,0 +1,15 @@
+Standoff 0
+                      Rule0Bot (2): N,N,Sc
+                        Scared (-2): Sd,N,Sc
+                   Label1Goto1 (-7): Db,P,Sb
+             LessSimpleShooter (0): Sc,N,Sb
+Standoff 1
+                      Rule0Bot (0): N,N,Sc
+                        Scared (0): Sd,N,Sc
+                   Label1Goto1 (-7): Dd,P,Sb
+             LessSimpleShooter (0): Sa,N,Sc
+Standoff 2
+                      Rule0Bot (0): N,N,Sc,N
+                        Scared (0): Sd,N,Sc,N
+                   Label1Goto1 (-5): Db,P,Sd,N
+             LessSimpleShooter (-2): Sb,N,Sa,N

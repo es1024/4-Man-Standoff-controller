@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sc,N,Sc,N,Sb,N,Sc,N,Sb
+                   Equivocator (-1): Sd,N,Sc,N,Sc,N,Sd,N,Sc,N,Sa
+                      Observer (-1): Da,Da,Db,Dd,Db,Dd,Db,Da,Db,N,N
+               PriorityTargets (-1): Dc,Sa,N,Sb,N,Sa,N,N,N,N,N
+Standoff 1
+                 SimpleShooter (-1): Sb,N,Sd,N,Sc,N,N,N,N
+                   Equivocator (-1): Sa,N,Sa,N,N,N,N,N,N
+                      Observer (3): Da,Db,Da,Dd,Da,Dd,Sd,N,Sd
+               PriorityTargets (-1): Dc,Sb,N,Sb,N,Sa,N,Sc,N
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sb,N,Sb,N,N,N,N
+                   Equivocator (-1): Sc,N,Sd,N,Sd,N,Sc,N,N
+                      Observer (1): Dd,Da,Db,Dd,Db,Dd,Db,Dd,Sd
+               PriorityTargets (-1): Dc,Sa,N,Sa,N,Sa,N,Sb,N

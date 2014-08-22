@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (0): N,Dc
+                 SimpleShooter (-3): Sd,N
+                     Bomberman (2): P,Tb
+                     BiasedOne (0): Sa,N
+Standoff 1
+                 InputAnalyzer (0): N,Dc,N,N,N,N,N,N
+                 SimpleShooter (-5): Sa,N,N,N,N,N,N,N
+                     Bomberman (2): P,Tb,Db,Sb,N,Sb,N,Sd
+                     BiasedOne (0): Sb,N,Sb,N,Sb,N,Sb,N
+Standoff 2
+                 InputAnalyzer (0): N,Dc,Sd
+                 SimpleShooter (2): Sc,N,Sa
+                     Bomberman (-2): P,Td,N
+                     BiasedOne (-3): Sc,N,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,Dc,Dd,Dd
+                        Darwin (-5): Sd,N,Sc,N
+               PriorityTargets (-6): Db,Sb,N,P
+                   Label1Goto1 (-4): Db,P,Sb,N
+Standoff 1
+                 InputAnalyzer (-2): N,N,Dd,Dd
+                        Darwin (0): Sa,N,Sa,N
+               PriorityTargets (2): Da,Sb,N,P
+                   Label1Goto1 (-1): Da,P,Sa,N
+Standoff 2
+                 InputAnalyzer (-6): N,Sb,N,Dd,Dd
+                        Darwin (-1): Sd,N,Sd,N,N
+               PriorityTargets (-1): Da,Sb,N,P,Ta
+                   Label1Goto1 (-5): Da,P,Sb,N,N

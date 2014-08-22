@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (2): N,Dc,P,Sd
+                      Rule0Bot (0): N,N,Sd,N
+               PriorityTargets (0): Dd,Sa,N,Sb
+                   Label1Goto1 (-5): Dc,P,Sc,N
+Standoff 1
+      PoliticallyCorrectGunman (2): Dd,Sb,N,Db
+                      Rule0Bot (-4): N,N,Sd,N
+               PriorityTargets (0): Da,Sb,N,Sb
+                   Label1Goto1 (-3): Da,P,Sc,N
+Standoff 2
+      PoliticallyCorrectGunman (-4): Dc,P,Db,Dd
+                      Rule0Bot (-5): N,N,Sd,N
+               PriorityTargets (-1): Da,Sd,N,Sb
+                   Label1Goto1 (-8): Da,P,Sb,N

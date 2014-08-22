@@ -1,0 +1,15 @@
+Standoff 0
+                       HanSolo (-1): Sb,N,Sb,N,Sb
+                         Spock (-1): Sa,N,Sa,N,Sa
+                 SimpleShooter (1): Sd,N,Sd,N,Sd
+               PriorityTargets (-1): Da,Sc,N,Sc,N
+Standoff 1
+                       HanSolo (1): Sc,N,Sc,N,Sd,N,Sb
+                         Spock (-1): Sc,N,Sc,N,Sd,N,Sa
+                 SimpleShooter (-3): Sa,N,Sd,N,N,N,N
+               PriorityTargets (-1): Dc,Sb,N,Sb,N,N,N
+Standoff 2
+                       HanSolo (-1): Sd,N,Sd,N,Sb,N,Sc
+                         Spock (-1): Sd,N,Sd,N,Sa,N,N
+                 SimpleShooter (1): Sb,N,Sa,N,Sb,N,Sa
+               PriorityTargets (-3): Dc,Sc,N,N,N,N,N

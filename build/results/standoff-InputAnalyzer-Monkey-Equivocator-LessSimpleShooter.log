@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (2): N,Dc,P,Tb
+                        Monkey (-10): N,Sc,N,Sb
+                   Equivocator (-2): Sd,N,Sd,N
+             LessSimpleShooter (-2): Sc,N,Sb,N
+Standoff 1
+                 InputAnalyzer (-1): N,Sd,N,N,N,N,N,N
+                        Monkey (-2): N,Sa,N,N,N,N,N,Sb
+                   Equivocator (1): Sa,N,Sb,N,Sd,N,Sd,N
+             LessSimpleShooter (-1): Sa,N,Sc,N,Sc,N,Sb,N
+Standoff 2
+                 InputAnalyzer (-5): N,Sb,N,P,N,Dc
+                        Monkey (-4): N,Sb,N,N,N,N
+                   Equivocator (0): Sb,N,Sa,N,Sd,N
+             LessSimpleShooter (0): Sb,N,Sa,N,Sc,N

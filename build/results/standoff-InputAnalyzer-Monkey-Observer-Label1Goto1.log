@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-2): N,N,Dd,Dd
+                        Monkey (2): N,Dd,Sa,N
+                      Observer (0): Dd,Sa,N,Sd
+                   Label1Goto1 (-3): Da,P,Sc,N
+Standoff 1
+                 InputAnalyzer (0): N,N,Dd,Dd,Dd,Dd
+                        Monkey (-2): N,N,N,N,N,N
+                      Observer (2): Dd,Sb,N,Sd,N,Sa
+                   Label1Goto1 (-3): Db,P,Sb,N,N,N
+Standoff 2
+                 InputAnalyzer (-1): N,N,Dd,Dd,Dd
+                        Monkey (-4): N,N,P,Dd,Dd
+                      Observer (0): Dd,Sd,N,Sd,N
+                   Label1Goto1 (-5): Dc,P,Sc,N,N

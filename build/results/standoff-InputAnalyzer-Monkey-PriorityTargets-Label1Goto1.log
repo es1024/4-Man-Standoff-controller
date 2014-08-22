@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (0): N,N,Dd,Dd,N
+                        Monkey (-6): N,Dd,N,N,N
+               PriorityTargets (-1): Dd,Sa,N,P,Tb
+                   Label1Goto1 (-1): Dc,P,Sa,N,N
+Standoff 1
+                 InputAnalyzer (-7): N,P,Dd,Dd
+                        Monkey (-2): N,N,Sb,N
+               PriorityTargets (-9): Da,Sb,N,P
+                   Label1Goto1 (-7): Da,P,Sc,N
+Standoff 2
+                 InputAnalyzer (-4): N,N,Dd,Dd
+                        Monkey (-9): N,Dc,P,N
+               PriorityTargets (-7): Dd,Sd,N,P
+                   Label1Goto1 (-9): Dc,P,Sb,N

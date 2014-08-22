@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-13): N,N,P,N,Dd
+                 SimpleShooter (-3): Sd,N,Sc,N,Sc
+                        Scared (-5): Sa,N,Sd,N,Sa
+               PriorityTargets (-5): Da,Sb,N,P,Ta
+Standoff 1
+                 InputAnalyzer (-5): N,P,Sb,N
+                 SimpleShooter (-2): Sa,N,Sc,N
+                        Scared (-2): Sd,N,Sa,N
+               PriorityTargets (0): Da,Sb,N,Sc
+Standoff 2
+                 InputAnalyzer (1): N,N,Dd,Sd,N,N,P
+                 SimpleShooter (-1): Sc,N,Sa,N,Sd,N,Sc
+                        Scared (-1): Sb,N,Sa,N,Sd,N,Sb
+               PriorityTargets (-1): Da,Sc,N,Sb,N,N,N

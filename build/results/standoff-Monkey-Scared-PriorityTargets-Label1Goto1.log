@@ -1,0 +1,15 @@
+Standoff 0
+                        Monkey (0): N,Db,Db,Sd,N,N
+                        Scared (-4): Sc,N,Sd,N,N,N
+               PriorityTargets (2): Db,Sb,N,Sb,N,Sa
+                   Label1Goto1 (-5): Db,P,Sb,N,N,N
+Standoff 1
+                        Monkey (-6): N,N,N,Sb,N,N,N
+                        Scared (-6): Sd,N,Sd,N,N,N,N
+               PriorityTargets (-1): Da,Sb,N,Sb,N,P,Ta
+                   Label1Goto1 (-3): Db,P,Sb,N,N,N,N
+Standoff 2
+                        Monkey (0): N,Dc,Sb,N
+                        Scared (-4): Sc,N,Sd,N
+               PriorityTargets (0): Da,Sb,N,Sb
+                   Label1Goto1 (-3): Dc,P,Sa,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (2): N,N,Dd,Dd
+                 SimpleShooter (0): Sd,N,Sc,N
+                      Observer (0): Db,Sb,N,Sd
+                   Label1Goto1 (-5): Dc,P,Sa,N
+Standoff 1
+                 InputAnalyzer (0): N,Sd,N,Dd
+                 SimpleShooter (-2): Sa,N,Sc,N
+                      Observer (0): Dd,Sb,N,Sd
+                   Label1Goto1 (-5): Db,P,Sb,N
+Standoff 2
+                 InputAnalyzer (2): N,Sb,N,Dd
+                 SimpleShooter (-2): Sc,N,Sc,N
+                      Observer (-2): Db,Sb,N,Sd
+                   Label1Goto1 (-3): Da,P,Sc,N

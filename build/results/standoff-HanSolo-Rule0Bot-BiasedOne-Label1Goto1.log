@@ -1,0 +1,15 @@
+Standoff 0
+                       HanSolo (-2): Sb,N,Sb,N
+                      Rule0Bot (-1): N,N,Sd,N
+                     BiasedOne (2): Sa,N,Sa,N
+                   Label1Goto1 (-3): Da,P,Sb,N
+Standoff 1
+                       HanSolo (0): Sc,N,Sc,N
+                      Rule0Bot (-2): N,N,Sd,N
+                     BiasedOne (-2): Sb,N,Sb,N
+                   Label1Goto1 (-3): Dc,P,Sa,N
+Standoff 2
+                       HanSolo (2): Sd,N,Sd,N,Sc
+                      Rule0Bot (0): N,N,Sd,N,N
+                     BiasedOne (0): Sd,N,Sd,N,Sd
+                   Label1Goto1 (-9): Da,P,Sb,N,N

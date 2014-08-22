@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,Dd,P
+                 SimpleShooter (0): Sd,N,Sa
+                        Sniper (0): Sb,N,Sa
+             LessSimpleShooter (0): Sc,N,Sa
+Standoff 1
+                 InputAnalyzer (-7): N,Sb,N,P,Sc
+                 SimpleShooter (-1): Sa,N,Sd,N,N
+                        Sniper (-4): Sb,N,Sb,N,Sa
+             LessSimpleShooter (0): Sa,N,Sc,N,Sc
+Standoff 2
+                 InputAnalyzer (0): N,P,N,Tb
+                 SimpleShooter (-1): Sc,N,Sd,N
+                        Sniper (0): Sa,N,Sb,N
+             LessSimpleShooter (0): Sb,N,Sb,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,Sc,N,N
+                     BiasedOne (0): Sa,N,Sa,N
+                   Label1Goto1 (-5): Da,P,Sa,N
+             LessSimpleShooter (2): Sc,N,Sb,N
+Standoff 1
+                 InputAnalyzer (0): N,Dd,Dc,Dc,N
+                     BiasedOne (0): Sc,N,Sc,N,Sc
+                   Label1Goto1 (-5): Db,P,Sa,N,N
+             LessSimpleShooter (2): Sa,N,Sc,N,Sb
+Standoff 2
+                 InputAnalyzer (0): N,N,Dc,Dc
+                     BiasedOne (-2): Sd,N,Sd,N
+                   Label1Goto1 (-1): Db,P,Sb,N
+             LessSimpleShooter (-2): Sb,N,Sa,N

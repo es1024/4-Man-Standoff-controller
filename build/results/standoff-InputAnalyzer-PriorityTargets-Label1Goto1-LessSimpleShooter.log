@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,N,Dc,Dc
+               PriorityTargets (-6): Da,Sd,N,P
+                   Label1Goto1 (-6): Da,P,Sd,N
+             LessSimpleShooter (-5): Sc,N,Sb,N
+Standoff 1
+                 InputAnalyzer (0): N,N,Dc,Dc
+               PriorityTargets (0): Dc,Sd,N,Sd
+                   Label1Goto1 (-3): Da,P,Sb,N
+             LessSimpleShooter (-2): Sa,N,Sc,N
+Standoff 2
+                 InputAnalyzer (-5): N,Sb,N,Dc
+               PriorityTargets (-8): Dc,Sd,N,P
+                   Label1Goto1 (-4): Da,P,Sa,N
+             LessSimpleShooter (-3): Sb,N,Sa,N

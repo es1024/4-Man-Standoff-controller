@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-3): N,N,Dd,Sb,N,Sd,N,N,Db,P,N,Sc
+                           Neo (0): Dd,Dd,Dc,Dd,Dc,Dd,Dc,Da,Dc,Da,Dc,Da
+                   Equivocator (-4): Sd,N,Sd,N,Sd,N,Sb,N,Sb,N,Sb,N
+               PriorityTargets (-1): Dc,Sc,N,Sc,N,Sa,N,N,N,N,N,N
+Standoff 1
+                 InputAnalyzer (-8): N,Sd,N,Sc,N,Dc,P,Sc,N
+                           Neo (-8): Da,Da,Dc,Da,Sd,N,Da,Da,Dd
+                   Equivocator (-1): Sa,N,Sa,N,N,N,N,N,N
+               PriorityTargets (-5): Dc,Sc,N,Sc,N,Sb,N,P,Tb
+Standoff 2
+                 InputAnalyzer (-9): N,N,N,N,N,N,P,N,Dd
+                           Neo (-1): Dc,Da,Dc,Da,Dc,Da,Da,Da,Da
+                   Equivocator (-1): Sb,N,Sb,N,Sb,N,N,N,N
+               PriorityTargets (-1): Dc,Sc,N,Sc,N,Sc,N,P,Ta

@@ -1,0 +1,15 @@
+Standoff 0
+                      Pacifist (-1): N,N,N,N,N,N,N,N,N,N
+               StraightShooter (-1): Sc,N,Sc,N,Sc,N,N,N,N,N
+                 InputAnalyzer (-1): N,Db,Da,N,Sa,N,N,N,N,N
+               PriorityTargets (5): Da,Sb,N,Sb,N,Sb,N,Sa,N,Sa
+Standoff 1
+                      Pacifist (2): N,N,N,N,N
+               StraightShooter (-5): Sd,N,Sd,N,Sd
+                 InputAnalyzer (0): N,Sd,N,P,Tb
+               PriorityTargets (-4): Db,Sb,N,Sc,N
+Standoff 2
+                      Pacifist (-1): N,N,N,N,N,N
+               StraightShooter (-3): Sa,N,Sa,N,Sa,N
+                 InputAnalyzer (-3): N,Sa,N,N,P,Td
+               PriorityTargets (-9): Db,Sb,N,Sc,N,P

@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (2): Sd,N,Sc
+                        Coward (-2): Sd,N,Sd
+                        Scared (0): Sb,N,Sd
+                   Label1Goto1 (-7): Da,P,Sb
+Standoff 1
+                 SimpleShooter (0): Sb,N,Sd,N
+                        Coward (-2): Sa,N,Da,Da
+                        Scared (0): Sb,N,Sd,N
+                   Label1Goto1 (-5): Db,P,Sc,N
+Standoff 2
+                 SimpleShooter (2): Sc,N,Sd,N
+                        Coward (-2): Sc,N,Sc,N
+                        Scared (-1): Sb,N,Sd,N
+                   Label1Goto1 (-5): Db,P,Sb,N

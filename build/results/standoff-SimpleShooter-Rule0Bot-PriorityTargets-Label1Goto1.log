@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (0): Sd,N,Sd,N
+                      Rule0Bot (0): N,N,Sd,N
+               PriorityTargets (0): Db,Sa,N,Sb
+                   Label1Goto1 (-5): Da,P,Sc,N
+Standoff 1
+                 SimpleShooter (-2): Sb,N,Sd,N
+                      Rule0Bot (-2): N,N,Sd,N
+               PriorityTargets (2): Da,Sa,N,Sa
+                   Label1Goto1 (-5): Db,P,Sb,N
+Standoff 2
+                 SimpleShooter (-2): Sc,N,Sb,N
+                      Rule0Bot (-2): N,N,Sd,N
+               PriorityTargets (0): Dd,Sa,N,Sb
+                   Label1Goto1 (-3): Dc,P,Sa,N

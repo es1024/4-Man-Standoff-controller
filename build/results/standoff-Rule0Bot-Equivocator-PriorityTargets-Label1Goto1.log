@@ -1,0 +1,15 @@
+Standoff 0
+                      Rule0Bot (2): N,N,Sd
+                   Equivocator (0): Sd,N,Sd
+               PriorityTargets (0): Da,Sb,N
+                   Label1Goto1 (-7): Dc,P,Sc
+Standoff 1
+                      Rule0Bot (-1): N,N,Sd,N
+                   Equivocator (0): Sa,N,Sa,N
+               PriorityTargets (2): Dd,Sb,N,P
+                   Label1Goto1 (-3): Da,P,Sa,N
+Standoff 2
+                      Rule0Bot (-2): N,N,Sd,N
+                   Equivocator (0): Sc,N,Sc,N
+               PriorityTargets (-2): Da,Sb,N,Sa
+                   Label1Goto1 (-3): Db,P,Sa,N

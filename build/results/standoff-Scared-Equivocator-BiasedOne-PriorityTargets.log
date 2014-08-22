@@ -1,0 +1,15 @@
+Standoff 0
+                        Scared (-1): Sc,N,Sc,N,Sb
+                   Equivocator (-1): Sd,N,Sd,N,Sd
+                     BiasedOne (1): Sa,N,Sa,N,Sa
+               PriorityTargets (-1): Dc,Sb,N,Sb,N
+Standoff 1
+                        Scared (-1): Sd,N,Sd,N,Sc
+                   Equivocator (-1): Sa,N,Sa,N,Sa
+                     BiasedOne (-1): Sb,N,Sb,N,Sb
+               PriorityTargets (1): Dc,Sc,N,Sc,N
+Standoff 2
+                        Scared (-1): Sc,N,Sb,N,Sc,N,Sb
+                   Equivocator (-1): Sc,N,Sa,N,Sc,N,Sa
+                     BiasedOne (-3): Sd,N,Sd,N,Sd,N,N
+               PriorityTargets (-1): Db,Sa,N,Sb,N,N,N

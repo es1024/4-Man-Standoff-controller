@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (0): N,Sc,N,Dd
+                        Monkey (0): N,Da,Da,N
+                    LateBoomer (0): Da,Sa,N,Sd
+                   Label1Goto1 (-3): Db,P,Sb,N
+Standoff 1
+                 InputAnalyzer (2): N,Dd,Dd,Dd
+                        Monkey (0): N,Da,Dd,N
+                    LateBoomer (0): Db,Sb,N,Sd
+                   Label1Goto1 (-3): Da,P,Sc,N
+Standoff 2
+                 InputAnalyzer (0): N,N,Dd,Dd,N,N
+                        Monkey (0): N,N,N,N,Dd,N
+                    LateBoomer (2): Dd,Sd,N,Sa,N,Sb
+                   Label1Goto1 (-3): Dc,P,Sa,N,N,N

@@ -1,0 +1,15 @@
+Standoff 0
+                       HanSolo (0): Sb,N,Sb,N
+                        Darwin (-2): Sd,N,Sa,N
+                      Observer (0): Db,Da,Sd,N
+                   Label1Goto1 (-3): Db,P,Sc,N
+Standoff 1
+                       HanSolo (0): Sc,N,Sc,N
+                        Darwin (2): Sc,N,Sc,N
+                      Observer (-1): Da,Db,Sd,N
+                   Label1Goto1 (-3): Da,P,Sa,N
+Standoff 2
+                       HanSolo (-2): Sd,N,Sd,N,N,N
+                        Darwin (0): Sa,N,Sd,N,Sc,N
+                      Observer (2): Db,Da,Sd,N,Db,Sb
+                   Label1Goto1 (-9): Db,P,Sa,N,N,N

@@ -1,0 +1,15 @@
+Standoff 0
+                     Richochet (-1): Sd,N,Sd,N,Sb,N,N,N,N
+                      Observer (1): Dd,Da,Dc,Dd,Dc,Dd,Sd,N,Sd
+                     BiasedOne (-1): Sa,N,Sa,N,Sa,N,N,N,N
+               PriorityTargets (-1): Da,Sc,N,Sc,N,Sc,N,Sb,N
+Standoff 1
+                     Richochet (1): Sc,N,Sd,N,Sb,N,Sd,N,Sd
+                      Observer (-1): Dc,Dc,Da,Dd,Da,Dd,Da,N,N
+                     BiasedOne (-1): Sb,N,Sb,N,Sb,N,Sb,N,N
+               PriorityTargets (-1): Da,Sa,N,Sc,N,Sa,N,Sc,N
+Standoff 2
+                     Richochet (-1): Sc,N,Sd,N,Sd,N,Sb,N,Sc,N,Sb,N
+                      Observer (1): Da,Da,Dc,Dd,Dc,Da,Dc,Da,Dc,Sa,N,Sa
+                     BiasedOne (-1): Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,N,N
+               PriorityTargets (-3): Dc,Sa,N,Sc,N,N,N,N,N,N,N,N

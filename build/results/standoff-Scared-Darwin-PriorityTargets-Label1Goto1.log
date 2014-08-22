@@ -1,0 +1,15 @@
+Standoff 0
+                        Scared (-4): Sc,N,Sd,N
+                        Darwin (0): Sc,N,Sa,N
+               PriorityTargets (0): Da,Sa,N,Sa
+                   Label1Goto1 (-3): Dc,P,Sb,N
+Standoff 1
+                        Scared (-1): Sd,N,Sd,N
+                        Darwin (0): Sa,N,Sa,N
+               PriorityTargets (2): Db,Sb,N,P
+                   Label1Goto1 (-3): Da,P,Sa,N
+Standoff 2
+                        Scared (-1): Sb,N,Sd,N
+                        Darwin (-3): Sa,N,Sa,N
+               PriorityTargets (-6): Dd,Sa,N,P
+                   Label1Goto1 (-6): Da,P,Sc,N

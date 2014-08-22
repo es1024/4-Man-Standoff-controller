@@ -1,0 +1,15 @@
+Standoff 0
+                        Monkey (2): N,Sd,N,Sc
+                   Equivocator (-2): Sd,N,Sd,N
+               PriorityTargets (-2): Da,Sb,N,Sb
+                   Label1Goto1 (-5): Db,P,Sc,N
+Standoff 1
+                        Monkey (-2): N,Sa,N,N
+                   Equivocator (-4): Sa,N,Sd,N
+               PriorityTargets (2): Db,Sb,N,Sb
+                   Label1Goto1 (-3): Db,P,Sb,N
+Standoff 2
+                        Monkey (2): N,Sc,N,N
+                   Equivocator (0): Sc,N,Sc,N
+               PriorityTargets (-3): Da,Sb,N,N
+                   Label1Goto1 (-1): Db,P,Sc,N

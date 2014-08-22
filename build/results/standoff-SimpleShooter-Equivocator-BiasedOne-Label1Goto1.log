@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-2): Sd,N,Sc,N
+                   Equivocator (2): Sd,N,Sc,N
+                     BiasedOne (-1): Sa,N,Sa,N
+                   Label1Goto1 (-3): Da,P,Sc,N
+Standoff 1
+                 SimpleShooter (-2): Sb,N,Sd,N
+                   Equivocator (-3): Sa,N,Sa,N
+                     BiasedOne (2): Sb,N,Sb,N
+                   Label1Goto1 (-3): Dc,P,Sb,N
+Standoff 2
+                 SimpleShooter (0): Sc,N,Sb,N
+                   Equivocator (0): Sc,N,Sa,N
+                     BiasedOne (-1): Sd,N,Sd,N
+                   Label1Goto1 (-5): Da,P,Sc,N

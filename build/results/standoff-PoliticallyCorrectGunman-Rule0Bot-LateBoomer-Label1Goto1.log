@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (-2): Sc,N,Sa,N
+                      Rule0Bot (-2): N,N,Sd,N
+                    LateBoomer (2): Da,Sa,N,Sb
+                   Label1Goto1 (-3): Da,P,Sb,N
+Standoff 1
+      PoliticallyCorrectGunman (0): Db,N,N,Dd
+                      Rule0Bot (-2): N,N,Sd,N
+                    LateBoomer (2): Db,Sb,N,Sb
+                   Label1Goto1 (-3): Da,P,Sa,N
+Standoff 2
+      PoliticallyCorrectGunman (0): Sb,N,Sc,N
+                      Rule0Bot (-2): N,N,Sd,N
+                    LateBoomer (0): Dd,Sd,N,Sa
+                   Label1Goto1 (-5): Da,P,Sb,N

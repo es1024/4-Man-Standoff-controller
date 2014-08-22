@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (2): Sd,N,Sb
+                     Richochet (0): Sc,N,Sd
+                   Equivocator (-2): Sd,N,Sd
+                   Label1Goto1 (-7): Dc,P,Sc
+Standoff 1
+                 SimpleShooter (-1): Sb,N,Sd,N
+                     Richochet (0): Sc,N,Sc,N
+                   Equivocator (-2): Sa,N,Sa,N
+                   Label1Goto1 (-3): Db,P,Sa,N
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sd,N
+                     Richochet (-2): Sa,N,Sa,N
+                   Equivocator (0): Sb,N,Sb,N
+                   Label1Goto1 (-3): Db,P,Sa,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (2): N,N,Dd,Dd
+                        Coward (-2): Sd,N,Sd,N
+               PriorityTargets (0): Db,Sb,N,Sb
+                   Label1Goto1 (-5): Da,P,Sc,N
+Standoff 1
+                 InputAnalyzer (-2): N,N,Dd,Dd
+                        Coward (0): Sa,N,Sa,N
+               PriorityTargets (2): Db,Sb,N,P
+                   Label1Goto1 (-1): Dc,P,Sa,N
+Standoff 2
+                 InputAnalyzer (2): N,Sb,N,Dd
+                        Coward (-2): Sc,N,Sc,N
+               PriorityTargets (-1): Da,Sb,N,N
+                   Label1Goto1 (-1): Db,P,Sc,N

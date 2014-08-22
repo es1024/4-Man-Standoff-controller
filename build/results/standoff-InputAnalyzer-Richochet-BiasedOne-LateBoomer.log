@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-4): N,P,Td
+                     Richochet (2): Sc,N,Sd
+                     BiasedOne (0): Sa,N,Sa
+                    LateBoomer (-5): Da,Sa,N
+Standoff 1
+                 InputAnalyzer (-3): N,P,Db,N
+                     Richochet (-1): Sc,N,Sa,N
+                     BiasedOne (0): Sb,N,Sb,N
+                    LateBoomer (2): Db,Sb,N,Sa
+Standoff 2
+                 InputAnalyzer (-11): N,Sb,N,P,Dd
+                     Richochet (-3): Sc,N,Sa,N,Sd
+                     BiasedOne (-5): Sd,N,Sd,N,Sd
+                    LateBoomer (-7): Dc,Sc,N,P,Ta

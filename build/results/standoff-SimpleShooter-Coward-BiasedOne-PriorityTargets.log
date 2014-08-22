@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sc,N,Sc,N
+                        Coward (-1): Sd,N,Sd,N,Dc,Sd
+                     BiasedOne (1): Sa,N,Sa,N,Sa,N
+               PriorityTargets (-1): Db,Sb,N,Sb,N,Sb
+Standoff 1
+                 SimpleShooter (1): Sb,N,Sd,N,Sd,N,Sd
+                        Coward (-1): Sa,N,Sa,N,N,N,N
+                     BiasedOne (-1): Sb,N,Sb,N,Sb,N,N
+               PriorityTargets (-1): Dc,Sc,N,Sc,N,Sc,N
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sb,N,Sb,N
+                        Coward (-1): Sc,N,Sc,N,Sa,N
+                     BiasedOne (-1): Sd,N,Sd,N,N,N
+               PriorityTargets (3): Dc,Sa,N,Sa,N,Sb

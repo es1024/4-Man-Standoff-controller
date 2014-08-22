@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (0): Sd,N,Sc
+                 AntiGrenadier (2): N,N,Sd
+                      Rule0Bot (0): N,N,Sd
+                   Label1Goto1 (-7): Dc,P,Sa
+Standoff 1
+                 SimpleShooter (2): Sb,N,Sd
+                 AntiGrenadier (0): N,N,Sd
+                      Rule0Bot (0): N,N,Sd
+                   Label1Goto1 (-7): Da,P,Sc
+Standoff 2
+                 SimpleShooter (0): Sc,N,Sb,N
+                 AntiGrenadier (0): N,N,Sd,N
+                      Rule0Bot (0): N,N,Sd,N
+                   Label1Goto1 (-5): Db,P,Sa,N

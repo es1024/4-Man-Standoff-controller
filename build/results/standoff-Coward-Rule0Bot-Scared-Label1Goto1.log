@@ -1,0 +1,15 @@
+Standoff 0
+                        Coward (0): Sd,N,Sd,N,Sc
+                      Rule0Bot (0): N,N,Sd,N,N
+                        Scared (0): Sd,N,Sd,N,Sa
+                   Label1Goto1 (-9): Dc,P,Sb,N,N
+Standoff 1
+                        Coward (0): Sb,N,Sb,N
+                      Rule0Bot (-1): N,N,Sd,N
+                        Scared (2): Sa,N,Sd,N
+                   Label1Goto1 (-5): Dc,P,Sb,N
+Standoff 2
+                        Coward (2): Sc,N,Sc,N
+                      Rule0Bot (-2): N,N,Sd,N
+                        Scared (-2): Sb,N,Sd,N
+                   Label1Goto1 (-5): Da,P,Sb,N

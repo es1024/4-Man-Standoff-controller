@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,N,N,N,N,N,N,N,N,N,N
+                 SimpleShooter (3): Sd,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                        Darwin (-1): Sa,N,Sd,N,Sa,N,Sa,N,Sd,N,Sb
+                      Observer (-1): Dc,Db,Dc,Db,Dc,Db,Dc,Db,Dc,N,N
+Standoff 1
+                 InputAnalyzer (-1): N,Sd,N,N,N,N,N,N,N,N,N
+                 SimpleShooter (3): Sa,N,Sc,N,Sd,N,Sc,N,Sd,N,Sc
+                        Darwin (-1): Sa,N,Sa,N,Sd,N,Sd,N,Sd,N,Sb
+                      Observer (-1): Da,Db,Dc,Db,Dc,Db,Dc,Db,Dc,N,N
+Standoff 2
+                 InputAnalyzer (-5): N,P,Dc,Dd
+                 SimpleShooter (-2): Sc,N,Sa,N
+                        Darwin (0): Sb,N,Sb,N
+                      Observer (2): Dc,Dc,Sa,N

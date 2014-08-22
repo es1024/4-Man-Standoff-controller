@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (0): Sc,N,Sc
+                 InputAnalyzer (0): N,Dc,Dc
+      PoliticallyCorrectGunman (-5): P,Sa,N
+                   Label1Goto1 (2): Da,P,Sb
+Standoff 1
+               StraightShooter (-1): Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer (-1): N,N,Dd,Dd,Dd,Dd,Dd,Dc,Dc
+      PoliticallyCorrectGunman (-4): Db,N,Sd,N,Da,Da,P,N,Dd
+                   Label1Goto1 (-7): Db,P,Sb,N,N,N,N,N,N
+Standoff 2
+               StraightShooter (0): Sb,N,Sb,N
+                 InputAnalyzer (-2): N,Da,Dd,Dd
+      PoliticallyCorrectGunman (0): N,N,Sa,N
+                   Label1Goto1 (-1): Da,P,Sc,N

@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (-3): N,Sc,N,N,Sb,N,N
+                 SimpleShooter (-1): Sd,N,Sa,N,Sa,N,N
+                     Richochet (-1): Sd,N,Sb,N,Sa,N,Sd
+             LessSimpleShooter (-1): Sc,N,Sb,N,Sa,N,Sc
+Standoff 1
+      PoliticallyCorrectGunman (-1): N,N,N,N,N,N,N
+                 SimpleShooter (1): Sa,N,Sd,N,Sc,N,Sc
+                     Richochet (-1): Sa,N,Sd,N,Sd,N,Sb
+             LessSimpleShooter (-1): Sa,N,Sc,N,Sb,N,N
+Standoff 2
+      PoliticallyCorrectGunman (-7): N,P,N
+                 SimpleShooter (-2): Sc,N,Sa
+                     Richochet (0): Sb,N,Sa
+             LessSimpleShooter (2): Sb,N,Sa

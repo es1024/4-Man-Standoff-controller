@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (0): N,N,Dd,Dd,N
+                         Ninja (-6): Db,Db,Db,Da,Da
+               PriorityTargets (-1): Da,Sa,N,P,Tb
+                   Label1Goto1 (-1): Db,P,Sa,N,N
+Standoff 1
+                 InputAnalyzer (-1): N,Db,Dd,Dd,Dc,Dc
+                         Ninja (0): Da,Da,Da,Da,N,N
+               PriorityTargets (-4): Dd,Sb,N,P,N,N
+                   Label1Goto1 (-1): Dc,P,Sa,N,N,N
+Standoff 2
+                 InputAnalyzer (-1): N,Sc,N,Dd
+                         Ninja (-3): Da,Da,Da,Da
+               PriorityTargets (-6): Da,Sd,N,P
+                   Label1Goto1 (-6): Db,P,Sb,N

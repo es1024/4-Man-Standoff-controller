@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,N,N,Dd,N,Db,Sc,N
+                     Richochet (-1): Sc,N,Sa,N,Sa,N,N,N
+                        Monkey (-2): N,Sc,N,N,N,N,N,N
+               PriorityTargets (5): Dc,Sb,N,Sb,N,Sb,N,Sa
+Standoff 1
+                 InputAnalyzer (-7): N,P,N,Dc
+                     Richochet (-6): Sd,N,Sc,N
+                        Monkey (-9): N,N,P,N
+               PriorityTargets (-9): Dc,Sb,N,P
+Standoff 2
+                 InputAnalyzer (-7): N,P,N,N,N
+                     Richochet (0): Sa,N,Sa,N,N
+                        Monkey (-6): N,Sa,N,N,N
+               PriorityTargets (-1): Dc,Sb,N,P,Tc

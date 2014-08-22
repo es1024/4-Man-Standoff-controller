@@ -1,0 +1,15 @@
+Standoff 0
+                       HanSolo (1): Sb,N,Sb,N,Sb
+                 SimpleShooter (-1): Sd,N,Sd,N,Sd
+                        Scared (-1): Sa,N,Sa,N,Sd
+             LessSimpleShooter (-3): Sc,N,Sc,N,Sc
+Standoff 1
+                       HanSolo (-1): Sc,N,Sc,N,Sd
+                 SimpleShooter (1): Sa,N,Sd,N,Sa
+                        Scared (-1): Sb,N,Sd,N,N
+             LessSimpleShooter (-1): Sa,N,Sc,N,Sb
+Standoff 2
+                       HanSolo (-1): Sd,N,Sd,N,N
+                 SimpleShooter (1): Sc,N,Sa,N,Sc
+                        Scared (-1): Sb,N,Sa,N,Sd
+             LessSimpleShooter (-1): Sb,N,Sa,N,Sc

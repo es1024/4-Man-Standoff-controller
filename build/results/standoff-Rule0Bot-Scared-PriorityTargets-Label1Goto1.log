@@ -1,0 +1,15 @@
+Standoff 0
+                      Rule0Bot (0): N,N,Sd,N
+                        Scared (-2): Sd,N,Sd,N
+               PriorityTargets (2): Db,Sb,N,Sa
+                   Label1Goto1 (-7): Da,P,Sb,N
+Standoff 1
+                      Rule0Bot (0): N,N,Sd
+                        Scared (0): Sd,N,Sd
+               PriorityTargets (2): Da,Sb,N
+                   Label1Goto1 (-7): Da,P,Sa
+Standoff 2
+                      Rule0Bot (-2): N,N,Sd,N
+                        Scared (0): Sa,N,Sd,N
+               PriorityTargets (0): Dd,Sb,N,Sa
+                   Label1Goto1 (-5): Dc,P,Sc,N

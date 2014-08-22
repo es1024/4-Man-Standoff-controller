@@ -1,0 +1,15 @@
+Standoff 0
+                         Spock (0): Sb,N,Sd
+                   Equivocator (0): Sd,N,Sd
+                      Observer (2): Dd,Da,Sd
+                   Label1Goto1 (-9): Da,P,Sa
+Standoff 1
+                         Spock (0): Sc,N,Sc,N
+                   Equivocator (2): Sa,N,Sd,N
+                      Observer (-1): Dd,Db,Sd,N
+                   Label1Goto1 (-5): Da,P,Sc,N
+Standoff 2
+                         Spock (0): Sd,N,Sd,N,Sd
+                   Equivocator (2): Sc,N,Sc,N,Sa
+                      Observer (-2): Db,Da,Sd,N,N
+                   Label1Goto1 (-7): Db,P,Sc,N,N

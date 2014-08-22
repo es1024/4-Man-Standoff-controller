@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,Sd,N,N,P
+                     Richochet (-2): Sa,N,Sc,N,Sa
+                   Equivocator (-2): Sd,N,Sa,N,Sd
+             LessSimpleShooter (-4): Sc,N,Sb,N,Sb
+Standoff 1
+                 InputAnalyzer (-2): N,Db,P,Td
+                     Richochet (0): Sd,N,Sd,N
+                   Equivocator (0): Sa,N,Sb,N
+             LessSimpleShooter (-7): Sa,N,Sc,N
+Standoff 2
+                 InputAnalyzer (-1): N,N,N,Db,Sd,N,N
+                     Richochet (-1): Sa,N,Sa,N,Sa,N,Sc
+                   Equivocator (-1): Sb,N,Sd,N,Sd,N,Sb
+             LessSimpleShooter (-1): Sb,N,Sc,N,Sc,N,N

@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (-2): Db,N,Sb,N
+                     BiasedOne (-2): Sa,N,Sa,N
+               PriorityTargets (2): Da,Sb,N,P
+                   Label1Goto1 (-1): Dc,P,Sa,N
+Standoff 1
+      PoliticallyCorrectGunman (2): Dd,N,Sc,N
+                     BiasedOne (0): Sc,N,Sc,N
+               PriorityTargets (-1): Db,Sb,N,N
+                   Label1Goto1 (-1): Dc,P,Sc,N
+Standoff 2
+      PoliticallyCorrectGunman (-6): Dd,P,N,N
+                     BiasedOne (-3): Sd,N,Sd,N
+               PriorityTargets (-1): Dd,Sb,N,Sd
+                   Label1Goto1 (-10): Da,P,Sa,N

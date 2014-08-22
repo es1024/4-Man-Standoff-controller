@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,N,P
+                 SimpleShooter (2): Sd,N,Sc
+                     BiasedOne (0): Sa,N,Sa
+                    LateBoomer (0): Da,Sa,N
+Standoff 1
+                 InputAnalyzer (-3): N,P,Sb,N
+                 SimpleShooter (-3): Sa,N,Sd,N
+                     BiasedOne (0): Sb,N,Sb,N
+                    LateBoomer (0): Db,Sb,N,Sc
+Standoff 2
+                 InputAnalyzer (-13): N,Sb,N,P,Dd
+                 SimpleShooter (-3): Sc,N,Sa,N,Sa
+                     BiasedOne (-5): Sd,N,Sd,N,Sd
+                    LateBoomer (-5): Dc,Sc,N,P,Ta

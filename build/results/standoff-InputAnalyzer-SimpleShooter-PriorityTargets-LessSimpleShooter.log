@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,Sc,N,Dc,N,P
+                 SimpleShooter (-2): Sd,N,Sa,N,Sd,N
+               PriorityTargets (-2): Dd,Sb,N,Sb,N,Sa
+             LessSimpleShooter (-2): Sc,N,Sa,N,Sc,N
+Standoff 1
+                 InputAnalyzer (-9): N,N,N,Sd,N,N,P
+                 SimpleShooter (-2): Sa,N,Sd,N,Sc,N,Sa
+               PriorityTargets (-1): Db,Sb,N,Sb,N,N,N
+             LessSimpleShooter (-2): Sa,N,Sc,N,Sc,N,Sa
+Standoff 2
+                 InputAnalyzer (-1): N,Db,Dc,N,Sc,N,N
+                 SimpleShooter (-1): Sc,N,Sa,N,Sc,N,Sa
+               PriorityTargets (-1): Dd,Sd,N,Sd,N,N,N
+             LessSimpleShooter (1): Sb,N,Sa,N,Sb,N,Sb

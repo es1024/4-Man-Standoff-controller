@@ -1,0 +1,15 @@
+Standoff 0
+                         Spock (-2): Sb,N,Sb,N
+                        Monkey (-2): N,Sb,N,N
+                        Scared (2): Sa,N,Sd,N
+                   Label1Goto1 (-3): Dc,P,Sa,N
+Standoff 1
+                         Spock (-2): Sc,N,Sc,N
+                        Monkey (2): N,Dc,N,Sd
+                        Scared (-2): Sa,N,Sd,N
+                   Label1Goto1 (-5): Dc,P,Sa,N
+Standoff 2
+                         Spock (2): Sd,N,Sd
+                        Monkey (-2): N,Sb,N
+                        Scared (0): Sb,N,Sd
+                   Label1Goto1 (-7): Dc,P,Sc

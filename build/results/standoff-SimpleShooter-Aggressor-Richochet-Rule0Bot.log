@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (0): Sd,N
+                     Aggressor (0): P,Tc
+                     Richochet (-3): Sa,N
+                      Rule0Bot (0): N,Sb
+Standoff 1
+                 SimpleShooter (2): Sb,N,Sd
+                     Aggressor (-4): P,Tc,N
+                     Richochet (-3): Sb,N,N
+                      Rule0Bot (0): N,Sb,N
+Standoff 2
+                 SimpleShooter (2): Sc,N
+                     Aggressor (-2): P,Td
+                     Richochet (0): Sb,N
+                      Rule0Bot (-3): N,Sb

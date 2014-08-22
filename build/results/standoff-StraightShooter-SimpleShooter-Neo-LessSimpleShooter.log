@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (-1): Sc,N,Sc,N,Sc,N,N
+                 SimpleShooter (-1): Sd,N,Sa,N,Sa,N,Sd
+                           Neo (-1): Dd,Sd,N,Sb,N,N,N
+             LessSimpleShooter (-1): Sc,N,Sb,N,Sa,N,Sb
+Standoff 1
+               StraightShooter (-1): Sd,N,N,N,N,N,N
+                 SimpleShooter (1): Sa,N,Sc,N,Sd,N,Sc
+                           Neo (-1): Da,Sa,N,Sb,N,Sd,N
+             LessSimpleShooter (-1): Sa,N,Sc,N,Sb,N,N
+Standoff 2
+               StraightShooter (-1): Sb,N,Sb,N,Sb,N,Sb,N,Sb,N
+                 SimpleShooter (-1): Sc,N,N,N,N,N,N,N,N,N
+                           Neo (1): Db,Sb,N,Sd,N,Sa,N,Sd,N,Sd
+             LessSimpleShooter (-1): Sb,N,Sa,N,Sc,N,Sc,N,Sa,N

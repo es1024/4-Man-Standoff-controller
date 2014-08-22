@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+                        Monkey (-5): N,Da,Sa,N,N,N,N,N,Dc,N,Dc,Dc,Dc,Dd,Dc,Dc,N,Dc,Dc,Dc,Dc,N,Dd,Dd,N,N,Dd,Dc,Dd,N,Dc,Dc,Dd,Dd,N,Dd,Dd,Dd,N,Dd,Dd,Dd,Dd,Dc,N,N,Dd,Dd,N,Dc
+                      Observer (-18): Dd,Sa,N,Dd,Db,Dd,Db,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,P,Tb
+               PriorityTargets (-18): Da,Sa,N,Sb,N,Sc,N,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc,Dc
+Standoff 1
+                 InputAnalyzer (-6): N,Sd,N,N,P,N,Dd
+                        Monkey (-2): N,Db,Sb,N,N,N,N
+                      Observer (-8): Db,Sb,N,Da,Da,Sa,N
+               PriorityTargets (-3): Db,Sb,N,Sc,N,P,Tc
+Standoff 2
+                 InputAnalyzer (-3): N,P,Dc,Td
+                        Monkey (-1): N,Dd,Sc,N
+                      Observer (-5): Dd,Sd,N,Sa
+               PriorityTargets (-11): Db,Sc,N,P

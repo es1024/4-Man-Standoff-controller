@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,Dc,Dc
+                 SimpleShooter (-1): Sd,N,Sd
+                           MAD (-6): P,Da,N
+                   Label1Goto1 (-6): Db,P,Sc
+Standoff 1
+                 InputAnalyzer (-5): N,Dc,Dc
+                 SimpleShooter (-1): Sa,N,Sd
+                           MAD (-4): P,Dd,N
+                   Label1Goto1 (-6): Da,P,Sa
+Standoff 2
+                 InputAnalyzer (-1): N,Dc,Dd,Dd
+                 SimpleShooter (-3): Sc,N,N,N
+                           MAD (0): P,Tb,N,N
+                   Label1Goto1 (-4): Dc,P,Sa,N

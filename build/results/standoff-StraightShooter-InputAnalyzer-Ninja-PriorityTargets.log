@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (0): Sc,N,Sc,N,Sc,N
+                 InputAnalyzer (-3): N,Sc,N,P,Dc,N
+                         Ninja (-1): Dd,Dd,Dd,N,N,N
+               PriorityTargets (2): Da,Sa,N,Sb,N,P
+Standoff 1
+               StraightShooter (-2): Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer (2): N,N,Da,N,Dd,Dc,Sd,N,Sc,N,N,N,Sd,N,P,Da,Tc
+                         Ninja (-5): Da,Dd,Dd,Dd,Dd,Dd,Dc,Dc,Dc,Da,Da,Da,Db,Db,Db,Da,Da
+               PriorityTargets (-1): Dc,Sa,N,Sa,N,N,N,N,N,N,N,N,N,N,N,N,N
+Standoff 2
+               StraightShooter (-1): Sb,N,Sb,N,Sb,N,N,N,N,N,N,N
+                 InputAnalyzer (-1): N,Da,Sd,N,N,N,N,N,N,N,N,N
+                         Ninja (-1): Db,Db,Dc,Dc,Dc,Da,Da,Da,Da,Da,Da,Da
+               PriorityTargets (3): Da,Sa,N,Sa,N,Sa,N,Sc,N,Sc,N,Sc

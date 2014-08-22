@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (0): N,Dc,Dd,Dd
+                        Monkey (2): N,N,N,Sd
+                        Scared (0): Sa,N,Sd,N
+                   Label1Goto1 (-5): Db,P,Sc,N
+Standoff 1
+                 InputAnalyzer (-4): N,P,Dd,Dd
+                        Monkey (-5): N,N,N,N
+                        Scared (-1): Sb,N,Sd,N
+                   Label1Goto1 (-6): Da,P,Sb,N
+Standoff 2
+                 InputAnalyzer (0): N,Sb,N,Dd,Dd
+                        Monkey (-1): N,N,N,N,N
+                        Scared (2): Sb,N,Sd,N,Sa
+                   Label1Goto1 (-3): Dc,P,Sb,N,N

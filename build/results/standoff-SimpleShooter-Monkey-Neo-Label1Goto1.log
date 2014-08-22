@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (2): Sd,N,Sc,N
+                        Monkey (0): N,Sd,N,Dd
+                           Neo (0): Dd,Dd,Dd,Db
+                   Label1Goto1 (-5): Db,P,Sb,N
+Standoff 1
+                 SimpleShooter (2): Sb,N,Sd,N
+                        Monkey (-2): N,Sb,N,N
+                           Neo (0): Da,Dd,Da,Sd
+                   Label1Goto1 (-5): Da,P,Sc,N
+Standoff 2
+                 SimpleShooter (2): Sc,N,Sb,N
+                        Monkey (0): N,Sc,N,N
+                           Neo (-2): Db,Db,Da,Db
+                   Label1Goto1 (-1): Db,P,Sc,N

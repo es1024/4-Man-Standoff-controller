@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (3): N,Sc,N,N,Sb,N,Db,Sc
+                     Richochet (-1): Sd,N,Sc,N,Sd,N,Sa,N
+                   Equivocator (-1): Sd,N,Sd,N,Sd,N,Sb,N
+               PriorityTargets (-3): Db,Sb,N,Sa,N,N,N,N
+Standoff 1
+                 InputAnalyzer (-1): N,Dd,N,N,Sc,N,N
+                     Richochet (-1): Sd,N,Sc,N,Sa,N,N
+                   Equivocator (1): Sa,N,Sa,N,Sd,N,Sd
+               PriorityTargets (-1): Dc,Sb,N,Sb,N,Sb,N
+Standoff 2
+                 InputAnalyzer (-4): N,Db,N,P,Dc,N
+                     Richochet (-5): Sd,N,Sc,N,Sd,N
+                   Equivocator (-1): Sb,N,Sb,N,N,N
+               PriorityTargets (-8): Da,Sc,N,Sc,N,P

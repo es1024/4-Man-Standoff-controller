@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-2): Sd,N,Sc,N
+                 AntiGrenadier (0): N,N,Sd,N
+                     BiasedOne (0): Sa,N,Sa,N
+                   Label1Goto1 (-5): Dc,P,Sb,N
+Standoff 1
+                 SimpleShooter (0): Sb,N,Sd,N
+                 AntiGrenadier (-1): N,N,Sd,N
+                     BiasedOne (2): Sb,N,Sb,N
+                   Label1Goto1 (-5): Dc,P,Sa,N
+Standoff 2
+                 SimpleShooter (2): Sc,N,Sb
+                 AntiGrenadier (0): N,N,Sd
+                     BiasedOne (-2): Sd,N,Sd
+                   Label1Goto1 (-7): Db,P,Sc

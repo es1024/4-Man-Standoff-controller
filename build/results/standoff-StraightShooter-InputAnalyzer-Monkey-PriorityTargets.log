@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (-1): Sc,N,Sc,N,Sc,N,N,N
+                 InputAnalyzer (-1): N,N,Sa,N,Da,Dc,Da,N
+                        Monkey (-1): N,Db,N,N,Sb,N,N,N
+               PriorityTargets (5): Db,Sa,N,Sb,N,Sa,N,Sb
+Standoff 1
+               StraightShooter (-1): Sd,N,Sd,N,Sd,N,N,N
+                 InputAnalyzer (-1): N,Dd,N,Sd,N,P,Sc,N
+                        Monkey (-5): N,N,Dd,Dd,Sa,N,N,Sc
+               PriorityTargets (-1): Db,Sa,N,Sa,N,N,N,N
+Standoff 2
+               StraightShooter (0): Sb,N,Sb,N,N
+                 InputAnalyzer (-7): N,P,N,N,N
+                        Monkey (-6): N,Sb,N,N,N
+               PriorityTargets (-1): Dc,Sa,N,P,Tc

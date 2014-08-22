@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-3): Sd,N
+                     Richochet (2): Sc,N
+                   Equivocator (0): Sd,N
+                           MAD (-2): P,Ta
+Standoff 1
+                 SimpleShooter (-2): Sb,N,Sd
+                     Richochet (-2): Sa,N,Sd
+                   Equivocator (0): Sa,N,Sb
+                           MAD (-5): P,Sc,N
+Standoff 2
+                 SimpleShooter (-2): Sc,N,Sd
+                     Richochet (-2): Sa,N,Sc
+                   Equivocator (-2): Sb,N,Sa
+                           MAD (-3): P,Sb,N

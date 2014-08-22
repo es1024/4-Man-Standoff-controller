@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (0): Sc,N,Sc
+                 InputAnalyzer (-7): N,P,Sa
+                     Richochet (-2): Sb,N,Sb
+                      Rule0Bot (2): N,N,Sb
+Standoff 1
+               StraightShooter (-2): Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd,N,Sd
+                 InputAnalyzer (-7): N,Dd,Dc,Dd,Dc,Dd,Dc,Sd,N,Da,P,N,N
+                     Richochet (2): Sa,N,Sd,N,Sa,N,Sb,N,Sb,N,Sb,N,Sb
+                      Rule0Bot (-1): N,N,N,N,N,N,N,N,N,N,N,N,N
+Standoff 2
+               StraightShooter (0): Sb,N,Sb
+                 InputAnalyzer (-7): N,P,Sd
+                     Richochet (2): Sa,N,Sd
+                      Rule0Bot (-2): N,N,Sb

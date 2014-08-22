@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,Sd,N,N,P
+                   Equivocator (-2): Sd,N,Sc,N,Sd
+                     BiasedOne (-2): Sa,N,Sa,N,Sa
+             LessSimpleShooter (-4): Sc,N,Sb,N,Sb
+Standoff 1
+                 InputAnalyzer (-1): N,Sb,N,N,N,N,N
+                   Equivocator (-1): Sa,N,Sa,N,N,N,N
+                     BiasedOne (-1): Sb,N,Sb,N,Sb,N,Sb
+             LessSimpleShooter (5): Sa,N,Sc,N,Sc,N,Sc
+Standoff 2
+                 InputAnalyzer (0): N,P,Td
+                   Equivocator (0): Sc,N,Sc
+                     BiasedOne (-2): Sd,N,Sd
+             LessSimpleShooter (-7): Sb,N,Sa

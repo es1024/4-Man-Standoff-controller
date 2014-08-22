@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-9): N,Sc,N,P,Dd
+                     Richochet (-2): Sd,N,Sa,N,Sa
+                        Sniper (-2): Sb,N,Sa,N,Sa
+               PriorityTargets (0): Da,Sc,N,Sb,N
+Standoff 1
+                 InputAnalyzer (-5): N,P,N,Sc
+                     Richochet (-2): Sa,N,Sa,N
+                        Sniper (-2): Sb,N,Sd,N
+               PriorityTargets (0): Db,Sc,N,Sb
+Standoff 2
+                 InputAnalyzer (-7): N,N,N,N,Sd,N,P
+                     Richochet (0): Sc,N,Sa,N,Sa,N,Sc
+                        Sniper (-4): Sd,N,Sd,N,Sd,N,Sa
+               PriorityTargets (-3): Da,Sb,N,Sc,N,N,N

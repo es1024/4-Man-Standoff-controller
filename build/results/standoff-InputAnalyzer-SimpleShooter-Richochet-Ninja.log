@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-3): N,P,N,N
+                 SimpleShooter (2): Sd,N,Sc,N
+                     Richochet (0): Sd,N,Sa,N
+                         Ninja (-2): Da,Dc,Dc,Dc
+Standoff 1
+                 InputAnalyzer (-1): N,Sd,N,N,N,N,N,N,N,N,N
+                 SimpleShooter (-1): Sa,N,Sd,N,Sc,N,Sd,N,Sc,N,Sc
+                     Richochet (-1): Sa,N,Sa,N,Sb,N,Sd,N,Sb,N,Sb
+                         Ninja (-1): Da,Da,Da,Da,Da,Da,Da,N,N,N,N
+Standoff 2
+                 InputAnalyzer (-7): N,Db,Sc,N,P
+                 SimpleShooter (0): Sc,N,Sa,N,Sa
+                     Richochet (-2): Sd,N,Sb,N,Sa
+                         Ninja (0): Db,Db,Db,Db,Db

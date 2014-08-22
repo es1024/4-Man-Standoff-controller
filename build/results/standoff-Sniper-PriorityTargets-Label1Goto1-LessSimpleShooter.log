@@ -1,0 +1,15 @@
+Standoff 0
+                        Sniper (-3): Sd,N,Sb,N
+               PriorityTargets (-8): Dd,Sa,N,P
+                   Label1Goto1 (-6): Db,P,Sd,N
+             LessSimpleShooter (-5): Sc,N,Sb,N
+Standoff 1
+                        Sniper (-2): Sb,N,Sc,N
+               PriorityTargets (0): Dd,Sd,N,Sa
+                   Label1Goto1 (-5): Da,P,Sd,N
+             LessSimpleShooter (-2): Sa,N,Sc,N
+Standoff 2
+                        Sniper (0): Sc,N,Sb,N
+               PriorityTargets (-1): Da,Sd,N,N
+                   Label1Goto1 (-1): Da,P,Sb,N
+             LessSimpleShooter (0): Sb,N,Sa,N

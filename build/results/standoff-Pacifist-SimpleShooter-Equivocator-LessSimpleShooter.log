@@ -1,0 +1,15 @@
+Standoff 0
+                      Pacifist (-1): N,N,N,N,N,N,N,N,N
+                 SimpleShooter (-1): Sd,N,Sa,N,Sc,N,Sa,N,N
+                   Equivocator (1): Sd,N,Sd,N,Sb,N,Sb,N,Sa
+             LessSimpleShooter (-1): Sc,N,Sb,N,N,N,N,N,N
+Standoff 1
+                      Pacifist (-1): N,N,N,N,N,N,N
+                 SimpleShooter (1): Sa,N,Sd,N,Sc,N,Sc
+                   Equivocator (-1): Sa,N,Sd,N,Sd,N,Sb
+             LessSimpleShooter (-1): Sa,N,Sc,N,Sb,N,N
+Standoff 2
+                      Pacifist (-1): N,N,N,N,N,N,N
+                 SimpleShooter (-1): Sc,N,Sa,N,N,N,N
+                   Equivocator (-1): Sb,N,Sb,N,Sa,N,Sd
+             LessSimpleShooter (3): Sb,N,Sa,N,Sc,N,Sc

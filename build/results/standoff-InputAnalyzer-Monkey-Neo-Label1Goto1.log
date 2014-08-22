@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-18): N,N,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd,Dd
+                        Monkey (-18): N,Dc,Dd,Dd,Db,Db,Db,Db,N,N,N,Dd,Dd,Db,Dd,Db,Db,Dd,N,Db,Dd,Db,Db,N,N,Db,Dd,Dd,Dd,Db,Db,Db,Dd,Db,Db,Dd,Db,Db,N,N,Db,Db,Db,Db,Db,Db,Db,Db,Db,Dd
+                           Neo (-2): Dd,Dd,Dd,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Db,Sc,N
+                   Label1Goto1 (-1): Dc,P,Sb,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N,N
+Standoff 1
+                 InputAnalyzer (-4): N,P,Dd,Dd
+                        Monkey (-3): N,Da,Da,Da
+                           Neo (-1): Da,Da,Da,Da
+                   Label1Goto1 (-4): Da,P,Sb,N
+Standoff 2
+                 InputAnalyzer (-7): N,P,Dd,Dd
+                        Monkey (-14): N,N,P,Sb
+                           Neo (-4): Db,Db,Db,Db
+                   Label1Goto1 (-7): Db,P,Sb,N

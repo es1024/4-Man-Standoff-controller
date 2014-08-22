@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-3): N,N,Sb,N,Sb,N
+                     Richochet (-1): Sd,N,Sc,N,Sa,N
+                     BiasedOne (-1): Sa,N,Sa,N,Sa,N
+               PriorityTargets (3): Dc,Sb,N,Sc,N,Sc
+Standoff 1
+                 InputAnalyzer (3): N,Sd,N,Sd,N,Dd,Sc
+                     Richochet (-1): Sd,N,Sd,N,Sc,N,N
+                     BiasedOne (-1): Sb,N,Sb,N,Sb,N,Sb
+               PriorityTargets (-1): Db,Sc,N,Sa,N,N,N
+Standoff 2
+                 InputAnalyzer (-13): N,Db,P,Dd,Dd
+                     Richochet (-1): Sa,N,Sd,N,Sa
+                     BiasedOne (-3): Sd,N,Sd,N,Sd
+               PriorityTargets (-7): Dc,Sc,N,P,Ta

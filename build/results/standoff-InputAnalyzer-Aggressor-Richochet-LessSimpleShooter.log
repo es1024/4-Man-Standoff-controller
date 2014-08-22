@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-3): N,Db
+                     Aggressor (0): P,Ta
+                     Richochet (0): Sb,N
+             LessSimpleShooter (2): Sc,N
+Standoff 1
+                 InputAnalyzer (-2): N,Db,N
+                     Aggressor (0): P,Tc,Sd
+                     Richochet (-3): Sa,N,N
+             LessSimpleShooter (0): Sa,N,Sb
+Standoff 2
+                 InputAnalyzer (0): N,Db,Sd
+                     Aggressor (-2): P,Td,N
+                     Richochet (2): Sb,N,Sa
+             LessSimpleShooter (-3): Sb,N,N

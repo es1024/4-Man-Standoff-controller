@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-3): N,Dc,N
+                 SimpleShooter (-3): Sd,N,Sd
+                     Aggressor (-6): P,Ta,Sb
+               PriorityTargets (-3): Db,P,Tc
+Standoff 1
+                 InputAnalyzer (0): N,Dc,N
+                 SimpleShooter (-3): Sa,N,N
+                     Aggressor (-6): P,Tb,Sd
+               PriorityTargets (-3): Da,P,Tc
+Standoff 2
+                 InputAnalyzer (-1): N,Dc
+                 SimpleShooter (-1): Sc,N
+                     Aggressor (-3): P,Td
+               PriorityTargets (-9): Dc,P

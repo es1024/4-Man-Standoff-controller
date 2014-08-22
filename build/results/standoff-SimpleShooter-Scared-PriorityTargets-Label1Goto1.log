@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-2): Sd,N,Sc,N
+                        Scared (0): Sc,N,Sd,N
+               PriorityTargets (0): Db,Sa,N,Sb
+                   Label1Goto1 (-5): Dc,P,Sa,N
+Standoff 1
+                 SimpleShooter (-2): Sb,N,Sd,N
+                        Scared (-4): Sa,N,Sd,N
+               PriorityTargets (2): Da,Sb,N,Sb
+                   Label1Goto1 (-5): Dc,P,Sa,N
+Standoff 2
+                 SimpleShooter (-2): Sc,N,Sd,N
+                        Scared (-2): Sa,N,Sd,N
+               PriorityTargets (0): Db,Sb,N,Sb
+                   Label1Goto1 (-5): Da,P,Sa,N

@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-1): N,P,N,Dc
+                        Monkey (0): N,N,Sd,N
+                      Observer (0): Db,Sd,N,Sa
+             LessSimpleShooter (-2): Sc,N,Sb,N
+Standoff 1
+                 InputAnalyzer (-5): N,Dd,P,Sd,N
+                        Monkey (0): N,N,N,Sc,N
+                      Observer (-2): Dd,Sd,N,Sa,N
+             LessSimpleShooter (-2): Sa,N,Sc,N,Sb
+Standoff 2
+                 InputAnalyzer (-7): N,N,P,N
+                        Monkey (0): N,Dd,N,Sa
+                      Observer (2): Dd,Sd,N,Sa
+             LessSimpleShooter (0): Sb,N,Sa,N

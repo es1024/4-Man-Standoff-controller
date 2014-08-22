@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-3): Sd,N,Sd,N,Sd
+                     Richochet (1): Sa,N,Sa,N,Sa
+                        Scared (-1): Sb,N,Sb,N,Sa
+             LessSimpleShooter (-1): Sc,N,Sc,N,Sc
+Standoff 1
+                 SimpleShooter (-3): Sb,N,Sc,N,Sb
+                     Richochet (-1): Sd,N,Sd,N,Sc
+                        Scared (-1): Sa,N,Sb,N,Sa
+             LessSimpleShooter (1): Sa,N,Sc,N,Sa
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sb,N,Sd
+                     Richochet (-1): Sc,N,Sc,N,Sa
+                        Scared (-1): Sd,N,Sa,N,N
+             LessSimpleShooter (1): Sb,N,Sa,N,Sb

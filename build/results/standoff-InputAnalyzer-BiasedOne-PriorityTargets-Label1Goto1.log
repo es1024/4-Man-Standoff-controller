@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-8): N,P,Dd,Dd
+                     BiasedOne (-7): Sa,N,Sa,N
+               PriorityTargets (-1): Dd,Sb,N,Sb
+                   Label1Goto1 (-4): Da,P,Sb,N
+Standoff 1
+                 InputAnalyzer (-1): N,Dd,Dd,Dd
+                     BiasedOne (-3): Sc,N,Sc,N
+               PriorityTargets (-8): Dd,Sb,N,P
+                   Label1Goto1 (-4): Da,P,Sa,N
+Standoff 2
+                 InputAnalyzer (2): N,Sb,N,Dd
+                     BiasedOne (-4): Sd,N,Sd,N
+               PriorityTargets (0): Db,Sb,N,Sb
+                   Label1Goto1 (-5): Da,P,Sc,N

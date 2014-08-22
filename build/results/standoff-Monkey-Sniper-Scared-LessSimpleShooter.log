@@ -1,0 +1,15 @@
+Standoff 0
+                        Monkey (-1): N,Sc,N,Sb,N
+                        Sniper (-1): Sc,N,Sa,N,Sa
+                        Scared (-1): Sa,N,N,N,N
+             LessSimpleShooter (5): Sc,N,Sb,N,Sb
+Standoff 1
+                        Monkey (-1): N,N,N,N,N,N,N
+                        Sniper (1): Sd,N,Sa,N,Sc,N,Sd
+                        Scared (-1): Sb,N,Sa,N,Sd,N,N
+             LessSimpleShooter (-1): Sa,N,Sc,N,Sc,N,Sb
+Standoff 2
+                        Monkey (-2): N,Sa,N,N,N
+                        Sniper (-1): Sc,N,Sd,N,Sd
+                        Scared (1): Sa,N,Sd,N,Sb
+             LessSimpleShooter (-1): Sb,N,Sb,N,Sc

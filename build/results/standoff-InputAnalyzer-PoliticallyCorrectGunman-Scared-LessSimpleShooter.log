@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-3): N,Db
+      PoliticallyCorrectGunman (2): P,Ta
+                        Scared (0): Sd,N
+             LessSimpleShooter (0): Sc,N
+Standoff 1
+                 InputAnalyzer (0): N,Db,Db
+      PoliticallyCorrectGunman (-3): P,Dd,Sa
+                        Scared (0): Sd,N,Sb
+             LessSimpleShooter (0): Sa,N,Sc
+Standoff 2
+                 InputAnalyzer (0): N,Db,Sd
+      PoliticallyCorrectGunman (-2): P,Td,N
+                        Scared (2): Sb,N,Sa
+             LessSimpleShooter (-3): Sb,N,N

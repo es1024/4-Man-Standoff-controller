@@ -1,0 +1,15 @@
+Standoff 0
+               StraightShooter (-1): Sc,N
+                 SimpleShooter (-6): Sd,N
+               PriorityTargets (-6): Db,P
+                           MAD (-3): P,Tb
+Standoff 1
+               StraightShooter (-5): Sd,N,N
+                 SimpleShooter (-6): Sa,N,Sc
+               PriorityTargets (-3): Db,P,Tb
+                           MAD (0): P,Ta,N
+Standoff 2
+               StraightShooter (-3): Sb,N,Sb
+                 SimpleShooter (-5): Sc,N,Sa
+               PriorityTargets (-3): Da,P,Td
+                           MAD (-9): P,Dc,N

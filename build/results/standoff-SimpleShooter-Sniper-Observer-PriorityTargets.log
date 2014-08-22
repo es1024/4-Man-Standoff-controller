@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (1): Sd,N,Sc,N,Sc,N,Sb,N,Sc,N,Sb
+                        Sniper (-1): Sd,N,Sd,N,Sd,N,Sc,N,Sc,N,Sa
+                      Observer (-1): Db,Da,Db,Dd,Db,Da,Db,Da,Db,N,N
+               PriorityTargets (-1): Db,Sa,N,Sb,N,N,N,N,N,N,N
+Standoff 1
+                 SimpleShooter (-1): Sb,N,Sd,N,Sc,N,Sc,N
+                        Sniper (-1): Sa,N,Sd,N,Sd,N,Sa,N
+                      Observer (5): Dd,Db,Da,Dd,Da,Db,Da,Sb
+               PriorityTargets (-1): Dc,Sb,N,Sa,N,N,N,N
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sd,N,Sc,N,Sb,N
+                        Sniper (-1): Sa,N,Sd,N,Sd,N,Sa,N
+                      Observer (1): Dd,Da,Db,Dd,Db,Da,Db,Sb
+               PriorityTargets (-1): Dc,Sb,N,Sa,N,N,N,N

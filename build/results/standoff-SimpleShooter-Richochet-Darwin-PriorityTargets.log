@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sd,N,N,N,N
+                     Richochet (-1): Sc,N,Sa,N,Sd,N,N
+                        Darwin (1): Sb,N,Sa,N,Sb,N,Sd
+               PriorityTargets (-1): Da,Sa,N,Sb,N,Sc,N
+Standoff 1
+                 SimpleShooter (1): Sb,N,Sd,N,Sd,N,Sd
+                     Richochet (-1): Sd,N,Sc,N,N,N,N
+                        Darwin (-1): Sb,N,Sb,N,Sa,N,N
+               PriorityTargets (-1): Db,Sc,N,Sa,N,Sc,N
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sb,N,N,N
+                     Richochet (-1): Sd,N,Sa,N,Sc,N
+                        Darwin (-1): Sd,N,Sa,N,Sb,N
+               PriorityTargets (3): Db,Sa,N,Sc,N,Sb

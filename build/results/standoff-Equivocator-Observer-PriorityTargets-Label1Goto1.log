@@ -1,0 +1,15 @@
+Standoff 0
+                   Equivocator (-4): Sd,N,Sd,N
+                      Observer (2): Dc,Sa,N,Sd
+               PriorityTargets (0): Dd,Sa,N,Sa
+                   Label1Goto1 (-5): Da,P,Sc,N
+Standoff 1
+                   Equivocator (-2): Sb,N,Sb,N
+                      Observer (-1): Dd,Sa,N,N
+               PriorityTargets (2): Dd,Sa,N,P
+                   Label1Goto1 (-1): Dc,P,Sb,N
+Standoff 2
+                   Equivocator (-2): Sc,N,Sc,N
+                      Observer (2): Da,Sa,N,Sd
+               PriorityTargets (-1): Dd,Sa,N,N
+                   Label1Goto1 (-3): Da,P,Sc,N

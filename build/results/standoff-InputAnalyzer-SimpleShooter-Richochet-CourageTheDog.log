@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-7): N,Sd,N,Dc,Dd,N,Dd,P,Sd
+                 SimpleShooter (-2): Sd,N,Sc,N,Sc,N,Sc,N,Sa
+                     Richochet (-1): Sa,N,Sb,N,Sd,N,Sb,N,N
+                 CourageTheDog (-1): Sa,N,Dc,Db,Da,N,N,N,N
+Standoff 1
+                 InputAnalyzer (-1): N,Sb,N,N,N,N,N,N,N,N,N
+                 SimpleShooter (-1): Sa,N,Sa,N,Sd,N,Sc,N,Sd,N,Sc
+                     Richochet (-1): Sd,N,Sd,N,Sb,N,Sd,N,Sd,N,Sb
+                 CourageTheDog (-1): Sc,N,Dc,Sa,N,Db,Dc,Dc,Db,N,N
+Standoff 2
+                 InputAnalyzer (-10): N,Sc,N,P,Sc
+                 SimpleShooter (-3): Sc,N,Sd,N,Sa
+                     Richochet (-7): Sb,N,Sd,N,Sa
+                 CourageTheDog (-6): Sa,N,Dc,Dc,P

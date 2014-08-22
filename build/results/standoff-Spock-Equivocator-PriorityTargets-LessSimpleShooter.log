@@ -1,0 +1,15 @@
+Standoff 0
+                         Spock (1): Sb,N,Sb,N,Sb
+                   Equivocator (-1): Sd,N,Sd,N,Sd
+               PriorityTargets (-1): Db,Sa,N,Sa,N
+             LessSimpleShooter (-1): Sc,N,Sc,N,Sc
+Standoff 1
+                         Spock (-1): Sc,N,Sc,N,Sb
+                   Equivocator (-1): Sa,N,Sc,N,Sa
+               PriorityTargets (-3): Db,Sb,N,N,N
+             LessSimpleShooter (5): Sa,N,Sc,N,Sb
+Standoff 2
+                         Spock (1): Sd,N,Sd,N,Sd
+                   Equivocator (-1): Sc,N,Sc,N,Sc
+               PriorityTargets (-1): Dd,Sa,N,Sa,N
+             LessSimpleShooter (-1): Sb,N,Sb,N,Sb

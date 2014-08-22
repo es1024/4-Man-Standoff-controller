@@ -1,0 +1,15 @@
+Standoff 0
+                     Grenadier (2): P,Tb
+                 InputAnalyzer (-3): N,Da
+                 SimpleShooter (0): Sd,N
+             LessSimpleShooter (0): Sc,N
+Standoff 1
+                     Grenadier (-2): P,Tc,N
+                 InputAnalyzer (0): N,Da,Sc
+                 SimpleShooter (-3): Sa,N,N
+             LessSimpleShooter (2): Sa,N,Sb
+Standoff 2
+                     Grenadier (-6): P,Td,P
+                 InputAnalyzer (-2): N,Da,N
+                 SimpleShooter (-1): Sb,N,Sa
+             LessSimpleShooter (-3): Sb,N,N

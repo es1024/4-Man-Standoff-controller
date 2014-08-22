@@ -1,0 +1,15 @@
+Standoff 0
+      PoliticallyCorrectGunman (2): Sd,N,N
+                      Rule0Bot (0): N,N,Sd
+                   Equivocator (0): Sd,N,Sb
+                   Label1Goto1 (-7): Db,P,Sc
+Standoff 1
+      PoliticallyCorrectGunman (-2): N,Sa,N,N
+                      Rule0Bot (2): N,N,N,N
+                   Equivocator (0): Sa,N,Sd,N
+                   Label1Goto1 (-3): Db,P,Sc,N
+Standoff 2
+      PoliticallyCorrectGunman (0): N,N,Dc,Sb,N
+                      Rule0Bot (-4): N,N,Sd,N,N
+                   Equivocator (2): Sb,N,Sa,N,Sa
+                   Label1Goto1 (-3): Db,P,Sb,N,N

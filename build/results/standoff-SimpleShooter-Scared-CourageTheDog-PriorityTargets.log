@@ -1,0 +1,15 @@
+Standoff 0
+                 SimpleShooter (-1): Sd,N,Sd,N,Sc,N,N
+                        Scared (-1): Sc,N,Sd,N,Sc,N,Sc
+                 CourageTheDog (-1): Sa,N,Sa,N,Da,Dd,Sb
+               PriorityTargets (1): Da,Sb,N,Sb,N,Sa,N
+Standoff 1
+                 SimpleShooter (1): Sb,N,Sb,N,Sb,N,Sd
+                        Scared (-1): Sa,N,Sd,N,Sa,N,N
+                 CourageTheDog (-1): Sd,N,Da,Da,Db,Da,N
+               PriorityTargets (-1): Db,Sc,N,Sc,N,Sc,N
+Standoff 2
+                 SimpleShooter (-1): Sc,N,Sb,N,Sb,N,Sc,N
+                        Scared (-1): Sc,N,Sd,N,Sa,N,N,N
+                 CourageTheDog (1): Sd,N,Sd,N,Sb,N,Da,Sa
+               PriorityTargets (-1): Da,Sa,N,N,N,N,N,N

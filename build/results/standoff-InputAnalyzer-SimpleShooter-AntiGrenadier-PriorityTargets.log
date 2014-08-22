@@ -1,0 +1,15 @@
+Standoff 0
+                 InputAnalyzer (-5): N,Sc,N,Sd,N,P,Dc,N
+                 SimpleShooter (-2): Sd,N,Sa,N,Sc,N,Sd,N
+                 AntiGrenadier (-2): N,N,N,N,N,N,Sa,N
+               PriorityTargets (-1): Dc,Sb,N,Sa,N,Sb,N,N
+Standoff 1
+                 InputAnalyzer (-5): N,Sd,N,P,Dc,N
+                 SimpleShooter (-2): Sa,N,Sc,N,Sa,N
+                 AntiGrenadier (-2): N,N,N,N,Sa,N
+               PriorityTargets (0): Db,Sb,N,Sb,N,Sc
+Standoff 2
+                 InputAnalyzer (-5): N,P,Dd,Sd
+                 SimpleShooter (0): Sc,N,Sa,N
+                 AntiGrenadier (-2): N,N,Sa,N
+               PriorityTargets (0): Da,Sb,N,Sc
