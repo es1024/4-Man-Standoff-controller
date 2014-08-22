@@ -6,7 +6,7 @@ def HasGrenade(player):
   max_range = max(-4,-current_turn)
   for foo in range(-1,max_range,-1):
     if "P" in player[1].split(",")[foo]:
-      for bar in range(-1,foo,-1):
+      for bar in range(-1,foo-1,-1):
         if player[1].split(",")[bar] not in ["T0", "T1", "T2", "T3"]:
           return True
   return False
@@ -78,7 +78,7 @@ def Endgame(turn):
       for player in target_list:
         if IsTarget(player, target_health):
           target = player[0]
-          target_health = player[1][1]
+          target_health = int(player[1][1])
 
       action = "T" + str(target)
       return

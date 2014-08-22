@@ -17,10 +17,14 @@ alive = filter(lambda p:players[p]["health"]>0,others)
 def act():
     if turn is 1:
         return "S%d" % choice(alive)
-    if "P" in players[me]["history"][-3:]:
-        return "T%d" % choice(alive)
+    if "P" == players[me]["history"][-1]:
+        targets = set(alive)
+        for i in alive:
+            if "P" == players[i]["history"][-2]:
+                targets.remove(i)
+        return "T%d" % choice(list(targets))
     for i in others:
-        if players[i]["last"] is "P":
+        if players[i]["history"][-1] is "P":
             return "P"
     if choice([True,False,False]):
         return "S%d" % choice(alive)

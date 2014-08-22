@@ -12,7 +12,9 @@
 standoff::standoff(): entries{}, initialized(false) {}
 
 standoff::standoff(entry *e1, entry *e2, entry *e3, entry *e4):
-	entries{e1,e2,e3,e4}, initialized(true) {}
+	entries{e1,e2,e3,e4}, initialized(true) {
+	name = std::string("results/standoff-") + entries[0]->get_name() + "-" + entries[1]->get_name() + "-" + entries[2]->get_name() + "-" + entries[3]->get_name() + ".log";
+}
 
 void standoff::operator()(int which){
 	int health[4]={STARTING_HEALTH,STARTING_HEALTH,STARTING_HEALTH,STARTING_HEALTH};
@@ -119,11 +121,13 @@ void standoff::operator()(int which){
 	
 	// log entire standoff - commented out because total size of logs scales terribly with more players
 	std::ofstream log;
-	std::string logfile = "results/" + std::string("standoff-") + entries[0]->get_name() + "-" + entries[1]->get_name() + "-" + entries[2]->get_name() + "-" + entries[3]->get_name() + ".log";
-	log.open(logfile, std::ofstream::out | std::ofstream::app);
+	log.open(name, std::ofstream::out | std::ofstream::app);
 	log << "Standoff " << std::to_string(which) + '\n';
 	do4 log << std::setw(30) << entries[i]->get_name() << " (" << health[i] << "): " << mvs[i].substr(1) << '\n';
 	log.close();
 }
 
 bool standoff::is_initialized() const { return initialized; }
+
+const char *standoff::log_name() const { return name.c_str(); }
+

@@ -1,10 +1,13 @@
 #ifndef STANDOFF_H
 #define STANDOFF_H
 
+#include <string>
+
 class entry;
 class standoff{
 	entry *entries[4];
 	bool initialized;
+	std::string name;
 	public:
 		int id;
 		
@@ -12,6 +15,8 @@ class standoff{
 		standoff(entry *e1, entry *e2, entry *e3, entry *e4);
 		void operator()(int which);
 		bool is_initialized() const;
+		
+		const char *log_name() const;
 		
 		const int SHOOT_DAMAGE =   2, // damage done by shooting
 				 SELF_SHOOT_HP =   2, // damage done by shooting self is (currenthp+SELF_SHOOT_HP)

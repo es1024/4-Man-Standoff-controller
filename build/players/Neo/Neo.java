@@ -14,7 +14,7 @@ public class Neo {
         }
         int target=0;
         for(int i=1;i<4;i++)
-            if(list[i].charAt(0)!='-' && list[i].charAt(list[i].length()-2)!='S')
+            if(list[i].length()<2 || (list[i].charAt(0)!='-' && list[i].charAt(list[i].length()-2)!='S'))
                 target=i;
         if(target>0){
             System.out.print("D"+target);

@@ -1,7 +1,7 @@
 turns = arg[2]
 health = string.sub(turns, 1, 1)
 --make random numbers random
-math.randomseed(os.time())
+math.randomseed(io.popen("date +%s%N"):read("*all"))
 math.random(); math.random(); math.random()
 function Split(str, delim, maxNb)
     -- Eliminate bad cases...
@@ -35,7 +35,7 @@ if #enemies[1] == 1 then
 end
 --kills if possible
 for enemy=1,3 do
-  if tonumber(string.sub(enemies[enemy + 1],1,1)) < 3 and tonumber(string.sub(enemies[enemy + 1],1,1)) > 0 then
+  if (tonumber(string.sub(enemies[enemy + 1],1,1)) or 0) < 3 and string.sub(enemies[enemy + 1],1,1) ~= "-" then
     print(string.format("S%i",enemy))
     os.exit()
   end
@@ -50,7 +50,7 @@ end
 --otherwise shoot a random alive person
 local aliveEnemies = {}
 for enemy=1,3 do
-  if tonumber(string.sub(enemies[enemy + 1],1,1)) > 0 then
+  if string.sub(enemies[enemy + 1],1,1) ~= "-" then
     aliveEnemies[#aliveEnemies+1]=enemy
   end
 end

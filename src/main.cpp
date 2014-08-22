@@ -29,20 +29,35 @@ const char *entry_info[] = {
 	"Zaenille",						"",			"./players/Zaenille/Zaenille",
 	"Monkey",						"python",	"./players/Monkey/monkey.py",
 	"TwentyFourthsAndAHalfCentury",	"python",	"./players/TwentyFourthsAndAHalfCentury/TwentyFourthsAndAHalfCentury.py",
-	"Bomberman",					"Rscript",	"./players/Bomberman/Bomberman.R",
+	"Bomberman",					"",	"./players/Bomberman/Bomberman.sh",
 	"EmoCowboy",					"python",	"./players/EmoCowboy/EmoCowboy.py",
 	"Ninja",						"lua",		"./players/Ninja/ninja.lua",
 	"AntiGrenadier",				"lua",		"./players/AntiGrenadier/AntiGrenadier.lua",
 	"Rule0Bot",						"python2",	"./players/Rule0Bot/rule0bot.py",
 	"Sniper",						"lua",		"./players/Sniper/Sniper.lua",
-	// not used - compile error
-//	"TakeEmWithMe",					"vb??",		"./players/TakeEmWithMe/TakeEmWithMe.vb",
 	"Scared",						"python",	"./players/Scared/scared.py",
 	"Neo",							"java",		"Neo",
-	"CourageTheDog",				"python2",	"./players/CourageTheDog/CourageTheDog.py"
+	"CourageTheDog",				"python2",	"./players/CourageTheDog/CourageTheDog.py",
+	"ManipulativeBastard",			"python2",	"./players/ManipulativeBastard/ManipulativeBastard.py",
+	"Osama",						"",			"./players/Osama/osama",
+	"Darwin",						"python",	"./players/Darwin/Darwin.py",
+	"Equivocator",					"lua",			"./players/Equivocator/Equivocator.lua",
+	"Observer",						"java",		"Observer",
+	"BiasedOne",					"java",		"BiasedOne",
+	"Hippolyta",					"",			"./players/Hippolyta/Hippolyta",
+	"PriorityTargets",				"ruby",		"./players/PriorityTargets/PriorityTargets.rb",
+	"MAD",							"java",		"MAD",
+	"Sadist",					"python2",	"./players/Sadist/Sadist.py",
+//	"SolidSnake",					"java",		"SolidSnake",
+	"MuhammadAli",					"java",		"MuhammadAli",
+	"LateBoomer",					"ruby",		"./players/LateBoomer/LateBoomer.rb",
+	"Label1Goto1",					"python",	"./players/Label1Goto1/Label1Goto1.py",
+	"LessSimpleShooter",			"",	"./players/LessSimpleShooter/LessSimpleShooter.pl",
+	// not used - compile error
+//	"TakeEmWithMe",					"vb??",		"./players/TakeEmWithMe/TakeEmWithMe.vb",
 };
 
-const int num_threads = 4;
+const int num_threads = 1;
 const int num_repeats = 3;
 const int num_entries = sizeof(entry_info)/sizeof(entry_info[0])/3;
 
@@ -83,23 +98,13 @@ int main(int argc, char **argv){
 //	process<standoff,num_threads,num_repeats>(p);
 //	while(p->num_jobs()) ;// sleep(2000);
 	delete p; // force join
-
-	// sort entries by score
-	std::sort(&entries[0], &entries[num_entries], [](const entry *lhs, const entry *rhs)->bool{
-		return lhs->get_score() > rhs->get_score();
-	});
-	
-	// number of games each player played: if there are n players, each player played (n-1)choose(4-1) * num_repeats games 
-	long double ngame = (num_entries-1)*(num_entries-2)*(num_entries-3)/(3*2*1) * num_repeats;
 	
 	// save score
 	std::ofstream scores;
-	scores.open("results/scoreboard.log");
+	scores.open("results/scoreboard-"+std::to_string(start)+"-"+std::to_string(end)+".log");
 	for(int i = 0; i < num_entries; ++i)
-		scores << std::setw(30) << entries[i]->get_name() << "  " << entries[i]->get_score()/ngame << std::endl;
+		scores << std::setw(30) << entries[i]->get_name() << "  " << entries[i]->get_score() << std::endl;
 	scores.close();
-	// laziness
-	system("echo Generated: `date \"+%Y/%m/%d %H:%M:%S.%N UTC\"` >> results/scoreboard.log"); 
 	
 	for(int i = 0; i < num_entries; ++i) delete entries[i];
 

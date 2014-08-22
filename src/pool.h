@@ -1,4 +1,4 @@
-
+	
 #ifndef POOL_H
 #define POOL_H
 
@@ -7,6 +7,7 @@
 #include <mutex>
 #include <vector>
 #include <algorithm>
+#include <unistd.h>
 
 template<class s, int n, int repeats>
 class pool;
@@ -15,7 +16,7 @@ template<class s, int n, int repeats>
 void process(pool<s,n,repeats> *p){
 	while(p->num_jobs() > 0){
 		s *temp = p->pop();
-		if(temp){
+		if(temp && access(temp->log_name(), F_OK) == -1){
 			for(int i = 0; i < repeats; ++i)
 				(*temp)(i);
 		}
